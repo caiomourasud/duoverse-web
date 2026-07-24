@@ -1,0 +1,656 @@
+{
+ "schema_version": 1,
+ "book": "hosea",
+ "chapters": {
+  "1": [
+   {
+    "id": "hosea-1-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "El matrimonio de un profeta como señal",
+    "text": "El matrimonio de Oseas con Gomer era, en sí mismo, un mensaje: la infidelidad de ella retrataba a Israel apartándose de Jehová, y los nombres de sus hijos se volvieron sermones vivos que toda la nación podía oír."
+   },
+   {
+    "id": "hosea-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Por qué mandó Jehová a Oseas poner por nombre Jezreel al primer hijo (Oseas 1:4)?",
+    "options": [
+     "Castigaría la sangre de Jezreel sobre la casa de Jehú",
+     "Era el valle favorito del rey",
+     "Gomer había nacido allí",
+     "Significaba paz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "porque grande será el día de {0}",
+    "blanks": [
+     "Jezreel"
+    ],
+    "distractors": [
+     "Judá",
+     "Israel",
+     "Egipto"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "hosea-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Oseas 2:5, ¿qué dijo la madre prostituta que le daban sus amantes?",
+    "options": [
+     "Su pan, agua, lana, lino, aceite y bebida",
+     "Reinos y coronas",
+     "Carros y caballos",
+     "Solo plata"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-2-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Dádivas atribuidas a Baal",
+    "text": "El versículo 8 es el corazón de la ofensa: el trigo, el vino, el aceite, la plata y el oro que el mismo Jehová dio fueron tomados y usados 'para Baal' — Israel agradeció a un ídolo por los dones de Dios."
+   },
+   {
+    "id": "hosea-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Oseas 2:9, ¿qué dijo Jehová que volvería a tomar?",
+    "options": [
+     "Su trigo y su vino, su lana y su lino",
+     "Sus hijos",
+     "Los muros de su ciudad",
+     "Su nombre"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "¿Qué dijo Jehová que haría cesar en Oseas 2:11?",
+    "options": [
+     "Sus guerras",
+     "Su gozo, sus fiestas, sus lunas nuevas y sus días de reposo",
+     "Sus cosechas",
+     "Su destierro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hosea-2-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "me llamarás {0}",
+    "blanks": [
+     "Ishi"
+    ],
+    "distractors": [
+     "Baali",
+     "Jezreel",
+     "Ammi"
+    ]
+   },
+   {
+    "id": "hosea-2-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "En Oseas 2:23, ¿qué promete Jehová decir a los que 'no eran mi pueblo'?",
+    "options": [
+     "Apartaos de mí",
+     "Pueblo mío eres tú",
+     "No os conozco",
+     "Volved a Egipto"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "hosea-3-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Comprada de vuelta por plata y cebada",
+    "text": "Oseas redime a su esposa por 'quince piezas de plata y un homer y medio de cebada' — un precio modesto que dramatiza cómo Jehová recompra a un pueblo que se había extraviado."
+   },
+   {
+    "id": "hosea-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué dice Oseas 3:5 que harán después los hijos de Israel?",
+    "options": [
+     "Volverán y buscarán a Jehová su Dios, y a David, su rey",
+     "Huirán a Egipto para siempre",
+     "Edificarán un nuevo templo a Baal",
+     "Escogerán un rey extranjero"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "hosea-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "La querella de Jehová",
+    "text": "Oseas 4 abre como un tribunal: Jehová 'contiende con los moradores de la tierra' — una acusación legal de que no hay 'verdad, ni misericordia ni conocimiento de Dios en la tierra'."
+   },
+   {
+    "id": "hosea-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Según Oseas 4:1, ¿qué tres cosas faltan en la tierra?",
+    "options": [
+     "Verdad, misericordia y conocimiento de Dios",
+     "Reyes, sacerdotes y profetas",
+     "Trigo, vino y aceite",
+     "Muros, puertas y torres"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Complete Oseas 4:6: 'Mi pueblo fue destruido porque le faltó ___.'",
+    "options": [
+     "conocimiento",
+     "agua",
+     "plata",
+     "pan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "¿Qué dice Oseas 4:11 que quita el juicio?",
+    "options": [
+     "Fornicación, y vino y mosto",
+     "El oro y la plata",
+     "La guerra y el hambre",
+     "Los ídolos de madera"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-4-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "En Oseas 4:17, ¿qué dice Jehová de Efraín, unido a ídolos?",
+    "options": [
+     "Castígalo ya",
+     "Déjalo",
+     "Envíale un profeta",
+     "Restáuralo pronto"
+    ],
+    "answer": 1
+   }
+  ],
+  "5": [
+   {
+    "id": "hosea-5-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Una acusación a sacerdotes, pueblo y rey",
+    "text": "Oseas 5 abre convocando a tres partes a la vez — los sacerdotes, la casa de Israel y la casa del rey — mostrando que el juicio venidero no perdonó a ningún nivel de la nación."
+   },
+   {
+    "id": "hosea-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Según Oseas 5:5, ¿quién tropezará juntamente con Israel y Efraín en su iniquidad?",
+    "options": [
+     "Judá",
+     "Egipto",
+     "Asiria",
+     "Moab"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-5-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Oseas 5:6, ¿qué sucede cuando andan con ovejas y vacas buscando a Jehová?",
+    "options": [
+     "Lo hallan enseguida",
+     "No le hallarán; se ha apartado de ellos",
+     "Reprende a los sacerdotes",
+     "Envía fuego"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hosea-5-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "En Oseas 5:13, ¿a dónde fue Efraín al ver su enfermedad?",
+    "options": [
+     "A Judá",
+     "Al templo",
+     "A Asiria, y envió al rey Jareb",
+     "A Egipto"
+    ],
+    "answer": 2
+   }
+  ],
+  "6": [
+   {
+    "id": "hosea-6-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "En Oseas 6:1, ¿por qué dice el pueblo que debe volver a Jehová?",
+    "options": [
+     "Él despedazó, y nos curará; hirió, y nos vendará",
+     "Ha olvidado su convenio",
+     "Ha dejado la tierra",
+     "Recompensa a los soberbios"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-6-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "Misericordia, no sacrificio",
+    "text": "Oseas 6:6 — 'misericordia quiero y no sacrificio' — es citado dos veces por Jesús en Mateo, enseñando que Dios aprecia un corazón compasivo más que meras ofrendas rituales."
+   },
+   {
+    "id": "hosea-6-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Complete Oseas 6:6: 'Misericordia quiero y no ___.'",
+    "options": [
+     "sacrificio",
+     "plata",
+     "alabanza",
+     "incienso"
+    ],
+    "answer": 0
+   }
+  ],
+  "7": [
+   {
+    "id": "hosea-7-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "El horno y el hornero",
+    "text": "Oseas compara repetidamente las pasiones inflamadas del pueblo al horno de un hornero — sus corazones mantenidos calientes de intriga y adulterio, ardiendo 'como llama de fuego' por la mañana."
+   },
+   {
+    "id": "hosea-7-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "En Oseas 7:3, ¿con qué alegran al rey?",
+    "options": [
+     "Con su maldad, y a los príncipes con sus mentiras",
+     "Con sus cosechas",
+     "Con sus oraciones",
+     "Con sus tratados"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-7-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "En Oseas 7:8, Efraín es comparado a una torta que es qué?",
+    "options": [
+     "No volteada",
+     "Recién horneada",
+     "Partida en dos",
+     "Bien leudada"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-7-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "En Oseas 7:11, ¿a qué dos naciones acude el pueblo de Efraín como paloma incauta?",
+    "options": [
+     "Moab y Edom",
+     "Babilonia y Persia",
+     "Tiro y Sidón",
+     "Egipto y Asiria"
+    ],
+    "answer": 3
+   }
+  ],
+  "8": [
+   {
+    "id": "hosea-8-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Pon a tu boca la trompeta",
+    "text": "El capítulo 8 comienza con una alarma: 'Pon a tu boca la trompeta.' El enemigo vendría 'como águila' contra la casa de Jehová, porque Israel había traspasado el convenio."
+   },
+   {
+    "id": "hosea-8-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "En Oseas 8:4, ¿qué hicieron de su plata y de su oro?",
+    "options": [
+     "Ídolos, para ser destruidos",
+     "Un gran templo",
+     "Coronas para el rey",
+     "Ofrendas de paz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-8-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Complete Oseas 8:7: 'Porque sembraron viento, ___ segarán.'",
+    "options": [
+     "torbellino",
+     "cosecha",
+     "hambre",
+     "fuego"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-8-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "En Oseas 8:5, ¿qué se dice del becerro de Samaria?",
+    "options": [
+     "Será deshecho en pedazos",
+     "Será coronado",
+     "Será llevado a Egipto",
+     "Los salvará"
+    ],
+    "answer": 0
+   }
+  ],
+  "9": [
+   {
+    "id": "hosea-9-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Sin alegría en la cosecha",
+    "text": "El capítulo 9 convierte la alegría de la era en duelo: porque Israel amó 'salario de ramera en todas las eras de trigo' — la fiesta pagana de la cosecha — la era y el lagar le fallarían."
+   },
+   {
+    "id": "hosea-9-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "En Oseas 9:3, ¿a dónde dice el profeta que volverá Efraín?",
+    "options": [
+     "A Egipto",
+     "A Jerusalén",
+     "Al desierto",
+     "A Babilonia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-9-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "En Oseas 9:7, ¿cómo se describe al profeta en aquel día del castigo?",
+    "options": [
+     "Un rey",
+     "Un necio",
+     "Un pastor",
+     "Un atalaya"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hosea-9-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "En Oseas 9:15, por causa de la maldad en Gilgal, ¿qué dice Jehová que hará?",
+    "options": [
+     "Los bendecirá",
+     "Los echará de su casa y no los amará más",
+     "Les enviará un profeta",
+     "Olvidará sus pecados"
+    ],
+    "answer": 1
+   }
+  ],
+  "10": [
+   {
+    "id": "hosea-10-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Una viña que da fruto para sí",
+    "text": "A Israel se le llama una viña que 'da fruto para sí': cuanto más prosperaba, más altares e ídolos construía — la abundancia alimentando la idolatría, y no la gratitud."
+   },
+   {
+    "id": "hosea-10-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Oseas 10:3, ¿qué dirá el pueblo, por no haber temido a Jehová?",
+    "options": [
+     "No tenemos rey",
+     "No tenemos pan",
+     "No tenemos tierra",
+     "No tenemos Dios"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-10-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "En Oseas 10:6, ¿a dónde será llevado el becerro como presente al rey Jareb?",
+    "options": [
+     "A Asiria",
+     "A Egipto",
+     "A Judá",
+     "A Babilonia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-10-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "En Oseas 10:13, ¿qué dice Jehová que segaron, habiendo arado maldad?",
+    "options": [
+     "Iniquidad",
+     "Trigo",
+     "Paz",
+     "Oro"
+    ],
+    "answer": 0
+   }
+  ],
+  "11": [
+   {
+    "id": "hosea-11-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Complete Oseas 11:1: 'Cuando Israel era niño, yo lo amé, y de ___ llamé a mi hijo.'",
+    "options": [
+     "Egipto",
+     "Asiria",
+     "Babilonia",
+     "Samaria"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-11-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Un padre que enseña a andar a su hijo",
+    "text": "El versículo 3 retrata a Jehová enseñando tiernamente a Efraín 'a andar', tomándolo por los brazos — una de las imágenes más íntimas de las escrituras, de Dios como un padre paciente y amoroso."
+   },
+   {
+    "id": "hosea-11-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "En Oseas 11:5, ¿quién dice el profeta que será rey de Israel, porque no quisieron volverse?",
+    "options": [
+     "El asirio",
+     "El egipcio",
+     "David",
+     "Un Baal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-11-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "En Oseas 11:9, ¿por qué dice Jehová que no ejecutará el furor de su ira?",
+    "options": [
+     "Porque Dios es, y no hombre; el Santo en medio de ti",
+     "Porque Israel se arrepintió",
+     "Porque los sacerdotes intercedieron",
+     "Porque el enemigo huyó"
+    ],
+    "answer": 0
+   }
+  ],
+  "12": [
+   {
+    "id": "hosea-12-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Jacob, que tomó el calcañar",
+    "text": "Oseas 12 vuelve al patriarca: Jacob 'en el vientre tomó por el calcañar a su hermano' y más tarde luchó y 'con su fuerza luchó con Dios' — un espejo alzado ante la nación su descendiente, Israel."
+   },
+   {
+    "id": "hosea-12-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Oseas 12:2, ¿con quién dice Jehová que tiene pleito?",
+    "options": [
+     "Judá",
+     "Egipto",
+     "Asiria",
+     "Edom"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-12-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Oseas 12:6, ¿qué exhorta el profeta al pueblo a hacer?",
+    "options": [
+     "Huir a Egipto",
+     "Convertirse a su Dios, guardar la misericordia y el juicio, y confiar en su Dios",
+     "Construir altares más altos",
+     "Hacer las paces con Asiria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hosea-12-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "En Oseas 12:13, ¿cómo hizo subir Jehová a Israel de Egipto?",
+    "options": [
+     "Por medio de un profeta",
+     "Por medio de un ejército",
+     "Por medio de un rey",
+     "Por medio de un mercader"
+    ],
+    "answer": 0
+   }
+  ],
+  "13": [
+   {
+    "id": "hosea-13-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Pasajero como la niebla de la mañana",
+    "text": "Oseas vuelve a una imagen preferida: los que confían en ídolos serán 'como la niebla de la mañana o como el rocío de la madrugada que se desvanece' — aquí también comparados al tamo y al humo de la chimenea."
+   },
+   {
+    "id": "hosea-13-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Oseas 13:4, ¿qué dice Jehová de sí mismo, desde la tierra de Egipto?",
+    "options": [
+     "No hay Salvador sino yo",
+     "Habita en Samaria",
+     "Es uno de muchos dioses",
+     "Olvidó a su pueblo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-13-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Oseas 13:8, ¿a qué animal, que ha perdido sus cachorros, se compara Jehová?",
+    "options": [
+     "Un cordero",
+     "Una paloma",
+     "Una osa",
+     "Un buey"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "hosea-13-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Complete Oseas 13:14: '¿Dónde están, oh muerte, tus ___?'",
+    "options": [
+     "plagas",
+     "ovejas",
+     "curaciones",
+     "siervas"
+    ],
+    "answer": 0
+   }
+  ],
+  "14": [
+   {
+    "id": "hosea-14-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cómo comienza Oseas 14:1 su llamado final a Israel?",
+    "options": [
+     "¡Vuélvete, oh Israel, a Jehová tu Dios!",
+     "¡Huye, oh Israel, a Egipto!",
+     "¡Busca, oh Israel, un rey!",
+     "¡Edifica, oh Israel, un altar!"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hosea-14-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Los amaré por mi propia voluntad",
+    "text": "El libro termina en la gracia: 'Yo los sanaré de su rebelión; los amaré por mi propia voluntad' — tras todo el juicio, la palabra final de Oseas es el amor gratuito e inmerecido de Jehová."
+   },
+   {
+    "id": "hosea-14-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "En Oseas 14:9, ¿qué se dice de los caminos de Jehová?",
+    "options": [
+     "Son rectos, y los justos andarán por ellos",
+     "Están ocultos",
+     "Son difíciles de hallar",
+     "Cambian con el tiempo"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

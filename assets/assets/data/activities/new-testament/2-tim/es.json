@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "book": "2-tim",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-tim-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Quién escribe esta carta y a quién va dirigida?",
+        "options": [
+          "Pablo a Timoteo",
+          "Pedro a Tito",
+          "Juan a Filemón",
+          "Santiago a Timoteo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "la cual habitó primero en tu abuela Loida y en tu madre {0}",
+        "blanks": [
+          "Eunice"
+        ],
+        "distractors": [
+          "Loida",
+          "Timoteo",
+          "Onesíforo"
+        ]
+      },
+      {
+        "id": "2-tim-1-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Avivar el don",
+        "text": "La palabra griega traducida por \"avivar\" evoca soplar una brasa para reavivar la llama; Pablo recuerda a Timoteo reencender el don espiritual que había recibido."
+      },
+      {
+        "id": "2-tim-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "No nos ha dado Dios espíritu de",
+            "right": "cobardía"
+          },
+          {
+            "left": "Sino de",
+            "right": "poder"
+          },
+          {
+            "left": "De",
+            "right": "amor"
+          },
+          {
+            "left": "Y de",
+            "right": "dominio propio"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "porque yo sé a quién he creído, y estoy seguro de que es {0} para guardar mi depósito para aquel día.",
+        "blanks": [
+          "poderoso"
+        ],
+        "distractors": [
+          "fiel",
+          "santo",
+          "manifestado"
+        ]
+      },
+      {
+        "id": "2-tim-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Por qué pide Pablo misericordia para la casa de Onesíforo?",
+        "options": [
+          "Porque muchas veces le trajo alivio y no se avergonzó de sus cadenas",
+          "Porque lo entregó a las autoridades",
+          "Porque lo enseñó en su juventud",
+          "Porque era su pariente"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "2-tim-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una carta de despedida",
+        "text": "2 Timoteo es la última carta conocida de Pablo, escrita desde una prisión en Roma. Sus palabras a Timoteo suenan como el consejo final de un maestro a su discípulo amado."
+      },
+      {
+        "id": "2-tim-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Tú, pues, soporta las aflicciones como fiel {0} de Jesucristo.",
+        "blanks": [
+          "soldado"
+        ],
+        "distractors": [
+          "labrador",
+          "obrero",
+          "siervo"
+        ]
+      },
+      {
+        "id": "2-tim-2-mp-6",
+        "type": "match_pairs",
+        "after_verse": 6,
+        "pairs": [
+          {
+            "left": "Soldado",
+            "right": "No se enreda en los asuntos de la vida"
+          },
+          {
+            "left": "Atleta",
+            "right": "Solo es coronado si compite legítimamente"
+          },
+          {
+            "left": "Labrador",
+            "right": "Trabaja y es el primero en recibir de los frutos"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según Pablo, aunque él sufre aflicciones y hasta prisiones, ¿qué no está preso?",
+        "options": [
+          "La palabra de Dios",
+          "El evangelio de los hombres",
+          "La ley de Moisés",
+          "La esperanza de David"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Según el versículo 13, aunque seamos infieles, ¿qué hace el Señor?",
+        "options": [
+          "Él permanece fiel",
+          "Él nos abandona",
+          "Él se niega a sí mismo",
+          "Él se olvida de nosotros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Procura con diligencia presentarte ante Dios aprobado, como obrero que no tiene de qué avergonzarse, que expone bien la palabra de {0}.",
+        "blanks": [
+          "verdad"
+        ],
+        "distractors": [
+          "gracia",
+          "fe",
+          "salvación"
+        ]
+      },
+      {
+        "id": "2-tim-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué sello tiene el firme fundamento de Dios, según el versículo 19?",
+        "options": [
+          "El Señor conoce a los que son suyos",
+          "La fe sin obras es muerta",
+          "Buscad primero el reino de Dios",
+          "El justo vivirá por la fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 22,
+        "template": "Huye también de las pasiones juveniles y sigue la justicia, la fe, el amor y la {0}, con los que invocan al Señor con un corazón puro.",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "gracia",
+          "gloria",
+          "verdad"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-tim-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La última carta de Pablo",
+        "text": "Segunda de Timoteo se considera la última carta conocida de Pablo, escrita desde una prisión en Roma poco antes de su muerte. Sus palabras sobre los 'postreros días' suenan como una advertencia final a un amado discípulo."
+      },
+      {
+        "id": "2-tim-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "teniendo apariencia de {0}, pero negando la eficacia de ella",
+        "blanks": [
+          "piedad"
+        ],
+        "distractors": [
+          "verdad",
+          "justicia",
+          "doctrina"
+        ]
+      },
+      {
+        "id": "2-tim-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿A quién dice Pablo que Janes y Jambres resistieron?",
+        "options": [
+          "Moisés",
+          "Elías",
+          "David",
+          "Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Ciudades donde Pablo sufrió persecuciones",
+            "right": "Antioquía, Iconio y Listra"
+          },
+          {
+            "left": "Quién libró a Pablo de todas ellas",
+            "right": "El Señor"
+          },
+          {
+            "left": "Cualidades que Timoteo siguió en Pablo",
+            "right": "Fe, amor y paciencia"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Toda Escritura es {0} por Dios y útil para enseñar",
+        "blanks": [
+          "inspirada"
+        ],
+        "distractors": [
+          "corregida",
+          "guardada",
+          "enseñada"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "2-tim-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "que prediques la {0}, que instes a tiempo y fuera de tiempo",
+        "blanks": [
+          "palabra"
+        ],
+        "distractors": [
+          "doctrina",
+          "verdad",
+          "fe"
+        ]
+      },
+      {
+        "id": "2-tim-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Comezón de oír",
+        "text": "Pablo advierte que muchos, en vez de soportar la sana doctrina, juntarán maestros que digan lo que quieren oír y se volverán a las fábulas — una imagen vívida de quien elige la comodidad en lugar de la verdad."
+      },
+      {
+        "id": "2-tim-4-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "He peleado",
+            "right": "la buena batalla"
+          },
+          {
+            "left": "He acabado",
+            "right": "la carrera"
+          },
+          {
+            "left": "He guardado",
+            "right": "la fe"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Según Pablo, ¿quién era el único que estaba con él?",
+        "options": [
+          "Lucas",
+          "Marcos",
+          "Demas",
+          "Tito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-4-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Quién desamparó a Pablo por amar este mundo?",
+        "options": [
+          "Demas",
+          "Crescente",
+          "Tito",
+          "Tíquico"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-4-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "y así fui librado de la boca del {0}",
+        "blanks": [
+          "león"
+        ],
+        "distractors": [
+          "lobo",
+          "enemigo",
+          "juez"
+        ]
+      }
+    ]
+  }
+}

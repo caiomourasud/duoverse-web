@@ -1,0 +1,745 @@
+{
+ "schema_version": 1,
+ "book": "zech",
+ "chapters": {
+  "1": [
+   {
+    "id": "zech-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O avô de um profeta",
+    "text": "Zacarias é apresentado como 'filho de Berequias, filho de Ido' — um caso raro de profeta cujo avô é nomeado. Ido era sacerdote, de modo que Zacarias era de linhagem sacerdotal."
+   },
+   {
+    "id": "zech-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que apelo repetido o Senhor faz em Zacarias 1:3?",
+    "options": [
+     "'Voltai-vos para mim, e voltar-me-ei para vós'",
+     "'Não temais, porque eu estou convosco'",
+     "'Edificai o templo'",
+     "'Clama em alta voz, não te detenhas'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zech-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Na primeira visão noturna, sobre o que estava montado o homem entre as murtas (Zacarias 1:8)?",
+    "options": [
+     "Uma nuvem branca",
+     "Um cavalo vermelho",
+     "Um carro de fogo",
+     "Um trono de ouro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-1-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "a minha casa nela será edificada",
+    "blanks": [
+     "casa"
+    ],
+    "distractors": [
+     "templo",
+     "trono",
+     "morada"
+    ]
+   },
+   {
+    "id": "zech-1-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "O que os quatro artesãos vieram fazer aos quatro chifres (Zacarias 1:21)?",
+    "options": [
+     "Coroá-los",
+     "Contá-los",
+     "Meter-lhes medo e derrubá-los",
+     "Pô-los sobre o altar"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "zech-2-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Uma cidade sem muros",
+    "text": "O homem vai medir Jerusalém, mas a visão promete que ela será 'habitada como as aldeias sem muros' — tão vasta e segura que muro nenhum poderia contê-la, guardada pelo próprio Deus."
+   },
+   {
+    "id": "zech-2-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "serei para ela um muro de {0} em redor",
+    "blanks": [
+     "fogo"
+    ],
+    "distractors": [
+     "pedra",
+     "ferro",
+     "nuvem"
+    ]
+   },
+   {
+    "id": "zech-2-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Zacarias 2:8, como o Senhor chama aquele que toca no seu povo?",
+    "options": [
+     "Um ladrão na noite",
+     "A menina do seu olho",
+     "Uma pedra de tropeço",
+     "Um vaso quebrado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Como Zacarias 2:13 diz que toda a carne deve responder diante do Senhor?",
+    "options": [
+     "Cantar em alta voz",
+     "Fugir para os montes",
+     "Calar-se",
+     "Trazer dádivas"
+    ],
+    "answer": 2
+   }
+  ],
+  "3": [
+   {
+    "id": "zech-3-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Zacarias 3:4, o que o anjo faz com os trajes sujos de Josué?",
+    "options": [
+     "Queima-os sobre o altar",
+     "Fá-los passar dele e o veste de trajes novos",
+     "Lava-os no rio",
+     "Pendura-os como memorial"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-3-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "O servo chamado o Renovo",
+    "text": "O versículo 8 anuncia o servo de Deus 'o Renovo' — título messiânico ao qual Zacarias volta em 6:12. A imagem é de um rebento que brota da linhagem caída de Davi, apontando para o Messias."
+   },
+   {
+    "id": "zech-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Zacarias 3:10, debaixo de quais duas árvores cada um convidará o seu próximo?",
+    "options": [
+     "O cedro e a palmeira",
+     "O carvalho e o terebinto",
+     "A videira e a figueira",
+     "A oliveira e a murta"
+    ],
+    "answer": 2
+   }
+  ],
+  "4": [
+   {
+    "id": "zech-4-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Um candelabro de ouro puro",
+    "text": "O candelabro 'todo de ouro' com sete lâmpadas evoca a menorá do tabernáculo. Aqui simboliza a presença e o Espírito de Deus iluminando o templo reconstruído."
+   },
+   {
+    "id": "zech-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Quando o anjo pergunta se Zacarias sabe o que a visão significa, o que ele responde (Zacarias 4:5)?",
+    "options": [
+     "'Sim, senhor meu'",
+     "'Não, senhor meu'",
+     "'É o templo'",
+     "'É o Renovo'"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-4-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "quem despreza o dia das coisas {0}",
+    "blanks": [
+     "pequenas"
+    ],
+    "distractors": [
+     "grandes",
+     "santas",
+     "passadas"
+    ]
+   },
+   {
+    "id": "zech-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Quem se diz serem as duas oliveiras em Zacarias 4:14?",
+    "options": [
+     "As duas testemunhas",
+     "Os dois profetas de outrora",
+     "Os dois ungidos que estão diante do Senhor",
+     "Os dois reis de Judá"
+    ],
+    "answer": 2
+   }
+  ],
+  "5": [
+   {
+    "id": "zech-5-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um rolo volante",
+    "text": "A sexta visão é um enorme rolo volante, de vinte côvados de comprimento — cerca do tamanho do lugar santo do tabernáculo. Ele leva uma maldição contra os ladrões e os que juram falsamente."
+   },
+   {
+    "id": "zech-5-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Segundo Zacarias 5:4, a maldição entra na casa do ladrão e na de quem?",
+    "options": [
+     "O idólatra",
+     "O que jurar falsamente pelo nome de Deus",
+     "O assassino",
+     "O opressor do pobre"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-5-mp-11",
+    "type": "match_pairs",
+    "after_verse": 11,
+    "pairs": [
+     {
+      "left": "O rolo volante",
+      "right": "Uma maldição sobre toda a terra"
+     },
+     {
+      "left": "A mulher no efa",
+      "right": "A iniquidade"
+     },
+     {
+      "left": "A terra de Sinear",
+      "right": "Para onde o efa foi levado"
+     }
+    ]
+   }
+  ],
+  "6": [
+   {
+    "id": "zech-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "O que o anjo diz que são os quatro carros em Zacarias 6:5?",
+    "options": [
+     "Os quatro reis do oriente",
+     "Os quatro espíritos do céu",
+     "As quatro estações",
+     "Os quatro rios do Éden"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-6-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Toma dos que foram levados {0}",
+    "blanks": [
+     "cativos"
+    ],
+    "distractors": [
+     "sacerdotes",
+     "reis",
+     "servos"
+    ]
+   },
+   {
+    "id": "zech-6-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Zacarias 6:12, qual é o nome do homem que edificará o templo do Senhor?",
+    "options": [
+     "O Renovo",
+     "O Ungido",
+     "O Príncipe",
+     "O Libertador"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zech-6-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Rei e sacerdote num só",
+    "text": "O versículo 13 diz que o Renovo 'será sacerdote no seu trono', unindo rei e sacerdote — ofícios normalmente separados em Israel. Aponta para o Messias, que preenche ambos os papéis."
+   }
+  ],
+  "7": [
+   {
+    "id": "zech-7-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Jejum por uma cidade caída",
+    "text": "O povo pergunta se deve continuar a chorar e jejuar no quinto mês — o mês em que Jerusalém e o seu templo haviam sido queimados pela Babilônia décadas antes. O Senhor questiona se tais jejuns foram alguma vez por ele."
+   },
+   {
+    "id": "zech-7-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Zacarias 7:5-6, o Senhor pergunta se o povo jejuou e comeu para quem?",
+    "options": [
+     "Para os sacerdotes",
+     "Para si mesmos, não para ele",
+     "Para os pobres",
+     "Para as nações"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-7-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "A quem Zacarias 7:10 ordena que o povo não oprima?",
+    "options": [
+     "Os reis e príncipes",
+     "Os mercadores e negociantes",
+     "A viúva, o órfão, o estrangeiro e o pobre",
+     "Os profetas e sacerdotes"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-7-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "E os espalhei com {0} entre todas as nações",
+    "blanks": [
+     "tempestade"
+    ],
+    "distractors": [
+     "fome",
+     "espada",
+     "peste"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "id": "zech-8-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "as ruas da cidade se encherão de meninos e {0}",
+    "blanks": [
+     "meninas"
+    ],
+    "distractors": [
+     "estrangeiros",
+     "soldados",
+     "anciãos"
+    ]
+   },
+   {
+    "id": "zech-8-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Zacarias 8:3, como Jerusalém será chamada quando o Senhor voltar?",
+    "options": [
+     "A cidade de refúgio",
+     "A cidade da verdade",
+     "A cidade de ouro",
+     "A cidade dos reis"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-8-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Zacarias 8:13, o Senhor diz que, assim como Judá e Israel foram maldição entre as nações, ele os fará ser o quê?",
+    "options": [
+     "Uma maravilha",
+     "Um provérbio",
+     "Uma bênção",
+     "Um remanescente"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-8-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Segundo Zacarias 8:19, os jejuns se tornarão regozijo, alegria e o quê para a casa de Judá?",
+    "options": [
+     "Festividades solenes",
+     "Longas jornadas",
+     "Novas leis",
+     "Vigílias silenciosas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zech-8-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Em Zacarias 8:23, dez homens pegam na orla das vestes de um judeu, dizendo que irão com ele porque ouviram o quê?",
+    "options": [
+     "Que ele é rico",
+     "Que o templo foi reconstruído",
+     "Que Deus está com ele",
+     "Que ele é profeta"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-8-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "A velhice como bênção",
+    "text": "A visão de velhos e velhas sentados nas ruas, cada um com o bordão 'por causa da sua muita idade', era em si uma promessa de paz: só uma cidade livre da guerra e da fome poderia envelhecer."
+   }
+  ],
+  "9": [
+   {
+    "id": "zech-9-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Zacarias 9:3-4, Tiro amontoou prata e ouro, mas o Senhor diz que ela será consumida por quê?",
+    "options": [
+     "Um dilúvio",
+     "Fogo",
+     "A espada",
+     "Gafanhotos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-9-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Em Zacarias 9:8, o Senhor diz que se acampará ao redor da sua casa para que não passe mais sobre eles quem?",
+    "options": [
+     "O mercador",
+     "O profeta",
+     "O opressor",
+     "O estrangeiro"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-9-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "ele anunciará {0} às nações",
+    "blanks": [
+     "paz"
+    ],
+    "distractors": [
+     "verdade",
+     "juízo",
+     "misericórdia"
+    ]
+   },
+   {
+    "id": "zech-9-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Zacarias 9:9, como o Rei vem à filha de Sião?",
+    "options": [
+     "Em carros de fogo",
+     "Com um grande exército",
+     "Humilde, e montado sobre um jumento",
+     "Coroado de ouro"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-9-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "O Rei sobre um jumento",
+    "text": "'O teu rei virá a ti... humilde, e montado sobre um jumento' (v. 9) cumpriu-se quando Jesus entrou em Jerusalém no Domingo de Ramos — um rei de paz, não num cavalo de guerra."
+   }
+  ],
+  "10": [
+   {
+    "id": "zech-10-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Sem pastor, sem chuva",
+    "text": "O capítulo abre contrastando os ídolos e adivinhos — que 'consolam em vão' — com o Senhor, que dá chuva verdadeira. Sem o verdadeiro pastor, o povo vagava 'como ovelhas', sem quem o guiasse."
+   },
+   {
+    "id": "zech-10-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Em Zacarias 10:6-7, quais casas o Senhor promete fortalecer e salvar?",
+    "options": [
+     "Egito e Assíria",
+     "Tiro e Sidom",
+     "Judá e José",
+     "Moabe e Edom"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-10-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "andarão no seu {0}",
+    "blanks": [
+     "nome"
+    ],
+    "distractors": [
+     "poder",
+     "caminho",
+     "átrio"
+    ]
+   }
+  ],
+  "11": [
+   {
+    "id": "zech-11-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Zacarias 11:4-5, as ovelhas da matança são vendidas por donos que dizem o quê?",
+    "options": [
+     "'Somos pobres'",
+     "'Louvado seja o Senhor, porque enriqueci'",
+     "'O Senhor vingará'",
+     "'Deixai-as ir livres'"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-11-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quais eram os nomes das duas varas que o pastor tomou em Zacarias 11:7?",
+    "options": [
+     "Misericórdia e Verdade",
+     "Lei e Graça",
+     "Graça e União",
+     "Paz e Justiça"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-11-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "E pesaram o meu salário, trinta moedas de {0}",
+    "blanks": [
+     "prata"
+    ],
+    "distractors": [
+     "ouro",
+     "bronze",
+     "ferro"
+    ]
+   },
+   {
+    "id": "zech-11-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Zacarias 11:17 pronuncia ai sobre que tipo de pastor?",
+    "options": [
+     "O pastor inútil, que abandona o rebanho",
+     "O pastor assalariado",
+     "O pastor jovem",
+     "O pastor errante"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zech-11-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Trinta moedas de prata",
+    "text": "O salário do pastor — trinta moedas de prata, arrojadas ao oleiro na casa do Senhor (vv. 12-13) — ecoa no Novo Testamento como o preço pago a Judas por trair Jesus."
+   }
+  ],
+  "12": [
+   {
+    "id": "zech-12-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "A minha força são os habitantes de {0}",
+    "blanks": [
+     "Jerusalém"
+    ],
+    "distractors": [
+     "Sião",
+     "Judá",
+     "Betel"
+    ]
+   },
+   {
+    "id": "zech-12-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Zacarias 12:10, o Senhor derrama o Espírito de graça, e o povo olha para quem?",
+    "options": [
+     "Aquele a quem transpassaram",
+     "O anjo do Senhor",
+     "A casa de Davi",
+     "O profeta"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zech-12-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Segundo Zacarias 12:12, como a terra pranteará?",
+    "options": [
+     "Com trombetas e canto",
+     "Cada família à parte",
+     "Nos átrios do templo",
+     "Sobre os montes"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-12-cur-10",
+    "type": "curiosity",
+    "after_verse": 10,
+    "title": "A quem transpassaram",
+    "text": "'Olharão para mim, a quem transpassaram; e prantearão por ele' (v. 10) é aplicado no Evangelho de João à crucificação de Jesus, quando um soldado lhe transpassou o lado."
+   }
+  ],
+  "13": [
+   {
+    "id": "zech-13-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Uma fonte para purificação",
+    "text": "O capítulo abre com 'uma fonte aberta... contra o pecado, e contra a imundície' (v. 1). Leitores cristãos há muito veem nela uma imagem da purificação oferecida pelo Messias."
+   },
+   {
+    "id": "zech-13-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Zacarias 13:5, como o homem nega ser profeta?",
+    "options": [
+     "'Sou sacerdote'",
+     "'Sou rei'",
+     "'Não sou profeta, lavrador sou da terra'",
+     "'Sou estrangeiro aqui'"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-13-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Zacarias 13:9, como o Senhor refina a terceira parte que resta?",
+    "options": [
+     "Como se purifica a prata, e prova como o ouro",
+     "Como se debulha o trigo",
+     "Como se coze um vaso",
+     "Como se lavra um campo"
+    ],
+    "answer": 0
+   }
+  ],
+  "14": [
+   {
+    "id": "zech-14-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Zacarias 14:4, sobre que monte estarão os pés do Senhor naquele dia?",
+    "options": [
+     "O monte Sinai",
+     "O monte Sião",
+     "O monte das Oliveiras",
+     "O monte Carmelo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-14-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Segundo Zacarias 14:7, que coisa estranha acontecerá no cair da tarde naquele dia?",
+    "options": [
+     "O sol nascerá",
+     "Haverá luz",
+     "A lua cairá",
+     "Uma grande escuridão"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zech-14-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "fará consumir a carne, estando eles em {0}",
+    "blanks": [
+     "pé"
+    ],
+    "distractors": [
+     "muros",
+     "cavalos",
+     "espadas"
+    ]
+   },
+   {
+    "id": "zech-14-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Em Zacarias 14:9, sobre o que o Senhor será rei naquele dia?",
+    "options": [
+     "Só sobre Judá",
+     "Sobre Jerusalém",
+     "Sobre toda a terra",
+     "Sobre os mares"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zech-14-cur-20",
+    "type": "curiosity",
+    "after_verse": 20,
+    "title": "Santidade até nas campainhas dos cavalos",
+    "text": "O versículo 20 diz que 'Santidade ao Senhor' será inscrito até nas campainhas dos cavalos — imagem de um dia em que o comum e o cotidiano se tornam tão sagrados quanto os utensílios do templo."
+   },
+   {
+    "id": "zech-14-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Em Zacarias 14:21, o que não haverá mais na casa do Senhor dos Exércitos?",
+    "options": [
+     "Cananeu",
+     "Estrangeiro",
+     "Ídolo",
+     "Cambista"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

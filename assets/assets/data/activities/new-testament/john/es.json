@@ -1,0 +1,4321 @@
+{
+  "schema_version": 1,
+  "book": "john",
+  "chapters": {
+    "1": [
+      {
+        "id": "john-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El Verbo",
+        "text": "Juan abre su evangelio llamando a Jesús \"el Verbo\" (Logos), que ya estaba en el principio con Dios. Ningún otro evangelio comienza con la existencia premortal de Cristo."
+      },
+      {
+        "id": "john-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "En el principio era el {0}, y el Verbo estaba con Dios, y el Verbo era Dios.",
+        "blanks": [
+          "Verbo"
+        ],
+        "distractors": [
+          "Cordero",
+          "Espíritu",
+          "profeta"
+        ]
+      },
+      {
+        "id": "john-1-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según el versículo 5, ¿qué no hicieron las tinieblas con la luz?",
+        "options": [
+          "No la comprendieron",
+          "No la recibieron",
+          "No la conocieron",
+          "No la apagaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Aquel era la luz verdadera que alumbra a todo hombre que viene a este {0}.",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "templo",
+          "desierto",
+          "cielo"
+        ]
+      },
+      {
+        "id": "john-1-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Según el versículo 11, ¿cómo respondieron los suyos cuando él vino a los suyos?",
+        "options": [
+          "No le recibieron",
+          "Creyeron en él",
+          "Le siguieron",
+          "Le adoraron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Y el Verbo fue hecho {0} y habitó entre nosotros",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "luz",
+          "espíritu",
+          "verbo"
+        ]
+      },
+      {
+        "id": "john-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Según el versículo 17, ¿por medio de quién vinieron la gracia y la verdad?",
+        "options": [
+          "Jesucristo",
+          "Moisés",
+          "Juan",
+          "Elías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "sino que confesó: Yo no soy el {0}.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "profeta",
+          "Verbo",
+          "Señor"
+        ]
+      },
+      {
+        "id": "john-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Dijo: Yo soy la voz de uno que clama en el {0}",
+        "blanks": [
+          "desierto"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "mundo"
+        ]
+      },
+      {
+        "id": "john-1-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "La correa de la sandalia",
+        "text": "Desatar la sandalia ajena era tarea del siervo más humilde. Juan el Bautista declara no ser digno ni de eso ante aquel que venía después de él."
+      },
+      {
+        "id": "john-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "de quien yo no soy digno de desatar la correa de su {0}.",
+        "blanks": [
+          "sandalia"
+        ],
+        "distractors": [
+          "manto",
+          "mano",
+          "túnica"
+        ]
+      },
+      {
+        "id": "john-1-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Al ver a Jesús que venía a él, ¿cómo lo llamó Juan?",
+        "options": [
+          "El Cordero de Dios, que quita el pecado del mundo",
+          "El profeta de Israel",
+          "El Rey de los judíos",
+          "El Hijo del Hombre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Y yo le he visto y he dado testimonio de que este es el {0} de Dios.",
+        "blanks": [
+          "Hijo"
+        ],
+        "distractors": [
+          "Cordero",
+          "Verbo",
+          "siervo"
+        ]
+      },
+      {
+        "id": "john-1-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Vi al Espíritu que descendía del cielo como {0}, y que reposó sobre él.",
+        "blanks": [
+          "paloma"
+        ],
+        "distractors": [
+          "llama",
+          "nube",
+          "águila"
+        ]
+      },
+      {
+        "id": "john-1-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "dijo: ¡He aquí el {0} de Dios!",
+        "blanks": [
+          "Cordero"
+        ],
+        "distractors": [
+          "Hijo",
+          "Verbo",
+          "Rey"
+        ]
+      },
+      {
+        "id": "john-1-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Cuando Jesús preguntó \"¿Qué buscáis?\", ¿cómo lo llamaron los dos discípulos?",
+        "options": [
+          "Rabí (que quiere decir Maestro)",
+          "Señor",
+          "Profeta",
+          "Cordero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-mp-50",
+        "type": "match_pairs",
+        "after_verse": 50,
+        "pairs": [
+          {
+            "left": "Andrés",
+            "right": "Hermano de Simón Pedro, oyó a Juan y siguió a Jesús"
+          },
+          {
+            "left": "Simón",
+            "right": "Será llamado Cefas (piedra)"
+          },
+          {
+            "left": "Felipe",
+            "right": "Era de Betsaida, la ciudad de Andrés y de Pedro"
+          },
+          {
+            "left": "Natanael",
+            "right": "Preguntó si de Nazaret podía salir algo bueno"
+          }
+        ]
+      },
+      {
+        "id": "john-1-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "¿Qué le dijo Jesús a Natanael que vería?",
+        "options": [
+          "El cielo abierto y a los ángeles de Dios que ascienden y descienden sobre el Hijo del Hombre",
+          "El templo reconstruido en tres días",
+          "Fuego descender del cielo",
+          "El agua convertida en vino"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "john-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La primera señal",
+        "text": "Solo el Evangelio de Juan registra las bodas de Caná. Juan llama a los milagros de Jesús “señales”, porque cada una revela quién es él."
+      },
+      {
+        "id": "john-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "la madre de Jesús le dijo: No tienen {0}.",
+        "blanks": [
+          "vino"
+        ],
+        "distractors": [
+          "pan",
+          "agua",
+          "aceite"
+        ]
+      },
+      {
+        "id": "john-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Jesús les dijo: Llenad estas tinajas de {0}.",
+        "blanks": [
+          "agua"
+        ],
+        "distractors": [
+          "vino",
+          "aceite",
+          "leche"
+        ]
+      },
+      {
+        "id": "john-2-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Según el maestresala, ¿qué hizo el novio al revés de lo acostumbrado?",
+        "options": [
+          "Guardó el buen vino hasta ahora",
+          "Sirvió el vino sin agua",
+          "No invitó a los discípulos",
+          "Repartió el vino entre los pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-2-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Este principio de milagros hizo Jesús en {0} de Galilea",
+        "blanks": [
+          "Caná"
+        ],
+        "distractors": [
+          "Capernaúm",
+          "Jerusalén",
+          "Nazaret"
+        ]
+      },
+      {
+        "id": "john-2-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿A quiénes halló Jesús en el templo?",
+        "options": [
+          "A los que vendían bueyes, ovejas y palomas, y a los cambistas",
+          "A los sacerdotes que oraban",
+          "A los enfermos que esperaban sanidad",
+          "A los niños que cantaban"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-2-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "no hagáis de la casa de mi {0} casa de mercado!",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Señor",
+          "Maestro",
+          "Rey"
+        ]
+      },
+      {
+        "id": "john-2-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Destruid este templo, y en tres días lo {0}.",
+        "blanks": [
+          "levantaré"
+        ],
+        "distractors": [
+          "edificaré",
+          "derribaré",
+          "consagraré"
+        ]
+      },
+      {
+        "id": "john-2-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Cuando Jesús dijo que levantaría el templo en tres días, ¿de qué templo hablaba?",
+        "options": [
+          "Del templo de su cuerpo",
+          "Del templo de Jerusalén",
+          "Del templo de Salomón",
+          "Del tabernáculo de Moisés"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "john-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Quién era Nicodemo?",
+        "options": [
+          "Un fariseo, principal entre los judíos",
+          "Un pescador de Galilea",
+          "Un centurión romano",
+          "Un publicano de Capernaúm"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "el que no naciere de nuevo no puede ver el {0} de Dios",
+        "blanks": [
+          "reino"
+        ],
+        "distractors": [
+          "Hijo",
+          "Espíritu",
+          "testimonio"
+        ]
+      },
+      {
+        "id": "john-3-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Nacer de nuevo",
+        "text": "La conversación nocturna de Nicodemo con Jesús, que solo aparece en el Evangelio de Juan, es el origen de la famosa expresión \"nacer de nuevo\", el nuevo nacimiento del agua y del Espíritu."
+      },
+      {
+        "id": "john-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "El {0} sopla por donde quiere, y oyes su sonido",
+        "blanks": [
+          "viento"
+        ],
+        "distractors": [
+          "Espíritu",
+          "hombre",
+          "desierto"
+        ]
+      },
+      {
+        "id": "john-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Con qué compara Jesús al Hijo del Hombre que será levantado?",
+        "options": [
+          "Con la serpiente que Moisés levantó en el desierto",
+          "Con la luz que vino al mundo",
+          "Con el novio que tiene a la novia",
+          "Con el viento que sopla por donde quiere"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Porque de tal manera amó Dios al {0} que ha dado a su Hijo Unigénito",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "cielo",
+          "hombre",
+          "reino"
+        ]
+      },
+      {
+        "id": "john-3-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Según el versículo 19, ¿por qué amaron los hombres más las tinieblas que la luz?",
+        "options": [
+          "Porque sus obras eran malas",
+          "Porque no conocían a Moisés",
+          "Porque no habían nacido del agua",
+          "Porque la luz aún no había venido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Nicodemo",
+            "right": "Principal entre los judíos que vino de noche"
+          },
+          {
+            "left": "Juan",
+            "right": "Bautizaba en Enón, junto a Salim"
+          },
+          {
+            "left": "Moisés",
+            "right": "Levantó la serpiente en el desierto"
+          },
+          {
+            "left": "Jesús",
+            "right": "Bautizaba en la tierra de Judea"
+          }
+        ]
+      },
+      {
+        "id": "john-3-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Es necesario que él {0}, y que yo mengüe.",
+        "blanks": [
+          "crezca"
+        ],
+        "distractors": [
+          "reine",
+          "permanezca",
+          "testifique"
+        ]
+      },
+      {
+        "id": "john-3-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Según el versículo 36, ¿qué tiene el que cree en el Hijo?",
+        "options": [
+          "Vida eterna",
+          "La ira de Dios",
+          "El testimonio de Juan",
+          "El Espíritu por medida"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "john-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Por qué pasar por Samaria",
+        "text": "La mayoría de los judíos evitaba Samaria y rodeaba por el valle del Jordán. Decir que a Jesús \"era menester que pasase por Samaria\" sugiere un propósito mayor que el camino más corto."
+      },
+      {
+        "id": "john-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Llegó, pues, a una ciudad de Samaria que se llamaba {0}, junto a la heredad que Jacob dio a su hijo José.",
+        "blanks": [
+          "Sicar"
+        ],
+        "distractors": [
+          "Capernaúm",
+          "Caná",
+          "Jerusalén"
+        ]
+      },
+      {
+        "id": "john-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Dónde se sentó Jesús, cansado del camino?",
+        "options": [
+          "Junto al pozo de Jacob",
+          "A la puerta de la ciudad",
+          "En el monte Gerizim",
+          "Bajo una higuera"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Por qué se sorprendió la mujer de que Jesús le pidiera de beber?",
+        "options": [
+          "Porque los judíos no se tratan con los samaritanos",
+          "Porque ella no tenía agua",
+          "Porque el pozo estaba seco",
+          "Porque estaba prohibido hablar en el pozo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "tú le pedirías a él, y él te daría agua {0}.",
+        "blanks": [
+          "viva"
+        ],
+        "distractors": [
+          "fresca",
+          "pura",
+          "eterna"
+        ]
+      },
+      {
+        "id": "john-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "mas el que bebiere del agua que yo le daré no tendrá {0} jamás",
+        "blanks": [
+          "sed"
+        ],
+        "distractors": [
+          "hambre",
+          "miedo",
+          "sueño"
+        ]
+      },
+      {
+        "id": "john-4-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Cuántos maridos dijo Jesús que la mujer había tenido?",
+        "options": [
+          "Cinco",
+          "Tres",
+          "Dos",
+          "Siete"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Dios es {0}; y los que le adoran, es necesario que le adoren en espíritu y en verdad.",
+        "blanks": [
+          "Espíritu"
+        ],
+        "distractors": [
+          "amor",
+          "luz",
+          "verdad"
+        ]
+      },
+      {
+        "id": "john-4-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según Jesús, ¿de quién viene la salvación?",
+        "options": [
+          "De los judíos",
+          "De los samaritanos",
+          "De los profetas",
+          "De los fariseos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Jesús le dijo: Yo soy, el que habla {0}.",
+        "blanks": [
+          "contigo"
+        ],
+        "distractors": [
+          "con vosotros",
+          "aquí",
+          "ahora"
+        ]
+      },
+      {
+        "id": "john-4-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Qué dijo la mujer a los hombres de la ciudad sobre Jesús?",
+        "options": [
+          "Que le dijo todo lo que ella había hecho",
+          "Que sanó a un enfermo",
+          "Que convirtió el agua en vino",
+          "Que anduvo sobre el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Jesús les dijo: Mi {0} es que haga la voluntad del que me envió y que acabe su obra.",
+        "blanks": [
+          "comida"
+        ],
+        "distractors": [
+          "gozo",
+          "obra",
+          "gloria"
+        ]
+      },
+      {
+        "id": "john-4-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Cómo describió Jesús los campos al hablar de la siega?",
+        "options": [
+          "Ya están blancos para la siega",
+          "Están verdes",
+          "Están secos",
+          "Están en flor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-mp-42",
+        "type": "match_pairs",
+        "after_verse": 42,
+        "pairs": [
+          {
+            "left": "Samaritanos",
+            "right": "Creyeron en él por la palabra de la mujer"
+          },
+          {
+            "left": "Dos días",
+            "right": "Tiempo que Jesús se quedó con ellos"
+          },
+          {
+            "left": "Salvador del mundo",
+            "right": "Cómo lo reconocieron"
+          }
+        ]
+      },
+      {
+        "id": "john-4-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "¿Cómo llamaron los samaritanos a Jesús después de oírlo ellos mismos?",
+        "options": [
+          "El Salvador del mundo",
+          "Un gran profeta",
+          "El hijo de José",
+          "El rey de los judíos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Porque Jesús mismo dio testimonio de que un {0} no tiene honra en su propia tierra.",
+        "blanks": [
+          "profeta"
+        ],
+        "distractors": [
+          "maestro",
+          "rey",
+          "siervo"
+        ]
+      },
+      {
+        "id": "john-4-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿Dónde estaba enfermo el hijo del oficial del rey?",
+        "options": [
+          "En Capernaúm",
+          "En Caná",
+          "En Sicar",
+          "En Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "Jesús le dijo: Ve, tu hijo {0}.",
+        "blanks": [
+          "vive"
+        ],
+        "distractors": [
+          "muere",
+          "duerme",
+          "creyó"
+        ]
+      },
+      {
+        "id": "john-4-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "¿A qué hora dejó la fiebre al hijo del oficial?",
+        "options": [
+          "A la hora séptima",
+          "A la hora sexta",
+          "A la hora tercera",
+          "A la hora novena"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "john-5-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Y había allí un hombre que hacía {0} y ocho años que estaba enfermo.",
+        "blanks": [
+          "treinta"
+        ],
+        "distractors": [
+          "veinte",
+          "cuarenta",
+          "cincuenta"
+        ]
+      },
+      {
+        "id": "john-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué le preguntó Jesús al hombre enfermo en el estanque?",
+        "options": [
+          "¿Quieres ser sano?",
+          "¿Crees en mí?",
+          "¿Dónde está tu fe?",
+          "¿Quién te puso aquí?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "El estanque de Betesda",
+        "text": "Betesda estaba junto a la puerta de las ovejas y tenía cinco pórticos. Allí una multitud de enfermos esperaba el movimiento del agua, creyendo que el primero en descender tras agitarse quedaría sano."
+      },
+      {
+        "id": "john-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Le dijo Jesús: Levántate, toma tu {0} y anda.",
+        "blanks": [
+          "lecho"
+        ],
+        "distractors": [
+          "manto",
+          "vara",
+          "red"
+        ]
+      },
+      {
+        "id": "john-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Por qué perseguían los judíos a Jesús?",
+        "options": [
+          "Porque hacía estas cosas en el día de reposo",
+          "Porque entraba en el templo",
+          "Porque comía con pecadores",
+          "Porque no ayunaba"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "decía que Dios era su propio Padre, haciéndose igual a {0}.",
+        "blanks": [
+          "Dios"
+        ],
+        "distractors": [
+          "Moisés",
+          "Elías",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "john-5-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "El Padre",
+            "right": "Ama al Hijo y le muestra todas las cosas"
+          },
+          {
+            "left": "El Hijo",
+            "right": "No puede hacer nada por sí mismo"
+          },
+          {
+            "left": "Los muertos",
+            "right": "Son levantados y reciben vida"
+          },
+          {
+            "left": "Todo el juicio",
+            "right": "Ha sido dado al Hijo"
+          }
+        ]
+      },
+      {
+        "id": "john-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "y los que hicieron el bien saldrán a resurrección de {0}, mas los que hicieron el mal, a resurrección de condenación.",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "gloria",
+          "luz",
+          "paz"
+        ]
+      },
+      {
+        "id": "john-5-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Cómo describió Jesús a Juan, que dio testimonio de la verdad?",
+        "options": [
+          "Una antorcha que ardía y alumbraba",
+          "El Cordero de Dios",
+          "La voz que clama en el desierto",
+          "El amigo del novio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Nunca habéis oído su {0}, ni habéis visto su aspecto",
+        "blanks": [
+          "voz"
+        ],
+        "distractors": [
+          "palabra",
+          "obra",
+          "gloria"
+        ]
+      },
+      {
+        "id": "john-5-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿De quién dijo Jesús que había escrito acerca de él?",
+        "options": [
+          "Moisés",
+          "Isaías",
+          "David",
+          "Abraham"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "john-6-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Dos nombres, un solo mar",
+        "text": "Juan lo llama \"mar de Galilea\" y \"mar de Tiberias\". Tiberias era una ciudad que Herodes Antipas construyó en la orilla occidental, y el lago tomó ese segundo nombre de sabor romano."
+      },
+      {
+        "id": "john-6-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "dijo a Felipe: ¿De dónde compraremos {0} para que coman estos?",
+        "blanks": [
+          "pan"
+        ],
+        "distractors": [
+          "peces",
+          "maná",
+          "cebada"
+        ]
+      },
+      {
+        "id": "john-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Por qué preguntó Jesús a Felipe dónde comprar pan?",
+        "options": [
+          "Para probarle, pues él sabía lo que iba a hacer",
+          "Porque no conocía el camino",
+          "Porque los discípulos tenían hambre",
+          "Para enviar a Felipe a la ciudad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Aquí hay un muchacho que tiene cinco panes de cebada y dos {0}; pero, ¿qué es esto para tantos?",
+        "blanks": [
+          "pescados"
+        ],
+        "distractors": [
+          "denarios",
+          "cestas",
+          "corderos"
+        ]
+      },
+      {
+        "id": "john-6-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Cuántos hombres, aproximadamente, se recostaron a comer?",
+        "options": [
+          "Como cinco mil",
+          "Como dos mil",
+          "Como trescientos",
+          "Como doce mil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Cinco panes de cebada",
+            "right": "El pan que trajo el muchacho"
+          },
+          {
+            "left": "Dos pescados",
+            "right": "Repartidos con los panes"
+          },
+          {
+            "left": "Doce cestas",
+            "right": "Pedazos que sobraron"
+          },
+          {
+            "left": "Cinco mil",
+            "right": "Número de hombres que comieron"
+          }
+        ]
+      },
+      {
+        "id": "john-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Verdaderamente este es el {0} que había de venir al mundo.",
+        "blanks": [
+          "profeta"
+        ],
+        "distractors": [
+          "rey",
+          "pastor",
+          "maestro"
+        ]
+      },
+      {
+        "id": "john-6-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Rechazar una corona",
+        "text": "La gente quería apoderarse de Jesús para hacerle rey. Él se retiró solo al monte, rechazando un trono terrenal fundado en una comida gratuita."
+      },
+      {
+        "id": "john-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Mas él les dijo: ¡Yo soy; no {0}!",
+        "blanks": [
+          "temáis"
+        ],
+        "distractors": [
+          "lloréis",
+          "dudéis",
+          "murmuréis"
+        ]
+      },
+      {
+        "id": "john-6-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué vieron los discípulos mientras remaban en el mar agitado?",
+        "options": [
+          "A Jesús andando sobre el mar",
+          "Una gran luz en el cielo",
+          "Otra barca hundiéndose",
+          "Un ángel sobre el agua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Por qué dijo Jesús que la gente lo buscaba?",
+        "options": [
+          "Porque comieron el pan y se saciaron",
+          "Porque lo vieron andar sobre el mar",
+          "Porque querían ser sanados",
+          "Porque los escribas lo mandaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Trabajad, no por la comida que perece, sino por la comida que permanece para vida {0}",
+        "blanks": [
+          "eterna"
+        ],
+        "distractors": [
+          "celestial",
+          "divina",
+          "abundante"
+        ]
+      },
+      {
+        "id": "john-6-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Esta es la obra de Dios: que {0} en el que él ha enviado.",
+        "blanks": [
+          "creáis"
+        ],
+        "distractors": [
+          "esperéis",
+          "oigáis",
+          "andéis"
+        ]
+      },
+      {
+        "id": "john-6-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Pan del cielo",
+        "text": "El pueblo recuerda el maná que sus padres comieron en el desierto. Jesús responde que no fue Moisés, sino el Padre, quien da el verdadero pan del cielo."
+      },
+      {
+        "id": "john-6-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Porque el pan de Dios es aquel que descendió del {0} y da vida al mundo.",
+        "blanks": [
+          "cielo"
+        ],
+        "distractors": [
+          "monte",
+          "Egipto",
+          "templo"
+        ]
+      },
+      {
+        "id": "john-6-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Qué declaró Jesús ser en el versículo 35?",
+        "options": [
+          "El pan de vida",
+          "La luz del mundo",
+          "El buen pastor",
+          "La vid verdadera"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "¿Qué promete la voluntad del Padre a los que ven al Hijo y creen?",
+        "options": [
+          "Vida eterna, resucitados en el día postrero",
+          "Pan que nunca se acaba",
+          "Un trono en Jerusalén",
+          "Liberación de todo trabajo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "¿No es este Jesús, el hijo de {0}, cuyo padre y madre nosotros conocemos?",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "David",
+          "Simón",
+          "Jonás"
+        ]
+      },
+      {
+        "id": "john-6-cur-43",
+        "type": "curiosity",
+        "after_verse": 43,
+        "title": "Murmurando entre sí",
+        "text": "Los judíos tropezaron porque conocían a la familia terrenal de Jesús. Conociendo al hijo de José, no aceptaban su afirmación de haber descendido del cielo."
+      },
+      {
+        "id": "john-6-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Ninguno puede venir a mí si el {0} que me envió no le trajere",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Espíritu",
+          "profeta",
+          "Hijo"
+        ]
+      },
+      {
+        "id": "john-6-mc-47",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "En el versículo 47, ¿qué promete Jesús al que cree en él?",
+        "options": [
+          "Vida eterna",
+          "El pan de cada día",
+          "Un reino",
+          "Descanso del trabajo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "y el pan que yo daré es mi {0}, la cual yo daré por la vida del mundo.",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "sangre",
+          "vida",
+          "alma"
+        ]
+      },
+      {
+        "id": "john-6-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 53,
+        "question": "¿Cómo reaccionaron los judíos cuando Jesús dijo que daría su carne?",
+        "options": [
+          "Contendían entre sí",
+          "Creyeron al instante",
+          "Tomaron piedras",
+          "Guardaron silencio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "Porque mi carne verdaderamente es comida, y mi {0} verdaderamente es bebida.",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "pan",
+          "vino",
+          "espíritu"
+        ]
+      },
+      {
+        "id": "john-6-cur-58",
+        "type": "curiosity",
+        "after_verse": 58,
+        "title": "El maná que no salvaba",
+        "text": "Jesús se contrasta con el maná: los padres lo comieron y murieron, pero él es el pan vivo, y quien coma de este pan vivirá eternamente."
+      },
+      {
+        "id": "john-6-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "Estas cosas dijo en la {0}, enseñando en Capernaúm.",
+        "blanks": [
+          "sinagoga"
+        ],
+        "distractors": [
+          "montaña",
+          "ciudad",
+          "plaza"
+        ]
+      },
+      {
+        "id": "john-6-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "{0} es esta palabra",
+        "blanks": [
+          "Dura"
+        ],
+        "distractors": [
+          "Extraña",
+          "Nueva",
+          "Vana"
+        ]
+      },
+      {
+        "id": "john-6-fb-63",
+        "type": "fill_blank",
+        "after_verse": 63,
+        "verse": 63,
+        "template": "El {0} es el que da vida; la carne para nada aprovecha",
+        "blanks": [
+          "espíritu"
+        ],
+        "distractors": [
+          "pan",
+          "Padre",
+          "verbo"
+        ]
+      },
+      {
+        "id": "john-6-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "¿Qué hicieron muchos de sus discípulos tras la dura palabra?",
+        "options": [
+          "Volvieron atrás y ya no andaban con él",
+          "Tomaron piedras contra él",
+          "Confesaron que era el Cristo",
+          "Le siguieron a la barca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-68",
+        "type": "fill_blank",
+        "after_verse": 68,
+        "verse": 68,
+        "template": "Señor, ¿a quién iremos? Tú tienes palabras de vida {0}.",
+        "blanks": [
+          "eterna"
+        ],
+        "distractors": [
+          "verdadera",
+          "celestial",
+          "abundante"
+        ]
+      },
+      {
+        "id": "john-6-mc-71",
+        "type": "multiple_choice",
+        "after_verse": 71,
+        "question": "¿De quién hablaba Jesús como el que le entregaría?",
+        "options": [
+          "Judas Iscariote hijo de Simón",
+          "Simón Pedro",
+          "Andrés",
+          "Felipe"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "john-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La fiesta de los tabernáculos",
+        "text": "La fiesta de los tabernáculos celebraba la cosecha y la peregrinación de Israel por el desierto. Su ceremonia de sacar agua es el trasfondo del clamor posterior de Jesús: \"Si alguno tiene sed, venga a mí y beba.\""
+      },
+      {
+        "id": "john-7-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según el versículo 5, ¿cuál era la actitud de los propios hermanos de Jesús hacia él?",
+        "options": [
+          "Ni aun sus hermanos creían en él",
+          "Creían plenamente en él",
+          "Procuraban matarle",
+          "Le seguían en secreto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Entonces Jesús les dijo: Mi {0} aún no ha llegado, mas vuestro tiempo siempre está presto.",
+        "blanks": [
+          "tiempo"
+        ],
+        "distractors": [
+          "reino",
+          "templo",
+          "camino"
+        ]
+      },
+      {
+        "id": "john-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "pues unos decían: Él es bueno; pero otros decían: No, sino que engaña a la {0}.",
+        "blanks": [
+          "gente"
+        ],
+        "distractors": [
+          "ley",
+          "fiesta",
+          "Escritura"
+        ]
+      },
+      {
+        "id": "john-7-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Según el versículo 15, ¿de qué se maravillaban los judíos acerca de Jesús?",
+        "options": [
+          "Cómo sabía de letras sin haber estudiado",
+          "Cómo sanaba en el día de reposo",
+          "Cómo multiplicaba los panes",
+          "Cómo andaba sobre el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Jesús les respondió y dijo: Mi {0} no es mía, sino de aquel que me envió.",
+        "blanks": [
+          "doctrina"
+        ],
+        "distractors": [
+          "gloria",
+          "obra",
+          "justicia"
+        ]
+      },
+      {
+        "id": "john-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "No juzguéis según las {0}, sino juzgad con justo juicio.",
+        "blanks": [
+          "apariencias"
+        ],
+        "distractors": [
+          "obras",
+          "leyes",
+          "palabras"
+        ]
+      },
+      {
+        "id": "john-7-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Unos de Jerusalén",
+            "right": "Preguntan si no es a este al que buscan para matarlo"
+          },
+          {
+            "left": "Los gobernantes",
+            "right": "¿Habrán reconocido que este es el Cristo?"
+          },
+          {
+            "left": "Jesús",
+            "right": "Habla públicamente y no le dicen nada"
+          }
+        ]
+      },
+      {
+        "id": "john-7-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "mas ninguno le echó mano, porque aún no había llegado su {0}.",
+        "blanks": [
+          "hora"
+        ],
+        "distractors": [
+          "fiesta",
+          "gloria",
+          "obra"
+        ]
+      },
+      {
+        "id": "john-7-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Según el versículo 32, ¿quién envió guardias para prender a Jesús?",
+        "options": [
+          "Los principales sacerdotes y los fariseos",
+          "Los hermanos de Jesús",
+          "La gente de Jerusalén",
+          "Los griegos dispersos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Jesús se puso de pie y alzó la voz, diciendo: Si alguno tiene {0}, venga a mí y beba.",
+        "blanks": [
+          "sed"
+        ],
+        "distractors": [
+          "hambre",
+          "miedo",
+          "fe"
+        ]
+      },
+      {
+        "id": "john-7-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "Ríos de agua viva",
+        "text": "Juan explica que al hablar de \"ríos de agua viva\", Jesús se refería al Espíritu, que aún no se había dado porque Jesús aún no había sido glorificado."
+      },
+      {
+        "id": "john-7-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "Según el versículo 42, ¿de qué aldea dice la Escritura que vendría el Cristo?",
+        "options": [
+          "Belén",
+          "Galilea",
+          "Nazaret",
+          "Capernaúm"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Los guardias respondieron: ¡Nunca ha {0} hombre alguno así como este hombre!",
+        "blanks": [
+          "hablado"
+        ],
+        "distractors": [
+          "enseñado",
+          "creído",
+          "clamado"
+        ]
+      },
+      {
+        "id": "john-7-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Según el versículo 50, ¿quién defendió que la ley no juzga a nadie sin antes oírle?",
+        "options": [
+          "Nicodemo",
+          "Moisés",
+          "David",
+          "Los guardias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "Escudriña y ve que de Galilea nunca se ha levantado {0}.",
+        "blanks": [
+          "profeta"
+        ],
+        "distractors": [
+          "hombre",
+          "discípulo",
+          "sacerdote"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "john-8-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Enseñando en el templo",
+        "text": "Por la mañana Jesús volvió al templo y, sentado, enseñaba al pueblo. Sentarse para enseñar era la postura habitual de un maestro en aquel tiempo."
+      },
+      {
+        "id": "john-8-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según los escribas y fariseos, ¿qué mandó Moisés en la ley para tales mujeres?",
+        "options": [
+          "Apedrearlas",
+          "Expulsarlas del templo",
+          "Pagar un tributo",
+          "Entregarlas a los romanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "El que de entre vosotros esté sin {0} sea el primero en arrojar la piedra contra ella.",
+        "blanks": [
+          "pecado"
+        ],
+        "distractors": [
+          "culpa",
+          "mancha",
+          "temor"
+        ]
+      },
+      {
+        "id": "john-8-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Entonces Jesús le dijo: Ni yo te condeno; vete, y no {0} más.",
+        "blanks": [
+          "peques"
+        ],
+        "distractors": [
+          "temas",
+          "llores",
+          "dudes"
+        ]
+      },
+      {
+        "id": "john-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Yo soy la {0} del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida.",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "verdad",
+          "vida",
+          "puerta"
+        ]
+      },
+      {
+        "id": "john-8-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Según vuestra ley, ¿el testimonio de cuántos hombres es verdadero?",
+        "options": [
+          "Dos",
+          "Tres",
+          "Siete",
+          "Doce"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Yo soy la luz",
+            "right": "del mundo"
+          },
+          {
+            "left": "Vosotros juzgáis",
+            "right": "según la carne"
+          },
+          {
+            "left": "El Padre que",
+            "right": "me envió"
+          },
+          {
+            "left": "En el lugar de las ofrendas",
+            "right": "enseñando en el templo"
+          }
+        ]
+      },
+      {
+        "id": "john-8-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Vosotros sois de abajo; yo soy de arriba; vosotros sois de este mundo; yo no soy de este {0}.",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "templo",
+          "pueblo",
+          "lugar"
+        ]
+      },
+      {
+        "id": "john-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Jesús dijo que nada hace por sí mismo, sino que habla así como ¿quién le enseñó?",
+        "options": [
+          "El Padre",
+          "Los fariseos",
+          "Moisés",
+          "Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "y conoceréis la verdad, y la {0} os hará libres.",
+        "blanks": [
+          "verdad"
+        ],
+        "distractors": [
+          "palabra",
+          "luz",
+          "ley"
+        ]
+      },
+      {
+        "id": "john-8-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "Si fuerais hijos de Abraham, las {0} de Abraham haríais.",
+        "blanks": [
+          "obras"
+        ],
+        "distractors": [
+          "palabras",
+          "promesas",
+          "leyes"
+        ]
+      },
+      {
+        "id": "john-8-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "El padre de la mentira",
+        "text": "Jesús llama al diablo homicida desde el principio y \"padre de la mentira\", diciendo que no hay verdad en él. Es una de las descripciones más directas del adversario en todo el Nuevo Testamento."
+      },
+      {
+        "id": "john-8-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "¿Qué acusación lanzaron los judíos contra Jesús en el versículo 48?",
+        "options": [
+          "Que era samaritano y tenía demonio",
+          "Que blasfemaba el templo",
+          "Que violaba el sábado",
+          "Que era amigo de los romanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "el que guarda mi palabra no verá la {0} jamás.",
+        "blanks": [
+          "muerte"
+        ],
+        "distractors": [
+          "dolor",
+          "gloria",
+          "ley"
+        ]
+      },
+      {
+        "id": "john-8-mc-53",
+        "type": "multiple_choice",
+        "after_verse": 53,
+        "question": "¿De quién preguntaron los judíos si Jesús se hacía mayor?",
+        "options": [
+          "De su padre Abraham",
+          "De Moisés el legislador",
+          "Del rey David",
+          "De Juan el Bautista"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-56",
+        "type": "fill_blank",
+        "after_verse": 56,
+        "verse": 56,
+        "template": "Abraham, vuestro padre, se regocijó de que vería mi {0}; y lo vio y se regocijó.",
+        "blanks": [
+          "día"
+        ],
+        "distractors": [
+          "gloria",
+          "reino",
+          "hora"
+        ]
+      },
+      {
+        "id": "john-8-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "¿Qué declaró Jesús sobre sí mismo en el versículo 58?",
+        "options": [
+          "Antes que Abraham fuese, yo soy",
+          "Soy mayor que Moisés",
+          "Vi morir a los profetas",
+          "Tengo más de cincuenta años"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "john-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "¿Quién pecó?",
+        "text": "Los discípulos suponían que toda enfermedad era castigo por algún pecado. Jesús rechaza esa idea: la ceguera no era un castigo, sino la ocasión para que las obras de Dios se manifestaran."
+      },
+      {
+        "id": "john-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "sino que fue para que las {0} de Dios se manifestasen en él.",
+        "blanks": [
+          "obras"
+        ],
+        "distractors": [
+          "palabras",
+          "glorias",
+          "tinieblas"
+        ]
+      },
+      {
+        "id": "john-9-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según el versículo 5, ¿cómo se describe Jesús mientras está en el mundo?",
+        "options": [
+          "Luz del mundo",
+          "Pan de vida",
+          "Buen pastor",
+          "Puerta de las ovejas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "escupió en tierra, e hizo lodo con la {0}, y untó con el lodo los ojos del ciego",
+        "blanks": [
+          "saliva"
+        ],
+        "distractors": [
+          "agua",
+          "tierra",
+          "ceniza"
+        ]
+      },
+      {
+        "id": "john-9-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Ve, lávate en el estanque de {0} (que significa Enviado).",
+        "blanks": [
+          "Siloé"
+        ],
+        "distractors": [
+          "Betesda",
+          "Jordán",
+          "Enón"
+        ]
+      },
+      {
+        "id": "john-9-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "En el versículo 11, ¿cómo describe el hombre lo que Jesús hizo con sus ojos?",
+        "options": [
+          "Hizo lodo y me untó los ojos",
+          "Puso sus manos sobre mis ojos",
+          "Habló, y mis ojos fueron abiertos",
+          "Tocó mis ojos con agua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Y era el día de {0} cuando Jesús había hecho el lodo y le había abierto los ojos.",
+        "blanks": [
+          "reposo"
+        ],
+        "distractors": [
+          "fiesta",
+          "pascua",
+          "ayuno"
+        ]
+      },
+      {
+        "id": "john-9-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Cuando le preguntaron de nuevo qué decía del que le abrió los ojos, ¿qué dijo el ciego?",
+        "options": [
+          "Que es profeta",
+          "Que es pecador",
+          "Que es el Cristo",
+          "Que no lo sabe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según el versículo 22, ¿por qué tenían miedo a los judíos los padres del hombre?",
+        "options": [
+          "Confesar que Jesús era el Cristo significaba ser expulsado de la sinagoga",
+          "Trabajar en el día de reposo significaba ser apedreado",
+          "Entrar en el templo significaba ser arrestado",
+          "Sanar en el día de reposo significaba ser condenado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "una cosa sé, que habiendo yo sido ciego, ahora {0}.",
+        "blanks": [
+          "veo"
+        ],
+        "distractors": [
+          "creo",
+          "ando",
+          "oigo"
+        ]
+      },
+      {
+        "id": "john-9-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Discípulos de Moisés",
+        "text": "Al insultar al hombre sanado, los líderes se declaran \"discípulos de Moisés\". Para ellos, seguir a Moisés y seguir a Jesús parecían incompatibles, aunque Jesús afirmaba que el propio Moisés escribió acerca de él."
+      },
+      {
+        "id": "john-9-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Desde el principio nunca se ha oído decir que alguno haya abierto los ojos de uno que nació {0}.",
+        "blanks": [
+          "ciego"
+        ],
+        "distractors": [
+          "muerto",
+          "cojo",
+          "mudo"
+        ]
+      },
+      {
+        "id": "john-9-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Cómo respondieron los líderes al hombre sanado en el versículo 34?",
+        "options": [
+          "Le echaron fuera",
+          "Le apedrearon",
+          "Le creyeron",
+          "Callaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Y él dijo: Creo, Señor; y le {0}.",
+        "blanks": [
+          "adoró"
+        ],
+        "distractors": [
+          "siguió",
+          "dejó",
+          "oyó"
+        ]
+      },
+      {
+        "id": "john-9-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Ciego de nacimiento",
+            "right": "Recobra la vista y adora a Jesús"
+          },
+          {
+            "left": "Siloé",
+            "right": "Estanque cuyo nombre significa Enviado"
+          },
+          {
+            "left": "Fariseos",
+            "right": "Dicen ver, pero su pecado permanece"
+          },
+          {
+            "left": "Padres del hombre",
+            "right": "Temen ser expulsados de la sinagoga"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "john-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El redil de las ovejas",
+        "text": "En tiempos de Jesús varias familias guardaban sus rebaños en un mismo redil amurallado, con una sola puerta vigilada por un portero. Quien subía por otra parte era tenido por ladrón."
+      },
+      {
+        "id": "john-10-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ese es ladrón y {0}.",
+        "blanks": [
+          "salteador"
+        ],
+        "distractors": [
+          "asalariado",
+          "pastor",
+          "extraño"
+        ]
+      },
+      {
+        "id": "john-10-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según el versículo 3, ¿cómo llama el pastor a sus ovejas?",
+        "options": [
+          "Por nombre",
+          "Con un cayado",
+          "Con un silbido",
+          "Por la puerta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "En el versículo 7, ¿qué declara Jesús ser?",
+        "options": [
+          "La puerta de las ovejas",
+          "El redil de las ovejas",
+          "El portero de las ovejas",
+          "El lobo de las ovejas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Yo he venido para que tengan vida, y para que la tengan en {0}.",
+        "blanks": [
+          "abundancia"
+        ],
+        "distractors": [
+          "verdad",
+          "paz",
+          "gloria"
+        ]
+      },
+      {
+        "id": "john-10-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Yo soy el buen pastor; el buen pastor da su vida por las {0}.",
+        "blanks": [
+          "ovejas"
+        ],
+        "distractors": [
+          "obras",
+          "palabras",
+          "almas"
+        ]
+      },
+      {
+        "id": "john-10-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Buen pastor",
+            "right": "Da su vida por las ovejas"
+          },
+          {
+            "left": "Asalariado",
+            "right": "Huye y deja las ovejas"
+          },
+          {
+            "left": "Lobo",
+            "right": "Arrebata y dispersa las ovejas"
+          },
+          {
+            "left": "Ladrón",
+            "right": "Viene para hurtar y matar"
+          }
+        ]
+      },
+      {
+        "id": "john-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "a aquellas también debo traer, y oirán mi voz, y habrá un rebaño y un {0}.",
+        "blanks": [
+          "pastor"
+        ],
+        "distractors": [
+          "redil",
+          "portero",
+          "aprisco"
+        ]
+      },
+      {
+        "id": "john-10-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "¿Puede el demonio abrir los ojos de los ciegos?",
+        "text": "Las palabras de Jesús volvieron a dividir a los judíos: unos decían que tenía demonio y estaba fuera de sí, mientras otros razonaban que ningún demonio podría abrir los ojos de los ciegos, recordando al ciego sanado en el capítulo anterior."
+      },
+      {
+        "id": "john-10-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según el versículo 22, ¿qué fiesta se celebraba en Jerusalén, y en qué estación?",
+        "options": [
+          "La fiesta de la dedicación, en invierno",
+          "La pascua, en primavera",
+          "La fiesta de los tabernáculos, en otoño",
+          "La fiesta de pentecostés, en verano"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "y Jesús andaba en el templo por el pórtico de {0}.",
+        "blanks": [
+          "Salomón"
+        ],
+        "distractors": [
+          "David",
+          "Moisés",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "john-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Según el versículo 28, ¿qué da Jesús a sus ovejas, de modo que no perecerán jamás?",
+        "options": [
+          "Vida eterna",
+          "Un nombre nuevo",
+          "El pan del cielo",
+          "El agua viva"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Yo y el {0} uno somos.",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Hijo",
+          "Cristo",
+          "Espíritu"
+        ]
+      },
+      {
+        "id": "john-10-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Por qué dijeron los judíos que apedreaban a Jesús?",
+        "options": [
+          "Por la blasfemia, porque siendo hombre se hacía Dios",
+          "Por una buena obra que había hecho",
+          "Por sanar en el día de reposo",
+          "Por entrar en el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Entonces los judíos volvieron a tomar {0} para apedrearle.",
+        "blanks": [
+          "piedras"
+        ],
+        "distractors": [
+          "obras",
+          "palabras",
+          "varas"
+        ]
+      },
+      {
+        "id": "john-10-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "Y se fue otra vez al otro lado del {0}, al lugar donde primero había estado bautizando Juan; y se quedó allí.",
+        "blanks": [
+          "Jordán"
+        ],
+        "distractors": [
+          "templo",
+          "desierto",
+          "mar"
+        ]
+      },
+      {
+        "id": "john-10-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Qué decía la gente acerca de Juan en el versículo 41?",
+        "options": [
+          "Juan ningún milagro hizo, pero todo lo que dijo de este era verdad",
+          "Juan hizo muchos milagros como este hombre",
+          "Juan apedreó a los que no creían",
+          "Juan edificó el pórtico de Salomón"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "john-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Betania, el hogar de Lázaro",
+        "text": "Betania se hallaba a pocos kilómetros de Jerusalén, en la ladera del monte de los Olivos. Era el hogar de Lázaro y de sus hermanas, María y Marta, donde Jesús solía hospedarse."
+      },
+      {
+        "id": "john-11-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Al oír que Lázaro estaba enfermo, ¿qué dijo Jesús sobre la enfermedad?",
+        "options": [
+          "No es para muerte, sino para la gloria de Dios",
+          "Que Lázaro moriría ese mismo día",
+          "Que no conocía a Lázaro",
+          "Que la enfermedad era castigo del pecado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Nuestro amigo Lázaro {0}, pero voy a despertarle.",
+        "blanks": [
+          "duerme"
+        ],
+        "distractors": [
+          "llora",
+          "anda",
+          "resucita"
+        ]
+      },
+      {
+        "id": "john-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Dijo entonces Tomás, llamado el {0}, a sus condiscípulos: Vamos también nosotros, para que muramos con él.",
+        "blanks": [
+          "Dídimo"
+        ],
+        "distractors": [
+          "Lázaro",
+          "Caifás",
+          "Maestro"
+        ]
+      },
+      {
+        "id": "john-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué le dijo Marta a Jesús cuando lo encontró?",
+        "options": [
+          "Señor, si hubieses estado aquí, mi hermano no habría muerto",
+          "Señor, apártate de nosotros",
+          "Señor, no creo en ti",
+          "Señor, déjale dormir"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Le dijo Jesús: Yo soy la {0} y la vida; el que cree en mí, aunque esté muerto, vivirá.",
+        "blanks": [
+          "resurrección"
+        ],
+        "distractors": [
+          "luz",
+          "puerta",
+          "verdad"
+        ]
+      },
+      {
+        "id": "john-11-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "El versículo más corto",
+        "text": "\"Y lloró Jesús\" se recuerda tradicionalmente como uno de los versículos más cortos de la Biblia. Ante la tumba de su amigo revela la compasión profundamente humana del Salvador."
+      },
+      {
+        "id": "john-11-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué hizo María cuando llegó a donde estaba Jesús?",
+        "options": [
+          "Se postró a sus pies",
+          "Regresó a casa",
+          "Fue al templo",
+          "Llamó a los fariseos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Al ver llorar a Jesús, ¿qué dijeron los judíos?",
+        "options": [
+          "Mirad cómo le amaba",
+          "No tiene poder alguno",
+          "¿Por qué no vino antes?",
+          "Apedreemos a este hombre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, {0} fuera!",
+        "blanks": [
+          "ven"
+        ],
+        "distractors": [
+          "duerme",
+          "espera",
+          "cree"
+        ]
+      },
+      {
+        "id": "john-11-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Según el consejo de Caifás, ¿qué convenía?",
+        "options": [
+          "Que un hombre muriera por el pueblo, y no que toda la nación pereciera",
+          "Que Jesús fuera puesto en libertad",
+          "Que los romanos se marcharan",
+          "Que todos creyeran en Jesús"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "se fue de allí a la tierra que está junto al desierto, a una ciudad que se llama {0}, y se quedó allí con sus discípulos.",
+        "blanks": [
+          "Efraín"
+        ],
+        "distractors": [
+          "Betania",
+          "Jerusalén",
+          "Judea"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "john-12-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Un perfume costosísimo",
+        "text": "El nardo puro se importaba de las montañas de la India, y una libra de él valía casi el salario de un año. Por eso el gesto de María de derramarlo todo sobre los pies de Jesús resultaba extravagante."
+      },
+      {
+        "id": "john-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Entonces María tomó una libra de perfume de {0} puro, de mucho precio, y ungió los pies de Jesús",
+        "blanks": [
+          "nardo"
+        ],
+        "distractors": [
+          "incienso",
+          "mirra",
+          "aceite"
+        ]
+      },
+      {
+        "id": "john-12-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Por qué dijo Judas Iscariote que el perfume debía haberse vendido?",
+        "options": [
+          "Para dárselo a los pobres",
+          "Para comprar comida para la cena",
+          "Para pagar el tributo",
+          "Para guardarlo para la sepultura de Jesús"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Por qué vino mucha gente de los judíos adonde estaba Jesús?",
+        "options": [
+          "También para ver a Lázaro, a quien había resucitado",
+          "Para oír enseñar a los fariseos",
+          "Para celebrar la Pascua en Jerusalén",
+          "Para apedrear a Jesús"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "tomaron ramas de palmeras y salieron a recibirle, y clamaban: ¡Hosanna! ¡Bendito el que viene en el nombre del Señor, el Rey de {0}!",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Sion",
+          "Judá",
+          "Betania"
+        ]
+      },
+      {
+        "id": "john-12-fb-15",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 15,
+        "template": "No temas, hija de {0}; he aquí, tu Rey viene, montado sobre un pollino de asna.",
+        "blanks": [
+          "Sion"
+        ],
+        "distractors": [
+          "Israel",
+          "Galilea",
+          "Jerusalén"
+        ]
+      },
+      {
+        "id": "john-12-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "se acercaron a Felipe, que era de Betsaida de Galilea, y le rogaron, diciendo: Señor, quisiéramos ver a {0}.",
+        "blanks": [
+          "Jesús"
+        ],
+        "distractors": [
+          "Lázaro",
+          "Andrés",
+          "Felipe"
+        ]
+      },
+      {
+        "id": "john-12-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "María",
+            "right": "Ungió los pies de Jesús con nardo"
+          },
+          {
+            "left": "Judas Iscariote",
+            "right": "Objetó el precio del perfume"
+          },
+          {
+            "left": "Ciertos griegos",
+            "right": "Querían ver a Jesús"
+          },
+          {
+            "left": "Felipe",
+            "right": "Era de Betsaida de Galilea"
+          }
+        ]
+      },
+      {
+        "id": "john-12-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "si el grano de {0} no cae en la tierra y muere, se queda solo; pero si muere, lleva mucho fruto",
+        "blanks": [
+          "trigo"
+        ],
+        "distractors": [
+          "cebada",
+          "mostaza",
+          "cizaña"
+        ]
+      },
+      {
+        "id": "john-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Cuando Jesús pidió al Padre que glorificara su nombre, ¿qué vino?",
+        "options": [
+          "Una voz del cielo",
+          "Un terremoto",
+          "Una columna de fuego",
+          "Una gran lluvia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Y yo, si soy levantado de la tierra, a todos {0} a mí mismo.",
+        "blanks": [
+          "atraeré"
+        ],
+        "distractors": [
+          "juzgaré",
+          "salvaré",
+          "perderé"
+        ]
+      },
+      {
+        "id": "john-12-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Qué les dijo Jesús que hicieran mientras tenían la luz?",
+        "options": [
+          "Que anduvieran entretanto que tenían luz",
+          "Que se escondieran de los fariseos",
+          "Que subieran a Jerusalén",
+          "Que esperaran a un ángel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "para que se cumpliese la palabra del profeta {0}, que dijo: Señor, ¿quién ha creído nuestro mensaje?",
+        "blanks": [
+          "Isaías"
+        ],
+        "distractors": [
+          "David",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "john-12-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "¿Por qué muchos de los gobernantes que creyeron no confesaban a Jesús?",
+        "options": [
+          "A causa de los fariseos, para no ser expulsados de la sinagoga",
+          "Porque temían a los romanos",
+          "Porque no entendían sus palabras",
+          "Porque eran pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Yo, la {0}, he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas.",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "verdad",
+          "vida",
+          "puerta"
+        ]
+      },
+      {
+        "id": "john-12-fb-47",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 47,
+        "template": "porque no he venido a juzgar al mundo, sino a {0} al mundo",
+        "blanks": [
+          "salvar"
+        ],
+        "distractors": [
+          "condenar",
+          "juzgar",
+          "vencer"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "john-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Los amó hasta el fin",
+        "text": "Juan 13 abre la larga escena del aposento alto que llega hasta el capítulo 17. A diferencia de los otros Evangelios, Juan no narra aquí el pan y la copa; en su lugar registra que Jesús lava los pies de los discípulos, un acto de siervo que resume \"los amó hasta el fin\"."
+      },
+      {
+        "id": "john-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 4,
+        "template": "se levantó de la cena, y se quitó su manto y, tomando una {0}, se la ciñó.",
+        "blanks": [
+          "toalla"
+        ],
+        "distractors": [
+          "lebrillo",
+          "túnica",
+          "vasija"
+        ]
+      },
+      {
+        "id": "john-13-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué comenzó a hacer Jesús después de poner agua en un lebrillo?",
+        "options": [
+          "Lavar los pies de los discípulos",
+          "Partir el pan",
+          "Ungir sus cabezas",
+          "Lavar sus manos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Le respondió Jesús: Si no te lavo, no tendrás {0} conmigo.",
+        "blanks": [
+          "parte"
+        ],
+        "distractors": [
+          "paz",
+          "vida",
+          "lugar"
+        ]
+      },
+      {
+        "id": "john-13-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Tras la advertencia de Jesús, ¿qué pidió Pedro que le lavara además de los pies?",
+        "options": [
+          "Las manos y la cabeza",
+          "Los hombros y la espalda",
+          "Los ojos y la boca",
+          "Los brazos y las rodillas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 14,
+        "template": "Pues si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavaros los pies los unos a los {0}.",
+        "blanks": [
+          "otros"
+        ],
+        "distractors": [
+          "siervos",
+          "hermanos",
+          "pobres"
+        ]
+      },
+      {
+        "id": "john-13-mp-13",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Lavarse los pies unos a otros",
+            "right": "Lo que los discípulos debían hacer"
+          },
+          {
+            "left": "Maestro y Señor",
+            "right": "Cómo llamaban a Jesús"
+          },
+          {
+            "left": "Ejemplo",
+            "right": "Lo que Jesús dijo haberles dado"
+          },
+          {
+            "left": "Su calcañar",
+            "right": "Lo que levantó contra él el que comía pan"
+          }
+        ]
+      },
+      {
+        "id": "john-13-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Conmovido en el espíritu, ¿qué testificó Jesús a los discípulos?",
+        "options": [
+          "Que uno de ellos lo entregaría",
+          "Que volvería pronto",
+          "Que iría a Jerusalén",
+          "Que sanaría a los enfermos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Y uno de sus discípulos, a quien Jesús amaba, estaba reclinado en el {0} de Jesús.",
+        "blanks": [
+          "pecho"
+        ],
+        "distractors": [
+          "hombro",
+          "costado",
+          "manto"
+        ]
+      },
+      {
+        "id": "john-13-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Cómo mostró Jesús quién lo entregaría?",
+        "options": [
+          "Dio a Judas el pan mojado",
+          "Señaló con la mano",
+          "Lo llamó por su nombre",
+          "Miró a Pedro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Cuando él, pues, hubo tomado el bocado, salió enseguida; y era ya de {0}.",
+        "blanks": [
+          "noche"
+        ],
+        "distractors": [
+          "tarde",
+          "día",
+          "madrugada"
+        ]
+      },
+      {
+        "id": "john-13-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Cuando Judas salió, ¿qué dijo Jesús que sucedía ahora?",
+        "options": [
+          "El Hijo del Hombre es glorificado",
+          "Su hora aún no había llegado",
+          "Los discípulos lo abandonarían",
+          "El templo caería"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-34",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 34,
+        "template": "Un mandamiento nuevo os doy: Que os {0} unos a otros; como yo os he amado, que también os améis los unos a los otros.",
+        "blanks": [
+          "améis"
+        ],
+        "distractors": [
+          "sirváis",
+          "perdonéis",
+          "escuchéis"
+        ]
+      },
+      {
+        "id": "john-13-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "¿Qué dijo Jesús a Pedro, que prometió dar su vida por él?",
+        "options": [
+          "Lo negaría tres veces antes de que cantara el gallo",
+          "Sería el mayor entre los discípulos",
+          "Andaría sobre el mar",
+          "Recibiría las llaves del reino"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "john-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El discurso de despedida",
+        "text": "Este capítulo abre el largo discurso de despedida de Jesús en la última cena. Sus palabras de consuelo — “No se turbe vuestro corazón” — llegan justo cuando los discípulos están a punto de perderlo."
+      },
+      {
+        "id": "john-14-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "En la casa de mi Padre muchas {0} hay; de otra manera, yo os lo hubiera dicho",
+        "blanks": [
+          "moradas"
+        ],
+        "distractors": [
+          "obras",
+          "palabras",
+          "puertas"
+        ]
+      },
+      {
+        "id": "john-14-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué discípulo dijo a Jesús que no sabían a dónde iba?",
+        "options": [
+          "Tomás",
+          "Felipe",
+          "Judas",
+          "Pedro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Yo soy el camino, y la verdad y la {0}; nadie viene al Padre sino por mí.",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "luz",
+          "puerta",
+          "paz"
+        ]
+      },
+      {
+        "id": "john-14-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué respondió Jesús cuando Felipe dijo “muéstranos al Padre”?",
+        "options": [
+          "El que me ha visto a mí, ha visto al Padre",
+          "Nadie viene al Padre sino por mí",
+          "El Padre está en los cielos",
+          "No podéis ver al Padre ahora"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "las obras que yo hago él también las hará; y aun {0} que estas hará",
+        "blanks": [
+          "mayores"
+        ],
+        "distractors": [
+          "menores",
+          "iguales",
+          "mejores"
+        ]
+      },
+      {
+        "id": "john-14-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Según el versículo 15, ¿cómo se muestra el amor a Jesús?",
+        "options": [
+          "Guardando mis mandamientos",
+          "Pidiendo en mi nombre",
+          "Creyendo las obras",
+          "Morando en la casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Consolador",
+            "right": "A quien el Padre daría para estar con ellos para siempre"
+          },
+          {
+            "left": "Espíritu de verdad",
+            "right": "Al que el mundo no puede recibir"
+          },
+          {
+            "left": "Padre",
+            "right": "A quien Jesús rogaría por los discípulos"
+          }
+        ]
+      },
+      {
+        "id": "john-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "No os dejaré {0}; vendré a vosotros.",
+        "blanks": [
+          "huérfanos"
+        ],
+        "distractors": [
+          "solos",
+          "tristes",
+          "perdidos"
+        ]
+      },
+      {
+        "id": "john-14-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "El que me ama, mi {0} guardará; y mi Padre le amará",
+        "blanks": [
+          "palabra"
+        ],
+        "distractors": [
+          "casa",
+          "paz",
+          "obra"
+        ]
+      },
+      {
+        "id": "john-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Quién es el Consolador que el Padre enviaría en nombre de Jesús?",
+        "options": [
+          "El Espíritu Santo",
+          "Un ángel",
+          "Otro profeta",
+          "El Padre mismo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Una paz diferente",
+        "text": "Jesús distingue su paz de la del mundo: “yo no os la doy como el mundo la da”. La paz que él ofrece no depende de las circunstancias externas, y por eso repite el consuelo del versículo 1."
+      },
+      {
+        "id": "john-14-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "voy al Padre, porque el Padre {0} es que yo.",
+        "blanks": [
+          "mayor"
+        ],
+        "distractors": [
+          "menor",
+          "igual",
+          "mejor"
+        ]
+      },
+      {
+        "id": "john-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Cómo llama Jesús a aquel que viene en el versículo 30?",
+        "options": [
+          "El príncipe de este mundo",
+          "El padre de la mentira",
+          "El acusador",
+          "El ladrón"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "john-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La vid y el labrador",
+        "text": "Jesús se llama a sí mismo la \"vid verdadera\" y a su Padre el \"labrador\". La vid era una imagen conocida para Israel, usada muchas veces en las escrituras para representar al propio pueblo del Señor."
+      },
+      {
+        "id": "john-15-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Yo soy la vid verdadera, y mi Padre es el {0}.",
+        "blanks": [
+          "labrador"
+        ],
+        "distractors": [
+          "pastor",
+          "pámpano",
+          "señor"
+        ]
+      },
+      {
+        "id": "john-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "En el versículo 5, ¿qué dice Jesús que podemos hacer sin él?",
+        "options": [
+          "Nada",
+          "Poco",
+          "Todo",
+          "Ningún buen fruto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-15-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "será echado fuera como mal pámpano, y se secará; y los recogen y los echan al {0}, y arden.",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "campo",
+          "río",
+          "monte"
+        ]
+      },
+      {
+        "id": "john-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "En esto es glorificado mi Padre: en que llevéis mucho {0} y seáis así mis discípulos.",
+        "blanks": [
+          "fruto"
+        ],
+        "distractors": [
+          "amor",
+          "pan",
+          "trabajo"
+        ]
+      },
+      {
+        "id": "john-15-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Gozo completo",
+        "text": "Jesús une el guardar sus mandamientos a un gozo que permanece. Enseña estas cosas para que su propio gozo esté en sus discípulos y el gozo de ellos sea completo."
+      },
+      {
+        "id": "john-15-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Nadie tiene mayor {0} que este, que uno ponga su vida por sus amigos.",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "fruto",
+          "don",
+          "poder"
+        ]
+      },
+      {
+        "id": "john-15-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "La vid",
+            "right": "Jesús"
+          },
+          {
+            "left": "El labrador",
+            "right": "El Padre"
+          },
+          {
+            "left": "Los pámpanos",
+            "right": "Los discípulos"
+          },
+          {
+            "left": "El fruto",
+            "right": "Lo que el pámpano debe llevar"
+          }
+        ]
+      },
+      {
+        "id": "john-15-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Según el versículo 18, si el mundo aborrece a los discípulos, ¿a quién aborreció primero?",
+        "options": [
+          "A Jesús",
+          "A los profetas",
+          "Al Padre",
+          "Al Consolador"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "El siervo no es mayor que su {0}.",
+        "blanks": [
+          "señor"
+        ],
+        "distractors": [
+          "amigo",
+          "hermano",
+          "maestro"
+        ]
+      },
+      {
+        "id": "john-15-cur-23",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Sin causa me aborrecieron",
+        "text": "Jesús cita la ley para mostrar que el odio que enfrenta cumple lo que estaba escrito: \"Sin causa me aborrecieron\". La hostilidad contra él no tenía justa razón."
+      },
+      {
+        "id": "john-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Pero cuando venga el {0}, a quien yo os enviaré del Padre",
+        "blanks": [
+          "Consolador"
+        ],
+        "distractors": [
+          "labrador",
+          "señor",
+          "profeta"
+        ]
+      },
+      {
+        "id": "john-15-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Según el versículo 27, ¿por qué también los discípulos darían testimonio?",
+        "options": [
+          "Porque habían estado con Jesús desde el principio",
+          "Porque habían visto al Padre",
+          "Porque habían guardado la ley",
+          "Porque habían llevado mucho fruto"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "john-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El discurso de despedida continúa",
+        "text": "Este capítulo continúa las últimas palabras de Jesús a los discípulos antes de su muerte. Les advierte de la persecución venidera para que, cuando llegue la hora, no tengan tropiezo."
+      },
+      {
+        "id": "john-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué persecución predice Jesús para los discípulos?",
+        "options": [
+          "Los expulsarán de las sinagogas",
+          "Los desterrarán de Jerusalén",
+          "Perderán sus tierras",
+          "Les prohibirán orar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "porque os he dicho estas cosas, la {0} ha llenado vuestro corazón.",
+        "blanks": [
+          "tristeza"
+        ],
+        "distractors": [
+          "alegría",
+          "paz",
+          "luz"
+        ]
+      },
+      {
+        "id": "john-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "porque si yo no me voy, el {0} no vendrá a vosotros; pero si yo me voy, os lo enviaré.",
+        "blanks": [
+          "Consolador"
+        ],
+        "distractors": [
+          "Padre",
+          "profeta",
+          "Cristo"
+        ]
+      },
+      {
+        "id": "john-16-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿De qué reprenderá el Consolador al mundo?",
+        "options": [
+          "Del pecado, de la justicia y del juicio",
+          "De la ley, el templo y el día de reposo",
+          "De la fe, la esperanza y la caridad",
+          "De la vida, la muerte y el cielo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "El Consolador",
+            "right": "Reprenderá al mundo del pecado, la justicia y el juicio"
+          },
+          {
+            "left": "El príncipe de este mundo",
+            "right": "Ya ha sido juzgado"
+          },
+          {
+            "left": "Jesús",
+            "right": "Va al Padre para que venga el Consolador"
+          }
+        ]
+      },
+      {
+        "id": "john-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "cuando venga el Espíritu de verdad, él os guiará a toda la {0};",
+        "blanks": [
+          "verdad"
+        ],
+        "distractors": [
+          "justicia",
+          "gloria",
+          "obra"
+        ]
+      },
+      {
+        "id": "john-16-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "aunque vosotros estaréis tristes, vuestra tristeza se convertirá en {0}.",
+        "blanks": [
+          "gozo"
+        ],
+        "distractors": [
+          "paz",
+          "gloria",
+          "luz"
+        ]
+      },
+      {
+        "id": "john-16-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "La mujer de parto",
+        "text": "Jesús compara el dolor de los discípulos al de una mujer que da a luz: la angustia es real, pero se olvida en el gozo de la nueva vida. Así su tristeza por la partida se volvería gozo al verle de nuevo."
+      },
+      {
+        "id": "john-16-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿En nombre de quién dice Jesús que los discípulos deben pedir al Padre?",
+        "options": [
+          "En mi nombre",
+          "En nombre de los profetas",
+          "En nombre de Moisés",
+          "En nombre de los ángeles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "pues el Padre mismo os {0}, porque vosotros me habéis amado y habéis creído que yo salí de Dios.",
+        "blanks": [
+          "ama"
+        ],
+        "distractors": [
+          "envía",
+          "juzga",
+          "oye"
+        ]
+      },
+      {
+        "id": "john-16-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "En el mundo tendréis {0}. Pero confiad; yo he vencido al mundo.",
+        "blanks": [
+          "aflicción"
+        ],
+        "distractors": [
+          "tristeza",
+          "juicio",
+          "tinieblas"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "john-17-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La oración intercesora",
+        "text": "Juan 17 es la oración registrada más larga de Jesús, ofrecida la víspera de su muerte. Se conoce como la 'oración intercesora', pues en ella intercede por sus discípulos y por todos los que habrían de creer."
+      },
+      {
+        "id": "john-17-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según el versículo 3, ¿en qué consiste la vida eterna?",
+        "options": [
+          "En conocer al único Dios verdadero, y a Jesucristo",
+          "En guardar todos los mandamientos de la ley",
+          "En ser glorificado ante el mundo",
+          "En no probar jamás la muerte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Yo te he glorificado en la tierra; he acabado la {0} que me diste que hiciese.",
+        "blanks": [
+          "obra"
+        ],
+        "distractors": [
+          "palabra",
+          "gloria",
+          "verdad"
+        ]
+      },
+      {
+        "id": "john-17-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "porque las {0} que me diste les he dado; y ellos las recibieron",
+        "blanks": [
+          "palabras"
+        ],
+        "distractors": [
+          "obras",
+          "glorias",
+          "verdades"
+        ]
+      },
+      {
+        "id": "john-17-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "En el versículo 11, ¿qué pide Jesús al Padre santo en favor de los discípulos?",
+        "options": [
+          "Que los guarde en su nombre, para que sean uno",
+          "Que los quite inmediatamente del mundo",
+          "Que les dé potestad sobre toda carne",
+          "Que los haga mayores que los profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Según el versículo 12, ¿quién se perdió de entre los que el Padre había dado a Jesús?",
+        "options": [
+          "El hijo de perdición",
+          "Ninguno de ellos",
+          "Uno de los doce, excepto Pedro",
+          "El mundo entero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "No ruego que los quites del mundo, sino que los guardes del {0}.",
+        "blanks": [
+          "mal"
+        ],
+        "distractors": [
+          "mundo",
+          "pecado",
+          "enemigo"
+        ]
+      },
+      {
+        "id": "john-17-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Santifícalos en tu verdad; tu palabra es la {0}.",
+        "blanks": [
+          "verdad"
+        ],
+        "distractors": [
+          "gloria",
+          "vida",
+          "luz"
+        ]
+      },
+      {
+        "id": "john-17-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "\"sean uno\"",
+            "right": "La unidad que Jesús pide entre los creyentes"
+          },
+          {
+            "left": "\"el mundo crea\"",
+            "right": "El propósito de esa unidad"
+          },
+          {
+            "left": "\"tú me enviaste\"",
+            "right": "Lo que el mundo debe creer acerca del Padre"
+          },
+          {
+            "left": "\"en mí, y yo en ti\"",
+            "right": "La unión entre el Padre y el Hijo"
+          }
+        ]
+      },
+      {
+        "id": "john-17-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "En el versículo 24, ¿desde cuándo amó el Padre a Jesús?",
+        "options": [
+          "Desde antes de la fundación del mundo",
+          "Desde su bautismo",
+          "Desde la última cena",
+          "Desde el principio de su ministerio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Dar a conocer el nombre",
+        "text": "Jesús cierra la oración diciendo que ha dado a conocer el nombre del Padre y que lo seguirá dando a conocer. En toda la oración, el tema del 'nombre' y del conocimiento de Dios aparece como el corazón mismo de la vida eterna."
+      }
+    ],
+    "18": [
+      {
+        "id": "john-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El arroyo Cedrón",
+        "text": "Jesús cruza el arroyo Cedrón, un valle al este de Jerusalén, hacia un huerto (Getsemaní). El camino lo lleva hacia el Monte de los Olivos, escenario de su agonía y su arresto."
+      },
+      {
+        "id": "john-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "fue allí con linternas y antorchas, y con {0}.",
+        "blanks": [
+          "armas"
+        ],
+        "distractors": [
+          "cuerdas",
+          "lámparas",
+          "espadas"
+        ]
+      },
+      {
+        "id": "john-18-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Cuando Jesús dijo \"Yo soy\", ¿qué hizo la compañía que vino a prenderlo?",
+        "options": [
+          "Retrocedieron y cayeron a tierra",
+          "Huyeron a la ciudad",
+          "Se arrodillaron para adorarlo",
+          "Soltaron las armas y oraron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "hirió al siervo del sumo sacerdote y le cortó la oreja derecha. Y el siervo se llamaba {0}.",
+        "blanks": [
+          "Malco"
+        ],
+        "distractors": [
+          "Anás",
+          "Caifás",
+          "Barrabás"
+        ]
+      },
+      {
+        "id": "john-18-mp-11",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "Simón Pedro",
+            "right": "Sacó la espada e hirió al siervo"
+          },
+          {
+            "left": "Malco",
+            "right": "Le cortaron la oreja derecha"
+          },
+          {
+            "left": "Judas",
+            "right": "Llevó a los soldados al huerto"
+          },
+          {
+            "left": "Jesús",
+            "right": "Dijo: ¿no he de beber la copa?"
+          }
+        ]
+      },
+      {
+        "id": "john-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Según el versículo 14, ¿qué consejo había dado Caifás a los judíos?",
+        "options": [
+          "Que convenía que un hombre muriese por el pueblo",
+          "Que Jesús fuera liberado",
+          "Que se pagara tributo a César",
+          "Que se reconstruyera el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "¿No eres tú también de los discípulos de este hombre? Dijo él: No lo {0}.",
+        "blanks": [
+          "soy"
+        ],
+        "distractors": [
+          "conozco",
+          "vi",
+          "sé"
+        ]
+      },
+      {
+        "id": "john-18-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Enseñé abiertamente",
+        "text": "Ante el sumo sacerdote, Jesús recuerda que enseñó en la sinagoga y en el templo, donde se reúnen todos los judíos, y nada habló en secreto. Su ministerio fue público, no una conspiración oculta."
+      },
+      {
+        "id": "john-18-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Si he hablado mal, da testimonio de lo que está {0}; pero si bien, ¿por qué me golpeas?",
+        "blanks": [
+          "mal"
+        ],
+        "distractors": [
+          "bien",
+          "claro",
+          "escrito"
+        ]
+      },
+      {
+        "id": "john-18-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué sucedió enseguida después de que Pedro negó a Jesús por tercera vez?",
+        "options": [
+          "Cantó el gallo",
+          "El sumo sacerdote lo prendió",
+          "Jesús lo reprendió",
+          "Los soldados lo llevaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "llamó a Jesús y le dijo: ¿Eres tú el Rey de los {0}?",
+        "blanks": [
+          "judíos"
+        ],
+        "distractors": [
+          "romanos",
+          "profetas",
+          "sacerdotes"
+        ]
+      },
+      {
+        "id": "john-18-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "¿Qué pregunta le hizo Pilato a Jesús tras hablar este del testimonio de la verdad?",
+        "options": [
+          "¿Qué es la verdad?",
+          "¿De dónde eres?",
+          "¿Quién te envió?",
+          "¿Qué has hecho?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "¡No a este, sino a Barrabás! Y Barrabás era {0}.",
+        "blanks": [
+          "ladrón"
+        ],
+        "distractors": [
+          "sacerdote",
+          "soldado",
+          "profeta"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "john-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El azote antes de la cruz",
+        "text": "El capítulo abre con Pilato azotando a Jesús. El azote romano era un castigo brutal que solía preceder a la crucifixión, y aquí marca el comienzo del sufrimiento que Juan narra con sobriedad."
+      },
+      {
+        "id": "john-19-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Cómo se burlaban de Jesús los soldados al saludarlo?",
+        "options": [
+          "¡Salve, Rey de los judíos!",
+          "¡Salve, Hijo de Dios!",
+          "¡Salve, Rey de Israel!",
+          "¡Salve, Señor de los judíos!"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Y Pilato les dijo: ¡He aquí el {0}!",
+        "blanks": [
+          "hombre"
+        ],
+        "distractors": [
+          "Rey",
+          "Hijo",
+          "judío"
+        ]
+      },
+      {
+        "id": "john-19-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "según nuestra ley, debe morir, porque se hizo a sí mismo {0} de Dios.",
+        "blanks": [
+          "Hijo"
+        ],
+        "distractors": [
+          "Rey",
+          "profeta",
+          "siervo"
+        ]
+      },
+      {
+        "id": "john-19-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué respondió Jesús a Pilato sobre su autoridad?",
+        "options": [
+          "Ninguna autoridad tendrías contra mí si no te fuese dada de arriba",
+          "No tienes autoridad sobre los judíos",
+          "Tu autoridad viene solo de César",
+          "Fue la ley la que te dio autoridad sobre mí"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "en el lugar llamado el Enlosado, y en hebreo, {0}.",
+        "blanks": [
+          "Gabata"
+        ],
+        "distractors": [
+          "Gólgota",
+          "Betesda",
+          "Siloé"
+        ]
+      },
+      {
+        "id": "john-19-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué respondieron los principales sacerdotes cuando Pilato preguntó: “¿A vuestro Rey he de crucificar?”",
+        "options": [
+          "No tenemos más rey que César",
+          "Crucifica a nuestro Rey",
+          "Suéltanos a Barrabás",
+          "No tenemos más ley que César"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "salió al lugar llamado de la Calavera, y en hebreo, {0},",
+        "blanks": [
+          "Gólgota"
+        ],
+        "distractors": [
+          "Gabata",
+          "Betania",
+          "Cedrón"
+        ]
+      },
+      {
+        "id": "john-19-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Y el escrito decía: Jesús de {0}, Rey de los judíos.",
+        "blanks": [
+          "Nazaret"
+        ],
+        "distractors": [
+          "Galilea",
+          "Belén",
+          "Judea"
+        ]
+      },
+      {
+        "id": "john-19-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Hebreo",
+            "right": "Una de las tres lenguas en que se escribió el título"
+          },
+          {
+            "left": "Ciudad",
+            "right": "Estaba cerca del lugar donde Jesús fue crucificado"
+          },
+          {
+            "left": "Título",
+            "right": "Lo que Pilato escribió y puso sobre la cruz"
+          }
+        ]
+      },
+      {
+        "id": "john-19-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "La túnica sin costura",
+        "text": "La túnica de Jesús era “sin costura, toda tejida de arriba abajo.” En lugar de partirla, los soldados echaron suertes sobre ella, cumpliendo sin saberlo la profecía del Salmo 22 sobre repartir sus vestidos."
+      },
+      {
+        "id": "john-19-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Por qué decidieron los soldados no partir la túnica de Jesús?",
+        "options": [
+          "Para echar suertes sobre ella y ver de quién sería",
+          "Porque pertenecía a Pilato",
+          "Porque debía devolverse a la madre de Jesús",
+          "Porque un sacerdote la había reclamado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué dijo Jesús a su madre al verla junto a la cruz con el discípulo amado?",
+        "options": [
+          "Mujer, he ahí tu hijo",
+          "Mujer, ¿por qué lloras?",
+          "Madre, he ahí tu Rey",
+          "Mujer, he ahí tu Señor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Y cuando Jesús tomó el vinagre, dijo: ¡{0} es!",
+        "blanks": [
+          "Consumado"
+        ],
+        "distractors": [
+          "Perdido",
+          "Escrito",
+          "Roto"
+        ]
+      },
+      {
+        "id": "john-19-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Pero uno de los soldados le traspasó el costado con una {0}, y enseguida salió sangre y agua.",
+        "blanks": [
+          "lanza"
+        ],
+        "distractors": [
+          "espada",
+          "vara",
+          "caña"
+        ]
+      },
+      {
+        "id": "john-19-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Qué Escritura se cumplió al no quebrarle las piernas a Jesús?",
+        "options": [
+          "No será quebrado hueso suyo",
+          "Mirarán al que traspasaron",
+          "Repartieron entre sí mis vestidos",
+          "No tenemos más rey que César"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "¿Quién rogó a Pilato que le permitiese llevarse el cuerpo de Jesús?",
+        "options": [
+          "José de Arimatea",
+          "Nicodemo",
+          "Simón de Cirene",
+          "José, esposo de María"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "trayendo un compuesto de {0} y de áloes, como cien libras.",
+        "blanks": [
+          "mirra"
+        ],
+        "distractors": [
+          "incienso",
+          "nardo",
+          "bálsamo"
+        ]
+      },
+      {
+        "id": "john-19-mp-42",
+        "type": "match_pairs",
+        "after_verse": 42,
+        "pairs": [
+          {
+            "left": "Nicodemo",
+            "right": "Trajo un compuesto de mirra y áloes"
+          },
+          {
+            "left": "Huerto",
+            "right": "El lugar donde estaba el sepulcro nuevo"
+          },
+          {
+            "left": "Sepulcro nuevo",
+            "right": "En el cual aún no se había puesto a nadie"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "john-20-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El primer día de la semana",
+        "text": "Juan anota que María Magdalena fue al sepulcro de mañana, siendo aún oscuro, el primer día de la semana. Este detalle marca la mañana de la resurrección, el motivo por el que los cristianos comenzaron a reunirse en domingo."
+      },
+      {
+        "id": "john-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Y el primer día de la semana, {0} fue de mañana al sepulcro, siendo aún oscuro; y vio quitada la piedra del sepulcro.",
+        "blanks": [
+          "María Magdalena"
+        ],
+        "distractors": [
+          "Simón Pedro",
+          "Tomás",
+          "el Dídimo"
+        ]
+      },
+      {
+        "id": "john-20-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Quién llegó primero al sepulcro?",
+        "options": [
+          "El otro discípulo",
+          "Simón Pedro",
+          "María Magdalena",
+          "Tomás"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "y el sudario que había estado sobre su {0}, no puesto con los lienzos, sino enrollado en un lugar aparte.",
+        "blanks": [
+          "cabeza"
+        ],
+        "distractors": [
+          "mano",
+          "rostro",
+          "manto"
+        ]
+      },
+      {
+        "id": "john-20-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué hizo el otro discípulo cuando entró en el sepulcro?",
+        "options": [
+          "Vio y creyó",
+          "Lloró en alta voz",
+          "Huyó con miedo",
+          "Se llevó el cuerpo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "y vio a dos ángeles con ropas blancas que estaban sentados, el uno a la cabecera y el otro a los {0}, donde el cuerpo de Jesús había sido puesto.",
+        "blanks": [
+          "pies"
+        ],
+        "distractors": [
+          "lados",
+          "hombros",
+          "brazos"
+        ]
+      },
+      {
+        "id": "john-20-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Por quién confundió María a Jesús junto al sepulcro?",
+        "options": [
+          "El hortelano",
+          "Un ángel",
+          "Pedro",
+          "Un soldado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Volviéndose ella, le dijo: ¡{0}!, que quiere decir, Maestro.",
+        "blanks": [
+          "Raboni"
+        ],
+        "distractors": [
+          "Rabí",
+          "Mesías",
+          "Señor"
+        ]
+      },
+      {
+        "id": "john-20-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "vino Jesús, y se puso en medio y les dijo: ¡{0} a vosotros!",
+        "blanks": [
+          "Paz"
+        ],
+        "distractors": [
+          "Gracia",
+          "Vida",
+          "Gloria"
+        ]
+      },
+      {
+        "id": "john-20-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Paz a vosotros",
+            "right": "Saludo de Jesús a los discípulos"
+          },
+          {
+            "left": "Recibid el Espíritu Santo",
+            "right": "Lo que Jesús dijo al soplar sobre ellos"
+          },
+          {
+            "left": "María Magdalena",
+            "right": "La primera en ver al Señor resucitado"
+          },
+          {
+            "left": "El otro discípulo",
+            "right": "Corrió más aprisa que Pedro al sepulcro"
+          }
+        ]
+      },
+      {
+        "id": "john-20-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Y cuando hubo dicho esto, sopló y les dijo: Recibid el {0} Santo.",
+        "blanks": [
+          "Espíritu"
+        ],
+        "distractors": [
+          "Pan",
+          "Reino",
+          "Señor"
+        ]
+      },
+      {
+        "id": "john-20-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Cómo era también llamado Tomás, uno de los doce?",
+        "options": [
+          "el Dídimo",
+          "Cefas",
+          "Boanerges",
+          "Iscariote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Señor mío y Dios mío",
+        "text": "La confesión de Tomás, “¡Señor mío y Dios mío!”, es la declaración más directa de la divinidad de Jesús en todo el evangelio de Juan, y cierra el círculo abierto en el primer versículo: “el Verbo era Dios”."
+      },
+      {
+        "id": "john-20-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "bienaventurados los que no vieron y {0}.",
+        "blanks": [
+          "creyeron"
+        ],
+        "distractors": [
+          "siguieron",
+          "oyeron",
+          "temieron"
+        ]
+      },
+      {
+        "id": "john-20-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Pero estas se han escrito para que creáis que Jesús es el {0}, el Hijo de Dios, y para que, creyendo, tengáis vida en su nombre.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Señor",
+          "Maestro",
+          "Verbo"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "john-21-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Un epílogo junto al mar",
+        "text": "Juan 21 funciona como epílogo: tras el clímax de la resurrección (cap. 20), el evangelio vuelve a Galilea, al mar de Tiberias —donde todo empezó— para restaurar a Pedro y sellar el testimonio del discípulo amado."
+      },
+      {
+        "id": "john-21-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué discípulo es llamado “el Dídimo” al reunirse con los demás junto al mar?",
+        "options": [
+          "Tomás",
+          "Natanael",
+          "Simón Pedro",
+          "Felipe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Echad la red a la derecha de la {0} y hallaréis.",
+        "blanks": [
+          "barca"
+        ],
+        "distractors": [
+          "orilla",
+          "red",
+          "mar"
+        ]
+      },
+      {
+        "id": "john-21-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué hizo Simón Pedro cuando oyó “¡Es el Señor!”?",
+        "options": [
+          "Se echó al mar",
+          "Sacó la red solo",
+          "Se quedó quieto en la barca",
+          "Corrió por la orilla"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "sacó la red a tierra, llena de grandes peces, ciento cincuenta y {0}",
+        "blanks": [
+          "tres"
+        ],
+        "distractors": [
+          "cuatro",
+          "dos",
+          "doce"
+        ]
+      },
+      {
+        "id": "john-21-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Simón Pedro",
+            "right": "A quien Jesús pregunta tres veces “¿Me amas?”"
+          },
+          {
+            "left": "Tomás",
+            "right": "El discípulo llamado el Dídimo"
+          },
+          {
+            "left": "Natanael",
+            "right": "El que era de Caná de Galilea"
+          },
+          {
+            "left": "Hijos de Zebedeo",
+            "right": "Pescadores que también estaban presentes"
+          }
+        ]
+      },
+      {
+        "id": "john-21-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Le dijo: Apacienta mis {0}.",
+        "blanks": [
+          "ovejas"
+        ],
+        "distractors": [
+          "corderos",
+          "manos",
+          "brasas"
+        ]
+      },
+      {
+        "id": "john-21-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Al predecir la muerte de Pedro, Jesús dijo que cuando fuera viejo, otro haría qué?",
+        "options": [
+          "Lo ceñiría y lo llevaría",
+          "Le daría la red",
+          "Lo seguiría hasta el mar",
+          "Le traería pan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué respondió Jesús cuando Pedro preguntó por el discípulo amado?",
+        "options": [
+          "Si quiero que él se quede hasta que yo venga, ¿qué a ti?",
+          "Él no morirá jamás",
+          "Sígueme tú a él también",
+          "Él apacentará las ovejas"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

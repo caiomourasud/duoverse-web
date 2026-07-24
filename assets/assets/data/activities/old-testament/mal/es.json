@@ -1,0 +1,271 @@
+{
+ "schema_version": 1,
+ "book": "mal",
+ "chapters": {
+  "1": [
+   {
+    "id": "mal-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "El último libro del Antiguo Testamento",
+    "text": "'Malaquías' significa 'mi mensajero'. Su libro cierra el Antiguo Testamento, y después de él vienen unos cuatro siglos de silencio profético antes de que comience el Nuevo Testamento."
+   },
+   {
+    "id": "mal-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Malaquías 1:2-3, ¿a quién dice Jehová que amó, y a quién aborreció?",
+    "options": [
+     "Amó a Jacob y aborreció a Esaú",
+     "Amó a Esaú y aborreció a Jacob",
+     "Amó a ambos por igual",
+     "No amó a ninguno"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "mal-1-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "En Malaquías 1:8, ¿qué tipo de animales ofrecían los sacerdotes en sacrificio?",
+    "options": [
+     "El primogénito y el mejor",
+     "El ciego, el cojo y el enfermo",
+     "Solo tórtolas y palomas",
+     "Becerros cebados"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-1-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "porque yo soy Gran {0}",
+    "blanks": [
+     "Rey"
+    ],
+    "distractors": [
+     "sacerdote",
+     "profeta",
+     "pastor"
+    ]
+   },
+   {
+    "id": "mal-1-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "Un nombre grande entre las naciones",
+    "text": "El versículo 11 declara que desde donde el sol nace hasta donde se pone, el nombre de Jehová será grande 'entre las naciones' — una promesa notable de que su adoración alcanzaría más allá de Israel."
+   }
+  ],
+  "2": [
+   {
+    "id": "mal-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Según Malaquías 2:4-5, ¿con quién hizo Jehová un convenio de vida y de paz?",
+    "options": [
+     "Abraham",
+     "David",
+     "Leví",
+     "Moisés"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "mal-2-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "porque mensajero es de Jehová de los ejércitos",
+    "blanks": [
+     "mensajero"
+    ],
+    "distractors": [
+     "siervo",
+     "sacerdote",
+     "profeta"
+    ]
+   },
+   {
+    "id": "mal-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Malaquías 2:10 hace una pregunta para reprender la deslealtad del pueblo. ¿Cuál es?",
+    "options": [
+     "¿Quién hallará una mujer virtuosa?",
+     "¿No tenemos todos un mismo padre? ¿No nos ha creado un mismo Dios?",
+     "¿Hasta cuándo claudicaréis entre dos pensamientos?",
+     "¿Dónde estabas cuando yo fundaba la tierra?"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-2-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "Jehová aborrece el repudio",
+    "text": "El versículo 16 dice que Jehová 'aborrece el repudio' — es decir, el divorcio injusto. Malaquías trata el matrimonio como un convenio, ligando la fidelidad al cónyuge a la fidelidad a Dios."
+   },
+   {
+    "id": "mal-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "En Malaquías 2:17, ¿cómo ha hecho cansar el pueblo a Jehová?",
+    "options": [
+     "Ofreciendo demasiados sacrificios",
+     "Ayunando con demasiada frecuencia",
+     "Diciendo que el que hace mal es bueno ante sus ojos",
+     "Guardando silencio"
+    ],
+    "answer": 2
+   }
+  ],
+  "3": [
+   {
+    "id": "mal-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Preparará el camino delante de mí",
+    "text": "El versículo 1 — 'He aquí, yo envío a mi mensajero, y él preparará el camino delante de mí' — se cita en los Evangelios y se aplica a Juan el Bautista, que preparó el camino para el Señor."
+   },
+   {
+    "id": "mal-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "En Malaquías 3:2-3, el Señor que viene se compara con el fuego del refinador que purifica ¿a quiénes?",
+    "options": [
+     "A los reyes de Judá",
+     "A los hijos de Leví",
+     "A las naciones",
+     "A los profetas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "En Malaquías 3:6, ¿qué dice Jehová de sí mismo, de modo que los hijos de Jacob no son consumidos?",
+    "options": [
+     "'Soy misericordioso sobre todo'",
+     "'Yo soy Jehová y no cambio'",
+     "'Soy lento para la ira'",
+     "'Soy un Dios celoso'"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "En vuestros {0} y ofrendas",
+    "blanks": [
+     "diezmos"
+    ],
+    "distractors": [
+     "oraciones",
+     "votos",
+     "sacrificios"
+    ]
+   },
+   {
+    "id": "mal-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Malaquías 3:10, ¿qué promete Jehová si el pueblo trae todos los diezmos al alfolí?",
+    "options": [
+     "Enviar lluvia a su tiempo",
+     "Abrir las ventanas de los cielos y derramar bendición",
+     "Concederles larga vida",
+     "Someter a sus enemigos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Según Malaquías 3:12, ¿cómo llamarán todas las naciones al pueblo obediente?",
+    "options": [
+     "Un sacerdocio santo",
+     "Bienaventurados, tierra deseable",
+     "Poderosos en la batalla",
+     "La descendencia de Abraham"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mp-16",
+    "type": "match_pairs",
+    "after_verse": 16,
+    "pairs": [
+     {
+      "left": "El mensajero del convenio",
+      "right": "prepara el camino (v. 1)"
+     },
+     {
+      "left": "El fuego del refinador",
+      "right": "purifica a los hijos de Leví (v. 3)"
+     },
+     {
+      "left": "Las ventanas de los cielos",
+      "right": "abiertas para los que diezman (v. 10)"
+     }
+    ]
+   },
+   {
+    "id": "mal-3-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Malaquías 3:18 dice que el pueblo se volverá y discernirá la diferencia entre ¿quiénes?",
+    "options": [
+     "Ricos y pobres",
+     "Sacerdote y levita",
+     "Judío y gentil",
+     "El justo y el malo"
+    ],
+    "answer": 3
+   }
+  ],
+  "4": [
+   {
+    "id": "mal-4-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "El Sol de justicia",
+    "text": "El versículo 2 promete que a los que temen el nombre de Jehová nacerá 'el Sol de justicia' y 'en sus alas traerá sanidad' — una de las imágenes de esperanza más luminosas del Antiguo Testamento."
+   },
+   {
+    "id": "mal-4-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "yo os envío a {0} el Profeta",
+    "blanks": [
+     "Elías"
+    ],
+    "distractors": [
+     "Moisés",
+     "Isaías",
+     "Eliseo"
+    ]
+   },
+   {
+    "id": "mal-4-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Según Malaquías 4:6, ¿qué hará el profeta antes del día grande y terrible de Jehová?",
+    "options": [
+     "Reconstruir el templo",
+     "Hacer volver el corazón de los padres hacia los hijos, y de los hijos hacia los padres",
+     "Reunir las tribus dispersas",
+     "Ungir a un nuevo rey"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,4627 @@
+{
+  "schema_version": 1,
+  "book": "ex",
+  "chapters": {
+    "1": [
+      {
+        "id": "ex-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Seventy souls",
+        "text": "The chapter notes that only seventy of Jacob's descendants came into Egypt; from this tiny family the nation of Israel would grow."
+      },
+      {
+        "id": "ex-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "were seventy souls: for {0} was in Egypt already.",
+        "blanks": [
+          "Joseph"
+        ],
+        "distractors": [
+          "Reuben",
+          "Levi",
+          "Judah"
+        ]
+      },
+      {
+        "id": "ex-1-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Now there arose up a new {0} over Egypt, which knew not Joseph.",
+        "blanks": [
+          "king"
+        ],
+        "distractors": [
+          "priest",
+          "prophet",
+          "servant"
+        ]
+      },
+      {
+        "id": "ex-1-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And they built for Pharaoh treasure cities, {0} and Raamses.",
+        "blanks": [
+          "Pithom"
+        ],
+        "distractors": [
+          "Goshen",
+          "Midian",
+          "Horeb"
+        ]
+      },
+      {
+        "id": "ex-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Every son that is born ye shall cast into the {0}, and every daughter ye shall save alive.",
+        "blanks": [
+          "river"
+        ],
+        "distractors": [
+          "wilderness",
+          "field",
+          "well"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "ex-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A waterproof basket",
+        "text": "The same slime and pitch used to seal Moses' ark also waterproofed boats in ancient Egypt; his mother turned a death sentence at the river into a tiny vessel of rescue."
+      },
+      {
+        "id": "ex-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "she took for him an ark of {0}, and daubed it with slime and with pitch",
+        "blanks": [
+          "bulrushes"
+        ],
+        "distractors": [
+          "thornbushes",
+          "brambles",
+          "thistles"
+        ]
+      },
+      {
+        "id": "ex-2-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "she called his name {0}: and she said, Because I drew him out of the water",
+        "blanks": [
+          "Moses"
+        ],
+        "distractors": [
+          "Gershom",
+          "Reuel",
+          "Levi"
+        ]
+      },
+      {
+        "id": "ex-2-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Moses fled from the face of Pharaoh, and dwelt in the land of {0}",
+        "blanks": [
+          "Midian"
+        ],
+        "distractors": [
+          "Egypt",
+          "Canaan",
+          "Goshen"
+        ]
+      },
+      {
+        "id": "ex-2-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Who was Reuel in this chapter?",
+        "options": [
+          "The priest of Midian, father of the seven daughters",
+          "An Egyptian taskmaster over the Hebrews",
+          "The son born to Moses and Zipporah",
+          "A shepherd who drove the daughters away"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-2-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Zipporah",
+            "right": "Wife of Moses"
+          },
+          {
+            "left": "Gershom",
+            "right": "Son of Moses"
+          },
+          {
+            "left": "Reuel",
+            "right": "Priest of Midian"
+          },
+          {
+            "left": "Pharaoh",
+            "right": "King of Egypt"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "ex-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The bush that was not consumed",
+        "text": "The sign that caught Moses' attention was a paradox: a bush wrapped in flame that burned yet was not burnt up. It was this strange sight, not a voice from nowhere, that made him stop and turn aside to look."
+      },
+      {
+        "id": "ex-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "for the place whereon thou standest is {0} ground.",
+        "blanks": [
+          "holy"
+        ],
+        "distractors": [
+          "cursed",
+          "barren",
+          "common"
+        ]
+      },
+      {
+        "id": "ex-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "How does God describe the land to which he promises to bring Israel?",
+        "options": [
+          "A land flowing with milk and honey",
+          "A land of silver and gold",
+          "A land of wheat and wine",
+          "A land of bread and oil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "When Moses asks what name to give God before Israel, what does God answer?",
+        "options": [
+          "I Am That I Am",
+          "The God of hosts",
+          "The Almighty",
+          "The Lord of the Hebrews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-3-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Horeb",
+            "right": "The mountain of God where Moses is called"
+          },
+          {
+            "left": "Jethro",
+            "right": "Moses' father-in-law, priest of Midian"
+          },
+          {
+            "left": "The bush",
+            "right": "Burned with fire, yet was not consumed"
+          },
+          {
+            "left": "Pharaoh",
+            "right": "King of Egypt to whom Moses is sent"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "ex-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And the Lord said unto him, What is that in thine hand? And he said, A {0}.",
+        "blanks": [
+          "rod"
+        ],
+        "distractors": [
+          "serpent",
+          "stone",
+          "tail"
+        ]
+      },
+      {
+        "id": "ex-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The rod that became a serpent",
+        "text": "The first sign given to Moses — a rod turning into a serpent — would echo later before Pharaoh, whose magicians copied the wonder (Exodus 7), yet Moses' rod swallowed up theirs."
+      },
+      {
+        "id": "ex-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "In the second sign, what happens to Moses' hand when he takes it out of his bosom?",
+        "options": [
+          "It became leprous as snow",
+          "It turned into a rod",
+          "It filled with blood",
+          "It became as black as coal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Now therefore go, and I will be with thy {0}, and teach thee what thou shalt say.",
+        "blanks": [
+          "mouth"
+        ],
+        "distractors": [
+          "hand",
+          "voice",
+          "heart"
+        ]
+      },
+      {
+        "id": "ex-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And Moses went and returned to Jethro his father in law, and said unto him",
+        "blanks": [
+          "Jethro"
+        ],
+        "distractors": [
+          "Aaron",
+          "Pharaoh",
+          "Zipporah"
+        ]
+      },
+      {
+        "id": "ex-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And Moses took his wife and his {0}, and set them upon an ass, and he returned to the land of Egypt",
+        "blanks": [
+          "sons"
+        ],
+        "distractors": [
+          "daughters",
+          "servants",
+          "brethren"
+        ]
+      },
+      {
+        "id": "ex-4-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my {0}",
+        "blanks": [
+          "firstborn"
+        ],
+        "distractors": [
+          "servant",
+          "people",
+          "brother"
+        ]
+      },
+      {
+        "id": "ex-4-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Then Zipporah took a sharp stone, and cut off the foreskin of her {0}",
+        "blanks": [
+          "son"
+        ],
+        "distractors": [
+          "husband",
+          "brother",
+          "servant"
+        ]
+      },
+      {
+        "id": "ex-4-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "And the Lord said to Aaron, Go into the {0} to meet Moses.",
+        "blanks": [
+          "wilderness"
+        ],
+        "distractors": [
+          "Egypt",
+          "mount",
+          "river"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "ex-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A feast in the wilderness",
+        "text": "Moses' first request to Pharaoh was not outright freedom but permission for Israel to 'hold a feast' and sacrifice to the Lord in the wilderness, a three days' journey away."
+      },
+      {
+        "id": "ex-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "I know not the Lord, neither will I let {0} go.",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Moses",
+          "Aaron",
+          "Pharaoh"
+        ]
+      },
+      {
+        "id": "ex-5-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Moses and Aaron fear would fall upon the people if they did not go sacrifice to the Lord?",
+        "options": [
+          "Pestilence or the sword",
+          "Famine and drought",
+          "An earthquake",
+          "Flooding of the Nile"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Ye shall no more give the people straw to make {0}, as heretofore",
+        "blanks": [
+          "brick"
+        ],
+        "distractors": [
+          "walls",
+          "tiles",
+          "pots"
+        ]
+      },
+      {
+        "id": "ex-5-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What did the taskmasters announce to the people in Pharaoh's name?",
+        "options": [
+          "I will not give you straw",
+          "You shall rest tomorrow",
+          "Your wages are doubled",
+          "You may go to the wilderness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "throughout all the land of Egypt to gather {0} instead of straw.",
+        "blanks": [
+          "stubble"
+        ],
+        "distractors": [
+          "clay",
+          "wheat",
+          "wood"
+        ]
+      },
+      {
+        "id": "ex-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Who were beaten when the quota of bricks was not fulfilled?",
+        "options": [
+          "The officers of the children of Israel",
+          "Pharaoh's taskmasters",
+          "Moses and Aaron",
+          "The Egyptian priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "There is no {0} given unto thy servants, and they say to us, Make brick",
+        "blanks": [
+          "straw"
+        ],
+        "distractors": [
+          "bread",
+          "water",
+          "rest"
+        ]
+      },
+      {
+        "id": "ex-5-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Why did the officers of Israel see that they were in evil case?",
+        "options": [
+          "They could not lessen their daily brick quota",
+          "They were to be sold as slaves",
+          "Their families had been taken",
+          "The river had dried up"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "to put a {0} in their hand to slay us.",
+        "blanks": [
+          "sword"
+        ],
+        "distractors": [
+          "straw",
+          "burden",
+          "whip"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "ex-6-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The name Jehovah",
+        "text": "In verse 3 God says he appeared to the patriarchs as 'God Almighty,' but by the name Jehovah he was not known to them. Jehovah is the form of God's sacred name (from the Hebrew YHWH), tied to his role as the Eternal One who keeps his covenants."
+      },
+      {
+        "id": "ex-6-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name {0} was I not known to them.",
+        "blanks": [
+          "Jehovah"
+        ],
+        "distractors": [
+          "Canaan",
+          "Pharaoh",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why did the children of Israel not hearken to the message of deliverance Moses brought them?",
+        "options": [
+          "For anguish of spirit and for cruel bondage",
+          "Because they did not believe Moses was a prophet",
+          "Because Pharaoh had forbidden them to listen",
+          "Because Aaron had not yet arrived"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-6-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Behold, the children of Israel have not hearkened unto me; how then shall {0} hear me, who am of uncircumcised lips?",
+        "blanks": [
+          "Pharaoh"
+        ],
+        "distractors": [
+          "Aaron",
+          "Moses",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And these are the names of the sons of {0} according to their generations; Gershon, and Kohath, and Merari",
+        "blanks": [
+          "Levi"
+        ],
+        "distractors": [
+          "Reuben",
+          "Simeon",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And Amram took him {0} his father’s sister to wife; and she bare him Aaron and Moses",
+        "blanks": [
+          "Jochebed"
+        ],
+        "distractors": [
+          "Elisheba",
+          "Zipporah",
+          "Puah"
+        ]
+      },
+      {
+        "id": "ex-6-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Amram",
+            "right": "Father of Aaron and Moses"
+          },
+          {
+            "left": "Eleazar",
+            "right": "Son of Aaron, father of Phinehas"
+          },
+          {
+            "left": "Elisheba",
+            "right": "Wife of Aaron"
+          },
+          {
+            "left": "Levi",
+            "right": "Ancestor whose sons became the Levites"
+          }
+        ]
+      },
+      {
+        "id": "ex-6-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What objection does Moses raise again when commanded to speak to Pharaoh all that the Lord says?",
+        "options": [
+          "That he is of uncircumcised lips",
+          "That he is too old for the task",
+          "That he does not know the language of Egypt",
+          "That he fears Aaron will abandon him"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "ex-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "See, I have made thee a god to Pharaoh: and {0} thy brother shall be thy prophet.",
+        "blanks": [
+          "Aaron"
+        ],
+        "distractors": [
+          "Jethro",
+          "Reuel",
+          "Gershom"
+        ]
+      },
+      {
+        "id": "ex-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Prophet and spokesman",
+        "text": "The Lord says Moses would be \"a god to Pharaoh\" and Aaron his \"prophet\": Moses would receive God's word and Aaron would announce it, just as a prophet declares to the people what God reveals."
+      },
+      {
+        "id": "ex-7-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How old was Moses when he and Aaron spoke to Pharaoh?",
+        "options": [
+          "Fourscore (eighty) years",
+          "Forty years",
+          "Sixty years",
+          "A hundred years"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "but {0} rod swallowed up their rods.",
+        "blanks": [
+          "Aaron’s"
+        ],
+        "distractors": [
+          "Pharaoh’s",
+          "Moses’",
+          "Israel’s"
+        ]
+      },
+      {
+        "id": "ex-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to {0}.",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "dust",
+          "stone",
+          "sand"
+        ]
+      },
+      {
+        "id": "ex-7-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Aaron's rod",
+            "right": "Swallowed the magicians' rods"
+          },
+          {
+            "left": "Waters of the river",
+            "right": "Were turned to blood"
+          },
+          {
+            "left": "Fish of the river",
+            "right": "Died"
+          },
+          {
+            "left": "Pharaoh's heart",
+            "right": "Was hardened"
+          }
+        ]
+      },
+      {
+        "id": "ex-7-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "And {0} days were fulfilled, after that the Lord had smitten the river.",
+        "blanks": [
+          "seven"
+        ],
+        "distractors": [
+          "three",
+          "forty",
+          "ten"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "ex-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "I will smite all thy borders with {0}",
+        "blanks": [
+          "frogs"
+        ],
+        "distractors": [
+          "flies",
+          "lice",
+          "locusts"
+        ]
+      },
+      {
+        "id": "ex-8-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The plague of frogs",
+        "text": "The second plague fills Egypt with frogs that rise from the Nile into houses, beds, and ovens — striking at a creature the Egyptians linked with fertility and their goddess Heqet."
+      },
+      {
+        "id": "ex-8-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "In verse 8, what does Pharaoh ask Moses and Aaron to do?",
+        "options": [
+          "Entreat the Lord to take away the frogs",
+          "Bring more frogs upon Egypt",
+          "Leave Egypt at once",
+          "Worship the Egyptian gods"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-8-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "that thou mayest know that there is none like unto the {0} our God",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "Pharaoh",
+          "Moses",
+          "Aaron"
+        ]
+      },
+      {
+        "id": "ex-8-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "smite the dust of the land, that it may become {0} throughout all the land of Egypt",
+        "blanks": [
+          "lice"
+        ],
+        "distractors": [
+          "frogs",
+          "flies",
+          "darkness"
+        ]
+      },
+      {
+        "id": "ex-8-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "When the magicians could not bring forth lice, what did they say to Pharaoh (v. 19)?",
+        "options": [
+          "“This is the finger of God”",
+          "“We can do nothing”",
+          "“Let the people go”",
+          "“The Lord is great”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-8-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "I will sever in that day the land of {0}, in which my people dwell",
+        "blanks": [
+          "Goshen"
+        ],
+        "distractors": [
+          "Egypt",
+          "Canaan",
+          "Midian"
+        ]
+      },
+      {
+        "id": "ex-8-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What was the fourth plague that came upon Egypt (v. 24)?",
+        "options": [
+          "A grievous swarm of flies",
+          "Thunder and hail",
+          "Boils on man and beast",
+          "Three days of darkness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And Pharaoh hardened his {0} at this time also",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "face",
+          "hand",
+          "voice"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "ex-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Behold, the hand of the Lord is upon thy cattle which is in the field, upon the horses, upon the asses, upon the {0}, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
+        "blanks": [
+          "camels"
+        ],
+        "distractors": [
+          "goats",
+          "lambs",
+          "swine"
+        ]
+      },
+      {
+        "id": "ex-9-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Israel's cattle spared",
+        "text": "Already in the plague on livestock the Lord “severs” between the cattle of Israel and of Egypt, so none of Israel's animals die. It is the same distinction that later shields Goshen from the hail (v. 26)."
+      },
+      {
+        "id": "ex-9-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "After all the cattle of Egypt died, what did Pharaoh do before his heart was hardened?",
+        "options": [
+          "He sent, and found that not one of Israel's cattle was dead",
+          "He let the people of Israel go at once",
+          "He offered sacrifices to the Lord",
+          "He fled the city with his servants"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "And it shall become small {0} in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.",
+        "blanks": [
+          "dust"
+        ],
+        "distractors": [
+          "ashes",
+          "hail",
+          "rain"
+        ]
+      },
+      {
+        "id": "ex-9-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "And the Lord hardened the {0} of Pharaoh, and he hearkened not unto them; as the Lord had spoken unto Moses.",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "land",
+          "house",
+          "hand"
+        ]
+      },
+      {
+        "id": "ex-9-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Behold, to morrow about this time I will cause it to rain a very grievous {0}, such as hath not been in Egypt since the foundation thereof even until now.",
+        "blanks": [
+          "hail"
+        ],
+        "distractors": [
+          "rain",
+          "dust",
+          "fire"
+        ]
+      },
+      {
+        "id": "ex-9-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Which land alone had no hail, because the children of Israel were there?",
+        "options": [
+          "Goshen",
+          "Egypt",
+          "Sinai",
+          "Midian"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-9-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And Moses said unto him, As soon as I am gone out of the {0}, I will spread abroad my hands unto the Lord; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the Lord ’s.",
+        "blanks": [
+          "city"
+        ],
+        "distractors": [
+          "land",
+          "house",
+          "field"
+        ]
+      },
+      {
+        "id": "ex-9-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "But the {0} and the rie were not smitten: for they were not grown up.",
+        "blanks": [
+          "wheat"
+        ],
+        "distractors": [
+          "flax",
+          "barley",
+          "oats"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "ex-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "behold, to morrow will I bring the {0} into thy coast",
+        "blanks": [
+          "locusts"
+        ],
+        "distractors": [
+          "frogs",
+          "flies",
+          "lice"
+        ]
+      },
+      {
+        "id": "ex-10-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "A plague without precedent",
+        "text": "The account stresses that neither the fathers nor the fathers' fathers of the Egyptians had ever seen the like — the plague of locusts was portrayed as unprecedented in Egypt's history."
+      },
+      {
+        "id": "ex-10-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In Exodus 10:9, why does Moses insist on taking everyone, young and old, along with the flocks and herds?",
+        "options": [
+          "Because they must hold a feast unto the Lord",
+          "Because they were fleeing Egypt forever",
+          "Because they feared leaving anyone behind",
+          "Because Pharaoh had demanded it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "and when it was morning, the east {0} brought the locusts",
+        "blanks": [
+          "wind"
+        ],
+        "distractors": [
+          "heat",
+          "sun",
+          "dew"
+        ]
+      },
+      {
+        "id": "ex-10-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "which took away the locusts, and cast them into the {0} sea",
+        "blanks": [
+          "Red"
+        ],
+        "distractors": [
+          "Salt",
+          "Great",
+          "Dead"
+        ]
+      },
+      {
+        "id": "ex-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "there was a thick {0} in all the land of Egypt three days",
+        "blanks": [
+          "darkness"
+        ],
+        "distractors": [
+          "cloud",
+          "smoke",
+          "mist"
+        ]
+      },
+      {
+        "id": "ex-10-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Light in Goshen",
+        "text": "During the plague of darkness the Egyptians could not see one another nor rise from their places for three days, yet all the children of Israel had light in their dwellings."
+      },
+      {
+        "id": "ex-10-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "there shall not an {0} be left behind",
+        "blanks": [
+          "hoof"
+        ],
+        "distractors": [
+          "ox",
+          "ass",
+          "ewe"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "ex-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Yet will I bring one plague more upon Pharaoh, and upon {0}",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Assyria",
+          "Babylon"
+        ]
+      },
+      {
+        "id": "ex-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Silver and gold for the road",
+        "text": "Before leaving, the Israelites would ask the Egyptians for jewels of silver and gold. This 'spoiling' was not theft: it served as long-overdue wages for generations of slave labor, and some of that gold would later be used for the tabernacle."
+      },
+      {
+        "id": "ex-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What is the final plague the Lord announces in this chapter?",
+        "options": [
+          "The death of every firstborn in the land of Egypt",
+          "A storm of hail upon the crops",
+          "Three days of darkness over Egypt",
+          "An invasion of locusts"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-11-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "shall not a {0} move his tongue",
+        "blanks": [
+          "dog"
+        ],
+        "distractors": [
+          "lion",
+          "wolf",
+          "ox"
+        ]
+      },
+      {
+        "id": "ex-11-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Moses and Aaron",
+            "right": "Did the wonders before Pharaoh"
+          },
+          {
+            "left": "Pharaoh",
+            "right": "Had his heart hardened and would not let Israel go"
+          },
+          {
+            "left": "Egypt's firstborn",
+            "right": "Would die in the announced final plague"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "ex-12-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The start of the calendar",
+        "text": "By calling this month 'the beginning of months,' the Lord reorders Israel's calendar around the deliverance from Egypt; this month (Abib/Nisan) becomes the start of the religious year."
+      },
+      {
+        "id": "ex-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "they shall take to them every man a {0}, according to the house of their fathers",
+        "blanks": [
+          "lamb"
+        ],
+        "distractors": [
+          "calf",
+          "dove",
+          "ox"
+        ]
+      },
+      {
+        "id": "ex-12-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "and unleavened bread; and with bitter {0} they shall eat it",
+        "blanks": [
+          "herbs"
+        ],
+        "distractors": [
+          "honey",
+          "wine",
+          "salt"
+        ]
+      },
+      {
+        "id": "ex-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How were the Israelites to eat the lamb, according to verse 11?",
+        "options": [
+          "Reclining at ease",
+          "With loins girded and in haste",
+          "Only at dawn",
+          "After a long prayer"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-12-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "and when I see the blood, I will pass over you, and the {0} shall not be upon you to destroy you",
+        "blanks": [
+          "plague"
+        ],
+        "distractors": [
+          "locusts",
+          "hail",
+          "darkness"
+        ]
+      },
+      {
+        "id": "ex-12-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Seven days shall ye eat {0} bread",
+        "blanks": [
+          "unleavened"
+        ],
+        "distractors": [
+          "leavened",
+          "roasted",
+          "broken"
+        ]
+      },
+      {
+        "id": "ex-12-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And ye shall take a bunch of {0}, and dip it in the blood that is in the basin",
+        "blanks": [
+          "hyssop"
+        ],
+        "distractors": [
+          "lamb",
+          "leaven",
+          "hair"
+        ]
+      },
+      {
+        "id": "ex-12-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "At midnight, whom did the Lord smite in all the land of Egypt?",
+        "options": [
+          "All of Pharaoh's soldiers",
+          "All the firstborn",
+          "All the priests",
+          "All the elders"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-12-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "and they borrowed of the Egyptians jewels of {0}, and jewels of gold, and raiment",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "bronze",
+          "clay",
+          "wood"
+        ]
+      },
+      {
+        "id": "ex-12-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Rameses",
+            "right": "Israel's starting point"
+          },
+          {
+            "left": "Succoth",
+            "right": "First destination of the journey"
+          },
+          {
+            "left": "Four hundred and thirty years",
+            "right": "Time they dwelt in Egypt"
+          },
+          {
+            "left": "Six hundred thousand",
+            "right": "Approximate number of men on foot"
+          }
+        ]
+      },
+      {
+        "id": "ex-12-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "out of the house; neither shall ye break a {0} thereof",
+        "blanks": [
+          "bone"
+        ],
+        "distractors": [
+          "loaf",
+          "leaven",
+          "coal"
+        ]
+      },
+      {
+        "id": "ex-12-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "One {0} shall be to him that is homeborn, and unto the stranger that sojourneth among you",
+        "blanks": [
+          "law"
+        ],
+        "distractors": [
+          "passover",
+          "house",
+          "plague"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "ex-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Why the firstborn?",
+        "text": "Because the Lord had spared Israel's firstborn during the last plague in Egypt, every firstborn now belonged to Him and was to be sanctified or redeemed, recalling that deliverance."
+      },
+      {
+        "id": "ex-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "This day came ye out in the month {0}.",
+        "blanks": [
+          "Abib"
+        ],
+        "distractors": [
+          "Sivan",
+          "Ethanim",
+          "Bul"
+        ]
+      },
+      {
+        "id": "ex-13-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "For how many days were the people to eat unleavened bread?",
+        "options": [
+          "Seven days",
+          "Three days",
+          "Forty days",
+          "One day"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And every firstling of an ass thou shalt redeem with a {0}",
+        "blanks": [
+          "lamb"
+        ],
+        "distractors": [
+          "calf",
+          "kid",
+          "dove"
+        ]
+      },
+      {
+        "id": "ex-13-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Why did God not lead the people by the way of the land of the Philistines, although it was near?",
+        "options": [
+          "Lest the people repent when they saw war and return to Egypt",
+          "Because the Philistines were holding a feast",
+          "So the people could rest in the desert",
+          "Because that road had no water"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-13-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And they took their journey from Succoth, and encamped in {0}, in the edge of the wilderness.",
+        "blanks": [
+          "Etham"
+        ],
+        "distractors": [
+          "Rameses",
+          "Egypt",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "ex-13-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Pillar of cloud",
+            "right": "Led the people by day"
+          },
+          {
+            "left": "Pillar of fire",
+            "right": "Gave the people light by night"
+          },
+          {
+            "left": "Bones of Joseph",
+            "right": "Moses took them with him"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "ex-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Encamp before Pi-hahiroth",
+        "text": "God commands Israel to camp at a vulnerable spot, between Migdol and the sea, before Baal-zephon. The move looks like a strategic blunder, but it is deliberate: it lures Pharaoh into the trap where the Lord himself will be honoured."
+      },
+      {
+        "id": "ex-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "In verse 3, what does God foresee Pharaoh will say of the children of Israel?",
+        "options": [
+          "They are entangled in the land, the wilderness hath shut them in",
+          "They have already crossed the sea and escaped",
+          "They have surrendered to the Egyptian army",
+          "They have turned back to serve in Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-14-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And he took six hundred chosen {0}, and all the chariots of Egypt, and captains over every one of them.",
+        "blanks": [
+          "chariots"
+        ],
+        "distractors": [
+          "horses",
+          "servants",
+          "captains"
+        ]
+      },
+      {
+        "id": "ex-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "The Lord shall {0} for you, and ye shall hold your peace.",
+        "blanks": [
+          "fight"
+        ],
+        "distractors": [
+          "plead",
+          "march",
+          "wait"
+        ]
+      },
+      {
+        "id": "ex-14-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry {0} through the midst of the sea.",
+        "blanks": [
+          "ground"
+        ],
+        "distractors": [
+          "soil",
+          "sand",
+          "path"
+        ]
+      },
+      {
+        "id": "ex-14-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "According to verse 21, what did the Lord use to make the sea go back and become dry land?",
+        "options": [
+          "A strong east wind that blew all that night",
+          "A pillar of fire cast upon the waters",
+          "Moses' rod striking the rock",
+          "A storm of hail through the night"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-14-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a {0} unto them on their right hand, and on their left.",
+        "blanks": [
+          "wall"
+        ],
+        "distractors": [
+          "shelter",
+          "path",
+          "shade"
+        ]
+      },
+      {
+        "id": "ex-14-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "And took off their chariot {0}, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.",
+        "blanks": [
+          "wheels"
+        ],
+        "distractors": [
+          "horses",
+          "captains",
+          "spears"
+        ]
+      },
+      {
+        "id": "ex-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "According to verse 30, from what did the Lord save Israel that day?",
+        "options": [
+          "Out of the hand of the Egyptians",
+          "From famine in the wilderness",
+          "From thirst by the sea",
+          "From the plagues of Egypt"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "ex-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Song of the Sea",
+        "text": "Verses 1 through 18 are known as the Song of the Sea (Shirat HaYam), regarded as one of the oldest poetic passages in the Hebrew Bible and still recited in Jewish liturgy today."
+      },
+      {
+        "id": "ex-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "his chosen {0} also are drowned in the Red sea",
+        "blanks": [
+          "captains"
+        ],
+        "distractors": [
+          "horsemen",
+          "soldiers",
+          "servants"
+        ]
+      },
+      {
+        "id": "ex-15-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "they sank as {0} in the mighty waters",
+        "blanks": [
+          "lead"
+        ],
+        "distractors": [
+          "stone",
+          "stubble",
+          "sand"
+        ]
+      },
+      {
+        "id": "ex-15-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "who is like thee, glorious in {0}",
+        "blanks": [
+          "holiness"
+        ],
+        "distractors": [
+          "power",
+          "mercy",
+          "war"
+        ]
+      },
+      {
+        "id": "ex-15-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "How is Miriam described when she leads the women in praise?",
+        "options": [
+          "The prophetess",
+          "The judge",
+          "The queen",
+          "The priestess"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-15-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Why could the people not drink the waters at the place called Marah?",
+        "options": [
+          "They were bitter",
+          "They were scarce",
+          "They had dried up",
+          "They were salty"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-15-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "twelve wells of water, and threescore and ten {0}",
+        "blanks": [
+          "palm trees"
+        ],
+        "distractors": [
+          "wells",
+          "tents",
+          "sheep"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "ex-16-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "came unto the wilderness of {0}, which is between Elim and Sinai",
+        "blanks": [
+          "Sin"
+        ],
+        "distractors": [
+          "Sinai",
+          "Elim",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "ex-16-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The flesh pots of Egypt",
+        "text": "The people longed for the 'flesh pots' of Egypt where they ate bread to the full, preferring remembered slavery with food over freedom with hunger."
+      },
+      {
+        "id": "ex-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "in the morning, then ye shall see the {0} of the Lord",
+        "blanks": [
+          "glory"
+        ],
+        "distractors": [
+          "bread",
+          "cloud",
+          "manna"
+        ]
+      },
+      {
+        "id": "ex-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "that at even the {0} came up, and covered the camp",
+        "blanks": [
+          "quails"
+        ],
+        "distractors": [
+          "dew",
+          "manna",
+          "worms"
+        ]
+      },
+      {
+        "id": "ex-16-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "when they did mete it with an {0}, he that gathered much had nothing over",
+        "blanks": [
+          "omer"
+        ],
+        "distractors": [
+          "ephah",
+          "pot",
+          "host"
+        ]
+      },
+      {
+        "id": "ex-16-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What were the Israelites told to prepare and store on the sixth day, according to verse 23?",
+        "options": [
+          "A double portion for the sabbath",
+          "A single morning's bread",
+          "Quail to be salted",
+          "Coriander seed to plant"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-16-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "In verse 28, why is the Lord displeased with the people?",
+        "options": [
+          "They refuse to keep His commandments and laws",
+          "They eat too much manna",
+          "They build an altar to quail",
+          "They leave the wilderness of Sin"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-16-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "And the house of Israel called the name thereof {0}",
+        "blanks": [
+          "Manna"
+        ],
+        "distractors": [
+          "Sinai",
+          "Elim",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "ex-16-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "Forty years of bread",
+        "text": "Verse 35 notes the manna fell for forty years, ceasing only when Israel reached the borders of inhabited Canaan, marking the manna as a sign of the whole wilderness journey."
+      }
+    ],
+    "17": [
+      {
+        "id": "ex-17-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did the people demand of Moses when they chided with him?",
+        "options": [
+          "Water that they might drink",
+          "Bread from heaven to eat",
+          "To return to Egypt at once",
+          "A king to rule over them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-17-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Water from the rock",
+        "text": "The Lord stood upon the rock in Horeb and water flowed when Moses struck it; Paul later cited this rock as a type of Christ, the source of living water for Israel."
+      },
+      {
+        "id": "ex-17-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And he called the name of the place {0}, and Meribah",
+        "blanks": [
+          "Massah"
+        ],
+        "distractors": [
+          "Rephidim",
+          "Horeb",
+          "Sinai"
+        ]
+      },
+      {
+        "id": "ex-17-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "and Aaron and Hur stayed up his {0}, the one on the one side",
+        "blanks": [
+          "hands"
+        ],
+        "distractors": [
+          "arms",
+          "feet",
+          "shoulders"
+        ]
+      },
+      {
+        "id": "ex-17-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And Joshua discomfited Amalek and his people with the edge of the {0}",
+        "blanks": [
+          "sword"
+        ],
+        "distractors": [
+          "spear",
+          "rod",
+          "bow"
+        ]
+      },
+      {
+        "id": "ex-17-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Rephidim",
+            "right": "Where Amalek fought against Israel"
+          },
+          {
+            "left": "Horeb",
+            "right": "The rock from which water came"
+          },
+          {
+            "left": "Jehovah-nissi",
+            "right": "The name of the altar Moses built"
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "ex-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The priest of Midian",
+        "text": "Jethro is called \"the priest of Midian.\" Midian lay east of the Gulf of Aqaba, and it was there that Moses lived as a shepherd for years before God called him at the burning bush."
+      },
+      {
+        "id": "ex-18-fb-4",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 4,
+        "template": "the God of my father, said he, was mine help, and delivered me from the sword of {0}",
+        "blanks": [
+          "Pharaoh"
+        ],
+        "distractors": [
+          "Jethro",
+          "Aaron",
+          "Gershom"
+        ]
+      },
+      {
+        "id": "ex-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why did Jethro rejoice when he met Moses?",
+        "options": [
+          "For all the goodness the Lord had done to Israel, delivering them from the Egyptians",
+          "Because Moses had become king of Egypt",
+          "Because Israel had conquered the land of Midian",
+          "Because Pharaoh had turned to the Lord"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-18-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Now I know that the Lord is greater than all {0}",
+        "blanks": [
+          "gods"
+        ],
+        "distractors": [
+          "kings",
+          "nations",
+          "men"
+        ]
+      },
+      {
+        "id": "ex-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What did Jethro see Moses doing from the morning unto the evening?",
+        "options": [
+          "Judging the people alone, while they stood by him",
+          "Leading the people through the wilderness",
+          "Offering burnt offerings to God",
+          "Writing the commandments on tablets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-18-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "able men, such as fear God, men of truth, hating {0}",
+        "blanks": [
+          "covetousness"
+        ],
+        "distractors": [
+          "wickedness",
+          "idleness",
+          "drunkenness"
+        ]
+      },
+      {
+        "id": "ex-18-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Jethro",
+            "right": "Father in law who gave the counsel"
+          },
+          {
+            "left": "Zipporah",
+            "right": "Moses' wife"
+          },
+          {
+            "left": "Aaron",
+            "right": "Ate bread before God with Jethro"
+          },
+          {
+            "left": "Rulers of thousands",
+            "right": "Leaders Moses set over the people"
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "ex-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The third month",
+        "text": "The Sinai meeting begins “in the third month” after leaving Egypt. Jewish tradition connects this moment with the feast of Shavuot (Pentecost), celebrated as the day the law was given."
+      },
+      {
+        "id": "ex-19-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "how I bare you on {0}’ wings",
+        "blanks": [
+          "eagles"
+        ],
+        "distractors": [
+          "doves",
+          "ravens",
+          "sparrows"
+        ]
+      },
+      {
+        "id": "ex-19-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What does the Lord say Israel will be unto him if they keep his covenant?",
+        "options": [
+          "A kingdom of priests and an holy nation",
+          "A people scattered among all nations",
+          "A great army of warriors",
+          "A city set upon a hill"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-19-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "the Lord will come down in the sight of all the people upon mount {0}",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Horeb",
+          "Nebo",
+          "Carmel"
+        ]
+      },
+      {
+        "id": "ex-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "but he shall surely be {0}, or shot through",
+        "blanks": [
+          "stoned"
+        ],
+        "distractors": [
+          "sanctified",
+          "charged",
+          "departed"
+        ]
+      },
+      {
+        "id": "ex-19-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "the smoke thereof ascended as the smoke of a {0}",
+        "blanks": [
+          "furnace"
+        ],
+        "distractors": [
+          "mountain",
+          "altar",
+          "wilderness"
+        ]
+      },
+      {
+        "id": "ex-19-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Mount Sinai",
+            "right": "Where the Lord descended in fire"
+          },
+          {
+            "left": "Trumpet",
+            "right": "Sound that waxed louder while Moses spake"
+          },
+          {
+            "left": "Aaron",
+            "right": "Only one allowed to come up with Moses"
+          }
+        ]
+      },
+      {
+        "id": "ex-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "thou, and {0} with thee",
+        "blanks": [
+          "Aaron"
+        ],
+        "distractors": [
+          "Jacob",
+          "Israel",
+          "Moses"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "ex-20-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The house of bondage",
+        "text": "Before giving any commandment, God identifies himself as the one who freed Israel from slavery in Egypt: obedience grows out of gratitude for deliverance, not fear."
+      },
+      {
+        "id": "ex-20-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "I am the Lord thy God, which have brought thee out of the land of {0}, out of the house of bondage.",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Sinai",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-20-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "How does God describe himself when forbidding the worship of graven images?",
+        "options": [
+          "As a jealous God",
+          "As a distant God",
+          "As an indifferent God",
+          "As a silent God"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Remember the {0} day, to keep it holy.",
+        "blanks": [
+          "sabbath"
+        ],
+        "distractors": [
+          "feast",
+          "harvest",
+          "atonement"
+        ]
+      },
+      {
+        "id": "ex-20-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "According to verse 11, why is the sabbath day to be kept holy?",
+        "options": [
+          "Because in six days God made heaven and earth and rested on the seventh",
+          "Because it was the day Israel left Egypt",
+          "Because it was when the Law was given",
+          "Because it was the day man was created"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Honour thy father and thy mother: that thy days may be long upon the {0} which the Lord thy God giveth thee.",
+        "blanks": [
+          "land"
+        ],
+        "distractors": [
+          "city",
+          "throne",
+          "mountain"
+        ]
+      },
+      {
+        "id": "ex-20-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Thou shalt not kill",
+            "right": "Respect for life"
+          },
+          {
+            "left": "Thou shalt not commit adultery",
+            "right": "Faithfulness in marriage"
+          },
+          {
+            "left": "Thou shalt not steal",
+            "right": "Respect for others' property"
+          },
+          {
+            "left": "Thou shalt not bear false witness",
+            "right": "Truth about one's neighbour"
+          }
+        ]
+      },
+      {
+        "id": "ex-20-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain {0}: and when the people saw it, they removed, and stood afar off.",
+        "blanks": [
+          "smoking"
+        ],
+        "distractors": [
+          "melting",
+          "sinking",
+          "crumbling"
+        ]
+      },
+      {
+        "id": "ex-20-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to Moses, why did God come amid the thunder and lightning?",
+        "options": [
+          "To prove the people, that they sin not",
+          "To destroy Mount Sinai",
+          "To choose a new leader",
+          "To punish Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of {0}.",
+        "blanks": [
+          "gold"
+        ],
+        "distractors": [
+          "clay",
+          "wood",
+          "iron"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "ex-21-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Freedom in the seventh year",
+        "text": "The law capped a Hebrew's servitude at six years: in the seventh he went out free, echoing the sabbatical rhythm of rest that runs through the whole Torah."
+      },
+      {
+        "id": "ex-21-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "If thou buy an Hebrew servant, six years he shall serve: and in the {0} he shall go out free for nothing.",
+        "blanks": [
+          "seventh"
+        ],
+        "distractors": [
+          "third",
+          "tenth",
+          "fourth"
+        ]
+      },
+      {
+        "id": "ex-21-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "According to verse 8, what was the master forbidden to do with the maidservant who did not please him?",
+        "options": [
+          "Sell her unto a strange nation",
+          "Let her go free",
+          "Betroth her to his son",
+          "Return her to her father"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-21-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "He that smiteth a man, so that he die, shall be surely put to {0}.",
+        "blanks": [
+          "death"
+        ],
+        "distractors": [
+          "work",
+          "flight",
+          "shame"
+        ]
+      },
+      {
+        "id": "ex-21-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a {0} whither he shall flee.",
+        "blanks": [
+          "place"
+        ],
+        "distractors": [
+          "judge",
+          "altar",
+          "ransom"
+        ]
+      },
+      {
+        "id": "ex-21-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "And he that curseth his father, or his {0}, shall surely be put to death.",
+        "blanks": [
+          "mother"
+        ],
+        "distractors": [
+          "daughter",
+          "neighbour",
+          "servant"
+        ]
+      },
+      {
+        "id": "ex-21-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And if a man smite his servant, or his maid, with a {0}, and he die under his hand; he shall be surely punished.",
+        "blanks": [
+          "rod"
+        ],
+        "distractors": [
+          "stone",
+          "staff",
+          "fist"
+        ]
+      },
+      {
+        "id": "ex-21-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Eye for eye",
+        "text": "The famous law of retaliation ('eye for eye, tooth for tooth') did not encourage revenge: it capped the penalty at the exact measure of the harm, preventing escalating reprisals."
+      },
+      {
+        "id": "ex-21-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Eye for eye, {0} for tooth, hand for hand, foot for foot,",
+        "blanks": [
+          "tooth"
+        ],
+        "distractors": [
+          "hand",
+          "life",
+          "wound"
+        ]
+      },
+      {
+        "id": "ex-21-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Ox gores a man or woman",
+            "right": "The ox shall be stoned"
+          },
+          {
+            "left": "Ox known to push, owner warned",
+            "right": "Owner also put to death"
+          },
+          {
+            "left": "Ox gores a servant",
+            "right": "Thirty shekels of silver"
+          }
+        ]
+      },
+      {
+        "id": "ex-21-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Whether he have gored a son, or have gored a {0}, according to this judgment shall it be done unto him.",
+        "blanks": [
+          "daughter"
+        ],
+        "distractors": [
+          "servant",
+          "neighbour",
+          "mother"
+        ]
+      },
+      {
+        "id": "ex-21-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty {0} of silver, and the ox shall be stoned.",
+        "blanks": [
+          "shekels"
+        ],
+        "distractors": [
+          "talents",
+          "cubits",
+          "drachmas"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "ex-22-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "he shall restore {0} oxen for an ox",
+        "blanks": [
+          "five"
+        ],
+        "distractors": [
+          "four",
+          "seven",
+          "three"
+        ]
+      },
+      {
+        "id": "ex-22-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "He who kindles, pays",
+        "text": "The fire law (v. 6) holds whoever kindles a blaze liable for the stacks of corn, the standing corn and the field consumed by it — an ancient principle of responsibility for damage caused, even unintentionally."
+      },
+      {
+        "id": "ex-22-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In a dispute over goods that someone claims as his own, before whom was the cause of both parties to come?",
+        "options": [
+          "The judges",
+          "Pharaoh",
+          "The priests",
+          "The elders of the city"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-22-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And if a man entice a {0} that is not betrothed",
+        "blanks": [
+          "maid"
+        ],
+        "distractors": [
+          "widow",
+          "stranger",
+          "witch"
+        ]
+      },
+      {
+        "id": "ex-22-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "for ye were strangers in the land of {0}",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Midian",
+          "Sinai"
+        ]
+      },
+      {
+        "id": "ex-22-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "and your wives shall be {0}",
+        "blanks": [
+          "widows"
+        ],
+        "distractors": [
+          "strangers",
+          "servants",
+          "captives"
+        ]
+      },
+      {
+        "id": "ex-22-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "nor curse the {0} of thy people",
+        "blanks": [
+          "ruler"
+        ],
+        "distractors": [
+          "judges",
+          "priests",
+          "elders"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "ex-23-cur-1",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Impartial justice",
+        "text": "The opening verses forbid both twisting justice against an innocent man and favoring someone merely because he is poor: truth in judgment must bend to neither power nor pity."
+      },
+      {
+        "id": "ex-23-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verses 4-5, what should you do when you find your enemy's ox or ass gone astray?",
+        "options": [
+          "Bring it back to him and help him",
+          "Keep the animal as compensation",
+          "Leave it, since it belongs to an enemy",
+          "Sell it and give the money to the poor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-23-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "seeing ye were strangers in the land of {0}",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Sinai",
+          "Philistia"
+        ]
+      },
+      {
+        "id": "ex-23-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Thou shalt keep the feast of {0} bread",
+        "blanks": [
+          "unleavened"
+        ],
+        "distractors": [
+          "leavened",
+          "bitter",
+          "consecrated"
+        ]
+      },
+      {
+        "id": "ex-23-cur-14",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "The three yearly feasts",
+        "text": "God appoints three feasts at which all Israel would gather: the feast of unleavened bread (Passover), the feast of harvest of the firstfruits, and the feast of ingathering at the year's end - a calendar tying the people's agricultural and spiritual life together."
+      },
+      {
+        "id": "ex-23-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Behold, I send an {0} before thee",
+        "blanks": [
+          "Angel"
+        ],
+        "distractors": [
+          "army",
+          "prophet",
+          "ensign"
+        ]
+      },
+      {
+        "id": "ex-23-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Promised Angel",
+            "right": "Guide God sends before Israel"
+          },
+          {
+            "left": "The Angel's voice",
+            "right": "To be obeyed without provoking him"
+          },
+          {
+            "left": "Nations of the land",
+            "right": "Amorites, Hittites, Canaanites and others"
+          },
+          {
+            "left": "Promise to the obedient",
+            "right": "God will be an enemy to their enemies"
+          }
+        ]
+      },
+      {
+        "id": "ex-23-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "According to verse 28, what does God say He will send to drive out the Hivite, Canaanite and Hittite from before Israel?",
+        "options": [
+          "Hornets",
+          "Thunder",
+          "Plagues of locusts",
+          "Angels with swords"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-23-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "from the {0} even unto the sea of the Philistines",
+        "blanks": [
+          "Red sea"
+        ],
+        "distractors": [
+          "Salt sea",
+          "river Jordan",
+          "great sea"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "ex-24-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to verses 1 and 2, who alone was allowed to come near the Lord on the mount?",
+        "options": [
+          "Moses alone",
+          "All the people of Israel",
+          "The seventy elders",
+          "Aaron and his sons"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-24-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Behold the blood of the {0}, which the Lord hath made with you concerning all these words.",
+        "blanks": [
+          "covenant"
+        ],
+        "distractors": [
+          "altar",
+          "offering",
+          "mount"
+        ]
+      },
+      {
+        "id": "ex-24-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "A pavement of sapphire",
+        "text": "When they saw the God of Israel, Moses and the elders described under his feet something like a paved work of sapphire stone, as clear as the body of heaven itself - one of the rare visions of the divine glory recorded in the Old Testament."
+      },
+      {
+        "id": "ex-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And Moses rose up, and his minister {0}: and Moses went up into the mount of God.",
+        "blanks": [
+          "Joshua"
+        ],
+        "distractors": [
+          "Aaron",
+          "Hur",
+          "Abihu"
+        ]
+      },
+      {
+        "id": "ex-24-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Six days",
+            "right": "How long the cloud covered the mount before the call"
+          },
+          {
+            "left": "Seventh day",
+            "right": "When the Lord called to Moses out of the cloud"
+          },
+          {
+            "left": "Devouring fire",
+            "right": "How the glory of the Lord appeared on the top of the mount"
+          },
+          {
+            "left": "Forty days and forty nights",
+            "right": "How long Moses stayed in the mount"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "ex-25-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A portable sanctuary",
+        "text": "Exodus 25 begins God's instructions to Moses on Mount Sinai for building the tabernacle, a movable sanctuary Israel carried through the wilderness to worship the Lord."
+      },
+      {
+        "id": "ex-25-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Which metals were the Israelites to bring as an offering for the sanctuary?",
+        "options": [
+          "Gold, silver, and brass",
+          "Iron, tin, and lead",
+          "Copper, nickel, and zinc",
+          "Brass, iron, and silver"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-25-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And let them make me a {0}; that I may dwell among them.",
+        "blanks": [
+          "sanctuary"
+        ],
+        "distractors": [
+          "altar",
+          "throne",
+          "garden"
+        ]
+      },
+      {
+        "id": "ex-25-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Ark",
+            "right": "Held the testimony"
+          },
+          {
+            "left": "Staves",
+            "right": "Used to carry the ark"
+          },
+          {
+            "left": "Rings",
+            "right": "Where the staves were placed"
+          }
+        ]
+      },
+      {
+        "id": "ex-25-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And there I will meet with thee, and I will commune with thee from above the {0}",
+        "blanks": [
+          "mercy seat"
+        ],
+        "distractors": [
+          "candlestick",
+          "sanctuary",
+          "table"
+        ]
+      },
+      {
+        "id": "ex-25-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "And thou shalt make a {0} of pure gold",
+        "blanks": [
+          "candlestick"
+        ],
+        "distractors": [
+          "mercy seat",
+          "sanctuary",
+          "breastplate"
+        ]
+      },
+      {
+        "id": "ex-25-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "The bowls of the candlestick were shaped like what?",
+        "options": [
+          "Almonds",
+          "Pomegranates",
+          "Lilies",
+          "Olives"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-25-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "And thou shalt make the {0} lamps thereof",
+        "blanks": [
+          "seven"
+        ],
+        "distractors": [
+          "three",
+          "twelve",
+          "four"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "ex-26-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The colors of the tabernacle",
+        "text": "Blue, purple, and scarlet were costly dyes in the ancient world; purple came from a sea snail and scarlet from an insect, making the tabernacle curtains a symbol of royalty and holiness."
+      },
+      {
+        "id": "ex-26-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "The length of one curtain shall be eight and twenty {0}",
+        "blanks": [
+          "cubits"
+        ],
+        "distractors": [
+          "spans",
+          "curtains",
+          "sockets"
+        ]
+      },
+      {
+        "id": "ex-26-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And thou shalt make curtains of goats’ {0} to be a covering upon the tabernacle",
+        "blanks": [
+          "hair"
+        ],
+        "distractors": [
+          "skins",
+          "wool",
+          "milk"
+        ]
+      },
+      {
+        "id": "ex-26-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And thou shalt make fifty taches of {0}",
+        "blanks": [
+          "brass"
+        ],
+        "distractors": [
+          "silver",
+          "iron",
+          "tin"
+        ]
+      },
+      {
+        "id": "ex-26-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "And thou shalt make boards for the tabernacle of shittim {0} standing up",
+        "blanks": [
+          "wood"
+        ],
+        "distractors": [
+          "stone",
+          "gold",
+          "linen"
+        ]
+      },
+      {
+        "id": "ex-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And thou shalt make forty sockets of {0} under the twenty boards",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "brass",
+          "iron"
+        ]
+      },
+      {
+        "id": "ex-26-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And for the sides of the tabernacle westward thou shalt make six {0}",
+        "blanks": [
+          "boards"
+        ],
+        "distractors": [
+          "sockets",
+          "bars",
+          "pillars"
+        ]
+      },
+      {
+        "id": "ex-26-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And thou shalt overlay the boards with {0}, and make their rings of gold",
+        "blanks": [
+          "gold"
+        ],
+        "distractors": [
+          "silver",
+          "brass",
+          "tin"
+        ]
+      },
+      {
+        "id": "ex-26-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "According to verse 33, what did the veil divide within the tabernacle?",
+        "options": [
+          "The holy place from the most holy",
+          "The court from the altar",
+          "The door from the tent",
+          "The candlestick from the table"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-26-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Ark of the testimony",
+            "right": "Set in the most holy place"
+          },
+          {
+            "left": "The table",
+            "right": "Put on the north side"
+          },
+          {
+            "left": "The candlestick",
+            "right": "Over against the table, southward"
+          }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "ex-27-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be {0}",
+        "blanks": [
+          "foursquare"
+        ],
+        "distractors": [
+          "round",
+          "oblong",
+          "triangular"
+        ]
+      },
+      {
+        "id": "ex-27-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The horns of the altar",
+        "text": "The altar's four horns, made of one piece with it, became a symbol of refuge: in scripture, taking hold of them was to seek protection and mercy."
+      },
+      {
+        "id": "ex-27-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "With what material were the altar and its staves to be overlaid?",
+        "options": [
+          "Brass",
+          "Silver",
+          "Gold",
+          "Iron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-27-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "the hooks of the pillars and their fillets shall be of {0}",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "brass",
+          "gold",
+          "iron"
+        ]
+      },
+      {
+        "id": "ex-27-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How many cubits of hangings were on the west side of the court's breadth?",
+        "options": [
+          "Fifty cubits",
+          "An hundred cubits",
+          "Fifteen cubits",
+          "Twenty cubits"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-27-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "an hanging of twenty cubits, of blue, and purple, and {0}, and fine twined linen",
+        "blanks": [
+          "scarlet"
+        ],
+        "distractors": [
+          "green",
+          "white",
+          "golden"
+        ]
+      },
+      {
+        "id": "ex-27-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "that they bring thee pure oil {0} beaten for the light",
+        "blanks": [
+          "olive"
+        ],
+        "distractors": [
+          "cedar",
+          "wheat",
+          "spikenard"
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "ex-28-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "whom I have filled with the spirit of {0}",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "beauty",
+          "judgment",
+          "memorial"
+        ]
+      },
+      {
+        "id": "ex-28-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "And thou shalt take two {0} stones, and grave on them the names",
+        "blanks": [
+          "onyx"
+        ],
+        "distractors": [
+          "sapphire",
+          "emerald",
+          "jasper"
+        ]
+      },
+      {
+        "id": "ex-28-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "And thou shalt make the breastplate of {0} with cunning work",
+        "blanks": [
+          "judgment"
+        ],
+        "distractors": [
+          "beauty",
+          "wisdom",
+          "memorial"
+        ]
+      },
+      {
+        "id": "ex-28-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And the fourth row a {0}, and an onyx, and a jasper",
+        "blanks": [
+          "beryl"
+        ],
+        "distractors": [
+          "topaz",
+          "carbuncle",
+          "sardius"
+        ]
+      },
+      {
+        "id": "ex-28-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "How many stones, bearing the names of the children of Israel, were on the breastplate?",
+        "options": [
+          "Twelve, for the twelve tribes",
+          "Two, for the two shoulderpieces",
+          "Four, for the four rows",
+          "Seven, for the seven days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-28-cur-30",
+        "type": "curiosity",
+        "after_verse": 30,
+        "title": "Urim and Thummim",
+        "text": "In the breastplate of judgment the priest kept the Urim and the Thummim, instruments used to learn the Lord's will. The names mean roughly \"lights\" and \"perfections,\" and the Bible never describes exactly what they looked like."
+      },
+      {
+        "id": "ex-28-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "thou shalt put in the breastplate of judgment the {0} and the Thummim",
+        "blanks": [
+          "Urim"
+        ],
+        "distractors": [
+          "ephod",
+          "robe",
+          "girdle"
+        ]
+      },
+      {
+        "id": "ex-28-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "upon the hem of it thou shalt make {0} of blue, and of purple, and of scarlet",
+        "blanks": [
+          "pomegranates"
+        ],
+        "distractors": [
+          "chains",
+          "shoulderpieces",
+          "garments"
+        ]
+      },
+      {
+        "id": "ex-28-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "like the engravings of a signet, {0} to the Lord",
+        "blanks": [
+          "Holiness"
+        ],
+        "distractors": [
+          "Glory",
+          "Memorial",
+          "Judgment"
+        ]
+      },
+      {
+        "id": "ex-28-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "it shall be a {0} for ever unto him and his seed after him",
+        "blanks": [
+          "statute"
+        ],
+        "distractors": [
+          "covenant",
+          "commandment",
+          "sanctuary"
+        ]
+      }
+    ],
+    "29": [
+      {
+        "id": "ex-29-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Without blemish",
+        "text": "The animals offered at the consecration had to be 'without blemish', that is, free of defect. The perfection of the sacrifice foreshadowed the perfect offering of Christ."
+      },
+      {
+        "id": "ex-29-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And thou shalt take the garments, and put upon Aaron the {0}, and the robe of the ephod",
+        "blanks": [
+          "coat"
+        ],
+        "distractors": [
+          "mitre",
+          "crown",
+          "girdle"
+        ]
+      },
+      {
+        "id": "ex-29-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Then shalt thou take the anointing {0}, and pour it upon his head",
+        "blanks": [
+          "oil"
+        ],
+        "distractors": [
+          "blood",
+          "water",
+          "wine"
+        ]
+      },
+      {
+        "id": "ex-29-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Where was Moses to kill the bullock?",
+        "options": [
+          "By the door of the tabernacle of the congregation",
+          "On the top of Mount Sinai",
+          "Inside the holy of holies",
+          "Beside the Red Sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-29-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "shalt thou burn with fire without the camp: it is a {0} offering.",
+        "blanks": [
+          "sin"
+        ],
+        "distractors": [
+          "wave",
+          "heave",
+          "drink"
+        ]
+      },
+      {
+        "id": "ex-29-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "and put it upon the tip of the right {0} of Aaron",
+        "blanks": [
+          "ear"
+        ],
+        "distractors": [
+          "hand",
+          "head",
+          "foot"
+        ]
+      },
+      {
+        "id": "ex-29-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "And thou shalt take the {0} of the ram of Aaron",
+        "blanks": [
+          "breast"
+        ],
+        "distractors": [
+          "shoulder",
+          "rump",
+          "blood"
+        ]
+      },
+      {
+        "id": "ex-29-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And the holy {0} of Aaron shall be his sons",
+        "blanks": [
+          "garments"
+        ],
+        "distractors": [
+          "offerings",
+          "kidneys",
+          "statutes"
+        ]
+      },
+      {
+        "id": "ex-29-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Why could a stranger not eat the consecration offerings?",
+        "options": [
+          "Because they are holy",
+          "Because they were spoiled",
+          "Because they belonged to Pharaoh",
+          "Because they were too few"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-29-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "thou shalt offer upon the altar; two {0} of the first year day by day continually.",
+        "blanks": [
+          "lambs"
+        ],
+        "distractors": [
+          "rams",
+          "bullocks",
+          "loaves"
+        ]
+      },
+      {
+        "id": "ex-29-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "What does the Lord promise at the close of the chapter?",
+        "options": [
+          "To dwell among the children of Israel and be their God",
+          "To give Aaron an earthly kingdom",
+          "To destroy the tabernacle",
+          "To return Israel to Egypt"
+        ],
+        "answer": 0
+      }
+    ],
+    "30": [
+      {
+        "id": "ex-30-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make {0}.",
+        "blanks": [
+          "it"
+        ],
+        "distractors": [
+          "them",
+          "gold",
+          "oil"
+        ]
+      },
+      {
+        "id": "ex-30-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Incense morning and evening",
+        "text": "Aaron was to burn sweet incense on the altar every morning when he dressed the lamps and again when he lit them at evening, keeping a perpetual incense before the Lord."
+      },
+      {
+        "id": "ex-30-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "When thou takest the sum of the children of Israel after their number, then shall they give every man a {0} for his soul unto the Lord",
+        "blanks": [
+          "ransom"
+        ],
+        "distractors": [
+          "sacrifice",
+          "lamb",
+          "tithe"
+        ]
+      },
+      {
+        "id": "ex-30-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "every one that passeth among them that are numbered, half a {0} after the shekel of the sanctuary",
+        "blanks": [
+          "shekel"
+        ],
+        "distractors": [
+          "cubit",
+          "hin",
+          "gerah"
+        ]
+      },
+      {
+        "id": "ex-30-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What was the bronze laver made for, set between the tabernacle and the altar?",
+        "options": [
+          "To wash",
+          "To burn incense",
+          "To hold the anointing oil",
+          "To store grain offerings"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-30-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Take thou also unto thee principal spices, of pure {0} five hundred shekels",
+        "blanks": [
+          "myrrh"
+        ],
+        "distractors": [
+          "cinnamon",
+          "cassia",
+          "calamus"
+        ]
+      },
+      {
+        "id": "ex-30-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Myrrh and cinnamon",
+            "right": "Spices of the anointing oil"
+          },
+          {
+            "left": "Holy anointing oil",
+            "right": "To anoint and sanctify"
+          },
+          {
+            "left": "Bronze laver",
+            "right": "For Aaron to wash hands and feet"
+          },
+          {
+            "left": "Shittim wood altar",
+            "right": "To burn the incense"
+          }
+        ]
+      },
+      {
+        "id": "ex-30-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest’s {0}.",
+        "blanks": [
+          "office"
+        ],
+        "distractors": [
+          "tabernacle",
+          "garments",
+          "altar"
+        ]
+      },
+      {
+        "id": "ex-30-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure {0}",
+        "blanks": [
+          "frankincense"
+        ],
+        "distractors": [
+          "myrrh",
+          "cassia",
+          "cinnamon"
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "ex-31-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "the son of Hur, of the tribe of {0}",
+        "blanks": [
+          "Judah"
+        ],
+        "distractors": [
+          "Dan",
+          "Levi",
+          "Benjamin"
+        ]
+      },
+      {
+        "id": "ex-31-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Skill as a gift",
+        "text": "Bezaleel is the first person in scripture said to be filled with the spirit of God, and it is given specifically to qualify him in craftsmanship to build the sanctuary."
+      },
+      {
+        "id": "ex-31-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Ark of the testimony",
+            "right": "Held the tablets of the covenant"
+          },
+          {
+            "left": "Candlestick",
+            "right": "Gave light in the sanctuary"
+          },
+          {
+            "left": "Altar of incense",
+            "right": "Burned sweet incense"
+          },
+          {
+            "left": "Altar of burnt offering",
+            "right": "Received the burnt sacrifices"
+          }
+        ]
+      },
+      {
+        "id": "ex-31-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "According to the Lord, what did keeping the sabbath represent for Israel?",
+        "options": [
+          "A perpetual sign between God and the people, showing that the Lord sanctifies them",
+          "A way to repay debts owed to the priests",
+          "A rest meant only for the tabernacle's craftsmen",
+          "A common custom shared with the neighboring nations"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-31-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "tables of {0}, written with the finger of God.",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "gold",
+          "silver",
+          "brass"
+        ]
+      }
+    ],
+    "32": [
+      {
+        "id": "ex-32-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Moses delayed on the mount",
+        "text": "The people rebelled because Moses had been forty days and forty nights on Mount Sinai receiving the law; his delay was the spark for demanding a visible god."
+      },
+      {
+        "id": "ex-32-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "after he had made it a molten {0}",
+        "blanks": [
+          "calf"
+        ],
+        "distractors": [
+          "lamb",
+          "lion",
+          "altar"
+        ]
+      },
+      {
+        "id": "ex-32-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How does the Lord describe Israel to Moses in verse 9?",
+        "options": [
+          "A stiffnecked people",
+          "A humble people",
+          "A faithful people",
+          "A fearful people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-32-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Remember {0}, Isaac, and Israel",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Adam",
+          "Noah",
+          "Joseph"
+        ]
+      },
+      {
+        "id": "ex-32-mp-18",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Joshua",
+            "right": "Thought there was a noise of war in the camp"
+          },
+          {
+            "left": "Moses",
+            "right": "Brake the tables beneath the mount"
+          },
+          {
+            "left": "The calf",
+            "right": "Was burnt and ground to powder"
+          }
+        ]
+      },
+      {
+        "id": "ex-32-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "How does Aaron explain to Moses how the calf appeared?",
+        "options": [
+          "He cast the gold into the fire and the calf came out",
+          "A prophet carved it",
+          "The people brought it ready from Egypt",
+          "Joshua shaped it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-32-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "there fell of the people that day about three thousand {0}",
+        "blanks": [
+          "men"
+        ],
+        "distractors": [
+          "calves",
+          "kings",
+          "priests"
+        ]
+      },
+      {
+        "id": "ex-32-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "blot me, I pray thee, out of thy {0} which thou hast written",
+        "blanks": [
+          "book"
+        ],
+        "distractors": [
+          "altar",
+          "mount",
+          "camp"
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "ex-33-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A land flowing with milk and honey",
+        "text": "The phrase \"a land flowing with milk and honey\" describes Canaan's fertility and recurs dozens of times in the Bible as a symbol of the promise made to the patriarchs Abraham, Isaac, and Jacob."
+      },
+      {
+        "id": "ex-33-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Unto a land flowing with {0} and honey",
+        "blanks": [
+          "milk"
+        ],
+        "distractors": [
+          "wine",
+          "oil",
+          "wheat"
+        ]
+      },
+      {
+        "id": "ex-33-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What did Moses pitch outside the camp, where those who sought the Lord would go?",
+        "options": [
+          "The Tabernacle of the congregation",
+          "The mercy seat",
+          "The altar of incense",
+          "The ark of the covenant"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-33-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And the Lord spake unto Moses face to face, as a man speaketh unto his {0}",
+        "blanks": [
+          "friend"
+        ],
+        "distractors": [
+          "servant",
+          "brother",
+          "shepherd"
+        ]
+      },
+      {
+        "id": "ex-33-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Joshua, son of Nun",
+        "text": "The young man Joshua, son of Nun, who did not depart from the tabernacle, would later succeed Moses and lead Israel in conquering the promised land."
+      },
+      {
+        "id": "ex-33-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "In verse 16, what does Moses say would set Israel apart from all other peoples on the earth?",
+        "options": [
+          "That the Lord goes with them",
+          "Their many sacrifices",
+          "Their great numbers",
+          "Their fortified cities"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-33-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Thou canst not see my {0}: for there shall no man see me, and live",
+        "blanks": [
+          "face"
+        ],
+        "distractors": [
+          "glory",
+          "throne",
+          "presence"
+        ]
+      }
+    ],
+    "34": [
+      {
+        "id": "ex-34-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Hew thee two tables of {0} like unto the first",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "clay",
+          "wood",
+          "brass"
+        ]
+      },
+      {
+        "id": "ex-34-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "The proclaimed name",
+        "text": "At the top of Sinai the Lord Himself descends in a cloud and proclaims His name, setting up the divine attributes He declares in the verses that follow."
+      },
+      {
+        "id": "ex-34-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "According to the Lord's proclamation, to what generation does He visit the iniquity of the fathers?",
+        "options": [
+          "The third and fourth generation",
+          "The seventh generation",
+          "The tenth generation",
+          "The second generation"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-34-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Behold, I make a {0}: before all thy people I will do marvels",
+        "blanks": [
+          "covenant"
+        ],
+        "distractors": [
+          "judgment",
+          "sacrifice",
+          "promise"
+        ]
+      },
+      {
+        "id": "ex-34-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "for the Lord, whose name is {0}, is a jealous God",
+        "blanks": [
+          "Jealous"
+        ],
+        "distractors": [
+          "Holy",
+          "Eternal",
+          "Mighty"
+        ]
+      },
+      {
+        "id": "ex-34-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "in the time of the month {0}: for in the month Abib thou camest out from Egypt",
+        "blanks": [
+          "Abib"
+        ],
+        "distractors": [
+          "Sivan",
+          "Nisan",
+          "Tisri"
+        ]
+      },
+      {
+        "id": "ex-34-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "How many days shalt thou work before resting on the seventh, according to verse 21?",
+        "options": [
+          "Six days",
+          "Seven days",
+          "Five days",
+          "Three days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-34-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "shall all your men children appear before the Lord God, the God of {0}",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Judah",
+          "Ephraim",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "ex-34-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "he wrote upon the tables the words of the covenant, the ten {0}",
+        "blanks": [
+          "commandments"
+        ],
+        "distractors": [
+          "statutes",
+          "precepts",
+          "testimonies"
+        ]
+      },
+      {
+        "id": "ex-34-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "The shining face",
+        "text": "When Moses came down from Sinai the skin of his face shone because he had spoken with the Lord; that is why he afterward wore a veil before the people."
+      },
+      {
+        "id": "ex-34-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "he put a {0} on his face",
+        "blanks": [
+          "veil"
+        ],
+        "distractors": [
+          "cloak",
+          "sign",
+          "seal"
+        ]
+      }
+    ],
+    "35": [
+      {
+        "id": "ex-35-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The sabbath before the work",
+        "text": "Before commissioning the tabernacle, Moses stresses the sabbath: even sacred labor must not break the day of rest."
+      },
+      {
+        "id": "ex-35-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "there shall be to you an holy day, a sabbath of {0} to the Lord",
+        "blanks": [
+          "rest"
+        ],
+        "distractors": [
+          "work",
+          "fire",
+          "offering"
+        ]
+      },
+      {
+        "id": "ex-35-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "an offering of the Lord; gold, and silver, and {0}",
+        "blanks": [
+          "brass"
+        ],
+        "distractors": [
+          "linen",
+          "oil",
+          "wood"
+        ]
+      },
+      {
+        "id": "ex-35-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "The ark, and the staves thereof, with the {0}, and the veil of the covering,",
+        "blanks": [
+          "mercy seat"
+        ],
+        "distractors": [
+          "candlestick",
+          "tabernacle",
+          "breastplate"
+        ]
+      },
+      {
+        "id": "ex-35-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did all the congregation of Israel do at the end of Moses' charge (v. 20)?",
+        "options": [
+          "They departed from the presence of Moses",
+          "They refused to give any offering",
+          "They demanded a new leader",
+          "They built the altar themselves"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-35-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "and brought {0}, and earrings, and rings, and tablets, all jewels of gold",
+        "blanks": [
+          "bracelets"
+        ],
+        "distractors": [
+          "pillars",
+          "cords",
+          "boards"
+        ]
+      },
+      {
+        "id": "ex-35-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "According to verse 29, who brought a willing offering to the Lord?",
+        "options": [
+          "Every man and woman whose heart made them willing",
+          "Only the rulers of the tribes",
+          "Only Aaron and his sons",
+          "Only those born in Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-35-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "the Lord hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of {0}",
+        "blanks": [
+          "Judah"
+        ],
+        "distractors": [
+          "Dan",
+          "Levi",
+          "Benjamin"
+        ]
+      },
+      {
+        "id": "ex-35-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Bezaleel",
+            "right": "Filled with the spirit of God for all work"
+          },
+          {
+            "left": "Aholiab",
+            "right": "Son of Ahisamach, of the tribe of Dan"
+          },
+          {
+            "left": "Hur",
+            "right": "Grandfather of Bezaleel"
+          }
+        ]
+      }
+    ],
+    "36": [
+      {
+        "id": "ex-36-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Whom did Moses call to lead the work on the sanctuary?",
+        "options": [
+          "Bezaleel and Aholiab",
+          "Aaron and Hur",
+          "Joshua and Caleb",
+          "Nadab and Abihu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-36-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Let neither man nor woman make any more work for the offering of the {0}.",
+        "blanks": [
+          "sanctuary"
+        ],
+        "distractors": [
+          "altar",
+          "tabernacle",
+          "veil"
+        ]
+      },
+      {
+        "id": "ex-36-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Too much given",
+        "text": "This is one of the rare biblical accounts where a leader must ask the people to stop donating: the material they had was sufficient for all the work, and too much."
+      },
+      {
+        "id": "ex-36-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "made ten curtains of fine twined linen, and blue, and purple, and scarlet: with {0} of cunning work made he them.",
+        "blanks": [
+          "cherubims"
+        ],
+        "distractors": [
+          "palm trees",
+          "lions",
+          "flowers"
+        ]
+      },
+      {
+        "id": "ex-36-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And he made curtains of goats’ hair for the {0} over the tabernacle: eleven curtains he made them.",
+        "blanks": [
+          "tent"
+        ],
+        "distractors": [
+          "altar",
+          "ark",
+          "veil"
+        ]
+      },
+      {
+        "id": "ex-36-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And he made a covering for the tent of rams’ skins dyed {0}",
+        "blanks": [
+          "red"
+        ],
+        "distractors": [
+          "blue",
+          "purple",
+          "white"
+        ]
+      },
+      {
+        "id": "ex-36-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And he made boards for the tabernacle of shittim wood, standing {0}.",
+        "blanks": [
+          "up"
+        ],
+        "distractors": [
+          "aside",
+          "apart",
+          "down"
+        ]
+      },
+      {
+        "id": "ex-36-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "And forty sockets of {0} he made under the twenty boards",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "brass",
+          "iron"
+        ]
+      },
+      {
+        "id": "ex-36-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "And he made bars of shittim {0}; five for the boards of the one side of the tabernacle",
+        "blanks": [
+          "wood"
+        ],
+        "distractors": [
+          "gold",
+          "silver",
+          "stone"
+        ]
+      },
+      {
+        "id": "ex-36-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "And he made a veil of blue, and purple, and scarlet, and fine twined linen: with {0} made he it of cunning work.",
+        "blanks": [
+          "cherubims"
+        ],
+        "distractors": [
+          "pillars",
+          "hooks",
+          "sockets"
+        ]
+      }
+    ],
+    "37": [
+      {
+        "id": "ex-37-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And {0} made the ark of shittim wood",
+        "blanks": [
+          "Bezaleel"
+        ],
+        "distractors": [
+          "Aholiab",
+          "Moses",
+          "Aaron"
+        ]
+      },
+      {
+        "id": "ex-37-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did the two cherubims of gold do over the mercy seat?",
+        "options": [
+          "Spread out their wings on high, covering it, with their faces one to another",
+          "Held the staves used to bear the ark",
+          "Supported the seven lamps of the candlestick",
+          "Guarded the holy anointing oil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "his dishes, and his spoons, and his {0}, and his covers",
+        "blanks": [
+          "bowls"
+        ],
+        "distractors": [
+          "lamps",
+          "rings",
+          "branches"
+        ]
+      },
+      {
+        "id": "ex-37-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "After what fashion were the bowls on the branches of the candlestick made?",
+        "options": [
+          "Like almonds",
+          "Like pomegranates",
+          "Like lilies",
+          "Like grapes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Of a {0} of pure gold made he it",
+        "blanks": [
+          "talent"
+        ],
+        "distractors": [
+          "cubit",
+          "handbreadth",
+          "shekel"
+        ]
+      },
+      {
+        "id": "ex-37-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "According to verse 29, after whose work were the holy anointing oil and the pure incense made?",
+        "options": [
+          "The apothecary",
+          "The goldsmith",
+          "The weaver",
+          "The potter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "The mercy seat",
+        "text": "The mercy seat was the lid of pure gold that covered the ark; above it, between the two cherubim, the Lord manifested His presence and communed with Israel."
+      }
+    ],
+    "38": [
+      {
+        "id": "ex-38-cur-en-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Shittim wood",
+        "text": "The altar of burnt offering was made of shittim (acacia) wood overlaid with brass: acacia, tough and plentiful in the Sinai wilderness, was the wood used for nearly all the tabernacle's furniture."
+      },
+      {
+        "id": "ex-38-fb-en-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And he made the altar of burnt offering of {0} wood",
+        "blanks": [
+          "shittim"
+        ],
+        "distractors": [
+          "cedar",
+          "olive",
+          "oak"
+        ]
+      },
+      {
+        "id": "ex-38-mc-en-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Of what metal were the four rings cast for the staves of the altar?",
+        "options": [
+          "Gold",
+          "Brass",
+          "Silver",
+          "Iron"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-38-fb-en-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And he made the laver of brass, and the foot of it of brass, of the {0} of the women assembling",
+        "blanks": [
+          "lookingglasses"
+        ],
+        "distractors": [
+          "garments",
+          "veils",
+          "mantles"
+        ]
+      },
+      {
+        "id": "ex-38-fb-en-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "And for the west side were hangings of fifty cubits, their pillars {0}",
+        "blanks": [
+          "ten"
+        ],
+        "distractors": [
+          "twenty",
+          "three",
+          "four"
+        ]
+      },
+      {
+        "id": "ex-38-fb-en-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And the hanging for the gate of the court was needlework, of blue, and {0}, and scarlet",
+        "blanks": [
+          "purple"
+        ],
+        "distractors": [
+          "silver",
+          "linen",
+          "brass"
+        ]
+      },
+      {
+        "id": "ex-38-fb-en-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And {0} the son of Uri, the son of Hur, of the tribe of Judah, made all that the Lord commanded Moses.",
+        "blanks": [
+          "Bezaleel"
+        ],
+        "distractors": [
+          "Aholiab",
+          "Ithamar",
+          "Aaron"
+        ]
+      },
+      {
+        "id": "ex-38-cur-en-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Bezaleel and Aholiab",
+        "text": "The work was led by two craftsmen: Bezaleel of the tribe of Judah, and Aholiab of the tribe of Dan, described as an engraver, a cunning workman and an embroiderer."
+      },
+      {
+        "id": "ex-38-fb-en-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And the {0} of the offering was seventy talents, and two thousand and four hundred shekels.",
+        "blanks": [
+          "brass"
+        ],
+        "distractors": [
+          "gold",
+          "silver",
+          "iron"
+        ]
+      }
+    ],
+    "39": [
+      {
+        "id": "ex-39-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Garments for sacred service",
+        "text": "This chapter records the making of the priestly garments — of blue, purple, and scarlet — so that Aaron could minister in the holy place."
+      },
+      {
+        "id": "ex-39-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And he made the {0} of gold, blue, and purple, and scarlet, and fine twined linen.",
+        "blanks": [
+          "ephod"
+        ],
+        "distractors": [
+          "breastplate",
+          "robe",
+          "mitre"
+        ]
+      },
+      {
+        "id": "ex-39-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What was engraved on the onyx stones set in gold?",
+        "options": [
+          "The names of the children of Israel",
+          "The ten commandments",
+          "The name of Moses",
+          "The borders of the tribes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-39-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "And they made upon the breastplate chains at the ends, of wreathen work of pure {0}.",
+        "blanks": [
+          "gold"
+        ],
+        "distractors": [
+          "silver",
+          "brass",
+          "linen"
+        ]
+      },
+      {
+        "id": "ex-39-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And they made two ouches of gold, and two gold {0}; and put the two rings in the two ends of the breastplate.",
+        "blanks": [
+          "rings"
+        ],
+        "distractors": [
+          "chains",
+          "plates",
+          "bells"
+        ]
+      },
+      {
+        "id": "ex-39-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "And they made upon the hems of the robe {0} of blue, and purple, and scarlet, and twined linen.",
+        "blanks": [
+          "pomegranates"
+        ],
+        "distractors": [
+          "bells",
+          "chains",
+          "tassels"
+        ]
+      },
+      {
+        "id": "ex-39-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like to the engravings of a signet, {0} to the Lord.",
+        "blanks": [
+          "Holiness"
+        ],
+        "distractors": [
+          "Glory",
+          "Praise",
+          "Justice"
+        ]
+      },
+      {
+        "id": "ex-39-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Ark of the testimony",
+            "right": "Held the tablets of the law"
+          },
+          {
+            "left": "Candlestick",
+            "right": "Bore the lamps of the sanctuary"
+          },
+          {
+            "left": "Table",
+            "right": "Held the shewbread"
+          }
+        ]
+      },
+      {
+        "id": "ex-39-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "And Moses did look upon all the work, and, behold, they had done it as the Lord had commanded, even so had they done it: and Moses {0} them.",
+        "blanks": [
+          "blessed"
+        ],
+        "distractors": [
+          "rebuked",
+          "anointed",
+          "gathered"
+        ]
+      }
+    ],
+    "40": [
+      {
+        "id": "ex-40-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A year in the wilderness",
+        "text": "The command to raise the tabernacle falls on the first day of the first month of the second year after leaving Egypt. Nearly a full year passed between the Exodus and the assembling of the sanctuary."
+      },
+      {
+        "id": "ex-40-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And thou shalt put therein the ark of the {0}, and cover the ark with the veil.",
+        "blanks": [
+          "testimony"
+        ],
+        "distractors": [
+          "offering",
+          "incense",
+          "covenant"
+        ]
+      },
+      {
+        "id": "ex-40-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put {0} therein.",
+        "blanks": [
+          "water"
+        ],
+        "distractors": [
+          "oil",
+          "incense",
+          "blood"
+        ]
+      },
+      {
+        "id": "ex-40-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "After it is anointed, how is the altar of the burnt offering to be regarded?",
+        "options": [
+          "Most holy",
+          "Profane",
+          "Common",
+          "Empty"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Why was Aaron to be clothed with the holy garments and anointed?",
+        "options": [
+          "To minister in the priest's office",
+          "To wage war",
+          "To judge the people",
+          "To build the ark"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "¶ And it came to pass in the first month in the second year, on the first day of the month, that the {0} was reared up.",
+        "blanks": [
+          "tabernacle"
+        ],
+        "distractors": [
+          "altar",
+          "candlestick",
+          "court"
+        ]
+      },
+      {
+        "id": "ex-40-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And he set the {0} in order upon it before the Lord; as the Lord had commanded Moses.",
+        "blanks": [
+          "bread"
+        ],
+        "distractors": [
+          "incense",
+          "oil",
+          "blood"
+        ]
+      },
+      {
+        "id": "ex-40-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What was the laver, set between the tent of the congregation and the altar, used for?",
+        "options": [
+          "To wash withal",
+          "To store the bread",
+          "To burn incense",
+          "To light the lamps"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "The glory fills the tabernacle",
+        "text": "When the work is finished, the cloud covers the tent and the glory of the Lord fills the tabernacle so fully that even Moses cannot enter. It is the same sign of divine presence that would later fill Solomon's temple."
+      },
+      {
+        "id": "ex-40-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "¶ Then a {0} covered the tent of the congregation, and the glory of the Lord filled the tabernacle.",
+        "blanks": [
+          "cloud"
+        ],
+        "distractors": [
+          "rain",
+          "mist",
+          "smoke"
+        ]
+      }
+    ]
+  }
+}

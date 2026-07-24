@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "book": "moro",
+  "chapters": {
+    "1": [
+      {
+        "id": "moro-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The last survivor",
+        "text": "Moroni thought he was finished after the book of Ether, but he survived alone for decades after the destruction at Cumorah. Wandering and avoiding the Lamanites, he added these final chapters."
+      },
+      {
+        "id": "moro-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did the Lamanites do to every Nephite who would not deny the Christ?",
+        "options": [
+          "They put him to death",
+          "They enslaved him",
+          "They exiled him",
+          "They taxed him"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "moro-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The words of Christ to the Twelve",
+        "text": "This chapter preserves the words Christ spoke to the twelve Nephite disciples at his first appearing (3 Nephi), giving them authority to confer the Holy Ghost by the laying on of hands."
+      },
+      {
+        "id": "moro-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Ye shall call on the Father in my name, in {0} prayer",
+        "blanks": [
+          "mighty"
+        ],
+        "distractors": [
+          "secret",
+          "silent",
+          "constant"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "moro-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The ordination prayer",
+        "text": "Moroni records the exact wording of the ordination of priests and teachers in the ancient church — one of the few prayers transcribed word for word in scripture."
+      },
+      {
+        "id": "moro-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "By what power did the disciples ordain priests and teachers?",
+        "options": [
+          "By the power of the Holy Ghost, which was in them",
+          "By the sword of Laban",
+          "By the voice of the people",
+          "By casting lots"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "moro-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The sacrament prayer",
+        "text": "This prayer over the bread is still recited today, almost word for word, in every sacrament meeting of The Church of Jesus Christ — one of the most-used passages in the Book of Mormon."
+      },
+      {
+        "id": "moro-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "that they may eat in remembrance of the {0} of thy Son",
+        "blanks": [
+          "body"
+        ],
+        "distractors": [
+          "blood",
+          "name",
+          "death"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "moro-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "From wine to water",
+        "text": "Moroni records the prayer over the wine. Today, by later revelation (D&C 27), the church uses water instead of wine, but the prayer remains nearly identical."
+      },
+      {
+        "id": "moro-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "in remembrance of the {0} of thy Son, which was shed for them",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "body",
+          "name",
+          "death"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "moro-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What was required of a person before being received unto baptism?",
+        "options": [
+          "A broken heart, a contrite spirit, and taking upon them the name of Christ",
+          "A payment of tithes",
+          "The approval of a king",
+          "Forty days of fasting"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-6-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The author and finisher of their faith",
+        "text": "The early church kept members' names so they could be 'nourished by the good word of God' — relying, Moroni says, 'alone upon the merits of Christ, who was the author and the finisher of their faith.'"
+      },
+      {
+        "id": "moro-6-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "three {0} of the church did condemn them",
+        "blanks": [
+          "witnesses"
+        ],
+        "distractors": [
+          "elders",
+          "priests",
+          "members"
+        ]
+      },
+      {
+        "id": "moro-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How were the church meetings conducted?",
+        "options": [
+          "After the manner of the workings of the Spirit, by the power of the Holy Ghost",
+          "By a fixed written program",
+          "By the oldest member present",
+          "By drawing lots"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "moro-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Mormon's sermon",
+        "text": "Moroni preserves a sermon his father Mormon preached in the synagogue on faith, hope, and charity — one of the most beloved discourses in scripture, written down by a grieving son."
+      },
+      {
+        "id": "moro-7-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "by their {0} ye shall know them",
+        "blanks": [
+          "works"
+        ],
+        "distractors": [
+          "words",
+          "hearts",
+          "faith"
+        ]
+      },
+      {
+        "id": "moro-7-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "A gift or prayer offered by an evil man without real intent profits him what?",
+        "options": [
+          "Nothing",
+          "Great reward",
+          "Partial credit",
+          "A blessing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Where does Mormon say all good things come from?",
+        "options": [
+          "From God",
+          "From wise men",
+          "From the law of Moses",
+          "From the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What is given to every man so he may know good from evil?",
+        "options": [
+          "The Spirit (light) of Christ",
+          "A written law",
+          "An angel guardian",
+          "The voice of the prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Why did God send angels to minister to the children of men?",
+        "options": [
+          "To make manifest concerning the coming of Christ",
+          "To punish the wicked",
+          "To choose new kings",
+          "To divide the lands"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Mormon asks whether miracles and the ministering of angels have ceased. What is his answer?",
+        "options": [
+          "Nay — they have not ceased",
+          "Yes, after Christ ascended",
+          "Only for the Gentiles",
+          "Only until the last day"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "If ye will have {0} in me ye shall have power",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "hope",
+          "charity",
+          "patience"
+        ]
+      },
+      {
+        "id": "moro-7-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "By what are miracles wrought and angels made to appear?",
+        "options": [
+          "By faith",
+          "By the law",
+          "By fasting",
+          "By sacrifice"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Through the atonement of Christ, what should we hope for?",
+        "options": [
+          "To be raised unto life eternal",
+          "Riches in this life",
+          "An earthly kingdom",
+          "Freedom from all trials"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-cur-45",
+        "type": "curiosity",
+        "after_verse": 45,
+        "title": "Charity, the pure love of Christ",
+        "text": "Mormon's description of charity — 'suffereth long, and is kind, envieth not...' — closely parallels Paul's words in 1 Corinthians 13, yet defines charity as 'the pure love of Christ.'"
+      },
+      {
+        "id": "moro-7-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "charity is the pure {0} of Christ",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "gift",
+          "light",
+          "word"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "moro-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A letter from father to son",
+        "text": "Chapters 8 and 9 are personal letters from Mormon to his son Moroni, written amid the final wars — a rare, intimate glimpse of the two men behind the record."
+      },
+      {
+        "id": "moro-8-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "What is chapter 8?",
+        "options": [
+          "An epistle from Mormon to his son Moroni",
+          "A psalm of praise",
+          "A king's decree",
+          "A war record"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Why did the Lord say little children need no baptism?",
+        "options": [
+          "They are not capable of committing sin; the curse of Adam is taken from them in Christ",
+          "They are too young to understand",
+          "Their parents are baptized for them",
+          "They are baptized in heaven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "little children are {0} in Christ, even from the foundation of the world",
+        "blanks": [
+          "alive"
+        ],
+        "distractors": [
+          "saved",
+          "clean",
+          "born"
+        ]
+      },
+      {
+        "id": "moro-8-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Perfect love casteth out fear",
+        "text": "Speaking boldly against infant baptism, Mormon says he fears no man, 'for perfect love casteth out all fear' — echoing the words of John (1 John 4:18)."
+      },
+      {
+        "id": "moro-8-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "for perfect {0} casteth out all fear",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "faith",
+          "hope",
+          "grace"
+        ]
+      },
+      {
+        "id": "moro-8-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What does Mormon call the first fruits of repentance?",
+        "options": [
+          "Baptism",
+          "Fasting",
+          "Sacrifice",
+          "Tithing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Mormon fear concerning the Spirit and the Nephites?",
+        "options": [
+          "That the Spirit had ceased striving with them",
+          "That they would flee to the Lamanites",
+          "That they had forgotten the records",
+          "That a famine would come"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "moro-9-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Mormon fear concerning his people, the Nephites?",
+        "options": [
+          "That the Lamanites would destroy them, for they would not repent",
+          "That they would starve",
+          "That they would flee by sea",
+          "That they would lose the records"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "This tabernacle of clay",
+        "text": "Even amid horror, Mormon urges his son to keep laboring 'whilst in this tabernacle of clay' — a vivid image of the mortal body as a fragile, temporary dwelling."
+      },
+      {
+        "id": "moro-9-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why does Mormon urge Moroni to keep laboring despite the people's hardness?",
+        "options": [
+          "So they are not brought under condemnation, and may rest their souls in the kingdom of God",
+          "To win the war",
+          "To gather riches",
+          "To be remembered by history"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "they were a civil and a {0} people",
+        "blanks": [
+          "delightsome"
+        ],
+        "distractors": [
+          "righteous",
+          "peaceful",
+          "mighty"
+        ]
+      },
+      {
+        "id": "moro-9-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What does Mormon confess about his own ability to lead?",
+        "options": [
+          "He is but a man and can no longer enforce his commands",
+          "He has never lost a battle",
+          "He will crown a new king",
+          "He has hidden the records"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Mormon says that if the Nephites perish, it will be like which earlier people?",
+        "options": [
+          "The Jaredites",
+          "The Egyptians",
+          "The people of Ammon",
+          "The Mulekites"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "A father's blessing",
+        "text": "Surrounded by a people 'past feeling,' Mormon entrusts his son to God: 'be faithful in Christ,' he writes, that the hope of Christ's glory 'rest in your mind forever.'"
+      },
+      {
+        "id": "moro-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "My son, be {0} in Christ",
+        "blanks": [
+          "faithful"
+        ],
+        "distractors": [
+          "humble",
+          "steadfast",
+          "valiant"
+        ]
+      },
+      {
+        "id": "moro-9-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "How does Mormon close this grievous letter to his son?",
+        "options": [
+          "With a blessing that the grace of God and Christ abide with Moroni forever",
+          "With a battle plan",
+          "With a list of the dead",
+          "With a curse on the Lamanites"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "moro-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Moroni's Promise",
+        "text": "Verses 4–5 contain the Book of Mormon's most famous promise: ask God with a sincere heart and real intent, and the truth will be made known 'by the power of the Holy Ghost.' Millions read these verses as an invitation to pray about the book."
+      },
+      {
+        "id": "moro-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What does Moroni promise if you ask God about these things with a sincere heart and real intent?",
+        "options": [
+          "God will manifest the truth of it by the power of the Holy Ghost",
+          "An angel will appear",
+          "You will prosper in riches",
+          "A sign will be given in the sky"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "ye may know the {0} of all things",
+        "blanks": [
+          "truth"
+        ],
+        "distractors": [
+          "worth",
+          "mystery",
+          "order"
+        ]
+      },
+      {
+        "id": "moro-10-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What does Moroni exhort concerning the gifts of God?",
+        "options": [
+          "Deny them not, for they are many and come from the same God",
+          "Seek only the gift of tongues",
+          "They ended with the apostles",
+          "They belong only to prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Which of these is among the gifts of the Spirit that Moroni lists?",
+        "options": [
+          "Working mighty miracles",
+          "Commanding the sun to stop",
+          "Turning water to wine",
+          "Walking on the sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "By what do all the spiritual gifts come, given to every man according as God will?",
+        "options": [
+          "The Spirit of Christ",
+          "The will of kings",
+          "The keeping of the law",
+          "The casting of lots"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Moroni says that without charity you can in nowise be what?",
+        "options": [
+          "Saved in the kingdom of God",
+          "A leader of the church",
+          "A teacher of the law",
+          "Remembered by men"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "despair cometh because of {0}",
+        "blanks": [
+          "iniquity"
+        ],
+        "distractors": [
+          "fear",
+          "weakness",
+          "pride"
+        ]
+      },
+      {
+        "id": "moro-10-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "A voice out of the dust",
+        "text": "Moroni says his words will speak to future readers 'as one crying from the dead... even as one speaking out of the dust' — a fulfillment of Isaiah's prophecy of a voice from the dust (Isaiah 29:4)."
+      },
+      {
+        "id": "moro-10-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Moroni says his words will speak to future readers like what?",
+        "options": [
+          "Like one crying from the dead, speaking out of the dust",
+          "Like a king on his throne",
+          "Like thunder from heaven",
+          "Like a song of the angels"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "come unto Christ, and be {0} in him",
+        "blanks": [
+          "perfected"
+        ],
+        "distractors": [
+          "saved",
+          "baptized",
+          "cleansed"
+        ]
+      },
+      {
+        "id": "moro-10-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "The last words of the book",
+        "text": "With verse 34, Moroni closes the entire Book of Mormon, bidding farewell until he meets the reader 'before the pleasing bar of the great Jehovah, the Eternal Judge.' These are the final words on the plates."
+      }
+    ]
+  }
+}

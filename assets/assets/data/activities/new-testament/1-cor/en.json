@@ -1,0 +1,1872 @@
+{
+  "schema_version": 1,
+  "book": "1-cor",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-cor-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The letter to the Corinthians",
+        "text": "Paul founded the church at Corinth and wrote this letter to correct divisions and problems that had been reported to him. The city was a great Greek port, rich and cosmopolitan, but also known for its immorality."
+      },
+      {
+        "id": "1-cor-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "To whom does Paul address this letter?",
+        "options": [
+          "To the church of God which is at Corinth",
+          "To the church of Rome",
+          "To the Galatians",
+          "To the church of Ephesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "The factions of Corinth",
+        "text": "The church was split into groups claiming to be of Paul, of Apollos, of Cephas (Peter), or of Christ. Paul indignantly asks, 'Is Christ divided?', showing that the unity of believers is in Christ, not in human leaders."
+      },
+      {
+        "id": "1-cor-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "I am of Paul; and I of {0}; and I of Cephas;",
+        "blanks": [
+          "Apollos"
+        ],
+        "distractors": [
+          "Peter",
+          "James",
+          "Barnabas"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "For what did Christ send Paul, according to himself?",
+        "options": [
+          "To preach the gospel, not to baptize",
+          "To build a temple",
+          "To judge the Gentiles",
+          "To write the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "the preaching of the cross is to them that perish {0};",
+        "blanks": [
+          "foolishness"
+        ],
+        "distractors": [
+          "wisdom",
+          "glory",
+          "justice"
+        ]
+      },
+      {
+        "id": "1-cor-1-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Christ crucified",
+        "text": "Paul sums up his message: 'we preach Christ crucified'. To the Jews, who asked for signs, this was a stumblingblock; to the Greeks, who sought wisdom, it was foolishness. But to the called, it is the power and the wisdom of God."
+      },
+      {
+        "id": "1-cor-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "the Greeks seek after {0}:",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "signs",
+          "riches",
+          "glory"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did God choose to confound the wise and the mighty?",
+        "options": [
+          "The foolish and weak things of this world",
+          "The kings and the nobles",
+          "The wise and powerful",
+          "The temples and altars"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Corinth",
+            "right": "Prosperous Greek port where Paul founded the church"
+          },
+          {
+            "left": "The factions",
+            "right": "Groups claiming to be of Paul, Apollos, Cephas or Christ"
+          },
+          {
+            "left": "The word of the cross",
+            "right": "Foolishness to those who perish, power of God to the saved"
+          },
+          {
+            "left": "Christ crucified",
+            "right": "A stumblingblock to Jews, foolishness to Greeks"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-cor-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Christ, and him crucified",
+        "text": "Before a city that admired eloquence, Paul determined to know 'nothing, save Jesus Christ, and him crucified'. His strength was not in persuasive words, but in the demonstration of the Spirit and of power."
+      },
+      {
+        "id": "1-cor-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "save Jesus Christ, and him {0}.",
+        "blanks": [
+          "crucified"
+        ],
+        "distractors": [
+          "risen",
+          "glorified",
+          "exalted"
+        ]
+      },
+      {
+        "id": "1-cor-2-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Why did the princes of this world not know the wisdom of God?",
+        "options": [
+          "Had they known it, they would not have crucified the Lord of glory",
+          "Because it was too simple",
+          "Because it was written in the law",
+          "Because the prophets hid it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "What eye hath not seen",
+        "text": "To speak of the things God has prepared for those who love him, Paul cites a passage drawn from Isaiah: 'Eye hath not seen, nor ear heard, neither have entered into the heart of man.' Such things are known only by the Spirit."
+      },
+      {
+        "id": "1-cor-2-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Why does the natural man not understand the things of the Spirit of God?",
+        "options": [
+          "Because they are spiritually discerned",
+          "Because they are contradictory",
+          "Because they are hidden in the law",
+          "Because they require wealth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "But we have the {0} of Christ.",
+        "blanks": [
+          "mind"
+        ],
+        "distractors": [
+          "faith",
+          "grace",
+          "glory"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "1-cor-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What sign of immaturity does Paul point out in the Corinthians?",
+        "options": [
+          "Envying, strife and divisions, saying 'I am of Paul'",
+          "Excessive fasting",
+          "Denying the resurrection",
+          "Keeping circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "I planted, Apollos watered",
+        "text": "Paul uses farming to explain the role of leaders: he planted, Apollos watered, but it was God who gave the increase. Neither the one who plants nor the one who waters is anything, but only God, who makes it grow."
+      },
+      {
+        "id": "1-cor-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Apollos watered; but God gave the {0}.",
+        "blanks": [
+          "increase"
+        ],
+        "distractors": [
+          "fruit",
+          "reward",
+          "foundation"
+        ]
+      },
+      {
+        "id": "1-cor-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "other {0} can no man lay than that is laid,",
+        "blanks": [
+          "foundation"
+        ],
+        "distractors": [
+          "temple",
+          "altar",
+          "wall"
+        ]
+      },
+      {
+        "id": "1-cor-3-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Work tested by fire",
+        "text": "Paul says each one's work will be revealed by fire on the day of judgment: what is gold, silver and precious stones will endure; what is wood, hay and stubble will be burned. The person may be saved, but only as through fire."
+      },
+      {
+        "id": "1-cor-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Know ye not that ye are the {0} of God,",
+        "blanks": [
+          "temple"
+        ],
+        "distractors": [
+          "people",
+          "servants",
+          "flock"
+        ]
+      },
+      {
+        "id": "1-cor-3-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What does Paul say about the wisdom of this world?",
+        "options": [
+          "It is foolishness with God",
+          "It is the way to God",
+          "It comes from the Spirit",
+          "It saves believers"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Paul and Apollos",
+            "right": "Servants: one planted, another watered"
+          },
+          {
+            "left": "God",
+            "right": "The one who gives the increase"
+          },
+          {
+            "left": "The foundation",
+            "right": "Jesus Christ, the only possible one"
+          },
+          {
+            "left": "The believers",
+            "right": "The temple of God, in which the Spirit dwells"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "1-cor-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Stewards of the mysteries",
+        "text": "Paul asks that leaders be seen as ministers of Christ and stewards of the mysteries of God. Of a steward one thing above all is required: that he be faithful."
+      },
+      {
+        "id": "1-cor-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "it is required in stewards, that a man be found {0}.",
+        "blanks": [
+          "faithful"
+        ],
+        "distractors": [
+          "wise",
+          "strong",
+          "just"
+        ]
+      },
+      {
+        "id": "1-cor-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "and what hast thou that thou didst not {0}?",
+        "blanks": [
+          "receive"
+        ],
+        "distractors": [
+          "earn",
+          "deserve",
+          "ask"
+        ]
+      },
+      {
+        "id": "1-cor-4-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "Fools for Christ",
+        "text": "With irony, Paul contrasts the Corinthians, who thought themselves wise, rich and honored, with the apostles, 'fools for Christ's sake', weak and despised. They suffered hunger, thirst and persecution, and were treated as the filth of the world."
+      },
+      {
+        "id": "1-cor-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "How does Paul describe the life of the apostles?",
+        "options": [
+          "They suffer hunger, thirst and persecution, and are as the filth of the world",
+          "They live in wealth and honor",
+          "They reign as kings",
+          "They are feared by all"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "How does Paul describe himself in relation to the Corinthians?",
+        "options": [
+          "As a father who begot them in Christ through the gospel",
+          "As a severe judge",
+          "As a king of the saints",
+          "As one among many instructors"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "the kingdom of God is not in word, but in {0}.",
+        "blanks": [
+          "power"
+        ],
+        "distractors": [
+          "wisdom",
+          "law",
+          "glory"
+        ]
+      },
+      {
+        "id": "1-cor-4-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Stewards",
+            "right": "Leaders of whom faithfulness is required"
+          },
+          {
+            "left": "What you have",
+            "right": "All was received, nothing is one's own merit"
+          },
+          {
+            "left": "The apostles",
+            "right": "Fools for Christ, a spectacle to the world"
+          },
+          {
+            "left": "The kingdom of God",
+            "right": "Is not in word, but in power"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-cor-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What action does Paul determine regarding the one who committed grave sin in the church?",
+        "options": [
+          "To deliver him to Satan, that the spirit may be saved in the day of the Lord",
+          "To ignore the case",
+          "To reward him",
+          "To send him to Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Christ, our passover",
+        "text": "The image of leaven comes from the Jewish Passover, in which every house removed the old leaven before the feast. Paul applies it to the church: 'Christ, our passover, is sacrificed for us', and so they must live with sincerity and truth."
+      },
+      {
+        "id": "1-cor-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "a little {0} leaveneth the whole lump?",
+        "blanks": [
+          "leaven"
+        ],
+        "distractors": [
+          "salt",
+          "honey",
+          "oil"
+        ]
+      },
+      {
+        "id": "1-cor-5-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What does Paul command be done with the one who persists in grave sin in the church?",
+        "options": [
+          "Put him away from among them",
+          "Honor him",
+          "Ignore him",
+          "Take him to the temple"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "1-cor-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The saints shall judge the world",
+        "text": "To rebuke the brethren who sued one another before pagan judges, Paul reminds them that the saints shall judge the world, and even angels. If they will judge such great things, how could they not settle small matters among themselves?"
+      },
+      {
+        "id": "1-cor-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What privilege does Paul recall to the saints to rebuke their lawsuits?",
+        "options": [
+          "That the saints shall judge the world",
+          "That they will receive riches",
+          "That they will rule Rome",
+          "That they will be priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What fault does Paul point out in brethren taking each other to law?",
+        "options": [
+          "It is already a fault; it would be better to suffer the wrong",
+          "They should seek pagan judges",
+          "They should charge double",
+          "There is no problem at all"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "but ye are {0}, but ye are sanctified,",
+        "blanks": [
+          "washed"
+        ],
+        "distractors": [
+          "called",
+          "chosen",
+          "forgiven"
+        ]
+      },
+      {
+        "id": "1-cor-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "For whom is the body, according to Paul?",
+        "options": [
+          "For the Lord, and the Lord for the body",
+          "For food",
+          "For the world",
+          "For the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Bought with a price",
+        "text": "Paul teaches that the believer's body is the temple of the Holy Ghost, and that they are not their own: they were 'bought with a price'. Therefore they must glorify God both in body and in spirit."
+      },
+      {
+        "id": "1-cor-6-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "your body is the {0} of the Holy Ghost which is in you,",
+        "blanks": [
+          "temple"
+        ],
+        "distractors": [
+          "altar",
+          "throne",
+          "servant"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "1-cor-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Answers to the Corinthians' questions",
+        "text": "From here on, Paul answers questions the Corinthians themselves had written to him, beginning with marriage. His guidance reflects the conviction that 'the time is short' and the end near."
+      },
+      {
+        "id": "1-cor-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Why does Paul say each should have his own spouse?",
+        "options": [
+          "To avoid immorality",
+          "To grow the church",
+          "To inherit property",
+          "By command of the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What does Paul advise those who cannot contain themselves?",
+        "options": [
+          "That they marry, for it is better to marry than to burn",
+          "That they live alone",
+          "That they fast always",
+          "That they leave the church"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What command does Paul attribute to the Lord about marriage?",
+        "options": [
+          "That the wife should not depart from her husband",
+          "That no one should marry",
+          "That all should separate",
+          "That they marry only Jews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "And so ordain I in all {0}.",
+        "blanks": [
+          "churches"
+        ],
+        "distractors": [
+          "cities",
+          "houses",
+          "nations"
+        ]
+      },
+      {
+        "id": "1-cor-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Circumcision is nothing",
+        "text": "Paul repeats a theme dear to him: before God, being circumcised or not matters nothing; what counts is the keeping of the commandments of God. Each should remain in the condition in which he was called."
+      },
+      {
+        "id": "1-cor-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "but the keeping of the {0} of God.",
+        "blanks": [
+          "commandments"
+        ],
+        "distractors": [
+          "covenants",
+          "statutes",
+          "precepts"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "How does Paul describe the servant who is called by the Lord?",
+        "options": [
+          "He is the Lord's freeman; and the free is Christ's servant",
+          "He must flee from his master",
+          "He cannot serve God",
+          "He must buy his freedom first"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "The time is short",
+        "text": "Paul guides believers to live as those who keep their eyes on the end: that the married be as though they were not, and those who use the world, as not abusing it, for 'the fashion of this world passeth away'."
+      },
+      {
+        "id": "1-cor-7-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "for the fashion of this {0} passeth away.",
+        "blanks": [
+          "world"
+        ],
+        "distractors": [
+          "age",
+          "time",
+          "kingdom"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "With what is the unmarried concerned, according to Paul?",
+        "options": [
+          "With the things of the Lord, how to please the Lord",
+          "With riches",
+          "With fame",
+          "With the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "For how long is the married woman bound to her husband, according to Paul?",
+        "options": [
+          "As long as her husband lives",
+          "For seven years",
+          "Forever, even after death",
+          "Until circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Marriage",
+            "right": "Let each have a spouse, to avoid immorality"
+          },
+          {
+            "left": "The gift of God",
+            "right": "To marry or stay single: each has his own"
+          },
+          {
+            "left": "Circumcision",
+            "right": "Is nothing; what counts is keeping the commandments"
+          },
+          {
+            "left": "The time is short",
+            "right": "Living with eyes on the end, for the world passes"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "1-cor-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Meat offered to idols",
+        "text": "In Corinth, much of the meat in the market came from sacrifices made in pagan temples. The Christians debated whether they could eat it. Paul opens the subject with a principle: 'knowledge puffeth up, but charity edifieth'."
+      },
+      {
+        "id": "1-cor-8-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Knowledge puffeth up, but {0} edifieth.",
+        "blanks": [
+          "charity"
+        ],
+        "distractors": [
+          "knowledge",
+          "fear",
+          "zeal"
+        ]
+      },
+      {
+        "id": "1-cor-8-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "How many gods and lords does Paul affirm there are for Christians?",
+        "options": [
+          "One God, the Father, and one Lord, Jesus Christ",
+          "Many gods and lords",
+          "Two equal gods",
+          "No god"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Why does Paul limit the use of the freedom to eat what was offered to idols?",
+        "options": [
+          "So as not to make the weak brother, for whom Christ died, perish",
+          "Because the idol is real",
+          "Because the law forbids it",
+          "Because the food is unclean"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "I will eat no {0} while the world standeth,",
+        "blanks": [
+          "flesh"
+        ],
+        "distractors": [
+          "bread",
+          "fruit",
+          "fish"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "1-cor-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The apostle's right",
+        "text": "Paul defends his apostleship and his rights, among them being supported by the church, like the other apostles. Even with that right, he chose to preach free of charge, so as to put no obstacle in the way of the gospel."
+      },
+      {
+        "id": "1-cor-9-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "What does Paul ask to defend his apostleship?",
+        "options": [
+          "Am I not an apostle? Have I not seen Jesus Christ our Lord?",
+          "Am I not a king?",
+          "Was I not circumcised?",
+          "Am I not a Pharisee?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Thou shalt not muzzle the mouth of the {0} that treadeth out the corn.",
+        "blanks": [
+          "ox"
+        ],
+        "distractors": [
+          "horse",
+          "donkey",
+          "lamb"
+        ]
+      },
+      {
+        "id": "1-cor-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "should live of the {0}.",
+        "blanks": [
+          "gospel"
+        ],
+        "distractors": [
+          "temple",
+          "altar",
+          "sacrifice"
+        ]
+      },
+      {
+        "id": "1-cor-9-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How does Paul feel about preaching the gospel?",
+        "options": [
+          "It is a duty laid upon him: 'woe is me, if I preach not the gospel!'",
+          "He does it for pleasure and fame",
+          "He expects wealth for it",
+          "He preaches only to Jews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "All things to all men",
+        "text": "To win the most, Paul adapted to each group: as a Jew to the Jews, as weak to the weak. 'I am made all things to all men, that I might by all means save some.'"
+      },
+      {
+        "id": "1-cor-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What strategy does Paul describe in his ministry?",
+        "options": [
+          "He became all things to all men, to by all means save some",
+          "He preached only to the strong",
+          "He demanded support from all",
+          "He avoided the weak"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "The race in the stadium",
+        "text": "Paul compares the Christian life to a race: all run, but only one receives the prize. The athlete disciplines himself for a corruptible crown; the Christian, for an incorruptible one. Corinth hosted the famous Isthmian Games."
+      },
+      {
+        "id": "1-cor-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "to obtain a corruptible {0};",
+        "blanks": [
+          "crown"
+        ],
+        "distractors": [
+          "victory",
+          "glory",
+          "reward"
+        ]
+      },
+      {
+        "id": "1-cor-9-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Paul",
+            "right": "Apostle who gave up his rights for the gospel"
+          },
+          {
+            "left": "The treading ox",
+            "right": "Image of the law that the worker deserves support"
+          },
+          {
+            "left": "All things to all",
+            "right": "Adapting to each one to save some"
+          },
+          {
+            "left": "The race",
+            "right": "Image of the discipline for an incorruptible crown"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "1-cor-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The Rock was Christ",
+        "text": "Paul rereads the exodus: the cloud and the sea were like a baptism, and the water that flowed from the rock was spiritual drink. He declares that 'that Rock was Christ', present with Israel already in the wilderness."
+      },
+      {
+        "id": "1-cor-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "and that {0} was Christ.",
+        "blanks": [
+          "Rock"
+        ],
+        "distractors": [
+          "cloud",
+          "water",
+          "light"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why were these stories of Israel written, according to Paul?",
+        "options": [
+          "As examples and a warning for us",
+          "To condemn the Gentiles",
+          "To teach the law",
+          "As a genealogy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "but God is {0}, who will not suffer you to be tempted above that ye are able;",
+        "blanks": [
+          "faithful"
+        ],
+        "distractors": [
+          "just",
+          "holy",
+          "strong"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What do the cup of blessing and the bread we break represent, according to Paul?",
+        "options": [
+          "The communion of the blood and body of Christ",
+          "A sacrifice to idols",
+          "Merely a meal",
+          "The Jewish Passover feast"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What does Paul say is impossible to do at the same time?",
+        "options": [
+          "Drink the cup of the Lord and the cup of devils",
+          "Pray and fast",
+          "Preach and baptize",
+          "Eat and drink"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What principle does Paul give about lawful things?",
+        "options": [
+          "All are lawful, but not all are expedient nor edify",
+          "Everything is forbidden",
+          "Nothing matters to God",
+          "Only the lawful edifies"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "All to the glory of God",
+        "text": "Paul sums up the matter of freedom in a broad principle: 'whether ye eat, or drink, or whatsoever ye do, do all to the glory of God', without being a stumbling block to anyone."
+      },
+      {
+        "id": "1-cor-10-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "do all to the {0} of God.",
+        "blanks": [
+          "glory"
+        ],
+        "distractors": [
+          "honour",
+          "work",
+          "law"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "1-cor-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The custom of the veil",
+        "text": "Paul addresses a custom of Corinthian culture about covering or not covering the head when praying and prophesying. More important than the custom is the principle he states: in the Lord, man and woman depend on each other, and all things come from God."
+      },
+      {
+        "id": "1-cor-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Whom does Paul ask the believers to follow?",
+        "options": [
+          "Himself, even as he follows Christ",
+          "The prophets",
+          "The angels",
+          "The Greek sages"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What does Paul affirm about man and woman 'in the Lord'?",
+        "options": [
+          "Neither is the man without the woman, nor the woman without the man",
+          "The man does not need the woman",
+          "The woman is superior",
+          "Both come from the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What does Paul say about a woman's long hair?",
+        "options": [
+          "It is a glory to her, for her hair is given for a covering",
+          "It is a shame",
+          "It must be shaved",
+          "It does not matter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What does Paul criticize in the Corinthians' gatherings?",
+        "options": [
+          "Each eats his own supper, with divisions; it is not the Lord's supper",
+          "They sing too loudly",
+          "They preach in tongues",
+          "They fast too much"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "The Lord's Supper",
+        "text": "Verses 23 to 26 contain the earliest account of the institution of the Lord's Supper — written before the Gospels. Paul says he received it from the Lord himself: the bread is the body, and the cup, the new testament in Christ's blood."
+      },
+      {
+        "id": "1-cor-11-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "this is my {0}, which is broken for you:",
+        "blanks": [
+          "body"
+        ],
+        "distractors": [
+          "blood",
+          "bread",
+          "cup"
+        ]
+      },
+      {
+        "id": "1-cor-11-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What does Paul command each to do before eating the bread and drinking the cup?",
+        "options": [
+          "That he examine himself",
+          "That he fast three days",
+          "That he confess to the priest",
+          "That he pay an offering"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What does Paul command when the believers come together to eat?",
+        "options": [
+          "To tarry one for another",
+          "To eat in silence",
+          "To bring offerings",
+          "To sit by order of age"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "The veil",
+            "right": "Cultural custom about covering the head when praying"
+          },
+          {
+            "left": "The Lord's Supper",
+            "right": "Instituted by Jesus: the bread and the cup in remembrance of him"
+          },
+          {
+            "left": "Examine oneself",
+            "right": "What each must do before partaking"
+          },
+          {
+            "left": "Tarry one for another",
+            "right": "How they should act when gathering to eat"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "1-cor-12-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Diversity of gifts",
+        "text": "Paul teaches that there are many gifts — wisdom, knowledge, faith, healing, miracles, prophecy, tongues — but one Spirit who distributes them to each as he will. The variety serves the common good, not individual vanity."
+      },
+      {
+        "id": "1-cor-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "no man can say that Jesus is the {0}, but by the Holy Ghost.",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "Master",
+          "King",
+          "Prophet"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Who distributes the various spiritual gifts, according to Paul?",
+        "options": [
+          "One and the same Spirit, as he will",
+          "Each one to himself",
+          "The apostles",
+          "The wisest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "One body, many members",
+        "text": "Paul compares the church to a body: many members, but one body. The foot is no less of the body for not being a hand, and the eye cannot do without the hand. Each part is necessary, and the weaker members receive greater honor."
+      },
+      {
+        "id": "1-cor-12-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "For as the {0} is one, and hath many members,",
+        "blanks": [
+          "body"
+        ],
+        "distractors": [
+          "temple",
+          "kingdom",
+          "people"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What can the eye not say to the hand, according to Paul?",
+        "options": [
+          "I have no need of thee",
+          "I am greater than you",
+          "Come with me",
+          "I am of the body"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What happens when one member of the body suffers, according to Paul?",
+        "options": [
+          "All the members suffer with it",
+          "The others feel nothing",
+          "The body is destroyed",
+          "Only the head suffers"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Which offices did God set first in the church, according to Paul?",
+        "options": [
+          "First apostles, then prophets, then teachers",
+          "First kings and priests",
+          "First judges",
+          "First elders and deacons"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "A more excellent way",
+        "text": "After dealing with the gifts, Paul points to something greater: 'I shew unto you a more excellent way'. That way is love, the theme of chapter 13, without which no gift has value."
+      },
+      {
+        "id": "1-cor-12-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "The gifts",
+            "right": "Diverse, distributed by one Spirit"
+          },
+          {
+            "left": "The body",
+            "right": "Image of the church: many members, one body"
+          },
+          {
+            "left": "The weaker members",
+            "right": "Receive greater honor"
+          },
+          {
+            "left": "The more excellent way",
+            "right": "Love, of the next chapter"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "1-cor-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The hymn to love",
+        "text": "This is one of the best-known texts in the Bible. Paul shows that without love — charity, from the Greek agape — nothing is worth anything: not tongues, nor prophecy, nor giving all to the poor. Love is the more excellent way he had promised to show."
+      },
+      {
+        "id": "1-cor-13-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "and have not {0}, I am become as sounding brass,",
+        "blanks": [
+          "charity"
+        ],
+        "distractors": [
+          "faith",
+          "wisdom",
+          "hope"
+        ]
+      },
+      {
+        "id": "1-cor-13-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How does Paul describe charity?",
+        "options": [
+          "Patient, kind, not envious; bears all and endures all things",
+          "Proud and strong",
+          "Rare and secret",
+          "Severe and just"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Through a glass, darkly",
+        "text": "Paul says that now we see 'through a glass, darkly', but then face to face. Ancient mirrors, of polished metal, gave imperfect images — a figure of our partial knowledge in this life, which one day will be complete."
+      },
+      {
+        "id": "1-cor-13-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Which three remain, according to Paul, the greatest being charity?",
+        "options": [
+          "Faith, hope and charity",
+          "Faith, works and law",
+          "Prophecy, tongues and knowledge",
+          "Grace, peace and love"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "but the greatest of these is {0}.",
+        "blanks": [
+          "charity"
+        ],
+        "distractors": [
+          "faith",
+          "hope",
+          "grace"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "1-cor-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Tongues and prophecy",
+        "text": "In Corinth, the gift of speaking in tongues was highly prized. Paul teaches that prophesying is more useful, because it edifies the whole church, while one who speaks in an unknown tongue edifies only himself, unless there is interpretation."
+      },
+      {
+        "id": "1-cor-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What is the difference between one who speaks in tongues and one who prophesies, according to Paul?",
+        "options": [
+          "He who speaks in tongues edifies himself; he who prophesies edifies the church",
+          "Both edify only themselves",
+          "Prophesying is lesser",
+          "Speaking in tongues is forbidden"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "if the {0} give an uncertain sound, who shall prepare himself to the battle?",
+        "blanks": [
+          "trumpet"
+        ],
+        "distractors": [
+          "flute",
+          "harp",
+          "pipe"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What does Paul advise the one who speaks in an unknown tongue?",
+        "options": [
+          "That he pray that he may interpret",
+          "That he speak louder",
+          "That he keep silent forever",
+          "That he teach others the tongue"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "and I will pray with the {0} also:",
+        "blanks": [
+          "understanding"
+        ],
+        "distractors": [
+          "heart",
+          "body",
+          "fear"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What does Paul prefer in the church, rather than ten thousand words in an unknown tongue?",
+        "options": [
+          "Five words with his understanding, to teach others",
+          "A thousand songs",
+          "Total silence",
+          "Secret prophecies"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "All for edification",
+        "text": "Paul regulates worship: let everything — psalm, doctrine, tongue, revelation, interpretation — be done for edification. Tongues must be interpreted, and the prophets speak in turn, for God is a God of peace, not of confusion."
+      },
+      {
+        "id": "1-cor-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What principle should govern all that is done when the church gathers?",
+        "options": [
+          "That all things be done for edification",
+          "That all speak at once",
+          "That only tongues be spoken",
+          "That no one speak"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "How does Paul regulate speaking in tongues in the meeting?",
+        "options": [
+          "By two or three, in turn, and let one interpret",
+          "All at once",
+          "Only the apostles",
+          "Without interpretation"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "God is not the author of confusion, but of {0},",
+        "blanks": [
+          "peace"
+        ],
+        "distractors": [
+          "wrath",
+          "judgment",
+          "fear"
+        ]
+      },
+      {
+        "id": "1-cor-14-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "Let all things be done decently and in {0}.",
+        "blanks": [
+          "order"
+        ],
+        "distractors": [
+          "joy",
+          "power",
+          "faith"
+        ]
+      },
+      {
+        "id": "1-cor-14-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Prophesying",
+            "right": "Edifies the whole church"
+          },
+          {
+            "left": "Speaking in tongues",
+            "right": "Edifies oneself, unless interpreted"
+          },
+          {
+            "left": "The trumpet of uncertain sound",
+            "right": "Image of unintelligible words"
+          },
+          {
+            "left": "God",
+            "right": "Is a God of peace, not of confusion"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "1-cor-15-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The earliest creed",
+        "text": "Verses 3 to 5 contain a formula Paul says he received and passed on: Christ died for our sins, was buried and rose again on the third day, according to the scriptures. It is one of the earliest Christian confessions of faith."
+      },
+      {
+        "id": "1-cor-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "and that he {0} again the third day according to the scriptures:",
+        "blanks": [
+          "rose"
+        ],
+        "distractors": [
+          "came",
+          "appeared",
+          "ascended"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How does Paul describe himself among the apostles?",
+        "options": [
+          "The least of the apostles, unworthy for having persecuted the church",
+          "The greatest of the apostles",
+          "Equal to Cephas",
+          "Apostle only to the Jews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "They denied the resurrection",
+        "text": "Some Corinthians, influenced by Greek philosophy, which despised the body, denied the resurrection of the dead. Paul answers that without it, all faith would be vain, for then Christ also would not have risen."
+      },
+      {
+        "id": "1-cor-15-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "then is our preaching {0}, and your faith is also vain.",
+        "blanks": [
+          "vain"
+        ],
+        "distractors": [
+          "holy",
+          "true",
+          "firm"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "For as in {0} all die, even so in Christ shall all be made alive.",
+        "blanks": [
+          "Adam"
+        ],
+        "distractors": [
+          "Moses",
+          "Abraham",
+          "David"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "The last enemy that shall be destroyed is {0}.",
+        "blanks": [
+          "death"
+        ],
+        "distractors": [
+          "the law",
+          "the flesh",
+          "the lie"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What saying does Paul quote to warn about bad company?",
+        "options": [
+          "Evil communications corrupt good manners",
+          "Love covers sins",
+          "Faith without works is dead",
+          "He who sows reaps"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "With what image does Paul explain the resurrection of the body?",
+        "options": [
+          "The seed that is only quickened if it first dies",
+          "The potter's clay",
+          "The grafted olive tree",
+          "The house on the rock"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-41",
+        "type": "curiosity",
+        "after_verse": 41,
+        "title": "Different glories",
+        "text": "To speak of the resurrected bodies, Paul points to the sky: the sun, the moon and the stars have different glories, and one star differs from another in glory. So also will be the resurrection of the dead, in transformed bodies."
+      },
+      {
+        "id": "1-cor-15-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "it is raised a {0} body.",
+        "blanks": [
+          "spiritual"
+        ],
+        "distractors": [
+          "celestial",
+          "glorious",
+          "immortal"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "How does Paul contrast the first and the last Adam?",
+        "options": [
+          "The first Adam was made a living soul; the last, a quickening spirit",
+          "Both were earthy",
+          "The first came from heaven",
+          "The last was made a living soul"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "at the last {0}: for the trumpet shall sound,",
+        "blanks": [
+          "trump"
+        ],
+        "distractors": [
+          "voice",
+          "word",
+          "prayer"
+        ]
+      },
+      {
+        "id": "1-cor-15-cur-55",
+        "type": "curiosity",
+        "after_verse": 55,
+        "title": "Victory over death",
+        "text": "Paul proclaims the triumph of the resurrection with words drawn from Hosea: 'O death, where is thy sting?' The sting of death is sin, but God gives the victory through Jesus Christ."
+      },
+      {
+        "id": "1-cor-15-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "O death, where is thy {0}?",
+        "blanks": [
+          "sting"
+        ],
+        "distractors": [
+          "power",
+          "kingdom",
+          "throne"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "How does Paul conclude the chapter on the resurrection?",
+        "options": [
+          "Be steadfast, abounding in the work of the Lord, for your labour is not in vain",
+          "Let us eat and drink",
+          "Fear death",
+          "Keep the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mp-58",
+        "type": "match_pairs",
+        "after_verse": 58,
+        "pairs": [
+          {
+            "left": "Christ",
+            "right": "Rose and is the firstfruits of those who sleep"
+          },
+          {
+            "left": "Adam",
+            "right": "Through him death came to all men"
+          },
+          {
+            "left": "The last enemy",
+            "right": "Death, which will be destroyed"
+          },
+          {
+            "left": "The resurrected body",
+            "right": "Sown natural, raised spiritual"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "1-cor-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The collection for the saints",
+        "text": "Paul organizes a collection for the poor church of Jerusalem, asking that each one, on the first day of the week, lay something aside as he prospers. This project united Jewish and Gentile Christians in one fellowship."
+      },
+      {
+        "id": "1-cor-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What instruction does Paul give about the collection for the saints?",
+        "options": [
+          "On the first day of the week, let each lay aside as he prospers",
+          "That they sell all their goods",
+          "That they wait for him to arrive",
+          "That only the rich contribute"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Where does Paul say he will stay until Pentecost?",
+        "options": [
+          "In Ephesus",
+          "In Corinth",
+          "In Jerusalem",
+          "In Macedonia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Stand fast in the faith",
+        "text": "Near the end of the letter, Paul sums it all up in a vigorous exhortation: 'Watch ye, stand fast in the faith, quit you like men, be strong.' And he adds the principle that governs the whole letter: 'Let all your things be done with charity.'"
+      },
+      {
+        "id": "1-cor-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Watch ye, stand fast in the {0}, quit you like men, be strong.",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "grace",
+          "law",
+          "truth"
+        ]
+      },
+      {
+        "id": "1-cor-16-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "How does Paul describe the household of Stephanas?",
+        "options": [
+          "The firstfruits of Achaia, devoted to the ministry of the saints",
+          "Prophets of Corinth",
+          "The founders of the church of Rome",
+          "Elders of Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Maran-atha",
+        "text": "Paul closes with an Aramaic word, 'Maran-atha', meaning 'Our Lord, come' (or 'The Lord comes'). It is an echo of the prayer of the first Christian communities, who eagerly awaited Christ's return."
+      },
+      {
+        "id": "1-cor-16-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "How does Paul close the letter?",
+        "options": [
+          "With a greeting in his own hand and his blessing of grace and love",
+          "With a curse on the Gentiles",
+          "With a list of laws",
+          "With a request for money"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "The collection",
+            "right": "Offering for the poor church of Jerusalem"
+          },
+          {
+            "left": "Ephesus",
+            "right": "Where Paul would stay until Pentecost"
+          },
+          {
+            "left": "Stephanas",
+            "right": "Household that was the firstfruits of Achaia"
+          },
+          {
+            "left": "Maran-atha",
+            "right": "Our Lord, come"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "book": "2-tim",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-tim-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Who writes this letter and to whom is it addressed?",
+        "options": [
+          "Paul to Timothy",
+          "Peter to Titus",
+          "John to Philemon",
+          "James to Timothy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "which dwelt first in thy grandmother Lois, and thy mother {0}",
+        "blanks": [
+          "Eunice"
+        ],
+        "distractors": [
+          "Lois",
+          "Timothy",
+          "Onesiphorus"
+        ]
+      },
+      {
+        "id": "2-tim-1-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Stir up the gift",
+        "text": "The Greek word rendered \"stir up\" pictures fanning a coal to rekindle a flame; Paul reminds Timothy to reignite the spiritual gift he had received."
+      },
+      {
+        "id": "2-tim-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "God hath not given us the spirit of",
+            "right": "fear"
+          },
+          {
+            "left": "But of",
+            "right": "power"
+          },
+          {
+            "left": "And of",
+            "right": "love"
+          },
+          {
+            "left": "And of a",
+            "right": "sound mind"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "for I know whom I have believed, and am persuaded that he is able to keep that which I have {0} unto him against that day.",
+        "blanks": [
+          "committed"
+        ],
+        "distractors": [
+          "believed",
+          "appointed",
+          "saved"
+        ]
+      },
+      {
+        "id": "2-tim-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Why does Paul ask for mercy upon the house of Onesiphorus?",
+        "options": [
+          "Because he oft refreshed Paul and was not ashamed of his chain",
+          "Because he handed Paul over to the authorities",
+          "Because he taught Paul in his youth",
+          "Because he was Paul's kinsman"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "2-tim-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A farewell letter",
+        "text": "2 Timothy is Paul's last known letter, written from a Roman prison. His words to Timothy read like a master's final counsel to his beloved disciple."
+      },
+      {
+        "id": "2-tim-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Thou therefore endure hardness, as a good {0} of Jesus Christ.",
+        "blanks": [
+          "soldier"
+        ],
+        "distractors": [
+          "husbandman",
+          "workman",
+          "servant"
+        ]
+      },
+      {
+        "id": "2-tim-2-mp-6",
+        "type": "match_pairs",
+        "after_verse": 6,
+        "pairs": [
+          {
+            "left": "Soldier",
+            "right": "Entangles not himself with the affairs of this life"
+          },
+          {
+            "left": "Athlete",
+            "right": "Is crowned only if he strive lawfully"
+          },
+          {
+            "left": "Husbandman",
+            "right": "Labours and is first partaker of the fruits"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "According to Paul, though he suffers trouble and even bonds, what is not bound?",
+        "options": [
+          "The word of God",
+          "The gospel of men",
+          "The law of Moses",
+          "The hope of David"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "According to verse 13, even if we believe not, what does the Lord do?",
+        "options": [
+          "He abideth faithful",
+          "He forsakes us",
+          "He denies himself",
+          "He forgets us"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of {0}.",
+        "blanks": [
+          "truth"
+        ],
+        "distractors": [
+          "grace",
+          "faith",
+          "salvation"
+        ]
+      },
+      {
+        "id": "2-tim-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What seal does the sure foundation of God have, according to verse 19?",
+        "options": [
+          "The Lord knoweth them that are his",
+          "Faith without works is dead",
+          "Seek ye first the kingdom of God",
+          "The just shall live by faith"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-2-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 22,
+        "template": "Flee also youthful lusts: but follow righteousness, faith, charity, {0}, with them that call on the Lord out of a pure heart.",
+        "blanks": [
+          "peace"
+        ],
+        "distractors": [
+          "grace",
+          "glory",
+          "truth"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-tim-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Paul's last letter",
+        "text": "Second Timothy is regarded as Paul's last known letter, written from a prison in Rome shortly before his death. His words about the 'last days' read like a final warning to a beloved disciple."
+      },
+      {
+        "id": "2-tim-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Having a form of {0}, but denying the power thereof",
+        "blanks": [
+          "godliness"
+        ],
+        "distractors": [
+          "truth",
+          "wisdom",
+          "doctrine"
+        ]
+      },
+      {
+        "id": "2-tim-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Whom does Paul say Jannes and Jambres withstood?",
+        "options": [
+          "Moses",
+          "Elijah",
+          "David",
+          "Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Cities where Paul suffered persecutions",
+            "right": "Antioch, Iconium and Lystra"
+          },
+          {
+            "left": "Who delivered Paul out of them all",
+            "right": "The Lord"
+          },
+          {
+            "left": "Qualities Timothy had known in Paul",
+            "right": "Faith, charity and patience"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "All scripture is given by {0} of God, and is profitable for doctrine",
+        "blanks": [
+          "inspiration"
+        ],
+        "distractors": [
+          "reproof",
+          "correction",
+          "instruction"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "2-tim-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Preach the {0}; be instant in season, out of season",
+        "blanks": [
+          "word"
+        ],
+        "distractors": [
+          "doctrine",
+          "truth",
+          "faith"
+        ]
+      },
+      {
+        "id": "2-tim-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Itching ears",
+        "text": "Paul warns that many, instead of enduring sound doctrine, will gather teachers who say what they want to hear and turn aside to fables — a vivid picture of choosing comfort over truth."
+      },
+      {
+        "id": "2-tim-4-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "I have fought",
+            "right": "a good fight"
+          },
+          {
+            "left": "I have finished",
+            "right": "my course"
+          },
+          {
+            "left": "I have kept",
+            "right": "the faith"
+          }
+        ]
+      },
+      {
+        "id": "2-tim-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "According to Paul, who was the only one with him?",
+        "options": [
+          "Luke",
+          "Mark",
+          "Demas",
+          "Titus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-4-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Who forsook Paul, having loved this present world?",
+        "options": [
+          "Demas",
+          "Crescens",
+          "Titus",
+          "Tychicus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-tim-4-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "and I was delivered out of the mouth of the {0}",
+        "blanks": [
+          "lion"
+        ],
+        "distractors": [
+          "wolf",
+          "enemy",
+          "judge"
+        ]
+      }
+    ]
+  }
+}

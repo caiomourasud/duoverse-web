@@ -1,0 +1,958 @@
+{
+ "schema_version": 1,
+ "book": "jacob",
+ "chapters": {
+  "1": [
+   {
+    "id": "jacob-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "desde a época em que Leí deixara {0}",
+    "blanks": [
+     "Jerusalém"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Egito",
+     "Nínive"
+    ]
+   },
+   {
+    "id": "jacob-1-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "Sabendo que logo morreria, o que Néfi fez por seu povo?",
+    "options": [
+     "Ungiu um homem para ser rei e governador",
+     "Construiu um grande templo",
+     "Dividiu a terra entre seus filhos",
+     "Começou um novo conjunto de placas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-1-cur-11",
+    "after_verse": 11,
+    "type": "curiosity",
+    "title": "Um nome real transmitido",
+    "text": "Por amor a Néfi, cada rei posterior era chamado de ‘Néfi segundo, Néfi terceiro’ e assim por diante — um nome de trono mantido qualquer que fosse o nome do governante, à semelhança de ‘faraó’ no Egito."
+   },
+   {
+    "id": "jacob-1-mp-13",
+    "type": "match_pairs",
+    "after_verse": 13,
+    "pairs": [
+     {
+      "left": "Nefitas",
+      "right": "Descendentes de Néfi"
+     },
+     {
+      "left": "Jacobitas",
+      "right": "Descendentes de Jacó"
+     },
+     {
+      "left": "Lamanitas",
+      "right": "Descendentes de Lamã"
+     },
+     {
+      "left": "Ismaelitas",
+      "right": "Descendentes de Ismael"
+     }
+    ]
+   },
+   {
+    "id": "jacob-1-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "assim como {0}, na antiguidade, que desejara ter muitas esposas e concubinas",
+    "blanks": [
+     "Davi"
+    ],
+    "distractors": [
+     "Saul",
+     "Moisés",
+     "Abraão"
+    ]
+   },
+   {
+    "id": "jacob-1-mc-18",
+    "after_verse": 18,
+    "type": "multiple_choice",
+    "question": "Quem consagrou Jacó e seu irmão José como sacerdotes e mestres?",
+    "options": [
+     "Néfi",
+     "Leí",
+     "Lamã",
+     "Sam"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-1-cur-19",
+    "after_verse": 19,
+    "type": "curiosity",
+    "title": "Respondendo pelos pecados do povo",
+    "text": "Jacó e José sentiam que, se deixassem de ensinar a palavra de Deus, os pecados do povo recairiam sobre suas próprias cabeças — suas vestimentas manchadas de sangue, a menos que trabalhassem com toda diligência."
+   }
+  ],
+  "2": [
+   {
+    "id": "jacob-2-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "venho hoje ao {0} para declarar-vos a palavra de Deus",
+    "blanks": [
+     "templo"
+    ],
+    "distractors": [
+     "tabernáculo",
+     "monte",
+     "santuário"
+    ]
+   },
+   {
+    "id": "jacob-2-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Um sermão que ele temia proferir",
+    "text": "Jacó profere esta repreensão no templo por mandamento direto, entristecido por ter de falar com tanta firmeza diante das próprias esposas e filhos mais feridos pelos pecados dos homens."
+   },
+   {
+    "id": "jacob-2-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "faz-me encolher de {0} ante meu Criador",
+    "blanks": [
+     "vergonha"
+    ],
+    "distractors": [
+     "medo",
+     "temor",
+     "tristeza"
+    ]
+   },
+   {
+    "id": "jacob-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "devido aos vossos custosos {0}",
+    "blanks": [
+     "trajes"
+    ],
+    "distractors": [
+     "bens",
+     "ornamentos",
+     "tesouros"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-14",
+    "after_verse": 14,
+    "type": "multiple_choice",
+    "question": "Quando os nefitas se enchem de orgulho por suas riquezas, como Deus responde?",
+    "options": [
+     "Condena-os e adverte sobre julgamentos rápidos",
+     "Justifica-os por seu trabalho árduo",
+     "Aprova, se eles partilharem um pouco",
+     "Permanece em silêncio quanto a isso"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-mc-18",
+    "after_verse": 18,
+    "type": "multiple_choice",
+    "question": "O que Jacó aconselha o povo a buscar antes das riquezas?",
+    "options": [
+     "O reino de Deus",
+     "Um rei para governá-los",
+     "Mais terra para herança",
+     "Honra entre as nações"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "O que Jacó ensina sobre cada pessoa diante de Deus?",
+    "options": [
+     "Cada alma é tão preciosa a Seus olhos quanto outra",
+     "Os ricos são preferidos aos pobres",
+     "Só os nefitas são preciosos para Ele",
+     "Os fortes valem mais que os fracos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-cur-23",
+    "after_verse": 23,
+    "type": "curiosity",
+    "title": "Dois pecados, um cada vez pior",
+    "text": "Jacó primeiro repreende o povo pelo orgulho nas riquezas e depois passa a um ‘crime ainda maior’ — tentar justificar práticas proibidas interpretando mal as escrituras sobre Davi e Salomão."
+   },
+   {
+    "id": "jacob-2-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "Eis que {0} e Salomão realmente tiveram muitas esposas e concubinas",
+    "blanks": [
+     "Davi"
+    ],
+    "distractors": [
+     "Saul",
+     "Moisés",
+     "Abraão"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "O que o Senhor ordena aos homens quanto ao casamento?",
+    "options": [
+     "Cada um terá apenas uma esposa e nenhuma concubina",
+     "Podem ter muitas esposas como Davi",
+     "Não devem se casar de modo algum",
+     "Só podem casar-se fora de seu povo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "eu, o Senhor Deus, deleito-me na {0} das mulheres",
+    "blanks": [
+     "castidade"
+    ],
+    "distractors": [
+     "beleza",
+     "sabedoria",
+     "força"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "A quem Jacó diz que estes mandamentos foram dados primeiro?",
+    "options": [
+     "A seu pai, Leí",
+     "Ao rei Néfi",
+     "Ao próprio Jacó",
+     "A seu irmão José"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-fb-35",
+    "type": "fill_blank",
+    "after_verse": 35,
+    "verse": 35,
+    "template": "Haveis quebrantado o coração de vossas ternas {0}",
+    "blanks": [
+     "esposas"
+    ],
+    "distractors": [
+     "mães",
+     "filhas",
+     "irmãs"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "jacob-3-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "são mais {0} que vós",
+    "blanks": [
+     "justos"
+    ],
+    "distractors": [
+     "iníquos",
+     "orgulhosos",
+     "tolos"
+    ]
+   },
+   {
+    "id": "jacob-3-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "um dia tornar-se-ão um povo {0}",
+    "blanks": [
+     "abençoado"
+    ],
+    "distractors": [
+     "poderoso",
+     "numeroso",
+     "disperso"
+    ]
+   },
+   {
+    "id": "jacob-3-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "O que Jacó diz sobre as famílias lamanitas?",
+    "options": [
+     "Maridos e esposas amam-se e amam seus filhos",
+     "Haviam abandonado todas as suas famílias",
+     "Viviam sem lei alguma",
+     "Adoravam muitos deuses"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-3-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "Fiéis onde os nefitas falharam",
+    "text": "Jacó observa que os maridos e esposas lamanitas amavam-se e amavam seus filhos, guardando o mandamento de uma só esposa — o que os tornava, nisto, ‘mais justos’ que os nefitas que ele repreendia."
+   },
+   {
+    "id": "jacob-3-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "Nem a centésima parte",
+    "text": "Jacó diz que nem a centésima parte dos feitos de seu povo caberia nestas placas menores; as guerras, as contendas e os reinados dos reis eram registrados nas placas maiores de Néfi."
+   },
+   {
+    "id": "jacob-3-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "foram feitas pela mão de {0}",
+    "blanks": [
+     "Néfi"
+    ],
+    "distractors": [
+     "Jacó",
+     "Leí",
+     "José"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "jacob-4-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "oferecer seu filho {0}",
+    "blanks": [
+     "Isaque"
+    ],
+    "distractors": [
+     "Ismael",
+     "Jacó",
+     "Esaú"
+    ]
+   },
+   {
+    "id": "jacob-4-cur-5",
+    "after_verse": 5,
+    "type": "curiosity",
+    "title": "Por que guardavam a lei de Moisés",
+    "text": "Jacó explica que guardavam a lei de Moisés porque ela guiava sua alma a Cristo — e que a oferta de Isaque por Abraão era à semelhança de Deus oferecendo Seu Filho Unigênito."
+   },
+   {
+    "id": "jacob-4-mc-6",
+    "after_verse": 6,
+    "type": "multiple_choice",
+    "question": "Jacó diz que, pela fé no nome de Jesus, o que lhes obedeceria?",
+    "options": [
+     "As árvores, as montanhas e as ondas do mar",
+     "O sol e a lua",
+     "Reis e exércitos",
+     "O próprio tempo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-4-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "foi pelo poder de sua {0} que o homem apareceu na face da Terra",
+    "blanks": [
+     "palavra"
+    ],
+    "distractors": [
+     "mão",
+     "vontade",
+     "sabedoria"
+    ]
+   },
+   {
+    "id": "jacob-4-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "cegueira que lhes adveio por olharem para além do {0}",
+    "blanks": [
+     "marco"
+    ],
+    "distractors": [
+     "limite",
+     "horizonte",
+     "véu"
+    ]
+   },
+   {
+    "id": "jacob-4-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Olhar para além do marco",
+    "text": "Jacó diz que os judeus tropeçaram por ‘olharem para além do marco’ — desprezando as verdades simples do evangelho e desejando coisas que não podiam compreender, até rejeitarem a própria pedra, Cristo, sobre a qual poderiam edificar com segurança."
+   },
+   {
+    "id": "jacob-4-mc-16",
+    "after_verse": 16,
+    "type": "multiple_choice",
+    "question": "O que Jacó diz que a pedra rejeitada pelos judeus virá a ser?",
+    "options": [
+     "O único fundamento seguro sobre o qual podem edificar",
+     "Uma pedra de tropeço para sempre",
+     "Um muro ao redor de Jerusalém",
+     "Um monumento aos profetas"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "jacob-5-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "as palavras do profeta {0} à casa de Israel",
+    "blanks": [
+     "Zenos"
+    ],
+    "distractors": [
+     "Isaías",
+     "Zenoque",
+     "Neum"
+    ]
+   },
+   {
+    "id": "jacob-5-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "A alegoria da oliveira",
+    "text": "Citando o profeta Zenos, Jacó compara a casa de Israel a uma oliveira mansa numa vinha; sua dispersão, enxertia e recolhimento retratam o longo trabalho do Senhor para salvar Seu povo do convênio."
+   },
+   {
+    "id": "jacob-5-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "arranca os ramos de uma oliveira {0}",
+    "blanks": [
+     "brava"
+    ],
+    "distractors": [
+     "mansa",
+     "verde",
+     "seca"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-14",
+    "after_verse": 14,
+    "type": "multiple_choice",
+    "question": "O que o Senhor da vinha fez com os ramos naturais que tomou?",
+    "options": [
+     "Escondeu-os nas partes mais baixas da vinha",
+     "Queimou-os no fogo",
+     "Vendeu-os a outras vinhas",
+     "Deixou-os secar ao sol"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "os ramos bravos produziram frutos {0}",
+    "blanks": [
+     "bons"
+    ],
+    "distractors": [
+     "maus",
+     "amargos",
+     "verdes"
+    ]
+   },
+   {
+    "id": "jacob-5-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "este era o pedaço mais {0} de toda a terra de tua vinha",
+    "blanks": [
+     "improdutivo"
+    ],
+    "distractors": [
+     "fértil",
+     "extenso",
+     "elevado"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "Quando o Senhor quis arrancar os ramos infrutíferos, o que o servo pediu?",
+    "options": [
+     "Podá-la, cavar ao redor e cuidar dela um pouco mais",
+     "Queimar a árvore inteira de uma vez",
+     "Plantar uma nova vinha em outro lugar",
+     "Abandonar a vinha para sempre"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-32",
+    "type": "fill_blank",
+    "after_verse": 32,
+    "verse": 32,
+    "template": "há toda espécie de frutos {0}",
+    "blanks": [
+     "maus"
+    ],
+    "distractors": [
+     "bons",
+     "doces",
+     "maduros"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-37",
+    "after_verse": 37,
+    "type": "multiple_choice",
+    "question": "Por que a árvore enxertada começou a produzir frutos maus?",
+    "options": [
+     "Os ramos bravos sobrepujaram as boas raízes",
+     "As raízes haviam secado",
+     "Ninguém regava a árvore",
+     "Aves comiam os bons frutos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-41",
+    "type": "fill_blank",
+    "after_verse": 41,
+    "verse": 41,
+    "template": "o Senhor da vinha {0} e disse ao servo",
+    "blanks": [
+     "chorou"
+    ],
+    "distractors": [
+     "sorriu",
+     "alegrou-se",
+     "tremeu"
+    ]
+   },
+   {
+    "id": "jacob-5-cur-41",
+    "after_verse": 41,
+    "type": "curiosity",
+    "title": "O Senhor da vinha chora",
+    "text": "Três vezes o dono clama ‘Que mais poderia ter eu feito pela minha vinha?’ — e a certa altura ele chora. A alegoria retrata um Deus que trabalha e se entristece por Seu povo, em vez de abandoná-lo."
+   },
+   {
+    "id": "jacob-5-mc-47",
+    "after_verse": 47,
+    "type": "multiple_choice",
+    "question": "O que o Senhor da vinha insiste que NÃO fez?",
+    "options": [
+     "Afrouxar a mão de cuidar da vinha",
+     "Plantar ele mesmo as árvores",
+     "Enviar servos para ajudar",
+     "Provar o fruto das árvores"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-mp-47",
+    "type": "match_pairs",
+    "after_verse": 47,
+    "pairs": [
+     {
+      "left": "Podar",
+      "right": "Cortar os ramos da árvore"
+     },
+     {
+      "left": "Enxertar",
+      "right": "Unir um ramo de outra árvore"
+     },
+     {
+      "left": "Cavar ao redor",
+      "right": "Afofar a terra em volta das raízes"
+     },
+     {
+      "left": "Adubar",
+      "right": "Fertilizar o solo"
+     }
+    ]
+   },
+   {
+    "id": "jacob-5-fb-52",
+    "type": "fill_blank",
+    "after_verse": 52,
+    "verse": 52,
+    "template": "os ramos que dão os frutos mais {0}",
+    "blanks": [
+     "amargos"
+    ],
+    "distractors": [
+     "doces",
+     "maduros",
+     "bons"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-59",
+    "after_verse": 59,
+    "type": "multiple_choice",
+    "question": "Por que o Senhor troca os ramos entre as árvores?",
+    "options": [
+     "Para que os bons sobrepujem os maus",
+     "Para tornar a vinha menor",
+     "Para vender o melhor fruto",
+     "Para punir o servo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-mc-62",
+    "after_verse": 62,
+    "type": "multiple_choice",
+    "question": "Quantas vezes mais o Senhor diz que podará a sua vinha?",
+    "options": [
+     "Esta é a última vez",
+     "Mais sete vezes",
+     "Tantas vezes quantas forem necessárias",
+     "Nunca mais a podará"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-70",
+    "type": "fill_blank",
+    "after_verse": 70,
+    "verse": 70,
+    "template": "trouxe outros servos; e eram {0}",
+    "blanks": [
+     "poucos"
+    ],
+    "distractors": [
+     "muitos",
+     "fortes",
+     "fiéis"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-72",
+    "after_verse": 72,
+    "type": "multiple_choice",
+    "question": "Quem trabalhou na vinha junto com os servos desta última vez?",
+    "options": [
+     "O próprio Senhor da vinha",
+     "Apenas estranhos contratados",
+     "Os ramos bravos",
+     "Ninguém — eles trabalharam sozinhos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-cur-72",
+    "after_verse": 72,
+    "type": "curiosity",
+    "title": "Ele trabalha ao lado de Seus servos",
+    "text": "No recolhimento final, o Senhor da vinha não apenas envia servos — ele trabalha com eles. Os poucos que se esforçam com todo o afinco partilham de Sua alegria pelo bom fruto enfim preservado."
+   },
+   {
+    "id": "jacob-5-mc-77",
+    "after_verse": 77,
+    "type": "multiple_choice",
+    "question": "No fim, o que o Senhor fará quando os frutos maus retornarem?",
+    "options": [
+     "Reunir os bons e os maus, preservar os bons e queimar a vinha",
+     "Abandonar a vinha por completo",
+     "Enxertar mais ramos bravos",
+     "Vender a vinha a estranhos"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "jacob-6-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "A profecia do próprio Jacó",
+    "text": "Depois de citar a longa alegoria de Zenos, Jacó acrescenta sua própria e breve profecia: o recolhimento de Israel que ela descreve — o Senhor estendendo a mão ‘pela segunda vez’ — seguramente acontecerá antes de o mundo ser queimado."
+   },
+   {
+    "id": "jacob-6-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "se lembra da casa de Israel, tanto das raízes como dos {0}",
+    "blanks": [
+     "ramos"
+    ],
+    "distractors": [
+     "folhas",
+     "frutos",
+     "sementes"
+    ]
+   },
+   {
+    "id": "jacob-6-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "O que Jacó suplica que o povo não rejeite?",
+    "options": [
+     "As palavras ditas sobre Cristo e o plano de redenção",
+     "As tradições de seus pais",
+     "Os reinados de seus reis",
+     "As riquezas da terra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-6-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "o lago de fogo e {0}",
+    "blanks": [
+     "enxofre"
+    ],
+    "distractors": [
+     "trevas",
+     "fumaça",
+     "tormento"
+    ]
+   },
+   {
+    "id": "jacob-6-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "continuai no caminho {0} até obterdes a vida eterna",
+    "blanks": [
+     "apertado"
+    ],
+    "distractors": [
+     "largo",
+     "longo",
+     "íngreme"
+    ]
+   },
+   {
+    "id": "jacob-6-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "O agradável tribunal de Deus",
+    "text": "Jacó termina com uma expressão que só aparece em seus escritos — espera reencontrar seus leitores diante do ‘agradável tribunal de Deus’, o mesmo juízo que ‘causa aos iníquos terrível espanto’."
+   }
+  ],
+  "7": [
+   {
+    "id": "jacob-7-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "apareceu entre o povo de Néfi um homem cujo nome era {0}",
+    "blanks": [
+     "Serém"
+    ],
+    "distractors": [
+     "Lamã",
+     "Lemuel",
+     "Ismael"
+    ]
+   },
+   {
+    "id": "jacob-7-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "O primeiro anticristo nomeado",
+    "text": "Serém é o primeiro dos ‘anticristos’ nomeados do Livro de Mórmon — um homem instruído e persuasivo que usava lisonja e ‘muita eloquência’ para negar que Cristo viria e desviar corações."
+   },
+   {
+    "id": "jacob-7-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "não guardam a lei de {0}, que é o caminho correto",
+    "blanks": [
+     "Moisés"
+    ],
+    "distractors": [
+     "Abraão",
+     "Isaque",
+     "Néfi"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "Como Serém respondeu quando Jacó perguntou se ele negava o Cristo que viria?",
+    "options": [
+     "Afirmou que não existe Cristo algum, nem jamais existirá",
+     "Admitiu que o Cristo certamente viria",
+     "Recusou-se a dar qualquer resposta",
+     "Disse que esperaria para ver"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "se não houver {0}, toda a humanidade certamente se perderá",
+    "blanks": [
+     "expiação"
+    ],
+    "distractors": [
+     "aliança",
+     "sacrifício",
+     "oferta"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-13",
+    "after_verse": 13,
+    "type": "multiple_choice",
+    "question": "O que Serém exigiu de Jacó?",
+    "options": [
+     "Um sinal pelo poder do Espírito Santo",
+     "Metade de seus bens",
+     "Que deixasse a terra de Néfi",
+     "Um debate público diante do rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-mc-17",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "Depois de ser ferido, o que Serém disse à multidão?",
+    "options": [
+     "Confessou Cristo e que o diabo o havia enganado",
+     "Repetiu que não existe Cristo algum",
+     "Culpou Jacó por sua doença",
+     "Pediu para ser feito rei deles"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "Temo haver cometido o {0} imperdoável",
+    "blanks": [
+     "pecado"
+    ],
+    "distractors": [
+     "crime",
+     "erro",
+     "engano"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "Depois da morte de Serém, o que aconteceu entre o povo?",
+    "options": [
+     "A paz e o amor de Deus foram restaurados, e eles examinaram as escrituras",
+     "Dispersaram-se pelo deserto",
+     "Escolheram os seguidores de Serém como líderes",
+     "Abandonaram a lei de Moisés"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "confiando no Deus e {0} de sua salvação",
+    "blanks": [
+     "rocha"
+    ],
+    "distractors": [
+     "escudo",
+     "fortaleza",
+     "luz"
+    ]
+   },
+   {
+    "id": "jacob-7-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "disse ao meu filho {0}: Toma estas placas",
+    "blanks": [
+     "Enos"
+    ],
+    "distractors": [
+     "Néfi",
+     "José",
+     "Jarom"
+    ]
+   },
+   {
+    "id": "jacob-7-mp-27",
+    "type": "match_pairs",
+    "after_verse": 27,
+    "pairs": [
+     {
+      "left": "Serém",
+      "right": "Negou Cristo e depois O confessou antes de morrer"
+     },
+     {
+      "left": "Jacó",
+      "right": "O profeta que confundiu Serém"
+     },
+     {
+      "left": "Enos",
+      "right": "Filho de Jacó, que recebeu as placas"
+     },
+     {
+      "left": "Néfi",
+      "right": "Irmão de Jacó, que iniciou as placas"
+     }
+    ]
+   },
+   {
+    "id": "jacob-7-cur-27",
+    "after_verse": 27,
+    "type": "curiosity",
+    "title": "‘Irmãos, adeus’",
+    "text": "Jacó encerra entregando as placas a seu filho Enos e despede-se dos leitores com ‘adeus’ — palavra que, à semelhança do francês ‘adieu’, significa literalmente ‘a Deus’."
+   }
+  ]
+ }
+}

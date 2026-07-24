@@ -1,0 +1,192 @@
+{
+ "schema_version": 1,
+ "book": "enos",
+ "chapters": {
+  "1": [
+   {
+    "id": "enos-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "A famosa ‘luta’ perante Deus",
+    "text": "Enos chama sua oração, que durou o dia inteiro e adentrou a noite, de uma ‘luta’ perante Deus — imagem de esforço espiritual total que tornou seu relato uma das descrições mais amadas de oração fervorosa nas escrituras."
+   },
+   {
+    "id": "enos-1-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "saí para caçar {0} nas florestas",
+    "blanks": [
+     "animais"
+    ],
+    "distractors": [
+     "aves",
+     "cervos",
+     "pássaros"
+    ]
+   },
+   {
+    "id": "enos-1-mc-5",
+    "after_verse": 5,
+    "type": "multiple_choice",
+    "question": "Depois de Enos orar o dia inteiro e adentrar a noite, o que a voz lhe disse?",
+    "options": [
+     "Que seus pecados estavam perdoados e ele seria abençoado",
+     "Que voltasse para casa e descansasse",
+     "Que construísse um altar",
+     "Que reunisse seus irmãos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "enos-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "vai, tua fé te {0}",
+    "blanks": [
+     "salvou"
+    ],
+    "distractors": [
+     "curou",
+     "libertou",
+     "fortaleceu"
+    ]
+   },
+   {
+    "id": "enos-1-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "Uma vez removida a sua culpa, por quem Enos começou a orar?",
+    "options": [
+     "Por seus irmãos, os nefitas",
+     "Pelos reis da terra",
+     "Por seus próprios filhos",
+     "Por ninguém — ele descansou"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "enos-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "por meus irmãos, os {0}",
+    "blanks": [
+     "lamanitas"
+    ],
+    "distractors": [
+     "nefitas",
+     "zoramitas",
+     "ismaelitas"
+    ]
+   },
+   {
+    "id": "enos-1-mc-13",
+    "after_verse": 13,
+    "type": "multiple_choice",
+    "question": "O que Enos desejava especialmente do Senhor a respeito de seu povo?",
+    "options": [
+     "Que um registro dos nefitas fosse preservado e um dia chegasse aos lamanitas",
+     "Que os nefitas se tornassem ricos",
+     "Que ele fosse feito rei",
+     "Que os lamanitas fossem destruídos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "enos-1-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Tudo quanto pedires com {0}, acreditando que receberás em nome de Cristo",
+    "blanks": [
+     "fé"
+    ],
+    "distractors": [
+     "esperança",
+     "oração",
+     "humildade"
+    ]
+   },
+   {
+    "id": "enos-1-mp-16",
+    "type": "match_pairs",
+    "after_verse": 16,
+    "pairs": [
+     {
+      "left": "Sua oração por sua própria alma",
+      "right": "Seus pecados foram perdoados"
+     },
+     {
+      "left": "Sua oração pelos nefitas",
+      "right": "O Senhor os visitaria segundo sua diligência"
+     },
+     {
+      "left": "Sua oração pelos lamanitas",
+      "right": "Um registro seria preservado para alcançá-los"
+     }
+    ]
+   },
+   {
+    "id": "enos-1-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "habitando em {0} e vagando pelo deserto",
+    "blanks": [
+     "tendas"
+    ],
+    "distractors": [
+     "cavernas",
+     "cabanas",
+     "cidades"
+    ]
+   },
+   {
+    "id": "enos-1-cur-21",
+    "after_verse": 21,
+    "type": "curiosity",
+    "title": "Plantações, rebanhos e cavalos",
+    "text": "Enos interrompe seu relato espiritual para registrar a vida estabelecida dos nefitas — cultivando a terra e criando grãos, frutas, gado, cabras e cavalos —, um vislumbre de sua economia ao lado das guerras que narra."
+   },
+   {
+    "id": "enos-1-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "nosso pai, {0}, deixara Jerusalém",
+    "blanks": [
+     "Leí"
+    ],
+    "distractors": [
+     "Néfi",
+     "Jacó",
+     "Enos"
+    ]
+   },
+   {
+    "id": "enos-1-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "há um lugar preparado para ti nas {0} de meu Pai",
+    "blanks": [
+     "mansões"
+    ],
+    "distractors": [
+     "câmaras",
+     "cortes",
+     "cidades"
+    ]
+   },
+   {
+    "id": "enos-1-cur-27",
+    "after_verse": 27,
+    "type": "curiosity",
+    "title": "‘Um lugar preparado para ti’",
+    "text": "Enos encerra não com medo, mas com alegria, certo de que descansará com seu Redentor e ouvirá: ‘Vem a mim, ó bendito.’ Seu breve livro é, em essência, um longo testemunho de oração respondida."
+   }
+  ]
+ }
+}

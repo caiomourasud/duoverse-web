@@ -1,0 +1,214 @@
+{
+ "schema_version": 1,
+ "book": "zeph",
+ "chapters": {
+  "1": [
+   {
+    "id": "zeph-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Un profeta en el reinado de Josías",
+    "text": "El versículo 1 sitúa el mensaje de Sofonías 'en los días de Josías', el rey reformador de Judá — una generación antes de que Jerusalén cayera ante Babilonia, cuando aún había tiempo de volver atrás."
+   },
+   {
+    "id": "zeph-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "En Sofonías 1:6, ¿a quiénes talará Jehová junto con los idólatras?",
+    "options": [
+     "A los que se apartan de en pos de Jehová y no lo buscaron",
+     "A los pobres de la tierra",
+     "A los mercaderes extranjeros",
+     "Solo a los profetas de Baal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Según Sofonías 1:10, ¿de dónde habrá voz de clamor en aquel día?",
+    "options": [
+     "De la puerta del templo",
+     "De la puerta del Pescado",
+     "Del palacio del rey",
+     "De la puerta de las Ovejas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-1-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "En Sofonías 1:12, ¿cómo escudriñará Jehová a Jerusalén?",
+    "options": [
+     "Con una espada",
+     "Con fuego",
+     "Con lámpara",
+     "Con un torbellino"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zeph-1-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Ni su plata ni su {0} podrán librarlos",
+    "blanks": [
+     "oro"
+    ],
+    "distractors": [
+     "pan",
+     "caballos",
+     "muros"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "zeph-2-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Un refugio para los humildes",
+    "text": "En medio de las advertencias, el versículo 3 ofrece esperanza: los humildes que 'buscan justicia, buscan mansedumbre' quizá sean guardados en el día de la ira de Jehová — el juicio no es la única palabra."
+   },
+   {
+    "id": "zeph-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "En Sofonías 2:4, ¿qué ciudades son nombradas para la desolación?",
+    "options": [
+     "Tiro y Sidón",
+     "Gaza, Ascalón, Asdod y Ecrón",
+     "Damasco y Samaria",
+     "Babilonia y Nínive"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "que Moab será como {0}, y los hijos de Amón como Gomorra",
+    "blanks": [
+     "Sodoma"
+    ],
+    "distractors": [
+     "Egipto",
+     "Edom",
+     "Babilonia"
+    ]
+   },
+   {
+    "id": "zeph-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "En Sofonías 2:15, ¿qué decía en su corazón la ciudad alegre?",
+    "options": [
+     "Jehová no hará mal",
+     "Yo, y nadie más",
+     "Mis dioses me han salvado",
+     "Ningún enemigo me alcanza"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "zeph-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cómo describe Sofonías 3:5 a Jehová en medio de la ciudad?",
+    "options": [
+     "Es justo y no hará iniquidad",
+     "La ha abandonado",
+     "Está callado y lejano",
+     "Está airado sin medida"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-3-mp-4",
+    "type": "match_pairs",
+    "after_verse": 4,
+    "pairs": [
+     {
+      "left": "Sus príncipes",
+      "right": "Leones rugientes"
+     },
+     {
+      "left": "Sus jueces",
+      "right": "Lobos del atardecer"
+     },
+     {
+      "left": "Sus sacerdotes",
+      "right": "Contaminaron el santuario"
+     }
+    ]
+   },
+   {
+    "id": "zeph-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Sofonías 3:9, ¿qué devolverá Jehová a los pueblos para que todos invoquen su nombre?",
+    "options": [
+     "Un nuevo templo",
+     "Un lenguaje puro",
+     "Una ley escrita",
+     "Un gran banquete"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Según Sofonías 3:15, ¿qué ha hecho Jehová por la hija de Sion?",
+    "options": [
+     "Escondió de ella su rostro",
+     "Retiró sus juicios y echó fuera a su enemigo",
+     "La entregó a las naciones",
+     "La dejó sin rey"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "se regocijará por ti con {0}",
+    "blanks": [
+     "cánticos"
+    ],
+    "distractors": [
+     "lágrimas",
+     "temor",
+     "silencio"
+    ]
+   },
+   {
+    "id": "zeph-3-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "En Sofonías 3:20, ¿qué promete Jehová hacer de su pueblo entre todos los pueblos de la tierra?",
+    "options": [
+     "Una advertencia y un refrán",
+     "Objeto de renombre y de alabanza",
+     "Un gran ejército",
+     "Un remanente callado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Dios cantando sobre su pueblo",
+    "text": "El versículo 17 ofrece una de las imágenes más tiernas de las escrituras: Jehová 'se regocijará por ti con cánticos'. Un libro de juicio termina con Dios mismo regocijándose sobre el remanente restaurado."
+   }
+  ]
+ }
+}

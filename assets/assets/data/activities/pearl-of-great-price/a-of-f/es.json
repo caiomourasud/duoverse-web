@@ -1,0 +1,132 @@
+{
+ "schema_version": 1,
+ "book": "a-of-f",
+ "chapters": {
+  "1": [
+   {
+    "id": "a-of-f-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Respuesta a la pregunta de un periodista",
+    "text": "Los Artículos de Fe nacieron como parte de la 'Carta a Wentworth', de 1842, respuesta de José Smith al editor de periódico John Wentworth, quien preguntó por las creencias de la Iglesia. José cerró la carta con trece breves declaraciones de fe."
+   },
+   {
+    "id": "a-of-f-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "Nosotros creemos en Dios el Eterno Padre, y en su Hijo {0}, y en el Espíritu Santo.",
+    "blanks": [
+     "Jesucristo"
+    ],
+    "distractors": [
+     "Miguel",
+     "Adán",
+     "Elías"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "Según el segundo Artículo de Fe, ¿por qué serán castigados los hombres?",
+    "options": [
+     "Por sus propios pecados, y no por la transgresión de Adán",
+     "Por los pecados de sus padres",
+     "Por la transgresión de Adán",
+     "Por los pecados de todo el mundo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "¿Qué se enumera primero entre los primeros principios y ordenanzas del Evangelio (Artículo 4)?",
+    "options": [
+     "Bautismo por inmersión",
+     "Arrepentimiento",
+     "Fe en el Señor Jesucristo",
+     "Imposición de manos"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "a-of-f-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "El sexto Artículo de Fe afirma la creencia en la misma organización que existió ¿dónde?",
+    "options": [
+     "En la Iglesia Primitiva",
+     "En las cortes de Israel",
+     "En la ciudad de Enoc",
+     "En el templo de Salomón"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "también creemos que el {0} es la palabra de Dios.",
+    "blanks": [
+     "Libro de Mormón"
+    ],
+    "distractors": [
+     "Doctrina y Convenios",
+     "Carta a Wentworth",
+     "Perla de Gran Precio"
+    ]
+   },
+   {
+    "id": "a-of-f-1-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "La revelación aún no ha terminado",
+    "text": "El noveno Artículo de Fe declara la creencia no solo en todo lo que Dios 'ha revelado' y 'actualmente revela', sino que 'aún revelará muchos grandes e importantes asuntos' — afirmación de que la revelación permanece abierta."
+   },
+   {
+    "id": "a-of-f-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Según el décimo Artículo de Fe, ¿dónde será edificada Sion (la Nueva Jerusalén)?",
+    "options": [
+     "En la tierra de Egipto",
+     "Sobre el continente americano",
+     "Sobre el monte Sion, en Jerusalén",
+     "En las islas del mar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "a-of-f-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "Reclamamos el derecho de adorar a Dios Todopoderoso conforme a los dictados de nuestra propia {0}",
+    "blanks": [
+     "conciencia"
+    ],
+    "distractors": [
+     "voluntad",
+     "tradición",
+     "entendimiento"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "El decimotercer Artículo de Fe dice que su lista de virtudes sigue la admonición de ¿quién?",
+    "options": [
+     "Moisés",
+     "Isaías",
+     "Pedro",
+     "Pablo"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

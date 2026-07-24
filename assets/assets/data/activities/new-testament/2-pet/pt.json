@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "book": "2-pet",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-pet-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Participantes da natureza divina",
+        "body": "O versículo 4 ensina que, pelas grandíssimas e preciosas promessas, os fiéis podem se tornar \"participantes da natureza divina\" — uma das mais elevadas declarações do Novo Testamento sobre o destino divino do ser humano."
+      },
+      {
+        "id": "2-pet-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "para que por elas vos torneis participantes da {0} divina",
+        "blanks": [
+          "natureza"
+        ],
+        "distractors": [
+          "promessa",
+          "glória",
+          "virtude"
+        ]
+      },
+      {
+        "id": "2-pet-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "title": "A escada de virtudes",
+        "instructions": "Ligue cada qualidade àquela que Pedro manda acrescentar-lhe.",
+        "pairs": [
+          {
+            "left": "à fé",
+            "right": "a virtude"
+          },
+          {
+            "left": "à virtude",
+            "right": "o conhecimento"
+          },
+          {
+            "left": "ao conhecimento",
+            "right": "temperança"
+          },
+          {
+            "left": "à piedade",
+            "right": "amor fraternal"
+          }
+        ]
+      },
+      {
+        "id": "2-pet-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, ao amor fraternal devemos acrescentar:",
+        "options": [
+          "caridade",
+          "paciência",
+          "temperança",
+          "conhecimento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-1-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Pedro exorta os irmãos a fazer cada vez mais firmes:",
+        "options": [
+          "a vossa vocação e eleição",
+          "a vossa fé e obras",
+          "a graça e a paz",
+          "a vida e a piedade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "enquanto estiver neste {0}, despertar-vos com admoestações",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "mundo",
+          "reino",
+          "caminho"
+        ]
+      },
+      {
+        "id": "2-pet-1-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Testemunha no monte santo",
+        "body": "Nos versículos 16-18 Pedro afirma que não seguiu fábulas, mas viu com os próprios olhos a majestade de Cristo e ouviu a voz do céu no \"monte santo\" — referência ao Monte da Transfiguração, onde esteve com Tiago e João."
+      },
+      {
+        "id": "2-pet-1-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Como os homens santos de Deus falaram a profecia?",
+        "options": [
+          "inspirados pelo Espírito Santo",
+          "por vontade de homem",
+          "seguindo fábulas",
+          "por particular interpretação"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "2-pet-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Falsos mestres",
+        "body": "Pedro avisa que, assim como houve falsos profetas no passado, surgiriam falsos mestres entre os crentes, introduzindo heresias \"encobertamente\" — disfarçadas dentro da própria comunidade."
+      },
+      {
+        "id": "2-pet-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, o que move os falsos mestres a explorar os santos?",
+        "options": [
+          "A avareza",
+          "A ignorância",
+          "O medo",
+          "A inveja do templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "mas preservou {0}, o oitavo na arca, pregador da justiça",
+        "blanks": [
+          "Noé"
+        ],
+        "distractors": [
+          "Ló",
+          "Balaão",
+          "Beor"
+        ]
+      },
+      {
+        "id": "2-pet-2-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "title": "Exemplos do juízo de Deus",
+        "pairs": [
+          {
+            "left": "Anjos que pecaram",
+            "right": "Lançados no inferno"
+          },
+          {
+            "left": "Mundo antigo",
+            "right": "Destruído pelo dilúvio"
+          },
+          {
+            "left": "Noé",
+            "right": "Preservado na arca"
+          },
+          {
+            "left": "Sodoma e Gomorra",
+            "right": "Reduzidas a cinzas"
+          }
+        ]
+      },
+      {
+        "id": "2-pet-2-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "erraram seguindo o caminho de {0}, filho de Beor",
+        "blanks": [
+          "Balaão"
+        ],
+        "distractors": [
+          "Noé",
+          "Ló",
+          "Gomorra"
+        ]
+      },
+      {
+        "id": "2-pet-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "O que os falsos mestres prometem, sendo eles mesmos servos da corrupção?",
+        "options": [
+          "Liberdade",
+          "Riqueza",
+          "Sabedoria",
+          "Cura"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-2-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "O provérbio do cão",
+        "body": "Pedro encerra com um provérbio severo — \"O cão voltou ao seu próprio vômito\" — para mostrar que voltar ao pecado depois de conhecer a verdade deixa a pessoa em estado pior do que o primeiro."
+      }
+    ],
+    "3": [
+      {
+        "id": "2-pet-3-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "prompt": "Quem Pedro diz que virá nos últimos dias?",
+        "options": [
+          "Escarnecedores andando segundo as suas próprias concupiscências",
+          "Anjos do céu",
+          "Profetas santos",
+          "Reis das nações"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Pela qual pereceu o mundo de então, coberto com as {0} do dilúvio.",
+        "blanks": [
+          "águas"
+        ],
+        "distractors": [
+          "chamas",
+          "areias",
+          "trevas"
+        ]
+      },
+      {
+        "id": "2-pet-3-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "prompt": "Você sabia?",
+        "body": "Pedro ensina que o tempo de Deus não é como o nosso: um dia para o Senhor é como mil anos, e mil anos como um dia. Por isso a aparente demora da promessa não é esquecimento, mas paciência."
+      },
+      {
+        "id": "2-pet-3-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "mas é longânimo para conosco, não querendo que alguns se percam, senão que todos venham a {0}.",
+        "blanks": [
+          "arrepender-se"
+        ],
+        "distractors": [
+          "enriquecer-se",
+          "esconder-se",
+          "vangloriar-se"
+        ]
+      },
+      {
+        "id": "2-pet-3-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "prompt": "Como Pedro diz que o dia do Senhor virá?",
+        "options": [
+          "Como o ladrão de noite",
+          "Com trombetas de ouro",
+          "Ao meio-dia",
+          "Como a chuva mansa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-pet-3-mp-12",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "prompt": "Relacione cada juízo com o seu agente destruidor.",
+        "pairs": [
+          [
+            "O mundo de então",
+            "água do dilúvio"
+          ],
+          [
+            "Os céus e a terra atuais",
+            "fogo"
+          ],
+          [
+            "No dia de Deus os elementos",
+            "se derretem ardendo"
+          ]
+        ]
+      },
+      {
+        "id": "2-pet-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Porém, segundo a sua promessa, aguardamos novos céus e nova {0}, nos quais habita a justiça.",
+        "blanks": [
+          "terra"
+        ],
+        "distractors": [
+          "cidade",
+          "casa",
+          "luz"
+        ]
+      },
+      {
+        "id": "2-pet-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "prompt": "Com que exortação final Pedro encerra a carta?",
+        "options": [
+          "Crescer na graça e no conhecimento de Jesus Cristo",
+          "Reconstruir o templo",
+          "Guardar silêncio",
+          "Reunir os apóstolos"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

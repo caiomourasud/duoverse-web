@@ -1,0 +1,1872 @@
+{
+  "schema_version": 1,
+  "book": "1-cor",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-cor-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La carta a los Corintios",
+        "text": "Pablo fundó la iglesia de Corinto y le escribió esta carta para corregir divisiones y problemas que le habían sido relatados. La ciudad era un gran puerto griego, rico y cosmopolita, pero también conocido por su inmoralidad."
+      },
+      {
+        "id": "1-cor-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿A quién dirige Pablo esta carta?",
+        "options": [
+          "A la iglesia de Dios que está en Corinto",
+          "A la iglesia de Roma",
+          "A los gálatas",
+          "A la iglesia de Éfeso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Las facciones de Corinto",
+        "text": "La iglesia se dividía en grupos que se decían de Pablo, de Apolos, de Cefas (Pedro) o de Cristo. Pablo pregunta indignado: '¿Acaso está dividido Cristo?', mostrando que la unidad de los creyentes está en Cristo, no en líderes humanos."
+      },
+      {
+        "id": "1-cor-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Yo soy de Pablo; y yo de {0}; y yo de Cefas;",
+        "blanks": [
+          "Apolos"
+        ],
+        "distractors": [
+          "Pedro",
+          "Jacobo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Para qué envió Cristo a Pablo, según él mismo?",
+        "options": [
+          "Para predicar el evangelio, no para bautizar",
+          "Para construir un templo",
+          "Para juzgar a los gentiles",
+          "Para escribir la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "la palabra de la cruz es {0} a los que se pierden;",
+        "blanks": [
+          "locura"
+        ],
+        "distractors": [
+          "sabiduría",
+          "gloria",
+          "justicia"
+        ]
+      },
+      {
+        "id": "1-cor-1-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Cristo crucificado",
+        "text": "Pablo resume su mensaje: 'predicamos a Cristo crucificado'. Para los judíos, que pedían señales, esto era tropezadero; para los griegos, que buscaban sabiduría, era locura. Pero para los llamados, es el poder y la sabiduría de Dios."
+      },
+      {
+        "id": "1-cor-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "los griegos buscan {0},",
+        "blanks": [
+          "sabiduría"
+        ],
+        "distractors": [
+          "señales",
+          "riquezas",
+          "gloria"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué escogió Dios para avergonzar a los sabios y a los fuertes?",
+        "options": [
+          "Lo necio y lo débil de este mundo",
+          "Los reyes y los nobles",
+          "Los sabios y poderosos",
+          "Los templos y altares"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Corinto",
+            "right": "Próspero puerto griego donde Pablo fundó la iglesia"
+          },
+          {
+            "left": "Las facciones",
+            "right": "Grupos que se decían de Pablo, Apolos, Cefas o Cristo"
+          },
+          {
+            "left": "La palabra de la cruz",
+            "right": "Locura para los que se pierden, poder de Dios para los salvos"
+          },
+          {
+            "left": "Cristo crucificado",
+            "right": "Tropezadero para judíos, locura para griegos"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-cor-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cristo, y a este crucificado",
+        "text": "Ante una ciudad que admiraba la elocuencia, Pablo decidió no saber 'cosa alguna sino a Jesucristo, y a este crucificado'. Su fuerza no estaba en palabras persuasivas, sino en la demostración del Espíritu y de poder."
+      },
+      {
+        "id": "1-cor-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "sino a Jesucristo, y a este {0}.",
+        "blanks": [
+          "crucificado"
+        ],
+        "distractors": [
+          "resucitado",
+          "glorificado",
+          "exaltado"
+        ]
+      },
+      {
+        "id": "1-cor-2-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Por qué los príncipes de este mundo no conocieron la sabiduría de Dios?",
+        "options": [
+          "Si la hubieran conocido, no habrían crucificado al Señor de gloria",
+          "Porque era demasiado sencilla",
+          "Porque estaba escrita en la ley",
+          "Porque los profetas la escondieron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Lo que ojo no vio",
+        "text": "Para hablar de las cosas que Dios ha preparado para los que le aman, Pablo cita un pasaje inspirado en Isaías: 'Cosas que ojo no vio, ni oído oyó, ni han subido al corazón del hombre.' Tales cosas solo se conocen por el Espíritu."
+      },
+      {
+        "id": "1-cor-2-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué el hombre natural no percibe las cosas del Espíritu de Dios?",
+        "options": [
+          "Porque se disciernen espiritualmente",
+          "Porque son contradictorias",
+          "Porque están ocultas en la ley",
+          "Porque exigen riqueza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Mas nosotros tenemos la {0} de Cristo.",
+        "blanks": [
+          "mente"
+        ],
+        "distractors": [
+          "fe",
+          "gracia",
+          "gloria"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "1-cor-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué señal de inmadurez señala Pablo en los corintios?",
+        "options": [
+          "Celos, contiendas y divisiones, diciendo 'yo soy de Pablo'",
+          "Exceso de ayuno",
+          "Negar la resurrección",
+          "Guardar la circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Yo planté, Apolos regó",
+        "text": "Pablo usa la labranza para explicar el papel de los líderes: él plantó, Apolos regó, pero fue Dios quien dio el crecimiento. Ni el que planta ni el que riega son algo, sino solo Dios, que hace crecer."
+      },
+      {
+        "id": "1-cor-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Apolos regó, pero Dios ha dado el {0}.",
+        "blanks": [
+          "crecimiento"
+        ],
+        "distractors": [
+          "fruto",
+          "galardón",
+          "fundamento"
+        ]
+      },
+      {
+        "id": "1-cor-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "nadie puede poner otro {0} que el que está puesto,",
+        "blanks": [
+          "fundamento"
+        ],
+        "distractors": [
+          "templo",
+          "altar",
+          "muro"
+        ]
+      },
+      {
+        "id": "1-cor-3-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "La obra probada por el fuego",
+        "text": "Pablo dice que la obra de cada uno será revelada por el fuego en el día del juicio: lo que sea oro, plata y piedras preciosas permanecerá; lo que sea madera, heno y hojarasca se quemará. La persona puede ser salva, pero como a través del fuego."
+      },
+      {
+        "id": "1-cor-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "¿No sabéis que sois {0} de Dios,",
+        "blanks": [
+          "templo"
+        ],
+        "distractors": [
+          "pueblo",
+          "siervos",
+          "rebaño"
+        ]
+      },
+      {
+        "id": "1-cor-3-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué dice Pablo sobre la sabiduría de este mundo?",
+        "options": [
+          "Es insensatez para con Dios",
+          "Es el camino a Dios",
+          "Viene del Espíritu",
+          "Salva a los creyentes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Pablo y Apolos",
+            "right": "Siervos: uno plantó, otro regó"
+          },
+          {
+            "left": "Dios",
+            "right": "El que da el crecimiento"
+          },
+          {
+            "left": "El fundamento",
+            "right": "Jesucristo, el único posible"
+          },
+          {
+            "left": "Los creyentes",
+            "right": "El templo de Dios, en el que mora el Espíritu"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "1-cor-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Mayordomos de los misterios",
+        "text": "Pablo pide que los líderes sean vistos como ministros de Cristo y mayordomos de los misterios de Dios. De un mayordomo se requiere sobre todo una cosa: que sea fiel."
+      },
+      {
+        "id": "1-cor-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "se requiere de los mayordomos que cada uno sea hallado {0}.",
+        "blanks": [
+          "fiel"
+        ],
+        "distractors": [
+          "sabio",
+          "fuerte",
+          "justo"
+        ]
+      },
+      {
+        "id": "1-cor-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "¿O qué tienes que no hayas {0}?",
+        "blanks": [
+          "recibido"
+        ],
+        "distractors": [
+          "ganado",
+          "merecido",
+          "pedido"
+        ]
+      },
+      {
+        "id": "1-cor-4-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "Insensatos por Cristo",
+        "text": "Con ironía, Pablo contrasta a los corintios, que se creían sabios, ricos y honrados, con los apóstoles, 'insensatos por amor de Cristo', débiles y despreciados. Padecían hambre, sed y persecución, y eran tratados como la escoria del mundo."
+      },
+      {
+        "id": "1-cor-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Cómo describe Pablo la vida de los apóstoles?",
+        "options": [
+          "Padecen hambre, sed y persecución, y son como la escoria del mundo",
+          "Viven en riqueza y honra",
+          "Reinan como reyes",
+          "Son temidos por todos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Cómo se describe Pablo en relación con los corintios?",
+        "options": [
+          "Como padre que los engendró en Cristo por el evangelio",
+          "Como juez severo",
+          "Como rey de los santos",
+          "Como uno entre muchos ayos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "el reino de Dios no consiste en palabras, sino en {0}.",
+        "blanks": [
+          "poder"
+        ],
+        "distractors": [
+          "sabiduría",
+          "ley",
+          "gloria"
+        ]
+      },
+      {
+        "id": "1-cor-4-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Mayordomos",
+            "right": "Líderes de quienes se requiere fidelidad"
+          },
+          {
+            "left": "Lo que tienes",
+            "right": "Todo fue recibido, nada es mérito propio"
+          },
+          {
+            "left": "Los apóstoles",
+            "right": "Insensatos por Cristo, espectáculo al mundo"
+          },
+          {
+            "left": "El reino de Dios",
+            "right": "No está en palabras, sino en poder"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-cor-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué medida determina Pablo respecto al que cometió grave pecado en la iglesia?",
+        "options": [
+          "Entregarlo a Satanás, para que el espíritu sea salvo en el día del Señor",
+          "Ignorar el caso",
+          "Premiarlo",
+          "Enviarlo a Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Cristo, nuestra Pascua",
+        "text": "La imagen de la levadura viene de la Pascua judía, en la que cada casa quitaba la vieja levadura antes de la fiesta. Pablo lo aplica a la iglesia: 'Cristo, nuestra Pascua, fue sacrificado por nosotros', y por eso deben vivir con sinceridad y verdad."
+      },
+      {
+        "id": "1-cor-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "un poco de {0} leuda toda la masa?",
+        "blanks": [
+          "levadura"
+        ],
+        "distractors": [
+          "sal",
+          "miel",
+          "aceite"
+        ]
+      },
+      {
+        "id": "1-cor-5-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué manda Pablo hacer con quien persiste en grave pecado en la iglesia?",
+        "options": [
+          "Quitarlo de entre ellos",
+          "Honrarlo",
+          "Ignorarlo",
+          "Llevarlo al templo"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "1-cor-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Los santos juzgarán al mundo",
+        "text": "Para reprender a los hermanos que se llevaban a juicio ante jueces paganos, Pablo recuerda que los santos han de juzgar al mundo, y aun a los ángeles. Si juzgarán cosas tan grandes, ¿cómo no podrían resolver pequeñas cuestiones entre sí?"
+      },
+      {
+        "id": "1-cor-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué privilegio recuerda Pablo a los santos para reprender los pleitos entre ellos?",
+        "options": [
+          "Que los santos han de juzgar al mundo",
+          "Que recibirán riquezas",
+          "Que gobernarán Roma",
+          "Que serán sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué falta señala Pablo en que los hermanos se lleven a juicio?",
+        "options": [
+          "Ya es una falta; mejor sería sufrir el agravio",
+          "Deben buscar jueces paganos",
+          "Deben cobrar el doble",
+          "No hay ningún problema"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "mas ya habéis sido {0}, mas ya habéis sido santificados,",
+        "blanks": [
+          "lavados"
+        ],
+        "distractors": [
+          "llamados",
+          "escogidos",
+          "perdonados"
+        ]
+      },
+      {
+        "id": "1-cor-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Para quién es el cuerpo, según Pablo?",
+        "options": [
+          "Para el Señor, y el Señor para el cuerpo",
+          "Para los alimentos",
+          "Para el mundo",
+          "Para la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Comprados por precio",
+        "text": "Pablo enseña que el cuerpo del creyente es templo del Espíritu Santo, y que no se pertenecen a sí mismos: fueron 'comprados por precio'. Por eso deben glorificar a Dios tanto en el cuerpo como en el espíritu."
+      },
+      {
+        "id": "1-cor-6-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "vuestro cuerpo es {0} del Espíritu Santo,",
+        "blanks": [
+          "templo"
+        ],
+        "distractors": [
+          "altar",
+          "trono",
+          "siervo"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "1-cor-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Respuestas a las preguntas de los corintios",
+        "text": "A partir de aquí, Pablo responde a preguntas que los propios corintios le habían escrito, comenzando por el matrimonio. Sus orientaciones reflejan la convicción de que 'el tiempo es corto' y el fin, cercano."
+      },
+      {
+        "id": "1-cor-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Por qué dice Pablo que cada uno tenga su propio cónyuge?",
+        "options": [
+          "Para evitar la inmoralidad",
+          "Para hacer crecer la iglesia",
+          "Para heredar bienes",
+          "Por mandamiento de la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué aconseja Pablo a los que no pueden contenerse?",
+        "options": [
+          "Que se casen, pues mejor es casarse que quemarse",
+          "Que vivan solos",
+          "Que ayunen siempre",
+          "Que salgan de la iglesia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Qué mandamiento atribuye Pablo al Señor sobre el matrimonio?",
+        "options": [
+          "Que la esposa no se separe del marido",
+          "Que nadie se case",
+          "Que todos se separen",
+          "Que se casen solo con judíos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Y así lo prescribo en todas las {0}.",
+        "blanks": [
+          "iglesias"
+        ],
+        "distractors": [
+          "ciudades",
+          "casas",
+          "naciones"
+        ]
+      },
+      {
+        "id": "1-cor-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "La circuncisión nada es",
+        "text": "Pablo repite un tema querido para él: ante Dios, estar circuncidado o no nada importa; lo que vale es la observancia de los mandamientos de Dios. Cada uno debe permanecer en la condición en que fue llamado."
+      },
+      {
+        "id": "1-cor-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "sino la observancia de los {0} de Dios.",
+        "blanks": [
+          "mandamientos"
+        ],
+        "distractors": [
+          "convenios",
+          "estatutos",
+          "preceptos"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Cómo describe Pablo al siervo que es llamado por el Señor?",
+        "options": [
+          "Es liberto del Señor; y el libre es siervo de Cristo",
+          "Debe huir de su señor",
+          "No puede servir a Dios",
+          "Debe comprar su libertad primero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "El tiempo es corto",
+        "text": "Pablo orienta a los creyentes a vivir como quien tiene los ojos en el fin: que los casados sean como si no lo fueran, y los que usan el mundo, como si no abusaran de él, porque 'la forma de este mundo pasa'."
+      },
+      {
+        "id": "1-cor-7-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "porque la forma actual de este {0} pasará.",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "siglo",
+          "tiempo",
+          "reino"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿De qué se preocupa el soltero, según Pablo?",
+        "options": [
+          "Con las cosas del Señor, de cómo agradar al Señor",
+          "Con riquezas",
+          "Con la fama",
+          "Con la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "¿Por cuánto tiempo está ligada la mujer casada al marido, según Pablo?",
+        "options": [
+          "Mientras el marido viva",
+          "Por siete años",
+          "Para siempre, aun tras la muerte",
+          "Hasta la circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "El matrimonio",
+            "right": "Cada uno tenga cónyuge, para evitar la inmoralidad"
+          },
+          {
+            "left": "El don de Dios",
+            "right": "Casarse o quedarse soltero: cada uno tiene el suyo"
+          },
+          {
+            "left": "La circuncisión",
+            "right": "Nada es; vale guardar los mandamientos"
+          },
+          {
+            "left": "El tiempo es corto",
+            "right": "Vivir con los ojos en el fin, pues el mundo pasa"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "1-cor-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Lo sacrificado a los ídolos",
+        "text": "En Corinto, gran parte de la carne del mercado provenía de sacrificios hechos en templos paganos. Los cristianos discutían si podían comerla. Pablo abre el tema con un principio: 'el conocimiento envanece, pero la caridad edifica'."
+      },
+      {
+        "id": "1-cor-8-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "El conocimiento envanece, pero la {0} edifica.",
+        "blanks": [
+          "caridad"
+        ],
+        "distractors": [
+          "ciencia",
+          "temor",
+          "celo"
+        ]
+      },
+      {
+        "id": "1-cor-8-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Cuántos dioses y señores afirma Pablo que hay para los cristianos?",
+        "options": [
+          "Un solo Dios, el Padre, y un solo Señor, Jesucristo",
+          "Muchos dioses y señores",
+          "Dos dioses iguales",
+          "Ningún dios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Por qué limita Pablo el uso de la libertad de comer lo sacrificado a los ídolos?",
+        "options": [
+          "Para no hacer perecer al hermano débil, por quien Cristo murió",
+          "Porque el ídolo es real",
+          "Porque la ley lo prohíbe",
+          "Porque el alimento es inmundo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "jamás comeré {0} para no hacer tropezar a mi hermano.",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "pan",
+          "fruta",
+          "pescado"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "1-cor-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El derecho del apóstol",
+        "text": "Pablo defiende su apostolado y sus derechos, entre ellos el de ser sostenido por la iglesia, como los demás apóstoles. Aun teniendo ese derecho, prefirió predicar gratuitamente, para no poner obstáculo alguno al evangelio."
+      },
+      {
+        "id": "1-cor-9-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué pregunta Pablo para defender su apostolado?",
+        "options": [
+          "¿No soy apóstol? ¿No he visto a Jesús el Señor nuestro?",
+          "¿No soy rey?",
+          "¿No fui circuncidado?",
+          "¿No soy fariseo?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "No pondrás bozal al {0} que trilla.",
+        "blanks": [
+          "buey"
+        ],
+        "distractors": [
+          "caballo",
+          "asno",
+          "cordero"
+        ]
+      },
+      {
+        "id": "1-cor-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "que vivan del {0}.",
+        "blanks": [
+          "evangelio"
+        ],
+        "distractors": [
+          "templo",
+          "altar",
+          "sacrificio"
+        ]
+      },
+      {
+        "id": "1-cor-9-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué siente Pablo sobre la predicación del evangelio?",
+        "options": [
+          "Es una obligación impuesta: '¡ay de mí si no anunciara el evangelio!'",
+          "Lo hace por placer y fama",
+          "Espera riqueza por ello",
+          "Predica solo a los judíos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Todo para todos",
+        "text": "Para ganar al mayor número, Pablo se adaptaba a cada grupo: como judío a los judíos, como débil a los débiles. 'A todos me he hecho de todo, para que de todos modos salve a algunos.'"
+      },
+      {
+        "id": "1-cor-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué estrategia describe Pablo en su ministerio?",
+        "options": [
+          "Se hizo todo para todos, para de todos modos salvar a algunos",
+          "Predicó solo a los fuertes",
+          "Exigió sostén de todos",
+          "Evitó a los débiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "La carrera en el estadio",
+        "text": "Pablo compara la vida cristiana con una carrera: todos corren, pero solo uno se lleva el premio. El atleta se disciplina por una corona corruptible; el cristiano, por una incorruptible. Corinto albergaba los famosos Juegos Ístmicos."
+      },
+      {
+        "id": "1-cor-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "para recibir una {0} corruptible,",
+        "blanks": [
+          "corona"
+        ],
+        "distractors": [
+          "victoria",
+          "gloria",
+          "recompensa"
+        ]
+      },
+      {
+        "id": "1-cor-9-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Pablo",
+            "right": "Apóstol que renunció a sus derechos por el evangelio"
+          },
+          {
+            "left": "El buey que trilla",
+            "right": "Imagen de la ley de que el obrero merece sostén"
+          },
+          {
+            "left": "Todo para todos",
+            "right": "Adaptarse a cada uno para salvar a algunos"
+          },
+          {
+            "left": "La carrera",
+            "right": "Imagen de la disciplina por una corona incorruptible"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "1-cor-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "La roca era Cristo",
+        "text": "Pablo relee el éxodo: la nube y el mar eran como un bautismo, y el agua que brotó de la roca era bebida espiritual. Declara que 'la roca era Cristo', presente ya con Israel en el desierto."
+      },
+      {
+        "id": "1-cor-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "y la {0} era Cristo.",
+        "blanks": [
+          "roca"
+        ],
+        "distractors": [
+          "nube",
+          "agua",
+          "luz"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Por qué fueron escritas estas historias de Israel, según Pablo?",
+        "options": [
+          "Como ejemplos y advertencia para nosotros",
+          "Para condenar a los gentiles",
+          "Para enseñar la ley",
+          "Como genealogía"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "pero {0} es Dios, que no os dejará ser tentados más de lo que podáis resistir,",
+        "blanks": [
+          "fiel"
+        ],
+        "distractors": [
+          "justo",
+          "santo",
+          "fuerte"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué representan la copa de bendición y el pan que partimos, según Pablo?",
+        "options": [
+          "La comunión de la sangre y el cuerpo de Cristo",
+          "Un sacrificio a ídolos",
+          "Solo una comida",
+          "La fiesta de la Pascua judía"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué dice Pablo que es imposible hacer al mismo tiempo?",
+        "options": [
+          "Beber la copa del Señor y la copa de los demonios",
+          "Orar y ayunar",
+          "Predicar y bautizar",
+          "Comer y beber"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué principio da Pablo sobre las cosas lícitas?",
+        "options": [
+          "Todo es lícito, pero no todo conviene ni edifica",
+          "Todo está prohibido",
+          "Nada le importa a Dios",
+          "Solo lo lícito edifica"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Todo para la gloria de Dios",
+        "text": "Pablo resume la cuestión de la libertad en un principio amplio: 'si coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios', sin ser tropiezo para nadie."
+      },
+      {
+        "id": "1-cor-10-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "haced lo todo para la {0} de Dios.",
+        "blanks": [
+          "gloria"
+        ],
+        "distractors": [
+          "honra",
+          "obra",
+          "ley"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "1-cor-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "La costumbre del velo",
+        "text": "Pablo trata una costumbre de la cultura de Corinto sobre cubrir o no la cabeza al orar y profetizar. Más importante que la costumbre es el principio que afirma: en el Señor, el hombre y la mujer dependen uno del otro, y todo procede de Dios."
+      },
+      {
+        "id": "1-cor-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿A quién pide Pablo que los creyentes imiten?",
+        "options": [
+          "A él mismo, así como él imita a Cristo",
+          "A los profetas",
+          "A los ángeles",
+          "A los sabios griegos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué afirma Pablo sobre el hombre y la mujer 'en el Señor'?",
+        "options": [
+          "Ni el hombre es sin la mujer, ni la mujer sin el hombre",
+          "El hombre no necesita a la mujer",
+          "La mujer es superior",
+          "Ambos vienen de la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué dice Pablo sobre el cabello largo de la mujer?",
+        "options": [
+          "Le es honroso, pues el cabello le es dado en lugar de velo",
+          "Es deshonra",
+          "Debe ser rapado",
+          "No importa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué critica Pablo en las reuniones de los corintios?",
+        "options": [
+          "Cada uno come su propia cena, con divisiones; no es la cena del Señor",
+          "Cantan demasiado fuerte",
+          "Predican en lenguas",
+          "Ayunan demasiado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "La cena del Señor",
+        "text": "Los versículos 23 al 26 traen el relato más antiguo de la institución de la cena del Señor — escrito antes de los evangelios. Pablo dice haberlo recibido del propio Señor: el pan es el cuerpo, y la copa, el nuevo convenio en la sangre de Cristo."
+      },
+      {
+        "id": "1-cor-11-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "esto es mi {0} que por vosotros es partido;",
+        "blanks": [
+          "cuerpo"
+        ],
+        "distractors": [
+          "sangre",
+          "pan",
+          "copa"
+        ]
+      },
+      {
+        "id": "1-cor-11-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué manda Pablo que cada uno haga antes de comer del pan y beber de la copa?",
+        "options": [
+          "Que se examine a sí mismo",
+          "Que ayune tres días",
+          "Que confiese al sacerdote",
+          "Que pague una ofrenda"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué manda Pablo cuando los creyentes se reúnen para comer?",
+        "options": [
+          "Esperarse unos a otros",
+          "Comer en silencio",
+          "Traer ofrendas",
+          "Sentarse por orden de edad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "El velo",
+            "right": "Costumbre cultural sobre cubrir la cabeza al orar"
+          },
+          {
+            "left": "La cena del Señor",
+            "right": "Instituida por Jesús: el pan y la copa en memoria de él"
+          },
+          {
+            "left": "Examinarse",
+            "right": "Lo que cada uno debe hacer antes de participar"
+          },
+          {
+            "left": "Esperarse unos a otros",
+            "right": "Cómo deben actuar al reunirse a comer"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "1-cor-12-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Diversidad de dones",
+        "text": "Pablo enseña que hay muchos dones — sabiduría, conocimiento, fe, sanidad, milagros, profecía, lenguas — pero un solo Espíritu que los reparte a cada uno como quiere. La variedad sirve al bien común, no a la vanidad individual."
+      },
+      {
+        "id": "1-cor-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "nadie puede afirmar que Jesús es el {0}, sino por el Espíritu Santo.",
+        "blanks": [
+          "Señor"
+        ],
+        "distractors": [
+          "Maestro",
+          "Rey",
+          "Profeta"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Quién reparte los diversos dones espirituales, según Pablo?",
+        "options": [
+          "Uno y el mismo Espíritu, como él quiere",
+          "Cada uno a sí mismo",
+          "Los apóstoles",
+          "Los más sabios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Un cuerpo, muchos miembros",
+        "text": "Pablo compara la iglesia con un cuerpo: muchos miembros, pero un solo cuerpo. El pie no es menos del cuerpo por no ser mano, y el ojo no puede prescindir de la mano. Cada parte es necesaria, y los miembros más débiles reciben mayor honra."
+      },
+      {
+        "id": "1-cor-12-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "así como el {0} es uno, y tiene muchos miembros,",
+        "blanks": [
+          "cuerpo"
+        ],
+        "distractors": [
+          "templo",
+          "reino",
+          "pueblo"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué no puede decir el ojo a la mano, según Pablo?",
+        "options": [
+          "No te necesito",
+          "Soy mayor que tú",
+          "Ven conmigo",
+          "Soy del cuerpo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué sucede cuando un miembro del cuerpo padece, según Pablo?",
+        "options": [
+          "Todos los miembros padecen con él",
+          "Los demás no sienten",
+          "El cuerpo es destruido",
+          "Solo la cabeza sufre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué oficios puso Dios primero en la iglesia, según Pablo?",
+        "options": [
+          "Primero apóstoles, luego profetas, luego maestros",
+          "Primero reyes y sacerdotes",
+          "Primero jueces",
+          "Primero ancianos y diáconos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Un camino más excelente",
+        "text": "Después de tratar los dones, Pablo señala algo mayor: 'os muestro un camino aún más excelente'. Ese camino es el amor, tema del capítulo 13, sin el cual ningún don tiene valor."
+      },
+      {
+        "id": "1-cor-12-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Los dones",
+            "right": "Diversos, repartidos por un solo Espíritu"
+          },
+          {
+            "left": "El cuerpo",
+            "right": "Imagen de la iglesia: muchos miembros, un solo cuerpo"
+          },
+          {
+            "left": "Los miembros débiles",
+            "right": "Reciben mayor honra"
+          },
+          {
+            "left": "El camino más excelente",
+            "right": "El amor, del capítulo siguiente"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "1-cor-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El himno al amor",
+        "text": "Este es uno de los textos más conocidos de la Biblia. Pablo muestra que sin amor — caridad, del griego ágape — nada vale: ni lenguas, ni profecía, ni darlo todo a los pobres. El amor es el camino más excelente que había prometido mostrar."
+      },
+      {
+        "id": "1-cor-13-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "y no tengo {0}, vengo a ser como metal que resuena",
+        "blanks": [
+          "caridad"
+        ],
+        "distractors": [
+          "fe",
+          "sabiduría",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "1-cor-13-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Cómo describe Pablo la caridad?",
+        "options": [
+          "Sufrida, benigna, no envidiosa; todo lo sufre y todo lo soporta",
+          "Orgullosa y fuerte",
+          "Rara y secreta",
+          "Severa y justa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Por espejo, oscuramente",
+        "text": "Pablo dice que ahora vemos 'por espejo, oscuramente', pero entonces veremos cara a cara. Los espejos antiguos, de metal pulido, daban imágenes imperfectas — figura de nuestro conocimiento parcial en esta vida, que un día será completo."
+      },
+      {
+        "id": "1-cor-13-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Cuáles tres permanecen, según Pablo, siendo la mayor la caridad?",
+        "options": [
+          "La fe, la esperanza y la caridad",
+          "Fe, obras y ley",
+          "Profecía, lenguas y conocimiento",
+          "Gracia, paz y amor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "pero la mayor de ellas es la {0}.",
+        "blanks": [
+          "caridad"
+        ],
+        "distractors": [
+          "fe",
+          "esperanza",
+          "gracia"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "1-cor-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Lenguas y profecía",
+        "text": "En Corinto, el don de hablar en lenguas era muy valorado. Pablo enseña que profetizar es más útil, porque edifica a toda la iglesia, mientras que quien habla en lengua extraña se edifica solo a sí mismo, a no ser que haya interpretación."
+      },
+      {
+        "id": "1-cor-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Cuál es la diferencia entre quien habla en lenguas y quien profetiza, según Pablo?",
+        "options": [
+          "Quien habla en lenguas se edifica a sí mismo; quien profetiza edifica a la iglesia",
+          "Ambos se edifican solo a sí mismos",
+          "Profetizar es menor",
+          "Hablar en lenguas está prohibido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "si la {0} da sonido incierto, ¿quién se preparará para la batalla?",
+        "blanks": [
+          "trompeta"
+        ],
+        "distractors": [
+          "flauta",
+          "cítara",
+          "arpa"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué aconseja Pablo a quien habla en lengua extraña?",
+        "options": [
+          "Que ore para poder interpretar",
+          "Que hable más alto",
+          "Que calle para siempre",
+          "Que enseñe la lengua a otros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "pero oraré también con el {0};",
+        "blanks": [
+          "entendimiento"
+        ],
+        "distractors": [
+          "corazón",
+          "cuerpo",
+          "temor"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué prefiere Pablo en la iglesia, en vez de diez mil palabras en lengua extraña?",
+        "options": [
+          "Cinco palabras con su entendimiento, para enseñar a otros",
+          "Mil cánticos",
+          "Silencio total",
+          "Profecías secretas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Todo para edificación",
+        "text": "Pablo regula el culto: que todo — salmo, doctrina, lengua, revelación, interpretación — se haga para edificación. Las lenguas deben interpretarse, y los profetas hablar por turno, pues Dios es Dios de paz, no de confusión."
+      },
+      {
+        "id": "1-cor-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué principio debe regir todo lo que se hace cuando la iglesia se reúne?",
+        "options": [
+          "Que todo se haga para edificación",
+          "Que todos hablen a la vez",
+          "Que solo se hable en lenguas",
+          "Que nadie hable"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Cómo regula Pablo el hablar en lenguas en la reunión?",
+        "options": [
+          "Por dos o tres, por turno, y que uno interprete",
+          "Todos a la vez",
+          "Solo los apóstoles",
+          "Sin interpretación"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Dios no es Dios de confusión, sino de {0},",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "ira",
+          "juicio",
+          "temor"
+        ]
+      },
+      {
+        "id": "1-cor-14-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "Pero hágase todo decentemente y con {0}.",
+        "blanks": [
+          "orden"
+        ],
+        "distractors": [
+          "alegría",
+          "poder",
+          "fe"
+        ]
+      },
+      {
+        "id": "1-cor-14-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Profetizar",
+            "right": "Edifica a toda la iglesia"
+          },
+          {
+            "left": "Hablar en lenguas",
+            "right": "Se edifica a sí mismo, a no ser que se interprete"
+          },
+          {
+            "left": "La trompeta de sonido incierto",
+            "right": "Imagen de palabras ininteligibles"
+          },
+          {
+            "left": "Dios",
+            "right": "Es Dios de paz, no de confusión"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "1-cor-15-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "La confesión de fe más antigua",
+        "text": "Los versículos 3 al 5 traen una fórmula que Pablo dice haber recibido y transmitido: Cristo murió por nuestros pecados, fue sepultado y resucitó al tercer día, conforme a las Escrituras. Es una de las más antiguas confesiones de fe cristianas."
+      },
+      {
+        "id": "1-cor-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "y que {0} al tercer día, conforme a las Escrituras;",
+        "blanks": [
+          "resucitó"
+        ],
+        "distractors": [
+          "subió",
+          "apareció",
+          "descendió"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Cómo se describe Pablo entre los apóstoles?",
+        "options": [
+          "El más insignificante de los apóstoles, indigno por perseguir a la iglesia",
+          "El mayor de los apóstoles",
+          "Igual a Cefas",
+          "Apóstol solo de los judíos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Negaban la resurrección",
+        "text": "Algunos corintios, influidos por la filosofía griega, que despreciaba el cuerpo, negaban la resurrección de los muertos. Pablo responde que, sin ella, toda la fe sería vana, pues tampoco Cristo habría resucitado."
+      },
+      {
+        "id": "1-cor-15-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "{0} es entonces nuestra predicación, y vana es también vuestra fe.",
+        "blanks": [
+          "vana"
+        ],
+        "distractors": [
+          "santa",
+          "verdadera",
+          "firme"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "así como en {0} todos mueren, así también en Cristo todos serán vivificados.",
+        "blanks": [
+          "Adán"
+        ],
+        "distractors": [
+          "Moisés",
+          "Abraham",
+          "David"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Y el postrer enemigo que será destruido es la {0}.",
+        "blanks": [
+          "muerte"
+        ],
+        "distractors": [
+          "ley",
+          "carne",
+          "mentira"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué dicho cita Pablo para advertir sobre las malas compañías?",
+        "options": [
+          "Las malas conversaciones corrompen las buenas costumbres",
+          "El amor cubre los pecados",
+          "La fe sin obras es muerta",
+          "El que siembra cosecha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Con qué imagen explica Pablo la resurrección del cuerpo?",
+        "options": [
+          "La semilla que solo se vivifica si primero muere",
+          "El barro del alfarero",
+          "El olivo injertado",
+          "La casa sobre la roca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-41",
+        "type": "curiosity",
+        "after_verse": 41,
+        "title": "Glorias diferentes",
+        "text": "Para hablar de los cuerpos resucitados, Pablo señala al cielo: el sol, la luna y las estrellas tienen glorias diferentes, y una estrella difiere de otra en gloria. Así también será la resurrección de los muertos, en cuerpos transformados."
+      },
+      {
+        "id": "1-cor-15-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "resucitará cuerpo {0}.",
+        "blanks": [
+          "espiritual"
+        ],
+        "distractors": [
+          "celestial",
+          "glorioso",
+          "inmortal"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "¿Cómo contrasta Pablo al primer y al último Adán?",
+        "options": [
+          "El primer Adán fue hecho alma viviente; el último, espíritu vivificante",
+          "Ambos eran terrenales",
+          "El primero vino del cielo",
+          "El último fue hecho alma viviente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "al sonar la {0} final;",
+        "blanks": [
+          "trompeta"
+        ],
+        "distractors": [
+          "voz",
+          "palabra",
+          "oración"
+        ]
+      },
+      {
+        "id": "1-cor-15-cur-55",
+        "type": "curiosity",
+        "after_verse": 55,
+        "title": "La victoria sobre la muerte",
+        "text": "Pablo proclama el triunfo de la resurrección con palabras inspiradas en Oseas: '¿Dónde está, oh muerte, tu aguijón?' El aguijón de la muerte es el pecado, pero Dios da la victoria por Jesucristo."
+      },
+      {
+        "id": "1-cor-15-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "¿Dónde está, oh muerte, tu {0}?",
+        "blanks": [
+          "aguijón"
+        ],
+        "distractors": [
+          "poder",
+          "reino",
+          "trono"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "¿Cómo concluye Pablo el capítulo sobre la resurrección?",
+        "options": [
+          "Estad firmes, creciendo en la obra del Señor, pues el trabajo no es en vano",
+          "Comamos y bebamos",
+          "Temed la muerte",
+          "Guardad la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mp-58",
+        "type": "match_pairs",
+        "after_verse": 58,
+        "pairs": [
+          {
+            "left": "Cristo",
+            "right": "Resucitó y es las primicias de los que duermen"
+          },
+          {
+            "left": "Adán",
+            "right": "Por él vino la muerte a todos los hombres"
+          },
+          {
+            "left": "El postrer enemigo",
+            "right": "La muerte, que será destruida"
+          },
+          {
+            "left": "El cuerpo resucitado",
+            "right": "Sembrado natural, resucitado espiritual"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "1-cor-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La ofrenda para los santos",
+        "text": "Pablo organiza una ofrenda para la iglesia pobre de Jerusalén, pidiendo que cada uno, el primer día de la semana, aparte algo según prospere. Este proyecto unía a cristianos judíos y gentiles en una sola hermandad."
+      },
+      {
+        "id": "1-cor-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué instrucción da Pablo sobre la ofrenda para los santos?",
+        "options": [
+          "El primer día de la semana, cada uno aparte según prospere",
+          "Que vendan todos sus bienes",
+          "Que esperen a que él llegue",
+          "Que solo los ricos contribuyan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Dónde dice Pablo que se quedará hasta Pentecostés?",
+        "options": [
+          "En Éfeso",
+          "En Corinto",
+          "En Jerusalén",
+          "En Macedonia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Estad firmes en la fe",
+        "text": "Cerca del fin de la carta, Pablo lo resume todo en una vigorosa exhortación: 'Velad, estad firmes en la fe, portaos varonilmente, y sed fuertes.' Y añade el principio que gobierna toda la carta: 'Todas vuestras cosas sean hechas con caridad.'"
+      },
+      {
+        "id": "1-cor-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Velad, estad firmes en la {0}; portaos varonilmente,",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "gracia",
+          "ley",
+          "verdad"
+        ]
+      },
+      {
+        "id": "1-cor-16-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Cómo describe Pablo a la casa de Estéfanas?",
+        "options": [
+          "Las primicias de Acaya, dedicada al ministerio de los santos",
+          "Profetas de Corinto",
+          "Los fundadores de la iglesia de Roma",
+          "Ancianos de Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Maranata",
+        "text": "Pablo cierra con una palabra aramea, 'Maranata', que significa '¡Ven, Señor nuestro!' (o 'El Señor viene'). Es un eco de la oración de las primeras comunidades cristianas, que esperaban ansiosas la vuelta de Cristo."
+      },
+      {
+        "id": "1-cor-16-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Cómo cierra Pablo la carta?",
+        "options": [
+          "Con un saludo de su propia mano y su bendición de gracia y amor",
+          "Con una maldición a los gentiles",
+          "Con una lista de leyes",
+          "Con una petición de dinero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "La ofrenda",
+            "right": "Donativo para la iglesia pobre de Jerusalén"
+          },
+          {
+            "left": "Éfeso",
+            "right": "Donde Pablo se quedaría hasta Pentecostés"
+          },
+          {
+            "left": "Estéfanas",
+            "right": "Casa que fue las primicias de Acaya"
+          },
+          {
+            "left": "Maranata",
+            "right": "¡Ven, Señor nuestro!"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "book": "philem",
+  "chapters": {
+    "1": [
+      {
+        "id": "philem-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Una iglesia en casa",
+        "text": "En los primeros tiempos los cristianos no tenían edificios propios y se reunían en casas particulares. Pablo saluda 'a la iglesia que está en tu casa', reflejando esa práctica."
+      },
+      {
+        "id": "philem-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Pablo, {0} de Jesucristo, y el hermano Timoteo",
+        "blanks": [
+          "prisionero"
+        ],
+        "distractors": [
+          "colaborador",
+          "compañero",
+          "hermano"
+        ]
+      },
+      {
+        "id": "philem-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Por qué tuvo Pablo gran gozo y consolación?",
+        "options": [
+          "Por haber sido liberado de la prisión",
+          "Por el amor de Filemón, con que fue reconfortado el corazón de los santos",
+          "Por haber convertido a toda Colosas",
+          "Por recibir dinero de la iglesia"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Te ruego por mi hijo {0}, a quien he engendrado en mis prisiones,",
+        "blanks": [
+          "Onésimo"
+        ],
+        "distractors": [
+          "Timoteo",
+          "Epafras",
+          "Arquipo"
+        ]
+      },
+      {
+        "id": "philem-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué envió Pablo a Onésimo de vuelta en lugar de retenerlo?",
+        "options": [
+          "Porque Onésimo deseaba partir",
+          "Para que el favor de Filemón fuese voluntario, no por obligación",
+          "Porque ya no necesitaba ayuda",
+          "Porque la ley lo exigía"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "no ya como {0}, sino como más que esclavo, como hermano amado",
+        "blanks": [
+          "esclavo"
+        ],
+        "distractors": [
+          "hijo",
+          "amigo",
+          "extraño"
+        ]
+      },
+      {
+        "id": "philem-1-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Onésimo",
+            "right": "Esclavo fugitivo convertido por Pablo"
+          },
+          {
+            "left": "Filemón",
+            "right": "Dueño a quien va dirigida la carta"
+          },
+          {
+            "left": "Pablo",
+            "right": "Prisionero que escribe la carta"
+          },
+          {
+            "left": "Timoteo",
+            "right": "Hermano que saluda junto con Pablo"
+          }
+        ]
+      },
+      {
+        "id": "philem-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué le pide Pablo a Filemón que le prepare?",
+        "options": [
+          "Una carta de recomendación",
+          "Alojamiento, esperando serle concedido",
+          "Un regalo para Onésimo",
+          "Ropa para la prisión"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

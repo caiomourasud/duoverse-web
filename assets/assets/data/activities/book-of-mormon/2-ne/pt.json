@@ -1,0 +1,3018 @@
+{
+ "schema_version": 1,
+ "book": "2-ne",
+ "chapters": {
+  "1": [
+   {
+    "id": "2-ne-1-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "E falou-lhes também sobre a terra da promissão que haviam alcançado — quão misericordioso o Senhor havia sido, avisando-nos para fugirmos da terra de {0}.",
+    "blanks": [
+     "Jerusalém"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Egito",
+     "Nínive"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "esta terra não chegue ainda ao {0} de outras nações",
+    "blanks": [
+     "conhecimento"
+    ],
+    "distractors": [
+     "domínio",
+     "alcance",
+     "ouvido"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "do sono do {0}, e sacudísseis as pavorosas correntes",
+    "blanks": [
+     "inferno"
+    ],
+    "distractors": [
+     "abismo",
+     "mundo",
+     "pecado"
+    ]
+   },
+   {
+    "id": "2-ne-1-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "De onde ninguém volta",
+    "text": "Sentindo a proximidade da morte, Leí fala da sepultura como o lugar “de onde nenhum viajante pode voltar”, e roga aos filhos que despertem da morte espiritual."
+   },
+   {
+    "id": "2-ne-1-mc-20",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "Qual promessa Leí repete a respeito da terra prometida?",
+    "options": [
+     "Se guardarem os mandamentos, prosperarão na terra",
+     "Nunca enfrentarão inimigos",
+     "Jamais terão de trabalhar",
+     "A terra nunca terá secas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-1-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "levantai-vos do pó, meus filhos, e sede {0}",
+    "blanks": [
+     "homens"
+    ],
+    "distractors": [
+     "reis",
+     "guerreiros",
+     "servos"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "E agora, meu filho Lamã e também {0} e Sam; e também vós, meus filhos, que sois filhos de Ismael, eis que se derdes ouvidos à voz de Néfi, não perecereis. E se o escutardes, eu vos deixo uma bênção, sim, minha primeira bênção.",
+    "blanks": [
+     "Lemuel"
+    ],
+    "distractors": [
+     "Néfi",
+     "Jacó",
+     "José"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-31",
+    "type": "fill_blank",
+    "after_verse": 31,
+    "verse": 31,
+    "template": "e nada, a não ser a sua {0}, prejudicará ou perturbará sua prosperidade para sempre na face desta terra.",
+    "blanks": [
+     "iniquidade"
+    ],
+    "distractors": [
+     "desobediência",
+     "rebeldia",
+     "soberba"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "2-ne-2-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "viverás em segurança com teu irmão {0}",
+    "blanks": [
+     "Néfi"
+    ],
+    "distractors": [
+     "Sam",
+     "Lamã",
+     "Lemuel"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "para poder efetuar a {0} dos mortos, sendo ele o primeiro a ressuscitar.",
+    "blanks": [
+     "ressurreição"
+    ],
+    "distractors": [
+     "redenção",
+     "salvação",
+     "libertação"
+    ]
+   },
+   {
+    "id": "2-ne-2-cur-11",
+    "after_verse": 11,
+    "type": "curiosity",
+    "title": "Oposição em todas as coisas",
+    "text": "Leí ensina que deve haver oposição em todas as coisas: sem o amargo não se conhece o doce, sem o pecado não há retidão. A oposição torna possível o arbítrio."
+   },
+   {
+    "id": "2-ne-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "E não havendo retidão nem felicidade, não haverá {0} nem miséria.",
+    "blanks": [
+     "castigo"
+    ],
+    "distractors": [
+     "pecado",
+     "morte",
+     "cativeiro"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Come do fruto {0} e não morrerás",
+    "blanks": [
+     "proibido"
+    ],
+    "distractors": [
+     "sagrado",
+     "maduro",
+     "dourado"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Adão caiu para que os homens existissem; e os homens existem para que tenham {0}.",
+    "blanks": [
+     "alegria"
+    ],
+    "distractors": [
+     "paz",
+     "vida",
+     "glória"
+    ]
+   },
+   {
+    "id": "2-ne-2-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "Segundo Leí, entre o que os homens são livres para escolher?",
+    "options": [
+     "Liberdade e vida eterna, ou cativeiro e morte",
+     "Riqueza ou pobreza",
+     "Terra ou mar",
+     "Sabedoria ou poder"
+    ],
+    "answer": 0
+   }
+  ],
+  "3": [
+   {
+    "id": "2-ne-3-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "eu sou um descendente de José, que foi levado cativo para o {0}",
+    "blanks": [
+     "Egito"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Assíria",
+     "Canaã"
+    ]
+   },
+   {
+    "id": "2-ne-3-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "ele será grande como {0}, o qual eu disse que suscitaria",
+    "blanks": [
+     "Moisés"
+    ],
+    "distractors": [
+     "Abraão",
+     "Aarão",
+     "Josué"
+    ]
+   },
+   {
+    "id": "2-ne-3-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Segundo a profecia de José, os escritos de quem se uniriam (cresceriam juntos)?",
+    "options": [
+     "O fruto dos lombos de José e o fruto dos lombos de Judá",
+     "Os escritos de Néfi e os de Lamã",
+     "Os registros do Egito e da Babilônia",
+     "As placas de latão e a espada de Labão"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-3-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "Chamado pelo nome de seu pai",
+    "text": "A profecia diz que o vidente se chamaria como o profeta José e levaria o nome de seu próprio pai. Os santos dos últimos dias reconhecem nessas palavras Joseph Smith, filho de Joseph Smith pai."
+   },
+   {
+    "id": "2-ne-3-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "como se o fruto de teus lombos lhes clamasse desde o {0}; porque lhes conheço a fé.",
+    "blanks": [
+     "pó"
+    ],
+    "distractors": [
+     "túmulo",
+     "céu",
+     "deserto"
+    ]
+   },
+   {
+    "id": "2-ne-3-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "ouve, pois, as palavras de teu irmão {0} e ser-te-á feito",
+    "blanks": [
+     "Néfi"
+    ],
+    "distractors": [
+     "Sam",
+     "Lamã",
+     "Lemuel"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "2-ne-4-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "Se guardardes meus mandamentos, {0} na terra",
+    "blanks": [
+     "prosperareis"
+    ],
+    "distractors": [
+     "habitareis",
+     "permanecereis",
+     "multiplicareis"
+    ]
+   },
+   {
+    "id": "2-ne-4-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "Antes de morrer, a quem Leí dá uma bênção em 2 Néfi 4?",
+    "options": [
+     "Aos filhos de Lamã e Lemuel, aos de Ismael e a Sam",
+     "Somente a Néfi",
+     "Apenas a José, o caçula",
+     "Aos reis e mestres do povo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-4-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "A morte de Leí",
+    "text": "Depois de abençoar toda a sua casa, o profeta Leí envelhece, morre e é sepultado — encerrando a jornada que começara em Jerusalém anos antes."
+   },
+   {
+    "id": "2-ne-4-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Porque minha alma se deleita nas {0} e meu coração nelas medita",
+    "blanks": [
+     "escrituras"
+    ],
+    "distractors": [
+     "placas",
+     "alturas",
+     "riquezas"
+    ]
+   },
+   {
+    "id": "2-ne-4-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "O Salmo de Néfi",
+    "text": "Os versículos 16 a 35 são conhecidos como o 'Salmo de Néfi': um poema íntimo em que ele confessa suas fraquezas, lamenta seus pecados e reafirma sua fé no Senhor."
+   },
+   {
+    "id": "2-ne-4-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "Que homem {0} sou!",
+    "blanks": [
+     "miserável"
+    ],
+    "distractors": [
+     "pecador",
+     "mortal",
+     "cansado"
+    ]
+   },
+   {
+    "id": "2-ne-4-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "meu corpo foi arrebatado até {0} muito altas",
+    "blanks": [
+     "montanhas"
+    ],
+    "distractors": [
+     "colinas",
+     "planícies",
+     "muralhas"
+    ]
+   },
+   {
+    "id": "2-ne-4-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "meu Deus e {0} de minha salvação",
+    "blanks": [
+     "rocha"
+    ],
+    "distractors": [
+     "fortaleza",
+     "torre",
+     "luz"
+    ]
+   },
+   {
+    "id": "2-ne-4-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "No Salmo de Néfi, em que ele se recusa a confiar?",
+    "options": [
+     "No braço de carne",
+     "Nas placas de latão",
+     "Nas suas próprias espadas",
+     "Nos seus irmãos"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "2-ne-5-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "me afastasse deles e fugisse para o {0}",
+    "blanks": [
+     "deserto"
+    ],
+    "distractors": [
+     "mar",
+     "vale",
+     "monte"
+    ]
+   },
+   {
+    "id": "2-ne-5-mp-6",
+    "type": "match_pairs",
+    "after_verse": 6,
+    "pairs": [
+     {
+      "left": "Sam",
+      "right": "irmão mais velho de Néfi"
+     },
+     {
+      "left": "Jacó e José",
+      "right": "irmãos mais jovens de Néfi"
+     },
+     {
+      "left": "Zorã",
+      "right": "que fora servo de Labão"
+     },
+     {
+      "left": "Lamã e Lemuel",
+      "right": "irmãos que não o acompanharam"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "e também a esfera, ou seja, a {0} que fora preparada para meu pai",
+    "blanks": [
+     "bússola"
+    ],
+    "distractors": [
+     "espada",
+     "âncora",
+     "balança"
+    ]
+   },
+   {
+    "id": "2-ne-5-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "Um templo como o de Salomão",
+    "text": "Néfi edifica um templo seguindo o modelo do templo de Salomão, embora sem os mesmos materiais preciosos, que não existiam naquela terra."
+   },
+   {
+    "id": "2-ne-5-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "eles desejavam que eu fosse seu {0}",
+    "blanks": [
+     "rei"
+    ],
+    "distractors": [
+     "mestre",
+     "juiz",
+     "profeta"
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Eles serão um {0} para teus descendentes, a fim de fazer com que se lembrem de mim",
+    "blanks": [
+     "castigo"
+    ],
+    "distractors": [
+     "aviso",
+     "exemplo",
+     "escudo"
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "vivemos segundo o padrão da {0}",
+    "blanks": [
+     "felicidade"
+    ],
+    "distractors": [
+     "paz",
+     "retidão",
+     "prosperidade"
+    ]
+   },
+   {
+    "id": "2-ne-5-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "Ao final de 2 Néfi 5, quantos anos haviam se passado desde que deixaram Jerusalém?",
+    "options": [
+     "Quarenta anos",
+     "Trinta anos",
+     "Dez anos",
+     "Cem anos"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "2-ne-6-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "consagrado por meu irmão {0}, a quem tendes por rei",
+    "blanks": [
+     "Néfi"
+    ],
+    "distractors": [
+     "Leí",
+     "Sam",
+     "Lamã"
+    ]
+   },
+   {
+    "id": "2-ne-6-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "Jacó lê Isaías",
+    "text": "A partir daqui Jacó cita longos trechos de Isaías (capítulos 49 a 52 da Bíblia). 2 Néfi 7 corresponde a Isaías 50 e 2 Néfi 8 a Isaías 51 — ele 'aplica' as palavras a seu próprio povo."
+   },
+   {
+    "id": "2-ne-6-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "erguerei meu {0} para o povo",
+    "blanks": [
+     "estandarte"
+    ],
+    "distractors": [
+     "trono",
+     "altar",
+     "tabernáculo"
+    ]
+   },
+   {
+    "id": "2-ne-6-mc-15",
+    "after_verse": 15,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 6:15, como serão destruídos os que não creem no Messias?",
+    "options": [
+     "Por fogo, tempestade, terremotos, sangue, peste e fome",
+     "Apenas pela espada dos lamanitas",
+     "Somente pela fome e pela seca",
+     "Pelo cativeiro na Babilônia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-6-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "o Poderoso de {0}.",
+    "blanks": [
+     "Jacó"
+    ],
+    "distractors": [
+     "Abraão",
+     "Isaque",
+     "Davi"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "id": "2-ne-7-mc-2",
+    "after_verse": 2,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 7:2, o que o Senhor diz fazer com a sua repreensão?",
+    "options": [
+     "Seca o mar e transforma os rios em deserto",
+     "Abre o mar para o povo passar",
+     "Faz chover maná do céu",
+     "Derruba os muros de Jericó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-7-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "O servo sofredor",
+    "text": "Os versículos 6–7 descrevem um servo que oferece as costas aos açoitadores e não esconde a face dos que cospem nele. Cristãos leem isso como profecia do sofrimento de Jesus Cristo."
+   },
+   {
+    "id": "2-ne-7-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "e a {0} os comerá.",
+    "blanks": [
+     "traça"
+    ],
+    "distractors": [
+     "ferrugem",
+     "chama",
+     "lagarta"
+    ]
+   },
+   {
+    "id": "2-ne-7-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "em {0} jazereis.",
+    "blanks": [
+     "tormento"
+    ],
+    "distractors": [
+     "trevas",
+     "silêncio",
+     "vergonha"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "id": "2-ne-8-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "Olhai para {0}, vosso pai, e para Sara",
+    "blanks": [
+     "Abraão"
+    ],
+    "distractors": [
+     "Isaque",
+     "Jacó",
+     "Noé"
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "os céus desaparecerão como a {0}",
+    "blanks": [
+     "fumaça"
+    ],
+    "distractors": [
+     "névoa",
+     "nuvem",
+     "poeira"
+    ]
+   },
+   {
+    "id": "2-ne-8-cur-9",
+    "after_verse": 9,
+    "type": "curiosity",
+    "title": "Raabe e o dragão",
+    "text": "Aqui 'Raabe' não é a mulher de Jericó, mas um nome poético do monstro do caos (associado ao Egito); Isaías lembra como o braço do Senhor venceu o mar e o dragão para dar esperança a Israel."
+   },
+   {
+    "id": "2-ne-8-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "o filho do homem, que se tornará em {0}?",
+    "blanks": [
+     "erva"
+    ],
+    "distractors": [
+     "pó",
+     "fumaça",
+     "barro"
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "Levanta-te, ó {0}, que bebeste",
+    "blanks": [
+     "Jerusalém"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Samaria",
+     "Nínive"
+    ]
+   },
+   {
+    "id": "2-ne-8-mp-22",
+    "type": "match_pairs",
+    "after_verse": 22,
+    "pairs": [
+     {
+      "left": "Abraão e Sara",
+      "right": "os pais a quem Israel deve olhar"
+     },
+     {
+      "left": "Raabe e o dragão",
+      "right": "o monstro vencido pelo braço do Senhor"
+     },
+     {
+      "left": "o cálice do furor",
+      "right": "o sofrimento que Jerusalém bebeu"
+     },
+     {
+      "left": "Sião",
+      "right": "a cidade consolada como o Éden"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "Veste-te dos teus {0} formosos, ó Jerusalém, cidade santa",
+    "blanks": [
+     "vestidos"
+    ],
+    "distractors": [
+     "ornamentos",
+     "adornos",
+     "tesouros"
+    ]
+   }
+  ],
+  "9": [
+   {
+    "id": "2-ne-9-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "aos que habitam {0}, de onde viemos",
+    "blanks": [
+     "Jerusalém"
+    ],
+    "distractors": [
+     "Belém",
+     "Nazaré",
+     "Samaria"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "Expiação infinita",
+    "text": "2 Néfi 9 é um dos sermões mais completos das escrituras sobre a Expiação. Aqui Jacó explica por que ela precisa ser 'infinita': só assim a corrupção (a morte) pode revestir-se de incorrupção."
+   },
+   {
+    "id": "2-ne-9-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "para nossa fuga das garras desse terrível {0}",
+    "blanks": [
+     "monstro"
+    ],
+    "distractors": [
+     "inimigo",
+     "dragão",
+     "abismo"
+    ]
+   },
+   {
+    "id": "2-ne-9-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Jacó descreve duas mortes que deverão entregar seus mortos. Quais são?",
+    "options": [
+     "A morte física (a sepultura) e a morte espiritual (o inferno)",
+     "A morte do corpo e a morte do pecado",
+     "A primeira morte e a segunda ressurreição",
+     "A morte dos justos e a dos profetas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-9-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "herdarão o {0} de Deus, que foi preparado para eles",
+    "blanks": [
+     "reino"
+    ],
+    "distractors": [
+     "trono",
+     "favor",
+     "poder"
+    ]
+   },
+   {
+    "id": "2-ne-9-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 9:21, de quem Cristo sofre as dores?",
+    "options": [
+     "De todos os homens, mulheres e crianças da família de Adão",
+     "Somente dos justos",
+     "Apenas dos que creem nele",
+     "Somente dos profetas e reis"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-9-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "Quando são instruídos pensam que são {0}",
+    "blanks": [
+     "sábios"
+    ],
+    "distractors": [
+     "justos",
+     "fortes",
+     "santos"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-34",
+    "type": "fill_blank",
+    "after_verse": 34,
+    "verse": 34,
+    "template": "Ai do {0}, porque será lançado no inferno.",
+    "blanks": [
+     "mentiroso"
+    ],
+    "distractors": [
+     "ladrão",
+     "feiticeiro",
+     "covarde"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-39",
+    "type": "fill_blank",
+    "after_verse": 39,
+    "verse": 39,
+    "template": "ter mente carnal é {0} e ter mente espiritual é vida eterna.",
+    "blanks": [
+     "morte"
+    ],
+    "distractors": [
+     "cativeiro",
+     "miséria",
+     "tristeza"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-41",
+    "type": "fill_blank",
+    "after_verse": 41,
+    "verse": 41,
+    "template": "o guardião da {0} é o Santo de Israel",
+    "blanks": [
+     "porta"
+    ],
+    "distractors": [
+     "cidade",
+     "casa",
+     "torre"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-44",
+    "after_verse": 44,
+    "type": "curiosity",
+    "title": "Sacudir as vestes",
+    "text": "Jacó tira e sacode suas vestes diante do povo: um gesto antigo de declarar-se livre da responsabilidade pelos pecados deles — por isso diz que está 'livre de vosso sangue'."
+   },
+   {
+    "id": "2-ne-9-fb-50",
+    "type": "fill_blank",
+    "after_verse": 50,
+    "verse": 50,
+    "template": "vinde comprar vinho e {0}, sem dinheiro e sem preço.",
+    "blanks": [
+     "leite"
+    ],
+    "distractors": [
+     "pão",
+     "azeite",
+     "mel"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-51",
+    "after_verse": 51,
+    "type": "curiosity",
+    "title": "Águas sem dinheiro",
+    "text": "Os versículos 50–51 ecoam o convite de Isaías 55: vinde às águas, comprai vinho e leite 'sem dinheiro e sem preço' — a salvação é um dom gratuito de Deus."
+   },
+   {
+    "id": "2-ne-9-fb-53",
+    "type": "fill_blank",
+    "after_verse": 53,
+    "verse": 53,
+    "template": "tornar-se-ia um {0} justo para a casa de Israel.",
+    "blanks": [
+     "ramo"
+    ],
+    "distractors": [
+     "povo",
+     "remanescente",
+     "reino"
+    ]
+   }
+  ],
+  "10": [
+   {
+    "id": "2-ne-10-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "O nome revelado por um anjo",
+    "text": "Jacó diz que, 'na noite passada', um anjo lhe revelou que o nome do Salvador seria Cristo — um dos primeiros registros do nome no Livro de Mórmon."
+   },
+   {
+    "id": "2-ne-10-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "os de Jerusalém endurecerão a cerviz contra ele, para que seja {0}.",
+    "blanks": [
+     "crucificado"
+    ],
+    "distractors": [
+     "abandonado",
+     "apedrejado",
+     "traído"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "desde as ilhas do mar e dos {0} cantos da Terra",
+    "blanks": [
+     "quatro"
+    ],
+    "distractors": [
+     "sete",
+     "doze",
+     "dez"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "esta terra será uma terra de {0} para os gentios",
+    "blanks": [
+     "liberdade"
+    ],
+    "distractors": [
+     "promissão",
+     "refúgio",
+     "paz"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "porque é uma terra {0}, diz-me Deus, acima de todas as outras terras",
+    "blanks": [
+     "escolhida"
+    ],
+    "distractors": [
+     "sagrada",
+     "fértil",
+     "distante"
+    ]
+   },
+   {
+    "id": "2-ne-10-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 10:23, os homens são livres para escolher entre o quê?",
+    "options": [
+     "O caminho da morte eterna ou o caminho da vida eterna",
+     "A riqueza ou a pobreza",
+     "A guerra ou a paz",
+     "O mar ou a terra firme"
+    ],
+    "answer": 0
+   }
+  ],
+  "11": [
+   {
+    "id": "2-ne-11-mp-3",
+    "type": "match_pairs",
+    "after_verse": 3,
+    "pairs": [
+     {
+      "left": "Néfi",
+      "right": "viu o Redentor e escreve as palavras de Isaías"
+     },
+     {
+      "left": "Jacó",
+      "right": "irmão de Néfi, também viu o Redentor"
+     },
+     {
+      "left": "Isaías",
+      "right": "profeta cujas palavras Néfi vai citar"
+     },
+     {
+      "left": "'pelas palavras de três'",
+      "right": "como Deus estabelece a sua palavra"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-11-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "pois para esse fim foi dada a lei de {0}",
+    "blanks": [
+     "Moisés"
+    ],
+    "distractors": [
+     "Abraão",
+     "Aarão",
+     "Isaías"
+    ]
+   },
+   {
+    "id": "2-ne-11-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "que, sem a vinda de Cristo, todos os homens {0}.",
+    "blanks": [
+     "pereceriam"
+    ],
+    "distractors": [
+     "pecariam",
+     "tropeçariam",
+     "duvidariam"
+    ]
+   },
+   {
+    "id": "2-ne-11-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "Aí vêm os capítulos de Isaías",
+    "text": "Aqui Néfi anuncia que vai transcrever Isaías: os próximos capítulos (2 Néfi 12–24) reproduzem Isaías 2–14, o maior bloco de Isaías em todo o Livro de Mórmon."
+   }
+  ],
+  "12": [
+   {
+    "id": "2-ne-12-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "porque de {0} sairá a lei, e de Jerusalém, a palavra do Senhor.",
+    "blanks": [
+     "Sião"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Egito",
+     "Betel"
+    ]
+   },
+   {
+    "id": "2-ne-12-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "Espadas em enxadas",
+    "text": "A imagem de converter espadas em enxadas e lanças em foices (v.4) é uma das mais célebres profecias de paz da Bíblia; ela aparece também em Miquéias 4. 2 Néfi 12 reproduz Isaías 2."
+   },
+   {
+    "id": "2-ne-12-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "Também está cheia a sua terra de {0}; adoram a obra das suas mãos",
+    "blanks": [
+     "ídolos"
+    ],
+    "distractors": [
+     "altares",
+     "templos",
+     "túmulos"
+    ]
+   },
+   {
+    "id": "2-ne-12-mc-12",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "Qual é o tema repetido por Isaías em 2 Néfi 12:11–17?",
+    "options": [
+     "A soberba do homem será abatida e só o Senhor será exaltado",
+     "Os justos herdarão muitas riquezas",
+     "As nações viverão sempre em guerra",
+     "O templo nunca será destruído"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-12-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "e a todos os navios de {0} e a todos os cenários agradáveis.",
+    "blanks": [
+     "Társis"
+    ],
+    "distractors": [
+     "Tiro",
+     "Sidom",
+     "Ofir"
+    ]
+   },
+   {
+    "id": "2-ne-12-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "Afastai-vos do homem cujo {0} está no seu nariz",
+    "blanks": [
+     "fôlego"
+    ],
+    "distractors": [
+     "vigor",
+     "espírito",
+     "orgulho"
+    ]
+   }
+  ],
+  "13": [
+   {
+    "id": "2-ne-13-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 13:1–3, o que o Senhor anuncia que tirará de Jerusalém e de Judá?",
+    "options": [
+     "Seu sustento e seus líderes — o pão, a água, o valente, o juiz e o profeta",
+     "Seus rios e montanhas",
+     "Seus templos e altares",
+     "Seus rebanhos e colheitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-13-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "declara que o seu pecado é como {0}, e eles não podem escondê-lo.",
+    "blanks": [
+     "Sodoma"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Nínive",
+     "Egito"
+    ]
+   },
+   {
+    "id": "2-ne-13-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "moeis as faces do {0}, diz o Senhor Deus dos Exércitos.",
+    "blanks": [
+     "pobre"
+    ],
+    "distractors": [
+     "órfão",
+     "estrangeiro",
+     "cativo"
+    ]
+   },
+   {
+    "id": "2-ne-13-cur-18",
+    "after_verse": 18,
+    "type": "curiosity",
+    "title": "O guarda-roupa das filhas de Sião",
+    "text": "Os versículos 18–23 trazem uma das listas mais detalhadas de joias e vestes da Antiguidade nas escrituras — pulseiras, brincos, véus, vestidos de festa. Isaías a usa para denunciar a vaidade e a soberba."
+   },
+   {
+    "id": "2-ne-13-mc-20",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 13:18–23, o que o Senhor diz que tirará das filhas de Sião?",
+    "options": [
+     "Seus muitos enfeites e adornos — joias, véus e vestidos de festa",
+     "Suas casas e seus campos",
+     "Seus filhos e maridos",
+     "Seus livros e registros"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-13-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Teus varões cairão sob a {0} e teus valentes na guerra.",
+    "blanks": [
+     "espada"
+    ],
+    "distractors": [
+     "fome",
+     "peste",
+     "seta"
+    ]
+   },
+   {
+    "id": "2-ne-13-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "E as suas {0} lamentarão e prantearão",
+    "blanks": [
+     "portas"
+    ],
+    "distractors": [
+     "torres",
+     "ruas",
+     "muralhas"
+    ]
+   }
+  ],
+  "14": [
+   {
+    "id": "2-ne-14-mc-1",
+    "after_verse": 1,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 14:1, sete mulheres se prendem a um só homem. O que isso retrata?",
+    "options": [
+     "A escassez de homens após a guerra anunciada no capítulo anterior",
+     "Uma grande festa de casamento",
+     "A riqueza do homem escolhido",
+     "Uma lei sobre o casamento em Israel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-14-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "Naquele dia o {0} do Senhor será belo e glorioso",
+    "blanks": [
+     "ramo"
+    ],
+    "distractors": [
+     "braço",
+     "trono",
+     "nome"
+    ]
+   },
+   {
+    "id": "2-ne-14-cur-5",
+    "after_verse": 5,
+    "type": "curiosity",
+    "title": "Nuvem de dia, fogo de noite",
+    "text": "A promessa de uma nuvem de dia e fogo de noite sobre Sião ecoa a coluna de nuvem e de fogo que guiou Israel na saída do Egito — sinal da presença protetora de Deus."
+   },
+   {
+    "id": "2-ne-14-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "E haverá um {0} por sombra contra o calor do dia",
+    "blanks": [
+     "tabernáculo"
+    ],
+    "distractors": [
+     "templo",
+     "muro",
+     "monte"
+    ]
+   }
+  ],
+  "15": [
+   {
+    "id": "2-ne-15-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "O cântico da vinha",
+    "text": "Isaías 5 abre com uma parábola: o Senhor planta uma vinha esmerada que só produz uvas bravas. O versículo 7 revela o sentido — a vinha é a casa de Israel, e as uvas bravas são a injustiça do povo."
+   },
+   {
+    "id": "2-ne-15-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "e nela plantou excelente {0}; e edificou no meio dela uma torre",
+    "blanks": [
+     "videira"
+    ],
+    "distractors": [
+     "oliveira",
+     "figueira",
+     "relva"
+    ]
+   },
+   {
+    "id": "2-ne-15-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "No cântico da vinha (2 Néfi 15), o que a vinha representa?",
+    "options": [
+     "A casa de Israel",
+     "O reino da Babilônia",
+     "O templo de Salomão",
+     "A cidade de Nínive"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-15-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "o meu povo foi levado para o cativeiro por falta de {0}",
+    "blanks": [
+     "conhecimento"
+    ],
+    "distractors": [
+     "pão",
+     "água",
+     "força"
+    ]
+   },
+   {
+    "id": "2-ne-15-mp-20",
+    "type": "match_pairs",
+    "after_verse": 20,
+    "pairs": [
+     {
+      "left": "o mal",
+      "right": "a que chamam bem"
+     },
+     {
+      "left": "as trevas",
+      "right": "que põem por luz"
+     },
+     {
+      "left": "o amargo",
+      "right": "que tornam doce"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-15-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "porquanto rejeitaram a {0} do Senhor dos Exércitos, e desprezaram a palavra do Santo de Israel.",
+    "blanks": [
+     "lei"
+    ],
+    "distractors": [
+     "aliança",
+     "ordem",
+     "glória"
+    ]
+   },
+   {
+    "id": "2-ne-15-fb-29",
+    "type": "fill_blank",
+    "after_verse": 29,
+    "verse": 29,
+    "template": "Rugirão como filhos de {0}; sim, rugirão e arrebatarão a presa",
+    "blanks": [
+     "leão"
+    ],
+    "distractors": [
+     "lobo",
+     "urso",
+     "touro"
+    ]
+   }
+  ],
+  "16": [
+   {
+    "id": "2-ne-16-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "No ano em que morreu o rei {0}, eu vi também o Senhor",
+    "blanks": [
+     "Uzias"
+    ],
+    "distractors": [
+     "Acaz",
+     "Ezequias",
+     "Davi"
+    ]
+   },
+   {
+    "id": "2-ne-16-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Santo, santo, santo",
+    "text": "O cântico dos serafins — 'Santo, santo, santo é o Senhor dos Exércitos' — é uma das mais antigas expressões de adoração da Bíblia e inspirou hinos cristãos ao longo dos séculos."
+   },
+   {
+    "id": "2-ne-16-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "trazendo na mão uma {0} viva que tirara do altar com uma tenaz",
+    "blanks": [
+     "brasa"
+    ],
+    "distractors": [
+     "pedra",
+     "tocha",
+     "lâmpada"
+    ]
+   },
+   {
+    "id": "2-ne-16-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "Quando o Senhor pergunta 'A quem enviarei?', o que Isaías responde?",
+    "options": [
+     "'Eis-me aqui, envia-me a mim'",
+     "'Não sou digno, Senhor'",
+     "'Envia o meu irmão'",
+     "'Dá-me um sinal primeiro'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-16-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "Mas haverá ainda uma {0} parte, e eles voltarão",
+    "blanks": [
+     "décima"
+    ],
+    "distractors": [
+     "terça",
+     "quinta",
+     "sétima"
+    ]
+   }
+  ],
+  "17": [
+   {
+    "id": "2-ne-17-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "A guerra siro-efraimita",
+    "text": "Por volta de 734 a.C., os reis da Síria (Rezim) e de Israel/Efraim (Peca) cercaram Jerusalém para forçar Judá a aliar-se contra a Assíria. É nesse momento de medo que Isaías leva a mensagem de Deus ao rei Acaz."
+   },
+   {
+    "id": "2-ne-17-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "nos dias de {0}, filho de Jotão, filho de Uzias, rei de Judá",
+    "blanks": [
+     "Acaz"
+    ],
+    "distractors": [
+     "Ezequias",
+     "Manassés",
+     "Davi"
+    ]
+   },
+   {
+    "id": "2-ne-17-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "O que o Senhor diz a Acaz sobre o plano da Síria e de Efraim contra Judá?",
+    "options": [
+     "Que não subsistirá nem acontecerá",
+     "Que durará sessenta e cinco anos",
+     "Que destruirá Jerusalém",
+     "Que trará paz a Israel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-17-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Eis a virgem: Emanuel",
+    "text": "O sinal de 'Emanuel' (que significa 'Deus conosco') é uma das profecias mais célebres de Isaías; Mateus 1:23 a cita ao anunciar o nascimento de Jesus Cristo."
+   },
+   {
+    "id": "2-ne-17-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "e {0} será o seu nome.",
+    "blanks": [
+     "Emanuel"
+    ],
+    "distractors": [
+     "Isaías",
+     "Sear-Jasube",
+     "Tabeal"
+    ]
+   },
+   {
+    "id": "2-ne-17-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "e para a {0} que está na terra da Assíria",
+    "blanks": [
+     "abelha"
+    ],
+    "distractors": [
+     "vespa",
+     "formiga",
+     "aranha"
+    ]
+   },
+   {
+    "id": "2-ne-17-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "porquanto manteiga e {0} comerá todo aquele que restar na terra.",
+    "blanks": [
+     "mel"
+    ],
+    "distractors": [
+     "leite",
+     "pão",
+     "azeite"
+    ]
+   }
+  ],
+  "18": [
+   {
+    "id": "2-ne-18-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "O nome mais longo da Bíblia",
+    "text": "'Maer-Salal-Hás-Baz' (que significa algo como 'apressando-se ao despojo, correndo à presa') é o nome mais longo da Bíblia. Foi dado ao filho de Isaías como sinal profético de que Damasco e Samaria cairiam em breve."
+   },
+   {
+    "id": "2-ne-18-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "serão levadas as riquezas de {0} e os despojos de Samaria",
+    "blanks": [
+     "Damasco"
+    ],
+    "distractors": [
+     "Nínive",
+     "Babilônia",
+     "Tiro"
+    ]
+   },
+   {
+    "id": "2-ne-18-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "este povo despreza as águas de {0}, que correm brandamente",
+    "blanks": [
+     "Siloé"
+    ],
+    "distractors": [
+     "Jordão",
+     "Cedrom",
+     "Eufrates"
+    ]
+   },
+   {
+    "id": "2-ne-18-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "E ele será por {0}; mas servirá de pedra de tropeço",
+    "blanks": [
+     "santuário"
+    ],
+    "distractors": [
+     "refúgio",
+     "fortaleza",
+     "escudo"
+    ]
+   },
+   {
+    "id": "2-ne-18-mc-19",
+    "after_verse": 19,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 18:19, em vez de buscar adivinhos e encantadores, o que o povo deveria fazer?",
+    "options": [
+     "Consultar o seu Deus",
+     "Consultar os reis vizinhos",
+     "Construir mais altares",
+     "Fugir para o Egito"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-18-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "E olharão para a Terra e contemplarão {0} e trevas, obscuridade de angústia",
+    "blanks": [
+     "tribulações"
+    ],
+    "distractors": [
+     "misérias",
+     "ruínas",
+     "pragas"
+    ]
+   }
+  ],
+  "19": [
+   {
+    "id": "2-ne-19-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Os que andavam nas trevas",
+    "text": "'O povo que andava nas trevas viu uma grande luz' é uma profecia messiânica que Mateus 4 aplica ao ministério de Jesus na Galileia — a mesma região (Zebulom e Naftali) mencionada no v.1."
+   },
+   {
+    "id": "2-ne-19-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "O povo que andava nas trevas viu uma grande {0}",
+    "blanks": [
+     "luz"
+    ],
+    "distractors": [
+     "esperança",
+     "aurora",
+     "chama"
+    ]
+   },
+   {
+    "id": "2-ne-19-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "Maravilhoso, Príncipe da Paz",
+    "text": "Os cinco títulos do v.6 — Maravilhoso, Conselheiro, Poderoso Deus, Pai Eterno, Príncipe da Paz — estão entre as profecias messiânicas mais conhecidas e foram imortalizados no oratório 'O Messias', de Händel."
+   },
+   {
+    "id": "2-ne-19-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "e o seu nome será: Maravilhoso, {0}, Poderoso Deus",
+    "blanks": [
+     "Conselheiro"
+    ],
+    "distractors": [
+     "Redentor",
+     "Pastor",
+     "Advogado"
+    ]
+   },
+   {
+    "id": "2-ne-19-mc-15",
+    "after_verse": 15,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 19:14–15, o Senhor corta de Israel 'a cabeça e a cauda'. Quem representa cada um?",
+    "options": [
+     "O ancião é a cabeça; o profeta que ensina falsidades é a cauda",
+     "O rei é a cabeça; o povo é a cauda",
+     "O sacerdote é a cabeça; o soldado é a cauda",
+     "O rico é a cabeça; o pobre é a cauda"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-19-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Pois a {0} queima como fogo; devorará as sarças e os espinheiros",
+    "blanks": [
+     "iniquidade"
+    ],
+    "distractors": [
+     "soberba",
+     "inveja",
+     "cobiça"
+    ]
+   },
+   {
+    "id": "2-ne-19-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "eles juntos serão contra {0}.",
+    "blanks": [
+     "Judá"
+    ],
+    "distractors": [
+     "Israel",
+     "Samaria",
+     "Edom"
+    ]
+   }
+  ],
+  "20": [
+   {
+    "id": "2-ne-20-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "Ó {0}, vara da minha ira",
+    "blanks": [
+     "assírio"
+    ],
+    "distractors": [
+     "egípcio",
+     "babilônio",
+     "filisteu"
+    ]
+   },
+   {
+    "id": "2-ne-20-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "Embora o Senhor use a Assíria como sua 'vara', o que o coração do rei assírio realmente pretende (v.7)?",
+    "options": [
+     "Destruir e exterminar muitas nações",
+     "Libertar os cativos",
+     "Reconstruir Jerusalém",
+     "Servir ao Senhor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-20-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "O machado não se gloria",
+    "text": "Isaías compara a Assíria a um machado ou serra: a ferramenta não pode gabar-se contra quem a maneja. A Assíria é apenas um instrumento nas mãos de Deus — e será punida por sua arrogância (v.12)."
+   },
+   {
+    "id": "2-ne-20-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Gloriar-se-á o {0} contra quem corta com ele?",
+    "blanks": [
+     "machado"
+    ],
+    "distractors": [
+     "martelo",
+     "alfanje",
+     "arado"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "e o seu Santo como {0}",
+    "blanks": [
+     "labareda"
+    ],
+    "distractors": [
+     "espada",
+     "tempestade",
+     "sombra"
+    ]
+   },
+   {
+    "id": "2-ne-20-cur-21",
+    "after_verse": 21,
+    "type": "curiosity",
+    "title": "Um remanescente voltará",
+    "text": "'Um remanescente retornará' é o significado do nome Sear-Jasube, o filho de Isaías citado em 2 Néfi 17:3. A promessa de que sempre sobrevive um resto fiel de Israel é um tema central do profeta."
+   },
+   {
+    "id": "2-ne-20-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "embora o teu povo, Israel, seja como a {0} do mar",
+    "blanks": [
+     "areia"
+    ],
+    "distractors": [
+     "onda",
+     "espuma",
+     "pedra"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "e do teu {0}, o seu jugo",
+    "blanks": [
+     "pescoço"
+    ],
+    "distractors": [
+     "braço",
+     "dorso",
+     "peito"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-34",
+    "type": "fill_blank",
+    "after_verse": 34,
+    "verse": 34,
+    "template": "e o {0} cairá pela mão de um poderoso.",
+    "blanks": [
+     "Líbano"
+    ],
+    "distractors": [
+     "Basã",
+     "Carmelo",
+     "Sinai"
+    ]
+   }
+  ],
+  "21": [
+   {
+    "id": "2-ne-21-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "A vara do tronco de Jessé",
+    "text": "Jessé era o pai do rei Davi. A 'vara' e o 'ramo' que brotam de seu tronco são uma profecia messiânica: o Salvador viria da linhagem de Davi. 2 Néfi 21 reproduz Isaías 11."
+   },
+   {
+    "id": "2-ne-21-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "E sairá uma vara do tronco de {0}",
+    "blanks": [
+     "Jessé"
+    ],
+    "distractors": [
+     "Davi",
+     "Judá",
+     "Abraão"
+    ]
+   },
+   {
+    "id": "2-ne-21-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "O lobo e o cordeiro",
+    "text": "A imagem do lobo morando com o cordeiro e a criança brincando junto à serpente descreve o 'reino pacífico' — uma profecia da paz que reinará quando 'a Terra estará cheia de conhecimento do Senhor' (v.9)."
+   },
+   {
+    "id": "2-ne-21-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "Também morará o lobo com o {0}; e o leopardo deitar-se-á com o cabrito",
+    "blanks": [
+     "cordeiro"
+    ],
+    "distractors": [
+     "cervo",
+     "javali",
+     "pombo"
+    ]
+   },
+   {
+    "id": "2-ne-21-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 21:11–12, o que o Senhor promete fazer 'pela segunda vez'?",
+    "options": [
+     "Recolher os remanescentes dispersos de Israel e de Judá",
+     "Destruir todas as nações gentias",
+     "Reconstruir o templo de Salomão",
+     "Enviar uma grande seca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-21-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "E haverá uma {0} para os remanescentes do seu povo que restarem da Assíria",
+    "blanks": [
+     "estrada"
+    ],
+    "distractors": [
+     "ponte",
+     "muralha",
+     "torre"
+    ]
+   }
+  ],
+  "22": [
+   {
+    "id": "2-ne-22-mc-1",
+    "after_verse": 1,
+    "type": "multiple_choice",
+    "question": "Que tipo de texto é 2 Néfi 22 (Isaías 12)?",
+    "options": [
+     "Um breve cântico de louvor e gratidão ao Senhor",
+     "Uma lista de leis",
+     "Uma genealogia dos reis",
+     "Um relato de batalha"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-22-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Jeová, força e cântico",
+    "text": "O versículo 2 traz um dos raros usos do nome 'Jeová' (a forma do nome do Senhor, em hebraico YHWH) no Livro de Mórmon. Este capítulo é um breve hino de gratidão pela libertação."
+   },
+   {
+    "id": "2-ne-22-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "com alegria tirareis águas das fontes da {0}.",
+    "blanks": [
+     "salvação"
+    ],
+    "distractors": [
+     "misericórdia",
+     "vida",
+     "paz"
+    ]
+   },
+   {
+    "id": "2-ne-22-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "Clama e brada, ó habitante de {0}, porque grande é o Santo de Israel",
+    "blanks": [
+     "Sião"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Egito",
+     "Samaria"
+    ]
+   }
+  ],
+  "23": [
+   {
+    "id": "2-ne-23-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "O 'peso' de Babilônia",
+    "text": "Um 'peso' (ou 'carga'), em Isaías, é um oráculo solene de juízo. Aqui o profeta anuncia a queda da Babilônia — séculos antes de ela se tornar o império que destruiria Jerusalém."
+   },
+   {
+    "id": "2-ne-23-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "O peso de {0} que Isaías, filho de Amós, viu.",
+    "blanks": [
+     "Babilônia"
+    ],
+    "distractors": [
+     "Egito",
+     "Assíria",
+     "Nínive"
+    ]
+   },
+   {
+    "id": "2-ne-23-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 23:10, que sinais nos céus acompanham o dia do Senhor?",
+    "options": [
+     "O sol, a lua e as estrelas deixarão de dar a sua luz",
+     "Cairá fogo do céu sobre o mar",
+     "Surgirão três luas vermelhas",
+     "O céu se abrirá em chamas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-23-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "e mais que o lingote de ouro de {0}.",
+    "blanks": [
+     "Ofir"
+    ],
+    "distractors": [
+     "Sabá",
+     "Havilá",
+     "Társis"
+    ]
+   },
+   {
+    "id": "2-ne-23-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "Eis que incitarei contra eles os {0}",
+    "blanks": [
+     "medos"
+    ],
+    "distractors": [
+     "persas",
+     "assírios",
+     "edomitas"
+    ]
+   },
+   {
+    "id": "2-ne-23-cur-19",
+    "after_verse": 19,
+    "type": "curiosity",
+    "title": "Como Sodoma e Gomorra",
+    "text": "Babilônia, 'a glória dos reinos', seria destruída como Sodoma e Gomorra e nunca mais habitada (vv.19–20). A história cumpriu a profecia: a antiga Babilônia tornou-se ruínas desertas."
+   },
+   {
+    "id": "2-ne-23-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "e dragões, nos seus {0} deleitosos",
+    "blanks": [
+     "palácios"
+    ],
+    "distractors": [
+     "templos",
+     "jardins",
+     "salões"
+    ]
+   }
+  ],
+  "24": [
+   {
+    "id": "2-ne-24-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "proferirás este dito contra o rei de {0}",
+    "blanks": [
+     "Babilônia"
+    ],
+    "distractors": [
+     "Assíria",
+     "Pérsia",
+     "Síria"
+    ]
+   },
+   {
+    "id": "2-ne-24-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "e também os cedros do {0}, dizendo: Desde que tu caíste",
+    "blanks": [
+     "Líbano"
+    ],
+    "distractors": [
+     "Basã",
+     "Carmelo",
+     "Sinai"
+    ]
+   },
+   {
+    "id": "2-ne-24-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "Como caíste, ó Lúcifer",
+    "text": "Este é o único lugar nas escrituras onde aparece o nome 'Lúcifer' (do latim, 'portador de luz'). O lamento sobre o rei de Babilônia, que quis 'ser semelhante ao Altíssimo', é tradicionalmente lido também como a queda de Satanás."
+   },
+   {
+    "id": "2-ne-24-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "Como caíste do {0}, ó Lúcifer, filho da manhã!",
+    "blanks": [
+     "céu"
+    ],
+    "distractors": [
+     "trono",
+     "poder",
+     "reino"
+    ]
+   },
+   {
+    "id": "2-ne-24-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "É este o homem que fez estremecer a {0} e que fez tremer reinos?",
+    "blanks": [
+     "Terra"
+    ],
+    "distractors": [
+     "lua",
+     "montanha",
+     "cidade"
+    ]
+   },
+   {
+    "id": "2-ne-24-mc-25",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 24:24–27, o que Isaías afirma sobre o propósito do Senhor?",
+    "options": [
+     "Que ninguém pode invalidá-lo nem fazer voltar atrás a sua mão",
+     "Que pode ser mudado pela oração dos reis",
+     "Que depende da força da Assíria",
+     "Que nunca será revelado"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-24-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "No ano em que morreu o rei {0}, foi dada a sentença.",
+    "blanks": [
+     "Acaz"
+    ],
+    "distractors": [
+     "Uzias",
+     "Ezequias",
+     "Davi"
+    ]
+   },
+   {
+    "id": "2-ne-24-cur-32",
+    "after_verse": 32,
+    "type": "curiosity",
+    "title": "Fim do bloco de Isaías",
+    "text": "Este capítulo encerra a longa citação de Isaías feita por Néfi: 2 Néfi 12–24 reproduz Isaías 2–14. A partir do próximo capítulo, Néfi explica essas palavras com suas próprias palavras."
+   },
+   {
+    "id": "2-ne-24-fb-32",
+    "type": "fill_blank",
+    "after_verse": 32,
+    "verse": 32,
+    "template": "Que o Senhor fundou {0}, e que os pobres do seu povo confiarão nela.",
+    "blanks": [
+     "Sião"
+    ],
+    "distractors": [
+     "Babilônia",
+     "Egito",
+     "Samaria"
+    ]
+   }
+  ],
+  "25": [
+   {
+    "id": "2-ne-25-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "Néfi explica Isaías",
+    "text": "Depois de citar Isaías por treze capítulos, Néfi reconhece que suas palavras 'são difíceis de entender' e decide explicar com 'clareza' — porque não ensinou seu povo 'à maneira dos judeus'."
+   },
+   {
+    "id": "2-ne-25-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "minha alma se deleita em {0} o meu povo",
+    "blanks": [
+     "esclarecer"
+    ],
+    "distractors": [
+     "abençoar",
+     "corrigir",
+     "guiar"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "salvo aqueles levados cativos para a {0}.",
+    "blanks": [
+     "Babilônia"
+    ],
+    "distractors": [
+     "Assíria",
+     "Pérsia",
+     "Síria"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "pelo espaço de {0} dias, levantar-se-á dentre os mortos",
+    "blanks": [
+     "três"
+    ],
+    "distractors": [
+     "dois",
+     "sete",
+     "quarenta"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "o Messias virá {0} anos depois da época em que meu pai deixou Jerusalém",
+    "blanks": [
+     "seiscentos"
+    ],
+    "distractors": [
+     "quatrocentos",
+     "mil",
+     "trezentos"
+    ]
+   },
+   {
+    "id": "2-ne-25-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 25:23, como Néfi descreve a salvação?",
+    "options": [
+     "É pela graça que somos salvos, depois de tudo o que pudermos fazer",
+     "Somos salvos apenas por nossas obras",
+     "Somos salvos sem nenhum esforço",
+     "A graça é só para os judeus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-25-cur-26",
+    "after_verse": 26,
+    "type": "curiosity",
+    "title": "Falamos de Cristo",
+    "text": "O versículo 26 — 'falamos de Cristo, regozijamo-nos em Cristo, pregamos a Cristo, profetizamos de Cristo' — é uma das declarações mais amadas do Livro de Mórmon sobre o foco da fé nefita no Salvador."
+   },
+   {
+    "id": "2-ne-25-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "até que a lei que foi dada a {0} seja cumprida.",
+    "blanks": [
+     "Moisés"
+    ],
+    "distractors": [
+     "Abraão",
+     "Isaías",
+     "Aarão"
+    ]
+   }
+  ],
+  "26": [
+   {
+    "id": "2-ne-26-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 26:3, que sinais seriam dados ao povo de Néfi?",
+    "options": [
+     "Sinais do nascimento, da morte e da ressurreição do Messias",
+     "O dia exato do fim do mundo",
+     "A localização de tesouros",
+     "Os nomes de todos os reis futuros"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-26-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Mas o Filho da {0} aparecer-lhes-á e curá-los-á",
+    "blanks": [
+     "Retidão"
+    ],
+    "distractors": [
+     "Paz",
+     "Glória",
+     "Luz"
+    ]
+   },
+   {
+    "id": "2-ne-26-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "Jesus é o Cristo, o {0} Deus",
+    "blanks": [
+     "Eterno"
+    ],
+    "distractors": [
+     "vivo",
+     "poderoso",
+     "invisível"
+    ]
+   },
+   {
+    "id": "2-ne-26-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "Uma voz desde o pó",
+    "text": "Néfi prevê que o registro de seu povo destruído 'sussurrará desde o pó' — uma voz que fala da terra. Os santos dos últimos dias veem aqui o próprio Livro de Mórmon, vindo à luz séculos depois (cf. Isaías 29)."
+   },
+   {
+    "id": "2-ne-26-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "e sua fala sussurrará desde o {0}.",
+    "blanks": [
+     "pó"
+    ],
+    "distractors": [
+     "túmulo",
+     "abismo",
+     "monte"
+    ]
+   },
+   {
+    "id": "2-ne-26-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "comprai leite e {0} sem dinheiro e sem preço.",
+    "blanks": [
+     "mel"
+    ],
+    "distractors": [
+     "pão",
+     "azeite",
+     "vinho"
+    ]
+   },
+   {
+    "id": "2-ne-26-cur-29",
+    "after_verse": 29,
+    "type": "curiosity",
+    "title": "O que é 'artimanha sacerdotal'",
+    "text": "Néfi define a 'artimanha sacerdotal' (priestcraft): pregar e erguer-se como luz para o mundo a fim de obter lucro e louvor, sem buscar o bem-estar de Sião. É um dos poucos lugares nas escrituras que definem o termo."
+   },
+   {
+    "id": "2-ne-26-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "todos os homens tenham caridade; e a caridade é {0}.",
+    "blanks": [
+     "amor"
+    ],
+    "distractors": [
+     "paz",
+     "dever",
+     "honra"
+    ]
+   },
+   {
+    "id": "2-ne-26-mc-33",
+    "after_verse": 33,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 26:33, quem Deus convida a participar de sua bondade?",
+    "options": [
+     "Todos — negros e brancos, escravos e livres, homens e mulheres",
+     "Apenas os judeus",
+     "Apenas os justos",
+     "Apenas os ricos"
+    ],
+    "answer": 0
+   }
+  ],
+  "27": [
+   {
+    "id": "2-ne-27-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "o Senhor derramou sobre vós um espírito de profundo {0}",
+    "blanks": [
+     "sono"
+    ],
+    "distractors": [
+     "medo",
+     "temor",
+     "pesar"
+    ]
+   },
+   {
+    "id": "2-ne-27-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "O livro selado",
+    "text": "Néfi descreve um livro selado 'pelo poder de Deus', cuja parte selada só virá à luz no devido tempo do Senhor. Os santos dos últimos dias entendem isso como as placas do Livro de Mórmon, das quais uma porção permanece selada."
+   },
+   {
+    "id": "2-ne-27-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "que são as palavras dos que adormeceram no {0}",
+    "blanks": [
+     "pó"
+    ],
+    "distractors": [
+     "túmulo",
+     "abismo",
+     "monte"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "para que ninguém o veja, exceto {0} testemunhas",
+    "blanks": [
+     "três"
+    ],
+    "distractors": [
+     "duas",
+     "sete",
+     "doze"
+    ]
+   },
+   {
+    "id": "2-ne-27-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "Lê isto, suplico-te",
+    "text": "Os versículos 15–20 (citando Isaías 29) descrevem um 'instruído' que não consegue ler as palavras de um livro selado. Os santos dos últimos dias veem o cumprimento em 1828, quando Martin Harris levou uma cópia dos caracteres ao professor Charles Anthon."
+   },
+   {
+    "id": "2-ne-27-mc-19",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 27:19–20, depois que o instruído não lê o livro, a quem o Senhor entrega as palavras?",
+    "options": [
+     "Ao homem que não é instruído",
+     "A um rei poderoso",
+     "A um anjo",
+     "A um sacerdote"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-27-fb-23",
+    "type": "fill_blank",
+    "after_verse": 23,
+    "verse": 23,
+    "template": "e sou um Deus de {0}; e mostrarei ao mundo",
+    "blanks": [
+     "milagres"
+    ],
+    "distractors": [
+     "misericórdia",
+     "justiça",
+     "verdade"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "sim, uma obra maravilhosa e um {0}, pois a sabedoria",
+    "blanks": [
+     "assombro"
+    ],
+    "distractors": [
+     "milagre",
+     "mistério",
+     "sinal"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-33",
+    "type": "fill_blank",
+    "after_verse": 33,
+    "verse": 33,
+    "template": "assim diz o Senhor que redimiu {0}, a respeito da casa de Jacó",
+    "blanks": [
+     "Abraão"
+    ],
+    "distractors": [
+     "Isaque",
+     "Moisés",
+     "Davi"
+    ]
+   }
+  ],
+  "28": [
+   {
+    "id": "2-ne-28-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "E negam o {0} de Deus, o Santo de Israel",
+    "blanks": [
+     "poder"
+    ],
+    "distractors": [
+     "nome",
+     "amor",
+     "reino"
+    ]
+   },
+   {
+    "id": "2-ne-28-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "Que falsa doutrina Néfi adverte que muitos ensinarão (2 Néfi 28:7–8)?",
+    "options": [
+     "'Comei, bebei e alegrai-vos; Deus justificará pequenos pecados e ainda seremos salvos'",
+     "'Guardai todos os mandamentos com exatidão'",
+     "'Vendei tudo o que tendes e dai aos pobres'",
+     "'Jejuai e orai sem cessar'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-28-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "exceto alguns poucos, que são os {0} seguidores de Cristo",
+    "blanks": [
+     "humildes"
+    ],
+    "distractors": [
+     "fiéis",
+     "devotos",
+     "dignos"
+    ]
+   },
+   {
+    "id": "2-ne-28-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "por terra deverá cair e grande será a sua {0}.",
+    "blanks": [
+     "queda"
+    ],
+    "distractors": [
+     "ruína",
+     "vergonha",
+     "dor"
+    ]
+   },
+   {
+    "id": "2-ne-28-cur-21",
+    "after_verse": 21,
+    "type": "curiosity",
+    "title": "Tudo vai bem em Sião",
+    "text": "Néfi descreve as estratégias do diabo nos últimos dias: enfurecer uns, negar a outros a existência do inferno e adormecer muitos com a 'segurança carnal' de que 'tudo vai bem em Sião'. É uma das advertências mais citadas do capítulo."
+   },
+   {
+    "id": "2-ne-28-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "E a outros pacificará e acalentará com segurança {0}",
+    "blanks": [
+     "carnal"
+    ],
+    "distractors": [
+     "falsa",
+     "mundana",
+     "vazia"
+    ]
+   },
+   {
+    "id": "2-ne-28-cur-30",
+    "after_verse": 30,
+    "type": "curiosity",
+    "title": "Linha sobre linha",
+    "text": "'Linha sobre linha, preceito sobre preceito, um pouco aqui e um pouco ali' descreve como Deus revela a verdade gradualmente — e a promessa de que a quem recebe se dará mais."
+   },
+   {
+    "id": "2-ne-28-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "porque obterão {0}; pois a quem recebe darei mais",
+    "blanks": [
+     "sabedoria"
+    ],
+    "distractors": [
+     "paciência",
+     "misericórdia",
+     "paz"
+    ]
+   },
+   {
+    "id": "2-ne-28-fb-31",
+    "type": "fill_blank",
+    "after_verse": 31,
+    "verse": 31,
+    "template": "Maldito é aquele que confia no {0} ou faz da carne o seu braço",
+    "blanks": [
+     "homem"
+    ],
+    "distractors": [
+     "rei",
+     "ouro",
+     "ídolo"
+    ]
+   }
+  ],
+  "29": [
+   {
+    "id": "2-ne-29-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Uma Bíblia! Uma Bíblia!",
+    "text": "Este capítulo responde aos que rejeitam novas escrituras dizendo 'temos uma Bíblia e não pode haver mais'. O Senhor lembra que a própria Bíblia veio pelos judeus e que ele fala a mais de uma nação."
+   },
+   {
+    "id": "2-ne-29-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "Eles terão uma Bíblia e virá dos {0}, meu antigo povo do convênio.",
+    "blanks": [
+     "judeus"
+    ],
+    "distractors": [
+     "gentios",
+     "egípcios",
+     "romanos"
+    ]
+   },
+   {
+    "id": "2-ne-29-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "O testemunho de duas nações",
+    "text": "O Senhor explica que 'o depoimento de duas nações' confirma sua palavra — os santos dos últimos dias veem aqui a Bíblia e o Livro de Mórmon caminhando juntos como duas testemunhas (cf. 2 Néfi 3 e Ezequiel 37)."
+   },
+   {
+    "id": "2-ne-29-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "Não sabeis que o depoimento de {0} nações é um testemunho a vós de que eu sou Deus",
+    "blanks": [
+     "duas"
+    ],
+    "distractors": [
+     "três",
+     "muitas",
+     "sete"
+    ]
+   },
+   {
+    "id": "2-ne-29-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 29:12, a quem o Senhor diz que falará e fará escrever a sua palavra?",
+    "options": [
+     "Aos judeus, aos nefitas, às outras tribos de Israel e a todas as nações",
+     "Apenas aos judeus",
+     "Apenas aos nefitas",
+     "Apenas aos profetas"
+    ],
+    "answer": 0
+   }
+  ],
+  "30": [
+   {
+    "id": "2-ne-30-mc-2",
+    "after_verse": 2,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 30:2, quem forma o povo do convênio do Senhor?",
+    "options": [
+     "Os que se arrependem e creem no Filho de Deus, sejam gentios ou judeus",
+     "Apenas os descendentes de Néfi",
+     "Apenas os judeus de nascimento",
+     "Os mais ricos entre os gentios"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-30-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "e de seus olhos começarão a cair as {0} da escuridão",
+    "blanks": [
+     "escamas"
+    ],
+    "distractors": [
+     "sombras",
+     "nuvens",
+     "correntes"
+    ]
+   },
+   {
+    "id": "2-ne-30-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "O reino pacífico, de novo",
+    "text": "Os versículos 9–15 repetem quase palavra por palavra a profecia de Isaías 11 (já citada em 2 Néfi 21) — o lobo com o cordeiro e a Terra cheia do conhecimento do Senhor. Néfi a retoma ao falar da restauração nos últimos dias."
+   },
+   {
+    "id": "2-ne-30-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "E a vaca e a {0} pastarão; suas crias juntas se deitarão",
+    "blanks": [
+     "ursa"
+    ],
+    "distractors": [
+     "raposa",
+     "cabra",
+     "corça"
+    ]
+   },
+   {
+    "id": "2-ne-30-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "e {0} já não terá poder sobre o coração dos filhos dos homens",
+    "blanks": [
+     "Satanás"
+    ],
+    "distractors": [
+     "a morte",
+     "o pecado",
+     "o mundo"
+    ]
+   }
+  ],
+  "31": [
+   {
+    "id": "2-ne-31-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "O profeta que batizaria o Cordeiro",
+    "text": "Néfi relembra o profeta que 'batizará o Cordeiro de Deus' — João Batista, que ele tinha visto em visão (1 Néfi 11). Se até Jesus, sendo santo, foi batizado, quanto mais nós."
+   },
+   {
+    "id": "2-ne-31-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "para cumprir toda a {0}, quanto mais necessidade não teremos nós",
+    "blanks": [
+     "retidão"
+    ],
+    "distractors": [
+     "misericórdia",
+     "sabedoria",
+     "obediência"
+    ]
+   },
+   {
+    "id": "2-ne-31-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "o Espírito Santo desceu sobre ele na forma de uma {0}",
+    "blanks": [
+     "pomba"
+    ],
+    "distractors": [
+     "chama",
+     "nuvem",
+     "luz"
+    ]
+   },
+   {
+    "id": "2-ne-31-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "e então podereis falar na língua de {0} e render louvores ao Santo de Israel",
+    "blanks": [
+     "anjos"
+    ],
+    "distractors": [
+     "profetas",
+     "santos",
+     "homens"
+    ]
+   },
+   {
+    "id": "2-ne-31-mc-17",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 31:17, qual é a 'porta' pela qual se deve entrar no caminho?",
+    "options": [
+     "O arrependimento e o batismo com água",
+     "O jejum e a oração",
+     "A guarda da lei de Moisés",
+     "O sacrifício de animais"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-31-cur-20",
+    "after_verse": 20,
+    "type": "curiosity",
+    "title": "Ide avante, banqueteando-vos",
+    "text": "O versículo 20 — 'prossegui com firmeza em Cristo... banqueteando-vos com a palavra de Cristo e perseverando até o fim' — resume a doutrina de Cristo e é um dos versículos mais conhecidos do Livro de Mórmon."
+   },
+   {
+    "id": "2-ne-31-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "tendo um perfeito esplendor de {0} e amor a Deus e a todos os homens",
+    "blanks": [
+     "esperança"
+    ],
+    "distractors": [
+     "alegria",
+     "paz",
+     "luz"
+    ]
+   },
+   {
+    "id": "2-ne-31-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 31, qual é a 'doutrina de Cristo' que Néfi ensina?",
+    "options": [
+     "Fé em Cristo, arrependimento, batismo, o Espírito Santo e perseverar até o fim",
+     "Apenas guardar os Dez Mandamentos",
+     "Construir templos e oferecer sacrifícios",
+     "Jejuar quarenta dias"
+    ],
+    "answer": 0
+   }
+  ],
+  "32": [
+   {
+    "id": "2-ne-32-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Banqueteai-vos nas palavras de Cristo",
+    "text": "'Banqueteai-vos com as palavras de Cristo, pois elas vos dirão todas as coisas que deveis fazer' (v.3) é um dos convites mais citados do Livro de Mórmon — os anjos falam pelo Espírito Santo e, por isso, falam as palavras de Cristo."
+   },
+   {
+    "id": "2-ne-32-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "Segundo 2 Néfi 32:3, o que as 'palavras de Cristo' farão por quem se banquetear nelas?",
+    "options": [
+     "Dir-lhes-ão todas as coisas que devem fazer",
+     "Revelarão o dia da Segunda Vinda",
+     "Concederão riquezas",
+     "Apagarão toda dor física"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-32-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "só me resta lamentar a {0} e a iniquidade e a ignorância",
+    "blanks": [
+     "incredulidade"
+    ],
+    "distractors": [
+     "soberba",
+     "preguiça",
+     "cobiça"
+    ]
+   },
+   {
+    "id": "2-ne-32-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "Quem ensina a orar",
+    "text": "Néfi dá um critério simples: o Espírito ensina o homem a orar, mas 'o espírito mau ensina-lhe que não deve orar'. O impulso de orar vem de Deus."
+   },
+   {
+    "id": "2-ne-32-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "vos digo que deveis {0} sempre e não desfalecer",
+    "blanks": [
+     "orar"
+    ],
+    "distractors": [
+     "vigiar",
+     "trabalhar",
+     "jejuar"
+    ]
+   }
+  ],
+  "33": [
+   {
+    "id": "2-ne-33-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "o poder do Espírito Santo leva as suas palavras ao {0} dos filhos dos homens",
+    "blanks": [
+     "coração"
+    ],
+    "distractors": [
+     "ouvido",
+     "entendimento",
+     "espírito"
+    ]
+   },
+   {
+    "id": "2-ne-33-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Lágrimas pelo seu povo",
+    "text": "Néfi revela seu amor: ora por seu povo de dia e 'meus olhos molham meu travesseiro durante a noite por causa deles'. Apesar de sua fraqueza no escrever, confia que o Senhor consagrará suas palavras para o bem deles."
+   },
+   {
+    "id": "2-ne-33-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "glorio-me em meu Jesus, pois redimiu minha alma do {0}.",
+    "blanks": [
+     "inferno"
+    ],
+    "distractors": [
+     "pecado",
+     "cativeiro",
+     "abismo"
+    ]
+   },
+   {
+    "id": "2-ne-33-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "Em 2 Néfi 33:7–9, por quem Néfi declara ter caridade?",
+    "options": [
+     "Por seu povo, pelos judeus e pelos gentios",
+     "Apenas por seu próprio povo",
+     "Apenas pelos justos",
+     "Apenas por sua família"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-33-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "A voz de quem clama do pó",
+    "text": "Néfi encerra 2 Néfi com uma despedida solene, falando 'com a voz de quem clama do pó' — uma imagem de Isaías 29 que apresenta seu registro como uma voz que fala mesmo depois da morte. É o fim das suas palavras."
+   },
+   {
+    "id": "2-ne-33-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "falo-vos com a voz de quem clama do {0}: Adeus",
+    "blanks": [
+     "pó"
+    ],
+    "distractors": [
+     "túmulo",
+     "chão",
+     "abismo"
+    ]
+   }
+  ]
+ }
+}

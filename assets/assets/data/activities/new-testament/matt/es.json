@@ -1,0 +1,3268 @@
+{
+  "schema_version": 1,
+  "book": "matt",
+  "chapters": {
+    "1": [
+      {
+        "id": "matt-1-mc-author",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Quién escribió el evangelio de Mateo, y cuál era su ocupación antes de seguir a Jesús?",
+        "options": [
+          "Mateo, un recaudador de impuestos",
+          "Marcos, un pescador",
+          "Lucas, un médico",
+          "Pedro, un sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-mc-audience",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿A quién dirigió Mateo principalmente su evangelio?",
+        "options": [
+          "A los judíos, mostrando que Jesús es el Mesías prometido",
+          "A los romanos",
+          "A los griegos",
+          "A los egipcios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-mc-genealogy",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Por qué comienza Mateo con la genealogía de Jesús desde Abraham y David?",
+        "options": [
+          "Para mostrar que Jesús es el heredero prometido, descendiente de David y Abraham",
+          "Para registrar impuestos",
+          "Para enumerar a los reyes de Egipto",
+          "Para contar los años del cautiverio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-cur-17",
+        "after_verse": 17,
+        "type": "curiosity",
+        "title": "Tres veces catorce",
+        "text": "Mateo organiza la genealogía en tres grupos de catorce generaciones: de Abraham a David, de David al cautiverio en Babilonia, y del cautiverio hasta Cristo."
+      },
+      {
+        "id": "matt-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Y el nacimiento de {0} fue así: Estando María, su madre, desposada con José, antes que se unieran, se halló que había concebido del Espíritu Santo.",
+        "blanks": [
+          "Jesucristo"
+        ],
+        "distractors": [
+          "Juan",
+          "Isaac",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "matt-1-fb-21",
+        "after_verse": 21,
+        "type": "fill_blank",
+        "verse": 21,
+        "template": "llamarás su nombre {0}, porque él salvará a su pueblo de sus pecados",
+        "blanks": [
+          "Jesús"
+        ],
+        "distractors": [
+          "Emanuel",
+          "Juan",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-1-mp-23",
+        "after_verse": 23,
+        "type": "match_pairs",
+        "pairs": [
+          {
+            "left": "Emanuel",
+            "right": "Dios con nosotros"
+          },
+          {
+            "left": "Jesús",
+            "right": "Él salvará a su pueblo"
+          },
+          {
+            "left": "Cristo",
+            "right": "el Ungido"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "matt-2-cur-2",
+        "after_verse": 2,
+        "type": "curiosity",
+        "title": "Los magos y la estrella",
+        "text": "La escritura no dice cuántos eran los magos ni los llama reyes; la tradición de “tres” proviene de los tres regalos. Vinieron del oriente siguiendo una estrella."
+      },
+      {
+        "id": "matt-2-fb-2",
+        "after_verse": 2,
+        "type": "fill_blank",
+        "verse": 2,
+        "template": "Porque su {0} hemos visto en el oriente y venimos a adorarle",
+        "blanks": [
+          "estrella"
+        ],
+        "distractors": [
+          "luz",
+          "gloria",
+          "nube"
+        ]
+      },
+      {
+        "id": "matt-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "y enviándolos a {0}, dijo: Id allá, y preguntad con diligencia acerca del niño y, cuando le halléis, hacédmelo saber, para que yo también vaya y le adore.",
+        "blanks": [
+          "Belén"
+        ],
+        "distractors": [
+          "Nazaret",
+          "Jerusalén",
+          "Galilea"
+        ]
+      },
+      {
+        "id": "matt-2-mc-11",
+        "after_verse": 11,
+        "type": "multiple_choice",
+        "question": "¿Qué regalos ofrecieron los magos al niño Jesús?",
+        "options": [
+          "Oro, incienso y mirra",
+          "Oro, plata y bronce",
+          "Pan, vino y aceite",
+          "Trigo, lana y especias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-2-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Voz fue oída en Ramá, grande lamentación, lloro y gemido; {0} que llora por sus hijos, y no quiso ser consolada, porque perecieron.",
+        "blanks": [
+          "Raquel"
+        ],
+        "distractors": [
+          "Sara",
+          "Rebeca",
+          "Lía"
+        ]
+      },
+      {
+        "id": "matt-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Pero cuando oyó que {0} reinaba en Judea en lugar de Herodes, su padre, temió ir allá; y advertido por revelación, en sueños, se fue a la región de Galilea.",
+        "blanks": [
+          "Arquelao"
+        ],
+        "distractors": [
+          "Herodes",
+          "Pilato",
+          "César"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "matt-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué predicaba Juan el Bautista en el desierto?",
+        "options": [
+          "Arrepentíos, porque el reino de los cielos se ha acercado",
+          "Que el templo sería reconstruido",
+          "Que César era el Mesías",
+          "Que la ley de Moisés fue abolida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-3-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Vestido de pelo de camello",
+        "text": "La ropa de pelo de camello, el cinto de cuero y la comida de langostas y miel silvestre vinculan a Juan con el profeta Elías, que vestía de modo parecido."
+      },
+      {
+        "id": "matt-3-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Dios puede levantar hijos a {0} aun de estas piedras",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Isaac",
+          "Jacob",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "él os bautizará con el Espíritu Santo y con {0}",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "agua",
+          "luz",
+          "aceite"
+        ]
+      },
+      {
+        "id": "matt-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué sucedió cuando Jesús fue bautizado?",
+        "options": [
+          "Los cielos se abrieron y el Espíritu descendió como paloma",
+          "Un terremoto sacudió el Jordán",
+          "Juan vio una columna de fuego",
+          "Una estrella apareció sobre él"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "matt-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cuarenta días",
+        "text": "El ayuno de cuarenta días y cuarenta noches evoca los cuarenta días de Moisés en el monte y los cuarenta años de Israel en el desierto."
+      },
+      {
+        "id": "matt-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Cómo respondió Jesús al tentador que le pidió hacer pan de las piedras?",
+        "options": [
+          "No solo de pan vivirá el hombre, sino de toda palabra de Dios",
+          "Que tenía demasiada hambre para responder",
+          "Que haría el milagro después",
+          "Que el diablo debía adorarlo primero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "le mostró todos los {0} del mundo y la gloria de ellos",
+        "blanks": [
+          "reinos"
+        ],
+        "distractors": [
+          "tesoros",
+          "ejércitos",
+          "pueblos"
+        ]
+      },
+      {
+        "id": "matt-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "vino y habitó en {0}, ciudad marítima",
+        "blanks": [
+          "Capernaúm"
+        ],
+        "distractors": [
+          "Jerusalén",
+          "Belén",
+          "Betania"
+        ]
+      },
+      {
+        "id": "matt-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué prometió Jesús a Simón Pedro y a Andrés al llamarlos?",
+        "options": [
+          "Hacerlos pescadores de hombres",
+          "Riquezas y poder",
+          "Un lugar de honor en el templo",
+          "Sanidad de toda enfermedad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-4-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué hacía Jesús al recorrer toda Galilea?",
+        "options": [
+          "Enseñaba en las sinagogas, predicaba el evangelio y sanaba enfermedades",
+          "Cobraba impuestos para Roma",
+          "Reunía ejércitos contra Herodes",
+          "Reconstruía las sinagogas en ruinas"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "matt-5-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "pairs": [
+          {
+            "left": "Los pobres en espíritu",
+            "right": "el reino de los cielos"
+          },
+          {
+            "left": "Los que lloran",
+            "right": "recibirán consolación"
+          },
+          {
+            "left": "Los mansos",
+            "right": "recibirán la tierra"
+          }
+        ]
+      },
+      {
+        "id": "matt-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Según la bienaventuranza, ¿qué recibirán los de limpio corazón?",
+        "options": [
+          "Verán a Dios",
+          "Recibirán la tierra como heredad",
+          "Recibirán consolación",
+          "Alcanzarán misericordia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Vosotros sois la {0} de la tierra",
+        "blanks": [
+          "sal"
+        ],
+        "distractors": [
+          "luz",
+          "levadura",
+          "semilla"
+        ]
+      },
+      {
+        "id": "matt-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué dijo Jesús sobre la ley y los profetas?",
+        "options": [
+          "No vino para abrogarlos, sino para cumplirlos",
+          "Vino para abolirlos para siempre",
+          "Vino para reescribirlos",
+          "Vino para esconderlos del pueblo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "“Raca” y el concilio",
+        "text": "“Raca” era un término arameo de desprecio, algo como “inútil”. Jesús enseña que aun la ira y el insulto contra el hermano rinden cuentas a Dios."
+      },
+      {
+        "id": "matt-5-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué mandó Jesús hacer antes de presentar la ofrenda en el altar, si tu hermano tiene algo contra ti?",
+        "options": [
+          "Reconciliarte primero con tu hermano",
+          "Duplicar la ofrenda",
+          "Esperar a que el sacerdote decida",
+          "Presentarla en silencio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Qué enseñó Jesús sobre mirar a una mujer para codiciarla?",
+        "options": [
+          "Que ya cometió adulterio con ella en su corazón",
+          "Que es solo un pensamiento sin culpa",
+          "Que debe pagar una multa",
+          "Que basta con ayunar después"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-34",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "ni por {0}, porque es la ciudad del gran Rey",
+        "blanks": [
+          "Jerusalén"
+        ],
+        "distractors": [
+          "Belén",
+          "Samaria",
+          "Nazaret"
+        ]
+      },
+      {
+        "id": "matt-5-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "En respuesta a “ojo por ojo”, ¿qué enseñó Jesús?",
+        "options": [
+          "No resistir al malo y volver la otra mejilla",
+          "Pagar el doble",
+          "Llevar al ofensor a juicio",
+          "Ignorar la ofensa en silencio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Amad a vuestros {0}, bendecid a los que os maldicen",
+        "blanks": [
+          "enemigos"
+        ],
+        "distractors": [
+          "amigos",
+          "hermanos",
+          "vecinos"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "matt-6-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Cómo enseñó Jesús a dar limosna?",
+        "options": [
+          "En secreto, sin hacer tocar trompeta delante de ti",
+          "En público, con anuncio",
+          "Solo ante los sacerdotes",
+          "Solo en días de fiesta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Danos hoy el {0} nuestro de cada día",
+        "blanks": [
+          "pan"
+        ],
+        "distractors": [
+          "vino",
+          "maná",
+          "sustento"
+        ]
+      },
+      {
+        "id": "matt-6-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "“Porque tuyo es el reino”",
+        "text": "El Padrenuestro termina con una doxología — “porque tuyo es el reino, y el poder y la gloria” — que reconoce que todo pertenece a Dios."
+      },
+      {
+        "id": "matt-6-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Cómo enseñó Jesús a ayunar?",
+        "options": [
+          "En secreto, ungiendo la cabeza y lavando el rostro",
+          "Con el rostro triste y demudado",
+          "Anunciando el ayuno en las calles",
+          "Solo en un ayuno colectivo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Limosna",
+            "right": "no sepa tu izquierda lo que hace tu derecha"
+          },
+          {
+            "left": "Oración",
+            "right": "entra en tu aposento y cierra la puerta"
+          },
+          {
+            "left": "Ayuno",
+            "right": "unge tu cabeza y lava tu rostro"
+          }
+        ]
+      },
+      {
+        "id": "matt-6-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "allí estará también vuestro {0}",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "espíritu",
+          "alma",
+          "deseo"
+        ]
+      },
+      {
+        "id": "matt-6-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Dios o las riquezas",
+        "text": "“Mammón” es una palabra aramea para la riqueza, aquí personificada como un señor rival. Jesús dice que nadie puede servir a dos señores."
+      },
+      {
+        "id": "matt-6-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué ejemplo dio Jesús para enseñar a no afanarse?",
+        "options": [
+          "Las aves del cielo, que no siembran ni siegan, y Dios las alimenta",
+          "Las hormigas que guardan alimento",
+          "Los peces del mar",
+          "Los rebaños en el pasto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Mas buscad primeramente el {0} de Dios y su justicia",
+        "blanks": [
+          "reino"
+        ],
+        "distractors": [
+          "templo",
+          "trono",
+          "pueblo"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "matt-7-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué enseñó Jesús sobre ver los defectos del prójimo?",
+        "options": [
+          "Sacar primero la viga del propio ojo",
+          "Denunciarlos en público",
+          "Ignorar todo error ajeno",
+          "Juzgar a los demás con rigor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Pedid",
+            "right": "se os dará"
+          },
+          {
+            "left": "Buscad",
+            "right": "hallaréis"
+          },
+          {
+            "left": "Llamad",
+            "right": "se os abrirá"
+          }
+        ]
+      },
+      {
+        "id": "matt-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cuál es la Regla de Oro que enseñó Jesús?",
+        "options": [
+          "Hacer con los demás lo que queréis que hagan con vosotros",
+          "Cobrar lo que os deben",
+          "Devolver mal por mal",
+          "Ayudar solo a quien os ayuda"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "La puerta estrecha",
+        "text": "Jesús contrasta dos caminos: el ancho, que muchos siguen a la perdición, y el estrecho, que pocos hallan y que lleva a la vida."
+      },
+      {
+        "id": "matt-7-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "pero por dentro son {0} rapaces",
+        "blanks": [
+          "lobos"
+        ],
+        "distractors": [
+          "zorros",
+          "serpientes",
+          "perros"
+        ]
+      },
+      {
+        "id": "matt-7-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Según Jesús, ¿cómo se reconocen los falsos profetas?",
+        "options": [
+          "Por sus frutos",
+          "Por sus vestidos",
+          "Por sus palabras",
+          "Por su origen"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Quién entrará en el reino de los cielos, según Jesús?",
+        "options": [
+          "El que hace la voluntad del Padre, no quien solo dice 'Señor, Señor'",
+          "Quien más profetiza",
+          "Quien echa fuera más demonios",
+          "Quien hace más milagros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "edificó su casa sobre la {0}",
+        "blanks": [
+          "arena"
+        ],
+        "distractors": [
+          "roca",
+          "piedra",
+          "arcilla"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "matt-8-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "su {0} fue limpiada",
+        "blanks": [
+          "lepra"
+        ],
+        "distractors": [
+          "fiebre",
+          "ceguera",
+          "parálisis"
+        ]
+      },
+      {
+        "id": "matt-8-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Por qué se maravilló Jesús del centurión?",
+        "options": [
+          "Por su gran fe, mayor que la hallada en Israel",
+          "Por su riqueza",
+          "Por su rango en el ejército",
+          "Por su humildad ante Herodes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿A quién sanó Jesús de la fiebre al entrar en casa de Pedro?",
+        "options": [
+          "A la suegra de Pedro",
+          "A la hija de Pedro",
+          "A la esposa de Pedro",
+          "A la hermana de Pedro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué respondió Jesús al escriba que prometió seguirle adondequiera?",
+        "options": [
+          "Las zorras tienen guaridas, pero el Hijo del Hombre no tiene dónde recostar la cabeza",
+          "Que volviera a casa",
+          "Que vendiera todo primero",
+          "Que esperara hasta la Pascua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Profecía de Isaías",
+        "text": "Mateo ve en las sanidades de Jesús el cumplimiento de Isaías: 'Él mismo tomó nuestras enfermedades y llevó nuestras dolencias.'"
+      },
+      {
+        "id": "matt-8-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "se levantó en el mar una gran {0}",
+        "blanks": [
+          "tempestad"
+        ],
+        "distractors": [
+          "niebla",
+          "corriente",
+          "calma"
+        ]
+      },
+      {
+        "id": "matt-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué hacía peligroso el camino donde Jesús halló a los dos endemoniados?",
+        "options": [
+          "Eran tan feroces que nadie podía pasar por allí",
+          "Había una tempestad",
+          "Los romanos lo vigilaban",
+          "Era un despeñadero infranqueable"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "todo el hato de {0} se precipitó al mar",
+        "blanks": [
+          "cerdos"
+        ],
+        "distractors": [
+          "ovejas",
+          "cabras",
+          "bueyes"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "matt-9-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué dijo Jesús primero al paralítico, antes de sanarlo?",
+        "options": [
+          "Tus pecados te son perdonados",
+          "Levántate y anda",
+          "Ve, y no peques más",
+          "Tu fe te ha sanado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "el cual se llamaba {0}",
+        "blanks": [
+          "Mateo"
+        ],
+        "distractors": [
+          "Pedro",
+          "Jacobo",
+          "Felipe"
+        ]
+      },
+      {
+        "id": "matt-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Misericordia quiero y no {0}",
+        "blanks": [
+          "sacrificio"
+        ],
+        "distractors": [
+          "juicio",
+          "castigo",
+          "temor"
+        ]
+      },
+      {
+        "id": "matt-9-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Vino nuevo en odres nuevos",
+        "text": "Jesús usa el paño nuevo y el vino nuevo para mostrar que su evangelio no cabe en las formas viejas: necesita odres nuevos para conservarse."
+      },
+      {
+        "id": "matt-9-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué hizo la mujer que por doce años padecía de flujo de sangre?",
+        "options": [
+          "Tocó el borde del manto de Jesús, creyendo que así sería sanada",
+          "Clamó en alta voz",
+          "Lavó los pies de Jesús",
+          "Pidió a los discípulos que oraran"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué dijo Jesús sobre la niña que todos creían muerta?",
+        "options": [
+          "No está muerta, sino que duerme",
+          "Ya no hay esperanza",
+          "Esperad tres días",
+          "Llevadla al templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Qué dijo Jesús a los dos ciegos antes de abrirles los ojos?",
+        "options": [
+          "Conforme a vuestra fe os sea hecho",
+          "Id y lavaos en el Jordán",
+          "No contéis a nadie vuestra petición",
+          "Vuestros pecados son perdonados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Qué dijo Jesús al ver a las multitudes fatigadas, como ovejas sin pastor?",
+        "options": [
+          "La mies es mucha, pero los obreros son pocos",
+          "El fin está cerca",
+          "Volved a vuestras casas",
+          "Buscad primero el reino"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "matt-10-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Los doce apóstoles",
+        "text": "Mateo enumera a los doce por nombre — entre ellos dos pares de hermanos (Pedro y Andrés, Jacobo y Juan) y el propio Mateo, el publicano."
+      },
+      {
+        "id": "matt-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué apóstol es identificado como el que traicionaría a Jesús?",
+        "options": [
+          "Judas Iscariote",
+          "Tomás",
+          "Bartolomé",
+          "Tadeo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué mandó Jesús predicar a los apóstoles?",
+        "options": [
+          "El reino de los cielos se ha acercado",
+          "Que el templo caería",
+          "Que César sería depuesto",
+          "Que la ley fue cumplida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Qué dijo Jesús que los apóstoles NO llevaran en el camino?",
+        "options": [
+          "Oro, plata, cobre ni dos ropas de vestir",
+          "Solo el bordón",
+          "Únicamente pan y agua",
+          "Cartas de recomendación"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "prudentes como {0} y sencillos como palomas",
+        "blanks": [
+          "serpientes"
+        ],
+        "distractors": [
+          "zorras",
+          "águilas",
+          "hormigas"
+        ]
+      },
+      {
+        "id": "matt-10-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según Jesús, ¿quién será salvo en medio de la persecución?",
+        "options": [
+          "El que persevere hasta el fin",
+          "Quien huya primero",
+          "Quien niegue la fe para sobrevivir",
+          "Quien pague el tributo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿A quién dijo Jesús que se debe temer, en vez de a quien mata el cuerpo?",
+        "options": [
+          "A aquel que puede destruir el alma y el cuerpo",
+          "A los gobernantes",
+          "A los falsos profetas",
+          "A los concilios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué prometió Jesús a quien le confiese delante de los hombres?",
+        "options": [
+          "Confesarle también delante del Padre que está en los cielos",
+          "Riquezas en esta vida",
+          "Un lugar en el concilio",
+          "Protección contra la muerte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Qué dijo Jesús que se exige de quien quiere ser digno de él?",
+        "options": [
+          "Amarlo por encima del padre, la madre y los hijos, y tomar su cruz",
+          "Vender todos los bienes",
+          "Ayunar y orar mucho",
+          "Peregrinar a Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "¿Qué dijo Jesús sobre quien recibe a sus discípulos?",
+        "options": [
+          "Quien los recibe, le recibe a él y a quien le envió",
+          "Recibirá riquezas",
+          "Quedará libre de la ley",
+          "Recibirá una señal del cielo"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "matt-11-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué mandó preguntar Juan el Bautista a Jesús, por sus discípulos?",
+        "options": [
+          "Si era aquel que había de venir, o si esperarían a otro",
+          "Cuándo sería liberado de la cárcel",
+          "Si debía seguir bautizando",
+          "Quién sería el mayor en el reino"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Cómo describió Jesús a Juan el Bautista ante las multitudes?",
+        "options": [
+          "Más que un profeta; el mayor entre los nacidos de mujer",
+          "Solo un hombre común",
+          "Un rey vestido con lujo",
+          "Una caña sacudida por el viento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "El mensajero",
+        "text": "Jesús aplica a Juan la profecía de Malaquías sobre el mensajero enviado delante para preparar el camino del Señor."
+      },
+      {
+        "id": "matt-11-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "él es aquel {0} que había de venir",
+        "blanks": [
+          "Elías"
+        ],
+        "distractors": [
+          "Moisés",
+          "Isaías",
+          "Jeremías"
+        ]
+      },
+      {
+        "id": "matt-11-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿A qué comparó Jesús a aquella generación, que no se contentaba ni con Juan ni con él?",
+        "options": [
+          "A los muchachos en la plaza que no bailan ni se lamentan",
+          "A ovejas sin pastor",
+          "A siervos infieles",
+          "A árboles sin fruto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Por qué reprendió Jesús a Corazín y Betsaida?",
+        "options": [
+          "Porque no se arrepintieron, a pesar de los milagros hechos en ellas",
+          "Porque adoraban ídolos",
+          "Porque rechazaron a Juan",
+          "Porque cobraban impuestos injustos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué invitación hizo Jesús a los trabajados y cargados?",
+        "options": [
+          "Venid a mí, y yo os haré descansar",
+          "Id a orar al templo",
+          "Ayunad cuarenta días",
+          "Esperad la venida de Elías"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "matt-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "lo que hizo {0} cuando él y los que con él estaban tuvieron hambre",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Salomón",
+          "Moisés",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "matt-12-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Cómo se declaró Jesús respecto al día de reposo?",
+        "options": [
+          "Señor del día de reposo",
+          "Siervo de la ley",
+          "Juez del templo",
+          "Guardián del día de reposo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué ejemplo dio Jesús para mostrar que es lícito hacer el bien en el día de reposo?",
+        "options": [
+          "Rescatar una oveja caída en un foso en el día de reposo",
+          "Encender el fuego del altar",
+          "Llevar agua al templo",
+          "Segar trigo para los pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "El siervo escogido",
+        "text": "Mateo cita Isaías 42 para presentar a Jesús como el siervo escogido y amado, que anunciará el juicio a los gentiles sin contender ni vocear."
+      },
+      {
+        "id": "matt-12-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "He aquí mi {0}, a quien he escogido",
+        "blanks": [
+          "siervo"
+        ],
+        "distractors": [
+          "hijo",
+          "profeta",
+          "mensajero"
+        ]
+      },
+      {
+        "id": "matt-12-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Cómo describió el profeta la mansedumbre del siervo escogido?",
+        "options": [
+          "La caña cascada no quebrará ni apagará el pabilo que humea",
+          "Reinará con vara de hierro",
+          "Reunirá ejércitos",
+          "Voceará en las calles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿De qué acusaron los fariseos a Jesús al verlo echar fuera demonios?",
+        "options": [
+          "De echarlos fuera por Beelzebú, príncipe de los demonios",
+          "De usar hechicería de Egipto",
+          "De quebrantar el día de reposo",
+          "De blasfemar contra el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué dijo Jesús que probaba que el reino de Dios había llegado?",
+        "options": [
+          "Echar fuera demonios por el Espíritu de Dios",
+          "Sanar en el día de reposo",
+          "Multiplicar los panes",
+          "Andar sobre el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué pecado dijo Jesús que no sería perdonado, ni en este siglo ni en el venidero?",
+        "options": [
+          "La blasfemia contra el Espíritu Santo",
+          "La negación de Pedro",
+          "La duda de Tomás",
+          "La traición de Judas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Qué dijo Jesús sobre las palabras que hablamos?",
+        "options": [
+          "De toda palabra ociosa daremos cuenta en el día del juicio",
+          "Que no tienen importancia",
+          "Que solo Dios las oye",
+          "Que serán olvidadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "¿Qué señal dio Jesús, comparándose con el profeta Jonás?",
+        "options": [
+          "Tres días y tres noches en el corazón de la tierra, como Jonás en el pez",
+          "Un arcoíris sobre Jerusalén",
+          "Fuego del cielo sobre el templo",
+          "Una estrella en el oriente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "¿Qué dijo Jesús que ocurre cuando el espíritu inmundo vuelve a la casa vacía y barrida?",
+        "options": [
+          "Trae otros siete peores, y el último estado es peor que el primero",
+          "Halla la puerta cerrada",
+          "Es echado fuera de nuevo",
+          "Se duerme para siempre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "¿A quién llamó Jesús su madre y sus hermanos?",
+        "options": [
+          "A los que hacen la voluntad de su Padre que está en los cielos",
+          "Solo a sus parientes de sangre",
+          "A los doce apóstoles",
+          "A los sacerdotes del templo"
+        ],
+        "answer": 0
+      }
+    ],
+    "13": [
+      {
+        "id": "matt-13-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "En la parábola del sembrador, ¿qué le pasó a la semilla que cayó junto al camino?",
+        "options": [
+          "Vinieron las aves y se la comieron",
+          "Dio fruto a ciento por uno",
+          "Se secó por no tener raíz",
+          "Fue ahogada por los espinos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Por qué dijo Jesús que hablaba a la gente por parábolas?",
+        "options": [
+          "Porque a los discípulos les es concedido saber los misterios del reino, pero a ellos no",
+          "Para esconder la verdad de todos",
+          "Porque eran más fáciles de memorizar",
+          "Porque la ley lo exigía"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué dijo Jesús sobre los ojos y oídos de los discípulos?",
+        "options": [
+          "Bienaventurados, porque ven y oyen lo que los profetas desearon ver",
+          "Que estaban cerrados al reino",
+          "Que necesitaban ser sanados",
+          "Que verían volver a Elías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Junto al camino",
+            "right": "El malo arrebata lo que fue sembrado"
+          },
+          {
+            "left": "Pedregales",
+            "right": "Recibe con gozo, pero no tiene raíz"
+          },
+          {
+            "left": "Entre espinos",
+            "right": "El afán y las riquezas ahogan la palabra"
+          },
+          {
+            "left": "Buena tierra",
+            "right": "Oye, entiende y da fruto"
+          }
+        ]
+      },
+      {
+        "id": "matt-13-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "En la parábola de la cizaña, ¿qué hizo el enemigo mientras los hombres dormían?",
+        "options": [
+          "Sembró cizaña entre el trigo",
+          "Quemó el granero",
+          "Robó la cosecha",
+          "Derribó las cercas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "es semejante al grano de {0} que un hombre tomó",
+        "blanks": [
+          "mostaza"
+        ],
+        "distractors": [
+          "trigo",
+          "cebada",
+          "centeno"
+        ]
+      },
+      {
+        "id": "matt-13-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "En la explicación de la parábola de la cizaña, ¿qué representa el campo?",
+        "options": [
+          "El mundo",
+          "La iglesia",
+          "Israel",
+          "El templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "¿Qué hizo el hombre al hallar el tesoro escondido en el campo?",
+        "options": [
+          "Vendió todo lo que tenía y compró aquel campo",
+          "Lo repartió con los pobres",
+          "Lo escondió y huyó",
+          "Lo entregó al rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "habiendo hallado una {0} de gran precio",
+        "blanks": [
+          "perla"
+        ],
+        "distractors": [
+          "joya",
+          "moneda",
+          "reliquia"
+        ]
+      },
+      {
+        "id": "matt-13-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "En la parábola de la red, ¿qué harán los ángeles en el fin del mundo?",
+        "options": [
+          "Apartarán a los malos de entre los justos",
+          "Quemarán toda la cosecha",
+          "Recogerán solo las perlas",
+          "Soltarán los peces de vuelta al mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "¿A qué comparó Jesús al escriba que llega a ser discípulo en el reino de los cielos?",
+        "options": [
+          "A un padre de familia que saca de su tesoro cosas nuevas y viejas",
+          "A un sembrador",
+          "A un pescador",
+          "A un rey que hace cuentas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-cur-55",
+        "type": "curiosity",
+        "after_verse": 55,
+        "title": "Los hermanos de Jesús",
+        "text": "Los habitantes de Nazaret nombran a los hermanos de Jesús —Jacobo, José, Simón y Judas— y mencionan también a sus hermanas, mostrándolo como parte de una familia conocida por ellos."
+      },
+      {
+        "id": "matt-13-mc-57",
+        "type": "multiple_choice",
+        "after_verse": 57,
+        "question": "¿Por qué no hizo Jesús muchas obras maravillosas en su propia tierra?",
+        "options": [
+          "A causa de la incredulidad de ellos",
+          "Porque ya era tarde",
+          "Porque los romanos lo prohibieron",
+          "Porque faltaban enfermos"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "matt-14-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "por causa de {0}, esposa de su hermano Felipe",
+        "blanks": [
+          "Herodías"
+        ],
+        "distractors": [
+          "Salomé",
+          "María",
+          "Elisabet"
+        ]
+      },
+      {
+        "id": "matt-14-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué pidió la hija de Herodías a Herodes, instruida por su madre?",
+        "options": [
+          "La cabeza de Juan el Bautista en un plato",
+          "La mitad del reino",
+          "La libertad de Juan",
+          "Oro y vestidos reales"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué hizo Jesús al oír de la muerte de Juan el Bautista?",
+        "options": [
+          "Se apartó en una barca a un lugar desierto",
+          "Fue a confrontar a Herodes",
+          "Subió al templo",
+          "Volvió a Nazaret"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Con cuánto alimentó Jesús a unos cinco mil hombres?",
+        "options": [
+          "Cinco panes y dos peces",
+          "Siete panes y unos pocos peces",
+          "Doce panes y dos peces",
+          "Dos panes y cinco peces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué hizo Jesús en la cuarta vigilia de la noche, yendo hacia los discípulos?",
+        "options": [
+          "Anduvo sobre el mar",
+          "Calmó la tempestad con una palabra",
+          "Apareció en una nube",
+          "Envió un ángel a la barca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Doce cestas",
+        "text": "Después de que cinco mil hombres comieron y se saciaron, sobraron doce cestas llenas de pedazos — más de lo que había al principio."
+      },
+      {
+        "id": "matt-14-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué le pasó a Pedro al andar sobre las aguas para ir a Jesús?",
+        "options": [
+          "Tuvo miedo del viento y comenzó a hundirse",
+          "Llegó fácilmente hasta Jesús",
+          "Se negó a salir de la barca",
+          "Cayó y fue rescatado por Juan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Qué dijeron los que estaban en la barca después de que el viento se calmó?",
+        "options": [
+          "Verdaderamente eres Hijo de Dios",
+          "Es un fantasma",
+          "¿Quién es este?",
+          "Volvamos a tierra"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "matt-15-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Con qué dijo Jesús que los fariseos invalidaban el mandamiento de Dios?",
+        "options": [
+          "Con su tradición",
+          "Con la ley de Moisés",
+          "Con el ayuno",
+          "Con los sacrificios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "“Es mi ofrenda a Dios”",
+        "text": "Algunos declaraban sus bienes como “ofrenda a Dios” (corbán) para librarse del deber de sostener al padre y a la madre — usando una tradición religiosa para esquivar un mandamiento."
+      },
+      {
+        "id": "matt-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "mas su {0} lejos está de mí",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "espíritu",
+          "mente",
+          "deseo"
+        ]
+      },
+      {
+        "id": "matt-15-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Cómo describió Jesús a los fariseos que se ofendieron por su enseñanza?",
+        "options": [
+          "Ciegos guías de ciegos, que caerán en el hoyo",
+          "Lobos vestidos de ovejas",
+          "Sepulcros blanqueados",
+          "Siervos sin fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Según Jesús, ¿qué es lo que realmente contamina al hombre?",
+        "options": [
+          "Lo que sale de la boca, pues procede del corazón",
+          "Lo que entra por la boca",
+          "Comer con las manos sin lavar",
+          "Tocar a los muertos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué pidieron los discípulos a Jesús respecto a la mujer cananea?",
+        "options": [
+          "Que la despidiera, pues daba voces tras ellos",
+          "Que la sanara enseguida",
+          "Que la reprendiera",
+          "Que la llevara al templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué respondió la cananea cuando Jesús habló del pan de los hijos y los perrillos?",
+        "options": [
+          "Que aun los perrillos comen de las migajas de la mesa de sus señores",
+          "Que desistía de su petición",
+          "Que era hija de Abraham",
+          "Que pagaría por el milagro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Por qué tuvo Jesús compasión de la multitud antes de alimentar a los cuatro mil?",
+        "options": [
+          "Porque llevaban tres días con él y no tenían qué comer",
+          "Porque venían de lejos",
+          "Porque estaban enfermos",
+          "Porque pedían una señal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Cuántas cestas de pedazos sobraron después de alimentar a los cuatro mil?",
+        "options": [
+          "Siete",
+          "Doce",
+          "Tres",
+          "Diez"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "matt-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué respondió Jesús a los fariseos y saduceos que pedían una señal del cielo?",
+        "options": [
+          "Sabéis discernir el cielo, pero no las señales de los tiempos",
+          "Que no existía señal alguna",
+          "Que volvieran al templo",
+          "Que esperaran a Elías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Por qué pensaron los discípulos que Jesús hablaba de la levadura porque no trajeron pan?",
+        "options": [
+          "No entendieron que se refería a la doctrina de los fariseos",
+          "Tenían hambre",
+          "Querían comprar pan",
+          "Olvidaron las cestas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué preguntó Jesús a los discípulos en Cesarea de Filipo?",
+        "options": [
+          "Quién decían los hombres que era el Hijo del Hombre",
+          "Cuándo vendría el reino",
+          "Quién traicionaría al Maestro",
+          "Por qué tenían poca fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Tú eres el {0}, el Hijo del Dios viviente",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Maestro",
+          "Profeta",
+          "Rey"
+        ]
+      },
+      {
+        "id": "matt-16-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Pedro y la roca",
+        "text": "El nombre Pedro significa “roca”. Jesús juega con esto al decir “tú eres Pedro, y sobre esta roca edificaré mi iglesia”."
+      },
+      {
+        "id": "matt-16-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué dijo Jesús a Pedro cuando este lo reprendió por hablar de su muerte?",
+        "options": [
+          "Quítate de delante de mí, Satanás",
+          "Bienaventurado eres",
+          "Tú eres Pedro",
+          "No temas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué dijo Jesús sobre quien quiere salvar su propia vida?",
+        "options": [
+          "El que quiera salvarla la perderá; el que la pierda por causa de él la hallará",
+          "Que vivirá para siempre",
+          "Que ganará el mundo",
+          "Que tendrá honra entre los hombres"
+        ],
+        "answer": 0
+      }
+    ],
+    "17": [
+      {
+        "id": "matt-17-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Quién apareció hablando con Jesús cuando se transfiguró en el monte?",
+        "options": [
+          "Moisés y Elías",
+          "Abraham y David",
+          "Elías y Juan",
+          "Moisés e Isaías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué hicieron los discípulos al oír la voz que salió de la nube?",
+        "options": [
+          "Se postraron sobre sus rostros, llenos de miedo",
+          "Huyeron del monte",
+          "Construyeron tres enramadas",
+          "Comenzaron a orar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿A quién se refería Jesús al decir que “Elías ya vino”?",
+        "options": [
+          "A Juan el Bautista",
+          "A Moisés",
+          "A Jeremías",
+          "A sí mismo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "si tuviereis fe como un grano de {0}",
+        "blanks": [
+          "mostaza"
+        ],
+        "distractors": [
+          "trigo",
+          "cebada",
+          "arena"
+        ]
+      },
+      {
+        "id": "matt-17-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Cómo le dijo Jesús a Pedro que pagara el tributo del templo?",
+        "options": [
+          "Sacando una moneda de la boca del primer pez que pescara",
+          "Vendiendo la barca",
+          "Pidiendo a los discípulos",
+          "Negándose a pagar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "La moneda en el pez",
+        "text": "Jesús le dice a Pedro que hallará en la boca de un pez un estatero — una moneda que valía exactamente el tributo de dos personas, lo justo para él y para Pedro."
+      }
+    ],
+    "18": [
+      {
+        "id": "matt-18-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según Jesús, ¿quién es el mayor en el reino de los cielos?",
+        "options": [
+          "Quien se humilla como un niño",
+          "Quien más conoce la ley",
+          "Quien más ayuna",
+          "Quien es más viejo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "una piedra de {0} de asno",
+        "blanks": [
+          "molino"
+        ],
+        "distractors": [
+          "hierro",
+          "mármol",
+          "plomo"
+        ]
+      },
+      {
+        "id": "matt-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué dijo Jesús sobre aquello que te hace caer (mano, pie u ojo)?",
+        "options": [
+          "Es mejor entrar en la vida sin ello que ser echado al fuego",
+          "Que debe esconderse",
+          "Que no tiene importancia",
+          "Que se cura con ayuno"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "En la parábola de la oveja perdida, ¿qué hace el pastor de las cien ovejas?",
+        "options": [
+          "Deja las noventa y nueve y va a buscar la que se descarrió",
+          "Abandona la que se descarrió",
+          "Vende las noventa y nueve",
+          "Espera que la oveja vuelva sola"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué prometió Jesús sobre dos o tres congregados en su nombre?",
+        "options": [
+          "Allí estoy yo en medio de ellos",
+          "Recibirán riquezas",
+          "Quedarán libres de la ley",
+          "Verán una señal del cielo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Cuántas veces dijo Jesús que debemos perdonar a nuestro hermano?",
+        "options": [
+          "Hasta setenta veces siete",
+          "Hasta siete veces",
+          "Hasta diez veces",
+          "Solo una vez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "En la parábola, ¿cuánto le debía al rey el siervo a quien le perdonó todo?",
+        "options": [
+          "Diez mil talentos",
+          "Cien denarios",
+          "Mil monedas",
+          "Siete talentos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Qué hizo el siervo perdonado al hallar a un consiervo que le debía cien denarios?",
+        "options": [
+          "Lo agarró y lo echó en la cárcel hasta que pagase",
+          "Le perdonó la deuda",
+          "Le dio más tiempo",
+          "Pagó la deuda por él"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Diez mil talentos",
+        "text": "La deuda perdonada —diez mil talentos— era una fortuna impagable, mientras que los cien denarios que el siervo cobraba al compañero valían poquísimo: el contraste mide el perdón de Dios."
+      },
+      {
+        "id": "matt-18-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué hizo el señor al saber que el siervo no tuvo compasión de su consiervo?",
+        "options": [
+          "Lo entregó a los verdugos hasta que pagase todo",
+          "Lo perdonó de nuevo",
+          "Le dio otra oportunidad",
+          "Le duplicó la deuda"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "matt-19-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué enseñó Jesús sobre el matrimonio?",
+        "options": [
+          "Lo que Dios unió, no lo separe el hombre",
+          "El hombre puede repudiar a su esposa por cualquier causa",
+          "El matrimonio no importa en el reino",
+          "Solo Moisés podía unir a una pareja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según Jesús, ¿por qué permitió Moisés la carta de divorcio?",
+        "options": [
+          "Por la dureza de su corazón",
+          "Porque Dios lo había mandado desde el principio",
+          "Para agradar a los fariseos",
+          "Porque el matrimonio no era sagrado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Qué dijo Jesús al bendecir a los niños?",
+        "options": [
+          "Dejad a los niños venir a mí, porque de los tales es el reino de los cielos",
+          "Que esperaran hasta crecer",
+          "Que los discípulos los instruyeran primero",
+          "Que volvieran otro día"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué le dijo Jesús al joven rico que quería ser perfecto?",
+        "options": [
+          "Vende lo que tienes, da a los pobres y sígueme",
+          "Guarda solo el día de reposo",
+          "Multiplica tus riquezas",
+          "Edifica una sinagoga"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "pasar por el ojo de una {0}",
+        "blanks": [
+          "aguja"
+        ],
+        "distractors": [
+          "puerta",
+          "cuerda",
+          "argolla"
+        ]
+      },
+      {
+        "id": "matt-19-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "El ojo de una aguja",
+        "text": "La imagen del camello y la aguja — el animal más grande de la región y la abertura más pequeña conocida — era una exageración deliberada para mostrar cuán difícil es confiar en las riquezas en vez de en Dios."
+      },
+      {
+        "id": "matt-19-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué prometió Jesús a los que le habían seguido?",
+        "options": [
+          "Sentarse en doce tronos para juzgar a las doce tribus de Israel",
+          "Riquezas en esta vida",
+          "Un lugar en el gobierno de Roma",
+          "No volver a tener hambre"
+        ],
+        "answer": 0
+      }
+    ],
+    "20": [
+      {
+        "id": "matt-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Con qué comparó Jesús el reino de los cielos en esta parábola?",
+        "options": [
+          "Un padre de familia que contrata obreros para su viña",
+          "Un rey que va a la guerra",
+          "Un pescador con su red",
+          "Un pastor de ovejas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cuánto recibió cada obrero, fuese de la primera o de la última hora?",
+        "options": [
+          "Un denario",
+          "Dos denarios",
+          "Nada",
+          "Una viña"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El denario",
+        "text": "Un denario era el jornal de un día entero. Por eso pagar lo mismo a quien trabajó solo una hora sonaba escandaloso — y ese es justamente el punto de la parábola sobre la gracia."
+      },
+      {
+        "id": "matt-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "los primeros serán postreros y los postreros, {0}",
+        "blanks": [
+          "primeros"
+        ],
+        "distractors": [
+          "siervos",
+          "mayores",
+          "llamados"
+        ]
+      },
+      {
+        "id": "matt-20-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué pidió a Jesús la madre de los hijos de Zebedeo?",
+        "options": [
+          "Que sus dos hijos se sentaran a su derecha e izquierda en el reino",
+          "Que sanara a sus hijos",
+          "Que perdonara una deuda",
+          "Que les enseñara a orar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "sino para servir y para dar su vida en {0} por muchos",
+        "blanks": [
+          "rescate"
+        ],
+        "distractors": [
+          "herencia",
+          "ofrenda",
+          "tributo"
+        ]
+      },
+      {
+        "id": "matt-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué pidieron a Jesús los dos ciegos cerca de Jericó?",
+        "options": [
+          "Que fuesen abiertos sus ojos",
+          "Pan para comer",
+          "Un lugar en el reino",
+          "Que reprendiera a la multitud"
+        ],
+        "answer": 0
+      }
+    ],
+    "21": [
+      {
+        "id": "matt-21-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Cómo dijo el profeta que vendría el Rey a la hija de Sion?",
+        "options": [
+          "Manso, y sentado sobre un asna y un pollino",
+          "En un carro de fuego",
+          "Al frente de un ejército",
+          "Sobre las nubes del cielo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Hosanna al Hijo de {0}",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Abraham",
+          "Moisés",
+          "Salomón"
+        ]
+      },
+      {
+        "id": "matt-21-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Qué significa \"Hosanna\"",
+        "text": "\"Hosanna\" viene del hebreo y significa \"sálvanos ahora\". La multitud saludaba a Jesús con palabras del Salmo 118, reconociéndolo como el Rey prometido."
+      },
+      {
+        "id": "matt-21-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Al purificar el templo, ¿en qué dijo Jesús que lo habían convertido?",
+        "options": [
+          "Una cueva de ladrones",
+          "Una casa de fiesta",
+          "Un mercado de ganado",
+          "Una fortaleza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Quiénes clamaban \"Hosanna al Hijo de David\" en el templo, irritando a los sacerdotes?",
+        "options": [
+          "Los niños",
+          "Los soldados romanos",
+          "Los fariseos",
+          "Los mercaderes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué le sucedió a la higuera que Jesús halló solo con hojas?",
+        "options": [
+          "Se secó al instante",
+          "Dio fruto al instante",
+          "Creció hasta el cielo",
+          "Se incendió"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Cómo respondió Jesús a los que cuestionaron su autoridad?",
+        "options": [
+          "Les preguntó de dónde era el bautismo de Juan",
+          "Les mostró una moneda",
+          "Citó a los profetas",
+          "Llamó a los ángeles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "En la parábola de los dos hijos, ¿cuál hizo la voluntad del padre?",
+        "options": [
+          "El que dijo \"no quiero\", pero después se arrepintió y fue",
+          "El que dijo \"sí, señor, voy\", y fue",
+          "Ninguno de los dos",
+          "Ambos por igual"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "En la parábola, ¿qué hicieron los labradores con los siervos que envió el dueño?",
+        "options": [
+          "A uno golpearon, a otro mataron y a otro apedrearon",
+          "Los recibieron con fiesta",
+          "Les pagaron el fruto",
+          "Huyeron de ellos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "¿Qué hicieron los labradores cuando el dueño envió a su propio hijo?",
+        "options": [
+          "Lo mataron para tomar la heredad",
+          "Lo respetaron",
+          "Devolvieron el fruto",
+          "Pidieron perdón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "¿Con qué se comparó Jesús al citar \"la piedra que desecharon los edificadores\"?",
+        "options": [
+          "La cabeza del ángulo (piedra angular)",
+          "Un trono",
+          "Una torre del templo",
+          "Un altar"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "matt-22-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "En la parábola de las bodas, ¿cómo reaccionaron los primeros invitados?",
+        "options": [
+          "No hicieron caso y se fueron a sus asuntos",
+          "Vinieron con alegría",
+          "Trajeron regalos",
+          "Avisaron al rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿A quiénes reunieron los siervos para llenar las bodas?",
+        "options": [
+          "A todos los que hallaron, tanto malos como buenos",
+          "Solo a los ricos",
+          "Solo a los parientes del rey",
+          "Solo a los sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Porque muchos son los llamados, pero pocos los {0}",
+        "blanks": [
+          "escogidos"
+        ],
+        "distractors": [
+          "salvos",
+          "dignos",
+          "justos"
+        ]
+      },
+      {
+        "id": "matt-22-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Dad, pues, a {0} lo que es de César",
+        "blanks": [
+          "César"
+        ],
+        "distractors": [
+          "Herodes",
+          "Pilato",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-22-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "La moneda del tributo",
+        "text": "El denario del tributo llevaba la efigie y el título del emperador romano. Al pedir la moneda, Jesús expuso que quienes lo cuestionaban ya usaban el dinero de César."
+      },
+      {
+        "id": "matt-22-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué caso presentaron los saduceos para negar la resurrección?",
+        "options": [
+          "Siete hermanos que, uno tras otro, tuvieron la misma esposa",
+          "Un hombre que vivió mil años",
+          "Dos reyes en guerra",
+          "Una viuda y dos monedas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Cómo probó Jesús la resurrección frente a los saduceos?",
+        "options": [
+          "Dios es el Dios de Abraham, Isaac y Jacob — de los vivos, no de los muertos",
+          "Citando la ley del divorcio",
+          "Por el número de los justos",
+          "Por la parábola de la viña"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Según Jesús, ¿cuál es el primero y gran mandamiento?",
+        "options": [
+          "Amar a Dios con todo el corazón, alma y mente",
+          "Guardar el día de reposo",
+          "Honrar a padre y madre",
+          "No matarás"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Fariseos y herodianos",
+            "right": "el tributo a César"
+          },
+          {
+            "left": "Saduceos",
+            "right": "la resurrección de los muertos"
+          },
+          {
+            "left": "Un intérprete de la ley",
+            "right": "el gran mandamiento"
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "matt-23-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué criticó Jesús en los escribas y fariseos que se sentaban en la cátedra de Moisés?",
+        "options": [
+          "Dicen, pero no hacen",
+          "Ayunan demasiado",
+          "No conocen la ley",
+          "No van a la sinagoga"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué trato amaban recibir de los hombres los escribas y fariseos?",
+        "options": [
+          "Ser llamados Rabí",
+          "Ser llamados siervos",
+          "Ser llamados pecadores",
+          "Ser llamados extranjeros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "y el que se humilla será {0}",
+        "blanks": [
+          "enaltecido"
+        ],
+        "distractors": [
+          "humillado",
+          "juzgado",
+          "olvidado"
+        ]
+      },
+      {
+        "id": "matt-23-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "En el \"ay\" sobre los juramentos, ¿qué dijo Jesús que era mayor?",
+        "options": [
+          "El templo, que santifica el oro",
+          "El oro, que santifica el templo",
+          "El altar, que santifica el templo",
+          "La ofrenda, que santifica el altar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Diezmaban la menta, el eneldo y el comino, pero omitían lo más importante de la ley. ¿Qué era?",
+        "options": [
+          "La justicia, la misericordia y la fe",
+          "El ayuno, la oración y la limosna",
+          "El día de reposo y las fiestas",
+          "El templo y el altar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Con qué comparó Jesús a los escribas y fariseos hipócritas?",
+        "options": [
+          "Sepulcros blanqueados, hermosos por fuera y llenos de huesos por dentro",
+          "Árboles sin fruto",
+          "Casas sobre la arena",
+          "Lobos con piel de oveja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Sepulcros blanqueados",
+        "text": "Antes de la Pascua, las tumbas se pintaban de blanco para que los peregrinos no las tocaran por error y quedaran ceremonialmente impuros. Jesús usa esa imagen conocida: hermosos por fuera, impuros por dentro."
+      },
+      {
+        "id": "matt-23-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "¿De qué dijo Jesús que los fariseos eran testigos contra sí mismos?",
+        "options": [
+          "De ser hijos de los que mataron a los profetas",
+          "De guardar bien la ley",
+          "De ayunar demasiado",
+          "De edificar el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "como la {0} junta sus polluelos debajo de las alas",
+        "blanks": [
+          "gallina"
+        ],
+        "distractors": [
+          "paloma",
+          "águila",
+          "oveja"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "matt-24-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Cuál fue la primera advertencia de Jesús sobre los últimos días?",
+        "options": [
+          "Que nadie los engañara, pues muchos vendrían en su nombre",
+          "Que vendieran todo",
+          "Que huyeran enseguida",
+          "Que reedificaran el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué dijo Jesús sobre las guerras y los rumores de guerras?",
+        "options": [
+          "Que no se turbaran, pues aún no era el fin",
+          "Que era el fin del mundo",
+          "Que tomaran las armas",
+          "Que se escondieran en los montes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El templo destruido",
+        "text": "Jesús dijo que no quedaría piedra sobre piedra del templo. En el año 70 d.C., unos cuarenta años después, los romanos destruyeron Jerusalén y el templo, cumpliendo literalmente la profecía."
+      },
+      {
+        "id": "matt-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Pero el que persevere hasta el fin, este será {0}",
+        "blanks": [
+          "salvo"
+        ],
+        "distractors": [
+          "juzgado",
+          "llamado",
+          "probado"
+        ]
+      },
+      {
+        "id": "matt-24-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "de la cual habló el profeta {0}",
+        "blanks": [
+          "Daniel"
+        ],
+        "distractors": [
+          "Isaías",
+          "Jeremías",
+          "Ezequiel"
+        ]
+      },
+      {
+        "id": "matt-24-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Por causa de quiénes serían acortados aquellos días de gran tribulación?",
+        "options": [
+          "Por causa de los escogidos",
+          "Por causa de los ricos",
+          "Por causa de los sacerdotes",
+          "Por causa de Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Con qué comparó Jesús la venida del Hijo del Hombre?",
+        "options": [
+          "Al relámpago que sale del oriente y se muestra hasta el occidente",
+          "A un ladrón que duerme",
+          "A un río que se seca",
+          "A una semilla escondida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "El sol",
+            "right": "se oscurecerá"
+          },
+          {
+            "left": "La luna",
+            "right": "no dará su luz"
+          },
+          {
+            "left": "Las estrellas",
+            "right": "caerán del cielo"
+          }
+        ]
+      },
+      {
+        "id": "matt-24-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "pero mis palabras no {0}",
+        "blanks": [
+          "pasarán"
+        ],
+        "distractors": [
+          "fallarán",
+          "cesarán",
+          "cambiarán"
+        ]
+      },
+      {
+        "id": "matt-24-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "¿Qué imagen usó Jesús para la separación en su venida?",
+        "options": [
+          "Dos en el campo: uno tomado, el otro dejado",
+          "Dos barcos en el mar",
+          "Dos ciudades en guerra",
+          "Dos reyes en un trono"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "¿Qué consejo dio Jesús porque el Hijo del Hombre viene a una hora inesperada?",
+        "options": [
+          "Estad preparados",
+          "Acumulad riquezas",
+          "Construid muros",
+          "Dormid tranquilos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-49",
+        "type": "multiple_choice",
+        "after_verse": 49,
+        "question": "¿Qué distingue al siervo fiel del siervo malo en la parábola final?",
+        "options": [
+          "El fiel cuida la casa; el malo golpea a sus consiervos y se embriaga",
+          "El fiel es más rico",
+          "El malo es mayor",
+          "Nada los distingue"
+        ],
+        "answer": 0
+      }
+    ],
+    "25": [
+      {
+        "id": "matt-25-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "¿Cuánto valía un talento?",
+        "text": "El “talento” era una unidad de peso; en plata equivalía a muchos años del salario de un obrero. El siervo que enterró “un” talento escondió, aun así, una pequeña fortuna."
+      },
+      {
+        "id": "matt-25-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Cuántas de las diez vírgenes eran prudentes?",
+        "options": [
+          "Cinco",
+          "Diez",
+          "Tres",
+          "Siete"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué lección sacó Jesús de las diez vírgenes?",
+        "options": [
+          "Velar, pues no sabéis el día ni la hora",
+          "Vender todo lo que se tiene",
+          "Ayunar cuarenta días",
+          "Reedificar el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Cuántos talentos recibió el tercer siervo?",
+        "options": [
+          "Uno",
+          "Cinco",
+          "Dos",
+          "Diez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué dijo el señor a los siervos que multiplicaron sus talentos?",
+        "options": [
+          "“Bien, buen siervo y fiel”",
+          "“No te conozco”",
+          "“Apártate de mí”",
+          "“Quítate de delante”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Qué hizo el siervo negligente con su talento?",
+        "options": [
+          "Lo escondió en la tierra",
+          "Lo dio a los banqueros",
+          "Compró un campo",
+          "Lo repartió a los pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mp-36",
+        "type": "match_pairs",
+        "after_verse": 36,
+        "pairs": [
+          {
+            "left": "Tuve hambre",
+            "right": "Me disteis de comer"
+          },
+          {
+            "left": "Tuve sed",
+            "right": "Me disteis de beber"
+          },
+          {
+            "left": "Fui forastero",
+            "right": "Me recogisteis"
+          },
+          {
+            "left": "Estuve desnudo",
+            "right": "Me cubristeis"
+          }
+        ]
+      },
+      {
+        "id": "matt-25-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Servir “a uno de estos más pequeños”, dijo el Rey, ¿es como hacerlo a quién?",
+        "options": [
+          "A él mismo",
+          "A los ángeles",
+          "A los profetas",
+          "A los sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿Adónde irán los justos, según el versículo 46?",
+        "options": [
+          "A la vida eterna",
+          "Al tormento eterno",
+          "Al fuego eterno",
+          "A las tinieblas de afuera"
+        ],
+        "answer": 0
+      }
+    ],
+    "26": [
+      {
+        "id": "matt-26-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Getsemaní: el “lagar de aceite”",
+        "text": "El nombre Getsemaní significa “lagar de aceite”. Era un huerto de olivos en el Monte de los Olivos donde se prensaban las aceitunas, imagen de lo que Jesús sufrió allí."
+      },
+      {
+        "id": "matt-26-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿En el patio de qué sumo sacerdote se reunieron los líderes para tramar contra Jesús?",
+        "options": [
+          "Caifás",
+          "Anás",
+          "Herodes",
+          "Pilato"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿En casa de quién fue ungido Jesús en Betania?",
+        "options": [
+          "Simón el leproso",
+          "Lázaro",
+          "Mateo",
+          "Zaqueo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué dijo Jesús que la mujer derramó el perfume sobre él?",
+        "options": [
+          "Para prepararlo para su sepultura",
+          "Para coronarlo rey",
+          "Para sanarlo de una enfermedad",
+          "Para honrar el día de reposo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 15,
+        "template": "le pesaron {0} piezas de plata",
+        "blanks": [
+          "treinta"
+        ],
+        "distractors": [
+          "veinte",
+          "cuarenta",
+          "cincuenta"
+        ]
+      },
+      {
+        "id": "matt-26-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Cómo indicó Jesús en la mesa quién lo entregaría?",
+        "options": [
+          "“El que mete la mano conmigo en el plato”",
+          "“El que se sienta a mi derecha”",
+          "“El primero que salga de esta sala”",
+          "“El más joven entre vosotros”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "En la última cena, ¿qué dijo Jesús que representaba el pan?",
+        "options": [
+          "Su cuerpo",
+          "Su sangre",
+          "El nuevo convenio",
+          "La Pascua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Cuántas veces dijo Jesús que Pedro lo negaría?",
+        "options": [
+          "Tres",
+          "Una",
+          "Dos",
+          "Siete"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿A qué lugar fue Jesús a orar en agonía?",
+        "options": [
+          "Getsemaní",
+          "Gólgota",
+          "Betania",
+          "Galilea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿Cuántas veces oró Jesús en Getsemaní?",
+        "options": [
+          "Tres veces",
+          "Una vez",
+          "Dos veces",
+          "Siete veces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "¿Qué señal acordó Judas para identificar a Jesús?",
+        "options": [
+          "Un beso",
+          "Un apretón de manos",
+          "Un saludo con la mano",
+          "Un grito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-fb-56",
+        "type": "fill_blank",
+        "after_verse": 56,
+        "verse": 53,
+        "template": "más de {0} legiones de ángeles",
+        "blanks": [
+          "doce"
+        ],
+        "distractors": [
+          "diez",
+          "siete",
+          "setenta"
+        ]
+      },
+      {
+        "id": "matt-26-mc-61",
+        "type": "multiple_choice",
+        "after_verse": 61,
+        "question": "¿De qué acusaron a Jesús los testigos falsos?",
+        "options": [
+          "De decir que podía derribar el templo y reedificarlo en tres días",
+          "De negar la Pascua",
+          "De robar el tesoro del templo",
+          "De negar a César"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "¿Qué decidió el consejo que Jesús era?",
+        "options": [
+          "Culpable de muerte",
+          "Inocente",
+          "Un profeta",
+          "Un zelote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-71",
+        "type": "multiple_choice",
+        "after_verse": 71,
+        "question": "¿Qué hizo Pedro cuando lo acusaron de estar con Jesús?",
+        "options": [
+          "Lo negó",
+          "Huyó a Galilea",
+          "Lo confesó",
+          "Sacó la espada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-75",
+        "type": "multiple_choice",
+        "after_verse": 75,
+        "question": "¿Qué sucedió inmediatamente después de la tercera negación de Pedro?",
+        "options": [
+          "Cantó el gallo",
+          "Hubo un terremoto",
+          "Se rasgó el velo",
+          "Jesús apareció"
+        ],
+        "answer": 0
+      }
+    ],
+    "27": [
+      {
+        "id": "matt-27-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Gólgota, el “lugar de la calavera”",
+        "text": "“Gólgota” viene del arameo y significa “lugar de la calavera” (Calvario en latín). Era un sitio de ejecución fuera de los muros de Jerusalén."
+      },
+      {
+        "id": "matt-27-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué hizo Judas al ver que Jesús era condenado?",
+        "options": [
+          "Se ahorcó",
+          "Huyó de Jerusalén",
+          "Pidió perdón a Jesús",
+          "Negó conocerlo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Qué se compró con las treinta piezas de plata?",
+        "options": [
+          "El campo del alfarero",
+          "Una viña",
+          "Un sepulcro nuevo",
+          "Una casa en Betania"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Cómo respondió Jesús a las muchas acusaciones ante Pilato?",
+        "options": [
+          "No respondió nada",
+          "Lo negó todo",
+          "Acusó a los sacerdotes",
+          "Pidió un defensor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 16,
+        "template": "un preso famoso que se llamaba {0}",
+        "blanks": [
+          "Barrabás"
+        ],
+        "distractors": [
+          "Caifás",
+          "Lázaro",
+          "Judas"
+        ]
+      },
+      {
+        "id": "matt-27-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué hizo Pilato para declararse inocente de la sangre de Jesús?",
+        "options": [
+          "Se lavó las manos delante del pueblo",
+          "Soltó a Jesús",
+          "Rasgó sus vestiduras",
+          "Escribió a César"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 29,
+        "template": "una corona tejida de {0}",
+        "blanks": [
+          "espinas"
+        ],
+        "distractors": [
+          "oro",
+          "plata",
+          "laurel"
+        ]
+      },
+      {
+        "id": "matt-27-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Quién fue obligado a llevar la cruz de Jesús?",
+        "options": [
+          "Simón de Cirene",
+          "Simón Pedro",
+          "José de Arimatea",
+          "Barrabás"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "¿Quiénes fueron crucificados con Jesús, uno a cada lado?",
+        "options": [
+          "Dos ladrones",
+          "Dos soldados",
+          "Dos discípulos",
+          "Dos sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "¿Qué clamó Jesús a gran voz cerca de la hora novena?",
+        "options": [
+          "“Dios mío, Dios mío, ¿por qué me has desamparado?”",
+          "“Padre, perdónalos”",
+          "“Consumado es”",
+          "“En tus manos encomiendo mi espíritu”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-54",
+        "type": "multiple_choice",
+        "after_verse": 54,
+        "question": "¿Qué dijo el centurión al ver el terremoto?",
+        "options": [
+          "“Verdaderamente este era el Hijo de Dios”",
+          "“No conozco a este hombre”",
+          "“Inocente soy de su sangre”",
+          "“Resucitará al tercer día”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-61",
+        "type": "multiple_choice",
+        "after_verse": 61,
+        "question": "¿Quién pidió a Pilato el cuerpo de Jesús y lo sepultó?",
+        "options": [
+          "José de Arimatea",
+          "Nicodemo",
+          "Simón Pedro",
+          "José el carpintero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "¿Qué pidieron los principales sacerdotes a Pilato después de la sepultura?",
+        "options": [
+          "Poner una guardia y sellar el sepulcro",
+          "Soltar a Barrabás",
+          "Devolver el cuerpo a José",
+          "Crucificar a los discípulos"
+        ],
+        "answer": 0
+      }
+    ],
+    "28": [
+      {
+        "id": "matt-28-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "La “Gran Comisión”",
+        "text": "Los versículos 19–20 se llaman la “Gran Comisión”: el mandato de Jesús de llevar el evangelio a todas las naciones. Es el único lugar en Mateo que nombra al Padre, al Hijo y al Espíritu Santo juntos."
+      },
+      {
+        "id": "matt-28-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Quién removió la piedra de la puerta del sepulcro?",
+        "options": [
+          "Un ángel del Señor",
+          "Un soldado",
+          "Los discípulos",
+          "María Magdalena"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-28-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 6,
+        "template": "porque ha {0}, así como dijo",
+        "blanks": [
+          "resucitado"
+        ],
+        "distractors": [
+          "partido",
+          "dormido",
+          "huido"
+        ]
+      },
+      {
+        "id": "matt-28-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué historia pagaron a los soldados para que contaran?",
+        "options": [
+          "Que los discípulos robaron el cuerpo de noche",
+          "Que el cuerpo se hizo polvo",
+          "Que vieron a Jesús ascender",
+          "Que un ángel se llevó el cuerpo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-28-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿En el nombre de quién mandó Jesús bautizar a todas las naciones?",
+        "options": [
+          "Del Padre, del Hijo y del Espíritu Santo",
+          "Solo del Padre",
+          "De Moisés y los profetas",
+          "De los apóstoles"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

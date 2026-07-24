@@ -1,0 +1,1564 @@
+{
+  "schema_version": 1,
+  "book": "ether",
+  "chapters": {
+    "1": [
+      {
+        "id": "ether-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Las veinticuatro planchas de oro",
+        "text": "La fuente de Moroni son las veinticuatro planchas de oro halladas por una expedición que el rey Limhi envió (Mosíah 8). Habían dado con las ruinas de la nación jaredita destruida mucho antes de que alguien pudiera leerlas."
+      },
+      {
+        "id": "ether-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿De qué planchas tomó Moroni el relato de los jareditas?",
+        "options": [
+          "Las veinticuatro planchas halladas por el pueblo de Limhi",
+          "Las planchas de bronce de Labán",
+          "Las planchas de Nefi",
+          "Las planchas de Mormón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Quién escribió el registro original que Moroni compendia aquí?",
+        "options": [
+          "Éter, descendiente de Coriantor",
+          "Jared",
+          "El propio Moroni",
+          "El rey Limhi"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Cómo está ordenada la larga genealogía de este capítulo?",
+        "options": [
+          "En orden inverso, desde Éter hasta el primer padre",
+          "Del más antiguo al más reciente",
+          "Por la duración de cada reinado",
+          "En orden alfabético"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Nombres que se repiten",
+        "text": "A lo largo de este largo linaje, nombres como Com, Coriántum y Het aparecen más de una vez en generaciones distintas: señal de que Moroni copia fielmente un registro real, de muchas generaciones."
+      },
+      {
+        "id": "ether-1-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Quién es el Moroni que compendia este registro de un pueblo desaparecido?",
+        "options": [
+          "El hijo de Mormón, el último escritor nefita",
+          "Un rey jaredita",
+          "El hermano de Jared",
+          "Uno de los tres testigos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Por qué comenzó Moroni su relato 'desde la torre en adelante', y no desde Adán?",
+        "options": [
+          "La historia anterior, de la creación hasta la torre, ya estaba entre los judíos",
+          "No la conocía",
+          "Las planchas eran demasiado pequeñas",
+          "Estaba prohibido escribir sobre Adán"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Todas estas generaciones se remontan a un hombre que vino de la gran torre. ¿Cuál era su nombre?",
+        "options": [
+          "Jared",
+          "Éter",
+          "Oríah",
+          "Corihor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "el Señor confundió el {0} del pueblo",
+        "blanks": [
+          "lenguaje"
+        ],
+        "distractors": [
+          "corazón",
+          "camino",
+          "pensamiento"
+        ]
+      },
+      {
+        "id": "ether-1-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Qué pidió Jared a su hermano que suplicara al Señor en la gran torre?",
+        "options": [
+          "Que el Señor no confundiera su lengua",
+          "Que lloviera para acabar el hambre",
+          "Que un rey los gobernara",
+          "Que fueran librados de Egipto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-1-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "una región que sea la más {0} de toda la tierra",
+        "blanks": [
+          "favorecida"
+        ],
+        "distractors": [
+          "bendecida",
+          "próspera",
+          "lejana"
+        ]
+      },
+      {
+        "id": "ether-1-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "¿Qué prometió el Señor levantar de la posteridad de Jared y de su hermano?",
+        "options": [
+          "Una gran nación, mayor que ninguna otra en la tierra",
+          "Un linaje de profetas",
+          "Un nuevo templo",
+          "Un ejército poderoso"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "ether-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿De quién recibió el nombre el valle al que descendieron los jareditas?",
+        "options": [
+          "Nimrod, el fuerte cazador",
+          "Jared",
+          "Éter",
+          "Noé"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Deseret, la abeja",
+        "text": "El versículo 3 dice 'deseret, que, interpretado, es una abeja'. Esa palabra más tarde dio nombre al propuesto estado pionero de Deseret y sigue siendo símbolo de laboriosidad para los Santos de los Últimos Días."
+      },
+      {
+        "id": "ether-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Cuál es el decreto eterno sobre esta tierra escogida?",
+        "options": [
+          "Quien la posea debe servir a Dios o será exterminado cuando madure en la iniquidad",
+          "Nunca podrá ser conquistada",
+          "Solo jareditas pueden habitarla",
+          "Jamás conocerá guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-2-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿A quién identifica Moroni como el Dios de esta tierra?",
+        "options": [
+          "Jesucristo",
+          "Moisés",
+          "El hermano de Jared",
+          "Un ángel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-2-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Reprendido por tres horas",
+        "text": "El Señor habló con el hermano de Jared por tres horas, reprendiéndolo por haberse olvidado de invocar el nombre del Señor: un recordatorio impactante de que aun los grandes profetas pueden descuidar la oración."
+      },
+      {
+        "id": "ether-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "el fondo estaba ajustado como un {0}",
+        "blanks": [
+          "vaso"
+        ],
+        "distractors": [
+          "jarro",
+          "barril",
+          "cántaro"
+        ]
+      },
+      {
+        "id": "ether-2-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "seréis como una {0} en medio del mar",
+        "blanks": [
+          "ballena"
+        ],
+        "distractors": [
+          "serpiente",
+          "tortuga",
+          "ave"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "ether-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "de una roca fundió {0} piedras pequeñas",
+        "blanks": [
+          "dieciséis"
+        ],
+        "distractors": [
+          "doce",
+          "ocho",
+          "veinte"
+        ]
+      },
+      {
+        "id": "ether-3-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué vio el hermano de Jared cuando el Señor tocó las piedras?",
+        "options": [
+          "El dedo del Señor, como carne y sangre",
+          "Una columna de fuego",
+          "Un ángel con una espada",
+          "Su propio reflejo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-3-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "La fe que atravesó el velo",
+        "text": "El Señor dice que nadie había comparecido jamás ante Él con una fe tan grande. Como el hermano de Jared sabía, 'sin dudar nada', no pudo ser impedido de ver tras el velo y contempló al Cristo premortal."
+      },
+      {
+        "id": "ether-3-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Soy el {0} y el Hijo",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Verbo",
+          "Rey",
+          "Cordero"
+        ]
+      },
+      {
+        "id": "ether-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué enseñó el Señor sobre el cuerpo que contempló el hermano de Jared?",
+        "options": [
+          "Era el cuerpo de su espíritu, según el cual fue creado el hombre",
+          "Era solo una visión, no real",
+          "Era el cuerpo de un ángel",
+          "Nunca tomaría carne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-3-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Los dos intérpretes",
+        "text": "Las dos piedras que el Señor da para sellar con el registro son intérpretes: lo que escrituras posteriores llaman el Urim y Tumim, preparados para traducir el escrito sellado en su debido tiempo."
+      },
+      {
+        "id": "ether-3-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Tras la visión de Cristo, ¿qué más mostró el Señor al hermano de Jared?",
+        "options": [
+          "Todos los habitantes de la tierra que hubo y habría",
+          "Un mapa de la tierra prometida",
+          "El día de su propia muerte",
+          "Las planchas de Nefi"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-3-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué se le mandó al hermano de Jared hacer con las cosas que vio?",
+        "options": [
+          "Escribirlas y sellarlas hasta el debido tiempo del Señor",
+          "Contarlas a todo el pueblo de inmediato",
+          "Olvidarlas por completo",
+          "Grabarlas en la montaña"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "ether-4-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Quién guardó los escritos sellados hasta que Cristo se mostró a su pueblo?",
+        "options": [
+          "El rey Mosíah",
+          "El rey Limhi",
+          "Nefi",
+          "Alma"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Cuándo revelará el Señor lo que vio el hermano de Jared?",
+        "options": [
+          "Cuando ejerzan fe como el hermano de Jared y sean santificados",
+          "Nunca más",
+          "Solo a los ángeles",
+          "En la creación de un mundo nuevo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "yo soy la luz, y la {0}, y la verdad del mundo",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "paz",
+          "gracia",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "ether-4-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Las revelaciones de Juan",
+        "text": "Los dos tercios sellados de las planchas incluyen una visión paralela a la de Juan el Revelador, que se desplegará solo cuando Israel rasgue 'el velo de la incredulidad'."
+      },
+      {
+        "id": "ether-4-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Las revelaciones selladas de quién se desplegarán cuando Israel rasgue el velo de la incredulidad?",
+        "options": [
+          "Las escritas por Juan",
+          "Las escritas por Isaías",
+          "Las escritas por Nefi",
+          "Las escritas por Moisés"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "ether-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una carta al traductor",
+        "text": "Escribiendo alrededor de 421 d.C., Moroni habla directamente a quien un día traduciría las planchas: palabras leídas más tarde por José Smith, a más de catorce siglos de distancia."
+      },
+      {
+        "id": "ether-5-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿A cuántos testigos se mostrarían las planchas por el poder de Dios?",
+        "options": [
+          "Tres",
+          "Dos",
+          "Doce",
+          "Ocho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "en boca de {0} testigos se establecerán estas cosas",
+        "blanks": [
+          "tres"
+        ],
+        "distractors": [
+          "dos",
+          "cuatro",
+          "doce"
+        ]
+      },
+      {
+        "id": "ether-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Cuándo dice Moroni que se confirmará su autoridad?",
+        "options": [
+          "Cuando comparezcamos ante Dios en el postrer día",
+          "En su propia muerte",
+          "Cuando las planchas sean enterradas",
+          "Nunca"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "ether-6-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué impulsó los barcos jareditas hacia la tierra prometida?",
+        "options": [
+          "Un viento furioso",
+          "Un equipo de remeros",
+          "Las corrientes del mar",
+          "Un gran pez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Con qué embarcación famosa se comparan los barcos herméticos?",
+        "options": [
+          "El arca de Noé",
+          "La nave de Nefi",
+          "La flota de Salomón",
+          "La nave de Jonás"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Cuántos días fueron impulsados los jareditas sobre las aguas?",
+        "options": [
+          "344",
+          "40",
+          "150",
+          "300"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-6-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "344 días en el mar",
+        "text": "Sepultados una y otra vez por inmensas olas, alumbrados solo por piedras resplandecientes, los jareditas fueron impulsados por el océano durante casi un año, y aun así 'ningún monstruo del mar pudo destruirlos'."
+      },
+      {
+        "id": "ether-6-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué deseó hacer el anciano hermano de Jared antes de morir?",
+        "options": [
+          "Reunir y contar al pueblo y saber qué deseaban",
+          "Escoger a su sucesor",
+          "Construir un templo",
+          "Escribir su propio registro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-6-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Esto ciertamente conduce al {0}",
+        "blanks": [
+          "cautiverio"
+        ],
+        "distractors": [
+          "abismo",
+          "desastre",
+          "sufrimiento"
+        ]
+      },
+      {
+        "id": "ether-6-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Pagag rehúsa la corona",
+        "text": "Pagag, el primogénito elegido, rehusó ser rey; y su padre no quiso obligarlo, mandando que a nadie se constriñera a reinar. Solo entonces aceptó Oríah."
+      },
+      {
+        "id": "ether-6-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Quién finalmente aceptó ser el primer rey jaredita?",
+        "options": [
+          "Oríah, un hijo de Jared",
+          "Pagag, el primogénito",
+          "El hermano de Jared",
+          "Akish"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "ether-7-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "La rebelión de Corihor y la captura del rey cumplieron la profecía de ¿quién?",
+        "options": [
+          "La del hermano de Jared, de que serían llevados al cautiverio",
+          "La de Éter",
+          "La de Nefi",
+          "La de Moroni"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-7-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Morón, cerca de Desolación",
+        "text": "La tierra de Morón, sede de los reyes jareditas, se hallaba cerca de la tierra que los nefitas más tarde llamaron Desolación: una de varias pistas de que ambas civilizaciones ocuparon terrenos superpuestos."
+      },
+      {
+        "id": "ether-7-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "hizo espadas de {0} para aquellos que había llevado tras de sí",
+        "blanks": [
+          "acero"
+        ],
+        "distractors": [
+          "piedra",
+          "bronce",
+          "cobre"
+        ]
+      },
+      {
+        "id": "ether-7-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Quién se rebeló contra el rey Shule y contra su propio padre, Corihor?",
+        "options": [
+          "Noé",
+          "Kib",
+          "Oríah",
+          "Akish"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-7-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Cómo salvaron a Shule sus hijos de la ejecución?",
+        "options": [
+          "Entraron sigilosamente en la casa de Noé de noche, lo mataron y liberaron a su padre",
+          "Pagaron un rescate",
+          "Levantaron un gran ejército",
+          "Huyeron con él por mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-7-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Otro Nimrod",
+        "text": "Aquí aparece también un hombre llamado Nimrod, distinto del 'fuerte cazador' de la gran torre cuyo nombre marcó el valle en Éter 2. Los padres jareditas reutilizaban los grandes nombres antiguos."
+      },
+      {
+        "id": "ether-7-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué advirtieron los profetas enviados en el reinado de Shule?",
+        "options": [
+          "Que la iniquidad y la idolatría del pueblo traerían una maldición y destrucción",
+          "Que venía un diluvio",
+          "Que surgiría un nuevo rey",
+          "Que el sol se oscurecería"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-7-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Por qué perdonó el Señor al pueblo en los días de Shule?",
+        "options": [
+          "Porque se arrepintieron de sus iniquidades e idolatrías",
+          "Porque Shule ganó todas las batallas",
+          "Porque construyeron un templo",
+          "Porque los profetas se fueron"
+        ],
+        "answer": 0
+      }
+    ],
+    "8": [
+      {
+        "id": "ether-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "lisonjeó a muchos, por motivo de sus palabras {0}",
+        "blanks": [
+          "astutas"
+        ],
+        "distractors": [
+          "amables",
+          "sabias",
+          "sinceras"
+        ]
+      },
+      {
+        "id": "ether-8-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "La hija de Jared",
+        "text": "Sin nombre, pero 'sumamente hermosa' y experta, la hija de Jared idea la primera combinación secreta jaredita, reviviendo planes asesinos que halló en el registro antiguo."
+      },
+      {
+        "id": "ether-8-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿De dónde sacó la hija de Jared la idea de su plan mortal?",
+        "options": [
+          "Del registro de los antiguos que obtuvieron reinos por planes secretos",
+          "De un sueño",
+          "De un rey extranjero",
+          "De su padre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-8-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "transmitidos desde {0}, que fue asesino desde el principio",
+        "blanks": [
+          "Caín"
+        ],
+        "distractors": [
+          "Akish",
+          "Jared",
+          "Noé"
+        ]
+      },
+      {
+        "id": "ether-8-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Combinaciones secretas",
+        "text": "Moroni se niega a registrar los juramentos mismos, advirtiendo que existen 'entre todo pueblo' en los días de sus futuros lectores, y que cualquier nación que las sostenga será destruida."
+      },
+      {
+        "id": "ether-8-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Por qué se niega Moroni a escribir los juramentos secretos mismos?",
+        "options": [
+          "Ya existen entre todo pueblo, incluso los lamanitas",
+          "No los conoce",
+          "Están escritos en otra parte",
+          "Son inofensivos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-8-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Las combinaciones secretas causaron la destrucción de ¿qué dos pueblos?",
+        "options": [
+          "Los jareditas y los nefitas",
+          "Los egipcios y los judíos",
+          "Los lamanitas y los gentiles",
+          "Los nefitas y los mulekitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-8-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "la edifica el diablo, que es el padre de todas las {0}",
+        "blanks": [
+          "mentiras"
+        ],
+        "distractors": [
+          "guerras",
+          "tinieblas",
+          "maldades"
+        ]
+      },
+      {
+        "id": "ether-8-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Por qué se le manda a Moroni escribir sobre estas combinaciones secretas?",
+        "options": [
+          "Para que el mal sea eliminado y las personas sean persuadidas a hacer el bien y ser salvas",
+          "Para honrar a Akish",
+          "Para enseñar los juramentos",
+          "Para atemorizar a los gentiles"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "ether-9-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Cómo fue advertido Omer para escapar de la combinación secreta que lo derrocó?",
+        "options": [
+          "En un sueño, para que partiera de la tierra",
+          "Por un ángel con una espada",
+          "Por una carta de Akish",
+          "Por un profeta en la ciudad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-9-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué le hizo Akish a su propio hijo por celos?",
+        "options": [
+          "Lo encerró en prisión y lo dejó morir de hambre",
+          "Lo coronó rey",
+          "Lo envió al destierro",
+          "Le dio la mitad del reino"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-9-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "La guerra entre Akish y sus hijos destruyó a casi todo el pueblo, dejando ¿cuántas almas?",
+        "options": [
+          "Treinta",
+          "Trescientas",
+          "Tres mil",
+          "Veinticuatro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-9-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Curelomes y cumomes",
+        "text": "Entre los animales útiles de los jareditas, el versículo 19 menciona 'curelomes y cumomes' junto a los elefantes: palabras que José Smith no tradujo y cuyo significado sigue siendo desconocido."
+      },
+      {
+        "id": "ether-9-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "había {0} y curelomes y cumomes",
+        "blanks": [
+          "elefantes"
+        ],
+        "distractors": [
+          "camellos",
+          "leones",
+          "osos"
+        ]
+      },
+      {
+        "id": "ether-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué vio el rey Emer, regocijándose en su día?",
+        "options": [
+          "El Hijo de Justicia",
+          "Un ángel del Señor",
+          "La Nueva Jerusalén",
+          "La caída de Babel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-9-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Un patrón de parricidio",
+        "text": "Het destrona a su padre matándolo con su propia espada, repitiendo un patrón de asesinato dentro de la familia que recorre toda la historia jaredita, impulsado por las combinaciones secretas."
+      },
+      {
+        "id": "ether-9-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué advirtieron los profetas que vendría en los días de Het si el pueblo no se arrepentía?",
+        "options": [
+          "Una gran hambruna",
+          "Un gran diluvio",
+          "Un ejército extranjero",
+          "Un terremoto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-9-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "sus rebaños empezaron a huir de las {0} venenosas",
+        "blanks": [
+          "serpientes"
+        ],
+        "distractors": [
+          "arañas",
+          "avispas",
+          "hormigas"
+        ]
+      },
+      {
+        "id": "ether-9-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "De vuelta a Zarahemla",
+        "text": "Las serpientes empujaron los rebaños hacia la tierra del sur que los nefitas más tarde llamarían Zarahemla: otra superposición entre la geografía jaredita y la nefita."
+      }
+    ],
+    "10": [
+      {
+        "id": "ether-10-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué clase de rey fue Riplákish?",
+        "options": [
+          "Un tirano de impuestos pesados y muchas esposas y concubinas",
+          "Un rey justo y humilde",
+          "Un rey-profeta",
+          "Un rey que abolió la guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-10-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué le sucedió al tirano Riplákish después de 42 años?",
+        "options": [
+          "El pueblo se rebeló y lo mató",
+          "Se arrepintió y liberó a los presos",
+          "Dividió el reino",
+          "Huyó por el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-10-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "El rey Moriantón edificó ciudades y el pueblo se enriqueció, pero ¿por qué fue separado de la presencia del Señor?",
+        "options": [
+          "Por causa de sus muchas fornicaciones",
+          "Por adorar ídolos",
+          "Por matar profetas",
+          "Por quemar los anales"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-10-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "En los días de Lib, ¿qué les sucedió a las serpientes venenosas que habían asolado la tierra?",
+        "options": [
+          "Fueron destruidas",
+          "Se multiplicaron",
+          "Fueron adoradas",
+          "Cruzaron el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-10-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "El estrecho cuello de tierra",
+        "text": "El versículo 20 sitúa una gran ciudad junto al 'estrecho cuello de tierra', donde el mar divide la tierra: el mismo accidente geográfico que más tarde marcaría las tierras de los nefitas."
+      },
+      {
+        "id": "ether-10-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "elaboraban el oro, la plata, el hierro, el {0} y toda clase de metales",
+        "blanks": [
+          "bronce"
+        ],
+        "distractors": [
+          "estaño",
+          "plomo",
+          "níquel"
+        ]
+      },
+      {
+        "id": "ether-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Cómo describe Moroni a este pueblo próspero bajo Lib y sus sucesores?",
+        "options": [
+          "Nunca pudo haber pueblo más bendecido ni más prosperado por la mano del Señor",
+          "El pueblo más pobre de la tierra",
+          "Un pueblo sin rey",
+          "Un pueblo de pastores nómadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-10-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué regresó en los días de Com para amenazar el reino?",
+        "options": [
+          "Ladrones que adoptaron los antiguos juramentos secretos",
+          "Una plaga de serpientes",
+          "Un ejército extranjero",
+          "Una gran hambruna"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "ether-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué profetizaron los profetas en los días de Com?",
+        "options": [
+          "La destrucción del pueblo a menos que se arrepintiera",
+          "La venida de un nuevo rey",
+          "La construcción de un templo",
+          "El fin del hambre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-11-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "sus huesos serían como montones de {0}",
+        "blanks": [
+          "tierra"
+        ],
+        "distractors": [
+          "cenizas",
+          "arena",
+          "piedras"
+        ]
+      },
+      {
+        "id": "ether-11-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Cómo respondió el pueblo a los profetas en los días de Etem?",
+        "options": [
+          "Endurecieron sus corazones; los profetas se lamentaron y se retiraron",
+          "Se arrepintieron de inmediato",
+          "Coronaron a los profetas como reyes",
+          "Les construyeron altares"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-11-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "El hombre poderoso que derrocó a Morón era descendiente de ¿quién?",
+        "options": [
+          "Del hermano de Jared",
+          "De Akish",
+          "De Riplákish",
+          "De Éter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué predijeron los profetas que sucedería si el pueblo no se arrepentía?",
+        "options": [
+          "El Señor traería otro pueblo para poseer la tierra",
+          "El sol se apagaría",
+          "El mar cubriría la tierra",
+          "Los reyes vivirían para siempre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-11-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Éter nace en el cautiverio",
+        "text": "Coriantor engendra a Éter mientras vive todos sus días en el cautiverio. De ese cautiverio surge el profeta que escribiría el registro de todo su pueblo desaparecido."
+      }
+    ],
+    "12": [
+      {
+        "id": "ether-12-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El profeta incansable",
+        "text": "Éter predicaba 'desde la mañana hasta la puesta del sol' y no podía ser contenido por el Espíritu del Señor que había en él, aun mientras el pueblo lo rechazaba."
+      },
+      {
+        "id": "ether-12-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿En qué se convierte la esperanza que viene de la fe para las almas de los hombres?",
+        "options": [
+          "Un ancla",
+          "Un escudo",
+          "Una corona",
+          "Una espada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-12-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "La prueba de la fe",
+        "text": "El versículo 6 da una de las definiciones más citadas de las Escrituras: 'la fe es las cosas que se esperan y no se ven', y 'no recibís ningún testimonio sino hasta después de la prueba de vuestra fe'."
+      },
+      {
+        "id": "ether-12-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "la fe es las cosas que se esperan y no se {0}",
+        "blanks": [
+          "ven"
+        ],
+        "distractors": [
+          "saben",
+          "prueban",
+          "tocan"
+        ]
+      },
+      {
+        "id": "ether-12-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Alma y Amulek",
+            "right": "La prisión se derribó"
+          },
+          {
+            "left": "Nefi y Lehi",
+            "right": "Lamanitas bautizados con fuego"
+          },
+          {
+            "left": "Ammón y sus hermanos",
+            "right": "Un gran milagro entre los lamanitas"
+          }
+        ]
+      },
+      {
+        "id": "ether-12-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué les sucedió a aquellos cuya fe era tan fuerte, aun antes de que Cristo viniera?",
+        "options": [
+          "No podían ser impedidos de ver tras el velo",
+          "Llegaron a ser reyes",
+          "Fueron llevados al cielo sin morir",
+          "Recibieron grandes riquezas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-12-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué debilidad temía Moroni que los gentiles se burlaran?",
+        "options": [
+          "Su debilidad al escribir",
+          "Su falta de ejércitos",
+          "La pobreza del pueblo",
+          "La pequeñez de la tierra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-12-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Doy a los hombres {0} para que sean humildes",
+        "blanks": [
+          "debilidad"
+        ],
+        "distractors": [
+          "pruebas",
+          "tristeza",
+          "sabiduría"
+        ]
+      },
+      {
+        "id": "ether-12-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "este amor que has tenido por los hijos de los hombres es la {0}",
+        "blanks": [
+          "caridad"
+        ],
+        "distractors": [
+          "misericordia",
+          "gracia",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "ether-12-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Al despedirse, Moroni dice que en el juicio sus vestidos no estarán manchados con ¿qué?",
+        "options": [
+          "Con la sangre de los gentiles",
+          "Con el oro del mundo",
+          "Con las lágrimas de los justos",
+          "Con el polvo de la tierra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-12-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Qué recomienda Moroni en sus palabras finales de este capítulo?",
+        "options": [
+          "Buscar a este Jesús de quien los profetas y apóstoles han escrito",
+          "Guardar la ley de Moisés",
+          "Edificar una nueva Jerusalén",
+          "Reunir un ejército"
+        ],
+        "answer": 0
+      }
+    ],
+    "13": [
+      {
+        "id": "ether-13-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿De qué profetizó Éter que era el lugar esta tierra?",
+        "options": [
+          "La Nueva Jerusalén, que descendería del cielo",
+          "El jardín de Edén",
+          "El Monte Sion de la antigüedad",
+          "La torre de Babel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "La Nueva Jerusalén en esta tierra se edificaría para el resto de la posteridad de ¿quién?",
+        "options": [
+          "José",
+          "Judá",
+          "Benjamín",
+          "Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "cuyos vestidos son hechos blancos mediante la sangre del {0}",
+        "blanks": [
+          "Cordero"
+        ],
+        "distractors": [
+          "Señor",
+          "Rey",
+          "Padre"
+        ]
+      },
+      {
+        "id": "ether-13-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Dónde se escondió Éter, después de ser echado fuera, para escribir su registro?",
+        "options": [
+          "En la cavidad de una roca",
+          "En una cueva del mar",
+          "En el palacio del rey",
+          "En la cima de un monte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Escribiendo de noche",
+        "text": "Escondido en la cavidad de una roca, Éter salía de noche para observar la destrucción que caía sobre el pueblo, y así compuso el resto de su registro."
+      },
+      {
+        "id": "ether-13-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Quién se arrepintió entre el pueblo cuando comenzaron las guerras?",
+        "options": [
+          "Nadie: ninguno de los bellos hijos e hijas se arrepintió",
+          "Solo el rey Coriántumr",
+          "Solo los profetas",
+          "La mitad del pueblo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "La extraña profecía sobre Coriántumr",
+        "text": "Éter profetizó que, si Coriántumr no se arrepentía, todos morirían menos él mismo, que viviría para ver a otro pueblo heredar la tierra y sería sepultado por ellos. Se cumplió al pie de la letra."
+      },
+      {
+        "id": "ether-13-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué profetizó Éter que le sucedería solo a Coriántumr si el pueblo no se arrepentía?",
+        "options": [
+          "Sobreviviría solo, vería a otro pueblo heredar la tierra y sería sepultado por ellos",
+          "Reinaría mil años",
+          "Sería llevado al cielo",
+          "Recuperaría todo el reino"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "En el valle de Gilgal, ¿qué hizo finalmente Coriántumr a Shared?",
+        "options": [
+          "Lo venció y lo mató",
+          "Hizo las paces con él",
+          "Fue capturado por él",
+          "Huyó de él"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-13-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Aunque Coriántumr mató a Shared, ¿qué le hizo Shared a él?",
+        "options": [
+          "Lo hirió en el muslo, de modo que no peleó por dos años",
+          "Le robó el trono",
+          "Quemó su ciudad",
+          "Se llevó cautivos a sus hijos"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "ether-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La maldición regresa",
+        "text": "La maldición de la tierra regresa como al principio: las herramientas y espadas que se dejaban a un lado 'se volvían deleznables' y no podían hallarse al día siguiente, de modo que cada hombre sostenía su espada en la mano."
+      },
+      {
+        "id": "ether-14-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Cuál era la gran maldición sobre la tierra en este tiempo de guerra?",
+        "options": [
+          "Las herramientas y espadas que se dejaban desaparecían y no podían hallarse",
+          "Tres días de oscuridad",
+          "Una lluvia de fuego",
+          "Una plaga de langostas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-14-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "era un hombre de gran {0}, mayor que la de cualquier otro hombre",
+        "blanks": [
+          "estatura"
+        ],
+        "distractors": [
+          "fuerza",
+          "sabiduría",
+          "riqueza"
+        ]
+      },
+      {
+        "id": "ether-14-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Qué le hizo Lib a Coriántumr en la batalla?",
+        "options": [
+          "Le hirió el brazo, pero el ejército de Coriántumr avanzó sobre él",
+          "Lo mató",
+          "Capturó a sus hijos",
+          "Quemó su campamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-14-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Quién era Shiz, que persiguió a Coriántumr y quemó ciudades?",
+        "options": [
+          "El hermano de Lib",
+          "El hijo de Coriántumr",
+          "El sumo sacerdote",
+          "El rey de los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "He aquí, barre la {0} por donde pasa",
+        "blanks": [
+          "tierra"
+        ],
+        "distractors": [
+          "nación",
+          "aldea",
+          "llanura"
+        ]
+      },
+      {
+        "id": "ether-14-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Demasiados muertos para sepultar",
+        "text": "La guerra fue tan veloz y total que no quedó nadie para sepultar a los muertos: los cuerpos de hombres, mujeres y niños quedaron esparcidos por la tierra, y el propio hedor atormentaba a los vivos."
+      },
+      {
+        "id": "ether-14-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Por qué perseguía Shiz incansablemente a Coriántumr?",
+        "options": [
+          "Había jurado vengar la sangre de su hermano",
+          "Quería las tierras del sur",
+          "Obedecía a los profetas",
+          "Buscaba los anales sagrados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "En la batalla junto al cerro Comnor, ¿qué le sucedió a Coriántumr?",
+        "options": [
+          "Shiz le dio muchas heridas profundas; se desmayó y fue llevado como muerto",
+          "Fue coronado rey",
+          "Huyó por el mar",
+          "Capturó a Shiz"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-14-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "¿Por qué ordenó Shiz a su pueblo que no persiguiera a los ejércitos de Coriántumr?",
+        "options": [
+          "La pérdida de vidas en ambos bandos había sido demasiado grande",
+          "El sol se ponía",
+          "Los profetas lo prohibieron",
+          "Coriántumr ya estaba muerto"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "ether-15-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "ya habían sido muertos por la espada cerca de dos {0} de los de su pueblo",
+        "blanks": [
+          "millones"
+        ],
+        "distractors": [
+          "mil",
+          "millares",
+          "centenares"
+        ]
+      },
+      {
+        "id": "ether-15-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "El arrepentimiento tardío de Coriántumr",
+        "text": "Solo después de casi dos millones de muertos comenzó Coriántumr a recordar las palabras de los profetas y a arrepentirse: demasiado tarde para detener la destrucción que él mismo había alimentado."
+      },
+      {
+        "id": "ether-15-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué significa el nombre de las aguas de Ripliáncum?",
+        "options": [
+          "Grande, o que sobrepuja a todo",
+          "Aguas amargas",
+          "El fin del mundo",
+          "Mar de sangre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-15-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Rama es Cumorah",
+        "text": "El cerro Rama, donde los jareditas se reunieron para la batalla final, es el mismo cerro que Moroni llama Cumorah, donde su padre Mormón escondió los anales. Dos civilizaciones terminan en el mismísimo lugar."
+      },
+      {
+        "id": "ether-15-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "era el mismo cerro en donde mi padre {0} ocultó los anales",
+        "blanks": [
+          "Mormón"
+        ],
+        "distractors": [
+          "Moroni",
+          "Ammarón",
+          "Nefi"
+        ]
+      },
+      {
+        "id": "ether-15-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Por qué volvió el pueblo a la batalla a pesar de su duelo?",
+        "options": [
+          "El Espíritu del Señor había cesado de luchar y Satanás dominaba sus corazones",
+          "Un nuevo rey los mandaba",
+          "Buscaban los anales",
+          "Los profetas los incitaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-15-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "así como el hombre que está borracho de {0}",
+        "blanks": [
+          "vino"
+        ],
+        "distractors": [
+          "sangre",
+          "hidromiel",
+          "cerveza"
+        ]
+      },
+      {
+        "id": "ether-15-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "La cuenta regresiva",
+        "text": "Moroni registra la aniquilación como una cuenta regresiva exacta: 52 contra 69, luego 32 contra 27, hasta que solo dos hombres quedan en pie sobre los muertos de toda una nación."
+      },
+      {
+        "id": "ether-15-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Cómo terminó el duelo final entre Coriántumr y Shiz?",
+        "options": [
+          "Coriántumr le cortó la cabeza a Shiz",
+          "Los dos hicieron las paces",
+          "Shiz huyó al mar",
+          "Ambos murieron de hambre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ether-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Qué hizo Éter por mandato del Señor después de la destrucción?",
+        "options": [
+          "Salió, vio todo cumplido, terminó su registro y lo escondió",
+          "Reconstruyó la nación",
+          "Partió por el mar",
+          "Se hizo rey"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

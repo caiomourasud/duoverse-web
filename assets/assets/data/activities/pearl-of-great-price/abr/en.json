@@ -1,0 +1,412 @@
+{
+ "schema_version": 1,
+ "book": "abr",
+ "chapters": {
+  "1": [
+   {
+    "id": "abr-1-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "A book from an Egyptian scroll",
+    "text": "The Book of Abraham is part of the Pearl of Great Price. Latter-day Saints hold it as Abraham's own record, written in the first person — notice how chapter 1 opens with 'I, Abraham.'"
+   },
+   {
+    "id": "abr-1-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Abraham 1:1, what did Abraham find he needed to obtain?",
+    "options": [
+     "Another place of residence",
+     "A new name",
+     "An army",
+     "A ship"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "abr-1-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "In Abraham 1:5, why did Abraham's fathers refuse to hearken to his voice?",
+    "options": [
+     "They had turned to worshiping the gods of the heathen",
+     "They were at war",
+     "They had died",
+     "They did not understand him"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "abr-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "they would not bow down to worship gods of {0} or of stone",
+    "blanks": [
+     "wood"
+    ],
+    "distractors": [
+     "gold",
+     "clay",
+     "silver"
+    ]
+   },
+   {
+    "id": "abr-1-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "According to Abraham 1:15-16, who delivered Abraham as the priest lifted his hands to slay him?",
+    "options": [
+     "Pharaoh",
+     "The Lord, who declared his name is Jehovah",
+     "The priest of Elkenah",
+     "His father Terah"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "In Abraham 1:19, the Lord says that as it was with whom, so shall it be with Abraham?",
+    "options": [
+     "Adam",
+     "Enoch",
+     "Noah",
+     "Moses"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-1-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "In Abraham 1:21-24, from whose loins was the king of Egypt descended?",
+    "options": [
+     "Shem",
+     "Japheth",
+     "Ham",
+     "Melchizedek"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-1-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "According to Abraham 1:28-30, what did the Lord preserve in Abraham's own hands?",
+    "options": [
+     "The gods of Elkenah",
+     "The records of the fathers concerning the right of Priesthood",
+     "The wealth of Pharaoh",
+     "The altar of sacrifice"
+    ],
+    "answer": 1
+   }
+  ],
+  "2": [
+   {
+    "id": "abr-2-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In Abraham 2:3-4, to what land did the Lord command Abraham to go?",
+    "options": [
+     "Egypt",
+     "A land the Lord would show him",
+     "Babylon",
+     "Assyria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-2-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "I will {0} them that bless thee, and curse them that curse thee",
+    "blanks": [
+     "bless"
+    ],
+    "distractors": [
+     "reward",
+     "gather",
+     "keep"
+    ]
+   },
+   {
+    "id": "abr-2-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "Sixty-two years old",
+    "text": "Abraham 2:14 gives a rare, specific detail: Abraham was 'sixty and two years old' when he departed out of Haran — a reminder that this is written as a personal, remembered record."
+   },
+   {
+    "id": "abr-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "In Abraham 2:15-16, whom did Abraham take with him as he journeyed toward Canaan?",
+    "options": [
+     "Only his servants",
+     "Sarai his wife and Lot",
+     "Pharaoh's daughter",
+     "The priest of Elkenah"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-2-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "In Abraham 2:22-23, what did the Lord warn about Sarai as they neared Egypt?",
+    "options": [
+     "She would be made a queen",
+     "The Egyptians would see she was fair and kill Abraham",
+     "She would fall ill",
+     "She would return to Ur"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "abr-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Abraham 3:2-3, what is the name of the great star nearest to the throne of God?",
+    "options": [
+     "Shinehah",
+     "Kokob",
+     "Kolob",
+     "Olea"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-3-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "A day is a thousand years",
+    "text": "Abraham 3:4 says one revolution of Kolob is 'a day unto the Lord,' being 'one thousand years' by earthly reckoning — an idea echoed in 2 Peter 3:8."
+   },
+   {
+    "id": "abr-3-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "In Abraham 3:9, one comes near the throne of God as one comes near what?",
+    "options": [
+     "The sun",
+     "Kolob",
+     "The moon",
+     "The earth"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "Olea, which is the {0}",
+    "blanks": [
+     "moon"
+    ],
+    "distractors": [
+     "sun",
+     "star",
+     "earth"
+    ]
+   },
+   {
+    "id": "abr-3-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "According to Abraham 3:18, what is said of the two spirits — that they are 'gnolaum'?",
+    "options": [
+     "They are created",
+     "They are eternal, having no beginning and no end",
+     "They are asleep",
+     "They are equal in all things"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "In Abraham 3:22-23, the Lord tells Abraham he was among the noble and great ones and was chosen when?",
+    "options": [
+     "After he was born",
+     "Before he was born",
+     "When he entered Egypt",
+     "When he received the Priesthood"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "In Abraham 3:27, who answers 'Here am I, send me' and is chosen — the Lord says 'I will send the first'?",
+    "options": [
+     "The one like unto the Son of Man",
+     "The second, who was angry",
+     "The priest of Elkenah",
+     "Adam"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "abr-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The Gods organized",
+    "text": "Unlike Genesis, Abraham 4 says the Gods 'organized and formed' the heavens and the earth — organizing existing materials rather than creating from nothing."
+   },
+   {
+    "id": "abr-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Abraham 4:5, what did the Gods call the light and the darkness?",
+    "options": [
+     "Morning and Evening",
+     "Day and Night",
+     "Sun and Moon",
+     "Good and Evil"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "And the Gods called the expanse, {0}",
+    "blanks": [
+     "Heaven"
+    ],
+    "distractors": [
+     "Firmament",
+     "Sky",
+     "Waters"
+    ]
+   },
+   {
+    "id": "abr-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "According to Abraham 4:14, what did the Gods organize the lights in the expanse to be for?",
+    "options": [
+     "Ornament only",
+     "Signs, seasons, days, and years",
+     "Rain and wind",
+     "Music"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "In Abraham 4:16, which of the two great lights was set to rule the day?",
+    "options": [
+     "The lesser light",
+     "The greater light",
+     "The stars",
+     "Kolob"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "In Abraham 4:24-25, on which 'time' did the Gods prepare the earth to bring forth cattle and beasts?",
+    "options": [
+     "The third time",
+     "The fifth time",
+     "The sixth time",
+     "The seventh time"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-4-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "According to Abraham 4:27, the Gods formed man in whose image?",
+    "options": [
+     "In the image of the earth",
+     "In the image of the Gods, male and female",
+     "In the image of the beasts",
+     "In no image at all"
+    ],
+    "answer": 1
+   }
+  ],
+  "5": [
+   {
+    "id": "abr-5-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Abraham 5:2-3, on which 'time' did the Gods rest from all their work?",
+    "options": [
+     "The fifth time",
+     "The sixth time",
+     "The seventh time",
+     "The first time"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-5-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "man became a living {0}",
+    "blanks": [
+     "soul"
+    ],
+    "distractors": [
+     "being",
+     "spirit",
+     "body"
+    ]
+   },
+   {
+    "id": "abr-5-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Time reckoned by Kolob",
+    "text": "Abraham 5:13 pauses to note that this was 'after the Lord's time, which was after the time of Kolob' — tying the creation account back to the astronomy of chapter 3."
+   },
+   {
+    "id": "abr-5-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Abraham 5:11-13, what did the Gods command about the tree of knowledge of good and evil?",
+    "options": [
+     "To eat of it freely",
+     "To water it daily",
+     "That man should not eat of it",
+     "To cut it down"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-5-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "In Abraham 5:14-17, why did the Gods form a help meet for the man?",
+    "options": [
+     "Because it was not good that the man should be alone",
+     "To rule over him",
+     "To keep the garden",
+     "To name the animals"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

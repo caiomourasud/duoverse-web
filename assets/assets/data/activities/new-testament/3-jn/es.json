@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "book": "3-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "3-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El libro más corto",
+        "body": "Por número de palabras en el griego original, Tercera de Juan es el libro más corto de la Biblia. Es una carta privada dirigida a un solo amigo, Gayo."
+      },
+      {
+        "id": "3-jn-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "No tengo yo mayor {0} que este",
+        "blanks": [
+          "gozo"
+        ],
+        "distractors": [
+          "honra",
+          "recompensa",
+          "paz"
+        ]
+      },
+      {
+        "id": "3-jn-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "sin aceptar nada de los {0}",
+        "blanks": [
+          "gentiles"
+        ],
+        "distractors": [
+          "romanos",
+          "judíos",
+          "griegos"
+        ]
+      },
+      {
+        "id": "3-jn-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Diótrefes, el contencioso",
+        "body": "Diótrefes se nombra solo aquí en las Escrituras: un líder local que “desea ser el primero”, se negó a recibir a los mensajeros de Juan y aun echaba fuera a quienes querían recibirlos."
+      },
+      {
+        "id": "3-jn-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué dice Juan que busca Diótrefes (v. 9)?",
+        "options": [
+          "Ser el primero entre ellos",
+          "Dar a los pobres",
+          "Predicar en las sinagogas",
+          "Viajar entre las iglesias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-jn-1-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "title": "Tres hombres mencionados en la carta",
+        "pairs": [
+          {
+            "left": "Gayo",
+            "right": "el amado, que anda en la verdad"
+          },
+          {
+            "left": "Diótrefes",
+            "right": "desea ser el primero"
+          },
+          {
+            "left": "Demetrio",
+            "right": "tiene buen testimonio de todos"
+          }
+        ]
+      }
+    ]
+  }
+}

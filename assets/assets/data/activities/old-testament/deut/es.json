@@ -1,0 +1,3684 @@
+{
+  "schema_version": 1,
+  "book": "deut",
+  "chapters": {
+    "1": [
+      {
+        "id": "deut-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Estas son las palabras que habló {0} a todo Israel a este lado del Jordán",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Josué",
+          "Caleb",
+          "Aarón"
+        ]
+      },
+      {
+        "id": "deut-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Once días que se volvieron cuarenta años",
+        "text": "El texto recuerda que de Horeb a Cades-barnea había solo once días de viaje. La incredulidad del pueblo convirtió ese corto trayecto en cuarenta años de peregrinación en el desierto."
+      },
+      {
+        "id": "deut-1-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "poseed la tierra que Jehová juró a vuestros padres {0}, Isaac y Jacob",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "José",
+          "Moisés",
+          "Aarón"
+        ]
+      },
+      {
+        "id": "deut-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Dad me de entre vosotros, de vuestras tribus, hombres {0}, y entendidos y expertos",
+        "blanks": [
+          "sabios"
+        ],
+        "distractors": [
+          "fuertes",
+          "jóvenes",
+          "ricos"
+        ]
+      },
+      {
+        "id": "deut-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Según el mandato dado a los jueces, ¿de quién es el juicio?",
+        "options": [
+          "De Dios",
+          "Del rey",
+          "Del pueblo",
+          "De los ancianos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "anduvimos por todo aquel grande y terrible {0} que habéis visto",
+        "blanks": [
+          "desierto"
+        ],
+        "distractors": [
+          "monte",
+          "valle",
+          "río"
+        ]
+      },
+      {
+        "id": "deut-1-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Cuántos hombres tomó Moisés para reconocer la tierra prometida?",
+        "options": [
+          "Doce",
+          "Siete",
+          "Setenta",
+          "Cuarenta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Porque Jehová nos aborrece, nos ha sacado de la tierra de {0}, para entregarnos en manos del amorreo",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Moab",
+          "Seir"
+        ]
+      },
+      {
+        "id": "deut-1-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Jehová vuestro Dios, que va delante de vosotros, él {0} por vosotros",
+        "blanks": [
+          "peleará"
+        ],
+        "distractors": [
+          "llorará",
+          "huirá",
+          "dormirá"
+        ]
+      },
+      {
+        "id": "deut-1-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "excepto {0} hijo de Jefone; él la verá",
+        "blanks": [
+          "Caleb"
+        ],
+        "distractors": [
+          "Josué",
+          "Aarón",
+          "Sehón"
+        ]
+      },
+      {
+        "id": "deut-1-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Qué le dijo Jehová a Moisés que también le sucedería por causa del pueblo?",
+        "options": [
+          "Que tampoco él entraría en la tierra prometida",
+          "Que perdería su vara",
+          "Que moriría aquel mismo día",
+          "Que dejaría de ser profeta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-1-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Tras oír que no entrarían en la tierra, ¿qué confesó el pueblo a Moisés?",
+        "options": [
+          "Hemos pecado contra Jehová",
+          "Volvamos a Egipto",
+          "Apártate de nosotros",
+          "Danos otro guía"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-1-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "os persiguieron como hacen las {0} y os derrotaron desde Seir hasta Horma",
+        "blanks": [
+          "avispas"
+        ],
+        "distractors": [
+          "águilas",
+          "fieras",
+          "serpientes"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "deut-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El monte Seir",
+        "text": "El monte Seir era el territorio de Edom, habitado por los descendientes de Esaú, hermano de Jacob. Israel rodeó esa región durante muchos días antes de volverse al norte."
+      },
+      {
+        "id": "deut-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "porque yo he dado como heredad a Esaú el monte {0}",
+        "blanks": [
+          "Seir"
+        ],
+        "distractors": [
+          "Moab",
+          "Hesbón",
+          "Galaad"
+        ]
+      },
+      {
+        "id": "deut-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Según el versículo 7, ¿durante cuántos años estuvo Jehová con Israel en el desierto sin que nada les faltara?",
+        "options": [
+          "Cuarenta años",
+          "Treinta y ocho años",
+          "Siete años",
+          "Catorce años"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Levantaos ahora y pasad el arroyo de {0}",
+        "blanks": [
+          "Zered"
+        ],
+        "distractors": [
+          "Arnón",
+          "Jaboc",
+          "Jordán"
+        ]
+      },
+      {
+        "id": "deut-2-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y cuando te acerques a los hijos de {0}",
+        "blanks": [
+          "Amón"
+        ],
+        "distractors": [
+          "Esaú",
+          "Moab",
+          "Lot"
+        ]
+      },
+      {
+        "id": "deut-2-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "He aquí, he entregado en tus manos a {0}, el amorreo, rey de Hesbón",
+        "blanks": [
+          "Sehón"
+        ],
+        "distractors": [
+          "Esaú",
+          "Moab",
+          "Amón"
+        ]
+      },
+      {
+        "id": "deut-2-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué tipo de mensaje envió Moisés a Sehón, rey de Hesbón, antes de toda batalla (v. 26)?",
+        "options": [
+          "Palabras de paz",
+          "Una declaración de guerra",
+          "Una petición de alianza militar",
+          "Una amenaza de destrucción"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-2-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Y nos salió Sehón al encuentro, él y todo su pueblo, para pelear en {0}",
+        "blanks": [
+          "Jahaza"
+        ],
+        "distractors": [
+          "Hesbón",
+          "Seir",
+          "Galaad"
+        ]
+      },
+      {
+        "id": "deut-2-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "hasta Galaad, no hubo ciudad que {0} de nosotros",
+        "blanks": [
+          "escapase"
+        ],
+        "distractors": [
+          "resistiese",
+          "dudase",
+          "temiese"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "deut-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "nos salió al encuentro Og, rey de {0}",
+        "blanks": [
+          "Basán"
+        ],
+        "distractors": [
+          "Hesbón",
+          "Edrei",
+          "Hermón"
+        ]
+      },
+      {
+        "id": "deut-3-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Dos reyes amorreos",
+        "text": "Antes de Og, Israel ya había derrotado a Sehón, rey de Hesbón. La conquista de estos dos reyes al oriente del Jordán llegó a ser un hito recordado una y otra vez en la historia de Israel."
+      },
+      {
+        "id": "deut-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "a hombres, a {0} y a niños",
+        "blanks": [
+          "mujeres"
+        ],
+        "distractors": [
+          "ancianos",
+          "siervos",
+          "guerreros"
+        ]
+      },
+      {
+        "id": "deut-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "una cama de {0}",
+        "blanks": [
+          "hierro"
+        ],
+        "distractors": [
+          "oro",
+          "bronce",
+          "piedra"
+        ]
+      },
+      {
+        "id": "deut-3-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿A qué media tribu se le dio el resto de Galaad y todo Basán?",
+        "options": [
+          "Manasés",
+          "Rubén",
+          "Gad",
+          "Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "el cual es límite de los hijos de {0}",
+        "blanks": [
+          "Amón"
+        ],
+        "distractors": [
+          "Israel",
+          "Manasés",
+          "Rubén"
+        ]
+      },
+      {
+        "id": "deut-3-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "tú has comenzado a mostrar a tu siervo tu {0}",
+        "blanks": [
+          "grandeza"
+        ],
+        "distractors": [
+          "bondad",
+          "sabiduría",
+          "ira"
+        ]
+      },
+      {
+        "id": "deut-3-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Sube a la cumbre del {0} y alza tus ojos",
+        "blanks": [
+          "Pisga"
+        ],
+        "distractors": [
+          "Hermón",
+          "Galaad",
+          "Líbano"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "deut-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "No añadiréis a la palabra que yo os mando ni disminuiréis de ella, para que guardéis los {0} de Jehová vuestro Dios que yo os ordeno.",
+        "blanks": [
+          "mandamientos"
+        ],
+        "distractors": [
+          "enemigos",
+          "gigantes",
+          "pleitos"
+        ]
+      },
+      {
+        "id": "deut-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Baal-peor",
+        "text": "Baal-peor era una deidad moabita cuyo culto Israel había adoptado poco antes, lo que trajo una plaga (Números 25). Moisés cita este suceso reciente como prueba viva de lo que cuesta la idolatría."
+      },
+      {
+        "id": "deut-4-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Según el versículo 6, ¿qué dirían las naciones al oír los estatutos de Israel?",
+        "options": [
+          "Ciertamente, pueblo sabio y entendido, nación grande es esta",
+          "Ciertamente esta nación es pequeña y débil",
+          "Ciertamente esta nación no tiene rey",
+          "Ciertamente esta nación debe ser destruida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Y él os anunció su convenio, el cual os mandó poner por obra: los diez {0}, y los escribió en dos tablas de piedra.",
+        "blanks": [
+          "mandamientos"
+        ],
+        "distractors": [
+          "decretos",
+          "cánticos",
+          "estatutos"
+        ]
+      },
+      {
+        "id": "deut-4-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Guardad, pues, mucho vuestras almas, puesto que ninguna figura visteis el día en que Jehová habló con vosotros de en medio del {0},",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "monte",
+          "cielo",
+          "mar"
+        ]
+      },
+      {
+        "id": "deut-4-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "No sea que, alzando tus ojos al cielo y viendo el sol, y la {0}, y las estrellas y todo el ejército del cielo, te sientas impulsado a adorarlos y a servirlos,",
+        "blanks": [
+          "luna"
+        ],
+        "distractors": [
+          "nube",
+          "tierra",
+          "lluvia"
+        ]
+      },
+      {
+        "id": "deut-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Porque Jehová tu Dios es fuego consumidor, Dios {0}.",
+        "blanks": [
+          "celoso"
+        ],
+        "distractors": [
+          "misericordioso",
+          "lejano",
+          "silencioso"
+        ]
+      },
+      {
+        "id": "deut-4-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Qué advierte Moisés que sucederá si Israel se corrompe con esculturas (vv. 25-28)?",
+        "options": [
+          "Serán esparcidos entre los pueblos y servirán a dioses de madera y piedra",
+          "Perderán solo sus riquezas",
+          "Tendrán que reconstruir el templo",
+          "Volverán a Egipto como esclavos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-4-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "porque Dios {0} es Jehová tu Dios; no te dejará, ni te destruirá ni se olvidará del convenio que él juró a tus padres.",
+        "blanks": [
+          "misericordioso"
+        ],
+        "distractors": [
+          "celoso",
+          "consumidor",
+          "terrible"
+        ]
+      },
+      {
+        "id": "deut-4-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "A ti te fue mostrado para que supieses que Jehová es {0} y que no hay otro fuera de él.",
+        "blanks": [
+          "Dios"
+        ],
+        "distractors": [
+          "rey",
+          "juez",
+          "pastor"
+        ]
+      },
+      {
+        "id": "deut-4-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "Entonces apartó Moisés tres {0} de este lado del Jordán, hacia el nacimiento del sol,",
+        "blanks": [
+          "ciudades"
+        ],
+        "distractors": [
+          "altares",
+          "tribus",
+          "montañas"
+        ]
+      },
+      {
+        "id": "deut-4-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "de este lado del Jordán, en el valle delante de Bet-peor, en la tierra de {0}, rey de los amorreos, que habitaba en Hesbón,",
+        "blanks": [
+          "Sehón"
+        ],
+        "distractors": [
+          "Og",
+          "Faraón",
+          "Caleb"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "deut-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una segunda entrega de la ley",
+        "text": "“Deuteronomio” significa “segunda ley”: Moisés repite el convenio a una nueva generación a punto de entrar en Canaán, casi 40 años después del Sinaí."
+      },
+      {
+        "id": "deut-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Jehová nuestro Dios hizo un convenio con nosotros en {0}.",
+        "blanks": [
+          "Horeb"
+        ],
+        "distractors": [
+          "Egipto",
+          "Canaán",
+          "Moab"
+        ]
+      },
+      {
+        "id": "deut-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "que te saqué de la tierra de {0}, de la casa de servidumbre.",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Horeb",
+          "Canaán",
+          "Moab"
+        ]
+      },
+      {
+        "id": "deut-5-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué mandamiento abre el decálogo en este capítulo?",
+        "options": [
+          "No tendrás dioses ajenos delante de mí",
+          "Honra a tu padre y a tu madre",
+          "No matarás",
+          "Guardarás el día de reposo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Guardarás el día de {0} para santificarlo",
+        "blanks": [
+          "reposo"
+        ],
+        "distractors": [
+          "ayuno",
+          "convenio",
+          "sacrificio"
+        ]
+      },
+      {
+        "id": "deut-5-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Honra a tu {0} y a tu madre, como Jehová tu Dios te ha mandado",
+        "blanks": [
+          "padre"
+        ],
+        "distractors": [
+          "hermano",
+          "maestro",
+          "rey"
+        ]
+      },
+      {
+        "id": "deut-5-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "No matarás",
+            "right": "Sexto mandamiento"
+          },
+          {
+            "left": "No cometerás adulterio",
+            "right": "Séptimo mandamiento"
+          },
+          {
+            "left": "No hurtarás",
+            "right": "Octavo mandamiento"
+          },
+          {
+            "left": "No dirás falso testimonio",
+            "right": "Noveno mandamiento"
+          }
+        ]
+      },
+      {
+        "id": "deut-5-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Y las escribió en dos tablas de {0}, las cuales me dio a mí.",
+        "blanks": [
+          "piedra"
+        ],
+        "distractors": [
+          "oro",
+          "barro",
+          "madera"
+        ]
+      },
+      {
+        "id": "deut-5-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué manda Moisés a Israel respecto al camino del Señor?",
+        "options": [
+          "No apartarse a la derecha ni a la izquierda",
+          "Subir al monte para hablar con Dios",
+          "Construir un altar de piedra",
+          "Escribir la ley en tablas nuevas"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "deut-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Cómo describe Moisés la tierra prometida en el versículo 3?",
+        "options": [
+          "Tierra que fluye leche y miel",
+          "Tierra de trigo y cebada",
+          "Tierra de montes y valles",
+          "Tierra de arroyos de aguas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-6-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El Shemá",
+        "text": "El versículo 4, \"Escucha, oh Israel: Jehová nuestro Dios, Jehová uno es\", se conoce como el Shemá (\"escucha\" en hebreo) y llegó a ser la confesión de fe que el pueblo judío recita a diario."
+      },
+      {
+        "id": "deut-6-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Y amarás a Jehová tu Dios con todo tu {0}, y con toda tu alma y con todas tus fuerzas.",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "hijo",
+          "camino",
+          "pueblo"
+        ]
+      },
+      {
+        "id": "deut-6-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "y las escribirás en los postes de tu {0} y en tus puertas.",
+        "blanks": [
+          "casa"
+        ],
+        "distractors": [
+          "mano",
+          "tierra",
+          "alma"
+        ]
+      },
+      {
+        "id": "deut-6-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "cuídate de no olvidarte de Jehová que te sacó de la tierra de {0}, de la casa de servidumbre.",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Moab",
+          "Basán",
+          "Canaán"
+        ]
+      },
+      {
+        "id": "deut-6-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "No tentaréis a Jehová vuestro Dios como lo tentasteis en {0}.",
+        "blanks": [
+          "Masah"
+        ],
+        "distractors": [
+          "Horeb",
+          "Cades",
+          "Seir"
+        ]
+      },
+      {
+        "id": "deut-6-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "para que te vaya bien y entres y poseas la buena {0} que Jehová juró a tus padres;",
+        "blanks": [
+          "tierra"
+        ],
+        "distractors": [
+          "casa",
+          "ciudad",
+          "alma"
+        ]
+      },
+      {
+        "id": "deut-6-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según el versículo 21, ¿qué debían responder los padres al hijo que preguntara el significado de los mandamientos?",
+        "options": [
+          "Que eran esclavos de Faraón en Egipto y Jehová los sacó con mano poderosa",
+          "Que recibieron la ley en el Sinaí sin ningún testigo",
+          "Que conquistaron la tierra por su propia justicia",
+          "Que los mandamientos vinieron de los reyes amorreos"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "deut-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Las siete naciones",
+        "text": "El capítulo nombra a siete pueblos de Canaán (heteo, gergeseo, amorreo, cananeo, ferezeo, heveo y jebuseo). El número siete simbolizaba totalidad, indicando que toda la tierra sería entregada a Israel."
+      },
+      {
+        "id": "deut-7-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "y cortaréis sus imágenes de {0} y quemaréis sus esculturas",
+        "blanks": [
+          "Asera"
+        ],
+        "distractors": [
+          "Baal",
+          "Moloc",
+          "Dagón"
+        ]
+      },
+      {
+        "id": "deut-7-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "de manos de {0}, rey de Egipto",
+        "blanks": [
+          "Faraón"
+        ],
+        "distractors": [
+          "Nabucodonosor",
+          "Senaquerib",
+          "Abimelec"
+        ]
+      },
+      {
+        "id": "deut-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según el versículo 9, ¿hasta cuántas generaciones guarda Jehová el convenio y la misericordia a los que le aman?",
+        "options": [
+          "Cien generaciones",
+          "Mil generaciones",
+          "Diez generaciones",
+          "Siete generaciones"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "deut-7-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "la cría de tus {0} y los rebaños de tus ovejas",
+        "blanks": [
+          "vacas"
+        ],
+        "distractors": [
+          "cabras",
+          "camellos",
+          "asnas"
+        ]
+      },
+      {
+        "id": "deut-7-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Y también enviará Jehová tu Dios sobre ellos {0}",
+        "blanks": [
+          "avispas"
+        ],
+        "distractors": [
+          "langostas",
+          "serpientes",
+          "ranas"
+        ]
+      },
+      {
+        "id": "deut-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "y tú borrarás el {0} de ellos de debajo del cielo",
+        "blanks": [
+          "nombre"
+        ],
+        "distractors": [
+          "altar",
+          "ejército",
+          "templo"
+        ]
+      },
+      {
+        "id": "deut-7-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Israel",
+            "right": "Pueblo santo escogido por Jehová"
+          },
+          {
+            "left": "Faraón",
+            "right": "Rey de Egipto de cuya mano Israel fue rescatado"
+          },
+          {
+            "left": "Ídolos",
+            "right": "Imágenes que debían ser quemadas en el fuego"
+          },
+          {
+            "left": "Convenio",
+            "right": "Guardado hasta mil generaciones"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "deut-8-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "No solo de pan",
+        "text": "La enseñanza de que \"no solo de pan vivirá el hombre\" fue citada por Jesús al resistir la tentación en el desierto, vinculando la prueba de Israel con la suya."
+      },
+      {
+        "id": "deut-8-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "no solo de {0} vivirá el hombre",
+        "blanks": [
+          "pan"
+        ],
+        "distractors": [
+          "maná",
+          "trigo",
+          "miel"
+        ]
+      },
+      {
+        "id": "deut-8-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "tierra de trigo y {0}",
+        "blanks": [
+          "cebada"
+        ],
+        "distractors": [
+          "centeno",
+          "avena",
+          "mijo"
+        ]
+      },
+      {
+        "id": "deut-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "la plata y el {0} se te multipliquen",
+        "blanks": [
+          "oro"
+        ],
+        "distractors": [
+          "cobre",
+          "hierro",
+          "bronce"
+        ]
+      },
+      {
+        "id": "deut-8-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "te condujo por un desierto grande y {0}",
+        "blanks": [
+          "espantoso"
+        ],
+        "distractors": [
+          "fértil",
+          "tranquilo",
+          "cercano"
+        ]
+      },
+      {
+        "id": "deut-8-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Mi poder y la fuerza de mi mano me han traído esta {0}",
+        "blanks": [
+          "riqueza"
+        ],
+        "distractors": [
+          "tierra",
+          "fuerza",
+          "victoria"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "deut-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Los hijos de Anac",
+        "text": "Los anaceos eran un pueblo de gran estatura que aterrorizaba a Israel; años antes, el informe de los espías sobre estos gigantes había llevado al pueblo a negarse a entrar en la tierra prometida."
+      },
+      {
+        "id": "deut-9-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Oye, Israel: Hoy pasarás el {0} para entrar",
+        "blanks": [
+          "Jordán"
+        ],
+        "distractors": [
+          "Egipto",
+          "Horeb",
+          "desierto"
+        ]
+      },
+      {
+        "id": "deut-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Cuando yo subí al monte para recibir las tablas de {0}",
+        "blanks": [
+          "piedra"
+        ],
+        "distractors": [
+          "oro",
+          "madera",
+          "barro"
+        ]
+      },
+      {
+        "id": "deut-9-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Según el versículo 12, ¿qué hizo el pueblo mientras Moisés estaba en el monte?",
+        "options": [
+          "Una imagen de fundición",
+          "Un arca del convenio",
+          "Un altar de piedras",
+          "Un tabernáculo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-9-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "os habíais hecho un {0} de fundición",
+        "blanks": [
+          "becerro"
+        ],
+        "distractors": [
+          "cordero",
+          "carnero",
+          "buey"
+        ]
+      },
+      {
+        "id": "deut-9-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Por quién oró Moisés en el versículo 20, cuando Jehová se enojó tanto como para destruirlo?",
+        "options": [
+          "Aarón",
+          "Josué",
+          "Caleb",
+          "María"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-9-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "También en {0}, y en Massa, y en Kibrot-hataava, provocasteis a ira a Jehová.",
+        "blanks": [
+          "Tabera"
+        ],
+        "distractors": [
+          "Cades-barnea",
+          "Horeb",
+          "Sinaí"
+        ]
+      },
+      {
+        "id": "deut-9-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "no destruyas a tu pueblo, a tu {0} que has redimido",
+        "blanks": [
+          "heredad"
+        ],
+        "distractors": [
+          "ciudad",
+          "promesa",
+          "morada"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "deut-10-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Tablas rehechas",
+        "text": "Estas segundas tablas reemplazan a las primeras, que Moisés había quebrado al bajar del monte y ver el becerro de oro. Esta vez él mismo labra la piedra antes de subir."
+      },
+      {
+        "id": "deut-10-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E hice un arca de madera de {0}, y labré dos tablas de piedra como las primeras",
+        "blanks": [
+          "acacia"
+        ],
+        "distractors": [
+          "cedro",
+          "olivo",
+          "ciprés"
+        ]
+      },
+      {
+        "id": "deut-10-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según el versículo 6, ¿quién murió en Moserá y fue sucedido por su hijo Eleazar en el oficio sacerdotal?",
+        "options": [
+          "Aarón",
+          "Moisés",
+          "Josué",
+          "Caleb"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-10-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "apartó Jehová la tribu de {0} para que llevase el arca del convenio de Jehová",
+        "blanks": [
+          "Leví"
+        ],
+        "distractors": [
+          "Judá",
+          "Rubén",
+          "Simeón"
+        ]
+      },
+      {
+        "id": "deut-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "En el versículo 12, ¿qué pide Jehová de Israel?",
+        "options": [
+          "Que lo tema, ande en sus caminos, lo ame y lo sirva con todo el corazón",
+          "Que construya un templo de piedra",
+          "Que ofrezca más sacrificios de animales",
+          "Que conquiste todas las naciones vecinas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-10-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Dios de dioses",
+        "text": "El versículo 17 llama a Jehová \"Dios de dioses y Señor de señores\", título que reaparece en los Salmos y en el Apocalipsis para exaltar la supremacía de Dios sobre todo poder."
+      },
+      {
+        "id": "deut-10-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Huérfano y viuda",
+            "right": "A quienes Dios hace justicia"
+          },
+          {
+            "left": "El extranjero",
+            "right": "A quien Dios ama, dándole pan y vestido"
+          },
+          {
+            "left": "Israel en Egipto",
+            "right": "Fueron extranjeros, por eso deben amar al extranjero"
+          }
+        ]
+      },
+      {
+        "id": "deut-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Con {0} almas descendieron tus padres a Egipto",
+        "blanks": [
+          "setenta"
+        ],
+        "distractors": [
+          "doce",
+          "cuarenta",
+          "cien"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "deut-11-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Al recordar los juicios de Dios, Moisés cita lo que sucedió a Datán y Abiram. ¿Qué les ocurrió?",
+        "options": [
+          "La tierra abrió su boca y los tragó con sus familias y tiendas",
+          "Fueron llevados cautivos de nuevo a Egipto",
+          "Murieron de peste en el desierto",
+          "Se ahogaron en el mar Rojo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-11-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "tierra que fluye {0} y miel.",
+        "blanks": [
+          "leche"
+        ],
+        "distractors": [
+          "vino",
+          "aceite",
+          "agua"
+        ]
+      },
+      {
+        "id": "deut-11-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "y serán como {0} entre vuestros ojos.",
+        "blanks": [
+          "frontales"
+        ],
+        "distractors": [
+          "coronas",
+          "vendas",
+          "sellos"
+        ]
+      },
+      {
+        "id": "deut-11-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Señales en la mano y frontales",
+        "text": "El mandato de atar estas palabras 'como señal en vuestra mano' y como 'frontales entre vuestros ojos' dio origen a las filacterias (tefilín), pequeñas cajas con pasajes de las Escrituras que los judíos devotos aún atan al brazo y a la frente al orar."
+      },
+      {
+        "id": "deut-11-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "y las escribirás en los {0} de tu casa",
+        "blanks": [
+          "postes"
+        ],
+        "distractors": [
+          "tejados",
+          "cimientos",
+          "patios"
+        ]
+      },
+      {
+        "id": "deut-11-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "desde el río, el río {0}, hasta el mar occidental",
+        "blanks": [
+          "Éufrates"
+        ],
+        "distractors": [
+          "Jordán",
+          "Nilo",
+          "Tigris"
+        ]
+      },
+      {
+        "id": "deut-11-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Monte Gerizim",
+            "right": "La bendición"
+          },
+          {
+            "left": "Monte Ebal",
+            "right": "La maldición"
+          },
+          {
+            "left": "Jordán",
+            "right": "Río que Israel cruzaría"
+          },
+          {
+            "left": "Gilgal",
+            "right": "Lugar en la llanura del cananeo"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "deut-12-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Un solo lugar de adoración",
+        "text": "El mandato de buscar 'el lugar que Jehová escogiere' introduce la idea de un único santuario central para Israel. Siglos después este principio se cumplió en el templo de Jerusalén, evitando que cada tribu levantara sus propios altares."
+      },
+      {
+        "id": "deut-12-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué debía hacer Israel con los altares e ídolos de las naciones cuya tierra poseería?",
+        "options": [
+          "Derribarlos, quemarlos y borrar el nombre de sus dioses de aquel lugar",
+          "Conservarlos como recuerdo histórico",
+          "Reutilizarlos para el culto a Jehová",
+          "Entregarlos a los levitas como heredad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿A dónde debían llevar los israelitas sus holocaustos, sacrificios y diezmos?",
+        "options": [
+          "Al lugar que Jehová escogiere para hacer habitar en él su nombre",
+          "A cualquier monte alto o collado que prefirieran",
+          "A la casa de cada jefe de tribu",
+          "A los antiguos altares de las naciones conquistadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-12-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Salvo que la {0} no comeréis; sobre la tierra la derramaréis como agua.",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "carne",
+          "grasa",
+          "leche"
+        ]
+      },
+      {
+        "id": "deut-12-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Ten cuidado de no desamparar al {0} en todos tus días sobre tu tierra.",
+        "blanks": [
+          "levita"
+        ],
+        "distractors": [
+          "profeta",
+          "sacerdote",
+          "extranjero"
+        ]
+      },
+      {
+        "id": "deut-12-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "y ofrecerás tus holocaustos, la carne y la sangre, sobre el {0} de Jehová tu Dios",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "templo",
+          "tabernáculo",
+          "santuario"
+        ]
+      },
+      {
+        "id": "deut-12-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "¿Por qué Israel no debía imitar la forma en que las naciones servían a sus dioses?",
+        "options": [
+          "Porque hacían lo abominable que Jehová aborrece, llegando a quemar a sus propios hijos en el fuego",
+          "Porque sus ritos eran demasiado costosos para el pueblo",
+          "Porque adoraban en un idioma desconocido",
+          "Porque sus dioses eran demasiado débiles para ayudar"
+        ],
+        "answer": 0
+      }
+    ],
+    "13": [
+      {
+        "id": "deut-13-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Cuando se levante en medio de ti un profeta o un soñador de sueños, y te anuncie una señal o un {0},",
+        "blanks": [
+          "prodigio"
+        ],
+        "distractors": [
+          "sacrificio",
+          "juramento",
+          "mandamiento"
+        ]
+      },
+      {
+        "id": "deut-13-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Las señales no bastan",
+        "text": "Aunque se cumpla la señal anunciada, Israel no debe seguir al profeta que predica dioses ajenos: el versículo 3 dice que es Jehová probando si lo aman con todo el corazón."
+      },
+      {
+        "id": "deut-13-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según los versículos 1 a 5, ¿a qué intenta llevar al pueblo el falso profeta?",
+        "options": [
+          "A servir a dioses ajenos",
+          "A construir un templo",
+          "A guardar el día de reposo",
+          "A ofrecer diezmos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-13-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "En el versículo 6, ¿quién podría incitar en secreto a la idolatría?",
+        "options": [
+          "Un pariente o amigo cercano",
+          "Un extranjero desconocido",
+          "Un rey vecino",
+          "Un sacerdote del templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-13-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Y lo {0}, y morirá, por cuanto procuró apartarte de Jehová tu Dios,",
+        "blanks": [
+          "apedrearás"
+        ],
+        "distractors": [
+          "bendecirás",
+          "perdonarás",
+          "encubrirás"
+        ]
+      },
+      {
+        "id": "deut-13-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Hijos impíos",
+        "text": "El versículo 13 llama \"hijos impíos\" a quienes arrastran a toda una ciudad a la idolatría; en otras versiones aparece como \"hijos de Belial\", es decir, gente perversa o sin valor."
+      },
+      {
+        "id": "deut-13-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "irremisiblemente herirás a filo de {0} a los moradores de aquella ciudad,",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "lanza",
+          "daga",
+          "hacha"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "deut-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Hijos de Jehová",
+        "text": "El versículo 1 prohíbe hacerse incisiones y raparse por los muertos: ritos de luto comunes entre los vecinos de Israel, de los cuales el pueblo santo debía distinguirse."
+      },
+      {
+        "id": "deut-14-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "porque eres pueblo {0} a Jehová tu Dios",
+        "blanks": [
+          "santo"
+        ],
+        "distractors": [
+          "inmundo",
+          "rebelde",
+          "pagano"
+        ]
+      },
+      {
+        "id": "deut-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué animales menciona el versículo 4 como permitidos para comer?",
+        "options": [
+          "El buey, la oveja y la cabra",
+          "El camello, la liebre y el conejo",
+          "El cerdo y el caballo",
+          "El águila y el cuervo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-14-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Y podréis comer todo animal de pezuña {0}",
+        "blanks": [
+          "partida"
+        ],
+        "distractors": [
+          "redonda",
+          "lisa",
+          "dura"
+        ]
+      },
+      {
+        "id": "deut-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "ni {0}, porque tiene la pezuña hendida, mas no rumia",
+        "blanks": [
+          "cerdo"
+        ],
+        "distractors": [
+          "buey",
+          "camello",
+          "ciervo"
+        ]
+      },
+      {
+        "id": "deut-14-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Toda ave {0} podréis comer,",
+        "blanks": [
+          "limpia"
+        ],
+        "distractors": [
+          "inmunda",
+          "santa",
+          "singular"
+        ]
+      },
+      {
+        "id": "deut-14-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué tipo de animales prohíben comer los versículos 12-18?",
+        "options": [
+          "Aves de rapiña e inmundas como el águila",
+          "Peces con escamas",
+          "Animales que rumian",
+          "Insectos con alas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-14-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Y todo {0} alado os será inmundo",
+        "blanks": [
+          "insecto"
+        ],
+        "distractors": [
+          "animal",
+          "cuervo",
+          "pez"
+        ]
+      },
+      {
+        "id": "deut-14-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "El cabrito en la leche de su madre",
+        "text": "El versículo 21 ordena no cocer el cabrito en la leche de su madre: base de la posterior separación judía entre carne y lácteos."
+      },
+      {
+        "id": "deut-14-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Indefectiblemente {0} todo el producto de la semilla que rinda tu campo cada año.",
+        "blanks": [
+          "diezmarás"
+        ],
+        "distractors": [
+          "sembrarás",
+          "venderás",
+          "guardarás"
+        ]
+      },
+      {
+        "id": "deut-14-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Dónde manda el versículo 23 comer el diezmo del grano, vino y aceite?",
+        "options": [
+          "En el lugar que Jehová escoja para hacer habitar allí su nombre",
+          "En cualquier ciudad del extranjero",
+          "En secreto en casa",
+          "En el campo donde se cosechó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-14-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Y no desampararás al {0} que habite en tus poblaciones",
+        "blanks": [
+          "levita"
+        ],
+        "distractors": [
+          "extranjero",
+          "huérfano",
+          "extraño"
+        ]
+      },
+      {
+        "id": "deut-14-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Al cabo de tres años, ¿quiénes debían comer y ser saciados del diezmo guardado, según el versículo 29?",
+        "options": [
+          "El levita, el extranjero, el huérfano y la viuda",
+          "Solo los sacerdotes",
+          "Solo la familia del dueño",
+          "Los reyes y los jueces"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "deut-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El año de la remisión",
+        "text": "Cada siete años (el año sabático) se perdonaban las deudas entre israelitas. La ley buscaba evitar que las familias cayeran en pobreza permanente."
+      },
+      {
+        "id": "deut-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según el versículo 1, ¿al cabo de cuántos años debía Israel hacer remisión de deudas?",
+        "options": [
+          "Tres años",
+          "Cinco años",
+          "Siete años",
+          "Doce años"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "deut-15-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "no endurecerás tu {0} ni cerrarás tu mano a tu hermano pobre",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "siervo",
+          "rebaño",
+          "lagar"
+        ]
+      },
+      {
+        "id": "deut-15-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "te acordarás de que fuiste esclavo en la tierra de {0}",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Moab",
+          "Asiria"
+        ]
+      },
+      {
+        "id": "deut-15-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "no harás trabajar al {0} de tus vacas ni trasquilarás el primogénito de tus ovejas",
+        "blanks": [
+          "primogénito"
+        ],
+        "distractors": [
+          "becerro",
+          "novillo",
+          "ternero"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "deut-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El mes de Abib",
+        "text": "Abib (\"espigas verdes\") era el nombre antiguo del mes de primavera en que Israel salió de Egipto; más tarde se llamó Nisán. La Pascua abría el año religioso."
+      },
+      {
+        "id": "deut-16-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "siete días comerás con ella pan sin levadura, pan de {0}",
+        "blanks": [
+          "aflicción"
+        ],
+        "distractors": [
+          "alegría",
+          "abundancia",
+          "cosecha"
+        ]
+      },
+      {
+        "id": "deut-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "sacrificarás la pascua al atardecer, a la puesta del {0}",
+        "blanks": [
+          "sol"
+        ],
+        "distractors": [
+          "luna",
+          "viento",
+          "alba"
+        ]
+      },
+      {
+        "id": "deut-16-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Desde qué momento debía Israel contar las siete semanas hasta la fiesta de las semanas?",
+        "options": [
+          "Desde que la hoz comenzaba a meterse en las mieses",
+          "Desde el primer día de la Pascua",
+          "Desde la puesta del sol del día de reposo",
+          "Desde la vendimia de las viñas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-16-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿A quiénes manda Moisés poner en todas las ciudades de las tribus?",
+        "options": [
+          "Jueces y oficiales para juzgar al pueblo con justo juicio",
+          "Sacerdotes para ofrecer los sacrificios",
+          "Capitanes para guardar las murallas",
+          "Profetas para anunciar la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-16-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "porque el soborno ciega los {0} de los sabios",
+        "blanks": [
+          "ojos"
+        ],
+        "distractors": [
+          "oídos",
+          "labios",
+          "pasos"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "deut-17-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sacrificios sin defecto",
+        "text": "Israel solo podía ofrecer a Jehová animales sin defecto; un buey o cordero con cualquier falla era una abominación, porque el sacrificio debía representar lo mejor y no el desecho."
+      },
+      {
+        "id": "deut-17-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "ya sea hombre o mujer, y los {0}, y así morirán.",
+        "blanks": [
+          "apedrearás"
+        ],
+        "distractors": [
+          "azotarás",
+          "perdonarás",
+          "desterrarás"
+        ]
+      },
+      {
+        "id": "deut-17-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según el versículo 6, ¿cuántos testigos se requerían para condenar a muerte a alguien?",
+        "options": [
+          "Un solo testigo",
+          "Dos o tres testigos",
+          "Siete testigos",
+          "Ningún testigo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "deut-17-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "y vendrás a los {0} levitas y al juez que haya en aquellos días",
+        "blanks": [
+          "sacerdotes"
+        ],
+        "distractors": [
+          "ancianos",
+          "profetas",
+          "reyes"
+        ]
+      },
+      {
+        "id": "deut-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "de entre tus {0} pondrás rey sobre ti",
+        "blanks": [
+          "hermanos"
+        ],
+        "distractors": [
+          "enemigos",
+          "siervos",
+          "esclavos"
+        ]
+      },
+      {
+        "id": "deut-17-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Qué advierte el versículo 17 que el rey no debía acumular para sí?",
+        "options": [
+          "Esposas, plata y oro",
+          "Templos y altares",
+          "Hijos y siervos",
+          "Ciudades y tierras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-17-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "ha de escribir para sí en un libro una copia de esta {0}",
+        "blanks": [
+          "ley"
+        ],
+        "distractors": [
+          "canción",
+          "carta",
+          "bendición"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "deut-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una tribu sin tierra",
+        "text": "De las doce tribus de Israel, solo Leví no recibió una porción de tierra como heredad. Dedicada por completo al servicio sacerdotal, vivía de las ofrendas traídas a Jehová, pues, como dice el texto, Jehová mismo era su heredad."
+      },
+      {
+        "id": "deut-18-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "le ha {0} Jehová tu Dios de entre todas tus tribus",
+        "blanks": [
+          "escogido"
+        ],
+        "distractors": [
+          "expulsado",
+          "heredado",
+          "permitido"
+        ]
+      },
+      {
+        "id": "deut-18-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "ni quien practique {0}",
+        "blanks": [
+          "adivinación"
+        ],
+        "distractors": [
+          "hechicería",
+          "agüero",
+          "encantamiento"
+        ]
+      },
+      {
+        "id": "deut-18-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "{0} serás con Jehová tu Dios",
+        "blanks": [
+          "Perfecto"
+        ],
+        "distractors": [
+          "Obediente",
+          "Fiel",
+          "Justo"
+        ]
+      },
+      {
+        "id": "deut-18-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Según los versículos 18 a 22, ¿cómo reconocería Israel a un falso profeta?",
+        "options": [
+          "Cuando la palabra que hable en nombre de Jehová no se cumpla",
+          "Cuando se niegue a ofrecer sacrificios",
+          "Cuando provenga de una tribu distinta de Leví",
+          "Cuando pida una heredad de tierra"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "deut-19-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "apartarás {0} ciudades en medio de la tierra",
+        "blanks": [
+          "tres"
+        ],
+        "distractors": [
+          "siete",
+          "doce",
+          "cinco"
+        ]
+      },
+      {
+        "id": "deut-19-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Ciudades de refugio",
+        "text": "Las ciudades de refugio protegían a quien mataba por accidente del 'vengador de la sangre', el pariente encargado de cobrar la vida del muerto. El refugiado estaba a salvo allí hasta ser juzgado, evitando venganzas precipitadas."
+      },
+      {
+        "id": "deut-19-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Según el versículo 12, ¿quiénes debían sacar al homicida de la ciudad de refugio y entregarlo al vengador de la sangre?",
+        "options": [
+          "Los ancianos de su ciudad",
+          "Los sacerdotes del tabernáculo",
+          "El propio vengador de la sangre",
+          "Los hijos de Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-19-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Por boca de {0} testigos o por boca de tres testigos se establecerá el asunto.",
+        "blanks": [
+          "dos"
+        ],
+        "distractors": [
+          "cuatro",
+          "siete",
+          "cinco"
+        ]
+      },
+      {
+        "id": "deut-19-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Vida",
+            "right": "por vida"
+          },
+          {
+            "left": "Ojo",
+            "right": "por ojo"
+          },
+          {
+            "left": "Diente",
+            "right": "por diente"
+          },
+          {
+            "left": "Pie",
+            "right": "por pie"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "deut-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "quien te sacó de la tierra de {0}.",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Asiria",
+          "Babilonia"
+        ]
+      },
+      {
+        "id": "deut-20-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "¿Y quién ha plantado una {0} y no ha disfrutado de ella?",
+        "blanks": [
+          "viña"
+        ],
+        "distractors": [
+          "higuera",
+          "olivera",
+          "huerta"
+        ]
+      },
+      {
+        "id": "deut-20-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "herirás a todo hombre suyo a filo de {0}.",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "cuchillo",
+          "daga",
+          "hacha"
+        ]
+      },
+      {
+        "id": "deut-20-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Según el versículo 17, ¿a qué pueblos de la tierra mandó Jehová destruir completamente?",
+        "options": [
+          "Al heteo, amorreo, cananeo, ferezeo, heveo y jebuseo",
+          "A los egipcios, filisteos y moabitas",
+          "A los asirios, babilonios y persas",
+          "A los madianitas, amalecitas y edomitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-20-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Los árboles no son el enemigo",
+        "text": "Aun en guerra, Israel no podía talar los árboles frutales al sitiar una ciudad, pues de ellos comería: “el árbol del campo no es hombre para venir contra ti en el sitio”. Es una de las leyes más tempranas de la Escritura sobre cuidar los recursos naturales."
+      }
+    ],
+    "21": [
+      {
+        "id": "deut-21-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "El rito de la becerra",
+        "text": "Cuando se hallaba un cuerpo en el campo y no se sabía quién lo había matado, la ciudad más cercana desnucaba una becerra en un valle, librándose simbólicamente de la sangre inocente que nadie reclamaba."
+      },
+      {
+        "id": "deut-21-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "tomarán de la vacada una {0} que no haya trabajado",
+        "blanks": [
+          "becerra"
+        ],
+        "distractors": [
+          "oveja",
+          "cabra",
+          "burra"
+        ]
+      },
+      {
+        "id": "deut-21-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Becerra",
+            "right": "Animal desnucado en el valle"
+          },
+          {
+            "left": "Ancianos",
+            "right": "Líderes que medían la distancia hasta las ciudades"
+          },
+          {
+            "left": "Un mes",
+            "right": "Tiempo que la cautiva lloraba a sus padres"
+          }
+        ]
+      },
+      {
+        "id": "deut-21-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Según esta ley, ¿qué hijo recibe la doble porción de la herencia?",
+        "options": [
+          "El primogénito, aunque sea hijo de la esposa menospreciada",
+          "El hijo de la esposa amada, siempre",
+          "El menor de todos los hijos",
+          "Cualquier hijo que el padre elija"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-21-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "porque {0} de Dios es el colgado",
+        "blanks": [
+          "maldición"
+        ],
+        "distractors": [
+          "bendición",
+          "heredad",
+          "ofrenda"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "deut-22-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Más que 'no robarás'",
+        "text": "La ley va más allá de prohibir el robo: manda devolver activamente el buey o el cordero extraviado del hermano e incluso recogerlo en casa hasta que el dueño lo busque, convirtiendo la indiferencia en responsabilidad por el prójimo."
+      },
+      {
+        "id": "deut-22-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Si ves extraviado el {0} o el cordero de tu hermano, no te desentenderás de ellos",
+        "blanks": [
+          "buey"
+        ],
+        "distractors": [
+          "asno",
+          "caballo",
+          "carnero"
+        ]
+      },
+      {
+        "id": "deut-22-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Al encontrar un nido con la madre echada sobre los polluelos o huevos, ¿qué manda la ley?",
+        "options": [
+          "Dejar ir a la madre y tomar solo los polluelos",
+          "Tomar a la madre junto con los polluelos",
+          "No tocar nada y seguir el camino",
+          "Llevar el nido entero a casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-22-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Cuando edifiques casa nueva, harás {0} a tu terrado",
+        "blanks": [
+          "pretil"
+        ],
+        "distractors": [
+          "altar",
+          "muro",
+          "puerta"
+        ]
+      },
+      {
+        "id": "deut-22-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Te harás flecos en las cuatro puntas del {0} con que te cubras.",
+        "blanks": [
+          "manto"
+        ],
+        "distractors": [
+          "vestido",
+          "túnica",
+          "velo"
+        ]
+      },
+      {
+        "id": "deut-22-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "y las llevarán a los {0} de la ciudad, a la puerta.",
+        "blanks": [
+          "ancianos"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "jueces",
+          "guardias"
+        ]
+      },
+      {
+        "id": "deut-22-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y le multarán con cien piezas de {0}, las cuales darán al padre de la joven",
+        "blanks": [
+          "plata"
+        ],
+        "distractors": [
+          "oro",
+          "bronce",
+          "cobre"
+        ]
+      },
+      {
+        "id": "deut-22-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "En Deuteronomio 22, ¿qué lugar sirve de escenario para los juicios y actos públicos de la ciudad?",
+        "options": [
+          "La puerta de la ciudad",
+          "El terrado de la casa",
+          "La viña",
+          "El campo abierto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-22-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "entonces el hombre que se acostó con ella dará al padre de la joven cincuenta piezas de {0}",
+        "blanks": [
+          "plata"
+        ],
+        "distractors": [
+          "oro",
+          "bronce",
+          "cobre"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "deut-23-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Amonitas y moabitas",
+        "text": "La exclusión de amonitas y moabitas recuerda su hostilidad durante el éxodo; sin embargo, más tarde la moabita Rut llegaría a ser bisabuela del rey David."
+      },
+      {
+        "id": "deut-23-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "porque contrataron contra ti a {0} hijo de Beor, de Petor de Mesopotamia, para que te maldijese.",
+        "blanks": [
+          "Balaam"
+        ],
+        "distractors": [
+          "Beor",
+          "Moisés",
+          "Faraón"
+        ]
+      },
+      {
+        "id": "deut-23-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Jehová tu Dios te convirtió la maldición en {0}, porque Jehová tu Dios te amaba.",
+        "blanks": [
+          "bendición"
+        ],
+        "distractors": [
+          "tristeza",
+          "esclavitud",
+          "pobreza"
+        ]
+      },
+      {
+        "id": "deut-23-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "No aborrecerás al {0}, porque es tu hermano;",
+        "blanks": [
+          "edomita"
+        ],
+        "distractors": [
+          "egipcio",
+          "amonita",
+          "moabita"
+        ]
+      },
+      {
+        "id": "deut-23-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué debía mantenerse santo el campamento de Israel, según el versículo 14?",
+        "options": [
+          "Porque Jehová anda en medio del campamento",
+          "Para impresionar a sus enemigos",
+          "Para agradar a los sacerdotes",
+          "Por el calor del desierto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-23-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "No entregarás a su señor el {0} que huya de su amo y acuda a ti.",
+        "blanks": [
+          "esclavo"
+        ],
+        "distractors": [
+          "hijo",
+          "hermano",
+          "extranjero"
+        ]
+      },
+      {
+        "id": "deut-23-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Según el versículo 19, ¿a quién no podía cobrar interés un israelita?",
+        "options": [
+          "A su hermano",
+          "Al extraño",
+          "Al rey",
+          "Al sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-23-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Cuando entres en la {0} de tu prójimo, podrás comer uvas hasta saciar tu deseo,",
+        "blanks": [
+          "viña"
+        ],
+        "distractors": [
+          "mies",
+          "casa",
+          "tierra"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "deut-24-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La carta de divorcio",
+        "text": "La 'carta de divorcio' que aquí se menciona (en hebreo 'séfer keritut') fue recordada más tarde por Jesús, quien enseñó que Moisés permitió el divorcio por la dureza del corazón del pueblo, no como ideal."
+      },
+      {
+        "id": "deut-24-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "porque es {0} delante de Jehová",
+        "blanks": [
+          "abominación"
+        ],
+        "distractors": [
+          "justicia",
+          "heredad",
+          "sabiduría"
+        ]
+      },
+      {
+        "id": "deut-24-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Acuérdate de lo que hizo Jehová tu Dios a {0} en el camino",
+        "blanks": [
+          "María"
+        ],
+        "distractors": [
+          "Aarón",
+          "Leví",
+          "Moisés"
+        ]
+      },
+      {
+        "id": "deut-24-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Según los versículos 14 y 15, ¿cómo debe tratar el israelita al jornalero pobre?",
+        "options": [
+          "Darle su jornal el mismo día, antes de que se ponga el sol",
+          "Pagarle solo al final del año",
+          "Retener el pago hasta que termine la cosecha",
+          "Pagarle solo si es israelita"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-24-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "cada uno morirá por su propio {0}",
+        "blanks": [
+          "pecado"
+        ],
+        "distractors": [
+          "prenda",
+          "jornal",
+          "gavilla"
+        ]
+      },
+      {
+        "id": "deut-24-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Siega del campo",
+            "right": "Dejar la gavilla olvidada"
+          },
+          {
+            "left": "Olivos",
+            "right": "No recorrer las ramas otra vez"
+          },
+          {
+            "left": "Viña",
+            "right": "No rebuscar detrás de ti"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "deut-25-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El buey que trilla",
+        "text": "No poner bozal al buey mientras trilla le permitía comer de su propio trabajo; Pablo cita después esta imagen para enseñar que el obrero merece su sustento."
+      },
+      {
+        "id": "deut-25-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Se le podrán dar {0} azotes, no más",
+        "blanks": [
+          "cuarenta"
+        ],
+        "distractors": [
+          "sesenta",
+          "cincuenta",
+          "treinta"
+        ]
+      },
+      {
+        "id": "deut-25-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "le quitará el {0} de su pie",
+        "blanks": [
+          "calzado"
+        ],
+        "distractors": [
+          "manto",
+          "cinto",
+          "anillo"
+        ]
+      },
+      {
+        "id": "deut-25-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Qué tema regulan los versículos sobre pesas y medidas en este capítulo?",
+        "options": [
+          "La honestidad en el comercio ante Jehová",
+          "El reparto de la herencia familiar",
+          "El servicio en el santuario",
+          "El descanso del séptimo día"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-25-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "La casa del descalzado",
+        "text": "Quien rehusaba el deber de cuñado quedaba marcado: su familia pasaba a llamarse en Israel 'la casa del descalzado', una vergüenza pública duradera."
+      },
+      {
+        "id": "deut-25-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "la tierra que {0} tu Dios te da",
+        "blanks": [
+          "Jehová"
+        ],
+        "distractors": [
+          "Moisés",
+          "Amalec",
+          "Israel"
+        ]
+      },
+      {
+        "id": "deut-25-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "borrarás la memoria de {0} de debajo del cielo",
+        "blanks": [
+          "Amalec"
+        ],
+        "distractors": [
+          "Egipto",
+          "Israel",
+          "Canaán"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "deut-26-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Un credo recitado",
+        "text": "La declaración 'Un arameo a punto de perecer fue mi padre' es considerada uno de los credos más antiguos de Israel: un resumen recitado de la historia del pueblo, desde Jacob hasta la liberación de Egipto."
+      },
+      {
+        "id": "deut-26-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Un arameo a punto de perecer fue mi padre, el cual descendió a {0} y habitó allá con pocos hombres",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Moab",
+          "Asiria"
+        ]
+      },
+      {
+        "id": "deut-26-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "y nos dio esta tierra, tierra que fluye leche y {0}.",
+        "blanks": [
+          "miel"
+        ],
+        "distractors": [
+          "vino",
+          "aceite",
+          "trigo"
+        ]
+      },
+      {
+        "id": "deut-26-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Según el versículo 11, ¿con quién debe alegrarse Israel por el bien que Jehová le ha dado?",
+        "options": [
+          "El levita y el extranjero que está en medio de ti",
+          "Solamente los sacerdotes",
+          "Únicamente los ancianos del pueblo",
+          "Los reyes de las naciones vecinas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-26-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "darás al levita, al extranjero, al huérfano y a la {0}, para que coman en tus ciudades",
+        "blanks": [
+          "viuda"
+        ],
+        "distractors": [
+          "sierva",
+          "reina",
+          "anciana"
+        ]
+      },
+      {
+        "id": "deut-26-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Primicias",
+            "right": "Los primeros frutos de la tierra ofrecidos a Jehová"
+          },
+          {
+            "left": "Diezmo del tercer año",
+            "right": "Reservado al levita, extranjero, huérfano y viuda"
+          },
+          {
+            "left": "Estatutos y decretos",
+            "right": "Las leyes que Israel debe guardar de corazón"
+          }
+        ]
+      },
+      {
+        "id": "deut-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y para que seas pueblo {0} a Jehová tu Dios, como él ha dicho.",
+        "blanks": [
+          "santo"
+        ],
+        "distractors": [
+          "grande",
+          "numeroso",
+          "fuerte"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "deut-27-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Piedras encaladas como monumento",
+        "text": "Encalar grandes piedras creaba una superficie blanca donde la ley podía inscribirse y leerse desde lejos — un monumento público del pacto, y no solo un archivo guardado por los sacerdotes."
+      },
+      {
+        "id": "deut-27-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "tierra que fluye leche y {0}",
+        "blanks": [
+          "miel"
+        ],
+        "distractors": [
+          "vino",
+          "aceite",
+          "trigo"
+        ]
+      },
+      {
+        "id": "deut-27-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿De qué clase de piedras debía Israel edificar el altar de Jehová?",
+        "options": [
+          "De piedras enteras, sin herramienta de hierro",
+          "De piedras labradas y pulidas",
+          "De ladrillos cocidos al fuego",
+          "De madera de cedro recubierta de oro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-27-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Estos estarán sobre el monte {0} para bendecir al pueblo",
+        "blanks": [
+          "Gerizim"
+        ],
+        "distractors": [
+          "Ebal",
+          "Sinaí",
+          "Nebo"
+        ]
+      },
+      {
+        "id": "deut-27-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Maldito el que pervierta el derecho del extranjero, del huérfano y de la {0}",
+        "blanks": [
+          "viuda"
+        ],
+        "distractors": [
+          "sierva",
+          "cautiva",
+          "esclava"
+        ]
+      },
+      {
+        "id": "deut-27-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Cómo respondía el pueblo a cada maldición que proclamaban los levitas?",
+        "options": [
+          "Diciendo: Amén",
+          "Tocando las trompetas",
+          "Inclinándose en silencio",
+          "Alzando las manos al cielo"
+        ],
+        "answer": 0
+      }
+    ],
+    "28": [
+      {
+        "id": "deut-28-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Jehová tu Dios te pondrá en alto sobre todas las {0} de la tierra.",
+        "blanks": [
+          "naciones"
+        ],
+        "distractors": [
+          "ciudades",
+          "montañas",
+          "tribus"
+        ]
+      },
+      {
+        "id": "deut-28-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Por siete caminos huirán",
+        "text": "La imagen de enemigos que vienen por un camino pero huyen por siete (v. 7) refleja los antiguos pactos: la derrota total del adversario era prueba visible del favor divino sobre un pueblo fiel."
+      },
+      {
+        "id": "deut-28-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "por un camino saldrán contra ti, y por siete {0} huirán delante de ti.",
+        "blanks": [
+          "caminos"
+        ],
+        "distractors": [
+          "puertas",
+          "muros",
+          "campos"
+        ]
+      },
+      {
+        "id": "deut-28-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Te abrirá Jehová su buen tesoro, el cielo, para dar {0} a tu tierra en su tiempo",
+        "blanks": [
+          "lluvia"
+        ],
+        "distractors": [
+          "semilla",
+          "luz",
+          "cosecha"
+        ]
+      },
+      {
+        "id": "deut-28-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Maldito serás tú en la {0} y maldito serás en el campo.",
+        "blanks": [
+          "ciudad"
+        ],
+        "distractors": [
+          "montaña",
+          "viña",
+          "casa"
+        ]
+      },
+      {
+        "id": "deut-28-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Y Jehová enviará contra ti {0}, quebranto y reprensión en todo cuanto pongas tu mano",
+        "blanks": [
+          "maldición"
+        ],
+        "distractors": [
+          "hambre",
+          "guerra",
+          "plaga"
+        ]
+      },
+      {
+        "id": "deut-28-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "En deut 28:23, ¿cómo describe Moisés el castigo de la sequía sobre los desobedientes?",
+        "options": [
+          "Los cielos serán de bronce y la tierra de hierro",
+          "El sol no brillará y la luna se apagará",
+          "Los ríos se volverán sangre",
+          "La tierra temblará y se abrirá"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-28-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Jehová te herirá con las úlceras de {0}, y con almorranas, y con sarna y con comezón",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Moab",
+          "Edom"
+        ]
+      },
+      {
+        "id": "deut-28-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Tus {0} y tus hijas serán entregados a otro pueblo, y tus ojos lo verán",
+        "blanks": [
+          "hijos"
+        ],
+        "distractors": [
+          "bueyes",
+          "siervos",
+          "campos"
+        ]
+      },
+      {
+        "id": "deut-28-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Sacarás mucha semilla al campo y recogerás poco, porque la {0} lo consumirá.",
+        "blanks": [
+          "langosta"
+        ],
+        "distractors": [
+          "oruga",
+          "polilla",
+          "avispa"
+        ]
+      },
+      {
+        "id": "deut-28-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "y él pondrá yugo de {0} sobre tu cuello, hasta destruirte.",
+        "blanks": [
+          "hierro"
+        ],
+        "distractors": [
+          "bronce",
+          "madera",
+          "piedra"
+        ]
+      },
+      {
+        "id": "deut-28-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Jehová traerá contra ti una nación de lejos, del extremo de la tierra, que vuele como {0}",
+        "blanks": [
+          "águila"
+        ],
+        "distractors": [
+          "paloma",
+          "golondrina",
+          "perdiz"
+        ]
+      },
+      {
+        "id": "deut-28-mc-54",
+        "type": "multiple_choice",
+        "after_verse": 54,
+        "question": "¿Qué horror extremo del sitio describen los versículos 53 a 57 de deut 28?",
+        "options": [
+          "Los padres comerán la carne de sus propios hijos a causa del hambre",
+          "Los muertos quedarán sin sepultura por siete años",
+          "El pueblo adorará ídolos de oro fundido",
+          "Las ciudades arderán durante cuarenta días"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-28-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "y traerá sobre ti todos los males de {0}, delante de los cuales temiste",
+        "blanks": [
+          "Egipto"
+        ],
+        "distractors": [
+          "Canaán",
+          "Moab",
+          "Edom"
+        ]
+      },
+      {
+        "id": "deut-28-fb-68",
+        "type": "fill_blank",
+        "after_verse": 68,
+        "verse": 68,
+        "template": "Y Jehová te hará volver a Egipto en {0}, por el camino del cual te ha dicho.",
+        "blanks": [
+          "naves"
+        ],
+        "distractors": [
+          "carros",
+          "ejércitos",
+          "cadenas"
+        ]
+      }
+    ],
+    "29": [
+      {
+        "id": "deut-29-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Un segundo Horeb",
+        "text": "El convenio de Moab no reemplaza al del Sinaí: el versículo 1 dice que fue hecho 'además del convenio que concertó con ellos en Horeb', renovando el mismo pacto para la nueva generación que creció en el desierto."
+      },
+      {
+        "id": "deut-29-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Y yo os he conducido durante cuarenta años por el {0}; vuestros vestidos no se han gastado sobre vosotros",
+        "blanks": [
+          "desierto"
+        ],
+        "distractors": [
+          "Egipto",
+          "monte",
+          "mar"
+        ]
+      },
+      {
+        "id": "deut-29-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué dos reyes salieron a pelear contra Israel y fueron derrotados, según el versículo 7?",
+        "options": [
+          "Sehón, rey de Hesbón, y Og, rey de Basán",
+          "Faraón de Egipto y el rey de Canaán",
+          "Abraham e Isaac",
+          "Los reyes de Sodoma y Gomorra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-29-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "como él lo juró a tus padres Abraham, Isaac y {0}",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Moisés",
+          "Faraón",
+          "Og"
+        ]
+      },
+      {
+        "id": "deut-29-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "y habéis visto sus abominaciones y los ídolos de madera y de {0}, y de plata y de oro",
+        "blanks": [
+          "piedra"
+        ],
+        "distractors": [
+          "tierra",
+          "agua",
+          "leña"
+        ]
+      },
+      {
+        "id": "deut-29-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Y lo apartará Jehová de todas las tribus de Israel para {0}",
+        "blanks": [
+          "mal"
+        ],
+        "distractors": [
+          "bien",
+          "paz",
+          "honra"
+        ]
+      },
+      {
+        "id": "deut-29-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Azufre y sal",
+            "right": "Señales de una tierra abrasada y estéril"
+          },
+          {
+            "left": "Sodoma y Gomorra",
+            "right": "Ciudades que Jehová destruyó por su maldad"
+          },
+          {
+            "left": "Convenio abandonado",
+            "right": "Causa de la ira que cae sobre la tierra"
+          }
+        ]
+      },
+      {
+        "id": "deut-29-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "y fueron y sirvieron a dioses ajenos, y se inclinaron a ellos, dioses que no {0}",
+        "blanks": [
+          "conocían"
+        ],
+        "distractors": [
+          "amaban",
+          "temían",
+          "servían"
+        ]
+      }
+    ],
+    "30": [
+      {
+        "id": "deut-30-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Antes del exilio",
+        "text": "Moisés describe el cautiverio y el regreso de Israel siglos antes de que ocurriera exilio alguno, hablando como si el pueblo ya hubiera sido dispersado entre las naciones."
+      },
+      {
+        "id": "deut-30-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "te hará volver de tu {0}",
+        "blanks": [
+          "cautiverio"
+        ],
+        "distractors": [
+          "tristeza",
+          "camino",
+          "pecado"
+        ]
+      },
+      {
+        "id": "deut-30-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "circuncidará Jehová tu Dios tu {0}",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "oído",
+          "espíritu",
+          "mano"
+        ]
+      },
+      {
+        "id": "deut-30-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "muy cerca de ti está la {0}",
+        "blanks": [
+          "palabra"
+        ],
+        "distractors": [
+          "promesa",
+          "señal",
+          "espada"
+        ]
+      },
+      {
+        "id": "deut-30-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "escoge, pues, la {0}, para que vivas",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "muerte",
+          "maldición",
+          "tierra"
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "deut-31-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Ciento veinte años",
+        "text": "Moisés afirma tener exactamente ciento veinte años al despedirse. A causa de las aguas de Meriba, se le dijo que vería la Tierra Prometida de lejos, pero que no la cruzaría."
+      },
+      {
+        "id": "deut-31-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Y hará Jehová con ellos como hizo con Sehón y con Og, reyes de los {0}, y con su tierra cuando los destruyó.",
+        "blanks": [
+          "amorreos"
+        ],
+        "distractors": [
+          "egipcios",
+          "filisteos",
+          "moabitas"
+        ]
+      },
+      {
+        "id": "deut-31-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "A la vista de todo Israel, Moisés llama a un hombre y le encarga llevar al pueblo a la tierra prometida. ¿Quién es?",
+        "options": [
+          "Josué",
+          "Aarón",
+          "Caleb",
+          "Eleazar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-31-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Y escribió Moisés esta ley, y se la dio a los sacerdotes, hijos de {0}, que llevaban el arca del convenio de Jehová, y a todos los ancianos de Israel.",
+        "blanks": [
+          "Leví"
+        ],
+        "distractors": [
+          "Judá",
+          "Rubén",
+          "Benjamín"
+        ]
+      },
+      {
+        "id": "deut-31-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Harás congregar al pueblo, hombres y mujeres y niños, y a los extranjeros que estén en tus ciudades, para que oigan y aprendan a temer a Jehová vuestro {0} y cuiden de poner por obra todas las palabras de esta ley.",
+        "blanks": [
+          "Dios"
+        ],
+        "distractors": [
+          "rey",
+          "padre",
+          "juez"
+        ]
+      },
+      {
+        "id": "deut-31-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "En el versículo 16, ¿qué predice Jehová que hará este pueblo después de que Moisés duerma con sus padres?",
+        "options": [
+          "Se prostituirá tras dioses ajenos y quebrantará el convenio",
+          "Conquistará todas las naciones vecinas",
+          "Construirá un templo de inmediato",
+          "Elegirá un rey de la tribu de Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-31-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Ahora, pues, escribid este cántico para vosotros y enseñadlo a los hijos de Israel; ponlo en boca de ellos, para que este cántico me sirva de {0} contra los hijos de Israel.",
+        "blanks": [
+          "testigo"
+        ],
+        "distractors": [
+          "espada",
+          "escudo",
+          "rescate"
+        ]
+      },
+      {
+        "id": "deut-31-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Tomad este libro de la ley y ponedlo al lado del arca del convenio de Jehová vuestro Dios, para que esté allí por {0} contra ti.",
+        "blanks": [
+          "testigo"
+        ],
+        "distractors": [
+          "ofrenda",
+          "memorial",
+          "espada"
+        ]
+      },
+      {
+        "id": "deut-31-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Al final del capítulo, ¿qué habla Moisés a oídos de toda la congregación de Israel?",
+        "options": [
+          "Las palabras de un cántico",
+          "Una lista de las tribus",
+          "Los límites de la tierra",
+          "Los nombres de los sacerdotes"
+        ],
+        "answer": 0
+      }
+    ],
+    "32": [
+      {
+        "id": "deut-32-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "El Cántico de Moisés",
+        "text": "Deuteronomio 32 es un poema — el Cántico de Moisés — que él enseña a Israel poco antes de morir, para que el pueblo nunca olvide a Dios."
+      },
+      {
+        "id": "deut-32-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Él es la {0}, cuya obra es perfecta",
+        "blanks": [
+          "Roca"
+        ],
+        "distractors": [
+          "Fuente",
+          "Torre",
+          "Muralla"
+        ]
+      },
+      {
+        "id": "deut-32-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Como el {0} despierta su nidada",
+        "blanks": [
+          "águila"
+        ],
+        "distractors": [
+          "cuervo",
+          "halcón",
+          "buitre"
+        ]
+      },
+      {
+        "id": "deut-32-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Según Deuteronomio 32:12, ¿quién guio solo a su pueblo?",
+        "options": [
+          "Jehová",
+          "Moisés",
+          "Aarón",
+          "Josué"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-32-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "se ha encendido el {0} de mi furor",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "viento",
+          "trueno",
+          "clamor"
+        ]
+      },
+      {
+        "id": "deut-32-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "emplearé en ellos mis {0}",
+        "blanks": [
+          "saetas"
+        ],
+        "distractors": [
+          "espadas",
+          "lanzas",
+          "hondas"
+        ]
+      },
+      {
+        "id": "deut-32-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "En Deuteronomio 32:32, la vid de los enemigos se compara con la vid de ¿qué ciudades?",
+        "options": [
+          "Sodoma y Gomorra",
+          "Babilonia y Nínive",
+          "Tiro y Sidón",
+          "Jericó y Hai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-32-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Mía es la {0} y la retribución",
+        "blanks": [
+          "venganza"
+        ],
+        "distractors": [
+          "misericordia",
+          "sabiduría",
+          "heredad"
+        ]
+      },
+      {
+        "id": "deut-32-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "Si afilo mi reluciente {0}",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "lanza",
+          "saeta",
+          "honda"
+        ]
+      },
+      {
+        "id": "deut-32-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "recitó todas las palabras de este {0} a oídos del pueblo",
+        "blanks": [
+          "cántico"
+        ],
+        "distractors": [
+          "mandato",
+          "sermón",
+          "salmo"
+        ]
+      },
+      {
+        "id": "deut-32-mc-49",
+        "type": "multiple_choice",
+        "after_verse": 49,
+        "question": "En Deuteronomio 32:49, ¿a qué monte manda Jehová subir a Moisés para ver Canaán?",
+        "options": [
+          "Al monte Nebo",
+          "Al monte Sinaí",
+          "Al monte Hor",
+          "Al monte Carmelo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-32-cur-52",
+        "type": "curiosity",
+        "after_verse": 52,
+        "title": "Moisés ve, pero no entra",
+        "text": "Por haber sido infiel en las aguas de Meriba, Moisés contempla la tierra prometida desde el monte Nebo, pero muere sin entrar en ella."
+      }
+    ],
+    "33": [
+      {
+        "id": "deut-33-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Del Sinaí a Parán",
+        "text": "El poema se abre describiendo a Dios viniendo del Sinaí, de Seir y del monte Parán: una imagen de la majestad divina desplazándose sobre los hitos del desierto donde Israel peregrinó."
+      },
+      {
+        "id": "deut-33-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Jehová vino de {0}",
+        "blanks": [
+          "Sinaí"
+        ],
+        "distractors": [
+          "Seir",
+          "Parán",
+          "Horeb"
+        ]
+      },
+      {
+        "id": "deut-33-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "La bendición de Leví asocia a esa tribu con qué objetos sagrados usados para discernir la voluntad de Dios?",
+        "options": [
+          "El Tumim y el Urim",
+          "El arca y la vara",
+          "El efod y la mitra",
+          "El incienso y el aceite"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-33-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Bendita de Jehová sea su tierra, con lo mejor de los {0}",
+        "blanks": [
+          "cielos"
+        ],
+        "distractors": [
+          "mares",
+          "montes",
+          "campos"
+        ]
+      },
+      {
+        "id": "deut-33-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Al hablar de José, Moisés menciona \"los diez millares de Efraín\" y \"los millares de Manasés\". ¿Quiénes eran Efraín y Manasés?",
+        "options": [
+          "Los hijos de José",
+          "Los hijos de Leví",
+          "Los hijos de Judá",
+          "Los hermanos de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-33-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "que salta desde {0}",
+        "blanks": [
+          "Basán"
+        ],
+        "distractors": [
+          "Seir",
+          "Sinaí",
+          "Parán"
+        ]
+      },
+      {
+        "id": "deut-33-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Los brazos eternos",
+        "text": "La imagen del \"eterno Dios\" como refugio y de los \"brazos eternos\" que sostienen a Israel por debajo se convirtió en una de las expresiones más citadas del libro, evocando protección y amparo divinos."
+      },
+      {
+        "id": "deut-33-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "estará en tierra de grano y de {0}",
+        "blanks": [
+          "vino"
+        ],
+        "distractors": [
+          "aceite",
+          "rocío",
+          "leche"
+        ]
+      }
+    ],
+    "34": [
+      {
+        "id": "deut-34-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "al monte {0}, a la cumbre del Pisga",
+        "blanks": [
+          "Nebo"
+        ],
+        "distractors": [
+          "Sinaí",
+          "Horeb",
+          "Carmelo"
+        ]
+      },
+      {
+        "id": "deut-34-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿A quiénes dijo Jehová que había jurado dar aquella tierra para su descendencia?",
+        "options": [
+          "A Abraham, Isaac y Jacob",
+          "A Noé, Sem y Cam",
+          "A Adán, Set y Enoc",
+          "A David, Salomón y Roboam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "deut-34-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Un sepulcro desconocido",
+        "text": "El relato dice que el propio Jehová sepultó a Moisés en un valle de Moab, y que hasta el día en que se escribió nadie conocía el lugar exacto de su sepulcro."
+      },
+      {
+        "id": "deut-34-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Josué hijo de Nun estaba lleno del espíritu de {0}",
+        "blanks": [
+          "sabiduría"
+        ],
+        "distractors": [
+          "temor",
+          "tristeza",
+          "envidia"
+        ]
+      },
+      {
+        "id": "deut-34-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Moisés",
+            "right": "Profeta a quien Jehová conoció cara a cara"
+          },
+          {
+            "left": "Josué",
+            "right": "Sucesor lleno del espíritu de sabiduría"
+          },
+          {
+            "left": "Nebo",
+            "right": "Monte desde donde Moisés vio la tierra prometida"
+          }
+        ]
+      }
+    ]
+  }
+}

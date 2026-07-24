@@ -1,0 +1,136 @@
+{
+ "schema_version": 1,
+ "book": "jarom",
+ "chapters": {
+  "1": [
+   {
+    "id": "jarom-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "according to the commandment of my father, {0}",
+    "blanks": [
+     "Enos"
+    ],
+    "distractors": [
+     "Jacob",
+     "Nephi",
+     "Lehi"
+    ]
+   },
+   {
+    "id": "jarom-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Why Jarom keeps it short",
+    "text": "Jarom explains he won't record his own prophecies or revelations—his fathers had already revealed the plan of salvation, and ‘this sufficeth me.’ His whole book is just 15 verses."
+   },
+   {
+    "id": "jarom-1-mc-5",
+    "after_verse": 5,
+    "type": "multiple_choice",
+    "question": "At about two hundred years, how does Jarom describe the people of Nephi?",
+    "options": [
+     "Strong in the land, keeping the law of Moses and the sabbath",
+     "Scattered and forgotten",
+     "Ruled by the Lamanites",
+     "Without any prophets"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "How were the Nephites able to withstand the Lamanites in battle?",
+    "options": [
+     "Their kings and leaders were mighty in the faith of the Lord",
+     "They had far greater numbers",
+     "They hired foreign armies",
+     "They paid the Lamanites tribute"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "Iron, copper, brass, and steel",
+    "text": "Jarom lists the Nephites' skill in metalwork—gold, silver, iron, copper, brass, and steel—shaping both tools to till the ground and weapons of war like the arrow, dart, and javelin."
+   },
+   {
+    "id": "jarom-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Inasmuch as ye will keep my commandments ye shall {0} in the land",
+    "blanks": [
+     "prosper"
+    ],
+    "distractors": [
+     "dwell",
+     "remain",
+     "reign"
+    ]
+   },
+   {
+    "id": "jarom-1-mc-11",
+    "after_verse": 11,
+    "type": "multiple_choice",
+    "question": "What did the prophets, priests, and teachers persuade the people to do?",
+    "options": [
+     "Look forward to the Messiah and believe in him to come",
+     "Abandon the law of Moses",
+     "Build temples of gold",
+     "Make peace treaties with the Lamanites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "The plates grow full",
+    "text": "Jarom points readers to the ‘other plates of Nephi’ for the record of their wars, then hands these small plates to his son Omni—the record passing down a family line that keeps shrinking its words."
+   },
+   {
+    "id": "jarom-1-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "I deliver these plates into the hands of my son {0}",
+    "blanks": [
+     "Omni"
+    ],
+    "distractors": [
+     "Enos",
+     "Jacob",
+     "Nephi"
+    ]
+   },
+   {
+    "id": "jarom-1-mp-15",
+    "type": "match_pairs",
+    "after_verse": 15,
+    "pairs": [
+     {
+      "left": "Enos",
+      "right": "Jarom's father"
+     },
+     {
+      "left": "Jarom",
+      "right": "Author of this book"
+     },
+     {
+      "left": "Omni",
+      "right": "Jarom's son"
+     },
+     {
+      "left": "Nephi",
+      "right": "Began the plates Jarom keeps"
+     }
+    ]
+   }
+  ]
+ }
+}

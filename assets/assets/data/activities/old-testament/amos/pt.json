@@ -1,0 +1,548 @@
+{
+ "schema_version": 1,
+ "book": "amos",
+ "chapters": {
+  "1": [
+   {
+    "id": "amos-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um pastor, não um cortesão",
+    "text": "Amós estava 'entre os pastores de Tecoa' — um homem simples dos montes de Judá, não um profeta da corte. Suas palavras são datadas 'dois anos antes do terremoto', um tremor lembrado por gerações."
+   },
+   {
+    "id": "amos-1-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "porei fogo à casa de {0}",
+    "blanks": [
+     "Hazael"
+    ],
+    "distractors": [
+     "Ben-Hadade",
+     "Damasco",
+     "Gileade"
+    ]
+   },
+   {
+    "id": "amos-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Amós 1:9, por que se pronuncia juízo contra Tiro?",
+    "options": [
+     "Entregaram todos os cativos a Edom, e não se lembraram da aliança dos irmãos",
+     "Queimaram os ossos do rei de Edom",
+     "Adoraram a Baal",
+     "Recusaram pagar tributo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Amós 1:13, do que são acusados os filhos de Amom?",
+    "options": [
+     "Roubaram os tesouros do templo",
+     "Fenderam as grávidas de Gileade, para dilatarem os seus termos",
+     "Fizeram aliança com o Egito",
+     "Profanaram o altar"
+    ],
+    "answer": 1
+   }
+  ],
+  "2": [
+   {
+    "id": "amos-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Amós 2:4, por que se pronuncia juízo contra Judá?",
+    "options": [
+     "Queimaram os ossos do rei de Edom",
+     "Rejeitaram a lei do Senhor, e não guardaram os seus estatutos",
+     "Oprimiram as vacas de Basã",
+     "Fugiram da batalha"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-2-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "vendem o justo por dinheiro, e o necessitado, por um par de {0}",
+    "blanks": [
+     "sapatos"
+    ],
+    "distractors": [
+     "bois",
+     "moedas",
+     "campos"
+    ]
+   },
+   {
+    "id": "amos-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Alto como os cedros",
+    "text": "O versículo 9 recorda como o Senhor destruiu o amorreu diante de Israel — 'cuja altura foi como a altura dos cedros, e foi forte como os carvalhos' — lembrando que a terra de Israel foi um dom, não uma conquista própria."
+   },
+   {
+    "id": "amos-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Segundo Amós 2:11, quem o Senhor suscitou dentre os filhos e jovens de Israel?",
+    "options": [
+     "Reis e juízes",
+     "Profetas e nazireus",
+     "Sacerdotes e escribas",
+     "Guerreiros e capitães"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "amos-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Amós 3:3, que pergunta retórica abre a cadeia de imagens?",
+    "options": [
+     "Porventura andarão dois juntos, se não estiverem de acordo?",
+     "Pode o peixe viver em terra seca?",
+     "Nascerá o sol à meia-noite?",
+     "Pode a figueira dar azeitonas?"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-3-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "Deus revela o seu segredo",
+    "text": "Amós 3:7 — 'o Senhor Deus não fará coisa alguma, sem ter revelado o seu segredo aos seus servos, os profetas' — é uma das declarações mais claras da Bíblia de que Deus age por meio de profetas."
+   },
+   {
+    "id": "amos-3-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Porque não sabem fazer o que é {0}",
+    "blanks": [
+     "reto"
+    ],
+    "distractors": [
+     "bom",
+     "mau",
+     "falso"
+    ]
+   },
+   {
+    "id": "amos-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Amós 3:15, quais casas o Senhor ferirá?",
+    "options": [
+     "As tendas dos pastores",
+     "A casa de inverno com a casa de verão, e as casas de marfim",
+     "As portas da cidade",
+     "Os celeiros de trigo"
+    ],
+    "answer": 1
+   }
+  ],
+  "4": [
+   {
+    "id": "amos-4-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "Ouvi esta palavra, vós, {0} de Basã",
+    "blanks": [
+     "vacas"
+    ],
+    "distractors": [
+     "touros",
+     "ovelhas",
+     "cabras"
+    ]
+   },
+   {
+    "id": "amos-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Amós 4:4, a quais dois lugares o Senhor ironicamente diz 'vinde e transgredi'?",
+    "options": [
+     "Sião e Jerusalém",
+     "Betel e Gilgal",
+     "Samaria e Damasco",
+     "Tiro e Sidom"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-4-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Que refrão encerra cada um dos castigos do Senhor em Amós 4?",
+    "options": [
+     "Terei misericórdia de vós",
+     "Contudo não vos convertestes a mim",
+     "Voltai, e eu vos sararei",
+     "Os vossos pecados estão perdoados"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-4-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Como Amós 4:13 descreve o Deus dos Exércitos?",
+    "options": [
+     "Aquele que forma os montes, e cria o vento, e declara ao homem qual seja o seu pensamento",
+     "Um homem de guerra",
+     "O Deus somente de Abraão",
+     "Um Deus oculto e silencioso"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "amos-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Amós 5:4, o que o Senhor diz à casa de Israel?",
+    "options": [
+     "Buscai-me, e vivei",
+     "Fugi para os montes",
+     "Edificai-me um templo",
+     "Oferecei mais sacrifícios"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "O que fez as constelações",
+    "text": "Amós 5:8 nomeia o Senhor como aquele que faz 'o Sete-Estrelo, e o Órion' — apontando Israel dos seus ídolos para o Deus que pôs as próprias constelações no céu."
+   },
+   {
+    "id": "amos-5-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Amós 5:8, o que o Senhor faz com as águas do mar?",
+    "options": [
+     "Chama-as e as derrama sobre a terra",
+     "Torna-as em sangue",
+     "Seca-as",
+     "Divide-as em duas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Na porta odeiam o que os {0}",
+    "blanks": [
+     "repreende"
+    ],
+    "distractors": [
+     "ajuda",
+     "segue",
+     "guia"
+    ]
+   },
+   {
+    "id": "amos-5-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Segundo Amós 5:14, o que o povo deve buscar para que viva?",
+    "options": [
+     "O bem, e não o mal",
+     "Riqueza e honra",
+     "Reis e exércitos",
+     "Sinais e maravilhas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Odiai o mal, e amai o bem, e estabelecei o {0} na porta",
+    "blanks": [
+     "juízo"
+    ],
+    "distractors": [
+     "pão",
+     "culto",
+     "trono"
+    ]
+   },
+   {
+    "id": "amos-5-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Segundo Amós 5:18-20, o que será o dia do Senhor para os que o desejam?",
+    "options": [
+     "Luz e alegria",
+     "Trevas e não luz",
+     "Descanso e festa",
+     "Vitória sobre as nações"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-5-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Em Amós 5:24, o que o Senhor diz que deve correr como as águas?",
+    "options": [
+     "O juízo",
+     "O sangue",
+     "O óleo",
+     "O vinho"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "amos-6-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Camas de marfim",
+    "text": "O versículo 4 retrata a elite deitada 'em camas de marfim' comendo cordeiros e bezerros — a arqueologia em Samaria revelou incrustações de marfim que combinam com esta denúncia do luxo."
+   },
+   {
+    "id": "amos-6-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Em Amós 6:6, por que se pronuncia ai sobre os que bebem vinho em taças?",
+    "options": [
+     "Não se afligem pela ruína de José",
+     "Esqueceram de guardar o sábado",
+     "Roubaram o templo",
+     "Fugiram do inimigo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-6-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "vós tornastes o juízo em {0}",
+    "blanks": [
+     "fel"
+    ],
+    "distractors": [
+     "água",
+     "canto",
+     "prata"
+    ]
+   },
+   {
+    "id": "amos-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Segundo Amós 6:14, o que o Senhor levantará contra a casa de Israel?",
+    "options": [
+     "Uma fome",
+     "Um povo que os oprimirá desde a entrada de Hamate",
+     "Uma praga de gafanhotos",
+     "Um grande fogo"
+    ],
+    "answer": 1
+   }
+  ],
+  "7": [
+   {
+    "id": "amos-7-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O profeta que intercedeu",
+    "text": "No capítulo 7 Amós não apenas anuncia juízo — ele intercede. Duas vezes suplica 'Senhor Deus, ora, perdoa... como se levantará Jacó? porque é pequeno', e duas vezes o Senhor se arrepende."
+   },
+   {
+    "id": "amos-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Nas duas primeiras visões de Amós 7, o que Amós suplica sobre Jacó?",
+    "options": [
+     "Que é rico",
+     "Como se levantará Jacó? porque é pequeno",
+     "Que merece misericórdia",
+     "Que se arrependerá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-7-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Na terceira visão, o que o Senhor tinha na mão sobre o muro (Amós 7:7)?",
+    "options": [
+     "Uma espada",
+     "Um prumo",
+     "Um cesto",
+     "Uma vara"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-7-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "Eu não era profeta, nem filho de profeta, mas {0}",
+    "blanks": [
+     "boiadeiro"
+    ],
+    "distractors": [
+     "ancião",
+     "oficial",
+     "artesão"
+    ]
+   },
+   {
+    "id": "amos-7-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Como o sacerdote Amazias tenta calar Amós (Amós 7:12-13)?",
+    "options": [
+     "Oferecendo-lhe ouro",
+     "Mandando-o fugir para Judá e não profetizar em Betel, o santuário do rei",
+     "Lançando-o na prisão",
+     "Chamando o exército"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "amos-8-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "eis aqui um {0} de frutos do verão",
+    "blanks": [
+     "cesto"
+    ],
+    "distractors": [
+     "medida",
+     "vinha",
+     "campo"
+    ]
+   },
+   {
+    "id": "amos-8-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Amós 8:5, como os mercadores gananciosos enganam os pobres?",
+    "options": [
+     "Diminuindo o efa, e aumentando o siclo, e falsificando as balanças",
+     "Roubando à noite",
+     "Cobrando alto aluguel",
+     "Queimando a colheita"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-8-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Amós 8:10, no que o Senhor tornará as festas do povo?",
+    "options": [
+     "Em silêncio",
+     "Em luto",
+     "Em alegria",
+     "Em jejum"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-8-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Em Amós 8:11, que tipo de fome o Senhor promete enviar?",
+    "options": [
+     "Fome de pão e água",
+     "Fome de ouvir as palavras do Senhor",
+     "Fome de vinho",
+     "Fome de óleo"
+    ],
+    "answer": 1
+   }
+  ],
+  "9": [
+   {
+    "id": "amos-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Amós 9:2-3, o que o Senhor diz sobre escapar do seu juízo?",
+    "options": [
+     "Nenhum esconderijo — nem o inferno, o céu, o Carmelo ou o fundo do mar — os livrará",
+     "Só os fortes escaparão",
+     "Os que estão em Sião estão seguros",
+     "O ligeiro fugirá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-9-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Sem lugar para se esconder",
+    "text": "A quinta e última visão abre com o Senhor de pé sobre o altar. Sua poesia — 'se subirem ao céu, dali os farei descer' — ecoa o alcance depois cantado no Salmo 139."
+   },
+   {
+    "id": "amos-9-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Amós 9:8, o que o Senhor promete sobre a casa de Jacó?",
+    "options": [
+     "Que a destruirá de todo",
+     "Que não a destruirá de todo",
+     "Que a dispersará para sempre",
+     "Que a esquecerá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-9-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "tornarei a levantar a caída tenda de {0}",
+    "blanks": [
+     "Davi"
+    ],
+    "distractors": [
+     "Jacó",
+     "José",
+     "Israel"
+    ]
+   },
+   {
+    "id": "amos-9-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Como o livro de Amós encerra, em Amós 9:14-15?",
+    "options": [
+     "Com destruição total",
+     "Com a promessa de fazer retornar os cativos de Israel e plantá-los na sua terra",
+     "Com silêncio",
+     "Com uma praga"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

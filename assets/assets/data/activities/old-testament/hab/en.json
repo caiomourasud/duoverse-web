@@ -1,0 +1,255 @@
+{
+ "schema_version": 1,
+ "book": "hab",
+ "chapters": {
+  "1": [
+   {
+    "id": "hab-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A prophet who argues with God",
+    "text": "Habakkuk is unusual among the prophets: instead of delivering God's message to the people, he voices the people's complaint to God. The whole book is a dialogue of hard questions and divine replies."
+   },
+   {
+    "id": "hab-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Whom does the Lord say he will raise up (Habakkuk 1:6)?",
+    "options": [
+     "The Chaldeans",
+     "The Egyptians",
+     "The Assyrians",
+     "The Philistines"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-1-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "that {0} and hasty nation",
+    "blanks": [
+     "bitter"
+    ],
+    "distractors": [
+     "ancient",
+     "faithful",
+     "distant"
+    ]
+   },
+   {
+    "id": "hab-1-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Habakkuk 1:11, to what does the conqueror wrongly impute his power?",
+    "options": [
+     "To his own wisdom",
+     "To his god",
+     "To his army",
+     "To fortune"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-1-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "In Habakkuk 1:13, what troubles the prophet about the Lord?",
+    "options": [
+     "That he holds his tongue while the wicked devours the more righteous",
+     "That he has forgotten Judah",
+     "That he favors the nations",
+     "That he no longer speaks"
+    ],
+    "answer": 0
+   }
+  ],
+  "2": [
+   {
+    "id": "hab-2-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "In Habakkuk 2:2, what does the Lord tell the prophet to do with the vision?",
+    "options": [
+     "Hide it in the temple",
+     "Write it and make it plain upon tables",
+     "Speak it only to the king",
+     "Keep silence about it"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "but the just shall live by his {0}",
+    "blanks": [
+     "faith"
+    ],
+    "distractors": [
+     "works",
+     "law",
+     "sword"
+    ]
+   },
+   {
+    "id": "hab-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How is the proud man's insatiable desire described in Habakkuk 2:5?",
+    "options": [
+     "Enlarged as hell, like death that cannot be satisfied",
+     "Small as a seed",
+     "Cold as winter",
+     "Light as dust"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "\"The just shall live by his faith\"",
+    "text": "Habakkuk 2:4 is one of Scripture's most influential lines: Paul quotes it in Romans and Galatians, and it appears in Hebrews. Centuries later it helped spark the Protestant Reformation."
+   },
+   {
+    "id": "hab-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "In Habakkuk 2:11, what does the prophet say will cry out against the builder of a bloody city?",
+    "options": [
+     "The stone out of the wall",
+     "The wind",
+     "The rivers",
+     "The stars"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "The fifth woe in Habakkuk 2:15 is against one who does what to his neighbour?",
+    "options": [
+     "Steals his field",
+     "Gives him drink and makes him drunken",
+     "Bears false witness",
+     "Withholds his wages"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "But the Lord is in his holy {0}",
+    "blanks": [
+     "temple"
+    ],
+    "distractors": [
+     "mountain",
+     "city",
+     "heaven"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "hab-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A prayer set to music",
+    "text": "Chapter 3 is titled \"a prayer of Habakkuk\" and is marked with \"Selah\" and a closing note to the chief singer — signs that this was a psalm, sung with stringed instruments in worship."
+   },
+   {
+    "id": "hab-3-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "In Habakkuk 3:2, what does the prophet ask the Lord to remember in his wrath?",
+    "options": [
+     "Mercy",
+     "The covenant",
+     "His people's oaths",
+     "The temple"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "According to Habakkuk 3:5, what went before the Lord as he came?",
+    "options": [
+     "A rainbow",
+     "The pestilence",
+     "A cloud of incense",
+     "A host of angels"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Habakkuk 3:10, how do the mountains respond when they see the Lord?",
+    "options": [
+     "They sing",
+     "They melt into rivers",
+     "They saw and trembled",
+     "They vanish"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "hab-3-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Thou didst walk through the {0} with thine horses",
+    "blanks": [
+     "sea"
+    ],
+    "distractors": [
+     "desert",
+     "valley",
+     "storm"
+    ]
+   },
+   {
+    "id": "hab-3-mp-17",
+    "type": "match_pairs",
+    "after_verse": 17,
+    "pairs": [
+     {
+      "left": "The fruit that fails",
+      "right": "The vine"
+     },
+     {
+      "left": "The tree that shall not blossom",
+      "right": "The fig tree"
+     },
+     {
+      "left": "The labour that shall fail",
+      "right": "The olive"
+     }
+    ]
+   },
+   {
+    "id": "hab-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "In Habakkuk 3:19, the Lord God is the prophet's strength and makes his feet like whose?",
+    "options": [
+     "The eagle's",
+     "Hinds' (deer's)",
+     "The lion's",
+     "The horse's"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

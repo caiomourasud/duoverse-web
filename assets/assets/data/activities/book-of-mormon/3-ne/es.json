@@ -1,0 +1,2889 @@
+{
+  "schema_version": 1,
+  "book": "3-ne",
+  "chapters": {
+    "1": [
+      {
+        "id": "3-ne-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "y fue el año en que {0} era juez superior y gobernador en toda la tierra",
+        "blanks": [
+          "Laconeo"
+        ],
+        "distractors": [
+          "Nefi",
+          "Helamán",
+          "Pahorán"
+        ]
+      },
+      {
+        "id": "3-ne-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Seiscientos años",
+        "text": "El capítulo abre exactamente 600 años después de que Lehi dejó Jerusalén — el plazo profético para la venida de Cristo. Por eso los incrédulos se burlaban: el tiempo había pasado y la señal de Samuel no había llegado... todavía."
+      },
+      {
+        "id": "3-ne-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué decretaron los incrédulos contra los creyentes?",
+        "options": [
+          "Que serían muertos si la señal de Samuel no se cumplía en un día fijado",
+          "Que pagarían tributo",
+          "Que serían exiliados",
+          "Que perderían sus tierras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "pues he aquí, ha llegado el momento; y esta noche se dará la {0}",
+        "blanks": [
+          "señal"
+        ],
+        "distractors": [
+          "milagro",
+          "juicio",
+          "don"
+        ]
+      },
+      {
+        "id": "3-ne-1-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "'Mañana vengo al mundo'",
+        "text": "En uno de los momentos más singulares de las Escrituras, el propio Cristo — aún no nacido — habla a Nefi en vísperas de su nacimiento: 'esta noche se dará la señal, y mañana vengo al mundo'."
+      },
+      {
+        "id": "3-ne-1-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué señal marcó que era el día en que nacería el Señor?",
+        "options": [
+          "La noche no tuvo oscuridad, clara como mediodía",
+          "Un gran terremoto",
+          "El sol se oscureció",
+          "Cayó fuego del cielo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Y aconteció también que apareció una nueva {0}, de acuerdo con la palabra",
+        "blanks": [
+          "estrella"
+        ],
+        "distractors": [
+          "luna",
+          "cometa",
+          "llama"
+        ]
+      },
+      {
+        "id": "3-ne-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Quiénes perturbaban la paz, habitando en las montañas?",
+        "options": [
+          "Los ladrones de Gadiantón",
+          "Los lamanitas convertidos",
+          "Los zoramitas",
+          "Los comerciantes"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "3-ne-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Por qué empezó el pueblo a dudar de las señales que había visto?",
+        "options": [
+          "Empezaron a olvidarlas y a endurecer el corazón",
+          "Los profetas callaron",
+          "Surgió una hambruna",
+          "Los lamanitas atacaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Tan prontos a olvidar",
+        "text": "Pocos años después del milagro de la noche sin oscuridad, el pueblo ya se asombraba 'cada vez menos' de las señales y empezó a atribuirlas a 'los hombres y el poder del diablo'. La rapidez con que olvidaron es uno de los temas centrales del libro."
+      },
+      {
+        "id": "3-ne-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "los nefitas empezaron a calcular su tiempo desde esta ocasión en que se manifestó la señal, o sea, desde la venida de {0}",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Samuel",
+          "Moisés",
+          "Nefi"
+        ]
+      },
+      {
+        "id": "3-ne-2-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "porque los ladrones de {0} se habían hecho tan numerosos",
+        "blanks": [
+          "Gadiantón"
+        ],
+        "distractors": [
+          "Kishkumen",
+          "Coriántumr",
+          "Zoram"
+        ]
+      },
+      {
+        "id": "3-ne-2-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué sucedió en la guerra contra los ladrones en el año quince?",
+        "options": [
+          "Por la iniquidad de los nefitas, los ladrones lograron muchas ventajas",
+          "Los ladrones fueron exterminados",
+          "Hubo una tregua",
+          "Los lamanitas desistieron"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "3-ne-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué tono usó Giddiani en su epístola a Laconeo?",
+        "options": [
+          "Elogió su firmeza, pero exigió que se rindiera",
+          "Se disculpó",
+          "Ofreció oro",
+          "Declaró paz eterna"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-3-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "La carta del ladrón",
+        "text": "Giddiani escribe a Laconeo de forma curiosa: elogia su firmeza y su 'noble espíritu', pero, en el mismo aliento, le exige que entregue sus tierras y amenaza con exterminarlo. Es una mezcla de lisonja e intimidación típica de las combinaciones secretas."
+      },
+      {
+        "id": "3-ne-3-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "He aquí, soy {0}; y soy el caudillo de esta sociedad secreta de Gadiantón",
+        "blanks": [
+          "Giddiani"
+        ],
+        "distractors": [
+          "Zemnaríah",
+          "Gidgiddoni",
+          "Laconeo"
+        ]
+      },
+      {
+        "id": "3-ne-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo reaccionó Laconeo, hombre justo, a la amenaza del ladrón?",
+        "options": [
+          "No cedió, sino que hizo que el pueblo clamara al Señor por fuerza",
+          "Se rindió enseguida",
+          "Huyó al norte",
+          "Pagó el rescate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-3-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "comandante supremo de todos los ejércitos de los nefitas, y se llamaba {0}",
+        "blanks": [
+          "Gidgiddoni"
+        ],
+        "distractors": [
+          "Laconeo",
+          "Giddiani",
+          "Zemnaríah"
+        ]
+      },
+      {
+        "id": "3-ne-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Capitanes que eran profetas",
+        "text": "Era costumbre entre los nefitas escoger como comandante a alguien con el espíritu de revelación y profecía. Por eso Gidgiddoni, el comandante supremo, era también 'un gran profeta' — la estrategia de guerra nacía de la revelación."
+      },
+      {
+        "id": "3-ne-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué estrategia adoptó Gidgiddoni contra los ladrones?",
+        "options": [
+          "No atacar, sino reunir al pueblo y esperar a que los ladrones vinieran",
+          "Atacarlos en las montañas",
+          "Sobornar a sus caudillos",
+          "Huir al norte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-3-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué mandó Gidgiddoni hacer al pueblo al reunirse?",
+        "options": [
+          "Fabricar armas y fortalecerse con armadura y escudos",
+          "Construir un templo",
+          "Sembrar en las montañas",
+          "Enviar una embajada"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "3-ne-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Por qué se reunieron los nefitas en un solo grupo con siete años de provisiones?",
+        "options": [
+          "Para sobrevivir y destruir a los ladrones, que no tenían cómo obtener alimento",
+          "Para celebrar una fiesta",
+          "Para emigrar al norte",
+          "Para construir una ciudad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "y llevaban una piel de cordero alrededor de los lomos, y se habían teñido con {0}",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "lodo",
+          "púrpura",
+          "hollín"
+        ]
+      },
+      {
+        "id": "3-ne-4-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "El aspecto aterrador de los ladrones",
+        "text": "Para la batalla, los ladrones de Giddiani aparecían con una piel de cordero a la cintura, la cabeza rapada y el cuerpo teñido de sangre — 'grande y terrible' era su aspecto. Pero los nefitas no temieron a los hombres; temieron a Dios."
+      },
+      {
+        "id": "3-ne-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "lo alcanzaron y lo mataron. Y así llegó a su fin {0} el ladrón",
+        "blanks": [
+          "Giddiani"
+        ],
+        "distractors": [
+          "Zemnaríah",
+          "Gidgiddoni",
+          "Laconeo"
+        ]
+      },
+      {
+        "id": "3-ne-4-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Giddiani",
+            "right": "Caudillo de los ladrones, muerto en la primera batalla"
+          },
+          {
+            "left": "Zemnaríah",
+            "right": "Sucesor que ordenó el sitio"
+          },
+          {
+            "left": "Gidgiddoni",
+            "right": "Comandante y profeta de los nefitas"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-4-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué decisión tomó Zemnaríah ante la destrucción continua durante el sitio?",
+        "options": [
+          "Ordenó abandonar el sitio y marchar al norte",
+          "Se rindió a los nefitas",
+          "Atacó de noche",
+          "Pidió tregua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Y tomaron a {0}, su caudillo, y lo colgaron de un árbol",
+        "blanks": [
+          "Zemnaríah"
+        ],
+        "distractors": [
+          "Giddiani",
+          "Gidgiddoni",
+          "Laconeo"
+        ]
+      },
+      {
+        "id": "3-ne-4-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Cómo reaccionaron los nefitas a la victoria sobre los ladrones?",
+        "options": [
+          "Prorrumpieron en cantos, clamando Hosanna al Más Alto Dios",
+          "Saquearon a los muertos",
+          "Coronaron un rey",
+          "Exigieron tributo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-4-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Victoria atribuida al arrepentimiento",
+        "text": "Tras la victoria, los nefitas no se jactaron de su fuerza: lloraron de alegría y reconocieron que habían sido librados 'por su arrepentimiento y su humildad'. El mérito se dio enteramente a Dios."
+      }
+    ],
+    "5": [
+      {
+        "id": "3-ne-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Nadie dudaba",
+        "text": "Tras las señales de Cristo y la gran liberación, 'no hubo alma viviente' entre los nefitas que dudara de las palabras de los profetas. Fue un raro momento de fe unánime — que, lamentablemente, no duraría."
+      },
+      {
+        "id": "3-ne-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué se hizo con los ladrones cautivos que se arrepintieron?",
+        "options": [
+          "Fueron puestos en libertad tras pactar no asesinar más",
+          "Fueron todos ejecutados",
+          "Fueron esclavizados",
+          "Fueron exiliados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Por qué dice Mormón que este libro no puede contener todo?",
+        "options": [
+          "Ni la centésima parte de lo ocurrido en 25 años cabe en el libro",
+          "Los anales se perdieron",
+          "Estaba prohibido escribir",
+          "Le faltó tiempo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Y he aquí, me llamo {0}, llamado así por la tierra de Mormón, la tierra en la cual Alma estableció la iglesia",
+        "blanks": [
+          "Mormón"
+        ],
+        "distractors": [
+          "Nefi",
+          "Alma",
+          "Helamán"
+        ]
+      },
+      {
+        "id": "3-ne-5-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Quién es Mormón",
+        "text": "Aquí el compilador de todo el libro habla en primera persona: 'soy discípulo de Jesucristo... descendiente directo de Lehi'. Recibió el nombre de la tierra de Mormón, donde Alma había establecido la iglesia, y de él toma su nombre el Libro de Mormón."
+      },
+      {
+        "id": "3-ne-5-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Soy Mormón, y soy descendiente directo de {0}",
+        "blanks": [
+          "Lehi"
+        ],
+        "distractors": [
+          "Nefi",
+          "Jacob",
+          "José"
+        ]
+      },
+      {
+        "id": "3-ne-5-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué promesa hace Mormón sobre los descendientes de Jacob?",
+        "options": [
+          "Que el Señor los reunirá de las cuatro partes de la tierra",
+          "Que siempre serán pocos",
+          "Que nunca conocerán al Redentor",
+          "Que permanecerán en Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-5-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Y entonces conocerán a su {0}, que es Jesucristo, el Hijo de Dios",
+        "blanks": [
+          "Redentor"
+        ],
+        "distractors": [
+          "Creador",
+          "Juez",
+          "Pastor"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "3-ne-6-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué sucedió cuando los nefitas volvieron a sus tierras (años 26-27)?",
+        "options": [
+          "Prosperaron, con gran orden y leyes de equidad y justicia",
+          "Fueron atacados de nuevo",
+          "Se volvieron inicuos enseguida",
+          "Coronaron un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Y se construyeron muchas {0}, y se abrieron muchos caminos que conducían de ciudad a ciudad",
+        "blanks": [
+          "calzadas"
+        ],
+        "distractors": [
+          "puentes",
+          "torres",
+          "zanjas"
+        ]
+      },
+      {
+        "id": "3-ne-6-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo empezó el pueblo a distinguirse en el año veintinueve?",
+        "options": [
+          "Por clases, según riquezas y oportunidades de instrucción",
+          "Por tribus",
+          "Por edad",
+          "Por región"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-6-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "La iglesia se deshace",
+        "text": "En apenas unos años de prosperidad, el orgullo dividió al pueblo en clases por la riqueza, y la iglesia 'se deshizo en toda la tierra' — excepto entre unos pocos lamanitas convertidos, firmes e inmutables en la fe."
+      },
+      {
+        "id": "3-ne-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "la redención que el Señor haría por su pueblo, o en otros términos, la {0} de Cristo",
+        "blanks": [
+          "resurrección"
+        ],
+        "distractors": [
+          "ascensión",
+          "transfiguración",
+          "venida"
+        ]
+      },
+      {
+        "id": "3-ne-6-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué hicieron los jueces inicuos con los que testificaban de Cristo?",
+        "options": [
+          "Los prendieron y ejecutaron en secreto, contra la ley",
+          "Los exiliaron",
+          "Los ignoraron",
+          "Se convirtieron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-6-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Qué conspiraron hacer los jueces y sus aliados al final del capítulo?",
+        "options": [
+          "Destruir al gobernador y establecer un rey",
+          "Construir un templo",
+          "Huir al norte",
+          "Rendirse a los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-6-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "El pacto antiguo del diablo",
+        "text": "Los jueces y sus aliados revivieron un pacto secreto 'dado y administrado por el diablo' — la misma combinación de Gadiantón — para unirse contra toda rectitud, destruir al gobernador e instituir un rey. Es el golpe que prepara la crisis de 3 Nefi 7."
+      }
+    ],
+    "7": [
+      {
+        "id": "3-ne-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué le sucedió al gobierno nefita en el año treinta?",
+        "options": [
+          "Fue destruido; el pueblo se dividió en tribus",
+          "Fue fortalecido",
+          "Se mudó al norte",
+          "Coronó a un rey justo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El fin del gobierno",
+        "text": "Al no poder instituir un rey, los conspiradores asesinaron al juez superior y el gobierno nefita simplemente se desplomó. El pueblo se fragmentó en tribus, cada una dirigida por un jefe — el fin de la era de los jueces que había durado más de noventa años."
+      },
+      {
+        "id": "3-ne-7-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "se reunieron y pusieron a la cabeza de ellos a un hombre que llamaban {0}",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Giddiani",
+          "Nefi",
+          "Laconeo"
+        ]
+      },
+      {
+        "id": "3-ne-7-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Cómo se organizó el pueblo en el año treinta y uno?",
+        "options": [
+          "En tribus con leyes estrictas, pero apedreando a los profetas",
+          "Bajo un solo rey",
+          "En un gobierno de jueces",
+          "Bajo los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y aun levantó a un {0} suyo de los muertos, después que el pueblo lo hubo apedreado",
+        "blanks": [
+          "hermano"
+        ],
+        "distractors": [
+          "padre",
+          "hijo",
+          "siervo"
+        ]
+      },
+      {
+        "id": "3-ne-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Nefi resucita a su hermano",
+        "text": "En medio de la apostasía, Nefi predicaba con tanto poder que los ángeles le ministraban a diario. En el nombre de Jesús echaba fuera demonios y — el punto culminante — resucitó a su propio hermano, que había sido apedreado y muerto por el pueblo."
+      },
+      {
+        "id": "3-ne-7-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué exigía Nefi a los que se arrepentían?",
+        "options": [
+          "Que fueran bautizados en el agua como testimonio",
+          "Que pagaran un tributo",
+          "Que dejaran sus tierras",
+          "Que ayunaran siete días"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-7-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué sucedió al principio del año treinta y tres?",
+        "options": [
+          "Muchos fueron bautizados para arrepentimiento",
+          "Los lamanitas atacaron",
+          "Cristo apareció",
+          "Hubo un terremoto"
+        ],
+        "answer": 0
+      }
+    ],
+    "8": [
+      {
+        "id": "3-ne-8-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué señal aguardaba el pueblo con ansiedad?",
+        "options": [
+          "Tres días de tinieblas, profetizados por Samuel",
+          "Una nueva estrella",
+          "Un gran diluvio",
+          "La venida de un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-8-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "La fecha exacta",
+        "text": "El texto registra el momento preciso del cataclismo: el cuarto día del primer mes del año treinta y cuatro. Fue la señal de la muerte de Cristo, profetizada por Samuel — tres horas de tempestad seguidas de tres días de tinieblas."
+      },
+      {
+        "id": "3-ne-8-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Y se hundió la ciudad de Moroni en las profundidades del {0}, y sus habitantes se ahogaron",
+        "blanks": [
+          "mar"
+        ],
+        "distractors": [
+          "lago",
+          "abismo",
+          "río"
+        ]
+      },
+      {
+        "id": "3-ne-8-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Dónde hubo la destrucción más terrible?",
+        "options": [
+          "En la tierra del norte, cuya faz entera fue alterada",
+          "En la tierra del sur",
+          "En el mar",
+          "En Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-8-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "todas estas grandes y terribles cosas acontecieron en el espacio de unas {0} horas",
+        "blanks": [
+          "tres"
+        ],
+        "distractors": [
+          "dos",
+          "siete",
+          "diez"
+        ]
+      },
+      {
+        "id": "3-ne-8-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Tres horas, tres días",
+        "text": "Toda la devastación — terremotos, incendios, ciudades hundidas — duró solo unas tres horas. Luego vinieron tinieblas tan densas que el pueblo podía 'sentir el vapor de tinieblas' y no podía encender fuego alguno, por tres días."
+      },
+      {
+        "id": "3-ne-8-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Cuánto duraron las tinieblas, y qué hizo el pueblo?",
+        "options": [
+          "Tres días; hubo gran llanto y lamentación",
+          "Un día; el pueblo celebró",
+          "Siete días; el pueblo durmió",
+          "Una hora; no notaron nada"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "3-ne-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La voz en las tinieblas",
+        "text": "En medio de las tinieblas, todos los habitantes oyeron una voz — la de Cristo mismo — pronunciando '¡ay, ay, ay!' y nombrando, una a una, las ciudades destruidas. Fue la primera vez que el pueblo oyó la voz del Salvador antes de verlo."
+      },
+      {
+        "id": "3-ne-9-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "pairs": [
+          {
+            "left": "Zarahemla",
+            "right": "Quemada con fuego"
+          },
+          {
+            "left": "Moroni",
+            "right": "Hundida en las profundidades del mar"
+          },
+          {
+            "left": "Moroníah",
+            "right": "Cubierta de tierra, se hizo montaña"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Por qué fue quemada la ciudad de Jacobugat?",
+        "options": [
+          "Por sus asesinatos y combinaciones secretas",
+          "Por su pobreza",
+          "Por adorar ídolos",
+          "Por una guerra civil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Sí, en verdad os digo que si venís a mí, tendréis vida {0}",
+        "blanks": [
+          "eterna"
+        ],
+        "distractors": [
+          "breve",
+          "temporal",
+          "mortal"
+        ]
+      },
+      {
+        "id": "3-ne-9-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "'Soy Jesucristo'",
+        "text": "Por primera vez en el Libro de Mormón, el Salvador resucitado habla directamente, declarando: 'Soy Jesucristo, el Hijo de Dios... soy el Alfa y la Omega'. Anuncia que la ley de Moisés se ha cumplido en él y pide un corazón quebrantado en vez de sacrificios."
+      },
+      {
+        "id": "3-ne-9-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué sacrificio pide Cristo, al cesar los holocaustos?",
+        "options": [
+          "Un corazón quebrantado y un espíritu contrito",
+          "Un cordero sin defecto",
+          "El diezmo de los frutos",
+          "Un voto de silencio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-9-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "al que se arrepintiere y viniere a mí como un {0}, yo lo recibiré",
+        "blanks": [
+          "niño pequeñito"
+        ],
+        "distractors": [
+          "anciano",
+          "rey",
+          "siervo"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "3-ne-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "cuántas veces os he juntado como la {0} junta sus polluelos bajo las alas",
+        "blanks": [
+          "gallina"
+        ],
+        "distractors": [
+          "águila",
+          "paloma",
+          "leona"
+        ]
+      },
+      {
+        "id": "3-ne-10-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El silencio",
+        "text": "Tras la voz, sobrevino un silencio que duró muchas horas — el pueblo estaba tan asombrado que cesó de llorar a sus muertos. Fue una pausa solemne entre la destrucción y la promesa de sanación."
+      },
+      {
+        "id": "3-ne-10-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué sucedió por la mañana, tras los tres días de tinieblas?",
+        "options": [
+          "Las tinieblas se disiparon y el llanto se tornó en gozo",
+          "Vino otra tempestad",
+          "Cristo descendió enseguida",
+          "El sol no salió"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Quiénes fueron preservados de la destrucción?",
+        "options": [
+          "La parte más justa, que recibía a los profetas",
+          "Los más ricos",
+          "Los habitantes del norte",
+          "Los que tenían armas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Sí, el profeta {0} testificó de estas cosas, y también Zenoc habló concerniente a ellas",
+        "blanks": [
+          "Zenós"
+        ],
+        "distractors": [
+          "Samuel",
+          "Isaías",
+          "Jeremías"
+        ]
+      },
+      {
+        "id": "3-ne-10-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "La promesa de una aparición",
+        "text": "Mormón cierra el capítulo con un anuncio: poco después de su ascensión al cielo, Cristo 'verdaderamente se manifestó' a los sobrevivientes, mostrándoles su cuerpo. Es la antesala del evento central del libro, en 3 Nefi 11."
+      }
+    ],
+    "11": [
+      {
+        "id": "3-ne-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Dónde se reunía la multitud cuando ocurrió este acontecimiento?",
+        "options": [
+          "En los alrededores del templo, en la tierra de Abundancia",
+          "En Zarahemla",
+          "En las montañas",
+          "Junto al mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "La voz suave",
+        "text": "Antes de ver al Salvador, la multitud oyó una voz del cielo tres veces. No era áspera ni fuerte, pero tan penetrante que les hizo arder el corazón — y solo a la tercera vez pudieron entenderla."
+      },
+      {
+        "id": "3-ne-11-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "vieron a un Hombre que descendía del cielo; y estaba vestido con una túnica {0}",
+        "blanks": [
+          "blanca"
+        ],
+        "distractors": [
+          "púrpura",
+          "oscura",
+          "dorada"
+        ]
+      },
+      {
+        "id": "3-ne-11-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Pensaron que era un ángel",
+        "text": "Cuando el Hombre de túnica blanca descendió y se puso en medio de ellos, la multitud no se atrevió a abrir la boca — suponían que era un ángel. Solo cuando extendió la mano y habló entendieron que era Jesucristo mismo."
+      },
+      {
+        "id": "3-ne-11-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "para que metáis vuestras manos en mi costado, y para que también palpéis las marcas de los {0} en mis manos",
+        "blanks": [
+          "clavos"
+        ],
+        "distractors": [
+          "espinas",
+          "azotes",
+          "espadas"
+        ]
+      },
+      {
+        "id": "3-ne-11-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Qué clamó la multitud al tocar las heridas de Cristo?",
+        "options": [
+          "¡Hosanna! ¡Bendito sea el nombre del Más Alto Dios!",
+          "¡Crucifícalo!",
+          "¡Paz en la tierra!",
+          "¡Salve, rey de los nefitas!"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-11-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Habiéndoseme dado autoridad de Jesucristo, yo te {0} en el nombre del Padre, y del Hijo, y del Espíritu Santo",
+        "blanks": [
+          "bautizo"
+        ],
+        "distractors": [
+          "bendigo",
+          "unjo",
+          "perdono"
+        ]
+      },
+      {
+        "id": "3-ne-11-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Quién dice Cristo que es el padre de la contención?",
+        "options": [
+          "El diablo, que incita a los hombres a contender con ira",
+          "Los falsos profetas",
+          "Los reyes",
+          "Los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Según la doctrina de Cristo, ¿qué les sucede a los que creen y son bautizados?",
+        "options": [
+          "Serán salvos y heredarán el reino de Dios",
+          "Serán reyes en la tierra",
+          "Nunca enfermarán",
+          "Recibirán riquezas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-11-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "los que edifican sobre esto, edifican sobre mi {0}, y las puertas del infierno no prevalecerán",
+        "blanks": [
+          "roca"
+        ],
+        "distractors": [
+          "arena",
+          "paja",
+          "lodo"
+        ]
+      },
+      {
+        "id": "3-ne-11-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "'Edificar sobre mi roca'",
+        "text": "Cristo declara su doctrina — arrepentimiento, fe, bautismo — y advierte que declarar 'más o menos que esto' procede del mal. Quien la sigue edifica sobre su roca; las puertas del infierno no prevalecerán contra ellos."
+      },
+      {
+        "id": "3-ne-11-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Qué mandó Cristo al concluir la declaración de su doctrina?",
+        "options": [
+          "Declarar sus palabras a este pueblo, hasta los extremos de la tierra",
+          "Construir un templo",
+          "Escoger un rey",
+          "Guardar silencio"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "3-ne-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "y llegaba a {0} el número de los que habían sido llamados, y recibieron el poder y la autoridad para bautizar",
+        "blanks": [
+          "doce"
+        ],
+        "distractors": [
+          "tres",
+          "siete",
+          "setenta"
+        ]
+      },
+      {
+        "id": "3-ne-12-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Las bienaventuranzas nefitas",
+        "text": "Aquí Cristo da al pueblo nefita las bienaventuranzas — 'bienaventurados los pobres en espíritu... los mansos... los de corazón puro' — casi idénticas a las del Sermón del Monte en Mateo 5, pero con añadidos dirigidos a los doce discípulos que había escogido."
+      },
+      {
+        "id": "3-ne-12-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Los mansos",
+            "right": "Heredarán la tierra"
+          },
+          {
+            "left": "Los misericordiosos",
+            "right": "Alcanzarán misericordia"
+          },
+          {
+            "left": "Los pacificadores",
+            "right": "Serán llamados hijos de Dios"
+          },
+          {
+            "left": "Los de corazón puro",
+            "right": "Verán a Dios"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-12-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "os doy a vosotros ser la {0} de la tierra; pero si la sal pierde su sabor",
+        "blanks": [
+          "sal"
+        ],
+        "distractors": [
+          "luz",
+          "miel",
+          "aceite"
+        ]
+      },
+      {
+        "id": "3-ne-12-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Sal y luz",
+        "text": "Como en el Sermón del Monte, Cristo llama a sus seguidores 'la sal de la tierra' y 'la luz de este pueblo' — una ciudad sobre una colina que no se puede ocultar — exhortándolos a hacer brillar sus buenas obras para gloria del Padre."
+      },
+      {
+        "id": "3-ne-12-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Qué dijo Cristo sobre la ley y los profetas?",
+        "options": [
+          "No vino a abrogarlos, sino a cumplir",
+          "Vino a abolirlos",
+          "Que ya no importaban",
+          "Que volverían después"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-12-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué enseñanza dio Cristo más allá de 'no matarás'?",
+        "options": [
+          "Que quien se enoje con su hermano queda expuesto al juicio",
+          "Que uno debe vengarse",
+          "Que matar a veces se permite",
+          "Que basta con no robar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-12-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "quien mire a una mujer para codiciarla ya ha cometido adulterio en su {0}",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "mente",
+          "alma",
+          "espíritu"
+        ]
+      },
+      {
+        "id": "3-ne-12-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Qué enseñó Cristo sobre hacer juramentos?",
+        "options": [
+          "Que no se debe jurar de ninguna manera",
+          "Que se debe jurar por el cielo",
+          "Que se debe jurar por la cabeza",
+          "Que los juramentos no importan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-12-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "al que te hiera en la {0} derecha, vuélvele también la otra",
+        "blanks": [
+          "mejilla"
+        ],
+        "distractors": [
+          "mano",
+          "cabeza",
+          "hombro"
+        ]
+      },
+      {
+        "id": "3-ne-12-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Amad a vuestros {0}, bendecid a los que os maldicen, haced bien a los que os aborrecen",
+        "blanks": [
+          "enemigos"
+        ],
+        "distractors": [
+          "amigos",
+          "hermanos",
+          "vecinos"
+        ]
+      },
+      {
+        "id": "3-ne-12-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "Por tanto, quisiera que fueseis {0} así como yo, o como vuestro Padre que está en los cielos es perfecto",
+        "blanks": [
+          "perfectos"
+        ],
+        "distractors": [
+          "humildes",
+          "fuertes",
+          "sabios"
+        ]
+      },
+      {
+        "id": "3-ne-12-cur-48",
+        "type": "curiosity",
+        "after_verse": 48,
+        "title": "'Sed perfectos así como yo'",
+        "text": "El sermón culmina en el mandamiento de ser perfecto. A diferencia de Mateo 5:48 — que dice solo 'como vuestro Padre' —, aquí el Cristo resucitado se incluye a sí mismo: 'así como yo', pues ya había vivido una vida perfecta y resucitado."
+      }
+    ],
+    "13": [
+      {
+        "id": "3-ne-13-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Cómo enseña Cristo a dar limosnas?",
+        "options": [
+          "En secreto, sin trompeta, para que el Padre que ve en lo secreto recompense",
+          "Públicamente, para inspirar a otros",
+          "Solo en las sinagogas",
+          "Solo a los sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-13-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Hacer el bien en secreto",
+        "text": "Cristo enseña que las limosnas, la oración y el ayuno deben hacerse 'en secreto' — no para ser vistos de los hombres. Quien busca la gloria de los hombres 'ya tiene su recompensa'; el Padre que ve en lo secreto recompensará en público."
+      },
+      {
+        "id": "3-ne-13-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "De esta manera, pues, orad: {0} nuestro que estás en los cielos, santificado sea tu nombre",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Señor",
+          "Dios",
+          "Rey"
+        ]
+      },
+      {
+        "id": "3-ne-13-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "El Padrenuestro nefita",
+        "text": "Cristo da al pueblo nefita el Padrenuestro, casi idéntico al de Mateo 6 — pero omite la petición del 'pan de cada día' y concluye con 'porque tuyo es el reino, y el poder, y la gloria, para siempre'."
+      },
+      {
+        "id": "3-ne-13-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Qué enseña Cristo sobre el perdón?",
+        "options": [
+          "Si perdonamos las ofensas de los hombres, el Padre también nos perdonará",
+          "Que solo Dios puede perdonar",
+          "Que se debe perdonar siete veces",
+          "Que el perdón es opcional"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-13-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "sino acumulaos tesoros en los {0}, donde ni la polilla ni el moho corrompen",
+        "blanks": [
+          "cielos"
+        ],
+        "distractors": [
+          "la tierra",
+          "el mundo",
+          "el desierto"
+        ]
+      },
+      {
+        "id": "3-ne-13-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "No podéis servir a Dios y a {0}",
+        "blanks": [
+          "Mamón"
+        ],
+        "distractors": [
+          "César",
+          "Baal",
+          "Faraón"
+        ]
+      },
+      {
+        "id": "3-ne-13-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Qué ejemplo usa Cristo para enseñar a no afanarse por el vestido?",
+        "options": [
+          "Los lirios del campo, más vestidos que Salomón en su gloria",
+          "Las piedras del camino",
+          "Las estrellas del cielo",
+          "Los peces del mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-13-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Mas buscad {0} el reino de Dios y su justicia",
+        "blanks": [
+          "primeramente"
+        ],
+        "distractors": [
+          "después",
+          "solamente",
+          "rara vez"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "3-ne-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "'No juzguéis'",
+        "text": "Cristo abre esta parte del sermón con 'No juzguéis, para que no seáis juzgados', añadiendo que con la misma medida con que midamos se nos medirá. Es la misma enseñanza de Mateo 7."
+      },
+      {
+        "id": "3-ne-14-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué enseña Cristo sobre juzgar al hermano?",
+        "options": [
+          "Sacar primero la viga del propio ojo antes de la paja del hermano",
+          "Que nunca se debe corregir a nadie",
+          "Juzgar solo a los inicuos",
+          "Dejar el juicio a los jueces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-14-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Pedid, y se os dará; buscad, y hallaréis; {0}, y se os abrirá",
+        "blanks": [
+          "llamad"
+        ],
+        "distractors": [
+          "orad",
+          "llorad",
+          "esperad"
+        ]
+      },
+      {
+        "id": "3-ne-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "porque estrecha es la puerta, y {0} el camino que conduce a la vida",
+        "blanks": [
+          "angosto"
+        ],
+        "distractors": [
+          "ancho",
+          "espacioso",
+          "fácil"
+        ]
+      },
+      {
+        "id": "3-ne-14-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Conocidos por sus frutos",
+        "text": "Cristo advierte contra los falsos profetas, que vienen 'con vestidos de ovejas' pero son 'lobos rapaces'. El criterio para reconocerlos es sencillo: 'por sus frutos los conoceréis' — un árbol bueno no puede dar mal fruto."
+      },
+      {
+        "id": "3-ne-14-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Cómo se conoce a los falsos profetas, según Cristo?",
+        "options": [
+          "Por sus frutos — un árbol bueno da buen fruto",
+          "Por sus vestidos",
+          "Por sus palabras",
+          "Por su linaje"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-14-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué dirá Cristo a los que dicen 'Señor, Señor' pero obran iniquidad?",
+        "options": [
+          "Nunca os conocí; apartaos de mí",
+          "Bienvenidos al reino",
+          "Esperad un poco más",
+          "Seréis perdonados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-14-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "será comparado al hombre insensato que edificó su casa sobre la {0}",
+        "blanks": [
+          "arena"
+        ],
+        "distractors": [
+          "roca",
+          "piedra",
+          "monte"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "3-ne-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué declara Cristo sobre la ley de Moisés?",
+        "options": [
+          "Que él la dio y que se cumple en él, teniendo fin",
+          "Que sigue vigente",
+          "Que nunca existió",
+          "Que volverá a regir"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-15-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "'Soy yo quien di la ley'",
+        "text": "Cristo aclara lo que había confundido al pueblo: la ley de Moisés se cumple en él porque fue él, el Señor de Israel, quien la dio. Las 'cosas antiguas' han pasado, pero él no abroga a los profetas — el convenio aún no se ha cumplido por completo."
+      },
+      {
+        "id": "3-ne-15-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "He aquí, yo soy la ley y la {0}",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "camino",
+          "verdad",
+          "puerta"
+        ]
+      },
+      {
+        "id": "3-ne-15-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo describe Cristo a los doce discípulos y al pueblo nefita?",
+        "options": [
+          "Discípulos y una luz al pueblo, un resto de la casa de José",
+          "Siervos de los gentiles",
+          "Un pueblo perdido",
+          "Hijos de Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-15-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "aquellas también debo yo traer, y oirán mi voz; y habrá un rebaño y un {0}",
+        "blanks": [
+          "pastor"
+        ],
+        "distractors": [
+          "rey",
+          "juez",
+          "maestro"
+        ]
+      },
+      {
+        "id": "3-ne-15-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Las 'otras ovejas'",
+        "text": "En Jerusalén, Jesús había dicho: 'Tengo otras ovejas que no son de este redil' (Juan 10:16). Aquí revela que se refería a los nefitas — y los de Jerusalén no lo entendieron, suponiendo que hablaba de los gentiles."
+      },
+      {
+        "id": "3-ne-15-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Por qué los de Jerusalén no comprendieron el dicho 'otras ovejas'?",
+        "options": [
+          "Pensaron que se refería a los gentiles, por su incredulidad",
+          "No hablaban el idioma",
+          "No tenían Escrituras",
+          "Ya habían muerto"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "3-ne-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Por qué dice Cristo que irá a 'otras ovejas' que no han oído su voz?",
+        "options": [
+          "Para que haya un rebaño y un pastor",
+          "Para destruirlas",
+          "Para dejarlas en paz",
+          "Para juzgarlas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-16-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Escrito para los últimos días",
+        "text": "Cristo manda que estas palabras se escriban y se preserven para los gentiles de los últimos días — para que mediante ellos el resto disperso de Israel sea llevado de vuelta al conocimiento de su Redentor."
+      },
+      {
+        "id": "3-ne-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Y benditos son los {0} por motivo de su creencia en mí",
+        "blanks": [
+          "gentiles"
+        ],
+        "distractors": [
+          "lamanitas",
+          "nefitas",
+          "judíos"
+        ]
+      },
+      {
+        "id": "3-ne-16-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué dice Cristo que sucederá si los gentiles no se vuelven a él?",
+        "options": [
+          "Serán como la sal que perdió su sabor, hollada por la casa de Israel",
+          "Recibirán más tiempo",
+          "Heredarán la tierra",
+          "Serán coronados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-16-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Y entonces se cumplirán las palabras del profeta {0}, que dicen:",
+        "blanks": [
+          "Isaías"
+        ],
+        "distractors": [
+          "Zenós",
+          "Jeremías",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "3-ne-16-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Cristo cita a Isaías",
+        "text": "Cristo concluye esta profecía citando Isaías 52: 'El Señor ha desnudado su santo brazo a la vista de todas las naciones, y todos los extremos de la tierra verán la salvación de Dios' — vinculando el destino de los nefitas a la redención de toda la casa de Israel."
+      }
+    ],
+    "17": [
+      {
+        "id": "3-ne-17-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué dijo Cristo que haría al dejar al pueblo ese día?",
+        "options": [
+          "Ir al Padre y mostrarse a las tribus perdidas de Israel",
+          "Volver a Jerusalén",
+          "Descansar en el templo",
+          "Escoger un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-17-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "'Mis entrañas rebosan de compasión'",
+        "text": "Al ver a la multitud en lágrimas, sin querer que se fuera, Jesús aplazó su partida. 'Mis entrañas rebosan de compasión por vosotros', dijo — e invitó a todos los enfermos y afligidos a ser sanados."
+      },
+      {
+        "id": "3-ne-17-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Traedlos aquí y yo los {0}, porque tengo compasión de vosotros",
+        "blanks": [
+          "sanaré"
+        ],
+        "distractors": [
+          "bendeciré",
+          "enseñaré",
+          "juzgaré"
+        ]
+      },
+      {
+        "id": "3-ne-17-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué gimió Jesús y se turbó antes de orar por el pueblo?",
+        "options": [
+          "Por causa de la iniquidad del pueblo de la casa de Israel",
+          "Porque estaba cansado",
+          "Porque temía a los lamanitas",
+          "Porque tenía que partir"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-17-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Cómo describió la multitud la oración de Jesús al Padre?",
+        "options": [
+          "Cosas tan grandes que ninguna lengua puede hablar ni corazón concebir",
+          "Palabras simples y breves",
+          "Una severa reprensión",
+          "Un cántico de alabanza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-17-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "vieron abrirse los cielos, y vieron ángeles que descendían del cielo cual si fuera en medio de {0}",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "luz",
+          "nube",
+          "viento"
+        ]
+      },
+      {
+        "id": "3-ne-17-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Ángeles y niños",
+        "text": "Después de bendecir a los niños pequeños uno por uno, Jesús dijo: 'Mirad a vuestros pequeñitos'. Ángeles descendieron del cielo en medio de fuego y rodearon a los pequeñitos, ministrándoles — ante unas 2.500 personas como testigos."
+      }
+    ],
+    "18": [
+      {
+        "id": "3-ne-18-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué hizo Jesús con el pan antes de darlo a los discípulos?",
+        "options": [
+          "Lo tomó, lo partió y lo bendijo",
+          "Lo escondió",
+          "Lo vendió",
+          "Lo quemó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-18-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "La institución de la Santa Cena",
+        "text": "Aquí Cristo instituye la Santa Cena entre los nefitas: bendice el pan y el vino y manda que se haga siempre, en memoria de él. Es la misma ordenanza que había dado a los apóstoles en Jerusalén, en la última cena."
+      },
+      {
+        "id": "3-ne-18-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Pan partido",
+            "right": "En memoria del cuerpo de Cristo"
+          },
+          {
+            "left": "Vino de la copa",
+            "right": "En memoria de la sangre de Cristo"
+          },
+          {
+            "left": "Acordarse siempre de él",
+            "right": "Tener su Espíritu consigo"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-18-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "lo haréis en memoria de mi {0}, que he vertido por vosotros",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "cuerpo",
+          "espíritu",
+          "nombre"
+        ]
+      },
+      {
+        "id": "3-ne-18-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "En memoria de él",
+        "text": "El pan se toma en memoria del cuerpo de Cristo; el vino, en memoria de su sangre vertida. La promesa es clara: 'si os acordáis siempre de mí, tendréis mi Espíritu para que esté con vosotros'."
+      },
+      {
+        "id": "3-ne-18-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué advierte Cristo sobre Satanás?",
+        "options": [
+          "Que desea zarandear al pueblo como a trigo; por eso deben orar siempre",
+          "Que ya fue vencido",
+          "Que no tiene poder",
+          "Que vendrá en persona"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-18-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Orad al Padre en vuestras {0}, siempre en mi nombre",
+        "blanks": [
+          "familias"
+        ],
+        "distractors": [
+          "tribus",
+          "ciudades",
+          "sinagogas"
+        ]
+      },
+      {
+        "id": "3-ne-18-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Qué manda Cristo en cuanto a administrar su carne y su sangre?",
+        "options": [
+          "No permitir que alguien participe indignamente",
+          "Administrarlos a todos sin excepción",
+          "Cobrar por ellos",
+          "Hacerlo solo una vez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-18-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué hacer con quien es indigno, pero no se echa de las sinagogas?",
+        "options": [
+          "Continuar ministrándole y orar por él, pues puede arrepentirse",
+          "Desterrarlo para siempre",
+          "Ignorarlo",
+          "Entregarlo a los jueces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-18-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "él partió de entre ellos y ascendió al {0}",
+        "blanks": [
+          "cielo"
+        ],
+        "distractors": [
+          "los montes",
+          "las alturas",
+          "el templo"
+        ]
+      },
+      {
+        "id": "3-ne-18-cur-38",
+        "type": "curiosity",
+        "after_verse": 38,
+        "title": "La ascensión",
+        "text": "Al terminar sus instrucciones, Cristo tocó a cada discípulo, dándoles poder para conferir el Espíritu Santo. Luego una nube cubrió a la multitud y ascendió al cielo — terminando el primer día de su ministerio entre los nefitas."
+      }
+    ],
+    "19": [
+      {
+        "id": "3-ne-19-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿A cuál de los doce discípulos había resucitado Nefi de entre los muertos?",
+        "options": [
+          "A su hermano Timoteo",
+          "A Jonás",
+          "A Matoni",
+          "A Shemnón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-19-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Doce grupos",
+        "text": "La multitud era tan numerosa que los doce discípulos la dividieron en doce grupos, cada uno instruido por uno de ellos — una escena de organización cuidadosa antes de la gran oración y el bautismo."
+      },
+      {
+        "id": "3-ne-19-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Y oraron por lo que más deseaban; y su deseo era que les fuese dado el {0}",
+        "blanks": [
+          "Espíritu Santo"
+        ],
+        "distractors": [
+          "perdón",
+          "sabiduría",
+          "consuelo"
+        ]
+      },
+      {
+        "id": "3-ne-19-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué les sucedió a los discípulos después de ser bautizados?",
+        "options": [
+          "El Espíritu Santo descendió sobre ellos y fueron llenos del Espíritu y de fuego",
+          "Ascendieron al cielo",
+          "Se durmieron",
+          "Se volvieron invisibles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-19-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "y oraron a Jesús, llamándolo su Señor y su {0}",
+        "blanks": [
+          "Dios"
+        ],
+        "distractors": [
+          "Rey",
+          "Maestro",
+          "Padre"
+        ]
+      },
+      {
+        "id": "3-ne-19-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Oraron a Jesús",
+        "text": "En un momento singular, los discípulos 'oraron a Jesús, llamándolo su Señor y su Dios'. Como él estaba presente entre ellos, oraban directamente a él — algo que el propio Jesús explica enseguida al Padre."
+      },
+      {
+        "id": "3-ne-19-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "y he aquí, estaban tan {0} como el semblante y como los vestidos de Jesús",
+        "blanks": [
+          "blancos"
+        ],
+        "distractors": [
+          "dorados",
+          "oscuros",
+          "pálidos"
+        ]
+      },
+      {
+        "id": "3-ne-19-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Por quién oró Jesús al Padre?",
+        "options": [
+          "Por los discípulos y por todos los que crean en sus palabras, para que sean uno",
+          "Solo por sí mismo",
+          "Por los judíos",
+          "Por los romanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-19-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Qué dijo Jesús sobre la fe de aquel pueblo, comparada con la de los judíos?",
+        "options": [
+          "Jamás había visto fe tan grande entre todos los judíos",
+          "Que era igual",
+          "Que era menor",
+          "Que no importaba"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-19-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Qué dice Jesús a la multitud sobre lo que vieron y oyeron?",
+        "options": [
+          "Ninguno de los judíos vio ni oyó cosas tan grandes",
+          "Que lo olvidarían todo",
+          "Que era poco",
+          "Que no lo contaran a nadie"
+        ],
+        "answer": 0
+      }
+    ],
+    "20": [
+      {
+        "id": "3-ne-20-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué volvió a hacer Jesús en este capítulo, con el pan y el vino?",
+        "options": [
+          "Partió el pan, lo bendijo y lo dio al pueblo",
+          "Los vendió",
+          "Los echó al mar",
+          "Los guardó en el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-20-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Pan y vino de la nada",
+        "text": "Ni los discípulos ni la multitud habían llevado pan ni vino; aun así, Cristo 'verdaderamente les dio de comer pan y de beber vino'. Fue un milagro de provisión, semejante a la multiplicación de los panes."
+      },
+      {
+        "id": "3-ne-20-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Comer el pan",
+            "right": "Comer del cuerpo de Cristo para el alma"
+          },
+          {
+            "left": "Beber el vino",
+            "right": "Beber de la sangre de Cristo para el alma"
+          },
+          {
+            "left": "Quien participa",
+            "right": "Nunca tendrá hambre ni sed"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-20-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué sucederá cuando se cumplan las palabras de Isaías?",
+        "options": [
+          "Los restos dispersos de Israel serán recogidos de las cuatro partes",
+          "El mundo acabará",
+          "Los gentiles desaparecerán",
+          "El templo será destruido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "y seréis entre ellos como un {0} entre los animales del bosque",
+        "blanks": [
+          "león"
+        ],
+        "distractors": [
+          "lobo",
+          "oso",
+          "zorro"
+        ]
+      },
+      {
+        "id": "3-ne-20-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Quién dice Cristo que es, citando a Moisés?",
+        "options": [
+          "El profeta semejante a Moisés que el Señor levantaría",
+          "Un rey de Israel",
+          "El hermano de Moisés",
+          "Un ángel enviado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-20-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "entonces cumplirá el Padre el convenio que hizo con {0}, diciendo:",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Isaac",
+          "Jacob",
+          "Noé"
+        ]
+      },
+      {
+        "id": "3-ne-20-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "¿Qué hará el pueblo de Israel cuando se le predique la plenitud del evangelio?",
+        "options": [
+          "Creerá en Jesucristo y orará al Padre en su nombre",
+          "Construirá un templo en Jerusalén",
+          "Rechazará a los gentiles",
+          "Volverá a la ley de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-20-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Despierta, despierta otra vez, y vístete de tu fortaleza, oh {0}",
+        "blanks": [
+          "Sion"
+        ],
+        "distractors": [
+          "Israel",
+          "Judá",
+          "Egipto"
+        ]
+      },
+      {
+        "id": "3-ne-20-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "'El Padre y yo somos uno'",
+        "text": "Al citar la profecía de Isaías 52 sobre la redención de Jerusalén, Cristo la aplica al recogimiento de los últimos días y añade: 'el Padre y yo somos uno' — uniendo su obra a la del Padre en la restauración de Israel."
+      },
+      {
+        "id": "3-ne-20-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "¿Cómo saldrá Israel de las naciones en el recogimiento, según la profecía?",
+        "options": [
+          "No de prisa ni huyendo, porque el Señor irá delante de ellos",
+          "En secreto, de noche",
+          "Por mar",
+          "En una gran batalla"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-20-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿Qué promete Cristo sobre Jerusalén al final del capítulo?",
+        "options": [
+          "Volverá a ser habitada por su pueblo, como tierra de su herencia",
+          "Será destruida para siempre",
+          "Será dada a los gentiles",
+          "Quedará desierta"
+        ],
+        "answer": 0
+      }
+    ],
+    "21": [
+      {
+        "id": "3-ne-21-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué promete hacer Cristo, dando una señal para saber la hora?",
+        "options": [
+          "Recoger a su pueblo de su larga dispersión y establecer su Sion",
+          "Destruir a los gentiles",
+          "Volver a Jerusalén",
+          "Coronar a un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-21-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "La señal del recogimiento",
+        "text": "Cristo da una señal precisa: cuando 'estas cosas' — el anal nefita — salgan a los gentiles, será señal de que la obra del Padre de recoger a Israel ya ha comenzado. Muchos lo entienden como la aparición del Libro de Mormón en los últimos días."
+      },
+      {
+        "id": "3-ne-21-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "les mostraré que mi sabiduría es mayor que la astucia del {0}",
+        "blanks": [
+          "diablo"
+        ],
+        "distractors": [
+          "hombre",
+          "mundo",
+          "sabio"
+        ]
+      },
+      {
+        "id": "3-ne-21-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué les sucederá a los que no crean en las palabras de Jesucristo llevadas a los gentiles?",
+        "options": [
+          "Serán desarraigados del pueblo del convenio",
+          "Recibirán más tiempo",
+          "Heredarán la Nueva Jerusalén",
+          "Se harán profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-21-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué dice Cristo que será extirpado en aquel día entre el pueblo?",
+        "options": [
+          "Las mentiras, envidias, contiendas, supercherías sacerdotales y fornicaciones",
+          "Las cosechas",
+          "Las oraciones",
+          "Las Escrituras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-21-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "a fin de que construyan una ciudad que será llamada la {0}",
+        "blanks": [
+          "Nueva Jerusalén"
+        ],
+        "distractors": [
+          "Sion",
+          "Zarahemla",
+          "Abundancia"
+        ]
+      },
+      {
+        "id": "3-ne-21-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "La Nueva Jerusalén",
+        "text": "Cristo profetiza que el resto de Jacob, con los gentiles arrepentidos, construirá una ciudad llamada la Nueva Jerusalén — un centro de recogimiento donde 'el poder del cielo descenderá' y él mismo estará en medio."
+      },
+      {
+        "id": "3-ne-21-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Cuándo empezará la obra del Padre entre todos los dispersos de Israel?",
+        "options": [
+          "Cuando este evangelio sea predicado al resto de este pueblo",
+          "Después de mil años",
+          "Cuando caiga Jerusalén",
+          "Cuando desaparezcan los gentiles"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "3-ne-22-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Isaías 54",
+        "text": "Todo este capítulo es Isaías 54, citado por Cristo. Es un cántico de consuelo a Israel — imaginada como una mujer estéril y abandonada que tendrá más hijos que la casada, recogida por el Señor 'con misericordia eterna'."
+      },
+      {
+        "id": "3-ne-22-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "y tu {0}, el Santo de Israel, será llamado el Dios de toda la tierra",
+        "blanks": [
+          "Redentor"
+        ],
+        "distractors": [
+          "Pastor",
+          "Juez",
+          "Rey"
+        ]
+      },
+      {
+        "id": "3-ne-22-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Porque los {0} desaparecerán y los collados serán quitados",
+        "blanks": [
+          "montes"
+        ],
+        "distractors": [
+          "árboles",
+          "nubes",
+          "astros"
+        ]
+      },
+      {
+        "id": "3-ne-22-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué promete Isaías sobre los hijos de Sion?",
+        "options": [
+          "Serán instruidos por el Señor y grande será su paz",
+          "Serán reyes",
+          "Nunca trabajarán",
+          "Heredarán oro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-22-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Ninguna {0} forjada en contra de ti prosperará",
+        "blanks": [
+          "arma"
+        ],
+        "distractors": [
+          "nación",
+          "espada",
+          "plaga"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "3-ne-23-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Sí, un mandamiento os doy de que escudriñéis estas cosas diligentemente, porque grandes son las palabras de {0}",
+        "blanks": [
+          "Isaías"
+        ],
+        "distractors": [
+          "Moisés",
+          "Zenós",
+          "Jeremías"
+        ]
+      },
+      {
+        "id": "3-ne-23-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué mandó Jesús al pueblo sobre las palabras de Isaías?",
+        "options": [
+          "Escudriñarlas diligentemente y escribirlas",
+          "Olvidarlas",
+          "Quemarlas",
+          "Ocultarlas de los gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-23-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "'Grandes son las palabras de Isaías'",
+        "text": "Cristo manda que escudriñen a Isaías diligentemente — e Isaías es, de hecho, el profeta más citado en el Libro de Mormón. A lo largo del libro, decenas de capítulos de Isaías se reproducen y se explican."
+      },
+      {
+        "id": "3-ne-23-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "yo mandé a mi siervo, Samuel el Lamanita, que testificara a este pueblo",
+        "blanks": [
+          "Samuel"
+        ],
+        "distractors": [
+          "Nefi",
+          "Lehi",
+          "Amínadab"
+        ]
+      },
+      {
+        "id": "3-ne-23-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué profecía de Samuel faltaba en los anales, que Jesús mandó escribir?",
+        "options": [
+          "Que muchos santos se levantaron de entre los muertos y ministraron a muchos",
+          "Que habría una hambruna",
+          "Que vendrían los gentiles",
+          "Que caería el templo"
+        ],
+        "answer": 0
+      }
+    ],
+    "24": [
+      {
+        "id": "3-ne-24-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿A quién dijo el Padre que enviaría para preparar el camino?",
+        "options": [
+          "A su mensajero, antes que el Señor venga a su templo",
+          "A un ejército",
+          "A un rey",
+          "A los gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-24-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "¿Por qué Malaquías?",
+        "text": "Malaquías profetizó en Jerusalén siglos después de que Lehi partiera — por eso los nefitas no tenían sus palabras. Cristo se las da ahora, mandando que se escriban, incluyendo la célebre profecía sobre el mensajero del convenio."
+      },
+      {
+        "id": "3-ne-24-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Traed todos los {0} al alfolí para que haya alimento en mi casa",
+        "blanks": [
+          "diezmos"
+        ],
+        "distractors": [
+          "ofrendas",
+          "frutos",
+          "animales"
+        ]
+      },
+      {
+        "id": "3-ne-24-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "'Probadme ahora en esto'",
+        "text": "El versículo 10 trae una de las promesas más conocidas de las Escrituras: traer los diezmos al alfolí y 'probar' al Señor, que promete abrir 'las ventanas de los cielos' y derramar una bendición sin medida. Es el único lugar donde Dios invita a ser puesto a prueba."
+      },
+      {
+        "id": "3-ne-24-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Qué promesa hace el Señor a los que traen los diezmos?",
+        "options": [
+          "Abrir las ventanas de los cielos y derramar una bendición sin medida",
+          "Darles un rey",
+          "Multiplicar sus rebaños por siete",
+          "Construirles un templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-24-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Y serán míos, dice el Señor de los Ejércitos, el día en que yo integre mis {0}",
+        "blanks": [
+          "joyas"
+        ],
+        "distractors": [
+          "tesoros",
+          "ovejas",
+          "siervos"
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "3-ne-25-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Malaquías 4 y Elías",
+        "text": "Este breve capítulo es Malaquías 4, citado por Cristo. Incluye la célebre profecía de que Elías sería enviado 'antes del día grande y terrible del Señor', para volver 'el corazón de los padres a los hijos' — una promesa ligada a la obra por los antepasados."
+      },
+      {
+        "id": "3-ne-25-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "He aquí, yo os enviaré a {0} el Profeta antes que venga el día grande y terrible del Señor",
+        "blanks": [
+          "Elías"
+        ],
+        "distractors": [
+          "Moisés",
+          "Isaías",
+          "Enoc"
+        ]
+      },
+      {
+        "id": "3-ne-25-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué hará Elías, según la profecía?",
+        "options": [
+          "Volverá el corazón de los padres a los hijos y de los hijos a los padres",
+          "Destruirá a los impíos",
+          "Construirá un templo",
+          "Reunirá los ejércitos"
+        ],
+        "answer": 0
+      }
+    ],
+    "26": [
+      {
+        "id": "3-ne-26-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué explicó Jesús al pueblo?",
+        "options": [
+          "Todas las cosas, desde el principio hasta el grande y postrer día del juicio",
+          "Solo la ley de Moisés",
+          "Solo las profecías de Isaías",
+          "Solo el bautismo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-26-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Solo la menor parte",
+        "text": "Jesús explicó 'todas las cosas, desde el principio hasta el último día' — pero Mormón registra que 'ni la centésima parte' pudo escribirse. Las cosas mayores quedaron retenidas, para revelarse según la fe del pueblo."
+      },
+      {
+        "id": "3-ne-26-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "y las he escrito con objeto de que nuevamente lleguen de los {0} a este pueblo",
+        "blanks": [
+          "gentiles"
+        ],
+        "distractors": [
+          "judíos",
+          "lamanitas",
+          "profetas"
+        ]
+      },
+      {
+        "id": "3-ne-26-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Por qué no escribió Mormón todo lo que estaba en las planchas de Nefi?",
+        "options": [
+          "El Señor lo prohibió, para probar la fe del pueblo",
+          "Le faltó tiempo",
+          "Las planchas se perdieron",
+          "Estaba prohibido leer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y tenían todas las cosas en {0}",
+        "blanks": [
+          "común"
+        ],
+        "distractors": [
+          "separadas",
+          "escondidas",
+          "divididas"
+        ]
+      },
+      {
+        "id": "3-ne-26-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Y los que fueron bautizados en el nombre de Jesús, fueron llamados la iglesia de {0}",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Nefi",
+          "Moisés",
+          "Israel"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "3-ne-27-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué le pidieron los discípulos a Jesús cuando apareció?",
+        "options": [
+          "Que les dijera el nombre que debían dar a la iglesia",
+          "Que los sanara",
+          "Que les diera oro",
+          "Que volviera a Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-27-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "El nombre de la iglesia",
+        "text": "Había disputas entre el pueblo sobre qué nombre dar a la iglesia. Cristo resuelve la cuestión: la iglesia debe llevar su nombre, pues 'si lleva mi nombre, entonces es mi iglesia' — siempre que esté fundada sobre su evangelio."
+      },
+      {
+        "id": "3-ne-27-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Por qué debe llevar la iglesia el nombre de Cristo?",
+        "options": [
+          "Porque con el nombre de un hombre sería la iglesia de un hombre; con el de Cristo, es la iglesia de Cristo",
+          "Porque es más corto",
+          "Por tradición",
+          "Porque los profetas lo mandaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-27-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "que vine al mundo a cumplir la voluntad de mi {0}, porque mi Padre me envió",
+        "blanks": [
+          "Padre"
+        ],
+        "distractors": [
+          "Señor",
+          "Rey",
+          "Maestro"
+        ]
+      },
+      {
+        "id": "3-ne-27-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "El evangelio de Cristo",
+        "text": "Cristo define su evangelio en pocas palabras: fue enviado para ser levantado sobre la cruz y así atraer a todos los hombres a sí, para ser juzgados por sus obras. El arrepentimiento, el bautismo y perseverar hasta el fin resumen el camino."
+      },
+      {
+        "id": "3-ne-27-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "sino aquellos que han lavado sus vestidos en mi {0}",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "agua",
+          "aceite",
+          "fuego"
+        ]
+      },
+      {
+        "id": "3-ne-27-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué dice Cristo que deben hacer los discípulos en su iglesia?",
+        "options": [
+          "Las obras que le han visto hacer, esas también harán",
+          "Construir templos",
+          "Cobrar diezmos",
+          "Escoger un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-27-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Y sabed que vosotros seréis los {0} de este pueblo, según el juicio que yo os daré",
+        "blanks": [
+          "jueces"
+        ],
+        "distractors": [
+          "reyes",
+          "profetas",
+          "maestros"
+        ]
+      },
+      {
+        "id": "3-ne-27-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "'Así como yo soy'",
+        "text": "Al decir que los discípulos serían jueces del pueblo, Cristo lanza la pregunta: '¿qué clase de hombres habéis de ser?' Y responde: 'aun como yo soy' — la norma más alta posible para un seguidor."
+      },
+      {
+        "id": "3-ne-27-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Por qué se aflige Jesús al hablar de la cuarta generación?",
+        "options": [
+          "Porque serían llevados cautivos y lo venderían por plata y oro",
+          "Porque serían pocos",
+          "Porque emigrarían",
+          "Porque olvidarían el idioma"
+        ],
+        "answer": 0
+      }
+    ],
+    "28": [
+      {
+        "id": "3-ne-28-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Qué desearon nueve de los doce discípulos de Jesús?",
+        "options": [
+          "Venir a su reino a los 72 años, tras vivir hasta la edad del hombre",
+          "Riquezas",
+          "Poder sobre el pueblo",
+          "Volver a Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-28-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Dos deseos",
+        "text": "Antes de partir, Cristo pregunta a cada discípulo qué desea. Nueve piden reunirse con él en su reino a los 72 años; pero tres vacilan, con un deseo en el corazón que no se atrevían a expresar."
+      },
+      {
+        "id": "3-ne-28-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "porque nunca probaréis la {0}; sino que viviréis para ver todos los hechos del Padre",
+        "blanks": [
+          "muerte"
+        ],
+        "distractors": [
+          "dolor",
+          "hambre",
+          "tristeza"
+        ]
+      },
+      {
+        "id": "3-ne-28-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Los nueve discípulos",
+            "right": "Vendrán a Cristo a los 72 años de edad"
+          },
+          {
+            "left": "Los tres discípulos",
+            "right": "Nunca probarán la muerte"
+          },
+          {
+            "left": "Los tres",
+            "right": "Serán cambiados cuando Cristo venga en gloria"
+          }
+        ]
+      },
+      {
+        "id": "3-ne-28-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué les sucedió a los tres discípulos cuando Jesús los tocó?",
+        "options": [
+          "Los cielos se abrieron y fueron arrebatados, viendo cosas inefables",
+          "Se durmieron",
+          "Se volvieron invisibles",
+          "Fueron a Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-28-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Y eran arrojados en la {0} por aquellos que no pertenecían a la iglesia",
+        "blanks": [
+          "prisión"
+        ],
+        "distractors": [
+          "hornos",
+          "fosos",
+          "templos"
+        ]
+      },
+      {
+        "id": "3-ne-28-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué les sucedió a los tres cuando fueron arrojados a fieras y hornos?",
+        "options": [
+          "No recibieron daño; jugaron con las fieras como un niño",
+          "Fueron muertos",
+          "Huyeron",
+          "Convirtieron a las fieras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-28-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Los Tres Nefitas, inquebrantables",
+        "text": "Como Daniel y los tres hebreos en la Biblia, los Tres Nefitas fueron arrojados tres veces a un horno y dos veces a fieras — sin sufrir daño; 'jugaron con las fieras como un niño con un cordero de leche'. Las prisiones se partían por la mitad."
+      },
+      {
+        "id": "3-ne-28-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Y son como los {0} de Dios; y si ruegan al Padre en el nombre de Jesús",
+        "blanks": [
+          "ángeles"
+        ],
+        "distractors": [
+          "profetas",
+          "siervos",
+          "mensajeros"
+        ]
+      },
+      {
+        "id": "3-ne-28-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Qué les sucede a los que no escuchan las palabras de Jesús y de los que él envió?",
+        "options": [
+          "No reciben a Jesús, y no serán recibidos por él en el postrer día",
+          "Reciben más tiempo",
+          "Se hacen profetas",
+          "No les sucede nada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-28-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "y fueron santificados en la {0}, a fin de que fuesen santos",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "alma",
+          "mente",
+          "fe"
+        ]
+      },
+      {
+        "id": "3-ne-28-cur-36",
+        "type": "curiosity",
+        "after_verse": 36,
+        "title": "La duda de Mormón",
+        "text": "Mormón confiesa que, al escribir, no sabía si los tres habían sido cambiados de la mortalidad a la inmortalidad. Después 'preguntó al Señor' y supo que se efectuó un cambio en sus cuerpos, para que no probaran la muerte hasta el juicio."
+      }
+    ],
+    "29": [
+      {
+        "id": "3-ne-29-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué significará la llegada de estas palabras (el anal) a los gentiles?",
+        "options": [
+          "Que el convenio del Padre con Israel ya empieza a cumplirse",
+          "Que el mundo acabó",
+          "Que los gentiles vencieron",
+          "Que la profecía falló"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-ne-29-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Cuando el libro aparezca",
+        "text": "Mormón da una señal a los lectores: cuando este anal llegue a los gentiles, será prueba de que el convenio del Señor con Israel ya empieza a cumplirse — no se debe decir que el Señor 'demora su venida'."
+      },
+      {
+        "id": "3-ne-29-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "ya no tenéis que escarnecer ni desdeñar a los {0}, ni hacer burla de ellos",
+        "blanks": [
+          "judíos"
+        ],
+        "distractors": [
+          "gentiles",
+          "lamanitas",
+          "romanos"
+        ]
+      }
+    ],
+    "30": [
+      {
+        "id": "3-ne-30-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Tornaos, todos vosotros {0}, de vuestros caminos de maldad",
+        "blanks": [
+          "gentiles"
+        ],
+        "distractors": [
+          "judíos",
+          "nefitas",
+          "israelitas"
+        ]
+      },
+      {
+        "id": "3-ne-30-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El fin de 3 Nefi",
+        "text": "El libro de 3 Nefi se cierra con una invitación directa de Cristo, dada por medio de Mormón a los gentiles: apartarse de la maldad, venir a él, ser bautizados y ser contados con la casa de Israel — cerrando el registro del ministerio del Salvador entre los nefitas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+ "schema_version": 1,
+ "book": "joel",
+ "chapters": {
+  "1": [
+   {
+    "id": "joel-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Un profeta que apenas conocemos",
+    "text": "Joel es identificado solo como 'hijo de Petuel' (1:1); nada más se registra de su familia, ciudad natal o época exacta. Es su mensaje, no su biografía, lo que sostiene el libro."
+   },
+   {
+    "id": "joel-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "En Joel 1:4, cuatro tipos de criaturas devoran la tierra, una tras otra. ¿Cuáles son?",
+    "options": [
+     "La oruga, la langosta, el pulgón y el saltón",
+     "Leones, lobos, osos y zorras",
+     "Serpientes, escorpiones, avispas y moscas",
+     "Cuervos, buitres, halcones y búhos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "joel-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Excluidas son la ofrenda de grano y la libación de la casa de {0}",
+    "blanks": [
+     "Jehová"
+    ],
+    "distractors": [
+     "rey",
+     "profeta",
+     "altar"
+    ]
+   },
+   {
+    "id": "joel-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "¿Cómo describe Joel 1:15 el día de Jehová?",
+    "options": [
+     "Como una fiesta de alegría",
+     "Como cercano, y como destrucción de parte del Todopoderoso",
+     "Como un rumor distante",
+     "Como un día de cosecha y abundancia"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "En Joel 1:19-20, ¿qué consumió los pastos del desierto?",
+    "options": [
+     "Una inundación",
+     "Un ejército enemigo",
+     "El fuego",
+     "Una tormenta de granizo"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "joel-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Joel 2:1, ¿qué se manda tocar al pueblo en Sion?",
+    "options": [
+     "Un cuerno de jubileo",
+     "La trompeta, para dar alarma",
+     "La señal para el banquete",
+     "Un silbato para la cosecha"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿Cómo dice Joel 2:9 que los invasores entrarán en las casas?",
+    "options": [
+     "Por las puertas",
+     "Por los tejados",
+     "Por las ventanas a manera de ladrones",
+     "Rompiendo los muros"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "Y rasgad vuestro {0} y no vuestros vestidos",
+    "blanks": [
+     "corazón"
+    ],
+    "distractors": [
+     "manto",
+     "velo",
+     "tienda"
+    ]
+   },
+   {
+    "id": "joel-2-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "En Joel 2:19, ¿qué tres cosas promete Jehová enviar a su pueblo?",
+    "options": [
+     "Oro, plata y bronce",
+     "Grano, mosto y aceite",
+     "Leche, miel e higos",
+     "Lluvia, rocío y escarcha"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Según Joel 2:25, ¿qué promete restituir Jehová?",
+    "options": [
+     "El reino de David",
+     "El templo de Salomón",
+     "Los años que comió la langosta",
+     "Las tribus esparcidas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-2-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Joel 2:28 promete que Jehová derramará su Espíritu sobre ¿quiénes?",
+    "options": [
+     "Solo los sacerdotes",
+     "Toda carne",
+     "Los reyes de la tierra",
+     "Solo la casa de Judá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-cur-32",
+    "type": "curiosity",
+    "after_verse": 32,
+    "title": "Citado en Pentecostés",
+    "text": "Joel 2:28-32 — 'derramaré mi Espíritu sobre toda carne' — fue citado por Pedro en Hechos 2 para explicar el derramamiento del Espíritu Santo en el día de Pentecostés."
+   }
+  ],
+  "3": [
+   {
+    "id": "joel-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "¿A qué valle lleva Jehová a las naciones para juzgarlas en Joel 3:2?",
+    "options": [
+     "El valle de Hinom",
+     "El valle de Josafat",
+     "El valle de Acor",
+     "El valle de Ela"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-3-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Haced espadas de vuestras {0}, lanzas de vuestras hoces",
+    "blanks": [
+     "rejas de arado"
+    ],
+    "distractors": [
+     "escudos",
+     "carros",
+     "flechas"
+    ]
+   },
+   {
+    "id": "joel-3-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "En Joel 3:9-11, ¿qué se convoca a las naciones a preparar?",
+    "options": [
+     "Una fiesta",
+     "Un tratado de paz",
+     "La guerra",
+     "Una peregrinación"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "¿Cómo llama Joel 3:14 al lugar donde se reúnen los muchos pueblos?",
+    "options": [
+     "El valle de la decisión",
+     "El valle de los huesos secos",
+     "La llanura del Jordán",
+     "El monte de los Olivos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "joel-3-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "Agua de la casa de Jehová",
+    "text": "Joel 3:18 describe los montes destilando mosto y un manantial saliendo de la casa de Jehová — una imagen de abundancia restaurada, repetida luego por Ezequiel y en el Apocalipsis."
+   },
+   {
+    "id": "joel-3-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "¿Cómo describe Joel 3:16 a Jehová para con su propio pueblo, aun mientras juzga a las naciones?",
+    "options": [
+     "Un fuego consumidor",
+     "Un juez distante",
+     "El refugio de su pueblo y la fortaleza de Israel",
+     "Un testigo silencioso"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

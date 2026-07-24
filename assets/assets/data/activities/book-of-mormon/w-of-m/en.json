@@ -1,0 +1,164 @@
+{
+ "schema_version": 1,
+ "book": "w-of-m",
+ "chapters": {
+  "1": [
+   {
+    "id": "w-of-m-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "into the hands of my son {0}",
+    "blanks": [
+     "Moroni"
+    ],
+    "distractors": [
+     "Mosiah",
+     "Nephi",
+     "Alma"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "A voice from a thousand years later",
+    "text": "Mormon writes this bridge as a near-eyewitness to the Nephites' destruction, roughly four centuries after Christ—about a thousand years after the small plates began. He addresses it to his son Moroni, who would outlive their whole nation."
+   },
+   {
+    "id": "w-of-m-1-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "While abridging the plates of Nephi, what did Mormon find?",
+    "options": [
+     "Small plates with the prophets' words from Jacob to king Benjamin",
+     "A map of the promised land",
+     "The sword of Laban",
+     "A record of the Jaredites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "And I do this for a {0} purpose",
+    "blanks": [
+     "wise"
+    ],
+    "distractors": [
+     "secret",
+     "holy",
+     "hidden"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "‘For a wise purpose’",
+    "text": "Mormon adds the small plates to his record ‘for a wise purpose’ he doesn't fully understand, prompted by the Spirit. Latter-day readers connect this to the loss of 116 manuscript pages, which the small plates' overlapping account later replaced."
+   },
+   {
+    "id": "w-of-m-1-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "What did king Benjamin do with the plates Amaleki delivered to him?",
+    "options": [
+     "Put them with the other plates handed down by the kings",
+     "Buried them in the earth",
+     "Sent them to the Lamanites",
+     "Melted them down for their metal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-mc-11",
+    "after_verse": 11,
+    "type": "multiple_choice",
+    "question": "Why is Mormon sure the records will be preserved?",
+    "options": [
+     "Great things are written on them by which his people will be judged at the last day",
+     "They are made of gold that cannot rust",
+     "No enemy knows where they are hidden",
+     "The kings swore an oath to guard them"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "with the sword of {0}",
+    "blanks": [
+     "Laban"
+    ],
+    "distractors": [
+     "Nephi",
+     "Lehi",
+     "Mosiah"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "The sword of Laban returns",
+    "text": "King Benjamin fights ‘with the sword of Laban’—the same sword Nephi took in Jerusalem centuries earlier (1 Nephi 4), now passed down with the kingship and wielded in the Nephites' defense."
+   },
+   {
+    "id": "w-of-m-1-mc-16",
+    "after_verse": 16,
+    "type": "multiple_choice",
+    "question": "What happened among the people before king Benjamin established peace?",
+    "options": [
+     "False Christs, prophets, and teachers were punished for their crimes",
+     "The Lamanites were converted in a day",
+     "A great temple was built in Zarahemla",
+     "The people chose a new language"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "he did reign over his people in {0}",
+    "blanks": [
+     "righteousness"
+    ],
+    "distractors": [
+     "peace",
+     "wisdom",
+     "mercy"
+    ]
+   },
+   {
+    "id": "w-of-m-1-mp-18",
+    "type": "match_pairs",
+    "after_verse": 18,
+    "pairs": [
+     {
+      "left": "Mormon",
+      "right": "Abridged the plates and wrote this book"
+     },
+     {
+      "left": "Moroni",
+      "right": "Mormon's son, who would finish the record"
+     },
+     {
+      "left": "Amaleki",
+      "right": "Gave the small plates to king Benjamin"
+     },
+     {
+      "left": "King Benjamin",
+      "right": "Holy king who re-established peace"
+     }
+    ]
+   }
+  ]
+ }
+}

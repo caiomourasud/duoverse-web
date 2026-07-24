@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "book": "gal",
+  "chapters": {
+    "1": [
+      {
+        "id": "gal-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Apóstol por Cristo, no por los hombres",
+        "text": "Pablo abre la carta defendiendo su autoridad apostólica: no vino de los hombres, sino directamente de Jesucristo y de Dios el Padre. Este punto es central para todo lo que dirá en Gálatas."
+      },
+      {
+        "id": "gal-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según el versículo 4, ¿por qué se dio Cristo a sí mismo?",
+        "options": [
+          "Por nuestros pecados, para librarnos de este presente mundo malo",
+          "Para abolir el sacerdocio",
+          "Para establecer un reino terrenal",
+          "Para condenar a los gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-1-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Mas si aun nosotros, o un {0} del cielo, os anunciare un evangelio diferente del que os hemos anunciado, sea anatema.",
+        "blanks": [
+          "ángel"
+        ],
+        "distractors": [
+          "apóstol",
+          "hermano",
+          "siervo"
+        ]
+      },
+      {
+        "id": "gal-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo dice Pablo que recibió el evangelio que predica?",
+        "options": [
+          "Aprendiéndolo de los otros apóstoles",
+          "Por revelación de Jesucristo",
+          "De las tradiciones de sus padres",
+          "Leyendo las escrituras de los judíos"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-1-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "De perseguidor a predicador",
+        "text": "Antes de su conversión, Pablo (Saulo) perseguía ferozmente a la iglesia de Dios. Aquí recuerda ese pasado para mostrar que solo una intervención divina pudo haberlo transformado en apóstol."
+      },
+      {
+        "id": "gal-1-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a {0}, y volví de nuevo a Damasco.",
+        "blanks": [
+          "Arabia"
+        ],
+        "distractors": [
+          "Siria",
+          "Cilicia",
+          "Judea"
+        ]
+      },
+      {
+        "id": "gal-1-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Galacia",
+            "right": "Región donde estaban las iglesias destinatarias"
+          },
+          {
+            "left": "Pedro",
+            "right": "Apóstol que Pablo visitó en Jerusalén"
+          },
+          {
+            "left": "Jacobo",
+            "right": "El hermano del Señor"
+          },
+          {
+            "left": "Anatema",
+            "right": "Maldición contra quien predica otro evangelio"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "gal-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "subí otra vez a {0} juntamente con Bernabé",
+        "blanks": [
+          "Jerusalén"
+        ],
+        "distractors": [
+          "Antioquía",
+          "Galacia",
+          "Damasco"
+        ]
+      },
+      {
+        "id": "gal-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Tito el griego",
+        "text": "Tito era un cristiano de origen griego (gentil). Que no fuera obligado a circuncidarse se convirtió en prueba viva de que los gentiles eran aceptados por medio de la fe, sin la ley de Moisés."
+      },
+      {
+        "id": "gal-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Quiénes eran considerados \"columnas\" y dieron a Pablo la diestra en señal de compañerismo?",
+        "options": [
+          "Jacobo, Cefas y Juan",
+          "Pedro, Andrés y Felipe",
+          "Mateo, Marcos y Lucas",
+          "Esteban, Felipe y Bernabé"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Dónde resistió Pablo a Pedro cara a cara porque era de condenar?",
+        "options": [
+          "Antioquía",
+          "Jerusalén",
+          "Roma",
+          "Éfeso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Justificación",
+            "right": "Viene por la fe en Jesucristo"
+          },
+          {
+            "left": "Obras de la ley",
+            "right": "No justifican a ninguna carne"
+          },
+          {
+            "left": "Ley de Moisés",
+            "right": "Lo que los judaizantes exigían a los gentiles"
+          },
+          {
+            "left": "Libertad en Cristo",
+            "right": "Lo que Pablo defendía"
+          }
+        ]
+      },
+      {
+        "id": "gal-2-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive {0} en mí",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Pedro",
+          "Bernabé",
+          "Dios"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "gal-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Los gálatas",
+        "text": "Galacia era una región en el centro de Asia Menor (la actual Turquía). Pablo escribe con fuerte emoción, llamando 'insensatos' a los creyentes por abandonar el evangelio de la fe que habían recibido."
+      },
+      {
+        "id": "gal-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Según Pablo, ¿cómo recibieron los gálatas el Espíritu?",
+        "options": [
+          "Por las obras de la ley",
+          "Por el oír con fe",
+          "Por la circuncisión",
+          "Por guardar el sábado"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Como {0} creyó a Dios y le fue contado por justicia.",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Cristo",
+          "Moisés",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gal-3-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Fe",
+            "right": "El medio por el cual el justo vivirá"
+          },
+          {
+            "left": "Ley",
+            "right": "Trae maldición sobre quien no la cumple toda"
+          },
+          {
+            "left": "Cristo",
+            "right": "Nos redimió de la maldición de la ley"
+          },
+          {
+            "left": "Abraham",
+            "right": "Ejemplo de justificación por la fe"
+          }
+        ]
+      },
+      {
+        "id": "gal-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿A quién identifica Pablo como la 'descendencia' prometida a Abraham?",
+        "options": [
+          "Isaac",
+          "Israel",
+          "Cristo",
+          "Los gentiles"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "¿De qué sirve la ley?",
+        "text": "Pablo enseña que la ley de Moisés fue añadida a causa de las transgresiones, como medida temporal, hasta que viniese Cristo, a quien fue hecha la promesa."
+      },
+      {
+        "id": "gal-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Está la ley contra las promesas de Dios?",
+        "options": [
+          "Sí, las anula",
+          "De ninguna manera",
+          "Solo para los gentiles",
+          "Solo después de Cristo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "De manera que la ley fue nuestro {0} para llevarnos a Cristo, a fin de que fuésemos justificados por la fe.",
+        "blanks": [
+          "ayo"
+        ],
+        "distractors": [
+          "maldición",
+          "promesa",
+          "herencia"
+        ]
+      },
+      {
+        "id": "gal-3-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Según el versículo 28, ¿qué es verdad de los que están en Cristo Jesús?",
+        "options": [
+          "Están divididos por nación y clase",
+          "Permanecen bajo la ley",
+          "Todos son uno en Cristo Jesús",
+          "Son justificados por las obras"
+        ],
+        "answer": 2
+      }
+    ],
+    "4": [
+      {
+        "id": "gal-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Mas cuando vino el cumplimiento del tiempo, Dios envió a su {0}, nacido de mujer y nacido bajo la ley,",
+        "blanks": [
+          "Hijo"
+        ],
+        "distractors": [
+          "esclavo",
+          "heredero",
+          "Espíritu"
+        ]
+      },
+      {
+        "id": "gal-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "\"Abba, Padre\"",
+        "text": "\"Abba\" es una palabra aramea íntima para \"padre\", parecida a \"papá\". Pablo la conserva en su forma original para mostrar la cercanía afectuosa que el Espíritu crea entre los hijos adoptivos y Dios."
+      },
+      {
+        "id": "gal-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Según el versículo 7, ¿qué somos por medio de Cristo, ya no siendo más esclavos?",
+        "options": [
+          "Esclavos",
+          "Tutores",
+          "Herederos de Dios",
+          "Profetas"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-4-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Qué prácticas lamenta Pablo que los gálatas estén observando?",
+        "options": [
+          "Los días, y los meses, y los tiempos y los años",
+          "Ayunos y sacrificios en el templo",
+          "Las fiestas de los gentiles",
+          "Solo las lunas nuevas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Cómo dice Pablo que anunció el evangelio a los gálatas al principio?",
+        "options": [
+          "Con poder y gloria",
+          "Por causa de enfermedad del cuerpo",
+          "Por carta",
+          "En secreto"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "me recibisteis como a un {0} de Dios, como a Cristo Jesús.",
+        "blanks": [
+          "ángel"
+        ],
+        "distractors": [
+          "esclavo",
+          "heredero",
+          "enemigo"
+        ]
+      },
+      {
+        "id": "gal-4-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Según la escritura que cita Pablo, ¿quiénes eran las madres de los dos hijos de Abraham?",
+        "options": [
+          "La sierva y la libre",
+          "Sara y Rebeca",
+          "Agar y Raquel",
+          "Lea y Raquel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Agar",
+            "right": "El monte Sinaí y la servidumbre"
+          },
+          {
+            "left": "La libre",
+            "right": "La promesa"
+          },
+          {
+            "left": "Los dos hijos",
+            "right": "Los dos convenios"
+          }
+        ]
+      },
+      {
+        "id": "gal-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Así que, hermanos, nosotros, como Isaac, somos hijos de la {0}.",
+        "blanks": [
+          "promesa"
+        ],
+        "distractors": [
+          "sierva",
+          "carne",
+          "servidumbre"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "gal-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El yugo de esclavitud",
+        "text": "El \"yugo\" era la pieza de madera colocada sobre los bueyes para el trabajo. Pablo usa esta imagen para describir el intento de obligar a los cristianos a guardar la ley de Moisés como condición de salvación."
+      },
+      {
+        "id": "gal-5-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Según Pablo, ¿qué les pasaría a quienes se circuncidaran buscando la justificación por la ley?",
+        "options": [
+          "Cristo de nada les aprovecharía",
+          "Recibirían mayor gracia",
+          "Quedarían exentos de la ley",
+          "Heredarían el reino de inmediato"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "sino la fe que obra por el {0}",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "circuncisión",
+          "ley",
+          "carne"
+        ]
+      },
+      {
+        "id": "gal-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Un poco de {0} leuda toda la masa.",
+        "blanks": [
+          "levadura"
+        ],
+        "distractors": [
+          "Espíritu",
+          "fruto",
+          "yugo"
+        ]
+      },
+      {
+        "id": "gal-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "En una sola palabra, ¿en qué se cumple toda la ley?",
+        "options": [
+          "Amarás a tu prójimo como a ti mismo",
+          "Guardarás el día de reposo",
+          "Serás circuncidado",
+          "No tocarás lo inmundo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Andad en el {0}, y no satisfagáis los deseos de la carne.",
+        "blanks": [
+          "Espíritu"
+        ],
+        "distractors": [
+          "yugo",
+          "levadura",
+          "prójimo"
+        ]
+      },
+      {
+        "id": "gal-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Según el versículo 18, los que son guiados por el Espíritu no están bajo ¿qué?",
+        "options": [
+          "La ley",
+          "La gracia",
+          "La fe",
+          "La libertad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Fruto del Espíritu",
+            "right": "Amor, gozo, paz"
+          },
+          {
+            "left": "Obras de la carne",
+            "right": "Adulterio, idolatría, envidias"
+          },
+          {
+            "left": "Contra el fruto del Espíritu",
+            "right": "No hay ley"
+          },
+          {
+            "left": "Los que hacen las obras de la carne",
+            "right": "No heredarán el reino de Dios"
+          }
+        ]
+      },
+      {
+        "id": "gal-5-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Crucificar la carne",
+        "text": "Pablo dice que los que son de Cristo han \"crucificado la carne\", una imagen de la muerte voluntaria de los deseos pecaminosos para vivir por el Espíritu."
+      }
+    ],
+    "6": [
+      {
+        "id": "gal-6-mp-2",
+        "type": "match_pairs",
+        "after_verse": 2,
+        "pairs": [
+          {
+            "left": "Sobrellevar las cargas unos de otros",
+            "right": "Cumplir la ley de Cristo"
+          },
+          {
+            "left": "Restaurar con mansedumbre",
+            "right": "Ayudar al sorprendido en una falta"
+          },
+          {
+            "left": "Considerarte a ti mismo",
+            "right": "No sea que tú también seas tentado"
+          }
+        ]
+      },
+      {
+        "id": "gal-6-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de {0}.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Dios",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gal-6-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Dos cargas diferentes",
+        "text": "Los versículos 2 y 5 parecen contradecirse, pero usan ideas distintas: debemos ayudar a llevar las cargas pesadas unos de otros (v. 2) y, aun así, cada uno responde por su propia responsabilidad personal ante Dios (v. 5)."
+      },
+      {
+        "id": "gal-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Según el versículo 7, ¿qué sucede con todo lo que el hombre siembre?",
+        "options": [
+          "Eso también segará",
+          "Será olvidado",
+          "Dios lo multiplicará",
+          "No vale nada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "pero el que siembra para el Espíritu, del Espíritu segará {0} eterna.",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "corrupción",
+          "carne",
+          "gloria"
+        ]
+      },
+      {
+        "id": "gal-6-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "No nos cansemos de hacer el bien",
+        "text": "La imagen de sembrar y segar (vv. 7–9) enseña paciencia: así como el labrador espera la estación adecuada, los santos siegan el fruto de la rectitud \"a su tiempo\", si no desmayan."
+      },
+      {
+        "id": "gal-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué destaca Pablo en el versículo 11 sobre la carta?",
+        "options": [
+          "Que la escribió con grandes letras de su propia mano",
+          "Que fue escrita por un escriba",
+          "Que era su primera carta",
+          "Que fue traducida del hebreo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor {0}",
+        "blanks": [
+          "Jesucristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Israel",
+          "David"
+        ]
+      },
+      {
+        "id": "gal-6-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Según el versículo 15, ¿qué vale en Cristo Jesús?",
+        "options": [
+          "La nueva criatura",
+          "La circuncisión",
+          "La incircuncisión",
+          "Guardar la ley de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "De aquí en adelante nadie me cause molestias, porque yo llevo en mi cuerpo las {0} del Señor Jesús.",
+        "blanks": [
+          "marcas"
+        ],
+        "distractors": [
+          "palabras",
+          "cargas",
+          "letras"
+        ]
+      }
+    ]
+  }
+}

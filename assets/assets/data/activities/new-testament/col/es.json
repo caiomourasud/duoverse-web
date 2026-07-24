@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "book": "col",
+  "chapters": {
+    "1": [
+      {
+        "id": "col-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una carta desde la prisión",
+        "text": "Pablo escribió Colosenses como prisionero en Roma, alrededor del año 60–62 d.C., a una iglesia que él nunca había visitado personalmente."
+      },
+      {
+        "id": "col-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Quién escribe esta carta, según los versículos iniciales?",
+        "options": [
+          "El apóstol Pablo",
+          "Epafras",
+          "El apóstol Pedro",
+          "Timoteo solo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Pablo",
+            "right": "Apóstol de Jesucristo"
+          },
+          {
+            "left": "Timoteo",
+            "right": "El hermano"
+          },
+          {
+            "left": "Epafras",
+            "right": "Fiel ministro de Cristo"
+          },
+          {
+            "left": "Colosas",
+            "right": "Donde estaban los santos"
+          }
+        ]
+      },
+      {
+        "id": "col-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "fructificando en toda buena obra, y creciendo en el {0} de Dios;",
+        "blanks": [
+          "conocimiento"
+        ],
+        "distractors": [
+          "temor",
+          "reino",
+          "poder"
+        ]
+      },
+      {
+        "id": "col-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Él es la {0} del Dios invisible, el primogénito de toda creación.",
+        "blanks": [
+          "imagen"
+        ],
+        "distractors": [
+          "palabra",
+          "gloria",
+          "herencia"
+        ]
+      },
+      {
+        "id": "col-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Según el versículo 18, ¿de qué es Cristo la cabeza?",
+        "options": [
+          "Del cuerpo, la iglesia",
+          "De los ángeles",
+          "De la ley",
+          "De las naciones"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "para presentaros santos, y sin mancha, e {0} delante de él.",
+        "blanks": [
+          "irreprensibles"
+        ],
+        "distractors": [
+          "alejados",
+          "enemigos",
+          "fieles"
+        ]
+      },
+      {
+        "id": "col-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "que es Cristo en vosotros, la esperanza de {0},",
+        "blanks": [
+          "gloria"
+        ],
+        "distractors": [
+          "fe",
+          "verdad",
+          "luz"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "col-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Laodicea, la iglesia vecina",
+        "text": "Pablo nunca había visitado personalmente a los colosenses ni a los de Laodicea, ciudad cercana en el valle del río Lico. La iglesia fue fundada por Epafras, y Pablo escribe desde lejos, preso en Roma."
+      },
+      {
+        "id": "col-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "en quien están escondidos todos los tesoros de la {0} y del conocimiento.",
+        "blanks": [
+          "sabiduría"
+        ],
+        "distractors": [
+          "filosofía",
+          "tradición",
+          "carne"
+        ]
+      },
+      {
+        "id": "col-2-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Contra qué advierte Pablo a los colosenses en el versículo 8?",
+        "options": [
+          "Contra filosofías y vanas sutilezas de los hombres",
+          "Contra la oración y el ayuno",
+          "Contra la lectura de las Escrituras",
+          "Contra ayudar a los pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Porque en él habita corporalmente toda la plenitud de la {0},",
+        "blanks": [
+          "divinidad"
+        ],
+        "distractors": [
+          "humildad",
+          "tradición",
+          "sabiduría"
+        ]
+      },
+      {
+        "id": "col-2-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "sepultados juntamente con él en el {0}, en el cual también resucitasteis con él, por medio de la fe en el poder de Dios que le levantó de entre los muertos.",
+        "blanks": [
+          "bautismo"
+        ],
+        "distractors": [
+          "templo",
+          "desierto",
+          "reposo"
+        ]
+      },
+      {
+        "id": "col-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "El acta de los decretos contra nosotros",
+            "right": "Clavada en la cruz"
+          },
+          {
+            "left": "Principados y potestades",
+            "right": "Exhibidos en público"
+          },
+          {
+            "left": "Comida, bebida y días de fiesta",
+            "right": "Nadie os juzgue"
+          }
+        ]
+      },
+      {
+        "id": "col-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Según el versículo 17, ¿qué son los días de fiesta, la luna nueva y los días de reposo?",
+        "options": [
+          "Sombra de lo por venir",
+          "Mandamientos eternos",
+          "Invenciones de los ángeles",
+          "Tradiciones de Laodicea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-2-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Reglas como 'no utilices, ni comas, ni toques' tienen, según Pablo, ¿qué valor real?",
+        "options": [
+          "Ningún valor contra los apetitos de la carne",
+          "Garantizan la salvación",
+          "Son mandamientos de Cristo",
+          "Reemplazan la fe"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "col-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A la diestra de Dios",
+        "text": "Decir que Cristo está \"sentado a la diestra de Dios\" era, en el mundo antiguo, una imagen de suprema autoridad y honra: el lugar a la derecha del rey pertenecía a quien gobernaba con él."
+      },
+      {
+        "id": "col-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Quién escribió esta epístola a los Colosenses?",
+        "options": [
+          "Pedro",
+          "Pablo",
+          "Juan",
+          "Santiago"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "col-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "malos deseos y avaricia, que es {0};",
+        "blanks": [
+          "idolatría"
+        ],
+        "distractors": [
+          "fornicación",
+          "impureza",
+          "malicia"
+        ]
+      },
+      {
+        "id": "col-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "El viejo hombre",
+            "right": "Despojado, con sus hechos"
+          },
+          {
+            "left": "El nuevo hombre",
+            "right": "Renovado conforme a la imagen de su Creador"
+          },
+          {
+            "left": "En Cristo",
+            "right": "No hay griego ni judío"
+          },
+          {
+            "left": "Cristo",
+            "right": "El todo, y en todos"
+          }
+        ]
+      },
+      {
+        "id": "col-3-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "vestíos de caridad, que es el vínculo de la {0}.",
+        "blanks": [
+          "perfección"
+        ],
+        "distractors": [
+          "santidad",
+          "justicia",
+          "bondad"
+        ]
+      },
+      {
+        "id": "col-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Cómo dice Pablo que debemos enseñarnos y exhortarnos unos a otros?",
+        "options": [
+          "Con ayuno y silencio",
+          "Con salmos, himnos y cánticos espirituales",
+          "Con sacrificios",
+          "Con señales y prodigios"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "col-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Por qué advierte Pablo a los padres que no provoquen a ira a sus hijos?",
+        "options": [
+          "Para que no se desanimen",
+          "Para que sean ricos",
+          "Para que aprendan la ley",
+          "Para que guarden el día de reposo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-3-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "todo lo que hagáis, hacedlo de {0}, como para el Señor",
+        "blanks": [
+          "corazón"
+        ],
+        "distractors": [
+          "apariencia",
+          "obligación",
+          "temor"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "col-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "En Colosenses 4:2, ¿cómo manda Pablo perseverar en la oración?",
+        "options": [
+          "Velando en ella con acción de gracias",
+          "Ayunando en silencio",
+          "Solo al amanecer",
+          "En secreto en el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Palabra sazonada con sal",
+        "text": "En el mundo antiguo la sal preservaba los alimentos y les daba sabor. Pablo usa esta imagen para el hablar del cristiano: que sea siempre con gracia, sabiendo cómo responder bien a cada persona."
+      },
+      {
+        "id": "col-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Andad en {0} para con los extraños, aprovechando el tiempo.",
+        "blanks": [
+          "sabiduría"
+        ],
+        "distractors": [
+          "justicia",
+          "oración",
+          "gracia"
+        ]
+      },
+      {
+        "id": "col-4-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Lucas",
+            "right": "El médico amado"
+          },
+          {
+            "left": "Epafras",
+            "right": "Siervo de Cristo, uno de vosotros"
+          },
+          {
+            "left": "Aristarco",
+            "right": "Compañero de prisión de Pablo"
+          },
+          {
+            "left": "Tíquico",
+            "right": "Hermano amado y fiel ministro"
+          }
+        ]
+      },
+      {
+        "id": "col-4-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "En Colosenses 4:16, ¿qué pide Pablo que se haga con la carta?",
+        "options": [
+          "Que se lea también en la iglesia de los laodicenses",
+          "Que se guarde en secreto",
+          "Que se destruya tras leerla",
+          "Que se envíe a Jerusalén"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

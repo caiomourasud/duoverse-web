@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "book": "1-tim",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-tim-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Quem escreve esta epístola e como chama Timóteo?",
+        "options": [
+          "Paulo, que chama Timóteo seu verdadeiro filho na fé",
+          "Pedro, que chama Timóteo seu irmão",
+          "Tiago, que chama Timóteo seu servo",
+          "João, que chama Timóteo seu amado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-1-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Timóteo em Éfeso",
+        "text": "Paulo deixou Timóteo em Éfeso para supervisionar a igreja e corrigir falsos mestres, uma das missões pastorais que dão nome a esta carta."
+      },
+      {
+        "id": "1-tim-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "A lei não foi feita",
+            "right": "para o justo"
+          },
+          {
+            "left": "A lei foi feita",
+            "right": "para os injustos e obstinados"
+          },
+          {
+            "left": "Paulo agradece a",
+            "right": "Cristo Jesus, que o fortaleceu"
+          },
+          {
+            "left": "O evangelho foi",
+            "right": "confiado a Paulo"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "que Cristo Jesus veio ao mundo para salvar os {0}, dos quais eu sou o principal.",
+        "blanks": [
+          "pecadores"
+        ],
+        "distractors": [
+          "apóstolos",
+          "profetas",
+          "mestres"
+        ]
+      },
+      {
+        "id": "1-tim-1-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Doxologia ao Rei dos séculos",
+        "text": "O versículo 17 é uma doxologia, um louvor breve que descreve Deus como imortal, invisível e único, encerrando com 'Amém'."
+      },
+      {
+        "id": "1-tim-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "milites por elas boa {0};",
+        "blanks": [
+          "milícia"
+        ],
+        "distractors": [
+          "doutrina",
+          "consciência",
+          "esperança"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-tim-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Orar por todos",
+        "text": "Paulo pede súplicas, orações, intercessões e ações de graças por TODOS os homens, sem excluir ninguém, nem mesmo os governantes da época."
+      },
+      {
+        "id": "1-tim-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Porque há um só Deus, e um só {0} entre Deus e os homens, Jesus Cristo homem.",
+        "blanks": [
+          "Mediador"
+        ],
+        "distractors": [
+          "pregador",
+          "apóstolo",
+          "testemunho"
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Para que ofício Paulo diz ter sido constituído?",
+        "options": [
+          "Pregador e apóstolo, mestre dos gentios",
+          "Rei de Éfeso",
+          "Escriba dos judeus",
+          "Sacerdote do templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Adornar-se",
+            "right": "com traje recatado"
+          },
+          {
+            "left": "Orar (os homens)",
+            "right": "levantando mãos santas"
+          },
+          {
+            "left": "A mulher aprenda",
+            "right": "em silêncio"
+          },
+          {
+            "left": "Deus quer",
+            "right": "que todos os homens se salvem"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o versículo 13, quem foi formado primeiro?",
+        "options": [
+          "Adão",
+          "Eva",
+          "Cristo",
+          "Timóteo"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "1-tim-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O ofício de bispo",
+        "text": "A palavra traduzida por \"episcopado\" significa o ofício de supervisor ou superintendente. Paulo o apresenta como uma \"excelente obra\", digna de desejo, e não como uma posição de honra mundana."
+      },
+      {
+        "id": "1-tim-3-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Convém, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, {0}, apto para ensinar;",
+        "blanks": [
+          "hospitaleiro"
+        ],
+        "distractors": [
+          "contencioso",
+          "neófito",
+          "cobiçoso"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo Paulo, o cuidado de qual coisa se relaciona com saber governar a própria casa?",
+        "options": [
+          "A igreja de Deus",
+          "A cidade",
+          "O templo",
+          "A própria fortuna"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Bispo",
+            "right": "Apto para ensinar"
+          },
+          {
+            "left": "Diáconos",
+            "right": "Não de língua dobre"
+          },
+          {
+            "left": "Bispo",
+            "right": "Não dado ao vinho"
+          },
+          {
+            "left": "Diáconos",
+            "right": "Não cobiçosos de torpe ganância"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Os diáconos sejam maridos de uma mulher, e governem bem seus filhos e sua própria {0}.",
+        "blanks": [
+          "casa"
+        ],
+        "distractors": [
+          "igreja",
+          "consciência",
+          "fé"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como Paulo descreve a igreja do Deus vivo?",
+        "options": [
+          "A coluna e firmeza da verdade",
+          "O laço do diabo",
+          "A glória dos gentios",
+          "O bom grau dos diáconos"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-tim-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A grande apostasia",
+        "text": "A advertência de Paulo de que alguns 'apostatarão da fé' é vista pelos Santos dos Últimos Dias como uma profecia da Grande Apostasia, que tornou necessária a Restauração do evangelho."
+      },
+      {
+        "id": "1-tim-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Proibindo o {0}, e mandando que se abstenham dos alimentos que Deus criou",
+        "blanks": [
+          "casamento"
+        ],
+        "distractors": [
+          "jejum",
+          "batismo",
+          "sacrifício"
+        ]
+      },
+      {
+        "id": "1-tim-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Segundo o versículo 4, como deve ser recebida toda criatura de Deus?",
+        "options": [
+          "Com ações de graças",
+          "Em segredo",
+          "Com sacrifício",
+          "Após o jejum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Em que Paulo manda que Timóteo se exercite?",
+        "options": [
+          "Na piedade",
+          "No exercício corporal",
+          "Nas fábulas",
+          "Na riqueza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "o exercício corporal para pouco aproveita, mas a {0} para tudo é proveitosa",
+        "blanks": [
+          "piedade"
+        ],
+        "distractors": [
+          "riqueza",
+          "fábula",
+          "mocidade"
+        ]
+      },
+      {
+        "id": "1-tim-4-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "Persiste no",
+            "right": "ler, exortar e ensinar"
+          },
+          {
+            "left": "Não desprezes",
+            "right": "o dom que há em ti"
+          },
+          {
+            "left": "Sê o exemplo",
+            "right": "dos fiéis"
+          },
+          {
+            "left": "Ninguém despreze",
+            "right": "a tua mocidade"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Tem cuidado de ti mesmo e da {0}; persevera nessas coisas",
+        "blanks": [
+          "doutrina"
+        ],
+        "distractors": [
+          "mocidade",
+          "fábula",
+          "piedade"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-tim-5-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Como Paulo instrui Timóteo a tratar os homens idosos?",
+        "options": [
+          "Repreendendo-os asperamente",
+          "Admoestando-os como a pais",
+          "Ignorando-os",
+          "Afastando-os da igreja"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Honra as viúvas que {0} são viúvas.",
+        "blanks": [
+          "verdadeiramente"
+        ],
+        "distractors": [
+          "asperamente",
+          "primeiro",
+          "apressadamente"
+        ]
+      },
+      {
+        "id": "1-tim-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Segundo o versículo 8, quem nega a fé e é pior do que o infiel?",
+        "options": [
+          "Quem repreende os anciãos",
+          "Quem não cuida dos seus, principalmente da própria família",
+          "Quem honra as viúvas",
+          "Quem governa a casa"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "se exercitou hospitalidade, se lavou os pés dos {0}, se socorreu os aflitos",
+        "blanks": [
+          "santos"
+        ],
+        "distractors": [
+          "filhos",
+          "pais",
+          "anciãos"
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A lista das viúvas",
+        "text": "Na igreja primitiva existia um registro formal de viúvas que recebiam sustento e serviam à congregação; por isso Paulo descreve as condições para alguém ser inscrita nessa lista."
+      },
+      {
+        "id": "1-tim-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Por que Paulo quer que as viúvas moças se casem e governem a casa?",
+        "options": [
+          "Para enriquecer a igreja",
+          "Para não dar ocasião ao adversário de maldizer",
+          "Para deixar a congregação",
+          "Para receber dupla honra"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Os anciãos que governam bem sejam estimados como dignos de {0} honra",
+        "blanks": [
+          "duplicada"
+        ],
+        "distractors": [
+          "pouca",
+          "nenhuma",
+          "alheia"
+        ]
+      },
+      {
+        "id": "1-tim-5-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "O boi que debulha",
+            "right": "Não amordaçarás"
+          },
+          {
+            "left": "O obreiro",
+            "right": "É digno do seu salário"
+          },
+          {
+            "left": "Os anciãos que governam bem",
+            "right": "Dignos de duplicada honra"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Um pouco de vinho",
+        "text": "Paulo recomenda a Timóteo um pouco de vinho por causa do estômago e das enfermidades frequentes; era um conselho de saúde comum na época, dada a qualidade incerta da água."
+      },
+      {
+        "id": "1-tim-5-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que o versículo 25 ensina sobre as boas obras?",
+        "options": [
+          "Que permanecem sempre ocultas",
+          "Que são manifestas e não podem ocultar-se",
+          "Que só Deus as conhece",
+          "Que não têm recompensa"
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "id": "1-tim-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Quem escreveu esta carta e a quem ela é dirigida?",
+        "options": [
+          "Paulo, a Timóteo",
+          "Pedro, a Tito",
+          "João, aos efésios",
+          "Tiago, às doze tribos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-6-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Nada levamos deste mundo",
+        "text": "A ideia de que nada trazemos ao nascer e nada levamos ao morrer ecoa Jó 1:21 e Eclesiastes 5:15, lembrando que os bens materiais são passageiros."
+      },
+      {
+        "id": "1-tim-6-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Porque o amor ao dinheiro é a {0} de todos os males",
+        "blanks": [
+          "raiz"
+        ],
+        "distractors": [
+          "honra",
+          "verdade",
+          "esperança"
+        ]
+      },
+      {
+        "id": "1-tim-6-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Amor ao dinheiro",
+            "right": "Raiz de todos os males"
+          },
+          {
+            "left": "Piedade com contentamento",
+            "right": "Grande ganho"
+          },
+          {
+            "left": "Homem de Deus",
+            "right": "Foge dessas coisas"
+          },
+          {
+            "left": "Bom combate",
+            "right": "Combate da fé"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "nem ponham a esperança na incerteza das {0}, mas no Deus vivo",
+        "blanks": [
+          "riquezas"
+        ],
+        "distractors": [
+          "palavras",
+          "obras",
+          "promessas"
+        ]
+      }
+    ]
+  }
+}

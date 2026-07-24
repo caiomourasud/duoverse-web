@@ -1,0 +1,412 @@
+{
+ "schema_version": 1,
+ "book": "abr",
+ "chapters": {
+  "1": [
+   {
+    "id": "abr-1-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Um livro de um rolo egípcio",
+    "text": "O Livro de Abraão faz parte da Pérola de Grande Valor. Os santos dos últimos dias o têm como o próprio registro de Abraão, escrito na primeira pessoa — repare como o capítulo 1 começa com 'eu, Abraão'."
+   },
+   {
+    "id": "abr-1-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Em Abraão 1:1, o que Abraão viu que lhe era necessário encontrar?",
+    "options": [
+     "Outro lugar para morar",
+     "Um novo nome",
+     "Um exército",
+     "Um navio"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "abr-1-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Em Abraão 1:5, por que os pais de Abraão se recusaram a dar ouvidos à sua voz?",
+    "options": [
+     "Haviam-se voltado para a adoração dos deuses dos pagãos",
+     "Estavam em guerra",
+     "Haviam morrido",
+     "Não o compreendiam"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "abr-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "recusaram-se a curvar-se para adorar deuses de {0} ou de pedra",
+    "blanks": [
+     "madeira"
+    ],
+    "distractors": [
+     "ouro",
+     "barro",
+     "prata"
+    ]
+   },
+   {
+    "id": "abr-1-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Segundo Abraão 1:15-16, quem livrou Abraão quando o sacerdote levantou as mãos para matá-lo?",
+    "options": [
+     "O Faraó",
+     "O Senhor, que declarou que seu nome é Jeová",
+     "O sacerdote de Elquena",
+     "Seu pai Terá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Abraão 1:19, o Senhor diz que, como foi com quem, assim será com Abraão?",
+    "options": [
+     "Adão",
+     "Enoque",
+     "Noé",
+     "Moisés"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-1-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Em Abraão 1:21-24, dos lombos de quem descendia o rei do Egito?",
+    "options": [
+     "Sem",
+     "Jafé",
+     "Cão",
+     "Melquisedeque"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-1-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "Segundo Abraão 1:28-30, o que o Senhor preservou nas próprias mãos de Abraão?",
+    "options": [
+     "Os deuses de Elquena",
+     "Os registros dos pais a respeito do direito ao Sacerdócio",
+     "As riquezas do Faraó",
+     "O altar de sacrifício"
+    ],
+    "answer": 1
+   }
+  ],
+  "2": [
+   {
+    "id": "abr-2-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Abraão 2:3-4, para que terra o Senhor ordenou que Abraão fosse?",
+    "options": [
+     "Egito",
+     "Uma terra que o Senhor lhe mostraria",
+     "Babilônia",
+     "Assíria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-2-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "E {0} os que te abençoarem, e amaldiçoarei os que te amaldiçoarem",
+    "blanks": [
+     "abençoarei"
+    ],
+    "distractors": [
+     "recompensarei",
+     "reunirei",
+     "guardarei"
+    ]
+   },
+   {
+    "id": "abr-2-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "Sessenta e dois anos",
+    "text": "Abraão 2:14 dá um detalhe raro e específico: Abraão tinha 'sessenta e dois anos de idade' quando partiu de Harã — uma lembrança de que isto está escrito como um registro pessoal e recordado."
+   },
+   {
+    "id": "abr-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Em Abraão 2:15-16, quem Abraão levou consigo ao viajar em direção a Canaã?",
+    "options": [
+     "Apenas seus servos",
+     "Sarai, sua mulher, e Ló",
+     "A filha do Faraó",
+     "O sacerdote de Elquena"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-2-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Em Abraão 2:22-23, o que o Senhor advertiu sobre Sarai quando se aproximavam do Egito?",
+    "options": [
+     "Que ela seria feita rainha",
+     "Que os egípcios veriam sua formosura e matariam Abraão",
+     "Que ela adoeceria",
+     "Que ela voltaria a Ur"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "abr-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Em Abraão 3:2-3, qual é o nome da grande estrela mais próxima do trono de Deus?",
+    "options": [
+     "Sineá",
+     "Cocobe",
+     "Colobe",
+     "Olea"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-3-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Um dia é mil anos",
+    "text": "Abraão 3:4 diz que uma revolução de Colobe é 'um dia para o Senhor', sendo 'mil anos' segundo o cálculo terrestre — ideia ecoada em 2 Pedro 3:8."
+   },
+   {
+    "id": "abr-3-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Abraão 3:9, aproximar-se do trono de Deus é aproximar-se de quê?",
+    "options": [
+     "Do sol",
+     "De Colobe",
+     "Da lua",
+     "Da Terra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "Olea, que é a {0}",
+    "blanks": [
+     "lua"
+    ],
+    "distractors": [
+     "sol",
+     "estrela",
+     "Terra"
+    ]
+   },
+   {
+    "id": "abr-3-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Segundo Abraão 3:18, o que se diz dos dois espíritos — que são 'gnolaum'?",
+    "options": [
+     "São criados",
+     "São eternos, sem princípio e sem fim",
+     "Estão adormecidos",
+     "São iguais em tudo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Em Abraão 3:22-23, o Senhor diz a Abraão que ele estava entre os nobres e grandes e foi escolhido quando?",
+    "options": [
+     "Depois de nascer",
+     "Antes de nascer",
+     "Ao entrar no Egito",
+     "Ao receber o Sacerdócio"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-3-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Em Abraão 3:27, quem responde 'eis-me aqui, envia-me' e é escolhido — o Senhor diz 'enviarei o primeiro'?",
+    "options": [
+     "Aquele semelhante ao Filho do Homem",
+     "O segundo, que se irou",
+     "O sacerdote de Elquena",
+     "Adão"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "abr-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Os Deuses organizaram",
+    "text": "Ao contrário de Gênesis, Abraão 4 diz que os Deuses 'organizaram e formaram' os céus e a Terra — organizando materiais já existentes, em vez de criar do nada."
+   },
+   {
+    "id": "abr-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Abraão 4:5, como os Deuses chamaram a luz e as trevas?",
+    "options": [
+     "Manhã e Entardecer",
+     "Dia e Noite",
+     "Sol e Lua",
+     "Bem e Mal"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "E os Deuses chamaram à expansão {0}",
+    "blanks": [
+     "Céu"
+    ],
+    "distractors": [
+     "Firmamento",
+     "Ar",
+     "Águas"
+    ]
+   },
+   {
+    "id": "abr-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Segundo Abraão 4:14, para que os Deuses organizaram as luzes na expansão?",
+    "options": [
+     "Apenas para enfeite",
+     "Para sinais, estações, dias e anos",
+     "Para chuva e vento",
+     "Para música"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Abraão 4:16, qual das duas grandes luzes foi posta para governar o dia?",
+    "options": [
+     "A luz menor",
+     "A luz maior",
+     "As estrelas",
+     "Colobe"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "abr-4-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Em Abraão 4:24-25, em qual 'vez' os Deuses prepararam a Terra para produzir gado e bestas?",
+    "options": [
+     "A terceira vez",
+     "A quinta vez",
+     "A sexta vez",
+     "A sétima vez"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-4-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "Segundo Abraão 4:27, à imagem de quem os Deuses formaram o homem?",
+    "options": [
+     "À imagem da Terra",
+     "À imagem dos Deuses, homem e mulher",
+     "À imagem das bestas",
+     "À imagem de ninguém"
+    ],
+    "answer": 1
+   }
+  ],
+  "5": [
+   {
+    "id": "abr-5-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Em Abraão 5:2-3, em qual 'vez' os Deuses descansaram de toda a sua obra?",
+    "options": [
+     "A quinta vez",
+     "A sexta vez",
+     "A sétima vez",
+     "A primeira vez"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-5-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "o homem tornou-se uma {0} vivente",
+    "blanks": [
+     "alma"
+    ],
+    "distractors": [
+     "criatura",
+     "espírito",
+     "corpo"
+    ]
+   },
+   {
+    "id": "abr-5-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Tempo medido por Colobe",
+    "text": "Abraão 5:13 faz uma pausa para notar que isso era 'segundo o tempo do Senhor, que era segundo o tempo de Colobe' — ligando o relato da criação à astronomia do capítulo 3."
+   },
+   {
+    "id": "abr-5-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Em Abraão 5:11-13, o que os Deuses ordenaram sobre a árvore do conhecimento do bem e do mal?",
+    "options": [
+     "Que dela comesse livremente",
+     "Que a regasse todos os dias",
+     "Que o homem não comesse dela",
+     "Que a cortasse"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "abr-5-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Abraão 5:14-17, por que os Deuses formaram uma adjutora para o homem?",
+    "options": [
+     "Porque não era bom que o homem estivesse só",
+     "Para dominá-lo",
+     "Para guardar o jardim",
+     "Para nomear os animais"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

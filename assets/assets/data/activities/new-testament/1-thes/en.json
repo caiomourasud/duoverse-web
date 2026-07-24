@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "book": "1-thes",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-thes-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Who was Silvanus?",
+        "text": "Silvanus is the same Silas who traveled with Paul on his second missionary journey. This is among Paul's earliest letters, written around A.D. 50 from Corinth."
+      },
+      {
+        "id": "1-thes-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Which three men send this greeting to the church of the Thessalonians?",
+        "options": [
+          "Paul, Silvanus, and Timothy",
+          "Paul, Peter, and James",
+          "Paul, Barnabas, and Luke",
+          "Peter, John, and James"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Remembering without ceasing your work of {0}, and labour of love",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "peace",
+          "grace",
+          "wrath"
+        ]
+      },
+      {
+        "id": "1-thes-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "They turned from",
+            "right": "idols"
+          },
+          {
+            "left": "To serve the",
+            "right": "living and true God"
+          },
+          {
+            "left": "To wait from heaven for",
+            "right": "his Son"
+          },
+          {
+            "left": "Ensamples in",
+            "right": "Macedonia and Achaia"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "And to wait for his Son from {0}, whom he raised from the dead",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "earth",
+          "Galilee",
+          "Jerusalem"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-thes-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Affliction at Philippi",
+        "text": "Before reaching Thessalonica, Paul and Silas had been beaten and imprisoned at Philippi (Acts 16). Even so, they preached boldly, showing that persecution did not silence them."
+      },
+      {
+        "id": "1-thes-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "According to Paul, whom did he seek to please when preaching the gospel?",
+        "options": [
+          "Men",
+          "God, who trieth the hearts",
+          "Himself",
+          "The leaders of the city"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-thes-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "But we were gentle among you, even as a {0} cherisheth her children:",
+        "blanks": [
+          "nurse"
+        ],
+        "distractors": [
+          "servant",
+          "queen",
+          "widow"
+        ]
+      },
+      {
+        "id": "1-thes-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Gentle as",
+            "right": "a nurse cherisheth her children"
+          },
+          {
+            "left": "Exhorted as",
+            "right": "a father doth his children"
+          },
+          {
+            "left": "Labouring",
+            "right": "night and day"
+          },
+          {
+            "left": "The word received",
+            "right": "not of men, but of God"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "ye received it not as the word of men, but as it is in truth, the word of {0}",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "men",
+          "angels",
+          "prophets"
+        ]
+      },
+      {
+        "id": "1-thes-2-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "According to Paul, what hindered him from returning to the Thessalonians?",
+        "options": [
+          "The distance",
+          "An illness",
+          "Satan",
+          "The persecution of the Jews"
+        ],
+        "answer": 2
+      }
+    ],
+    "3": [
+      {
+        "id": "1-thes-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Who Timothy was",
+        "text": "Timothy, here called Paul's \"brother\" and \"fellowlabourer,\" was a young disciple who became one of the apostle's most faithful companions, and to whom Paul would later address two epistles."
+      },
+      {
+        "id": "1-thes-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Why did Paul send Timothy to the Thessalonians?",
+        "options": [
+          "To establish and comfort them concerning their faith",
+          "To collect an offering",
+          "To baptize new members",
+          "To appoint new leaders"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Therefore, brethren, we were {0} over you in all our affliction and distress by your faith:",
+        "blanks": [
+          "comforted"
+        ],
+        "distractors": [
+          "afflicted",
+          "tempted",
+          "appointed"
+        ]
+      },
+      {
+        "id": "1-thes-3-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Timothy",
+            "right": "Paul's brother and fellowlabourer"
+          },
+          {
+            "left": "Good tidings",
+            "right": "the Thessalonians' faith and charity"
+          },
+          {
+            "left": "Praying night and day",
+            "right": "to see their face"
+          },
+          {
+            "left": "The tempter",
+            "right": "threat to the saints' faith"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-3-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What does Paul ask the Lord to do for the Thessalonians?",
+        "options": [
+          "Make them increase and abound in love one toward another",
+          "Give them riches",
+          "Bring them quickly to Jerusalem",
+          "Send them a new apostle"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-thes-4-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to Paul, what is the will of God for the saints?",
+        "options": [
+          "Their sanctification",
+          "Their wealth",
+          "Their fame",
+          "Their rest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-4-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Called unto holiness",
+        "text": "Paul reminds the saints that God has not called us unto uncleanness, but unto holiness. The Greek word rendered 'sanctification' (hagiasmos) describes the process of being made holy and set apart for God."
+      },
+      {
+        "id": "1-thes-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "He therefore that despiseth, despiseth not {0}, but God, who hath also given unto us his holy Spirit.",
+        "blanks": [
+          "man"
+        ],
+        "distractors": [
+          "brother",
+          "king",
+          "angel"
+        ]
+      },
+      {
+        "id": "1-thes-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What practical counsel does Paul give the saints in verse 11?",
+        "options": [
+          "To study to be quiet and work with their own hands",
+          "To travel to Macedonia",
+          "To build a temple",
+          "To collect debts from the brethren"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no {0}.",
+        "blanks": [
+          "hope"
+        ],
+        "distractors": [
+          "faith",
+          "light",
+          "life"
+        ]
+      },
+      {
+        "id": "1-thes-4-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "The Lord himself",
+            "right": "shall descend from heaven with a shout"
+          },
+          {
+            "left": "The dead in Christ",
+            "right": "shall rise first"
+          },
+          {
+            "left": "We which are alive",
+            "right": "shall be caught up in the clouds"
+          },
+          {
+            "left": "And so",
+            "right": "shall we ever be with the Lord"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-thes-5-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "As a thief in the night",
+        "text": "The image of a thief arriving unexpectedly in the night became one of the best-known figures for describing the Lord's coming, echoed elsewhere in the New Testament."
+      },
+      {
+        "id": "1-thes-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "the day of the Lord so cometh as a {0} in the night",
+        "blanks": [
+          "thief"
+        ],
+        "distractors": [
+          "shepherd",
+          "watchman",
+          "servant"
+        ]
+      },
+      {
+        "id": "1-thes-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "putting on the breastplate of faith and {0}",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "hope",
+          "salvation",
+          "peace"
+        ]
+      },
+      {
+        "id": "1-thes-5-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "According to verses 12–13, how does Paul ask the saints to treat those who labour and are over them?",
+        "options": [
+          "To esteem them very highly in love",
+          "To ignore them",
+          "To replace them",
+          "To criticize them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-5-mp-16",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Rejoice",
+            "right": "evermore"
+          },
+          {
+            "left": "Pray",
+            "right": "without ceasing"
+          },
+          {
+            "left": "In every thing",
+            "right": "give thanks"
+          },
+          {
+            "left": "Quench not",
+            "right": "the Spirit"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-5-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And the very God of {0} sanctify you wholly",
+        "blanks": [
+          "peace"
+        ],
+        "distractors": [
+          "light",
+          "love",
+          "grace"
+        ]
+      }
+    ]
+  }
+}

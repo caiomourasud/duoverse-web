@@ -1,0 +1,132 @@
+{
+ "schema_version": 1,
+ "book": "a-of-f",
+ "chapters": {
+  "1": [
+   {
+    "id": "a-of-f-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Answering an editor's question",
+    "text": "The Articles of Faith began as part of the 1842 'Wentworth Letter,' Joseph Smith's reply to newspaper editor John Wentworth, who asked about the beliefs of the Church. Joseph closed the letter with thirteen brief statements of faith."
+   },
+   {
+    "id": "a-of-f-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "We believe in God, the Eternal Father, and in His Son, {0}, and in the Holy Ghost.",
+    "blanks": [
+     "Jesus Christ"
+    ],
+    "distractors": [
+     "Michael",
+     "Adam",
+     "Elias"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "According to the second Article of Faith, men will be punished for what?",
+    "options": [
+     "Their own sins, and not for Adam's transgression",
+     "The sins of their fathers",
+     "Adam's transgression",
+     "The sins of the whole world"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Which is listed first among the first principles and ordinances of the Gospel (Article 4)?",
+    "options": [
+     "Baptism by immersion",
+     "Repentance",
+     "Faith in the Lord Jesus Christ",
+     "Laying on of hands"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "a-of-f-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "The sixth Article of Faith affirms belief in the same organization that existed where?",
+    "options": [
+     "In the Primitive Church",
+     "In the courts of Israel",
+     "In the city of Enoch",
+     "In the temple of Solomon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "we also believe the {0} to be the word of God.",
+    "blanks": [
+     "Book of Mormon"
+    ],
+    "distractors": [
+     "Doctrine and Covenants",
+     "Wentworth Letter",
+     "Pearl of Great Price"
+    ]
+   },
+   {
+    "id": "a-of-f-1-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Revelation not yet finished",
+    "text": "The ninth Article of Faith declares belief not only in what God 'has revealed' and 'does now reveal,' but that He 'will yet reveal many great and important things' — a statement that revelation remains open."
+   },
+   {
+    "id": "a-of-f-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to the tenth Article of Faith, where will Zion (the New Jerusalem) be built?",
+    "options": [
+     "In the land of Egypt",
+     "Upon the American continent",
+     "On Mount Zion in Jerusalem",
+     "In the isles of the sea"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "a-of-f-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "We claim the privilege of worshiping Almighty God according to the dictates of our own {0}",
+    "blanks": [
+     "conscience"
+    ],
+    "distractors": [
+     "desires",
+     "traditions",
+     "understanding"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "The thirteenth Article of Faith says its list of virtues follows the admonition of whom?",
+    "options": [
+     "Moses",
+     "Isaiah",
+     "Peter",
+     "Paul"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

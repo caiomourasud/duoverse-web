@@ -1,0 +1,1408 @@
+{
+  "schema_version": 1,
+  "book": "heb",
+  "chapters": {
+    "1": [
+      {
+        "id": "heb-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "By whom he made the worlds",
+        "text": "Hebrews teaches that the Father made the worlds through the Son, who is appointed heir of all things — a central theme of the epistle about the exaltation of Christ."
+      },
+      {
+        "id": "heb-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "According to verse 1, how did God speak in time past unto the fathers?",
+        "options": [
+          "By the prophets",
+          "By the angels",
+          "By his Son",
+          "By the law of Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Who being the brightness of his glory, and the express image of his {0}",
+        "blanks": [
+          "person"
+        ],
+        "distractors": [
+          "glory",
+          "majesty",
+          "power"
+        ]
+      },
+      {
+        "id": "heb-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "The brightness of his glory",
+            "right": "The Son (v. 3)"
+          },
+          {
+            "left": "Spirits and a flame of fire",
+            "right": "The angels (v. 7)"
+          },
+          {
+            "left": "Thy throne, O God, is for ever and ever",
+            "right": "Spoken to the Son (v. 8)"
+          },
+          {
+            "left": "Spake in time past unto the fathers",
+            "right": "The prophets (v. 1)"
+          }
+        ]
+      },
+      {
+        "id": "heb-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Are they not all ministering {0}, sent forth to minister for them who shall be heirs of salvation?",
+        "blanks": [
+          "spirits"
+        ],
+        "distractors": [
+          "heirs",
+          "angels",
+          "prophets"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "heb-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "By whom did the 'so great salvation' first begin to be spoken?",
+        "options": [
+          "By the angels",
+          "By the Lord",
+          "By Abraham",
+          "By the priests"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "heb-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Thou hast put all things in subjection under his {0}.",
+        "blanks": [
+          "feet"
+        ],
+        "distractors": [
+          "angels",
+          "heavens",
+          "hands"
+        ]
+      },
+      {
+        "id": "heb-2-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Tasting death for every man",
+        "text": "The chapter teaches that Jesus, made 'a little lower than the angels' for the suffering of death, was crowned with glory that he by the grace of God should taste death for every man."
+      },
+      {
+        "id": "heb-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What does Jesus call those who are sanctified?",
+        "options": [
+          "Servants",
+          "Strangers",
+          "Brethren",
+          "Angels"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "heb-2-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Partakers of flesh and blood",
+        "text": "Because the children are partakers of flesh and blood, Christ likewise took part of the same, that through death he might destroy him that had the power of death, that is, the devil."
+      },
+      {
+        "id": "heb-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "He took not on him the nature of",
+            "right": "angels"
+          },
+          {
+            "left": "He took on him the seed of",
+            "right": "Abraham"
+          },
+          {
+            "left": "Through death he destroyed him that had",
+            "right": "the power of death"
+          },
+          {
+            "left": "He delivers them who feared",
+            "right": "death"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "heb-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Apostle and High Priest",
+        "text": "This is the only verse in the New Testament that directly calls Jesus an \"Apostle\" (Greek for \"one who is sent\"), joining it to the role of High Priest that becomes the central theme of Hebrews."
+      },
+      {
+        "id": "heb-3-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "title": "More glory",
+        "question": "According to verse 3, who is counted worthy of more glory?",
+        "options": [
+          "Christ, more than Moses",
+          "Moses, more than Christ",
+          "The house, more than its builder",
+          "The prophets, more than angels"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "title": "Counted worthy",
+        "verse": 3,
+        "template": "For this man was counted {0} of more glory than Moses",
+        "blanks": [
+          "worthy"
+        ],
+        "distractors": [
+          "unworthy",
+          "fearful",
+          "servant"
+        ]
+      },
+      {
+        "id": "heb-3-mp-6",
+        "type": "match_pairs",
+        "after_verse": 6,
+        "title": "Servant and Son",
+        "instructions": "Match each person to their role in God's house.",
+        "pairs": [
+          {
+            "left": "Moses",
+            "right": "faithful as a servant"
+          },
+          {
+            "left": "Christ",
+            "right": "Son over his own house"
+          },
+          {
+            "left": "The house",
+            "right": "are we"
+          },
+          {
+            "left": "God",
+            "right": "built all things"
+          }
+        ]
+      },
+      {
+        "id": "heb-3-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "The provocation",
+        "text": "\"The provocation\" and \"the temptation in the wilderness\" allude to Massah and Meribah (Exodus 17), where Israel doubted God for lack of water; the author quotes Psalm 95 to warn the readers."
+      },
+      {
+        "id": "heb-3-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "title": "Forty years",
+        "question": "For how many years did the fathers see God's works in the wilderness?",
+        "options": [
+          "Forty years",
+          "Seven years",
+          "Four hundred years",
+          "Twelve years"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "title": "God's rest",
+        "verse": 11,
+        "template": "They shall not enter into my {0}",
+        "blanks": [
+          "rest"
+        ],
+        "distractors": [
+          "house",
+          "glory",
+          "land"
+        ]
+      },
+      {
+        "id": "heb-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "title": "An evil heart",
+        "question": "What must the brethren take heed against, according to verse 12?",
+        "options": [
+          "An evil heart of unbelief",
+          "Working on the sabbath",
+          "Eating unclean meats",
+          "Traveling through the wilderness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "title": "Why they could not enter",
+        "verse": 19,
+        "template": "So we see that they could not enter in because of {0}",
+        "blanks": [
+          "unbelief"
+        ],
+        "distractors": [
+          "humility",
+          "obedience",
+          "hope"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "heb-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Faith that profits",
+        "body": "The gospel was preached both to Israel in the wilderness and to the Christians. The difference, the author says, is that in them the preaching was not mixed with faith."
+      },
+      {
+        "id": "heb-4-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "prompt": "According to verse 3, who enters into rest?",
+        "options": [
+          "We which have believed",
+          "The strongest",
+          "The priests",
+          "The first to hear"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "To day if ye will hear his voice, harden not your {0}.",
+        "blanks": [
+          "hearts"
+        ],
+        "distractors": [
+          "rest",
+          "spirits",
+          "ways"
+        ]
+      },
+      {
+        "id": "heb-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "For the word of God is quick, and powerful, and sharper than any twoedged {0}",
+        "blanks": [
+          "sword"
+        ],
+        "distractors": [
+          "spear",
+          "stone",
+          "rod"
+        ]
+      },
+      {
+        "id": "heb-4-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "prompt": "Match each statement about the great high priest:",
+        "pairs": [
+          {
+            "left": "Who he is",
+            "right": "Jesus the Son of God"
+          },
+          {
+            "left": "Can be touched with",
+            "right": "the feeling of our infirmities"
+          },
+          {
+            "left": "In all points",
+            "right": "tempted, yet without sin"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "heb-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The high priest's role",
+        "body": "Under the law of Moses, the high priest represented the people before God, offering gifts and sacrifices for sins."
+      },
+      {
+        "id": "heb-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "prompt": "According to verse 4, who may take the honour of the priesthood unto himself?",
+        "options": [
+          "Only he that is called of God, as was Aaron",
+          "Any man who deems himself worthy",
+          "The eldest of the tribe",
+          "He who offers the most sacrifices"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "prompt": "Fill in the blank:",
+        "template": "Thou art a priest for ever after the order of {0}.",
+        "blanks": [
+          "Melchisedec"
+        ],
+        "distractors": [
+          "Aaron",
+          "Levi",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "heb-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "prompt": "Though he were a Son, what did Christ learn by the things which he suffered?",
+        "options": [
+          "Obedience",
+          "Wisdom",
+          "Patience",
+          "Fear"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-5-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Author of eternal salvation",
+        "body": "Being made perfect, Christ became the source of eternal salvation unto all them that obey him."
+      },
+      {
+        "id": "heb-5-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "prompt": "Match each term to its meaning in the chapter:",
+        "pairs": [
+          [
+            "Milk",
+            "For one who is a babe in the word of righteousness"
+          ],
+          [
+            "Strong meat",
+            "For them of full age with exercised senses"
+          ],
+          [
+            "Dull of hearing",
+            "The readers rebuked by Paul"
+          ]
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "heb-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The foundations",
+        "text": "Paul lists the first principles: repentance, faith, baptisms, laying on of hands, resurrection, and eternal judgment — the base on which to build toward perfection."
+      },
+      {
+        "id": "heb-6-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verses 4–5, what were the enlightened made partakers of?",
+        "options": [
+          "The Holy Ghost",
+          "The throne of David",
+          "The inheritance of the land",
+          "The Levitical priesthood"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-6-fb-1",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 1,
+        "template": "leaving the principles of the doctrine of Christ, let us go on unto {0}",
+        "blanks": [
+          "perfection"
+        ],
+        "distractors": [
+          "promise",
+          "resurrection",
+          "salvation"
+        ]
+      },
+      {
+        "id": "heb-6-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "title": "The earth and its end",
+        "pairs": [
+          [
+            "Earth that bringeth forth herbs",
+            "Receiveth blessing from God"
+          ],
+          [
+            "Earth that beareth thorns and briers",
+            "Is rejected and nigh unto cursing"
+          ],
+          [
+            "The rain that cometh upon the earth",
+            "Is drunk in by it"
+          ]
+        ]
+      },
+      {
+        "id": "heb-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "do shew the same diligence to the full assurance of {0}",
+        "blanks": [
+          "hope"
+        ],
+        "distractors": [
+          "faith",
+          "promise",
+          "salvation"
+        ]
+      },
+      {
+        "id": "heb-6-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "God's oath",
+        "text": "Because he could swear by no greater, God sware by himself when he made the promise to Abraham, guaranteeing its immutability."
+      },
+      {
+        "id": "heb-6-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "By whom did God swear when he made the promise to Abraham?",
+        "options": [
+          "By himself",
+          "By the heavens",
+          "By his throne",
+          "By Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-6-fb-19",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 19,
+        "template": "Which hope we have as an {0} of the soul, both sure and steadfast",
+        "blanks": [
+          "anchor"
+        ],
+        "distractors": [
+          "consolation",
+          "promise",
+          "refuge"
+        ]
+      },
+      {
+        "id": "heb-6-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to verse 20, Jesus was made a high priest after the order of whom?",
+        "options": [
+          "Melchisedec",
+          "Aaron",
+          "Levi",
+          "Abraham"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "heb-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "King of righteousness and peace",
+        "body": "The name \"Melchisedec\" means \"King of righteousness,\" and \"Salem\" (related to shalom) means \"peace.\" So he is also called \"King of peace\"—titles that point to Christ."
+      },
+      {
+        "id": "heb-7-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "title": "Who's who",
+        "prompt": "Match each figure to his description in this chapter.",
+        "pairs": [
+          {
+            "left": "Melchisedec",
+            "right": "King of Salem and priest of the most high God"
+          },
+          {
+            "left": "Abraham",
+            "right": "Gave a tenth of all and had the promises"
+          },
+          {
+            "left": "Levi",
+            "right": "Tribe whose sons receive tithes according to the law"
+          }
+        ]
+      },
+      {
+        "id": "heb-7-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "title": "Without contradiction",
+        "verse": 7,
+        "template": "And without all contradiction the {0} is blessed of the better.",
+        "blanks": [
+          "less"
+        ],
+        "distractors": [
+          "priest",
+          "patriarch",
+          "stranger"
+        ]
+      },
+      {
+        "id": "heb-7-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "title": "Levi and the tithe",
+        "prompt": "How does the author argue that Levi himself paid tithes?",
+        "options": [
+          "In Abraham, since he was yet in the loins of his father when Melchisedec met him",
+          "Because Levi met Melchisedec in person",
+          "Because the law required him to pay Melchisedec",
+          "Because Levi was a descendant of Melchisedec"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "title": "From which tribe?",
+        "prompt": "According to verse 14, from which tribe did our Lord spring?",
+        "options": [
+          "Juda",
+          "Levi",
+          "Aaron",
+          "Benjamin"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "title": "A priest for ever",
+        "verse": 17,
+        "template": "Thou art a priest for ever after the {0} of Melchisedec.",
+        "blanks": [
+          "order"
+        ],
+        "distractors": [
+          "law",
+          "tribe",
+          "promise"
+        ]
+      },
+      {
+        "id": "heb-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "A better hope",
+        "body": "The argument is that the law of Moses \"made nothing perfect\"; it prepared the way for something greater. In its place comes \"a better hope,\" by which the faithful draw near to God."
+      },
+      {
+        "id": "heb-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "title": "Surety of a better testament",
+        "prompt": "What sets Jesus' priesthood apart from that of the former priests, according to verses 20-22?",
+        "options": [
+          "It was made with an oath, making him a surety of a better testament",
+          "It was passed down by Levitical genealogy",
+          "It was limited to yearly offerings at the altar",
+          "It was granted by the tribe of Aaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "title": "Such an high priest",
+        "verse": 26,
+        "template": "For such an high priest became us, who is holy, harmless, {0}, separate from sinners",
+        "blanks": [
+          "undefiled"
+        ],
+        "distractors": [
+          "Levitical",
+          "mortal",
+          "earthly"
+        ]
+      },
+      {
+        "id": "heb-7-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Once for all",
+        "body": "Unlike the high priests who offered sacrifice daily, Christ \"did once, when he offered up himself\"—a single sacrifice sufficient for ever."
+      }
+    ],
+    "8": [
+      {
+        "id": "heb-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "At the right hand",
+        "body": "Being set \"on the right hand of the throne of the Majesty\" signals supreme honor and authority; the Levitical priest stood to minister, but Christ is seated, a sign of a finished work."
+      },
+      {
+        "id": "heb-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "prompt": "Complete the verse:",
+        "template": "A minister of the sanctuary, and of the true {0}, which the Lord pitched, and not man.",
+        "blanks": [
+          "tabernacle"
+        ],
+        "distractors": [
+          "sacrifice",
+          "covenant",
+          "throne"
+        ]
+      },
+      {
+        "id": "heb-8-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "prompt": "What is every high priest ordained to do?",
+        "options": [
+          "To offer gifts and sacrifices",
+          "To judge the nations",
+          "To write the law on tablets",
+          "To build the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "prompt": "Complete the verse:",
+        "template": "he is the mediator of a better {0}, which was established upon better promises.",
+        "blanks": [
+          "covenant"
+        ],
+        "distractors": [
+          "priest",
+          "tabernacle",
+          "sacrifice"
+        ]
+      },
+      {
+        "id": "heb-8-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "prompt": "With whom will the Lord make the new covenant?",
+        "options": [
+          "With the house of Israel and the house of Judah",
+          "Only with the priests",
+          "With the gentile nations",
+          "With the house of David"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-8-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "The law in the heart",
+        "body": "Under the new covenant God promises to put his laws into the mind and write them in the heart, not merely on tablets of stone; obedience springs from within rather than from external rules."
+      },
+      {
+        "id": "heb-8-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "prompt": "Match each element to its description:",
+        "pairs": [
+          {
+            "left": "New covenant",
+            "right": "Laws written in the heart"
+          },
+          {
+            "left": "First covenant",
+            "right": "Made old and ready to vanish away"
+          },
+          {
+            "left": "Christ",
+            "right": "Mediator of a better covenant"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "type": "curiosity",
+        "id": "heb-9-cur-5",
+        "after_verse": 5,
+        "title": "The Holiest of all",
+        "body": "The inner compartment of the tabernacle housed the ark of the covenant and was set apart by a veil; only the high priest entered it, once a year, on the Day of Atonement."
+      },
+      {
+        "type": "match_pairs",
+        "id": "heb-9-mp-4",
+        "after_verse": 4,
+        "title": "Inside the ark of the covenant",
+        "prompt": "Match each sacred object to its description.",
+        "pairs": [
+          {
+            "left": "Golden pot",
+            "right": "Had manna"
+          },
+          {
+            "left": "Aaron's rod",
+            "right": "That budded"
+          },
+          {
+            "left": "Tables of the covenant",
+            "right": "God's law"
+          },
+          {
+            "left": "Cherubims of glory",
+            "right": "Shadowing the mercyseat"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-7",
+        "after_verse": 7,
+        "title": "Who entered the second tabernacle?",
+        "prompt": "According to verse 7, who went into the Holiest of all once every year?",
+        "options": [
+          "The high priest alone",
+          "All the priests",
+          "Anyone of the people",
+          "The Levites"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill_blank",
+        "id": "heb-9-fb-12",
+        "after_verse": 12,
+        "title": "Eternal redemption",
+        "prompt": "Complete verse 12.",
+        "verse": 12,
+        "template": "but by his own {0} he entered in once into the holy place, having obtained eternal redemption for us.",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "merit",
+          "incense",
+          "name"
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-15",
+        "after_verse": 15,
+        "title": "Mediator",
+        "prompt": "According to verse 15, Christ is the mediator of what?",
+        "options": [
+          "The new testament",
+          "The law of Moses",
+          "The first tabernacle",
+          "The Day of Atonement"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "curiosity",
+        "id": "heb-9-cur-19",
+        "after_verse": 19,
+        "title": "The blood of the covenant",
+        "body": "Moses sealed the law by sprinkling blood on the book and the people (Exodus 24). Hebrews uses this rite to teach that without shedding of blood there is no remission."
+      },
+      {
+        "type": "fill_blank",
+        "id": "heb-9-fb-22",
+        "after_verse": 22,
+        "title": "No blood, no remission",
+        "prompt": "Complete verse 22.",
+        "verse": 22,
+        "template": "and without shedding of blood is no {0}.",
+        "blanks": [
+          "remission"
+        ],
+        "distractors": [
+          "covenant",
+          "offering",
+          "purifying"
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-27",
+        "after_verse": 27,
+        "title": "Once to die",
+        "prompt": "According to verse 27, what is appointed unto men?",
+        "options": [
+          "Once to die, and after this the judgment",
+          "To offer sacrifices every year",
+          "To enter the sanctuary with blood",
+          "To serve in the tabernacle"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "heb-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A shadow, not the image",
+        "body": "The law of Moses was \"a shadow of good things to come,\" not the reality itself. Its repeated sacrifices pointed forward to the one sacrifice of Christ still to come."
+      },
+      {
+        "id": "heb-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "According to verse 4, what is not possible?",
+        "options": [
+          "That the blood of bulls and of goats should take away sins",
+          "That the priests should offer sacrifices",
+          "That the law should have a shadow of good things to come",
+          "That sins should be remembered every year"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "He taketh away the first, that he may establish the {0}.",
+        "blanks": [
+          "second"
+        ],
+        "distractors": [
+          "sacrifice",
+          "temple",
+          "priest"
+        ]
+      },
+      {
+        "id": "heb-10-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "By the which will we are sanctified through the offering of the body of {0} once for all.",
+        "blanks": [
+          "Jesus Christ"
+        ],
+        "distractors": [
+          "Moses",
+          "Abraham",
+          "Melchisedec"
+        ]
+      },
+      {
+        "id": "heb-10-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "For by one offering he hath {0} for ever them that are sanctified.",
+        "blanks": [
+          "perfected"
+        ],
+        "distractors": [
+          "condemned",
+          "forgotten",
+          "afflicted"
+        ]
+      },
+      {
+        "id": "heb-10-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "title": "The new covenant",
+        "pairs": [
+          {
+            "left": "I will put my laws",
+            "right": "into their hearts"
+          },
+          {
+            "left": "I will remember no more",
+            "right": "their sins and iniquities"
+          },
+          {
+            "left": "Where remission of sins is",
+            "right": "there is no more offering for sin"
+          }
+        ]
+      },
+      {
+        "id": "heb-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Let us draw near with a true heart in full assurance of {0}",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "doubt",
+          "works",
+          "fear"
+        ]
+      },
+      {
+        "id": "heb-10-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What practice does verse 25 urge the saints not to forsake?",
+        "options": [
+          "The assembling of ourselves together",
+          "Offering animal sacrifices",
+          "Keeping the law of Moses",
+          "Remembering sins year by year"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "According to verse 30, to whom does vengeance belong?",
+        "options": [
+          "Unto the Lord",
+          "Unto the witnesses",
+          "Unto the priests",
+          "Unto the adversaries"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Treading the Son of God under foot",
+        "body": "Deliberately rejecting Christ after knowing the truth is described as having \"trodden under foot the Son of God\" and counted \"the blood of the covenant\" an unholy thing — a solemn warning against despising so great a gift."
+      },
+      {
+        "id": "heb-10-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "For ye have need of {0}, that, after ye have done the will of God, ye might receive the promise.",
+        "blanks": [
+          "patience"
+        ],
+        "distractors": [
+          "riches",
+          "wisdom",
+          "strength"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "heb-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The faith chapter",
+        "body": "Hebrews 11 is traditionally called \"the great faith chapter\" and is the longest in Hebrews, with 40 verses."
+      },
+      {
+        "id": "heb-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "title": "Fill in the blank",
+        "template": "Now faith is the substance of things hoped for, the {0} of things not seen.",
+        "blanks": [
+          "evidence"
+        ],
+        "distractors": [
+          "promise",
+          "inheritance",
+          "reward"
+        ]
+      },
+      {
+        "id": "heb-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "title": "Enoch",
+        "question": "By faith, what happened to Enoch?",
+        "options": [
+          "He was translated that he should not see death",
+          "He prepared an ark",
+          "He offered a sacrifice",
+          "He passed through the sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "title": "Noah",
+        "question": "By faith, being warned of God, what did Noah prepare to save his house?",
+        "options": [
+          "An ark",
+          "A city",
+          "An altar",
+          "A temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "title": "Fill in the blank",
+        "template": "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a {0}.",
+        "blanks": [
+          "city"
+        ],
+        "distractors": [
+          "promise",
+          "inheritance",
+          "dwelling"
+        ]
+      },
+      {
+        "id": "heb-11-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "title": "Who did what by faith",
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Offered up Isaac"
+          },
+          {
+            "left": "Isaac",
+            "right": "Blessed Jacob and Esau"
+          },
+          {
+            "left": "Jacob",
+            "right": "Blessed the sons of Joseph"
+          },
+          {
+            "left": "Joseph",
+            "right": "Gave commandment concerning his bones"
+          }
+        ]
+      },
+      {
+        "id": "heb-11-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Moses chose",
+        "body": "By faith Moses refused to be called the son of Pharaoh's daughter, esteeming the reproach of Christ greater riches than the treasures in Egypt."
+      },
+      {
+        "id": "heb-11-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "title": "The passover",
+        "question": "By faith the sprinkling of blood at the passover was kept so that what would not happen?",
+        "options": [
+          "The destroyer of the firstborn would not touch them",
+          "The walls would not fall",
+          "The sea would not dry up",
+          "The world would not be condemned"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "title": "Fill in the blank",
+        "template": "By faith the walls of {0} fell down, after they were compassed about seven days.",
+        "blanks": [
+          "Jericho"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Babylon",
+          "Nineveh"
+        ]
+      },
+      {
+        "id": "heb-11-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "title": "Conquerors by faith",
+        "question": "According to verse 35, what did the heroes do through faith?",
+        "options": [
+          "Stopped the mouths of lions",
+          "Prepared the ark",
+          "Passed through the sea",
+          "Kept the passover"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "heb-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The cloud of witnesses",
+        "body": "The \"cloud of witnesses\" points back to the heroes of faith described in the previous chapter (Hebrews 11), whose example encourages us to run our own race with patience."
+      },
+      {
+        "id": "heb-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "How is Jesus described in verse 2?",
+        "options": [
+          "The author and finisher of our faith",
+          "The judge of all the living",
+          "A priest after the order of Aaron",
+          "The mediator of the law of Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to verse 6, why does the Lord chasten a person?",
+        "options": [
+          "Because he loveth that person and receiveth him as a son",
+          "Because he is angry with that person",
+          "Because that person is a stranger",
+          "Because he wishes to forsake that person"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "afterward it yieldeth the {0} fruit of righteousness unto them which are exercised thereby",
+        "blanks": [
+          "peaceable"
+        ],
+        "distractors": [
+          "grievous",
+          "consuming",
+          "shaken"
+        ]
+      },
+      {
+        "id": "heb-12-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What did Esau sell for one morsel of meat?",
+        "options": [
+          "His birthright",
+          "His tent",
+          "His flock",
+          "His sword"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What would happen if even a beast touched the mountain at Sinai?",
+        "options": [
+          "It would be stoned, or thrust through with a dart",
+          "It would be offered as a sacrifice",
+          "It would be given to the priest",
+          "It would be set free"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "title": "Unto whom ye are come",
+        "pairs": [
+          {
+            "left": "Mount Sion",
+            "right": "the city of the living God"
+          },
+          {
+            "left": "Jesus",
+            "right": "the mediator of the new covenant"
+          },
+          {
+            "left": "Blood of sprinkling",
+            "right": "speaketh better things than that of Abel"
+          },
+          {
+            "left": "God",
+            "right": "the Judge of all"
+          }
+        ]
+      },
+      {
+        "id": "heb-12-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "serve God acceptably with {0} and godly fear",
+        "blanks": [
+          "reverence"
+        ],
+        "distractors": [
+          "weight",
+          "bitterness",
+          "shame"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "heb-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Angels unawares",
+        "body": "The call to entertain strangers recalls stories like Abraham's, who welcomed heavenly visitors without recognizing them at first (Genesis 18)."
+      },
+      {
+        "id": "heb-13-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, why can we be content with what we have?",
+        "options": [
+          "Because God said, I will never leave thee, nor forsake thee",
+          "Because riches are sinful",
+          "Because man can do nothing",
+          "Because the altar forbids eating"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jesus Christ the same yesterday, and to day, and {0}.",
+        "blanks": [
+          "for ever"
+        ],
+        "distractors": [
+          "tomorrow",
+          "for a season",
+          "no more"
+        ]
+      },
+      {
+        "id": "heb-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "For here have we no continuing {0}, but we seek one to come.",
+        "blanks": [
+          "city"
+        ],
+        "distractors": [
+          "altar",
+          "temple",
+          "kingdom"
+        ]
+      },
+      {
+        "id": "heb-13-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What sacrifice should we offer to God continually, according to verse 15?",
+        "options": [
+          "The sacrifice of praise",
+          "Beasts on the altar",
+          "Meats",
+          "Offerings of money"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-13-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "title": "Final counsel",
+        "pairs": [
+          {
+            "left": "Them that have the rule",
+            "right": "Obey and submit yourselves"
+          },
+          {
+            "left": "To do good",
+            "right": "Forget not"
+          },
+          {
+            "left": "They watch for your souls",
+            "right": "Must give account"
+          }
+        ]
+      },
+      {
+        "id": "heb-13-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "That great shepherd",
+        "body": "The closing blessing calls Jesus 'that great shepherd of the sheep', tying Him to the image of the shepherd who lays down his life for the flock."
+      }
+    ]
+  }
+}

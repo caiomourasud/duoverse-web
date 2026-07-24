@@ -1,0 +1,234 @@
+{
+ "schema_version": 1,
+ "book": "joel",
+ "chapters": {
+  "1": [
+   {
+    "id": "joel-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um profeta que mal conhecemos",
+    "text": "Joel é identificado apenas como 'filho de Petuel' (1:1); nada mais se registra da sua família, cidade natal ou época exata. É a sua mensagem, não a sua biografia, que sustenta o livro."
+   },
+   {
+    "id": "joel-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Joel 1:4, quatro tipos de criaturas devoram a terra, um após o outro. Quais são?",
+    "options": [
+     "A lagarta, o gafanhoto, a locusta e o pulgão",
+     "Leões, lobos, ursos e raposas",
+     "Serpentes, escorpiões, vespas e moscas",
+     "Corvos, abutres, gaviões e corujas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "joel-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Cortou-se a oferta de manjares, e a libação da casa do {0}",
+    "blanks": [
+     "Senhor"
+    ],
+    "distractors": [
+     "rei",
+     "profeta",
+     "altar"
+    ]
+   },
+   {
+    "id": "joel-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Como Joel 1:15 descreve o dia do Senhor?",
+    "options": [
+     "Como uma festa de alegria",
+     "Como perto, e como uma assolação do Todo-Poderoso",
+     "Como um rumor distante",
+     "Como um dia de colheita e abundância"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Joel 1:19-20, o que consumiu os pastos do deserto?",
+    "options": [
+     "Uma inundação",
+     "Um exército inimigo",
+     "O fogo",
+     "Uma tempestade de granizo"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "joel-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Joel 2:1, o que o povo é mandado tocar em Sião?",
+    "options": [
+     "Uma trombeta de jubileu",
+     "A buzina, para dar o alarme",
+     "O sinal para o banquete",
+     "Um apito para a colheita"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Como Joel 2:9 diz que os invasores entrarão nas casas?",
+    "options": [
+     "Pelos portões",
+     "Pelos telhados",
+     "Pelas janelas como o ladrão",
+     "Rompendo os muros"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "E rasgai o vosso {0}, e não as vossas vestes",
+    "blanks": [
+     "coração"
+    ],
+    "distractors": [
+     "manto",
+     "véu",
+     "tenda"
+    ]
+   },
+   {
+    "id": "joel-2-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Joel 2:19, quais três coisas o Senhor promete enviar ao seu povo?",
+    "options": [
+     "Ouro, prata e bronze",
+     "Trigo, mosto e óleo",
+     "Leite, mel e figos",
+     "Chuva, orvalho e geada"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Segundo Joel 2:25, o que o Senhor promete restituir?",
+    "options": [
+     "O reino de Davi",
+     "O templo de Salomão",
+     "Os anos que o gafanhoto comeu",
+     "As tribos espalhadas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-2-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Joel 2:28 promete que o Senhor derramará o seu Espírito sobre quem?",
+    "options": [
+     "Somente os sacerdotes",
+     "Toda a carne",
+     "Os reis da terra",
+     "Somente a casa de Judá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-2-cur-32",
+    "type": "curiosity",
+    "after_verse": 32,
+    "title": "Citado em Pentecostes",
+    "text": "Joel 2:28-32 — 'derramarei o meu Espírito sobre toda a carne' — foi citado por Pedro em Atos 2 para explicar o derramamento do Espírito Santo no dia de Pentecostes."
+   }
+  ],
+  "3": [
+   {
+    "id": "joel-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "A qual vale o Senhor leva as nações para julgá-las em Joel 3:2?",
+    "options": [
+     "O vale de Hinom",
+     "O vale de Josafá",
+     "O vale de Acor",
+     "O vale de Elá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "joel-3-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Forjai espadas das vossas {0}, e lanças das vossas foices",
+    "blanks": [
+     "enxadas"
+    ],
+    "distractors": [
+     "escudos",
+     "carruagens",
+     "flechas"
+    ]
+   },
+   {
+    "id": "joel-3-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Em Joel 3:9-11, o que as nações são convocadas a preparar?",
+    "options": [
+     "Uma festa",
+     "Um tratado de paz",
+     "Uma guerra",
+     "Uma peregrinação"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "joel-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Como Joel 3:14 chama o lugar onde as multidões se ajuntam?",
+    "options": [
+     "O vale da decisão",
+     "O vale dos ossos secos",
+     "A planície do Jordão",
+     "O monte das Oliveiras"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "joel-3-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "Água da casa do Senhor",
+    "text": "Joel 3:18 retrata os montes destilando mosto e uma fonte saindo da casa do Senhor — uma imagem de abundância restaurada, ecoada mais tarde por Ezequiel e no Apocalipse."
+   },
+   {
+    "id": "joel-3-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Como Joel 3:16 descreve o Senhor para com o seu próprio povo, mesmo enquanto julga as nações?",
+    "options": [
+     "Um fogo consumidor",
+     "Um juiz distante",
+     "O refúgio do seu povo e a fortaleza de Israel",
+     "Uma testemunha silenciosa"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

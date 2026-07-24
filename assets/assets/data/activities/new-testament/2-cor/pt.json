@@ -1,0 +1,1264 @@
+{
+  "schema_version": 1,
+  "book": "2-cor",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-cor-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Quem Paulo nomeia como coautor da carta na saudação inicial?",
+        "options": [
+          "Tito",
+          "Timóteo",
+          "Silvano",
+          "Tiago"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-1-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O Deus de toda consolação",
+        "text": "A palavra grega traduzida como 'consolação' (paráklēsis) e suas formas verbais aparecem repetidamente nos versículos 3 a 7, marcando o tema da consolação que se recebe e se transmite."
+      },
+      {
+        "id": "2-cor-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Que nos consola em toda a nossa {0}, para que também possamos consolar os que estiverem em alguma tribulação",
+        "blanks": [
+          "tribulação"
+        ],
+        "distractors": [
+          "aflição",
+          "salvação",
+          "consolação"
+        ]
+      },
+      {
+        "id": "2-cor-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Ásia",
+            "right": "Onde Paulo sofreu grave aflição"
+          },
+          {
+            "left": "Sentença de morte",
+            "right": "O que sentiram em si mesmos"
+          },
+          {
+            "left": "Deus",
+            "right": "Aquele que ressuscita os mortos"
+          },
+          {
+            "left": "Confiança",
+            "right": "Não em si mesmos, mas em Deus"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Segundo o versículo 12, com que Paulo afirma ter vivido no mundo?",
+        "options": [
+          "Com sabedoria carnal",
+          "Com simplicidade e sinceridade de Deus",
+          "Com riqueza e honra",
+          "Com temor dos homens"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Porque o Filho de Deus, Jesus Cristo, que por nós foi anunciado entre vós, a saber, por mim, e {0}, e Timóteo",
+        "blanks": [
+          "Silvano"
+        ],
+        "distractors": [
+          "Tito",
+          "Paulo",
+          "Tiago"
+        ]
+      },
+      {
+        "id": "2-cor-1-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo o versículo 20, como são em Cristo todas as promessas de Deus?",
+        "options": [
+          "Sim e não",
+          "Sim e Amém",
+          "Não e Amém",
+          "Talvez e Amém"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Porém invoco a Deus por testemunha sobre a minha {0}, que para vos poupar não tenho até agora ido a Corinto",
+        "blanks": [
+          "alma"
+        ],
+        "distractors": [
+          "fé",
+          "glória",
+          "consciência"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "2-cor-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A carta das lágrimas",
+        "text": "Paulo se refere aqui a uma carta anterior, severa e escrita com muitas lágrimas, hoje conhecida como a 'carta severa'. Ela foi levada a Corinto por Tito antes desta epístola."
+      },
+      {
+        "id": "2-cor-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Segundo o versículo 4, com que sentimento Paulo escreveu aos coríntios?",
+        "options": [
+          "Com indiferença",
+          "Com muitas lágrimas e angústia do coração",
+          "Com raiva e desprezo",
+          "Com orgulho"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Pelo que rogo-vos que confirmeis para com ele o vosso {0}.",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "temor",
+          "juízo",
+          "perdão"
+        ]
+      },
+      {
+        "id": "2-cor-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "De acordo com o versículo 11, por que devemos perdoar?",
+        "options": [
+          "Para não sermos vencidos por Satanás",
+          "Para receber elogios",
+          "Para evitar trabalho",
+          "Para sermos ricos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "porque não achei ali meu irmão {0}",
+        "blanks": [
+          "Tito"
+        ],
+        "distractors": [
+          "Pedro",
+          "Timóteo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "2-cor-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Trôade",
+            "right": "Cidade onde se abriu uma porta para pregar"
+          },
+          {
+            "left": "Macedônia",
+            "right": "Região para onde Paulo partiu"
+          },
+          {
+            "left": "Tito",
+            "right": "Irmão que Paulo buscava"
+          },
+          {
+            "left": "Fragrância",
+            "right": "Imagem do conhecimento de Cristo espalhado"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-cor-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cartas de recomendação",
+        "text": "No mundo antigo, viajantes e mestres levavam cartas que os apresentavam a comunidades distantes. Paulo afirma não precisar delas: a vida transformada dos próprios coríntios é a prova de seu ministério."
+      },
+      {
+        "id": "2-cor-3-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, com que a carta de Cristo foi escrita?",
+        "options": [
+          "Com tinta",
+          "Com o Espírito do Deus vivo",
+          "Em tábuas de pedra",
+          "Com letras de ouro"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "porque a letra mata, e o Espírito {0}.",
+        "blanks": [
+          "vivifica"
+        ],
+        "distractors": [
+          "condena",
+          "endurece",
+          "abole"
+        ]
+      },
+      {
+        "id": "2-cor-3-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Ministério da morte",
+            "right": "A letra gravada em pedras"
+          },
+          {
+            "left": "Ministério do Espírito",
+            "right": "A nova aliança que vivifica"
+          },
+          {
+            "left": "Ministério da condenação",
+            "right": "Glorioso, mas transitório"
+          },
+          {
+            "left": "Ministério da justiça",
+            "right": "Excede em glória"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E não somos como Moisés, que punha um {0} sobre a sua face",
+        "blanks": [
+          "véu"
+        ],
+        "distractors": [
+          "manto",
+          "sinal",
+          "selo"
+        ]
+      },
+      {
+        "id": "2-cor-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Segundo o versículo 17, onde está o Espírito do Senhor, ali há o quê?",
+        "options": [
+          "Glória",
+          "Liberdade",
+          "Condenação",
+          "Lei"
+        ],
+        "answer": 1
+      }
+    ],
+    "4": [
+      {
+        "id": "2-cor-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "O deus deste mundo",
+        "text": "A expressão \"o deus deste mundo\" refere-se a Satanás, descrito aqui como aquele que cega o entendimento dos incrédulos para que não vejam a luz do evangelho."
+      },
+      {
+        "id": "2-cor-4-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versículo 5, quem Paulo e seus companheiros pregavam?",
+        "options": [
+          "A si mesmos",
+          "Cristo Jesus, o Senhor",
+          "Os apóstolos",
+          "A lei de Moisés"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Temos, porém, este {0} em vasos de barro",
+        "blanks": [
+          "tesouro"
+        ],
+        "distractors": [
+          "evangelho",
+          "ministério",
+          "poder"
+        ]
+      },
+      {
+        "id": "2-cor-4-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Atribulados",
+            "right": "porém não angustiados"
+          },
+          {
+            "left": "Perplexos",
+            "right": "porém não desesperados"
+          },
+          {
+            "left": "Perseguidos",
+            "right": "porém não desamparados"
+          },
+          {
+            "left": "Abatidos",
+            "right": "porém não perdidos"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-4-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Segundo o versículo 16, o que acontece com o homem interior?",
+        "options": [
+          "Se corrompe",
+          "Desfalece",
+          "Se renova de dia em dia",
+          "Permanece imutável"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "2-cor-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "porque as que se veem são {0}, e as que não se veem são eternas",
+        "blanks": [
+          "temporais"
+        ],
+        "distractors": [
+          "invisíveis",
+          "abundantes",
+          "encobertas"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "2-cor-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A casa que não cai",
+        "text": "Paulo contrasta o 'tabernáculo' terrestre, uma tenda frágil e desmontável, com um 'edifício' eterno de Deus nos céus. A imagem evoca o tabernáculo do deserto, uma estrutura temporária, frente ao templo permanente."
+      },
+      {
+        "id": "2-cor-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versículo 5, o que Deus nos deu como penhor (garantia)?",
+        "options": [
+          "O Espírito",
+          "A lei",
+          "Um edifício",
+          "O tribunal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "(Porque andamos por {0}, e não por vista.)",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "vida",
+          "Espírito",
+          "juízo"
+        ]
+      },
+      {
+        "id": "2-cor-5-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Segundo o versículo 10, diante de que devemos todos comparecer?",
+        "options": [
+          "O tribunal de Cristo",
+          "O trono dos anjos",
+          "O conselho dos apóstolos",
+          "A assembleia de Corinto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-5-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Porque o amor de Cristo nos constrange, julgando nós isto: que se um morreu por todos, logo todos {0}.",
+        "blanks": [
+          "morreram"
+        ],
+        "distractors": [
+          "viveram",
+          "creram",
+          "ressuscitaram"
+        ]
+      },
+      {
+        "id": "2-cor-5-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "De acordo com o versículo 17, quem está em Cristo torna-se o quê?",
+        "options": [
+          "Nova criatura",
+          "Sábio mestre",
+          "Embaixador fiel",
+          "Filho da carne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-5-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Embaixadores",
+            "right": "Representantes de Cristo que rogam aos homens"
+          },
+          {
+            "left": "Reconciliação",
+            "right": "Restaurar a paz entre Deus e o homem"
+          },
+          {
+            "left": "Nova criatura",
+            "right": "Quem está em Cristo, renovado"
+          },
+          {
+            "left": "Tribunal de Cristo",
+            "right": "Onde cada um receberá conforme o que fez"
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "2-cor-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O tempo aceitável",
+        "text": "Ao dizer \"eis aqui agora o tempo aceitável\", Paulo cita Isaías 49:8 para enfatizar a urgência: a salvação é uma oportunidade do presente, não de um futuro distante."
+      },
+      {
+        "id": "2-cor-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo o versículo 1, o que Paulo exorta os coríntios a não fazerem?",
+        "options": [
+          "Receber a graça de Deus em vão",
+          "Abandonar a oração",
+          "Rejeitar os apóstolos",
+          "Buscar riquezas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-6-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Nos açoites, nas prisões, nos tumultos, nos trabalhos, nas {0}, nos jejuns,",
+        "blanks": [
+          "vigílias"
+        ],
+        "distractors": [
+          "aflições",
+          "angústias",
+          "necessidades"
+        ]
+      },
+      {
+        "id": "2-cor-6-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Como desconhecidos",
+            "right": "mas sendo bem conhecidos"
+          },
+          {
+            "left": "Como morrendo",
+            "right": "e eis que vivemos"
+          },
+          {
+            "left": "Como castigados",
+            "right": "e não mortos"
+          },
+          {
+            "left": "Como pobres",
+            "right": "mas enriquecendo a muitos"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "No versículo 13, falando como a filhos, o que Paulo pede que os coríntios também façam?",
+        "options": [
+          "Dilatar o coração",
+          "Guardar silêncio",
+          "Reunir ofertas",
+          "Escrever-lhe de volta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-6-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Porque vós sois o templo do {0} vivo",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Senhor",
+          "Espírito",
+          "Pai"
+        ]
+      },
+      {
+        "id": "2-cor-6-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Com qual relação Paulo adverte os crentes a não se prenderem com os incrédulos (v. 14)?",
+        "options": [
+          "Jugo desigual",
+          "Aliança comercial",
+          "Amizade simples",
+          "Discussão pública"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "2-cor-7-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "pairs": [
+          {
+            "left": "Macedônia",
+            "right": "Região onde Paulo não teve repouso"
+          },
+          {
+            "left": "Carne e espírito",
+            "right": "O que deve ser purificado de imundície"
+          },
+          {
+            "left": "Combates e temores",
+            "right": "Aflições por fora e por dentro"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-7-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "A vinda de Tito",
+        "text": "Tito era um companheiro de confiança de Paulo, encarregado de levar a carta severa a Corinto. Sua volta com boas notícias foi a fonte do consolo que Paulo descreve neste capítulo."
+      },
+      {
+        "id": "2-cor-7-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Porque a tristeza segundo Deus opera {0} para a salvação",
+        "blanks": [
+          "arrependimento"
+        ],
+        "distractors": [
+          "consolação",
+          "tribulação",
+          "morte"
+        ]
+      },
+      {
+        "id": "2-cor-7-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o versículo 13, o que reanimou o espírito de Tito?",
+        "options": [
+          "A pregação de Paulo",
+          "Os coríntios",
+          "A viagem à Macedônia",
+          "Uma nova carta"
+        ],
+        "answer": 1
+      }
+    ],
+    "8": [
+      {
+        "id": "2-cor-8-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Pobreza generosa",
+        "text": "As igrejas da Macedônia eram pobres, mas sua 'profunda pobreza' transbordou em riquezas de generosidade — Paulo as apresenta como exemplo para os mais prósperos coríntios."
+      },
+      {
+        "id": "2-cor-8-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versículo 5, a quem os macedônios primeiro se deram?",
+        "options": [
+          "A Paulo",
+          "Ao Senhor",
+          "A Tito",
+          "Aos santos"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-8-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "que, sendo {0}, por causa de vós se fez pobre",
+        "blanks": [
+          "rico"
+        ],
+        "distractors": [
+          "forte",
+          "santo",
+          "justo"
+        ]
+      },
+      {
+        "id": "2-cor-8-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Macedônia",
+            "right": "Igrejas exemplares na generosidade"
+          },
+          {
+            "left": "Tito",
+            "right": "Encarregado de concluir a coleta"
+          },
+          {
+            "left": "Santos",
+            "right": "Destinatários do auxílio"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-8-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Que princípio Paulo busca ao pedir que a abundância de uns supra a falta de outros (v. 14)?",
+        "options": [
+          "Justiça",
+          "Igualdade",
+          "Riqueza",
+          "Obediência"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Porque, se primeiro houver prontidão de {0}",
+        "blanks": [
+          "vontade"
+        ],
+        "distractors": [
+          "fé",
+          "alegria",
+          "saber"
+        ]
+      },
+      {
+        "id": "2-cor-8-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "O irmão louvado",
+        "text": "Junto com Tito, Paulo envia um irmão 'cujo louvor no evangelho está espalhado por todas as igrejas' — uma comitiva escolhida para garantir transparência na coleta."
+      },
+      {
+        "id": "2-cor-8-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "são embaixadores das igrejas e glória de {0}",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Deus",
+          "Tito",
+          "Paulo"
+        ]
+      },
+      {
+        "id": "2-cor-8-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Por que Paulo se preocupa em agir honestamente diante dos homens, e não só do Senhor (v. 20-21)?",
+        "options": [
+          "Para receber elogios",
+          "Para que ninguém o censure na coleta",
+          "Para enriquecer",
+          "Para agradar a Tito"
+        ],
+        "answer": 1
+      }
+    ],
+    "9": [
+      {
+        "id": "2-cor-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Acaia e Macedônia",
+        "text": "Acaia era a província romana ao sul da Grécia, onde ficava Corinto; Macedônia ficava ao norte. Paulo usa o zelo de cada região para incentivar a outra a contribuir."
+      },
+      {
+        "id": "2-cor-9-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Para que, se acaso os {0} vierem comigo, e vos acharem desapercebidos",
+        "blanks": [
+          "macedônios"
+        ],
+        "distractors": [
+          "santos",
+          "irmãos",
+          "pobres"
+        ]
+      },
+      {
+        "id": "2-cor-9-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo Paulo, o que acontece com aquele que semeia em abundância?",
+        "options": [
+          "Em abundância também ceifará",
+          "Pouco ceifará",
+          "Não ceifará nada",
+          "Ceifará apenas o que precisa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-9-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "porque Deus ama ao que dá com {0}",
+        "blanks": [
+          "alegria"
+        ],
+        "distractors": [
+          "tristeza",
+          "necessidade",
+          "avareza"
+        ]
+      },
+      {
+        "id": "2-cor-9-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Semeia pouco",
+            "right": "Pouco ceifará"
+          },
+          {
+            "left": "Semeia em abundância",
+            "right": "Em abundância ceifará"
+          },
+          {
+            "left": "Dá com alegria",
+            "right": "É amado por Deus"
+          },
+          {
+            "left": "Generosidade",
+            "right": "Faz darem graças a Deus"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-9-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como Paulo encerra o capítulo ao agradecer a Deus?",
+        "options": [
+          "Pelo seu dom inefável",
+          "Pela sua lei perfeita",
+          "Pela sua justiça eterna",
+          "Pela sua grande paciência"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "2-cor-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Forte por carta, manso pessoalmente",
+        "text": "Os adversários de Paulo o acusavam de ser ousado nas cartas, mas humilde e fraco em pessoa. Ele abre o capítulo reconhecendo essa fama para depois desmontá-la."
+      },
+      {
+        "id": "2-cor-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Segundo Paulo, como são as armas da milícia dos apóstolos?",
+        "options": [
+          "Carnais e fracas",
+          "Não carnais, mas poderosas em Deus",
+          "Feitas de ferro e bronze",
+          "Iguais às do mundo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "2-cor-10-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "toda altivez que se levanta contra o {0} de Deus",
+        "blanks": [
+          "conhecimento"
+        ],
+        "distractors": [
+          "evangelho",
+          "louvor",
+          "trabalho"
+        ]
+      },
+      {
+        "id": "2-cor-10-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Cartas de Paulo",
+            "right": "Graves e fortes"
+          },
+          {
+            "left": "Presença do corpo",
+            "right": "Fraca"
+          },
+          {
+            "left": "A palavra falada",
+            "right": "Desprezível"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-10-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "aquele que se gloria, glorie-se no {0}.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "mundo",
+          "corpo",
+          "trabalho"
+        ]
+      },
+      {
+        "id": "2-cor-10-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Quem é verdadeiramente aprovado, segundo o versículo final?",
+        "options": [
+          "Quem a si mesmo se louva",
+          "Quem escreve cartas fortes",
+          "Aquele a quem o Senhor louva",
+          "Quem se compara aos outros"
+        ],
+        "answer": 2
+      }
+    ],
+    "11": [
+      {
+        "id": "2-cor-11-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Com que figura Paulo compara o engano que teme para os coríntios?",
+        "options": [
+          "A serpente que enganou Eva",
+          "O leão que ruge",
+          "A erva daninha entre o trigo",
+          "O lobo entre as ovelhas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-11-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Paulo não quis ser pesado",
+        "text": "Paulo recusou sustento dos coríntios para não ser fardo a ninguém; quem supriu sua necessidade foram os irmãos vindos da Macedônia."
+      },
+      {
+        "id": "2-cor-11-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Pequei porventura, humilhando-me a mim mesmo, para que vós fôsseis {0}",
+        "blanks": [
+          "enaltecidos"
+        ],
+        "distractors": [
+          "corrompidos",
+          "transfigurados",
+          "apedrejados"
+        ]
+      },
+      {
+        "id": "2-cor-11-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Em que o próprio Satanás se transfigura, segundo Paulo?",
+        "options": [
+          "Anjo de luz",
+          "Serpente astuta",
+          "Ministro fraco",
+          "Falso irmão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-11-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Falsos apóstolos",
+            "right": "Obreiros fraudulentos"
+          },
+          {
+            "left": "Satanás",
+            "right": "Anjo de luz"
+          },
+          {
+            "left": "Seus ministros",
+            "right": "Ministros da justiça"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-11-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Visto que muitos se gloriam segundo a {0}, eu também me gloriarei.",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "justiça",
+          "loucura",
+          "verdade"
+        ]
+      },
+      {
+        "id": "2-cor-11-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Quantas vezes Paulo recebeu dos judeus 'uma quarentena de açoites menos um'?",
+        "options": [
+          "Cinco vezes",
+          "Três vezes",
+          "Uma vez",
+          "Sete vezes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-11-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Entre os perigos que Paulo enumera, quantas vezes ele diz ter sofrido naufrágio?",
+        "options": [
+          "Três vezes",
+          "Uma vez",
+          "Cinco vezes",
+          "Sete vezes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-11-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 33,
+        "template": "E fui descido num {0} por uma janela da muralha; e assim escapei das suas mãos.",
+        "blanks": [
+          "cesto"
+        ],
+        "distractors": [
+          "barco",
+          "abismo",
+          "rosto"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "2-cor-12-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O terceiro céu",
+        "text": "Paulo fala de si mesmo na terceira pessoa, como \"um homem em Cristo\", ao descrever ter sido arrebatado ao \"terceiro céu\" — uma das passagens mais misteriosas do Novo Testamento sobre experiências celestiais."
+      },
+      {
+        "id": "2-cor-12-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Para onde o homem descrito por Paulo foi arrebatado, onde ouviu palavras inefáveis?",
+        "options": [
+          "Ao paraíso",
+          "Ao deserto",
+          "Ao templo",
+          "À Macedônia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-12-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "A minha graça te basta, porque o meu poder se aperfeiçoa na {0}.",
+        "blanks": [
+          "fraqueza"
+        ],
+        "distractors": [
+          "força",
+          "verdade",
+          "graça"
+        ]
+      },
+      {
+        "id": "2-cor-12-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Espinho na carne",
+            "right": "Fraqueza dada para manter Paulo humilde"
+          },
+          {
+            "left": "A minha graça te basta",
+            "right": "Resposta do Senhor à oração de Paulo"
+          },
+          {
+            "left": "Quando estou fraco",
+            "right": "Então sou forte"
+          },
+          {
+            "left": "Três vezes orei",
+            "right": "Pedido para que o espinho se desviasse"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-12-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Quais sinais Paulo diz terem sido efetuados como marca de um apóstolo?",
+        "options": [
+          "Sinais, prodígios e maravilhas",
+          "Riquezas e honras",
+          "Cartas e selos",
+          "Jejuns e votos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-12-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Roguei a {0}, e enviei com ele um irmão.",
+        "blanks": [
+          "Tito"
+        ],
+        "distractors": [
+          "Pedro",
+          "Lucas",
+          "Timóteo"
+        ]
+      },
+      {
+        "id": "2-cor-12-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "O que Paulo temia encontrar ao chegar entre os coríntios?",
+        "options": [
+          "Contendas, invejas e iras",
+          "Fome e doenças",
+          "Templos destruídos",
+          "Falsos profetas estrangeiros"
+        ],
+        "answer": 0
+      }
+    ],
+    "13": [
+      {
+        "id": "2-cor-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A terceira visita",
+        "text": "Paulo abre o capítulo lembrando que esta seria sua terceira ida a Corinto, citando a lei mosaica de que toda palavra se confirma 'pela boca de duas ou três testemunhas' (Deuteronômio 19:15)."
+      },
+      {
+        "id": "2-cor-13-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, os coríntios buscavam uma prova de quê?",
+        "options": [
+          "De Cristo que fala em Paulo",
+          "Da ressurreição dos mortos",
+          "Da lei de Moisés",
+          "Dos dons de cura"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Porque, ainda que foi crucificado por fraqueza, todavia vive pelo poder de {0}.",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Cristo",
+          "Paulo",
+          "Tito"
+        ]
+      },
+      {
+        "id": "2-cor-13-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Examinai-vos a vós mesmos, se permaneceis na {0}",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "verdade",
+          "paz",
+          "prova"
+        ]
+      },
+      {
+        "id": "2-cor-13-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Examinai-vos",
+            "right": "Provar a si mesmo na fé"
+          },
+          {
+            "left": "Reprovados",
+            "right": "Não aprovados na prova"
+          },
+          {
+            "left": "Verdade",
+            "right": "Aquilo contra o que nada podem"
+          },
+          {
+            "left": "Perfeição",
+            "right": "O que Paulo deseja aos santos"
+          }
+        ]
+      },
+      {
+        "id": "2-cor-13-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Segundo o versículo 10, para que o Senhor deu autoridade a Paulo?",
+        "options": [
+          "Para edificação, e não para destruição",
+          "Para julgar as nações",
+          "Para reunir ofertas",
+          "Para nomear novos apóstolos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-cor-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com vós todos. {0}.",
+        "blanks": [
+          "Amém"
+        ],
+        "distractors": [
+          "Aleluia",
+          "Maranata",
+          "Hosana"
+        ]
+      }
+    ]
+  }
+}

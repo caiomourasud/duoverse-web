@@ -1,0 +1,5193 @@
+{
+  "schema_version": 1,
+  "book": "luke",
+  "chapters": {
+    "1": [
+      {
+        "id": "luke-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Who Luke wrote to",
+        "text": "Luke addresses his account to a reader named Theophilus, a name meaning \"friend of God.\" It is the only Gospel dedicated to a single named person."
+      },
+      {
+        "id": "luke-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "There was in the days of Herod, the king of Judæa, a certain priest named {0}, of the course of Abia",
+        "blanks": [
+          "Zacharias"
+        ],
+        "distractors": [
+          "Gabriel",
+          "Joseph",
+          "Aaron"
+        ]
+      },
+      {
+        "id": "luke-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Why did Zacharias and Elisabeth have no child?",
+        "options": [
+          "Elisabeth was barren and they were both well stricken in years",
+          "They were too young",
+          "They had taken a vow",
+          "They were separated"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "thy wife Elisabeth shall bear thee a son, and thou shalt call his name {0}",
+        "blanks": [
+          "John"
+        ],
+        "distractors": [
+          "Jesus",
+          "Zacharias",
+          "Elias"
+        ]
+      },
+      {
+        "id": "luke-1-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "How did the angel identify himself to Zacharias?",
+        "options": [
+          "I am Gabriel, that stand in the presence of God",
+          "I am Elias the prophet",
+          "I am Michael the archangel",
+          "I am Raphael the messenger"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "thou shalt be {0}, and not able to speak, until the day that these things shall be performed",
+        "blanks": [
+          "dumb"
+        ],
+        "distractors": [
+          "blind",
+          "deaf",
+          "lame"
+        ]
+      },
+      {
+        "id": "luke-1-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "the angel Gabriel was sent from God unto a city of Galilee, named {0}",
+        "blanks": [
+          "Nazareth"
+        ],
+        "distractors": [
+          "Juda",
+          "Bethlehem",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "luke-1-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "thou shalt conceive in thy womb, and bring forth a son, and shalt call his name {0}",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "John",
+          "David",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "luke-1-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What did the angel declare to Mary about God's power?",
+        "options": [
+          "For with God nothing shall be impossible",
+          "God requires a sign",
+          "God will judge the proud",
+          "God speaks not with women"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "when Elisabeth heard the salutation of Mary, the {0} leaped in her womb",
+        "blanks": [
+          "babe"
+        ],
+        "distractors": [
+          "voice",
+          "angel",
+          "spirit"
+        ]
+      },
+      {
+        "id": "luke-1-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "And Mary said, My soul doth magnify the {0}",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "Highest",
+          "Saviour",
+          "Mighty"
+        ]
+      },
+      {
+        "id": "luke-1-mp-51",
+        "type": "match_pairs",
+        "after_verse": 51,
+        "pairs": [
+          {
+            "left": "Zacharias",
+            "right": "Priest, father of John"
+          },
+          {
+            "left": "Elisabeth",
+            "right": "Mother of John, barren"
+          },
+          {
+            "left": "Mary",
+            "right": "Virgin, mother of Jesus"
+          },
+          {
+            "left": "Gabriel",
+            "right": "Messenger angel"
+          }
+        ]
+      },
+      {
+        "id": "luke-1-fb-57",
+        "type": "fill_blank",
+        "after_verse": 57,
+        "verse": 57,
+        "template": "Now Elisabeth’s full time came that she should be delivered; and she brought forth a {0}",
+        "blanks": [
+          "son"
+        ],
+        "distractors": [
+          "sign",
+          "angel",
+          "vision"
+        ]
+      },
+      {
+        "id": "luke-1-fb-63",
+        "type": "fill_blank",
+        "after_verse": 63,
+        "verse": 63,
+        "template": "And he asked for a writing table, and wrote, saying, His name is {0}",
+        "blanks": [
+          "John"
+        ],
+        "distractors": [
+          "Zacharias",
+          "Jesus",
+          "David"
+        ]
+      },
+      {
+        "id": "luke-1-mc-64",
+        "type": "multiple_choice",
+        "after_verse": 64,
+        "question": "What happened to Zacharias right after he wrote the child's name?",
+        "options": [
+          "His mouth was opened and his tongue loosed, and he praised God",
+          "He fell down in a faint",
+          "He departed into the desert",
+          "He became dumb again"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-73",
+        "type": "fill_blank",
+        "after_verse": 73,
+        "verse": 73,
+        "template": "The oath which he sware to our father {0}",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "David",
+          "Isaac",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "luke-1-mc-76",
+        "type": "multiple_choice",
+        "after_verse": 76,
+        "question": "According to Zacharias's prophecy, what would the child John be called?",
+        "options": [
+          "The prophet of the Highest",
+          "King of Israel",
+          "Son of God",
+          "Priest of the course of Abia"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "luke-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Who sent out the decree that all the world should be taxed?",
+        "options": [
+          "Cæsar Augustus",
+          "Cyrenius",
+          "Herod",
+          "Pontius Pilate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "unto the city of David, which is called {0}",
+        "blanks": [
+          "Bethlehem"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Nazareth",
+          "Galilee"
+        ]
+      },
+      {
+        "id": "luke-2-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Swaddling clothes",
+        "text": "Newborns were wrapped snugly in strips of cloth, called swaddling clothes, to keep them warm and secure. This was a common, humble sign the shepherds would recognize."
+      },
+      {
+        "id": "luke-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "and laid him in a {0}; because there was no room for them in the inn",
+        "blanks": [
+          "manger"
+        ],
+        "distractors": [
+          "inn",
+          "city",
+          "house"
+        ]
+      },
+      {
+        "id": "luke-2-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Fear not: for, behold, I bring you good tidings of great {0}, which shall be to all people",
+        "blanks": [
+          "joy"
+        ],
+        "distractors": [
+          "fear",
+          "peace",
+          "light"
+        ]
+      },
+      {
+        "id": "luke-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "According to the angel, the Saviour born in the city of David is also called what?",
+        "options": [
+          "Christ the Lord",
+          "a prophet",
+          "a governor",
+          "a shepherd"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Glory to God in the highest, and on earth peace, good will toward {0}.",
+        "blanks": [
+          "men"
+        ],
+        "distractors": [
+          "angels",
+          "shepherds",
+          "kings"
+        ]
+      },
+      {
+        "id": "luke-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "When the shepherds came with haste, whom did they find?",
+        "options": [
+          "Mary, Joseph, and the babe lying in a manger",
+          "only the angel",
+          "the heavenly host",
+          "the doctors in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "But Mary kept all these things, and pondered them in her {0}.",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "temple",
+          "city",
+          "field"
+        ]
+      },
+      {
+        "id": "luke-2-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "his name was called {0}, which was so named of the angel before he was conceived in the womb",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "Simeon",
+          "Joseph",
+          "David"
+        ]
+      },
+      {
+        "id": "luke-2-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "How is the man named Simeon in Jerusalem described?",
+        "options": [
+          "just and devout, waiting for the consolation of Israel",
+          "a doctor of the law",
+          "the governor of Syria",
+          "a shepherd in the field"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "A light to lighten the Gentiles, and the glory of thy people {0}.",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Bethlehem",
+          "Judæa",
+          "Nazareth"
+        ]
+      },
+      {
+        "id": "luke-2-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "A sword through the soul",
+        "text": "Simeon prophesied to Mary that a sword would pierce her own soul, a foretelling of the deep sorrow she would feel at her Son's suffering."
+      },
+      {
+        "id": "luke-2-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of {0}",
+        "blanks": [
+          "Aser"
+        ],
+        "distractors": [
+          "Judah",
+          "David",
+          "Israel"
+        ]
+      },
+      {
+        "id": "luke-2-mp-37",
+        "type": "match_pairs",
+        "after_verse": 37,
+        "pairs": [
+          {
+            "left": "Anna",
+            "right": "a prophetess who served God with fastings and prayers"
+          },
+          {
+            "left": "Simeon",
+            "right": "just and devout, waiting for the consolation of Israel"
+          },
+          {
+            "left": "Cæsar Augustus",
+            "right": "sent out the decree to be taxed"
+          }
+        ]
+      },
+      {
+        "id": "luke-2-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "And when he was {0} years old, they went up to Jerusalem after the custom of the feast.",
+        "blanks": [
+          "twelve"
+        ],
+        "distractors": [
+          "eight",
+          "three",
+          "fourscore"
+        ]
+      },
+      {
+        "id": "luke-2-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "After three days, where and how was Jesus found?",
+        "options": [
+          "in the temple, sitting in the midst of the doctors, hearing and asking them questions",
+          "in the inn at Bethlehem",
+          "in the field with the shepherds",
+          "along the road with their kinsfolk"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "wist ye not that I must be about my {0}’s business?",
+        "blanks": [
+          "Father"
+        ],
+        "distractors": [
+          "Lord",
+          "master",
+          "mother"
+        ]
+      },
+      {
+        "id": "luke-2-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "At the close of the chapter, in what did Jesus increase?",
+        "options": [
+          "in wisdom and stature, and in favour with God and man",
+          "in riches and power",
+          "in lands and cities",
+          "in the number of disciples"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "luke-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "In the reign of which Roman emperor does Luke date the beginning of John the Baptist's ministry?",
+        "options": [
+          "Tiberius Caesar",
+          "Caesar Augustus",
+          "Julius Caesar",
+          "Nero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "The voice of one crying in the {0}, Prepare ye the way of the Lord",
+        "blanks": [
+          "wilderness"
+        ],
+        "distractors": [
+          "temple",
+          "mountain",
+          "Jordan"
+        ]
+      },
+      {
+        "id": "luke-3-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "The voice in the wilderness",
+        "text": "Quoting Isaiah, Luke extends the prophecy all the way to \"all flesh shall see the salvation of God,\" underscoring his theme that the gospel reaches every people, not Israel alone."
+      },
+      {
+        "id": "luke-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "O generation of {0}, who hath warned you to flee from the wrath to come?",
+        "blanks": [
+          "vipers"
+        ],
+        "distractors": [
+          "wolves",
+          "serpents",
+          "foxes"
+        ]
+      },
+      {
+        "id": "luke-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "According to John, out of what is God able to raise up children unto Abraham?",
+        "options": [
+          "These stones",
+          "The trees",
+          "The waters of Jordan",
+          "The chaff"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What counsel did John give the soldiers who questioned him?",
+        "options": [
+          "Do violence to no man and be content with your wages",
+          "Leave the army",
+          "Share their weapons",
+          "Fast and pray"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "he shall baptize you with the {0} and with fire",
+        "blanks": [
+          "Holy Ghost"
+        ],
+        "distractors": [
+          "fire from heaven",
+          "power of Elias",
+          "blood of the lamb"
+        ]
+      },
+      {
+        "id": "luke-3-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did Herod do to John after being reproved by him?",
+        "options": [
+          "Shut him up in prison",
+          "Cast him out of Galilee",
+          "Had him stoned",
+          "Made him a priest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "the Holy Ghost descended in a bodily shape like a {0} upon him",
+        "blanks": [
+          "dove"
+        ],
+        "distractors": [
+          "flame",
+          "cloud",
+          "eagle"
+        ]
+      },
+      {
+        "id": "luke-3-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "The voice from heaven",
+        "text": "At Jesus' baptism all three members of the Godhead appear: the Son being baptized, the Holy Ghost descending as a dove, and the Father's voice from heaven."
+      },
+      {
+        "id": "luke-3-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Who wrote this Gospel, which traces Jesus' genealogy beginning when he was about thirty years of age?",
+        "options": [
+          "Luke, a physician and companion of Paul",
+          "Peter, the fisherman",
+          "Matthew, the publican",
+          "Mark, the interpreter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Through which famous king of Israel does Jesus' genealogy in Luke pass?",
+        "options": [
+          "David",
+          "Saul",
+          "Solomon",
+          "Hezekiah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Unlike Matthew, who stops at Abraham, how far back does Luke trace Jesus' genealogy?",
+        "options": [
+          "All the way to Adam, \"the son of God\"",
+          "To David",
+          "To Noah",
+          "To Moses"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "luke-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Being forty days tempted of the {0}. And in those days he did eat nothing",
+        "blanks": [
+          "devil"
+        ],
+        "distractors": [
+          "Spirit",
+          "prophet",
+          "angel"
+        ]
+      },
+      {
+        "id": "luke-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "It is written, That man shall not live by {0} alone, but by every word of God",
+        "blanks": [
+          "bread"
+        ],
+        "distractors": [
+          "wine",
+          "flesh",
+          "manna"
+        ]
+      },
+      {
+        "id": "luke-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "All the kingdoms of the world",
+        "text": "In a single moment the devil showed Jesus all the kingdoms of the world, offering their power and glory in exchange for worship. Jesus refused, answering only the Lord God is to be worshipped and served."
+      },
+      {
+        "id": "luke-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Get thee behind me, {0}: for it is written, Thou shalt worship the Lord thy God",
+        "blanks": [
+          "Satan"
+        ],
+        "distractors": [
+          "devil",
+          "Naaman",
+          "Eliseus"
+        ]
+      },
+      {
+        "id": "luke-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Where did the devil set Jesus when he said, “cast thyself down from hence”?",
+        "options": [
+          "On a pinnacle of the temple",
+          "On an high mountain",
+          "In the wilderness",
+          "In the synagogue"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And he came to {0}, where he had been brought up",
+        "blanks": [
+          "Nazareth"
+        ],
+        "distractors": [
+          "Capernaum",
+          "Jerusalem",
+          "Sarepta"
+        ]
+      },
+      {
+        "id": "luke-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "he hath anointed me to preach the gospel to the {0}",
+        "blanks": [
+          "poor"
+        ],
+        "distractors": [
+          "rich",
+          "captives",
+          "blind"
+        ]
+      },
+      {
+        "id": "luke-4-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "After reading from Isaiah, what did Jesus declare to those in the synagogue?",
+        "options": [
+          "This day is this scripture fulfilled in your ears",
+          "That he would return in three days",
+          "That the temple would be destroyed",
+          "That no one could be saved"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Physician",
+            "right": "heal thyself"
+          },
+          {
+            "left": "Sarepta of Sidon",
+            "right": "the widow to whom Elias was sent"
+          },
+          {
+            "left": "Naaman the Syrian",
+            "right": "the leper cleansed in Eliseus' time"
+          }
+        ]
+      },
+      {
+        "id": "luke-4-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "No prophet in his own country",
+        "text": "Jesus recalled that Elias was sent to a foreign widow at Sarepta and that only Naaman the Syrian was cleansed in Eliseus' day — signs that God blessed outsiders when Israel rejected its prophets. The people of Nazareth were filled with wrath."
+      },
+      {
+        "id": "luke-4-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Why were the people of Capernaum astonished at Jesus' teaching?",
+        "options": [
+          "His word was with power",
+          "He spoke in many languages",
+          "He taught only in parables",
+          "He never raised his voice"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "I know thee who thou art; the {0} One of God",
+        "blanks": [
+          "Holy"
+        ],
+        "distractors": [
+          "Anointed",
+          "Chosen",
+          "Mighty"
+        ]
+      },
+      {
+        "id": "luke-4-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "entered into Simon’s house. And Simon’s wife’s mother was taken with a great {0}",
+        "blanks": [
+          "fever"
+        ],
+        "distractors": [
+          "leprosy",
+          "palsy",
+          "wound"
+        ]
+      },
+      {
+        "id": "luke-4-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Why did Jesus say he must preach the kingdom of God to other cities also?",
+        "options": [
+          "For therefore am I sent",
+          "Because Nazareth rejected him",
+          "Because Capernaum was too small",
+          "To escape the multitude"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "luke-5-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "he stood by the lake of {0},",
+        "blanks": [
+          "Gennesaret"
+        ],
+        "distractors": [
+          "Galilee",
+          "Capernaum",
+          "Jordan"
+        ]
+      },
+      {
+        "id": "luke-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What happened when they let down the net at Jesus' word?",
+        "options": [
+          "They inclosed a great multitude of fishes and their net brake",
+          "They caught nothing again",
+          "The net stayed empty",
+          "The ship sank at once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "“I am a sinful man”",
+        "text": "Faced with the miracle, Simon Peter recognizes his own unworthiness and asks the Lord to depart. Encounters with divine power often awaken humility and a sense of smallness."
+      },
+      {
+        "id": "luke-5-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "James and John",
+            "right": "the sons of Zebedee"
+          },
+          {
+            "left": "Simon",
+            "right": "shall catch men"
+          },
+          {
+            "left": "They forsook all",
+            "right": "and followed him"
+          }
+        ]
+      },
+      {
+        "id": "luke-5-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "touched him, saying, I will: be thou {0}.",
+        "blanks": [
+          "clean"
+        ],
+        "distractors": [
+          "healed",
+          "whole",
+          "free"
+        ]
+      },
+      {
+        "id": "luke-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Whom did Jesus charge the cleansed leper to show himself to?",
+        "options": [
+          "The priest",
+          "The Pharisees",
+          "The multitude",
+          "The disciples"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Doctors of the law",
+        "text": "Pharisees and teachers of the law gathered from every town of Galilee, Judaea, and Jerusalem to scrutinize Jesus. Luke notes the power of the Lord was present to heal."
+      },
+      {
+        "id": "luke-5-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "he said unto him, Man, thy {0} are forgiven thee.",
+        "blanks": [
+          "sins"
+        ],
+        "distractors": [
+          "debts",
+          "faults",
+          "wrongs"
+        ]
+      },
+      {
+        "id": "luke-5-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did Jesus declare the Son of man has power to do upon earth?",
+        "options": [
+          "To forgive sins",
+          "To judge the nations",
+          "To raise the dead",
+          "To rebuild the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "saw a publican, named {0}, sitting at the receipt of custom",
+        "blanks": [
+          "Levi"
+        ],
+        "distractors": [
+          "Simon",
+          "James",
+          "Zebedee"
+        ]
+      },
+      {
+        "id": "luke-5-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Whom did Jesus say he came to call?",
+        "options": [
+          "Sinners to repentance",
+          "The righteous to reward",
+          "The whole to healing",
+          "The rich to the feast"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "And no man putteth new wine into old {0};",
+        "blanks": [
+          "bottles"
+        ],
+        "distractors": [
+          "vessels",
+          "barrels",
+          "jars"
+        ]
+      },
+      {
+        "id": "luke-5-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "Old wine and new",
+        "text": "The parables of the garment and the wine teach that Jesus' new message will not fit the old forms. Those who cling to the old resist the newness of the gospel."
+      }
+    ],
+    "6": [
+      {
+        "id": "luke-6-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "When challenged for plucking corn on the sabbath, what did Jesus declare himself to be?",
+        "options": [
+          "Lord also of the sabbath",
+          "A servant of the Pharisees",
+          "A prophet of the field",
+          "Keeper of the bread"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-4",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 4,
+        "template": "How he went into the house of God, and did take and eat the {0}",
+        "blanks": [
+          "shewbread"
+        ],
+        "distractors": [
+          "firstfruits",
+          "manna",
+          "offerings"
+        ]
+      },
+      {
+        "id": "luke-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Jesus ask the scribes and Pharisees before healing the man with the withered hand?",
+        "options": [
+          "Is it lawful on the sabbath days to do good, or to do evil?",
+          "Who among you is without sin?",
+          "Why will ye not pray with me?",
+          "Where is your faith?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A whole night in prayer",
+        "text": "Before choosing the twelve apostles, Jesus went out into a mountain and continued all night in prayer to God. Only when it was day did he call his disciples and choose the twelve."
+      },
+      {
+        "id": "luke-6-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Simon",
+            "right": "also named Peter"
+          },
+          {
+            "left": "Andrew",
+            "right": "Simon’s brother"
+          },
+          {
+            "left": "Judas the brother of James",
+            "right": "one of the twelve"
+          },
+          {
+            "left": "Judas Iscariot",
+            "right": "the traitor"
+          }
+        ]
+      },
+      {
+        "id": "luke-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 20,
+        "template": "Blessed be ye {0}: for yours is the kingdom of God.",
+        "blanks": [
+          "poor"
+        ],
+        "distractors": [
+          "rich",
+          "full",
+          "meek"
+        ]
+      },
+      {
+        "id": "luke-6-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Woe unto you, when all men shall speak {0} of you!",
+        "blanks": [
+          "well"
+        ],
+        "distractors": [
+          "evil",
+          "ill",
+          "false"
+        ]
+      },
+      {
+        "id": "luke-6-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Against whom did Jesus pronounce the first woe, saying they had received their consolation?",
+        "options": [
+          "Those that are rich",
+          "Those that are poor",
+          "Those that weep",
+          "Those that hunger"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "And as ye would that men should do to you, do ye also to them {0}.",
+        "blanks": [
+          "likewise"
+        ],
+        "distractors": [
+          "wickedly",
+          "sparingly",
+          "grudgingly"
+        ]
+      },
+      {
+        "id": "luke-6-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "According to Jesus, like whom should we be merciful?",
+        "options": [
+          "Your Father",
+          "The prophets",
+          "The sinners",
+          "The apostles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-41",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 41,
+        "template": "And why beholdest thou the {0} that is in thy brother’s eye",
+        "blanks": [
+          "mote"
+        ],
+        "distractors": [
+          "beam",
+          "fruit",
+          "thorn"
+        ]
+      },
+      {
+        "id": "luke-6-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "A tree and its fruit",
+        "text": "Jesus taught that every tree is known by its own fruit: men do not gather figs of thorns, nor grapes of a bramble bush. Likewise, what fills the heart is revealed in one’s deeds."
+      },
+      {
+        "id": "luke-6-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 47,
+        "question": "In the parable, on what was the house founded that the flood could not shake?",
+        "options": [
+          "Upon a rock",
+          "Upon the earth",
+          "Upon the sand",
+          "Upon a wooden foundation"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "luke-7-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And a certain {0}’s servant, who was dear unto him, was sick, and ready to die.",
+        "blanks": [
+          "centurion"
+        ],
+        "distractors": [
+          "priest",
+          "Pharisee",
+          "publican"
+        ]
+      },
+      {
+        "id": "luke-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Jesus say when he marvelled at the centurion's faith?",
+        "options": [
+          "I have not found so great faith, no, not in Israel",
+          "No one has believed me",
+          "This faith is small",
+          "Return to your house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "he went into a city called {0}; and many of his disciples went with him",
+        "blanks": [
+          "Nain"
+        ],
+        "distractors": [
+          "Capernaum",
+          "Nazareth",
+          "Bethlehem"
+        ]
+      },
+      {
+        "id": "luke-7-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Young man",
+            "right": "The one Jesus told to arise"
+          },
+          {
+            "left": "Bier",
+            "right": "What Jesus touched"
+          },
+          {
+            "left": "Widow",
+            "right": "The mother of the dead man"
+          }
+        ]
+      },
+      {
+        "id": "luke-7-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "A great prophet",
+        "text": "At the miracle in Nain the people glorify God, saying a great prophet is risen up among them. Luke is the only Gospel to record this raising."
+      },
+      {
+        "id": "luke-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "sent them to Jesus, saying, Art thou he that should come? or look we for {0}?",
+        "blanks": [
+          "another"
+        ],
+        "distractors": [
+          "more",
+          "none",
+          "others"
+        ]
+      },
+      {
+        "id": "luke-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What did Jesus tell them to report to John of what they had seen and heard?",
+        "options": [
+          "The blind see, the lame walk, the dead are raised",
+          "The temple was rebuilt",
+          "The rich were filled",
+          "The law was abolished"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "What went ye out into the wilderness for to see? A {0} shaken with the wind?",
+        "blanks": [
+          "reed"
+        ],
+        "distractors": [
+          "tree",
+          "stone",
+          "tower"
+        ]
+      },
+      {
+        "id": "luke-7-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Jesus say about John among those born of women?",
+        "options": [
+          "There is not a greater prophet than John the Baptist",
+          "He is the least of all",
+          "He is no prophet",
+          "He is equal to Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "We have {0} unto you, and ye have not danced; we have mourned to you, and ye have not wept.",
+        "blanks": [
+          "piped"
+        ],
+        "distractors": [
+          "sung",
+          "drummed",
+          "sounded"
+        ]
+      },
+      {
+        "id": "luke-7-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What did the sinful woman bring to the Pharisee's house?",
+        "options": [
+          "An alabaster box of ointment",
+          "A basket of bread",
+          "A silver coin",
+          "A new garment"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "First debtor",
+            "right": "Owed five hundred pence"
+          },
+          {
+            "left": "Second debtor",
+            "right": "Owed fifty pence"
+          },
+          {
+            "left": "Creditor",
+            "right": "Frankly forgave them both"
+          }
+        ]
+      },
+      {
+        "id": "luke-7-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "And he said to the woman, Thy {0} hath saved thee; go in peace.",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "soul",
+          "grace",
+          "work"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "luke-8-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Women who supported Jesus",
+        "text": "Luke alone names women who supported Jesus' ministry of their own substance — Mary Magdalene, Joanna, and Susanna — unusual to record in the ancient world."
+      },
+      {
+        "id": "luke-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Mary called Magdalene, out of whom went seven {0}",
+        "blanks": [
+          "devils"
+        ],
+        "distractors": [
+          "spirits",
+          "sins",
+          "years"
+        ]
+      },
+      {
+        "id": "luke-8-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "A {0} went out to sow his seed",
+        "blanks": [
+          "sower"
+        ],
+        "distractors": [
+          "shepherd",
+          "servant",
+          "farmer"
+        ]
+      },
+      {
+        "id": "luke-8-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And other fell on good ground, and sprang up, and bare fruit an {0}",
+        "blanks": [
+          "hundredfold"
+        ],
+        "distractors": [
+          "thirtyfold",
+          "sixtyfold",
+          "tenfold"
+        ]
+      },
+      {
+        "id": "luke-8-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "The seed is the {0} of God",
+        "blanks": [
+          "word"
+        ],
+        "distractors": [
+          "law",
+          "glory",
+          "gift"
+        ]
+      },
+      {
+        "id": "luke-8-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "By the way side",
+            "right": "They hear, then the devil takes the word out of their hearts"
+          },
+          {
+            "left": "On the rock",
+            "right": "They receive the word with joy but have no root and fall away"
+          },
+          {
+            "left": "Among thorns",
+            "right": "They are choked with cares and riches and pleasures of this life"
+          },
+          {
+            "left": "On good ground",
+            "right": "With an honest heart they keep the word and bring forth fruit with patience"
+          }
+        ]
+      },
+      {
+        "id": "luke-8-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "For nothing is {0}, that shall not be made manifest",
+        "blanks": [
+          "secret"
+        ],
+        "distractors": [
+          "holy",
+          "lost",
+          "written"
+        ]
+      },
+      {
+        "id": "luke-8-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Who did Jesus say were his mother and his brethren?",
+        "options": [
+          "These which hear the word of God, and do it",
+          "The twelve apostles",
+          "Those who followed him from Galilee",
+          "Mary and her sons"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "there came down a {0} of wind on the lake",
+        "blanks": [
+          "storm"
+        ],
+        "distractors": [
+          "calm",
+          "cloud",
+          "wave"
+        ]
+      },
+      {
+        "id": "luke-8-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What did Jesus ask his disciples after he calmed the storm?",
+        "options": [
+          "Where is your faith?",
+          "Why did ye doubt?",
+          "Who touched me?",
+          "Fear not, believe only"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "And he said, {0}: because many devils were entered into him",
+        "blanks": [
+          "Legion"
+        ],
+        "distractors": [
+          "Gadarene",
+          "Beelzebub",
+          "Satan"
+        ]
+      },
+      {
+        "id": "luke-8-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Where did the swine run after the devils entered them?",
+        "options": [
+          "Down a steep place into the lake, and were choked",
+          "Into the wilderness",
+          "Into the tombs",
+          "Up into the mountain"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "Return to thine own {0}, and shew how great things God hath done unto thee",
+        "blanks": [
+          "house"
+        ],
+        "distractors": [
+          "city",
+          "country",
+          "village"
+        ]
+      },
+      {
+        "id": "luke-8-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "there came a man named {0}, and he was a ruler of the synagogue",
+        "blanks": [
+          "Jairus"
+        ],
+        "distractors": [
+          "Chuza",
+          "Legion",
+          "Lazarus"
+        ]
+      },
+      {
+        "id": "luke-8-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What did the woman with the issue of blood touch to be healed?",
+        "options": [
+          "The border of his garment",
+          "His feet",
+          "His hand",
+          "His head"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "Daughter, be of good comfort: thy {0} hath made thee whole; go in peace",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "soul",
+          "hand",
+          "prayer"
+        ]
+      },
+      {
+        "id": "luke-8-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "Weep not; she is not dead, but {0}",
+        "blanks": [
+          "sleepeth"
+        ],
+        "distractors": [
+          "liveth",
+          "resteth",
+          "riseth"
+        ]
+      },
+      {
+        "id": "luke-8-mc-54",
+        "type": "multiple_choice",
+        "after_verse": 54,
+        "question": "What did Jesus say when he took the maid by the hand?",
+        "options": [
+          "Maid, arise",
+          "Fear not, believe only",
+          "Daughter, be of good comfort",
+          "Where is your faith?"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "luke-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And he said unto them, Take nothing for your {0}, neither staves, nor scrip, neither bread, neither money",
+        "blanks": [
+          "journey"
+        ],
+        "distractors": [
+          "temple",
+          "household",
+          "ship"
+        ]
+      },
+      {
+        "id": "luke-9-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Shaking off the dust",
+        "text": "To shake the dust from one's feet was a gesture of warning: it left the responsibility for rejecting the message with that city, the disciples carrying none of it away with them."
+      },
+      {
+        "id": "luke-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why was Herod perplexed when he heard of Jesus?",
+        "options": [
+          "He had beheaded John and wondered who this was of whom he heard such things",
+          "He feared losing his throne to Pilate",
+          "Jesus had rebuked him in public",
+          "The Romans accused him of revolt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And they said, We have no more but five loaves and two {0}",
+        "blanks": [
+          "fishes"
+        ],
+        "distractors": [
+          "baskets",
+          "staves",
+          "fragments"
+        ]
+      },
+      {
+        "id": "luke-9-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "and there was taken up of fragments that remained to them twelve {0}",
+        "blanks": [
+          "baskets"
+        ],
+        "distractors": [
+          "loaves",
+          "fishes",
+          "garments"
+        ]
+      },
+      {
+        "id": "luke-9-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Peter answering said, The {0} of God",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "prophet",
+          "Son",
+          "servant"
+        ]
+      },
+      {
+        "id": "luke-9-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "and be rejected of the elders and chief priests and scribes, and be slain, and be raised the {0} day",
+        "blanks": [
+          "third"
+        ],
+        "distractors": [
+          "seventh",
+          "eighth",
+          "first"
+        ]
+      },
+      {
+        "id": "luke-9-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "the fashion of his countenance was altered, and his raiment was white and {0}",
+        "blanks": [
+          "glistering"
+        ],
+        "distractors": [
+          "rent",
+          "stained",
+          "darkened"
+        ]
+      },
+      {
+        "id": "luke-9-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Moses and Elias",
+            "right": "appeared in glory"
+          },
+          {
+            "left": "Jesus' raiment",
+            "right": "was white and glistering"
+          },
+          {
+            "left": "His decease",
+            "right": "he should accomplish at Jerusalem"
+          }
+        ]
+      },
+      {
+        "id": "luke-9-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "And there came a voice out of the cloud, saying, This is my beloved {0}: hear him",
+        "blanks": [
+          "Son"
+        ],
+        "distractors": [
+          "servant",
+          "prophet",
+          "disciple"
+        ]
+      },
+      {
+        "id": "luke-9-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "And Jesus answering said, O faithless and {0} generation, how long shall I be with you",
+        "blanks": [
+          "perverse"
+        ],
+        "distractors": [
+          "humble",
+          "faithful",
+          "blessed"
+        ]
+      },
+      {
+        "id": "luke-9-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "for the Son of man shall be delivered into the {0} of men",
+        "blanks": [
+          "hands"
+        ],
+        "distractors": [
+          "houses",
+          "cities",
+          "courts"
+        ]
+      },
+      {
+        "id": "luke-9-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "Setting a child by him, whom did Jesus say would be great?",
+        "options": [
+          "He that is least among you all",
+          "He that has the most disciples",
+          "He that speaks with the most authority",
+          "He that fasts the most days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-9-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "Forbid him not: for he that is not against us is for {0}",
+        "blanks": [
+          "us"
+        ],
+        "distractors": [
+          "you",
+          "them",
+          "me"
+        ]
+      },
+      {
+        "id": "luke-9-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "Lord, wilt thou that we command {0} to come down from heaven, and consume them, even as Elias did?",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "rain",
+          "wind",
+          "bread"
+        ]
+      },
+      {
+        "id": "luke-9-fb-58",
+        "type": "fill_blank",
+        "after_verse": 58,
+        "verse": 58,
+        "template": "{0} have holes, and birds of the air have nests; but the Son of man hath not where to lay his head",
+        "blanks": [
+          "Foxes"
+        ],
+        "distractors": [
+          "Sheep",
+          "Serpents",
+          "Eagles"
+        ]
+      },
+      {
+        "id": "luke-9-fb-62",
+        "type": "fill_blank",
+        "after_verse": 62,
+        "verse": 62,
+        "template": "No man, having put his hand to the {0}, and looking back, is fit for the kingdom of God",
+        "blanks": [
+          "plough"
+        ],
+        "distractors": [
+          "staff",
+          "oar",
+          "candle"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "luke-10-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "How does Jesus describe the harvest and the labourers?",
+        "options": [
+          "The harvest is great, but the labourers are few",
+          "The harvest is small and the labourers many",
+          "The harvest is great and the labourers many",
+          "The harvest is small and the labourers few"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "behold, I send you forth as {0} among wolves.",
+        "blanks": [
+          "lambs"
+        ],
+        "distractors": [
+          "labourers",
+          "thieves",
+          "devils"
+        ]
+      },
+      {
+        "id": "luke-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The seventy sent out",
+        "text": "Beyond the twelve apostles, the Lord appointed seventy others and sent them two and two before his face, into every city and place where he himself would come."
+      },
+      {
+        "id": "luke-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "In that day, for which place will it be more tolerable than for the city that rejects the messengers?",
+        "options": [
+          "Sodom",
+          "Jericho",
+          "Capernaum",
+          "Bethsaida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "for if the mighty works had been done in Tyre and {0}, which have been done in you",
+        "blanks": [
+          "Sidon"
+        ],
+        "distractors": [
+          "Jericho",
+          "Sodom",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "luke-10-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "I beheld {0} as lightning fall from heaven.",
+        "blanks": [
+          "Satan"
+        ],
+        "distractors": [
+          "the enemy",
+          "the serpent",
+          "the devils"
+        ]
+      },
+      {
+        "id": "luke-10-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Why does Jesus tell the seventy they should rather rejoice?",
+        "options": [
+          "Because their names are written in heaven",
+          "Because the spirits are subject unto them",
+          "Because they tread on serpents and scorpions",
+          "Because they saw Satan fall"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Revealed unto babes",
+        "text": "Jesus rejoices in spirit because the Father has hid these things from the wise and prudent and revealed them unto babes, for so it seemed good in his sight."
+      },
+      {
+        "id": "luke-10-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What does the lawyer ask Jesus to tempt him?",
+        "options": [
+          "What shall I do to inherit eternal life?",
+          "Who is my neighbour?",
+          "What is written in the law?",
+          "Art thou the Christ?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Thou shalt love the Lord thy God with all thy {0}",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "neighbour",
+          "city",
+          "harvest"
+        ]
+      },
+      {
+        "id": "luke-10-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "A certain man went down from Jerusalem to {0}, and fell among thieves",
+        "blanks": [
+          "Jericho"
+        ],
+        "distractors": [
+          "Sidon",
+          "Tyre",
+          "Sodom"
+        ]
+      },
+      {
+        "id": "luke-10-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Priest",
+            "right": "Saw the wounded man and passed by on the other side"
+          },
+          {
+            "left": "Levite",
+            "right": "Came to the place and passed by on the other side"
+          },
+          {
+            "left": "Samaritan",
+            "right": "Bound up his wounds and took care of him"
+          },
+          {
+            "left": "Host",
+            "right": "Received two pence to care for the wounded man"
+          }
+        ]
+      },
+      {
+        "id": "luke-10-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "According to Jesus, who was neighbour to the man who fell among the thieves?",
+        "options": [
+          "He that shewed mercy on him",
+          "The priest",
+          "The Levite",
+          "The host"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Mary hath chosen that good {0}, which shall not be taken away from her.",
+        "blanks": [
+          "part"
+        ],
+        "distractors": [
+          "house",
+          "soul",
+          "hour"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "luke-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "What did one of the disciples ask Jesus while he was praying?",
+        "options": [
+          "Lord, teach us to pray",
+          "Lord, teach us to fast",
+          "Lord, teach us to heal",
+          "Lord, teach us to preach"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Our Father which art in heaven, Hallowed be thy {0}",
+        "blanks": [
+          "name"
+        ],
+        "distractors": [
+          "kingdom",
+          "throne",
+          "word"
+        ]
+      },
+      {
+        "id": "luke-11-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "and say unto him, Friend, lend me three {0}",
+        "blanks": [
+          "loaves"
+        ],
+        "distractors": [
+          "fishes",
+          "coins",
+          "stones"
+        ]
+      },
+      {
+        "id": "luke-11-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Ask, and it shall be given you; seek, and ye shall find; {0}, and it shall be opened unto you",
+        "blanks": [
+          "knock"
+        ],
+        "distractors": [
+          "call",
+          "wait",
+          "kneel"
+        ]
+      },
+      {
+        "id": "luke-11-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Good gifts",
+        "text": "Jesus argues from the lesser to the greater: if flawed earthly fathers know how to give good gifts to their children, how much more will the heavenly Father give the Holy Spirit to those who ask."
+      },
+      {
+        "id": "luke-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Through whom did some say Jesus cast out devils?",
+        "options": [
+          "Beelzebub",
+          "Satan",
+          "Jonas",
+          "Solomon"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Every kingdom divided against itself is brought to {0}",
+        "blanks": [
+          "desolation"
+        ],
+        "distractors": [
+          "judgment",
+          "darkness",
+          "glory"
+        ]
+      },
+      {
+        "id": "luke-11-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "He that is not with me is {0} me",
+        "blanks": [
+          "against"
+        ],
+        "distractors": [
+          "beside",
+          "before",
+          "behind"
+        ]
+      },
+      {
+        "id": "luke-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "How many other spirits does the unclean spirit bring back with him?",
+        "options": [
+          "Seven",
+          "Three",
+          "Twelve",
+          "Two"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Whose wisdom did the queen of the south come to hear?",
+        "options": [
+          "Solomon",
+          "Jonas",
+          "Abel",
+          "Zacharias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "The light of the body is the {0}",
+        "blanks": [
+          "eye"
+        ],
+        "distractors": [
+          "heart",
+          "ear",
+          "hand"
+        ]
+      },
+      {
+        "id": "luke-11-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "for ye tithe mint and rue and all manner of {0}",
+        "blanks": [
+          "herbs"
+        ],
+        "distractors": [
+          "grain",
+          "fruit",
+          "wine"
+        ]
+      },
+      {
+        "id": "luke-11-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "In Luke 11:43, what did the Pharisees love in the synagogues?",
+        "options": [
+          "The uppermost seats",
+          "The greetings",
+          "The tithes",
+          "The sepulchres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "From the blood of {0} unto the blood of Zacharias",
+        "blanks": [
+          "Abel"
+        ],
+        "distractors": [
+          "Jonas",
+          "Solomon",
+          "Simon"
+        ]
+      },
+      {
+        "id": "luke-11-mp-52",
+        "type": "match_pairs",
+        "after_verse": 52,
+        "pairs": [
+          {
+            "left": "Lawyers",
+            "right": "Took away the key of knowledge"
+          },
+          {
+            "left": "Pharisees",
+            "right": "Love the uppermost seats"
+          },
+          {
+            "left": "Zacharias",
+            "right": "Perished between the altar and the temple"
+          },
+          {
+            "left": "Wisdom of God",
+            "right": "Sends prophets and apostles"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "luke-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Beware ye of the leaven of the Pharisees, which is {0}.",
+        "blanks": [
+          "hypocrisy"
+        ],
+        "distractors": [
+          "covetousness",
+          "idleness",
+          "sorrow"
+        ]
+      },
+      {
+        "id": "luke-12-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "For how much were five sparrows sold, according to Jesus?",
+        "options": [
+          "For two farthings",
+          "For one piece of silver",
+          "For five farthings",
+          "For two lambs"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "But even the very {0} of your head are all numbered.",
+        "blanks": [
+          "hairs"
+        ],
+        "distractors": [
+          "sparrows",
+          "angels",
+          "days"
+        ]
+      },
+      {
+        "id": "luke-12-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "The unpardonable blasphemy",
+        "text": "Jesus teaches that a word against the Son of man may be forgiven, but blasphemy against the Holy Ghost shall not be forgiven. It is the one offense the Gospels describe as beyond pardon."
+      },
+      {
+        "id": "luke-12-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Who would teach the disciples what to say before magistrates and powers?",
+        "options": [
+          "The Holy Ghost",
+          "The angels of God",
+          "The Pharisees",
+          "Peter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Take heed, and beware of {0}: for a man’s life consisteth not in the abundance of the things which he possesseth.",
+        "blanks": [
+          "covetousness"
+        ],
+        "distractors": [
+          "hypocrisy",
+          "idleness",
+          "envy"
+        ]
+      },
+      {
+        "id": "luke-12-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Rich man",
+            "right": "His ground brought forth plentifully"
+          },
+          {
+            "left": "Barns",
+            "right": "Pulled down to build greater"
+          },
+          {
+            "left": "Soul",
+            "right": "Told to take ease, eat and drink"
+          },
+          {
+            "left": "No room",
+            "right": "Why he needed bigger storehouses"
+          }
+        ]
+      },
+      {
+        "id": "luke-12-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "But God said unto him, Thou {0}, this night thy soul shall be required of thee",
+        "blanks": [
+          "fool"
+        ],
+        "distractors": [
+          "servant",
+          "friend",
+          "stranger"
+        ]
+      },
+      {
+        "id": "luke-12-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Consider the {0}: for they neither sow nor reap",
+        "blanks": [
+          "ravens"
+        ],
+        "distractors": [
+          "lilies",
+          "sparrows",
+          "lambs"
+        ]
+      },
+      {
+        "id": "luke-12-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "How did Jesus compare the lilies to Solomon?",
+        "options": [
+          "Solomon in all his glory was not arrayed like one of these",
+          "Solomon clothed the lilies of the field",
+          "The lilies toiled harder than Solomon",
+          "Solomon planted the lilies himself"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "What did Jesus tell them to seek, promising all else would be added?",
+        "options": [
+          "The kingdom of God",
+          "The riches of the earth",
+          "The glory of Solomon",
+          "Their brother’s inheritance"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "For where your treasure is, there will your {0} be also.",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "kingdom",
+          "body",
+          "barn"
+        ]
+      },
+      {
+        "id": "luke-12-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Let your loins be girded about, and your {0} burning;",
+        "blanks": [
+          "lights"
+        ],
+        "distractors": [
+          "bags",
+          "houses",
+          "vessels"
+        ]
+      },
+      {
+        "id": "luke-12-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Who then is that faithful and wise {0}, whom his lord shall make ruler over his household",
+        "blanks": [
+          "steward"
+        ],
+        "distractors": [
+          "thief",
+          "judge",
+          "angel"
+        ]
+      },
+      {
+        "id": "luke-12-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "According to Jesus, what is required of one to whom much is given?",
+        "options": [
+          "Of him shall be much required",
+          "Of him shall little be required",
+          "Of him shall nothing be required",
+          "Of him shall half be required"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "I am come to send {0} on the earth; and what will I, if it be already kindled?",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "peace",
+          "light",
+          "division"
+        ]
+      },
+      {
+        "id": "luke-12-mc-53",
+        "type": "multiple_choice",
+        "after_verse": 53,
+        "question": "What did Jesus say he came to bring, rather than peace?",
+        "options": [
+          "Division",
+          "Riches",
+          "Rest",
+          "Glory"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-56",
+        "type": "fill_blank",
+        "after_verse": 56,
+        "verse": 56,
+        "template": "Ye {0}, ye can discern the face of the sky and of the earth",
+        "blanks": [
+          "hypocrites"
+        ],
+        "distractors": [
+          "disciples",
+          "Pharisees",
+          "servants"
+        ]
+      },
+      {
+        "id": "luke-12-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "I tell thee, thou shalt not depart thence, till thou hast paid the very last {0}.",
+        "blanks": [
+          "mite"
+        ],
+        "distractors": [
+          "loaf",
+          "talent",
+          "stripe"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "luke-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Galilaeans and Pilate",
+        "text": "Pilate was the Roman governor of Judaea. The report of Galilaeans whose blood he mingled with their sacrifices reflects the tension between Roman rule and temple worship in that era."
+      },
+      {
+        "id": "luke-13-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to Jesus, what would happen to all unless they repent?",
+        "options": [
+          "They shall all likewise perish",
+          "They shall be exalted",
+          "They shall inherit the earth",
+          "They shall see the kingdom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Or those eighteen, upon whom the tower in {0} fell, and slew them",
+        "blanks": [
+          "Siloam"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Galilee",
+          "Bethany"
+        ]
+      },
+      {
+        "id": "luke-13-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Behold, these three years I come seeking fruit on this {0} tree, and find none",
+        "blanks": [
+          "fig"
+        ],
+        "distractors": [
+          "olive",
+          "vine",
+          "palm"
+        ]
+      },
+      {
+        "id": "luke-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How long had the woman with a spirit of infirmity been bowed together?",
+        "options": [
+          "Three years",
+          "Twelve years",
+          "Eighteen years",
+          "Forty years"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "luke-13-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Thou hypocrite, doth not each one of you on the sabbath loose his {0} or his ass from the stall",
+        "blanks": [
+          "ox"
+        ],
+        "distractors": [
+          "lamb",
+          "horse",
+          "camel"
+        ]
+      },
+      {
+        "id": "luke-13-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Grain of mustard seed",
+            "right": "Waxed a great tree"
+          },
+          {
+            "left": "Leaven",
+            "right": "Hid in three measures of meal"
+          },
+          {
+            "left": "Fig tree",
+            "right": "Sought fruit and found none"
+          }
+        ]
+      },
+      {
+        "id": "luke-13-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "At what does Jesus tell his hearers to strive to enter?",
+        "options": [
+          "The strait gate",
+          "The broad way",
+          "The temple door",
+          "The city gate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "when ye shall see Abraham, and Isaac, and {0}, and all the prophets, in the kingdom of God",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Moses",
+          "David",
+          "Noah"
+        ]
+      },
+      {
+        "id": "luke-13-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "To what animal does Jesus compare Herod?",
+        "options": [
+          "A fox",
+          "A wolf",
+          "A serpent",
+          "A lion"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "how often would I have gathered thy children together, as a {0} doth gather her brood under her wings",
+        "blanks": [
+          "hen"
+        ],
+        "distractors": [
+          "dove",
+          "eagle",
+          "sheep"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "luke-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The dropsy",
+        "text": "The man who \"had the dropsy\" suffered from edema, a painful swelling caused by fluid building up in the body. Healing him on the sabbath, in the house of a Pharisee who watched him, was a deliberate act before those seeking to accuse Jesus."
+      },
+      {
+        "id": "luke-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Jesus ask the lawyers and Pharisees before healing the man?",
+        "options": [
+          "Is it lawful to heal on the sabbath day?",
+          "Who among you is without sin?",
+          "Why callest thou me good?",
+          "Will ye also go away?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Which of you shall have an ass or an ox fallen into a {0}, and will not straightway pull him out on the sabbath day?",
+        "blanks": [
+          "pit"
+        ],
+        "distractors": [
+          "well",
+          "field",
+          "river"
+        ]
+      },
+      {
+        "id": "luke-14-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "When bidden to a wedding, where does Jesus say not to sit down?",
+        "options": [
+          "In the highest room",
+          "In the lowest room",
+          "Beside the door",
+          "Before the host"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "For whosoever exalteth himself shall be {0}; and he that humbleth himself shall be exalted.",
+        "blanks": [
+          "abased"
+        ],
+        "distractors": [
+          "blessed",
+          "saved",
+          "honoured"
+        ]
+      },
+      {
+        "id": "luke-14-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But when thou makest a feast, call the poor, the maimed, the lame, the {0}:",
+        "blanks": [
+          "blind"
+        ],
+        "distractors": [
+          "rich",
+          "wise",
+          "young"
+        ]
+      },
+      {
+        "id": "luke-14-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "The first guest",
+            "right": "I have bought a piece of ground"
+          },
+          {
+            "left": "Another guest",
+            "right": "I have bought five yoke of oxen"
+          },
+          {
+            "left": "A third guest",
+            "right": "I have married a wife"
+          }
+        ]
+      },
+      {
+        "id": "luke-14-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And the lord said unto the servant, Go out into the highways and {0}, and compel them to come in, that my house may be filled.",
+        "blanks": [
+          "hedges"
+        ],
+        "distractors": [
+          "mountains",
+          "fields",
+          "cities"
+        ]
+      },
+      {
+        "id": "luke-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "According to Jesus, who cannot be his disciple?",
+        "options": [
+          "One who loves his own life more than him",
+          "One who owns great riches",
+          "One who has never fasted",
+          "One who cannot read the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "For which of you, intending to build a {0}, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?",
+        "blanks": [
+          "tower"
+        ],
+        "distractors": [
+          "house",
+          "bridge",
+          "wall"
+        ]
+      },
+      {
+        "id": "luke-14-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "With how many men does the king in the parable consider whether he can meet one coming with twenty thousand?",
+        "options": [
+          "Ten thousand",
+          "Five thousand",
+          "Twelve thousand",
+          "Twenty thousand"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Salt is good: but if the salt have lost his {0}, wherewith shall it be seasoned?",
+        "blanks": [
+          "savour"
+        ],
+        "distractors": [
+          "colour",
+          "weight",
+          "value"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "luke-15-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And the Pharisees and scribes murmured, saying, This man receiveth {0}, and eateth with them.",
+        "blanks": [
+          "sinners"
+        ],
+        "distractors": [
+          "publicans",
+          "Pharisees",
+          "strangers"
+        ]
+      },
+      {
+        "id": "luke-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "What man of you, having an hundred {0}, if he lose one of them, doth not leave the ninety and nine in the wilderness",
+        "blanks": [
+          "sheep"
+        ],
+        "distractors": [
+          "pieces",
+          "servants",
+          "sons"
+        ]
+      },
+      {
+        "id": "luke-15-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Carried on his shoulders",
+        "text": "When the shepherd finds the lost sheep, he does not drive it home but lays it on his shoulders, rejoicing. This image became one of the earliest symbols Christians used for the Good Shepherd."
+      },
+      {
+        "id": "luke-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Either what woman having ten pieces of {0}, if she lose one piece, doth not light a candle",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "bread",
+          "oil"
+        ]
+      },
+      {
+        "id": "luke-15-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "According to Jesus, in whose presence is there joy over one sinner that repenteth?",
+        "options": [
+          "The angels of God",
+          "The Pharisees",
+          "The scribes",
+          "The publicans"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-15-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "and he sent him into his fields to feed {0}.",
+        "blanks": [
+          "swine"
+        ],
+        "distractors": [
+          "sheep",
+          "oxen",
+          "goats"
+        ]
+      },
+      {
+        "id": "luke-15-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What did the younger son long to eat in his hunger?",
+        "options": [
+          "The husks that the swine did eat",
+          "The fatted calf",
+          "Bread from his father's house",
+          "A kid with his friends"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-15-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "I will arise and go to my {0}, and will say unto him, Father, I have sinned against heaven",
+        "blanks": [
+          "father"
+        ],
+        "distractors": [
+          "brother",
+          "master",
+          "house"
+        ]
+      },
+      {
+        "id": "luke-15-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "But the father said to his servants, Bring forth the best {0}, and put it on him",
+        "blanks": [
+          "robe"
+        ],
+        "distractors": [
+          "ring",
+          "calf",
+          "kid"
+        ]
+      },
+      {
+        "id": "luke-15-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Lo, these many years do I serve thee, neither transgressed I at any time thy {0}",
+        "blanks": [
+          "commandment"
+        ],
+        "distractors": [
+          "household",
+          "inheritance",
+          "covenant"
+        ]
+      },
+      {
+        "id": "luke-15-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "The lost sheep",
+            "right": "The shepherd leaves the ninety and nine to seek it"
+          },
+          {
+            "left": "The lost piece of silver",
+            "right": "The woman lights a candle and sweeps the house"
+          },
+          {
+            "left": "The prodigal son",
+            "right": "The father kills the fatted calf at his return"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "luke-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The household steward",
+        "text": "A \"steward\" was a trusted manager who oversaw his master's goods, accounts, and servants. It was a position of great responsibility, and being accused of wasting goods meant risking the loss of everything."
+      },
+      {
+        "id": "luke-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Facing the loss of his post, what does the steward admit about himself?",
+        "options": [
+          "He cannot dig, and is ashamed to beg",
+          "He would rather flee to another city",
+          "He will return all the goods to his lord",
+          "He will beg his lord on his knees"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "And he said, An hundred measures of {0}. And he said unto him, Take thy bill, and sit down quickly, and write fifty.",
+        "blanks": [
+          "oil"
+        ],
+        "distractors": [
+          "wheat",
+          "wine",
+          "barley"
+        ]
+      },
+      {
+        "id": "luke-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And he said, An hundred measures of {0}. And he said unto him, Take thy bill, and write fourscore.",
+        "blanks": [
+          "wheat"
+        ],
+        "distractors": [
+          "oil",
+          "wine",
+          "barley"
+        ]
+      },
+      {
+        "id": "luke-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Why did the lord commend the unjust steward, according to verse 8?",
+        "options": [
+          "Because he had done wisely",
+          "Because he returned the money",
+          "Because he confessed his guilt",
+          "Because he worked harder"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Two masters",
+            "right": "No servant can serve both"
+          },
+          {
+            "left": "God and mammon",
+            "right": "Ye cannot serve them both"
+          },
+          {
+            "left": "Faithful in least",
+            "right": "Faithful also in much"
+          },
+          {
+            "left": "Unrighteous mammon",
+            "right": "Tests trust with the true riches"
+          }
+        ]
+      },
+      {
+        "id": "luke-16-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "for that which is highly esteemed among men is {0} in the sight of God.",
+        "blanks": [
+          "abomination"
+        ],
+        "distractors": [
+          "mercy",
+          "righteousness",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "luke-16-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Until whom were the law and the prophets, according to verse 16?",
+        "options": [
+          "Until John",
+          "Until Moses",
+          "Until Abraham",
+          "Until Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "There was a certain rich man, which was clothed in {0} and fine linen, and fared sumptuously every day:",
+        "blanks": [
+          "purple"
+        ],
+        "distractors": [
+          "silk",
+          "wool",
+          "gold"
+        ]
+      },
+      {
+        "id": "luke-16-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And there was a certain beggar named {0}, which was laid at his gate, full of sores,",
+        "blanks": [
+          "Lazarus"
+        ],
+        "distractors": [
+          "Abraham",
+          "Moses",
+          "Simon"
+        ]
+      },
+      {
+        "id": "luke-16-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Where was the beggar Lazarus carried when he died?",
+        "options": [
+          "Into Abraham's bosom",
+          "Into the temple at Jerusalem",
+          "Into the wilderness",
+          "Into the rich man's house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "between us and you there is a great {0} fixed: so that they which would pass from hence to you cannot;",
+        "blanks": [
+          "gulf"
+        ],
+        "distractors": [
+          "wall",
+          "river",
+          "desert"
+        ]
+      },
+      {
+        "id": "luke-16-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Abraham's bosom",
+        "text": "\"Abraham's bosom\" was a Jewish expression for the place of rest and blessing for the righteous after death. To be there meant to share the company of the father of the faithful."
+      },
+      {
+        "id": "luke-16-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "For I have five {0}; that he may testify unto them, lest they also come into this place of torment.",
+        "blanks": [
+          "brethren"
+        ],
+        "distractors": [
+          "children",
+          "friends",
+          "servants"
+        ]
+      },
+      {
+        "id": "luke-16-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "According to Abraham, what would happen to those who do not hear Moses and the prophets?",
+        "options": [
+          "They would not be persuaded though one rose from the dead",
+          "They would be comforted in Abraham's bosom",
+          "They would cross the great gulf freely",
+          "They would receive their good things again"
+        ],
+        "answer": 0
+      }
+    ],
+    "17": [
+      {
+        "id": "luke-17-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did Jesus say would be better than offending one of these little ones?",
+        "options": [
+          "That a millstone were hanged about his neck, and he cast into the sea",
+          "That he fasted for forty days",
+          "That he sold all his goods",
+          "That he never spoke again"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-17-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Forgiveness without limit",
+        "text": "Jesus teaches forgiving a brother who repents seven times in a single day. The number seven signals fullness: forgiveness is not to be counted but offered again and again."
+      },
+      {
+        "id": "luke-17-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And the apostles said unto the Lord, Increase our {0}.",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "grace",
+          "peace",
+          "strength"
+        ]
+      },
+      {
+        "id": "luke-17-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "If ye had faith as a grain of {0} seed, ye might say unto this sycamine tree",
+        "blanks": [
+          "mustard"
+        ],
+        "distractors": [
+          "wheat",
+          "barley",
+          "fig"
+        ]
+      },
+      {
+        "id": "luke-17-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "say, We are {0} servants: we have done that which was our duty to do.",
+        "blanks": [
+          "unprofitable"
+        ],
+        "distractors": [
+          "faithful",
+          "humble",
+          "weary"
+        ]
+      },
+      {
+        "id": "luke-17-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Ten men",
+            "right": "The lepers that stood afar off"
+          },
+          {
+            "left": "Priests",
+            "right": "Whom they were sent to show themselves to"
+          },
+          {
+            "left": "Samaritan",
+            "right": "The only one who turned back to give thanks"
+          }
+        ]
+      },
+      {
+        "id": "luke-17-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And he said unto him, Arise, go thy way: thy faith hath made thee {0}.",
+        "blanks": [
+          "whole"
+        ],
+        "distractors": [
+          "clean",
+          "free",
+          "well"
+        ]
+      },
+      {
+        "id": "luke-17-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "for, behold, the kingdom of God is {0} you.",
+        "blanks": [
+          "within"
+        ],
+        "distractors": [
+          "before",
+          "among",
+          "above"
+        ]
+      },
+      {
+        "id": "luke-17-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "To what did Jesus compare the Son of man in his day?",
+        "options": [
+          "To the lightning that shineth from one part of heaven unto the other",
+          "To a silent thief",
+          "To the rising of the morning sun",
+          "To a distant trumpet"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-17-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "But the same day that Lot went out of Sodom it rained fire and {0} from heaven, and destroyed them all.",
+        "blanks": [
+          "brimstone"
+        ],
+        "distractors": [
+          "hail",
+          "ashes",
+          "smoke"
+        ]
+      },
+      {
+        "id": "luke-17-cur-32",
+        "type": "curiosity",
+        "after_verse": 32,
+        "title": "Remember Lot's wife",
+        "text": "Fleeing Sodom, Lot's wife looked back and clung to what she was leaving. Jesus holds her up as a warning not to turn back in the day of judgment."
+      },
+      {
+        "id": "luke-17-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Whosoever shall seek to save his life shall {0} it; and whosoever shall lose his life shall preserve it.",
+        "blanks": [
+          "lose"
+        ],
+        "distractors": [
+          "keep",
+          "find",
+          "spend"
+        ]
+      },
+      {
+        "id": "luke-17-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What did Jesus answer when they asked him, Where, Lord?",
+        "options": [
+          "Wheresoever the body is, thither will the eagles be gathered together",
+          "Upon the highest mountain of Galilee",
+          "In Jerusalem, beside the temple",
+          "No man shall know but the Father"
+        ],
+        "answer": 0
+      }
+    ],
+    "18": [
+      {
+        "id": "luke-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Always to pray",
+        "text": "Luke states the purpose of this parable before telling it: that men ought always to pray, and not to faint. It is the only Gospel to record the parable of the importunate widow and the unjust judge."
+      },
+      {
+        "id": "luke-18-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "How was the judge in the parable described?",
+        "options": [
+          "He feared not God, neither regarded man",
+          "He was just and devout",
+          "He was a priest in the temple",
+          "He was a friend of the widow"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Nevertheless when the Son of man cometh, shall he find {0} on the earth?",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "peace",
+          "rest",
+          "justice"
+        ]
+      },
+      {
+        "id": "luke-18-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "The Pharisee",
+            "right": "Thanked God he was not as other men"
+          },
+          {
+            "left": "The publican",
+            "right": "Smote upon his breast asking for mercy"
+          },
+          {
+            "left": "Justified",
+            "right": "The one who went down to his house forgiven"
+          },
+          {
+            "left": "Abased",
+            "right": "He that exalteth himself"
+          }
+        ]
+      },
+      {
+        "id": "luke-18-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Suffer little children to come unto me, and forbid them not: for of such is the {0} of God.",
+        "blanks": [
+          "kingdom"
+        ],
+        "distractors": [
+          "mercy",
+          "power",
+          "glory"
+        ]
+      },
+      {
+        "id": "luke-18-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What did the certain ruler ask Jesus?",
+        "options": [
+          "What shall I do to inherit eternal life?",
+          "Who is greatest in the kingdom of God?",
+          "When will the kingdom of God come?",
+          "Why do your disciples fast?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "sell all that thou hast, and distribute unto the {0}, and thou shalt have treasure in heaven",
+        "blanks": [
+          "poor"
+        ],
+        "distractors": [
+          "priests",
+          "elders",
+          "scribes"
+        ]
+      },
+      {
+        "id": "luke-18-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "For it is easier for a {0} to go through a needle’s eye, than for a rich man to enter into the kingdom of God.",
+        "blanks": [
+          "camel"
+        ],
+        "distractors": [
+          "lamb",
+          "ox",
+          "lion"
+        ]
+      },
+      {
+        "id": "luke-18-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did Jesus answer when they asked who then can be saved?",
+        "options": [
+          "The things impossible with men are possible with God",
+          "Only the rich shall be saved",
+          "No man can be saved",
+          "They that fast shall be saved"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "And they shall scourge him, and put him to death: and the third day he shall {0} again.",
+        "blanks": [
+          "rise"
+        ],
+        "distractors": [
+          "come",
+          "appear",
+          "ascend"
+        ]
+      },
+      {
+        "id": "luke-18-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What did they tell the blind man when he asked what it meant?",
+        "options": [
+          "That Jesus of Nazareth passeth by",
+          "That a storm was coming",
+          "That the Pharisees were arriving",
+          "That it was a wedding"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "And he cried, saying, Jesus, thou Son of {0}, have mercy on me.",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Abraham",
+          "Joseph",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "luke-18-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "What did Jesus say as he healed the blind man?",
+        "options": [
+          "Receive thy sight: thy faith hath saved thee",
+          "Go in peace",
+          "Tell no man",
+          "Arise and walk"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "luke-19-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "And he ran before, and climbed up into a {0} tree to see him: for he was to pass that way.",
+        "blanks": [
+          "sycomore"
+        ],
+        "distractors": [
+          "olive",
+          "fig",
+          "palm"
+        ]
+      },
+      {
+        "id": "luke-19-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Chief among the publicans",
+        "text": "Zacchaeus was the chief among the publicans, tax collectors who worked for Rome and were widely despised. That is why the crowd murmured when Jesus chose to lodge at his house."
+      },
+      {
+        "id": "luke-19-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "if I have taken any thing from any man by false accusation, I restore him {0}.",
+        "blanks": [
+          "fourfold"
+        ],
+        "distractors": [
+          "twofold",
+          "tenfold",
+          "wholly"
+        ]
+      },
+      {
+        "id": "luke-19-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Why does Jesus say the Son of man is come?",
+        "options": [
+          "To seek and to save that which was lost",
+          "To judge the nations",
+          "To rebuild the temple",
+          "To gather riches"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And he called his ten servants, and delivered them ten {0}, and said unto them, Occupy till I come.",
+        "blanks": [
+          "pounds"
+        ],
+        "distractors": [
+          "cities",
+          "talents",
+          "coins"
+        ]
+      },
+      {
+        "id": "luke-19-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Lord, behold, here is thy pound, which I have kept laid up in a {0}:",
+        "blanks": [
+          "napkin"
+        ],
+        "distractors": [
+          "bank",
+          "field",
+          "barn"
+        ]
+      },
+      {
+        "id": "luke-19-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "First servant",
+            "right": "Gained ten pounds"
+          },
+          {
+            "left": "Second servant",
+            "right": "Gained five pounds"
+          },
+          {
+            "left": "Wicked servant",
+            "right": "Kept his pound in a napkin"
+          }
+        ]
+      },
+      {
+        "id": "luke-19-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "in the which at your entering ye shall find a {0} tied, whereon yet never man sat: loose him, and bring him hither.",
+        "blanks": [
+          "colt"
+        ],
+        "distractors": [
+          "lamb",
+          "horse",
+          "calf"
+        ]
+      },
+      {
+        "id": "luke-19-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "And as he went, they spread their {0} in the way.",
+        "blanks": [
+          "clothes"
+        ],
+        "distractors": [
+          "palms",
+          "stones",
+          "tents"
+        ]
+      },
+      {
+        "id": "luke-19-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What did Jesus say would happen if the disciples should hold their peace?",
+        "options": [
+          "The stones would immediately cry out",
+          "The temple would fall",
+          "The people would weep",
+          "The heavens would close"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-19-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "It is written, My house is the house of {0}: but ye have made it a den of thieves.",
+        "blanks": [
+          "prayer"
+        ],
+        "distractors": [
+          "feasting",
+          "merchandise",
+          "rest"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "luke-20-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What question did Jesus ask the chief priests in return?",
+        "options": [
+          "The baptism of John, was it from heaven, or of men?",
+          "Who is the heir of the vineyard?",
+          "Is it lawful to give tribute to Caesar?",
+          "Whose image is on this coin?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why did the leaders fear to say John's baptism was 'of men'?",
+        "options": [
+          "Because all the people would stone them, holding John a prophet",
+          "Because they would be cast out of the temple",
+          "Because Caesar would be angered",
+          "Because the Sadducees would condemn them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "A certain man planted a {0}, and let it forth to husbandmen, and went into a far country for a long time.",
+        "blanks": [
+          "vineyard"
+        ],
+        "distractors": [
+          "cornfield",
+          "garden",
+          "field"
+        ]
+      },
+      {
+        "id": "luke-20-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "The servants sent",
+        "text": "In the parable the lord of the vineyard sends servant after servant, and each is beaten or wounded and sent away — a picture of the prophets rejected by Israel before the coming of the beloved son."
+      },
+      {
+        "id": "luke-20-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Then said the lord of the vineyard, What shall I do? I will send my {0} son: it may be they will reverence him when they see him.",
+        "blanks": [
+          "beloved"
+        ],
+        "distractors": [
+          "firstborn",
+          "faithful",
+          "youngest"
+        ]
+      },
+      {
+        "id": "luke-20-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "The stone",
+            "right": "Become the head of the corner"
+          },
+          {
+            "left": "The builders",
+            "right": "Rejected the stone"
+          },
+          {
+            "left": "The beloved son",
+            "right": "Killed by the husbandmen"
+          }
+        ]
+      },
+      {
+        "id": "luke-20-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Why did the chief priests not lay hands on Jesus that same hour?",
+        "options": [
+          "Because they feared the people",
+          "Because they could not find him",
+          "Because Caesar protected him",
+          "Because the Sadducees defended him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Is it lawful for us to give {0} unto Cæsar, or no?",
+        "blanks": [
+          "tribute"
+        ],
+        "distractors": [
+          "worship",
+          "honour",
+          "obedience"
+        ]
+      },
+      {
+        "id": "luke-20-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Render therefore unto Cæsar the things which be Cæsar’s, and unto {0} the things which be God’s.",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Moses",
+          "David",
+          "Rome"
+        ]
+      },
+      {
+        "id": "luke-20-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Saying, Master, {0} wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
+        "blanks": [
+          "Moses"
+        ],
+        "distractors": [
+          "David",
+          "Abraham",
+          "Isaac"
+        ]
+      },
+      {
+        "id": "luke-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What riddle did the Sadducees pose to Jesus about the resurrection?",
+        "options": [
+          "Whose wife of them she would be, for seven had her to wife",
+          "Who would inherit the absent lord's vineyard",
+          "To whom Caesar's coin belonged",
+          "Whether the dead would marry angels"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Neither can they die any more: for they are equal unto the {0}; and are the children of God, being the children of the resurrection.",
+        "blanks": [
+          "angels"
+        ],
+        "distractors": [
+          "prophets",
+          "Sadducees",
+          "fathers"
+        ]
+      },
+      {
+        "id": "luke-20-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "For he is not a God of the dead, but of the {0}: for all live unto him.",
+        "blanks": [
+          "living"
+        ],
+        "distractors": [
+          "angels",
+          "righteous",
+          "faithful"
+        ]
+      },
+      {
+        "id": "luke-20-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "Where, according to Jesus, does David call the Christ 'Lord'?",
+        "options": [
+          "In the book of Psalms",
+          "In the book of Moses",
+          "In the book of Esaias",
+          "In the book of Proverbs"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Beware of the {0}, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+        "blanks": [
+          "scribes"
+        ],
+        "distractors": [
+          "Sadducees",
+          "husbandmen",
+          "publicans"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "luke-21-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The widow's two mites",
+        "text": "The \"two mites\" were lepta, the smallest coins in use in Judea. Together they were worth almost nothing — yet Jesus declared the widow gave more than all the rich, because she gave everything she had to live on."
+      },
+      {
+        "id": "luke-21-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Jesus say about the poor widow who cast two mites into the treasury?",
+        "options": [
+          "That she had cast in more than they all",
+          "That she should keep her living",
+          "That the rich men had given more",
+          "That she should not enter the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "the days will come, in the which there shall not be left one {0} upon another",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "temple",
+          "altar",
+          "tower"
+        ]
+      },
+      {
+        "id": "luke-21-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Take heed that ye be not {0}: for many shall come in my name",
+        "blanks": [
+          "deceived"
+        ],
+        "distractors": [
+          "blessed",
+          "gathered",
+          "forgotten"
+        ]
+      },
+      {
+        "id": "luke-21-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Jesus say would happen in divers places before the end?",
+        "options": [
+          "Great earthquakes, famines, and pestilences",
+          "Rains and good harvests",
+          "Peace among all nations",
+          "Silence in the heavens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "For I will give you a mouth and {0}, which all your adversaries shall not be able to gainsay nor resist.",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "riches",
+          "honour",
+          "patience"
+        ]
+      },
+      {
+        "id": "luke-21-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "A mouth and wisdom",
+            "right": "What Jesus promised to give the persecuted"
+          },
+          {
+            "left": "Parents, brethren, and friends",
+            "right": "By whom the disciples would be betrayed"
+          },
+          {
+            "left": "Your patience",
+            "right": "By it they would possess their souls"
+          }
+        ]
+      },
+      {
+        "id": "luke-21-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "In your {0} possess ye your souls.",
+        "blanks": [
+          "patience"
+        ],
+        "distractors": [
+          "weakness",
+          "gladness",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "luke-21-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to Jesus, what would show that the desolation of Jerusalem was nigh?",
+        "options": [
+          "Seeing it compassed with armies",
+          "Seeing the temple rebuilt",
+          "Seeing rain upon the mountains",
+          "Seeing the kings bow down"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Jerusalem shall be trodden down of the {0}, until the times of the Gentiles be fulfilled.",
+        "blanks": [
+          "Gentiles"
+        ],
+        "distractors": [
+          "Romans",
+          "angels",
+          "prophets"
+        ]
+      },
+      {
+        "id": "luke-21-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "How did Jesus say the Son of man would come?",
+        "options": [
+          "In a cloud with power and great glory",
+          "In silence by night",
+          "Upon a white horse",
+          "As a snare upon the earth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "when ye see these things come to pass, know ye that the kingdom of {0} is nigh at hand.",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Israel",
+          "David",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "luke-21-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Heaven and earth shall pass away: but my {0} shall not pass away.",
+        "blanks": [
+          "words"
+        ],
+        "distractors": [
+          "works",
+          "promises",
+          "parables"
+        ]
+      },
+      {
+        "id": "luke-21-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "What did Jesus tell the disciples to do to escape the things that would come to pass?",
+        "options": [
+          "Watch always, and pray",
+          "Flee into Judaea",
+          "Rebuild the temple",
+          "Keep their gifts in the treasury"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "at night he went out, and abode in the mount that is called the mount of {0}.",
+        "blanks": [
+          "Olives"
+        ],
+        "distractors": [
+          "Beatitudes",
+          "Temptation",
+          "Figs"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "luke-22-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Satan into Judas",
+        "text": "Luke records that Satan entered into Judas Iscariot, one of the twelve, who then covenanted with the chief priests to betray Jesus for money."
+      },
+      {
+        "id": "luke-22-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And they were glad, and covenanted to give him {0}.",
+        "blanks": [
+          "money"
+        ],
+        "distractors": [
+          "bread",
+          "wine",
+          "land"
+        ]
+      },
+      {
+        "id": "luke-22-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "there shall a man meet you, bearing a {0} of water; follow him into the house where he entereth in.",
+        "blanks": [
+          "pitcher"
+        ],
+        "distractors": [
+          "basket",
+          "loaf",
+          "staff"
+        ]
+      },
+      {
+        "id": "luke-22-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "What room did Jesus say would be shown to them to make ready?",
+        "options": [
+          "A large upper room furnished",
+          "An open field",
+          "A chamber in the temple",
+          "A house by the sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What did Jesus say he had greatly desired to do before he suffered?",
+        "options": [
+          "To eat this passover with them",
+          "To return to Galilee",
+          "To go to the temple",
+          "To pray on the mount"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "I will not drink of the fruit of the {0}, until the kingdom of God shall come.",
+        "blanks": [
+          "vine"
+        ],
+        "distractors": [
+          "field",
+          "olive",
+          "fig"
+        ]
+      },
+      {
+        "id": "luke-22-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "This is my body which is given for you: this do in {0} of me.",
+        "blanks": [
+          "remembrance"
+        ],
+        "distractors": [
+          "honour",
+          "praise",
+          "worship"
+        ]
+      },
+      {
+        "id": "luke-22-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "The cup",
+            "right": "The new testament in his blood"
+          },
+          {
+            "left": "The bread",
+            "right": "His body given for you"
+          },
+          {
+            "left": "The hand on the table",
+            "right": "That of him who betrayeth"
+          }
+        ]
+      },
+      {
+        "id": "luke-22-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "he that is greatest among you, let him be as the {0}; and he that is chief, as he that doth serve.",
+        "blanks": [
+          "younger"
+        ],
+        "distractors": [
+          "elder",
+          "servant",
+          "master"
+        ]
+      },
+      {
+        "id": "luke-22-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "On what would the apostles sit, judging the twelve tribes of Israel?",
+        "options": [
+          "Thrones",
+          "Temple seats",
+          "Stone altars",
+          "Synagogue benches"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Simon, Simon, behold, Satan hath desired to have you, that he may sift you as {0}:",
+        "blanks": [
+          "wheat"
+        ],
+        "distractors": [
+          "chaff",
+          "straw",
+          "ashes"
+        ]
+      },
+      {
+        "id": "luke-22-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "How many times did Jesus say Peter would deny knowing him before the cock crew?",
+        "options": [
+          "Thrice",
+          "Twice",
+          "Seven times",
+          "Once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "And they said, Lord, behold, here are two {0}. And he said unto them, It is enough.",
+        "blanks": [
+          "swords"
+        ],
+        "distractors": [
+          "purses",
+          "cloaks",
+          "shoes"
+        ]
+      },
+      {
+        "id": "luke-22-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Father, if thou be willing, remove this {0} from me: nevertheless not my will, but thine, be done.",
+        "blanks": [
+          "cup"
+        ],
+        "distractors": [
+          "bread",
+          "yoke",
+          "lamb"
+        ]
+      },
+      {
+        "id": "luke-22-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What was Jesus' sweat like as he prayed in agony?",
+        "options": [
+          "As it were great drops of blood",
+          "As morning dew",
+          "As pure water",
+          "As oil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "But Jesus said unto him, Judas, betrayest thou the Son of man with a {0}?",
+        "blanks": [
+          "kiss"
+        ],
+        "distractors": [
+          "sword",
+          "word",
+          "sign"
+        ]
+      },
+      {
+        "id": "luke-22-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "And one of them smote the servant of the high priest, and cut off his right {0}.",
+        "blanks": [
+          "ear"
+        ],
+        "distractors": [
+          "hand",
+          "cheek",
+          "arm"
+        ]
+      },
+      {
+        "id": "luke-22-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "What did Jesus do to the servant's ear?",
+        "options": [
+          "He touched his ear, and healed him",
+          "He rebuked the servant",
+          "He bade them depart",
+          "He held his peace"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-mp-60",
+        "type": "match_pairs",
+        "after_verse": 60,
+        "pairs": [
+          {
+            "left": "A certain maid",
+            "right": "Said this man was also with him"
+          },
+          {
+            "left": "Peter",
+            "right": "Denied knowing Jesus"
+          },
+          {
+            "left": "The cock",
+            "right": "Crew while Peter yet spake"
+          }
+        ]
+      },
+      {
+        "id": "luke-22-fb-62",
+        "type": "fill_blank",
+        "after_verse": 62,
+        "verse": 62,
+        "template": "And Peter went out, and wept {0}.",
+        "blanks": [
+          "bitterly"
+        ],
+        "distractors": [
+          "gladly",
+          "softly",
+          "openly"
+        ]
+      },
+      {
+        "id": "luke-22-mc-64",
+        "type": "multiple_choice",
+        "after_verse": 64,
+        "question": "What did the men do after they had blindfolded Jesus?",
+        "options": [
+          "They struck him and mocked him",
+          "They gave him bread",
+          "They let him go",
+          "They knelt before him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-67",
+        "type": "fill_blank",
+        "after_verse": 67,
+        "verse": 67,
+        "template": "Art thou the {0}? tell us. And he said unto them, If I tell you, ye will not believe:",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Master",
+          "prophet",
+          "king"
+        ]
+      },
+      {
+        "id": "luke-22-mc-70",
+        "type": "multiple_choice",
+        "after_verse": 70,
+        "question": "What did Jesus answer when asked if he was the Son of God?",
+        "options": [
+          "Ye say that I am",
+          "I am not",
+          "Ask me again",
+          "I will tell you nothing"
+        ],
+        "answer": 0
+      }
+    ],
+    "23": [
+      {
+        "id": "luke-23-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And Pilate asked him, saying, Art thou the King of the {0}?",
+        "blanks": [
+          "Jews"
+        ],
+        "distractors": [
+          "Romans",
+          "Gentiles",
+          "Prophets"
+        ]
+      },
+      {
+        "id": "luke-23-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did Pilate say to the chief priests and the people?",
+        "options": [
+          "I find no fault in this man",
+          "He must be crucified",
+          "Take him to Herod",
+          "He is guilty of sedition"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "and arrayed him in a {0} robe, and sent him again to Pilate",
+        "blanks": [
+          "gorgeous"
+        ],
+        "distractors": [
+          "purple",
+          "royal",
+          "seamless"
+        ]
+      },
+      {
+        "id": "luke-23-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "What became of Pilate and Herod that same day?",
+        "options": [
+          "They were made friends",
+          "They were at war",
+          "They both fled",
+          "They condemned each other"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "I will therefore {0} him, and release him.",
+        "blanks": [
+          "chastise"
+        ],
+        "distractors": [
+          "pardon",
+          "question",
+          "scourge"
+        ]
+      },
+      {
+        "id": "luke-23-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "saying, Away with this man, and release unto us {0}:",
+        "blanks": [
+          "Barabbas"
+        ],
+        "distractors": [
+          "Herod",
+          "Simon",
+          "Joseph"
+        ]
+      },
+      {
+        "id": "luke-23-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Why had Barabbas been cast into prison?",
+        "options": [
+          "For a sedition and for murder",
+          "For blasphemy",
+          "For theft",
+          "For perverting the nation"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "But they cried, saying, {0} him, crucify him.",
+        "blanks": [
+          "Crucify"
+        ],
+        "distractors": [
+          "Release",
+          "Scourge",
+          "Free"
+        ]
+      },
+      {
+        "id": "luke-23-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "they laid hold upon one {0}, a Cyrenian, coming out of the country",
+        "blanks": [
+          "Simon"
+        ],
+        "distractors": [
+          "Peter",
+          "Andrew",
+          "Thomas"
+        ]
+      },
+      {
+        "id": "luke-23-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Jesus tell the daughters of Jerusalem?",
+        "options": [
+          "Weep not for me, but weep for yourselves",
+          "Follow me to the cross",
+          "Fear not the soldiers",
+          "Return to your homes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "come to the place, which is called {0}, there they crucified him",
+        "blanks": [
+          "Calvary"
+        ],
+        "distractors": [
+          "Galilee",
+          "Bethany",
+          "Olivet"
+        ]
+      },
+      {
+        "id": "luke-23-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Then said Jesus, Father, {0} them; for they know not what they do.",
+        "blanks": [
+          "forgive"
+        ],
+        "distractors": [
+          "bless",
+          "hear",
+          "spare"
+        ]
+      },
+      {
+        "id": "luke-23-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "What did the rulers say as they derided Jesus?",
+        "options": [
+          "He saved others; let him save himself",
+          "He is the King of the Jews",
+          "He shall rise again",
+          "He hath done nothing amiss"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "a superscription also was written over him in letters of Greek, and Latin, and {0}",
+        "blanks": [
+          "Hebrew"
+        ],
+        "distractors": [
+          "Aramaic",
+          "Roman",
+          "Persian"
+        ]
+      },
+      {
+        "id": "luke-23-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "Railing thief",
+            "right": "Mocked Jesus to save himself and them"
+          },
+          {
+            "left": "Penitent thief",
+            "right": "Rebuked the other and feared God"
+          },
+          {
+            "left": "Soldiers",
+            "right": "Offered him vinegar"
+          }
+        ]
+      },
+      {
+        "id": "luke-23-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "To day shalt thou be with me in {0}.",
+        "blanks": [
+          "paradise"
+        ],
+        "distractors": [
+          "heaven",
+          "glory",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "luke-23-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What happened from the sixth hour until the ninth hour?",
+        "options": [
+          "There was darkness over all the earth",
+          "A great wind arose",
+          "The dead were raised",
+          "An earthquake shook the city"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "he said, Father, into thy hands I commend my {0}",
+        "blanks": [
+          "spirit"
+        ],
+        "distractors": [
+          "soul",
+          "life",
+          "body"
+        ]
+      },
+      {
+        "id": "luke-23-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "he glorified God, saying, Certainly this was a {0} man.",
+        "blanks": [
+          "righteous"
+        ],
+        "distractors": [
+          "faultless",
+          "holy",
+          "blessed"
+        ]
+      },
+      {
+        "id": "luke-23-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Who was Joseph, the man who came to Pilate?",
+        "options": [
+          "A counsellor, a good and just man",
+          "A Roman soldier",
+          "A chief priest",
+          "One of the malefactors"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "and laid it in a sepulchre that was hewn in {0}, wherein never man before was laid",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "rock",
+          "wood",
+          "clay"
+        ]
+      },
+      {
+        "id": "luke-23-mc-56",
+        "type": "multiple_choice",
+        "after_verse": 56,
+        "question": "What did the women do on the sabbath day?",
+        "options": [
+          "They rested according to the commandment",
+          "They anointed the body",
+          "They went to Galilee",
+          "They watched the tomb"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-cur-54",
+        "type": "curiosity",
+        "after_verse": 54,
+        "title": "The preparation",
+        "text": "Verse 54 notes that day was the preparation, the day before the sabbath, which is why the women rested before returning to anoint the body."
+      }
+    ],
+    "24": [
+      {
+        "id": "luke-24-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And they found the {0} rolled away from the sepulchre.",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "veil",
+          "seal",
+          "door"
+        ]
+      },
+      {
+        "id": "luke-24-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What did the two men in shining garments ask the women?",
+        "options": [
+          "Why seek ye the living among the dead?",
+          "Where have ye laid him?",
+          "Why weep ye at the tomb?",
+          "Who rolled away the stone?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "As he foretold",
+        "text": "The angels remind the women that while still in Galilee Jesus had said the Son of man must be delivered up, crucified, and rise the third day — now coming to pass."
+      },
+      {
+        "id": "luke-24-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "It was {0} Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.",
+        "blanks": [
+          "Mary"
+        ],
+        "distractors": [
+          "Martha",
+          "Joanna",
+          "Salome"
+        ]
+      },
+      {
+        "id": "luke-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How did the apostles regard the women's report of the empty tomb?",
+        "options": [
+          "As idle tales, and they believed them not",
+          "They believed at once",
+          "They ran straight to the tomb",
+          "They rebuked the women"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the {0} clothes laid by themselves, and departed, wondering in himself at that which was come to pass.",
+        "blanks": [
+          "linen"
+        ],
+        "distractors": [
+          "woollen",
+          "purple",
+          "torn"
+        ]
+      },
+      {
+        "id": "luke-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And, behold, two of them went that same day to a village called {0}, which was from Jerusalem about threescore furlongs.",
+        "blanks": [
+          "Emmaus"
+        ],
+        "distractors": [
+          "Bethany",
+          "Nain",
+          "Bethlehem"
+        ]
+      },
+      {
+        "id": "luke-24-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Why did the two disciples fail to recognize Jesus on the road?",
+        "options": [
+          "Their eyes were holden that they should not know him",
+          "It was too dark to see",
+          "He had covered his face",
+          "He spoke a strange tongue"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And the one of them, whose name was {0}, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?",
+        "blanks": [
+          "Cleopas"
+        ],
+        "distractors": [
+          "Simon",
+          "Thomas",
+          "Andrew"
+        ]
+      },
+      {
+        "id": "luke-24-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What had the disciples trusted concerning Jesus?",
+        "options": [
+          "That it had been he which should have redeemed Israel",
+          "That he would build a temple",
+          "That he would judge the nations",
+          "That he would remain in Galilee"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Where did Jesus begin as he expounded the scriptures concerning himself?",
+        "options": [
+          "At Moses and all the prophets",
+          "At the psalms only",
+          "At the law of David",
+          "At the words of Isaiah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "But they constrained him, saying, {0} with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.",
+        "blanks": [
+          "Abide"
+        ],
+        "distractors": [
+          "Return",
+          "Hasten",
+          "Depart"
+        ]
+      },
+      {
+        "id": "luke-24-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And they said one to another, Did not our {0} burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "spirit",
+          "soul",
+          "faith"
+        ]
+      },
+      {
+        "id": "luke-24-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Emmaus",
+            "right": "The village they were going to"
+          },
+          {
+            "left": "Breaking of bread",
+            "right": "How they knew him at last"
+          },
+          {
+            "left": "Simon",
+            "right": "The one the risen Lord had appeared to"
+          }
+        ]
+      },
+      {
+        "id": "luke-24-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and {0}, as ye see me have.",
+        "blanks": [
+          "bones"
+        ],
+        "distractors": [
+          "blood",
+          "breath",
+          "skin"
+        ]
+      },
+      {
+        "id": "luke-24-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "What did Jesus ask the disciples for, to show he was not a spirit?",
+        "options": [
+          "Whether they had any meat",
+          "A garment to wear",
+          "Water to drink",
+          "His staff"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "And they gave him a piece of a broiled {0}, and of an honeycomb.",
+        "blanks": [
+          "fish"
+        ],
+        "distractors": [
+          "lamb",
+          "loaf",
+          "kid"
+        ]
+      },
+      {
+        "id": "luke-24-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "In which writings did Jesus say all things written of him must be fulfilled?",
+        "options": [
+          "The law of Moses, the prophets, and the psalms",
+          "The prophets only",
+          "The law and the proverbs",
+          "The psalms and the chronicles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "And he led them out as far as to {0}, and he lifted up his hands, and blessed them.",
+        "blanks": [
+          "Bethany"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Emmaus",
+          "Galilee"
+        ]
+      },
+      {
+        "id": "luke-24-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "How did the disciples return to Jerusalem after the ascension?",
+        "options": [
+          "With great joy, worshipping him",
+          "Sad and afraid",
+          "In silence and fasting",
+          "Disputing among themselves"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

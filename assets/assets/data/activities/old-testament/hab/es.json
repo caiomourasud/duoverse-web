@@ -1,0 +1,255 @@
+{
+ "schema_version": 1,
+ "book": "hab",
+ "chapters": {
+  "1": [
+   {
+    "id": "hab-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Un profeta que discute con Dios",
+    "text": "Habacuc es inusual entre los profetas: en vez de llevar el mensaje de Dios al pueblo, lleva la queja del pueblo a Dios. Todo el libro es un diálogo de preguntas difíciles y respuestas divinas."
+   },
+   {
+    "id": "hab-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "¿A quiénes dice Jehová que levantará (Habacuc 1:6)?",
+    "options": [
+     "A los caldeos",
+     "A los egipcios",
+     "A los asirios",
+     "A los filisteos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-1-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "nación {0} e impetuosa",
+    "blanks": [
+     "feroz"
+    ],
+    "distractors": [
+     "antigua",
+     "fiel",
+     "lejana"
+    ]
+   },
+   {
+    "id": "hab-1-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Según Habacuc 1:11, ¿a qué atribuye erróneamente su poder el conquistador?",
+    "options": [
+     "A su propia sabiduría",
+     "A su dios",
+     "A su ejército",
+     "A la suerte"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-1-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "En Habacuc 1:13, ¿qué inquieta al profeta acerca de Jehová?",
+    "options": [
+     "Que calla mientras el malvado destruye al que es más justo",
+     "Que ha olvidado a Judá",
+     "Que favorece a las naciones",
+     "Que ya no habla"
+    ],
+    "answer": 0
+   }
+  ],
+  "2": [
+   {
+    "id": "hab-2-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "En Habacuc 2:2, ¿qué manda Jehová al profeta hacer con la visión?",
+    "options": [
+     "Esconderla en el templo",
+     "Escribirla y grabarla claramente en tablas",
+     "Contarla solo al rey",
+     "Callar acerca de ella"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "mas el justo por su {0} vivirá",
+    "blanks": [
+     "fe"
+    ],
+    "distractors": [
+     "obra",
+     "ley",
+     "espada"
+    ]
+   },
+   {
+    "id": "hab-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cómo se describe el deseo insaciable del soberbio en Habacuc 2:5?",
+    "options": [
+     "Ensancha su deseo como el Seol, es como la muerte que no se sacia",
+     "Pequeño como una semilla",
+     "Frío como el invierno",
+     "Ligero como el polvo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "\"El justo por su fe vivirá\"",
+    "text": "Habacuc 2:4 es una de las frases más influyentes de las Escrituras: Pablo la cita en Romanos y Gálatas, y aparece en Hebreos. Siglos después ayudó a encender la Reforma Protestante."
+   },
+   {
+    "id": "hab-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "En Habacuc 2:11, ¿qué dice el profeta que clamará contra el que edifica la ciudad con sangre?",
+    "options": [
+     "La piedra del muro",
+     "El viento",
+     "Los ríos",
+     "Las estrellas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "El quinto \"ay\" en Habacuc 2:15 es contra el que hace ¿qué a su prójimo?",
+    "options": [
+     "Roba su campo",
+     "Le da de beber y le embriaga",
+     "Levanta falso testimonio",
+     "Retiene su salario"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "Mas Jehová está en su santo {0}",
+    "blanks": [
+     "templo"
+    ],
+    "distractors": [
+     "monte",
+     "ciudad",
+     "cielo"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "hab-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Una oración puesta en música",
+    "text": "El capítulo 3 se titula \"oración del profeta Habacuc\" y lleva \"Selah\" y una nota final al jefe de los cantores — señales de que era un salmo, cantado con instrumentos de cuerda en el culto."
+   },
+   {
+    "id": "hab-3-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "En Habacuc 3:2, ¿de qué pide el profeta que Jehová se acuerde en su ira?",
+    "options": [
+     "De la misericordia",
+     "Del convenio",
+     "De los juramentos del pueblo",
+     "Del templo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Según Habacuc 3:5, ¿qué iba delante del Señor cuando venía?",
+    "options": [
+     "Un arco iris",
+     "La mortandad",
+     "Una nube de incienso",
+     "Una hueste de ángeles"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "En Habacuc 3:10, ¿cómo reaccionan los montes al ver al Señor?",
+    "options": [
+     "Cantan",
+     "Se derriten en ríos",
+     "Le vieron y temblaron",
+     "Desaparecen"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "hab-3-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Caminaste en el {0} con tus caballos",
+    "blanks": [
+     "mar"
+    ],
+    "distractors": [
+     "desierto",
+     "valle",
+     "tormenta"
+    ]
+   },
+   {
+    "id": "hab-3-mp-17",
+    "type": "match_pairs",
+    "after_verse": 17,
+    "pairs": [
+     {
+      "left": "El fruto que falta",
+      "right": "La vid"
+     },
+     {
+      "left": "El árbol que no florece",
+      "right": "La higuera"
+     },
+     {
+      "left": "La cosecha que falla",
+      "right": "El olivo"
+     }
+    ]
+   },
+   {
+    "id": "hab-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "En Habacuc 3:19, Jehová el Señor es la fortaleza del profeta y hace sus pies como los de ¿quién?",
+    "options": [
+     "Las águilas",
+     "Las ciervas",
+     "El león",
+     "El caballo"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

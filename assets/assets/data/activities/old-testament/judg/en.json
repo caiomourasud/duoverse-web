@@ -1,0 +1,1819 @@
+{
+ "schema_version": 1,
+ "book": "judg",
+ "chapters": {
+  "1": [
+   {
+    "id": "judg-1-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "No single leader",
+    "text": "Judges opens after Joshua's death: with no leader over all Israel, each tribe had to take possession of its own inheritance."
+   },
+   {
+    "id": "judg-1-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Which tribe did the Lord say should go up first against the Canaanites?",
+    "options": [
+     "Judah",
+     "Benjamin",
+     "Ephraim",
+     "Dan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did Adoni-bezek acknowledge after his thumbs were cut off?",
+    "options": [
+     "That God repaid him as he had done to other kings",
+     "That he was innocent",
+     "That Israel was needlessly cruel",
+     "That he would reign again"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Who took Kirjath-sepher and received Achsah as wife?",
+    "options": [
+     "Othniel",
+     "Caleb",
+     "Simeon",
+     "Judah"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Why did Judah fail to drive out the inhabitants of the valley?",
+    "options": [
+     "They had chariots of iron",
+     "The walls were too high",
+     "They lacked soldiers",
+     "Egypt defended them"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mp-26",
+    "type": "match_pairs",
+    "after_verse": 26,
+    "pairs": [
+     {
+      "left": "Hebron",
+      "right": "Kirjath-arba"
+     },
+     {
+      "left": "Debir",
+      "right": "Kirjath-sepher"
+     },
+     {
+      "left": "Beth-el",
+      "right": "Luz"
+     }
+    ]
+   },
+   {
+    "id": "judg-1-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "What did Israel do with the Canaanites when it grew strong, instead of driving them out?",
+    "options": [
+     "Put them to tribute",
+     "Took them to Egypt",
+     "Made them allies",
+     "Made them priests"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-34",
+    "type": "multiple_choice",
+    "after_verse": 34,
+    "question": "Which tribe did the Amorites force into the mountains, not letting them come to the valley?",
+    "options": [
+     "Dan",
+     "Judah",
+     "Levi",
+     "Reuben"
+    ],
+    "answer": 0
+   }
+  ],
+  "2": [
+   {
+    "id": "judg-2-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "What a 'judge' is",
+    "text": "In this book a 'judge' does not preside over courts: he is a deliverer raised up by God to save Israel from oppressors and to lead it."
+   },
+   {
+    "id": "judg-2-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "What did the angel of the Lord rebuke at Bochim?",
+    "options": [
+     "Israel's leagues and not throwing down the altars",
+     "Not building the temple",
+     "Leaving Egypt too soon",
+     "Asking for a king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "How old was Joshua, the servant of the Lord, when he died?",
+    "options": [
+     "110 years",
+     "90 years",
+     "70 years",
+     "120 years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "they forsook the Lord, and served Baal and {0}",
+    "blanks": [
+     "Ashtaroth"
+    ],
+    "distractors": [
+     "Dagon",
+     "Chemosh",
+     "Molech"
+    ]
+   },
+   {
+    "id": "judg-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What happened repeatedly after a judge died?",
+    "options": [
+     "The people corrupted themselves and followed other gods",
+     "The people built an altar",
+     "The people crowned a king",
+     "The people returned to Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Why did the Lord leave nations undriven-out?",
+    "options": [
+     "To prove whether Israel would keep his way",
+     "To enrich Israel",
+     "To punish Joshua",
+     "To divide the land evenly"
+    ],
+    "answer": 0
+   }
+  ],
+  "3": [
+   {
+    "id": "judg-3-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "'The land had rest'",
+    "text": "Each cycle ends with a refrain: after the judge delivers Israel, 'the land had rest' for 40 or 80 years — until the next relapse."
+   },
+   {
+    "id": "judg-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Which peoples did the Lord leave to prove Israel and teach it war?",
+    "options": [
+     "Philistines, Canaanites, Sidonians and Hivites",
+     "Egyptians and Amalekites",
+     "Babylonians and Assyrians",
+     "Edomites and Ammonites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Who was the first judge, who defeated Chushan-rishathaim?",
+    "options": [
+     "Othniel",
+     "Ehud",
+     "Shamgar",
+     "Barak"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "How many years did Israel serve Eglon king of Moab?",
+    "options": [
+     "18 years",
+     "8 years",
+     "40 years",
+     "80 years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "How did Ehud kill Eglon king of Moab?",
+    "options": [
+     "With a two-edged dagger hidden on his right thigh",
+     "With a sling",
+     "With a bow",
+     "By poisoning his wine"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Why did Eglon's servants delay before entering the parlour?",
+    "options": [
+     "They thought he was relieving himself",
+     "They heard him praying",
+     "They feared Ehud",
+     "They awaited a banquet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "Who killed six hundred Philistines with an ox goad?",
+    "options": [
+     "Shamgar",
+     "Ehud",
+     "Othniel",
+     "Barak"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "judg-4-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "The only female judge",
+    "text": "Deborah is the only woman among Israel's judges — a prophetess who judged the people under a palm tree and led the nation to victory."
+   },
+   {
+    "id": "judg-4-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "{0}, a prophetess, the wife of Lapidoth, she judged Israel",
+    "blanks": [
+     "Deborah"
+    ],
+    "distractors": [
+     "Jael",
+     "Naomi",
+     "Rachel"
+    ]
+   },
+   {
+    "id": "judg-4-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did Deborah tell Barak, who would only go to war if she went too?",
+    "options": [
+     "The honor of the victory would go to a woman",
+     "He would die in battle",
+     "The Lord would not go with him",
+     "He would lose the throne"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Whom did the Lord deliver into Barak's hand at mount Tabor?",
+    "options": [
+     "Sisera and his chariots",
+     "Eglon",
+     "Jabin himself",
+     "The Philistines"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Who hid Sisera in her tent and gave him milk?",
+    "options": [
+     "Jael",
+     "Deborah",
+     "Sisera's mother",
+     "Achsah"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "How did Jael kill Sisera while he slept?",
+    "options": [
+     "She drove a tent stake through his temple",
+     "With a sword",
+     "With a bow",
+     "With poison"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "judg-5-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "'A mother in Israel'",
+    "text": "In the song Deborah calls herself 'a mother in Israel.' Chapter 5 is poetry — one of the Bible's oldest passages — retelling the victory of chapter 4."
+   },
+   {
+    "id": "judg-5-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "What is Judges chapter 5?",
+    "options": [
+     "A song of Deborah and Barak celebrating the victory",
+     "A list of laws",
+     "A genealogy",
+     "A prayer of Sisera"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "According to the song, what brought war to Israel's gates?",
+    "options": [
+     "Choosing new gods",
+     "Famine in the land",
+     "Lack of water",
+     "The death of Joshua"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Whom does the song call to awake and utter a song?",
+    "options": [
+     "Deborah",
+     "Jael",
+     "Naomi",
+     "Rachel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "the stars in their courses fought against {0}",
+    "blanks": [
+     "Sisera"
+    ],
+    "distractors": [
+     "Jabin",
+     "Barak",
+     "Eglon"
+    ]
+   },
+   {
+    "id": "judg-5-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Whom did the angel of the Lord command to be cursed for not coming to help?",
+    "options": [
+     "Meroz",
+     "Moab",
+     "Edom",
+     "Amalek"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Who, at the song's end, looked out the window waiting for the chariot that never returned?",
+    "options": [
+     "Sisera's mother",
+     "Deborah",
+     "Jael",
+     "Jabin's daughter"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "judg-6-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "Hiding at the winepress",
+    "text": "Gideon was threshing wheat hidden in a winepress, fearing Midian, when the angel greeted him as a 'mighty man of valour.'"
+   },
+   {
+    "id": "judg-6-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Who oppressed Israel, coming like locusts to destroy the harvests?",
+    "options": [
+     "The Midianites",
+     "The Philistines",
+     "The Moabites",
+     "The Amorites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did God send to the people before raising up Gideon?",
+    "options": [
+     "A prophet to rebuke them",
+     "A plague",
+     "A destroying angel",
+     "A new king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "How did the angel of the Lord greet Gideon?",
+    "options": [
+     "'The Lord is with thee, mighty man of valour'",
+     "'Cursed be thou'",
+     "'Flee to the wilderness'",
+     "'Thou shalt be king of Israel'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What confirmed to Gideon that he spoke with the angel of the Lord?",
+    "options": [
+     "Fire rose from the rock and consumed the offering",
+     "An earthquake",
+     "A voice from heaven",
+     "A star"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What did Gideon do by night at the Lord's command?",
+    "options": [
+     "He tore down his father's altar of Baal",
+     "He built a temple",
+     "He gathered an army",
+     "He fled Ophrah"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "What did the men of the city demand on learning Gideon had torn down the altar?",
+    "options": [
+     "That he be put to death",
+     "That he be crowned",
+     "That he rebuild the altar in gold",
+     "That he leave the city"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-34",
+    "type": "multiple_choice",
+    "after_verse": 34,
+    "question": "What came upon Gideon so that he gathered the army?",
+    "options": [
+     "The Spirit of the Lord",
+     "A dream",
+     "A pillar of fire",
+     "An order from Pharaoh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "What sign did Gideon ask with the fleece of wool?",
+    "options": [
+     "The fleece wet and the ground dry, then the reverse",
+     "That fire would rain",
+     "That the sun would stand still",
+     "That water would turn to blood"
+    ],
+    "answer": 0
+   }
+  ],
+  "7": [
+   {
+    "id": "judg-7-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "300 against a multitude",
+    "text": "From 32,000 men God reduced Gideon's army to just 300 — so the victory would clearly be his, not Israel's strength."
+   },
+   {
+    "id": "judg-7-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Why did the Lord have Gideon reduce the army?",
+    "options": [
+     "So Israel could not vaunt that its own hand had saved it",
+     "Because food was lacking",
+     "Because the men were cowards",
+     "To save weapons"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "How were the 300 men chosen?",
+    "options": [
+     "They were those who lapped the water with the hand",
+     "They were the tallest",
+     "They were chosen by lot",
+     "They were the oldest"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "What dream of a Midianite encouraged Gideon?",
+    "options": [
+     "A cake of barley bread that overturned the tent",
+     "A roaring lion",
+     "A drying river",
+     "A falling star"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "With what did the 300 attack the camp of Midian?",
+    "options": [
+     "Trumpets and pitchers with torches inside",
+     "Swords and shields",
+     "Bows and arrows",
+     "Chariots of iron"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Which princes of Midian were slain in the pursuit?",
+    "options": [
+     "Oreb and Zeeb",
+     "Zebah and Zalmunna",
+     "Sisera and Jabin",
+     "Gog and Magog"
+    ],
+    "answer": 0
+   }
+  ],
+  "8": [
+   {
+    "id": "judg-8-cur-23",
+    "type": "curiosity",
+    "after_verse": 23,
+    "title": "Gideon refuses the throne",
+    "text": "Gideon refused to be king, saying only the Lord should rule over Israel — yet the golden ephod he made ended up leading the people astray."
+   },
+   {
+    "id": "judg-8-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Which tribe complained at not being called to the battle against Midian?",
+    "options": [
+     "Ephraim",
+     "Judah",
+     "Dan",
+     "Benjamin"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did the men of Succoth deny Gideon's weary soldiers?",
+    "options": [
+     "Bread",
+     "Water",
+     "Weapons",
+     "Horses"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Which two kings of Midian did Gideon capture?",
+    "options": [
+     "Zebah and Zalmunna",
+     "Oreb and Zeeb",
+     "Sisera and Jabin",
+     "Gog and Magog"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What did Gideon do to Succoth and Penuel?",
+    "options": [
+     "He punished them for refusing help",
+     "He rewarded them with gold",
+     "He made them cities of refuge",
+     "He ignored them"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What did Gideon answer when they wanted to make him king?",
+    "options": [
+     "'I will not rule, nor my son; the Lord shall rule over you'",
+     "'I gladly accept'",
+     "'Crown my son'",
+     "'Only if there is war'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "What did Gideon make from the spoil's gold, which became a snare to Israel?",
+    "options": [
+     "An ephod",
+     "A golden calf",
+     "A sword",
+     "A throne"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "How long did the land have rest in Gideon's days?",
+    "options": [
+     "Forty years",
+     "Eighty years",
+     "Twenty years",
+     "Seven years"
+    ],
+    "answer": 0
+   }
+  ],
+  "9": [
+   {
+    "id": "judg-9-cur-53",
+    "type": "curiosity",
+    "after_verse": 53,
+    "title": "Killed by a millstone",
+    "text": "Abimelech died when a woman cast a piece of a millstone on his head; wounded, he asked his armourbearer to kill him, so none could say a woman slew him."
+   },
+   {
+    "id": "judg-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What did Abimelech do to his seventy brothers to become king?",
+    "options": [
+     "He killed them on one stone",
+     "He drove them from Shechem",
+     "He bought their silence",
+     "He made them his servants"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "In Jotham's parable, what were the trees seeking?",
+    "options": [
+     "A king to reign over them",
+     "Water for the drought",
+     "A place to grow",
+     "Protection from fire"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Jotham's parable, which plant agreed to reign over the trees?",
+    "options": [
+     "The bramble",
+     "The olive tree",
+     "The fig tree",
+     "The vine"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What did Jotham wish, in his curse, between Abimelech and the men of Shechem?",
+    "options": [
+     "That fire would come out and consume them mutually",
+     "That they would have long peace",
+     "That they would grow rich together",
+     "That they would reign forever"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "How long did Abimelech rule over Israel?",
+    "options": [
+     "Three years",
+     "Forty years",
+     "Seven years",
+     "Twenty years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Who rose up in Shechem and defied Abimelech?",
+    "options": [
+     "Gaal the son of Ebed",
+     "Jotham",
+     "Zebul",
+     "Tola"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "Who warned Abimelech of Gaal's revolt in Shechem?",
+    "options": [
+     "Zebul",
+     "Jotham",
+     "Gideon",
+     "Joash"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "What did Zebul tell Gaal about what he saw coming down the mountains?",
+    "options": [
+     "That they were men coming down to battle",
+     "That they were shadows of the mountains",
+     "That it was a storm",
+     "That they were flocks"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "judg-9-mc-41",
+    "type": "multiple_choice",
+    "after_verse": 41,
+    "question": "What happened to Gaal after the battle?",
+    "options": [
+     "He was driven out of Shechem",
+     "He became king",
+     "He made peace with Abimelech",
+     "He fled to Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-47",
+    "type": "multiple_choice",
+    "after_verse": 47,
+    "question": "How did those who took refuge in the tower of Shechem die?",
+    "options": [
+     "Abimelech burned the tower over them",
+     "They surrendered in peace",
+     "They escaped by night",
+     "They were led captive"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-52",
+    "type": "multiple_choice",
+    "after_verse": 52,
+    "question": "To which tower did Abimelech go to attack next, where he would meet his death?",
+    "options": [
+     "Thebez",
+     "Shechem",
+     "Ophrah",
+     "Succoth"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-56",
+    "type": "multiple_choice",
+    "after_verse": 56,
+    "question": "How does the book sum up Abimelech's death?",
+    "options": [
+     "God requited the wickedness he did to his brothers",
+     "It was a senseless accident",
+     "He died of old age",
+     "He was betrayed by Jotham"
+    ],
+    "answer": 0
+   }
+  ],
+  "10": [
+   {
+    "id": "judg-10-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "The minor judges",
+    "text": "Tola and Jair are 'minor judges,' told in only a few verses. Jair had thirty sons and thirty cities, called Havoth-jair."
+   },
+   {
+    "id": "judg-10-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Which judges are named at the start of chapter 10?",
+    "options": [
+     "Tola and Jair",
+     "Othniel and Ehud",
+     "Shamgar and Barak",
+     "Deborah and Gideon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Israel's idolatry led to oppression by which peoples in this chapter?",
+    "options": [
+     "Philistines and Ammonites",
+     "Egyptians and Edomites",
+     "Babylonians and Assyrians",
+     "Canaanites and Hivites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What did the Lord answer, with irony, when Israel cried out again?",
+    "options": [
+     "'Go and cry unto the gods which ye have chosen'",
+     "'I will save you at once'",
+     "'Build a temple'",
+     "'Choose a king'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What did Israel do before the Lord's soul was grieved for their misery?",
+    "options": [
+     "It put away the strange gods and served the Lord",
+     "It offered gold",
+     "It fled to the wilderness",
+     "It crowned a king"
+    ],
+    "answer": 0
+   }
+  ],
+  "11": [
+   {
+    "id": "judg-11-cur-34",
+    "type": "curiosity",
+    "after_verse": 34,
+    "title": "A rash vow",
+    "text": "Jephthah promised to offer whatever first came out of his house when he returned in victory — and it was his only daughter who came out to meet him with timbrels."
+   },
+   {
+    "id": "judg-11-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Why did Jephthah's brothers drive him from home?",
+    "options": [
+     "Because he was the son of another woman",
+     "Because he was a coward",
+     "Because he worshiped idols",
+     "Because he stole cattle"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did the elders of Gilead ask of Jephthah?",
+    "options": [
+     "To be their head in war against the Ammonites",
+     "To give them gold",
+     "To build an altar",
+     "To flee with them"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What did Jephthah do before warring against the Ammonites?",
+    "options": [
+     "He sent messengers trying to settle it in peace",
+     "He attacked by surprise",
+     "He asked Egypt for help",
+     "He fled to the wilderness"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "According to Jephthah, whose land had Israel taken when it left Egypt?",
+    "options": [
+     "The Amorites'",
+     "Moab's",
+     "Edom's",
+     "The Philistines'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What argument of time did Jephthah use against the Ammonites?",
+    "options": [
+     "That Israel had dwelt in the land three hundred years",
+     "That the war would last seven years",
+     "That he would make peace forty years",
+     "That he would wait ten years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "What vow did Jephthah make to the Lord before the battle?",
+    "options": [
+     "To offer whatever first came out of his house to meet him",
+     "To build a temple",
+     "To fast forty days",
+     "To free all slaves"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "Who came out first to meet Jephthah, tragically fulfilling the vow?",
+    "options": [
+     "His only daughter",
+     "His servant",
+     "His brother",
+     "A lamb"
+    ],
+    "answer": 0
+   }
+  ],
+  "12": [
+   {
+    "id": "judg-12-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "The password 'Shibboleth'",
+    "text": "The Ephraimites could not make the 'sh' sound and said 'Sibboleth' instead of 'Shibboleth' — which exposed them at the fords of the Jordan."
+   },
+   {
+    "id": "judg-12-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What word did the Gileadites use to identify the fleeing Ephraimites?",
+    "options": [
+     "'Shibboleth'",
+     "'Amen'",
+     "'Israel'",
+     "'Gilead'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-12-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Who judged Israel after Jephthah?",
+    "options": [
+     "Ibzan",
+     "Samson",
+     "Eli",
+     "Othniel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-12-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Elon and Abdon, named at the chapter's end, were what?",
+    "options": [
+     "Minor judges of Israel",
+     "Kings of the Philistines",
+     "Prophets",
+     "Priests"
+    ],
+    "answer": 0
+   }
+  ],
+  "13": [
+   {
+    "id": "judg-13-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "The Nazarite vow",
+    "text": "Samson was to be a Nazarite from the womb: no wine, no touching anything unclean, and no cutting his hair — an outward sign of his consecration to God."
+   },
+   {
+    "id": "judg-13-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Who oppressed Israel for forty years when the angel announced Samson?",
+    "options": [
+     "The Philistines",
+     "The Midianites",
+     "The Ammonites",
+     "The Moabites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What rule would govern the boy's life, according to the angel?",
+    "options": [
+     "He would be a Nazarite: no wine and no razor on his hair",
+     "He would be a priest in the temple",
+     "He would be king of Israel",
+     "He would live in the desert"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "What did Manoah ask of the Lord after the announcement?",
+    "options": [
+     "That the angel return to teach them to raise the boy",
+     "Riches for the family",
+     "A sign of fire",
+     "That the son be born a king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What did the angel answer when Manoah asked his name?",
+    "options": [
+     "That his name was wonderful (secret)",
+     "That he was called Gabriel",
+     "That he had no name",
+     "That he was the Lord himself"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "What name was given to the boy who would begin to deliver Israel?",
+    "options": [
+     "Samson",
+     "Jephthah",
+     "Gideon",
+     "Samuel"
+    ],
+    "answer": 0
+   }
+  ],
+  "14": [
+   {
+    "id": "judg-14-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "The lion and the honey",
+    "text": "Samson killed a lion with his bare hands; later he found a swarm of bees and honey in its carcass — which inspired his wedding riddle."
+   },
+   {
+    "id": "judg-14-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "What did Samson ask of his parents when he went down to Timnath?",
+    "options": [
+     "A Philistine wife",
+     "An army",
+     "A field of wheat",
+     "A horse"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did Samson find in the carcass of the lion he had killed?",
+    "options": [
+     "A swarm of bees and honey",
+     "Gold",
+     "A sword",
+     "The bones of other men"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "What riddle did Samson pose at the feast?",
+    "options": [
+     "'Out of the eater came forth meat, and out of the strong came sweetness'",
+     "'Who am I?'",
+     "'How many stars are there?'",
+     "'What flies without wings?'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "How did the Philistines learn the answer to the riddle?",
+    "options": [
+     "They pressed Samson's wife to draw it out of him",
+     "They bribed a servant",
+     "They guessed on their own",
+     "They read it in a book"
+    ],
+    "answer": 0
+   }
+  ],
+  "15": [
+   {
+    "id": "judg-15-cur-19",
+    "type": "curiosity",
+    "after_verse": 19,
+    "title": "Thirst after victory",
+    "text": "After killing a thousand Philistines, Samson nearly died of thirst; God opened a spring of water, and the place was called En-hakkore, 'the spring of him that cried.'"
+   },
+   {
+    "id": "judg-15-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "How did Samson destroy the Philistines' crops?",
+    "options": [
+     "He loosed foxes with torches tied to their tails",
+     "He burned the houses",
+     "He blocked the rivers",
+     "He stole the seed"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did the Philistines do to Samson's wife and her father in revenge?",
+    "options": [
+     "They burned them",
+     "They took them captive",
+     "They gave them gold",
+     "They drove them from the city"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "What did the men of Judah do to Samson to hand him over to the Philistines?",
+    "options": [
+     "They bound him with new cords",
+     "They blinded him",
+     "They hid him in a cave",
+     "They crowned him king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "With what did Samson kill a thousand Philistines?",
+    "options": [
+     "The jawbone of an ass",
+     "A sword",
+     "A bow",
+     "A sling"
+    ],
+    "answer": 0
+   }
+  ],
+  "16": [
+   {
+    "id": "judg-16-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "The hair that grew back",
+    "text": "In prison, blind, Samson's hair began to grow again — and God gave him strength one last time for his avenging death."
+   },
+   {
+    "id": "judg-16-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What did Samson do with the gates of the city of Gaza?",
+    "options": [
+     "He tore them off and carried them to the top of a hill",
+     "He burned them",
+     "He barred them from inside",
+     "He sold them"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did the Philistine lords ask of Delilah?",
+    "options": [
+     "To find out the secret of Samson's strength",
+     "To kill him in his sleep",
+     "To take him to Gaza",
+     "To marry him"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "How many times did Samson deceive Delilah before revealing the secret?",
+    "options": [
+     "Three times",
+     "Once",
+     "Seven times",
+     "Ten times"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What was the secret of Samson's strength?",
+    "options": [
+     "His never-cut hair, the sign of the Nazarite vow",
+     "A magic ring",
+     "His sword",
+     "A secret pact"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Where did the Philistines gather to celebrate Samson's capture?",
+    "options": [
+     "In the temple of Dagon",
+     "In the king's palace",
+     "In a square of Gaza",
+     "In the desert"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "How did Samson kill more Philistines in his death than in his life?",
+    "options": [
+     "By pulling down the temple's pillars upon them all",
+     "By setting the temple on fire",
+     "With the jawbone again",
+     "By calling an army"
+    ],
+    "answer": 0
+   }
+  ],
+  "17": [
+   {
+    "id": "judg-17-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "'Every man did what he wanted'",
+    "text": "The refrain 'there was no king in Israel; every man did that which was right in his own eyes' sums up the whole appendix of the book (chapters 17–21)."
+   },
+   {
+    "id": "judg-17-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "What did Micah do with the silver he returned to his mother?",
+    "options": [
+     "He had a graven image made",
+     "He bought a field",
+     "He gave it to the temple",
+     "He gave it to the poor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-17-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What phrase sums up this disordered period of Israel?",
+    "options": [
+     "'There was no king in Israel; every man did what was right in his own eyes'",
+     "'The Lord is our king'",
+     "'Holy, holy, holy'",
+     "'The land had rest'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-17-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Whom did Micah hire to be the priest of his private shrine?",
+    "options": [
+     "A young Levite",
+     "A prophet of Baal",
+     "His own son",
+     "A foreign king"
+    ],
+    "answer": 0
+   }
+  ],
+  "18": [
+   {
+    "id": "judg-18-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The landless tribe",
+    "text": "Dan had not yet taken possession of its inheritance; so it sent spies looking for a land to conquer."
+   },
+   {
+    "id": "judg-18-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What was the tribe of Dan seeking in this chapter?",
+    "options": [
+     "A land for an inheritance",
+     "Gold and silver",
+     "An alliance with the Philistines",
+     "A new judge"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did Dan's spies find at Micah's house?",
+    "options": [
+     "A Levite as priest and the idols",
+     "A hidden treasure",
+     "An army",
+     "A prophet of the Lord"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "How did the spies describe the city of Laish?",
+    "options": [
+     "A quiet, unsuspecting people",
+     "An impregnable fortress",
+     "A city already in ruins",
+     "An ally of the Philistines"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What did Dan's 600 men carry off from Micah's house?",
+    "options": [
+     "The image, the ephod and the Levite",
+     "Only food",
+     "The flocks",
+     "Nothing"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "What did Micah do when he pursued the Danites who robbed him?",
+    "options": [
+     "He went home, for they were too strong",
+     "He recovered the idols",
+     "He summoned an army",
+     "He burned their camp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "What did the Danites do with Laish?",
+    "options": [
+     "They took it, burned it and called it Dan",
+     "They made an alliance with it",
+     "They left it in peace",
+     "They sold it to Egypt"
+    ],
+    "answer": 0
+   }
+  ],
+  "19": [
+   {
+    "id": "judg-19-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "No king, no law",
+    "text": "This dark account opens again with 'in those days there was no king in Israel,' showing the moral collapse when every man did as he pleased."
+   },
+   {
+    "id": "judg-19-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Where did the Levite go to bring back his concubine?",
+    "options": [
+     "From Beth-lehem-judah",
+     "From Gibeah",
+     "From Shiloh",
+     "From Jericho"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did the father-in-law do to detain the Levite in Beth-lehem?",
+    "options": [
+     "He urged them to stay another day",
+     "He hid their animals",
+     "He locked the gates",
+     "He demanded money"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Why did the Levite refuse to lodge in Jebus (Jerusalem)?",
+    "options": [
+     "Because it was a city of strangers, not of Israelites",
+     "Because it was too far",
+     "Because it had no market",
+     "Because it was at war"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Who took the Levite in at the street of Gibeah when no one received him?",
+    "options": [
+     "An old man",
+     "The city's king",
+     "A priest",
+     "A soldier"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What happened that night in Gibeah?",
+    "options": [
+     "Wicked men surrounded the house and committed a great evil",
+     "There was a feast of peace",
+     "A fire destroyed the city",
+     "The Levite was crowned"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "What did the Levite do to call all Israel to justice?",
+    "options": [
+     "He divided the body and sent the parts to the tribes",
+     "He wrote a letter to the king",
+     "He built an altar",
+     "He fled to the wilderness"
+    ],
+    "answer": 0
+   }
+  ],
+  "20": [
+   {
+    "id": "judg-20-cur-28",
+    "type": "curiosity",
+    "after_verse": 28,
+    "title": "Inquiring of the Lord at Beth-el",
+    "text": "After two defeats, Israel fasted and inquired of the Lord before the ark at Beth-el, where Phinehas served — only then came the victory."
+   },
+   {
+    "id": "judg-20-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Where did all Israel gather over the crime of Gibeah?",
+    "options": [
+     "At Mizpah",
+     "At Shiloh",
+     "At Beth-lehem",
+     "At Jericho"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did Israel demand of the tribe of Benjamin?",
+    "options": [
+     "To hand over the wicked men of Gibeah",
+     "To pay a tribute",
+     "To choose a king",
+     "To leave the land"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What did Benjamin do instead of handing over the guilty?",
+    "options": [
+     "It gathered for war against Israel",
+     "It fled to Moab",
+     "It begged forgiveness",
+     "It gave up another city"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What happened on the first day of battle?",
+    "options": [
+     "Benjamin defeated Israel",
+     "Israel won easily",
+     "There was no fight",
+     "Both sides made peace"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "And on the second day of battle against Benjamin?",
+    "options": [
+     "Israel was defeated again",
+     "Israel won",
+     "Benjamin surrendered",
+     "There was a truce"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "What did Israel do after two defeats in a row?",
+    "options": [
+     "It fasted and inquired of the Lord at Beth-el",
+     "It gave up the war",
+     "It changed generals",
+     "It withdrew to Mizpah"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "What strategy did Israel use on the third day?",
+    "options": [
+     "It set an ambush around Gibeah",
+     "It attacked head-on",
+     "It besieged the city by famine",
+     "It burned the fields"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "What was the agreed signal of the ambush against Gibeah?",
+    "options": [
+     "A pillar of smoke rising from the city",
+     "A trumpet blast",
+     "A war cry",
+     "A white flag"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "What happened to the army of Benjamin?",
+    "options": [
+     "It was almost entirely destroyed",
+     "It escaped intact",
+     "It won again",
+     "It surrendered without loss"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-47",
+    "type": "multiple_choice",
+    "after_verse": 47,
+    "question": "How many Benjamites escaped to the rock of Rimmon?",
+    "options": [
+     "Six hundred men",
+     "Sixty men",
+     "Six thousand men",
+     "Ten thousand men"
+    ],
+    "answer": 0
+   }
+  ],
+  "21": [
+   {
+    "id": "judg-21-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Saving a tribe",
+    "text": "Israel had sworn not to give its daughters to Benjamin; so the tribe wouldn't vanish, it had to find a way to provide wives for the 600 survivors."
+   },
+   {
+    "id": "judg-21-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What problem arose after the war against Benjamin?",
+    "options": [
+     "The tribe nearly vanished and Israel had sworn not to give them their daughters",
+     "Famine struck the land",
+     "The Philistines attacked",
+     "There were no more judges"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What did Israel do with Jabesh-gilead, which had not joined the army?",
+    "options": [
+     "It took young women from it as wives for Benjamin",
+     "It rewarded it with gold",
+     "It made it the capital",
+     "It left it in peace"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What did the surviving Benjamites still lack?",
+    "options": [
+     "Enough wives",
+     "Weapons",
+     "Land",
+     "A king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What solution did they find at the yearly feast of Shiloh?",
+    "options": [
+     "The Benjamites would seize girls who danced at the feast",
+     "They would buy wives in Egypt",
+     "They would cast lots",
+     "They would wait ten years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "How does the book of Judges end?",
+    "options": [
+     "'There was no king in Israel; every man did what was right in his own eyes'",
+     "'And they lived happily ever after'",
+     "'The land had rest'",
+     "'Thus began the kingdom'"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

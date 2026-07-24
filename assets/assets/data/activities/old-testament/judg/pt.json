@@ -1,0 +1,1819 @@
+{
+ "schema_version": 1,
+ "book": "judg",
+ "chapters": {
+  "1": [
+   {
+    "id": "judg-1-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Sem um líder único",
+    "text": "Juízes começa após a morte de Josué: sem um líder sobre todo o Israel, cada tribo devia tomar posse da sua herança."
+   },
+   {
+    "id": "judg-1-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Qual tribo o Senhor disse que subiria primeiro contra os cananeus?",
+    "options": [
+     "Judá",
+     "Benjamim",
+     "Efraim",
+     "Dã"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que Adoni-Bezeque reconheceu após lhe cortarem os polegares?",
+    "options": [
+     "Que Deus lhe pagou como ele fizera a outros reis",
+     "Que era inocente",
+     "Que os israelitas eram cruéis sem razão",
+     "Que voltaria a reinar"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Quem tomou Quiriate-Sefer e recebeu Acsa por esposa?",
+    "options": [
+     "Otniel",
+     "Calebe",
+     "Simeão",
+     "Judá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Por que Judá não expulsou os moradores do vale?",
+    "options": [
+     "Eles tinham carros de ferro",
+     "As muralhas eram altas demais",
+     "Faltavam soldados",
+     "O Egito os defendia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mp-26",
+    "type": "match_pairs",
+    "after_verse": 26,
+    "pairs": [
+     {
+      "left": "Hebrom",
+      "right": "Quiriate-Arba"
+     },
+     {
+      "left": "Debir",
+      "right": "Quiriate-Sefer"
+     },
+     {
+      "left": "Betel",
+      "right": "Luz"
+     }
+    ]
+   },
+   {
+    "id": "judg-1-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "O que Israel fez com os cananeus quando se tornou mais forte, em vez de expulsá-los?",
+    "options": [
+     "Tornou-os tributários",
+     "Levou-os ao Egito",
+     "Fez deles aliados",
+     "Fez deles sacerdotes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-1-mc-34",
+    "type": "multiple_choice",
+    "after_verse": 34,
+    "question": "Qual tribo os amorreus forçaram a ficar nas montanhas, sem descer ao vale?",
+    "options": [
+     "Dã",
+     "Judá",
+     "Levi",
+     "Rúben"
+    ],
+    "answer": 0
+   }
+  ],
+  "2": [
+   {
+    "id": "judg-2-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "O que é um 'juiz'",
+    "text": "No livro, um 'juiz' não preside tribunais: é um libertador levantado por Deus para salvar Israel dos opressores e liderá-lo."
+   },
+   {
+    "id": "judg-2-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "O que o anjo do Senhor repreendeu em Boquim?",
+    "options": [
+     "Israel ter feito alianças e não derrubado os altares",
+     "Israel não ter construído o templo",
+     "Israel ter deixado o Egito cedo demais",
+     "Israel ter pedido um rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Com que idade morreu Josué, servo do Senhor?",
+    "options": [
+     "110 anos",
+     "90 anos",
+     "70 anos",
+     "120 anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "deixaram ao Senhor e serviram a Baal e a {0}",
+    "blanks": [
+     "Astarote"
+    ],
+    "distractors": [
+     "Dagom",
+     "Quemós",
+     "Moloque"
+    ]
+   },
+   {
+    "id": "judg-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "O que acontecia repetidamente depois que um juiz morria?",
+    "options": [
+     "O povo se corrompia e seguia outros deuses",
+     "O povo construía um altar",
+     "O povo coroava um rei",
+     "O povo voltava ao Egito"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-2-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Por que o Senhor deixou nações sem as expulsar?",
+    "options": [
+     "Para provar se Israel guardaria o seu caminho",
+     "Para enriquecer Israel",
+     "Para punir Josué",
+     "Para dividir a terra igualmente"
+    ],
+    "answer": 0
+   }
+  ],
+  "3": [
+   {
+    "id": "judg-3-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "'A terra teve descanso'",
+    "text": "Cada ciclo termina com uma fórmula: depois do juiz libertar Israel, 'a terra sossegou' por 40 ou 80 anos — até a próxima recaída."
+   },
+   {
+    "id": "judg-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Quais povos o Senhor deixou para provar Israel e ensiná-lo a guerrear?",
+    "options": [
+     "Filisteus, cananeus, sidônios e heveus",
+     "Egípcios e amalequitas",
+     "Babilônios e assírios",
+     "Edomitas e amonitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quem foi o primeiro juiz, que venceu Cusã-Risataim?",
+    "options": [
+     "Otniel",
+     "Eúde",
+     "Sangar",
+     "Baraque"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Por quantos anos Israel serviu a Eglom, rei de Moabe?",
+    "options": [
+     "18 anos",
+     "8 anos",
+     "40 anos",
+     "80 anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Como Eúde matou Eglom, rei de Moabe?",
+    "options": [
+     "Com uma espada de dois fios escondida na coxa direita",
+     "Com uma funda",
+     "Com um arco",
+     "Envenenando o seu vinho"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Por que os servos de Eglom demoraram a entrar na sala?",
+    "options": [
+     "Pensaram que ele estava fazendo suas necessidades",
+     "Ouviram-no orando",
+     "Temiam Eúde",
+     "Aguardavam um banquete"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-3-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "Quem matou seiscentos filisteus com uma aguilhada de bois?",
+    "options": [
+     "Sangar",
+     "Eúde",
+     "Otniel",
+     "Baraque"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "judg-4-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "A única juíza",
+    "text": "Débora é a única mulher entre os juízes de Israel — profetisa que julgava o povo sob uma palmeira e guiou a nação à vitória."
+   },
+   {
+    "id": "judg-4-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "{0}, mulher profetisa, mulher de Lapidote, julgava Israel",
+    "blanks": [
+     "Débora"
+    ],
+    "distractors": [
+     "Jael",
+     "Noemi",
+     "Raquel"
+    ]
+   },
+   {
+    "id": "judg-4-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que Débora disse a Baraque, que só iria à guerra se ela fosse junto?",
+    "options": [
+     "A honra da vitória caberia a uma mulher",
+     "Ele morreria na batalha",
+     "O Senhor não iria com ele",
+     "Ele perderia o trono"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Quem o Senhor entregou na mão de Baraque no monte Tabor?",
+    "options": [
+     "Sísera e seus carros",
+     "Eglom",
+     "Jabim em pessoa",
+     "Os filisteus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Quem escondeu Sísera em sua tenda e lhe deu leite?",
+    "options": [
+     "Jael",
+     "Débora",
+     "A mãe de Sísera",
+     "Acsa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-4-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Como Jael matou Sísera enquanto ele dormia?",
+    "options": [
+     "Cravou-lhe uma estaca na têmpora",
+     "Com uma espada",
+     "Com um arco",
+     "Com veneno"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "judg-5-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "'Mãe em Israel'",
+    "text": "No cântico, Débora se chama 'mãe em Israel'. O capítulo 5 é poesia — uma das passagens mais antigas da Bíblia — recontando a vitória do capítulo 4."
+   },
+   {
+    "id": "judg-5-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "O que é o capítulo 5 de Juízes?",
+    "options": [
+     "Um cântico de Débora e Baraque celebrando a vitória",
+     "Uma lista de leis",
+     "Uma genealogia",
+     "Uma oração de Sísera"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Segundo o cântico, o que trouxe a guerra às portas de Israel?",
+    "options": [
+     "Escolherem deuses novos",
+     "A fome na terra",
+     "A falta de água",
+     "A morte de Josué"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Quem o cântico convoca a despertar e entoar um cântico?",
+    "options": [
+     "Débora",
+     "Jael",
+     "Noemi",
+     "Raquel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "até as estrelas desde os seus cursos pelejaram contra {0}",
+    "blanks": [
+     "Sísera"
+    ],
+    "distractors": [
+     "Jabim",
+     "Baraque",
+     "Eglom"
+    ]
+   },
+   {
+    "id": "judg-5-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Quem o anjo do Senhor mandou amaldiçoar por não virem ajudar?",
+    "options": [
+     "Meroz",
+     "Moabe",
+     "Edom",
+     "Amaleque"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-5-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Quem, no fim do cântico, olhava pela janela esperando o carro que não voltava?",
+    "options": [
+     "A mãe de Sísera",
+     "Débora",
+     "Jael",
+     "A filha de Jabim"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "judg-6-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "Escondido no lagar",
+    "text": "Gideão estava malhando trigo escondido num lagar, com medo de Midiã, quando o anjo o saudou como 'homem valoroso'."
+   },
+   {
+    "id": "judg-6-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Quem oprimia Israel, vindo como gafanhotos destruir as colheitas?",
+    "options": [
+     "Os midianitas",
+     "Os filisteus",
+     "Os moabitas",
+     "Os amorreus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que Deus enviou ao povo antes de levantar Gideão?",
+    "options": [
+     "Um profeta para repreendê-los",
+     "Uma praga",
+     "Um anjo exterminador",
+     "Um novo rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Como o anjo do Senhor saudou Gideão?",
+    "options": [
+     "'O Senhor é contigo, homem valoroso'",
+     "'Maldito sejas'",
+     "'Foge para o deserto'",
+     "'Serás rei de Israel'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "O que confirmou a Gideão que falava com o anjo do Senhor?",
+    "options": [
+     "Fogo subiu da rocha e consumiu a oferta",
+     "Um terremoto",
+     "Uma voz do céu",
+     "Uma estrela"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "O que Gideão fez de noite, por ordem do Senhor?",
+    "options": [
+     "Derrubou o altar de Baal de seu pai",
+     "Construiu um templo",
+     "Reuniu um exército",
+     "Fugiu de Ofra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "O que os homens da cidade exigiram ao saber que Gideão derrubara o altar?",
+    "options": [
+     "Que ele fosse morto",
+     "Que ele fosse coroado",
+     "Que reconstruísse o altar em ouro",
+     "Que deixasse a cidade"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-34",
+    "type": "multiple_choice",
+    "after_verse": 34,
+    "question": "O que veio sobre Gideão para que reunisse o exército?",
+    "options": [
+     "O Espírito do Senhor",
+     "Um sonho",
+     "Uma coluna de fogo",
+     "Uma ordem do faraó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-6-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "Que sinal Gideão pediu com o velo de lã?",
+    "options": [
+     "A lã molhada e o chão seco, depois o contrário",
+     "Que chovesse fogo",
+     "Que o sol parasse",
+     "Que a água virasse sangue"
+    ],
+    "answer": 0
+   }
+  ],
+  "7": [
+   {
+    "id": "judg-7-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "300 contra uma multidão",
+    "text": "De 32 mil homens, Deus reduziu o exército de Gideão a apenas 300 — para que a vitória fosse claramente d'Ele, e não da força de Israel."
+   },
+   {
+    "id": "judg-7-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Por que o Senhor mandou Gideão reduzir o exército?",
+    "options": [
+     "Para que Israel não se gloriasse de ter vencido pela própria mão",
+     "Porque faltava comida",
+     "Porque os homens eram covardes",
+     "Para poupar armas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Como foram escolhidos os 300 homens?",
+    "options": [
+     "Foram os que lamberam a água com a mão",
+     "Foram os mais altos",
+     "Foram escolhidos por sorteio",
+     "Foram os mais velhos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Que sonho de um midianita encorajou Gideão?",
+    "options": [
+     "Um pão de cevada que derrubava a tenda",
+     "Um leão que rugia",
+     "Um rio que secava",
+     "Uma estrela que caía"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Com o que os 300 atacaram o acampamento de Midiã?",
+    "options": [
+     "Trombetas e cântaros com tochas dentro",
+     "Espadas e escudos",
+     "Arcos e flechas",
+     "Carros de ferro"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-7-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Quais príncipes de Midiã foram mortos na perseguição?",
+    "options": [
+     "Orebe e Zeebe",
+     "Zeba e Zalmona",
+     "Sísera e Jabim",
+     "Gogue e Magogue"
+    ],
+    "answer": 0
+   }
+  ],
+  "8": [
+   {
+    "id": "judg-8-cur-23",
+    "type": "curiosity",
+    "after_verse": 23,
+    "title": "Gideão recusa o trono",
+    "text": "Gideão recusou ser rei, dizendo que só o Senhor deveria reinar sobre Israel — mas o éfode de ouro que fez acabou desviando o povo."
+   },
+   {
+    "id": "judg-8-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Qual tribo reclamou por não ter sido chamada para a batalha contra Midiã?",
+    "options": [
+     "Efraim",
+     "Judá",
+     "Dã",
+     "Benjamim"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que os homens de Sucote negaram aos soldados cansados de Gideão?",
+    "options": [
+     "Pão",
+     "Água",
+     "Armas",
+     "Cavalos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Quais dois reis de Midiã Gideão capturou?",
+    "options": [
+     "Zeba e Zalmona",
+     "Orebe e Zeebe",
+     "Sísera e Jabim",
+     "Gogue e Magogue"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "O que Gideão fez com Sucote e Penuel?",
+    "options": [
+     "Castigou-os por terem recusado ajuda",
+     "Premiou-os com ouro",
+     "Fez deles cidades de refúgio",
+     "Ignorou-os"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que Gideão respondeu quando quiseram fazê-lo rei?",
+    "options": [
+     "'Nem eu nem meu filho reinaremos; o Senhor reinará sobre vós'",
+     "'Aceito de bom grado'",
+     "'Coroai meu filho'",
+     "'Somente se houver guerra'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "O que Gideão fez do ouro dos despojos, que virou um laço para Israel?",
+    "options": [
+     "Um éfode",
+     "Um bezerro de ouro",
+     "Uma espada",
+     "Um trono"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-8-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "Quanto tempo a terra teve descanso nos dias de Gideão?",
+    "options": [
+     "Quarenta anos",
+     "Oitenta anos",
+     "Vinte anos",
+     "Sete anos"
+    ],
+    "answer": 0
+   }
+  ],
+  "9": [
+   {
+    "id": "judg-9-cur-53",
+    "type": "curiosity",
+    "after_verse": 53,
+    "title": "Morto por uma pedra de moinho",
+    "text": "Abimeleque morreu quando uma mulher lançou uma pedra de moinho sobre sua cabeça; ferido, pediu ao escudeiro que o matasse, para não dizerem que uma mulher o matou."
+   },
+   {
+    "id": "judg-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "O que Abimeleque fez aos seus setenta irmãos para se tornar rei?",
+    "options": [
+     "Matou-os sobre uma só pedra",
+     "Expulsou-os de Siquém",
+     "Comprou o silêncio deles",
+     "Fez deles seus servos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Na parábola de Jotão, o que as árvores buscavam?",
+    "options": [
+     "Um rei para reinar sobre elas",
+     "Água para a seca",
+     "Um lugar para crescer",
+     "Proteção contra o fogo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Na parábola de Jotão, qual planta aceitou reinar sobre as árvores?",
+    "options": [
+     "O espinheiro",
+     "A oliveira",
+     "A figueira",
+     "A videira"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "O que Jotão desejou, em sua maldição, entre Abimeleque e os homens de Siquém?",
+    "options": [
+     "Que saísse fogo e se consumissem mutuamente",
+     "Que tivessem longa paz",
+     "Que enriquecessem juntos",
+     "Que reinassem para sempre"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Por quanto tempo Abimeleque dominou sobre Israel?",
+    "options": [
+     "Três anos",
+     "Quarenta anos",
+     "Sete anos",
+     "Vinte anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Quem se levantou em Siquém e desafiou Abimeleque?",
+    "options": [
+     "Gaal, filho de Ebede",
+     "Jotão",
+     "Zebul",
+     "Tola"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "Quem avisou Abimeleque sobre a rebelião de Gaal em Siquém?",
+    "options": [
+     "Zebul",
+     "Jotão",
+     "Gideão",
+     "Joás"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "O que Zebul disse a Gaal sobre o que ele via descer dos montes?",
+    "options": [
+     "Que eram homens descendo para a batalha",
+     "Que eram sombras dos montes",
+     "Que era uma tempestade",
+     "Que eram rebanhos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "judg-9-mc-41",
+    "type": "multiple_choice",
+    "after_verse": 41,
+    "question": "O que aconteceu a Gaal depois da batalha?",
+    "options": [
+     "Foi expulso de Siquém",
+     "Tornou-se rei",
+     "Fez as pazes com Abimeleque",
+     "Fugiu para o Egito"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-47",
+    "type": "multiple_choice",
+    "after_verse": 47,
+    "question": "Como morreram os que se refugiaram na torre de Siquém?",
+    "options": [
+     "Abimeleque queimou a torre sobre eles",
+     "Renderam-se em paz",
+     "Escaparam de noite",
+     "Foram levados cativos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-52",
+    "type": "multiple_choice",
+    "after_verse": 52,
+    "question": "Aonde Abimeleque foi atacar outra torre, onde encontraria a morte?",
+    "options": [
+     "Tebes",
+     "Siquém",
+     "Ofra",
+     "Sucote"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-9-mc-56",
+    "type": "multiple_choice",
+    "after_verse": 56,
+    "question": "Como o livro resume a morte de Abimeleque?",
+    "options": [
+     "Deus retribuiu a maldade que ele fez aos seus irmãos",
+     "Foi um acidente sem sentido",
+     "Morreu de velhice",
+     "Foi traído por Jotão"
+    ],
+    "answer": 0
+   }
+  ],
+  "10": [
+   {
+    "id": "judg-10-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Os juízes menores",
+    "text": "Tola e Jair são 'juízes menores', citados em poucos versículos. Jair tinha trinta filhos e trinta cidades, chamadas Havote-Jair."
+   },
+   {
+    "id": "judg-10-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Quais juízes são citados no início do capítulo 10?",
+    "options": [
+     "Tola e Jair",
+     "Otniel e Eúde",
+     "Sangar e Baraque",
+     "Débora e Gideão"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "A idolatria de Israel levou à opressão de quais povos neste capítulo?",
+    "options": [
+     "Filisteus e amonitas",
+     "Egípcios e edomitas",
+     "Babilônios e assírios",
+     "Cananeus e heveus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "O que o Senhor respondeu, com ironia, quando Israel clamou de novo?",
+    "options": [
+     "'Ide clamar aos deuses que escolhestes'",
+     "'Eu vos salvarei já'",
+     "'Construí um templo'",
+     "'Escolhei um rei'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-10-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "O que Israel fez antes de o Senhor se compadecer de sua miséria?",
+    "options": [
+     "Tirou os deuses estranhos e serviu ao Senhor",
+     "Ofereceu ouro",
+     "Fugiu para o deserto",
+     "Coroou um rei"
+    ],
+    "answer": 0
+   }
+  ],
+  "11": [
+   {
+    "id": "judg-11-cur-34",
+    "type": "curiosity",
+    "after_verse": 34,
+    "title": "Um voto precipitado",
+    "text": "Jefté prometeu oferecer o que primeiro saísse de sua casa ao voltar vitorioso — e foi sua única filha quem saiu a recebê-lo, ao som de tamboris."
+   },
+   {
+    "id": "judg-11-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Por que os irmãos de Jefté o expulsaram de casa?",
+    "options": [
+     "Por ser filho de outra mulher",
+     "Por ser covarde",
+     "Por adorar ídolos",
+     "Por roubar o gado"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que os anciãos de Gileade pediram a Jefté?",
+    "options": [
+     "Que fosse seu chefe na guerra contra os amonitas",
+     "Que lhes desse ouro",
+     "Que construísse um altar",
+     "Que fugisse com eles"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "O que Jefté fez antes de guerrear contra os amonitas?",
+    "options": [
+     "Enviou mensageiros tentando resolver em paz",
+     "Atacou de surpresa",
+     "Pediu ajuda ao Egito",
+     "Fugiu para o deserto"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Segundo Jefté, de quem Israel tomara a terra ao sair do Egito?",
+    "options": [
+     "Dos amorreus",
+     "De Moabe",
+     "De Edom",
+     "Dos filisteus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Que argumento de tempo Jefté usou contra os amonitas?",
+    "options": [
+     "Que Israel já habitava a terra havia trezentos anos",
+     "Que a guerra duraria sete anos",
+     "Que faria a paz por quarenta anos",
+     "Que esperaria dez anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Que voto Jefté fez ao Senhor antes da batalha?",
+    "options": [
+     "Oferecer o que primeiro saísse de sua casa ao encontrá-lo",
+     "Construir um templo",
+     "Jejuar quarenta dias",
+     "Libertar todos os escravos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-11-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "Quem saiu primeiro para receber Jefté, cumprindo o voto tragicamente?",
+    "options": [
+     "Sua filha única",
+     "Seu servo",
+     "Seu irmão",
+     "Um cordeiro"
+    ],
+    "answer": 0
+   }
+  ],
+  "12": [
+   {
+    "id": "judg-12-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "A senha 'Shibboleth'",
+    "text": "Os efraimitas não conseguiam pronunciar o som 'sh' e diziam 'Sibolete' em vez de 'Chibolete' — o que os denunciava nos vaus do Jordão."
+   },
+   {
+    "id": "judg-12-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que palavra os gileaditas usaram para identificar os efraimitas fugitivos?",
+    "options": [
+     "'Chibolete'",
+     "'Amém'",
+     "'Israel'",
+     "'Gileade'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-12-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quem julgou Israel depois de Jefté?",
+    "options": [
+     "Ibsão",
+     "Sansão",
+     "Eli",
+     "Otniel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-12-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Elom e Abdom, citados no fim do capítulo, eram o quê?",
+    "options": [
+     "Juízes menores de Israel",
+     "Reis dos filisteus",
+     "Profetas",
+     "Sacerdotes"
+    ],
+    "answer": 0
+   }
+  ],
+  "13": [
+   {
+    "id": "judg-13-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "O voto nazireu",
+    "text": "Sansão seria nazireu desde o ventre: não beberia vinho, não tocaria coisa impura e não cortaria o cabelo — sinal externo de sua consagração a Deus."
+   },
+   {
+    "id": "judg-13-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Quem oprimia Israel por quarenta anos quando o anjo anunciou Sansão?",
+    "options": [
+     "Os filisteus",
+     "Os midianitas",
+     "Os amonitas",
+     "Os moabitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Que regra regeria a vida do menino, segundo o anjo?",
+    "options": [
+     "Seria nazireu: sem vinho e sem navalha no cabelo",
+     "Seria sacerdote no templo",
+     "Seria rei de Israel",
+     "Viveria no deserto"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "O que Manoá pediu ao Senhor depois do anúncio?",
+    "options": [
+     "Que o anjo voltasse para ensiná-los a criar o menino",
+     "Riquezas para a família",
+     "Um sinal de fogo",
+     "Que o filho nascesse rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "O que o anjo respondeu quando Manoá perguntou o seu nome?",
+    "options": [
+     "Que o seu nome era maravilhoso (secreto)",
+     "Que se chamava Gabriel",
+     "Que não tinha nome",
+     "Que era o próprio Senhor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-13-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Que nome recebeu o menino que começaria a livrar Israel?",
+    "options": [
+     "Sansão",
+     "Jefté",
+     "Gideão",
+     "Samuel"
+    ],
+    "answer": 0
+   }
+  ],
+  "14": [
+   {
+    "id": "judg-14-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "O leão e o mel",
+    "text": "Sansão matou um leão com as mãos; depois, achou um enxame de abelhas e mel na carcaça — o que inspirou seu enigma de casamento."
+   },
+   {
+    "id": "judg-14-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "O que Sansão pediu aos pais ao descer a Timna?",
+    "options": [
+     "Uma esposa filisteia",
+     "Um exército",
+     "Um campo de trigo",
+     "Um cavalo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que Sansão encontrou no corpo do leão que havia matado?",
+    "options": [
+     "Um enxame de abelhas e mel",
+     "Ouro",
+     "Uma espada",
+     "Ossos de outros homens"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Que enigma Sansão propôs na festa?",
+    "options": [
+     "'Do comedor saiu comida, e do forte saiu doçura'",
+     "'Quem sou eu?'",
+     "'Quantas estrelas há?'",
+     "'O que voa sem asas?'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-14-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Como os filisteus descobriram a resposta do enigma?",
+    "options": [
+     "Pressionaram a esposa de Sansão a arrancá-la dele",
+     "Subornaram um servo",
+     "Adivinharam sozinhos",
+     "Leram num livro"
+    ],
+    "answer": 0
+   }
+  ],
+  "15": [
+   {
+    "id": "judg-15-cur-19",
+    "type": "curiosity",
+    "after_verse": 19,
+    "title": "Sede após a vitória",
+    "text": "Após matar mil filisteus, Sansão quase morreu de sede; Deus abriu uma fonte de água, e o lugar foi chamado En-Hacoré, 'a fonte do que clama'."
+   },
+   {
+    "id": "judg-15-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Como Sansão destruiu as plantações dos filisteus?",
+    "options": [
+     "Soltou raposas com tochas amarradas nas caudas",
+     "Incendiou as casas",
+     "Bloqueou os rios",
+     "Roubou as sementes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que os filisteus fizeram à esposa de Sansão e ao pai dela em represália?",
+    "options": [
+     "Queimaram-nos",
+     "Levaram-nos cativos",
+     "Deram-lhes ouro",
+     "Expulsaram-nos da cidade"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "O que os homens de Judá fizeram com Sansão para entregá-lo aos filisteus?",
+    "options": [
+     "Amarraram-no com cordas novas",
+     "Cegaram-no",
+     "Esconderam-no numa caverna",
+     "Coroaram-no rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-15-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Com o que Sansão matou mil filisteus?",
+    "options": [
+     "Uma queixada de jumento",
+     "Uma espada",
+     "Um arco",
+     "Uma funda"
+    ],
+    "answer": 0
+   }
+  ],
+  "16": [
+   {
+    "id": "judg-16-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "O cabelo que voltou a crescer",
+    "text": "Na prisão, cego, o cabelo de Sansão começou a crescer de novo — e Deus lhe deu força uma última vez para a sua morte vingadora."
+   },
+   {
+    "id": "judg-16-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "O que Sansão fez com as portas da cidade de Gaza?",
+    "options": [
+     "Arrancou-as e levou-as ao alto de um monte",
+     "Queimou-as",
+     "Trancou-as por dentro",
+     "Vendeu-as"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que os príncipes filisteus pediram a Dalila?",
+    "options": [
+     "Que descobrisse o segredo da força de Sansão",
+     "Que o matasse dormindo",
+     "Que o levasse a Gaza",
+     "Que se casasse com ele"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Quantas vezes Sansão enganou Dalila antes de revelar o segredo?",
+    "options": [
+     "Três vezes",
+     "Uma vez",
+     "Sete vezes",
+     "Dez vezes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Qual era o segredo da força de Sansão?",
+    "options": [
+     "O cabelo nunca cortado, sinal do voto nazireu",
+     "Um anel mágico",
+     "Sua espada",
+     "Um pacto secreto"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Onde os filisteus se reuniram para festejar a captura de Sansão?",
+    "options": [
+     "No templo de Dagom",
+     "No palácio do rei",
+     "Numa praça de Gaza",
+     "No deserto"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-16-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "Como Sansão matou mais filisteus na morte do que em vida?",
+    "options": [
+     "Derrubando as colunas do templo sobre todos",
+     "Ateando fogo ao templo",
+     "Com a queixada de novo",
+     "Chamando um exército"
+    ],
+    "answer": 0
+   }
+  ],
+  "17": [
+   {
+    "id": "judg-17-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "'Cada um fazia o que queria'",
+    "text": "O refrão 'não havia rei em Israel; cada um fazia o que parecia reto a seus olhos' resume todo o apêndice do livro (capítulos 17–21)."
+   },
+   {
+    "id": "judg-17-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "O que Mica fez com a prata que devolveu à sua mãe?",
+    "options": [
+     "Mandou fazer uma imagem de escultura",
+     "Comprou um campo",
+     "Doou-a ao templo",
+     "Deu-a aos pobres"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-17-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Que frase resume a desordem deste período de Israel?",
+    "options": [
+     "'Não havia rei em Israel; cada um fazia o que parecia reto a seus olhos'",
+     "'O Senhor é o nosso rei'",
+     "'Santo, santo, santo'",
+     "'A terra teve descanso'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-17-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Quem Mica contratou para ser o sacerdote do seu santuário particular?",
+    "options": [
+     "Um jovem levita",
+     "Um profeta de Baal",
+     "Seu próprio filho",
+     "Um rei estrangeiro"
+    ],
+    "answer": 0
+   }
+  ],
+  "18": [
+   {
+    "id": "judg-18-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A tribo sem terra",
+    "text": "Dã ainda não tinha tomado posse de sua herança; por isso enviou espias em busca de uma terra para conquistar."
+   },
+   {
+    "id": "judg-18-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "O que a tribo de Dã procurava neste capítulo?",
+    "options": [
+     "Uma terra para herdade",
+     "Ouro e prata",
+     "Aliança com os filisteus",
+     "Um novo juiz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que os espias de Dã encontraram na casa de Mica?",
+    "options": [
+     "Um levita como sacerdote e os ídolos",
+     "Um tesouro escondido",
+     "Um exército",
+     "Um profeta do Senhor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Como os espias descreveram a cidade de Laís?",
+    "options": [
+     "Um povo tranquilo e desprevenido",
+     "Uma fortaleza inexpugnável",
+     "Uma cidade já em ruínas",
+     "Aliada dos filisteus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "O que os 600 homens de Dã levaram da casa de Mica?",
+    "options": [
+     "A imagem, o éfode e o levita",
+     "Apenas comida",
+     "Os rebanhos",
+     "Nada"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "O que Mica fez ao perseguir os danitas que o roubaram?",
+    "options": [
+     "Voltou para casa, pois eram fortes demais",
+     "Recuperou os ídolos",
+     "Chamou um exército",
+     "Incendiou o acampamento"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-18-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "O que os danitas fizeram com Laís?",
+    "options": [
+     "Tomaram-na, queimaram-na e a chamaram Dã",
+     "Fizeram aliança com ela",
+     "Deixaram-na em paz",
+     "Venderam-na ao Egito"
+    ],
+    "answer": 0
+   }
+  ],
+  "19": [
+   {
+    "id": "judg-19-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Sem rei, sem lei",
+    "text": "Este relato sombrio abre de novo com 'naqueles dias não havia rei em Israel', mostrando o colapso moral quando cada um fazia o que queria."
+   },
+   {
+    "id": "judg-19-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "De onde o levita foi buscar a sua concubina?",
+    "options": [
+     "De Belém de Judá",
+     "De Gibeá",
+     "De Siló",
+     "De Jericó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "O que o sogro fazia para reter o levita em Belém?",
+    "options": [
+     "Insistia para que ficassem mais um dia",
+     "Escondia os animais deles",
+     "Trancava as portas",
+     "Pedia-lhes dinheiro"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Por que o levita não quis pernoitar em Jebus (Jerusalém)?",
+    "options": [
+     "Por ser cidade de estrangeiros, não de israelitas",
+     "Por ser muito longe",
+     "Por não ter mercado",
+     "Por estar em guerra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Quem acolheu o levita na praça de Gibeá, quando ninguém o recebia?",
+    "options": [
+     "Um ancião",
+     "O rei da cidade",
+     "Um sacerdote",
+     "Um soldado"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que aconteceu naquela noite em Gibeá?",
+    "options": [
+     "Homens perversos cercaram a casa e cometeram grande maldade",
+     "Houve uma festa de paz",
+     "Um incêndio destruiu a cidade",
+     "O levita foi coroado"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-19-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "O que o levita fez para clamar por justiça a todo o Israel?",
+    "options": [
+     "Dividiu o corpo e enviou as partes às tribos",
+     "Escreveu uma carta ao rei",
+     "Construiu um altar",
+     "Fugiu para o deserto"
+    ],
+    "answer": 0
+   }
+  ],
+  "20": [
+   {
+    "id": "judg-20-cur-28",
+    "type": "curiosity",
+    "after_verse": 28,
+    "title": "Consultando o Senhor em Betel",
+    "text": "Após duas derrotas, Israel jejuou e consultou o Senhor diante da arca em Betel, onde servia Fineias — só então veio a vitória."
+   },
+   {
+    "id": "judg-20-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Onde todo o Israel se reuniu para tratar do crime de Gibeá?",
+    "options": [
+     "Em Mizpá",
+     "Em Siló",
+     "Em Belém",
+     "Em Jericó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que Israel exigiu da tribo de Benjamim?",
+    "options": [
+     "Que entregasse os homens perversos de Gibeá",
+     "Que pagasse um tributo",
+     "Que escolhesse um rei",
+     "Que deixasse a terra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "O que Benjamim fez em vez de entregar os culpados?",
+    "options": [
+     "Reuniu-se para a guerra contra Israel",
+     "Fugiu para Moabe",
+     "Pediu perdão",
+     "Entregou outra cidade"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "O que aconteceu no primeiro dia de batalha?",
+    "options": [
+     "Benjamim derrotou Israel",
+     "Israel venceu facilmente",
+     "Não houve luta",
+     "Os dois lados fizeram as pazes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "E no segundo dia de batalha contra Benjamim?",
+    "options": [
+     "Israel foi derrotado de novo",
+     "Israel venceu",
+     "Benjamim se rendeu",
+     "Houve trégua"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "O que Israel fez após duas derrotas seguidas?",
+    "options": [
+     "Jejuou e consultou o Senhor em Betel",
+     "Desistiu da guerra",
+     "Trocou de general",
+     "Recuou para Mizpá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "Que estratégia Israel usou no terceiro dia?",
+    "options": [
+     "Pôs uma emboscada ao redor de Gibeá",
+     "Atacou de frente",
+     "Cercou a cidade por fome",
+     "Incendiou os campos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "Qual foi o sinal combinado da emboscada contra Gibeá?",
+    "options": [
+     "Uma coluna de fumaça subindo da cidade",
+     "Um toque de trombeta",
+     "Um grito de guerra",
+     "Uma bandeira branca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "O que aconteceu ao exército de Benjamim?",
+    "options": [
+     "Foi quase totalmente destruído",
+     "Conseguiu fugir inteiro",
+     "Venceu de novo",
+     "Rendeu-se sem perdas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-20-mc-47",
+    "type": "multiple_choice",
+    "after_verse": 47,
+    "question": "Quantos benjamitas escaparam para a rocha de Rimom?",
+    "options": [
+     "Seiscentos homens",
+     "Sessenta homens",
+     "Seis mil homens",
+     "Dez mil homens"
+    ],
+    "answer": 0
+   }
+  ],
+  "21": [
+   {
+    "id": "judg-21-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Salvando uma tribo",
+    "text": "Israel jurara não dar suas filhas a Benjamim; para a tribo não desaparecer, teve de achar um modo de arranjar esposas aos 600 sobreviventes."
+   },
+   {
+    "id": "judg-21-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que problema surgiu após a guerra contra Benjamim?",
+    "options": [
+     "A tribo quase desapareceu e Israel jurara não lhes dar suas filhas",
+     "Faltou comida no país",
+     "Os filisteus atacaram",
+     "Não havia mais juízes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "O que Israel fez com Jabes-Gileade, que não se juntara ao exército?",
+    "options": [
+     "Tomou dela jovens para serem esposas de Benjamim",
+     "Premiou-a com ouro",
+     "Fez dela capital",
+     "Deixou-a em paz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "O que ainda faltava aos benjamitas sobreviventes?",
+    "options": [
+     "Esposas suficientes",
+     "Armas",
+     "Terra",
+     "Um rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Que solução acharam na festa anual de Siló?",
+    "options": [
+     "Os benjamitas pegariam moças que dançavam na festa",
+     "Comprariam esposas no Egito",
+     "Fariam um sorteio",
+     "Esperariam dez anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "judg-21-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Como o livro de Juízes termina?",
+    "options": [
+     "'Não havia rei em Israel; cada um fazia o que parecia reto a seus olhos'",
+     "'E viveram felizes para sempre'",
+     "'A terra teve descanso'",
+     "'Assim começou o reino'"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

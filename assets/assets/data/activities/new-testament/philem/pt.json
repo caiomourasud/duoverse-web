@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "book": "philem",
+  "chapters": {
+    "1": [
+      {
+        "id": "philem-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Uma igreja em casa",
+        "text": "Nos primeiros tempos, os cristãos não tinham templos próprios e se reuniam em casas particulares. Paulo saúda 'a igreja que está em tua casa', refletindo essa prática."
+      },
+      {
+        "id": "philem-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Paulo, {0} de Jesus Cristo, e o irmão Timóteo",
+        "blanks": [
+          "prisioneiro"
+        ],
+        "distractors": [
+          "cooperador",
+          "companheiro",
+          "irmão"
+        ]
+      },
+      {
+        "id": "philem-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que Paulo teve grande alegria e consolação?",
+        "options": [
+          "Por ter sido libertado da prisão",
+          "Pela caridade de Filemom, que reanimou o coração dos santos",
+          "Por ter convertido toda Colossos",
+          "Por receber dinheiro da igreja"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Peço-te por meu filho {0}, que gerei nas minhas prisões;",
+        "blanks": [
+          "Onésimo"
+        ],
+        "distractors": [
+          "Timóteo",
+          "Epafras",
+          "Arquipo"
+        ]
+      },
+      {
+        "id": "philem-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Por que Paulo enviou Onésimo de volta em vez de retê-lo?",
+        "options": [
+          "Porque Onésimo desejava partir",
+          "Para que o benefício de Filemom fosse voluntário, não por força",
+          "Porque já não precisava de ajuda",
+          "Porque a lei o exigia"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Não já como {0}, antes, mais do que servo, como irmão amado",
+        "blanks": [
+          "servo"
+        ],
+        "distractors": [
+          "filho",
+          "amigo",
+          "estranho"
+        ]
+      },
+      {
+        "id": "philem-1-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Onésimo",
+            "right": "Escravo fugido convertido por Paulo"
+          },
+          {
+            "left": "Filemom",
+            "right": "Dono a quem a carta é dirigida"
+          },
+          {
+            "left": "Paulo",
+            "right": "Prisioneiro que escreve a carta"
+          },
+          {
+            "left": "Timóteo",
+            "right": "Irmão que saúda com Paulo"
+          }
+        ]
+      },
+      {
+        "id": "philem-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que Paulo pede a Filemom que prepare para ele?",
+        "options": [
+          "Uma carta de recomendação",
+          "Pousada, esperando ser-lhe concedido",
+          "Um presente para Onésimo",
+          "Roupas para a prisão"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

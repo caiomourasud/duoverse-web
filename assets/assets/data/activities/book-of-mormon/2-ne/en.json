@@ -1,0 +1,3018 @@
+{
+ "schema_version": 1,
+ "book": "2-ne",
+ "chapters": {
+  "1": [
+   {
+    "id": "2-ne-1-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "And he also spake unto them concerning the land of promise, which they had obtained—how merciful the Lord had been in warning us that we should flee out of the land of {0}.",
+    "blanks": [
+     "Jerusalem"
+    ],
+    "distractors": [
+     "Babylon",
+     "Egypt",
+     "Nineveh"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "this land should be kept as yet from the {0} of other nations",
+    "blanks": [
+     "knowledge"
+    ],
+    "distractors": [
+     "sight",
+     "reach",
+     "dominion"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "from the sleep of {0}, and shake off the awful chains",
+    "blanks": [
+     "hell"
+    ],
+    "distractors": [
+     "death",
+     "sin",
+     "darkness"
+    ]
+   },
+   {
+    "id": "2-ne-1-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Whence no traveler returns",
+    "text": "Feeling death near, Lehi speaks of the grave as the place “from whence no traveler can return,” and pleads with his sons to awake from spiritual death."
+   },
+   {
+    "id": "2-ne-1-mc-20",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "What promise does Lehi repeat concerning the promised land?",
+    "options": [
+     "If they keep the commandments, they shall prosper in the land",
+     "They will never face enemies",
+     "They will never have to work",
+     "The land will never have drought"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-1-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "arise from the dust, my sons, and be {0}",
+    "blanks": [
+     "men"
+    ],
+    "distractors": [
+     "kings",
+     "warriors",
+     "servants"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "And now my son, Laman, and also Lemuel and Sam, and also my sons who are the sons of {0}, behold, if ye will hearken unto the voice of Nephi ye shall not perish. And if ye will hearken unto him I leave unto you a blessing, yea, even my first blessing.",
+    "blanks": [
+     "Ishmael"
+    ],
+    "distractors": [
+     "Nephi",
+     "Jacob",
+     "Joseph"
+    ]
+   },
+   {
+    "id": "2-ne-1-fb-31",
+    "type": "fill_blank",
+    "after_verse": 31,
+    "verse": 31,
+    "template": "and nothing, save it shall be {0} among them, shall harm or disturb their prosperity upon the face of this land forever.",
+    "blanks": [
+     "iniquity"
+    ],
+    "distractors": [
+     "pride",
+     "rebellion",
+     "bondage"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "2-ne-2-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "thou shalt dwell safely with thy brother, {0}",
+    "blanks": [
+     "Nephi"
+    ],
+    "distractors": [
+     "Sam",
+     "Laman",
+     "Lemuel"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "that he may bring to pass the {0} of the dead, being the first that should rise.",
+    "blanks": [
+     "resurrection"
+    ],
+    "distractors": [
+     "redemption",
+     "salvation",
+     "deliverance"
+    ]
+   },
+   {
+    "id": "2-ne-2-cur-11",
+    "after_verse": 11,
+    "type": "curiosity",
+    "title": "Opposition in all things",
+    "text": "Lehi teaches that there must be opposition in all things: without the bitter the sweet is not known, without sin there is no righteousness. Opposition makes agency possible."
+   },
+   {
+    "id": "2-ne-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "And if there be no righteousness nor happiness there be no {0} nor misery.",
+    "blanks": [
+     "punishment"
+    ],
+    "distractors": [
+     "bondage",
+     "death",
+     "sin"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Partake of the {0} fruit, and ye shall not die",
+    "blanks": [
+     "forbidden"
+    ],
+    "distractors": [
+     "sacred",
+     "ripe",
+     "golden"
+    ]
+   },
+   {
+    "id": "2-ne-2-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Adam fell that men might be; and men are, that they might have {0}.",
+    "blanks": [
+     "joy"
+    ],
+    "distractors": [
+     "peace",
+     "life",
+     "glory"
+    ]
+   },
+   {
+    "id": "2-ne-2-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "According to Lehi, between what are men free to choose?",
+    "options": [
+     "Liberty and eternal life, or captivity and death",
+     "Riches or poverty",
+     "Land or sea",
+     "Wisdom or power"
+    ],
+    "answer": 0
+   }
+  ],
+  "3": [
+   {
+    "id": "2-ne-3-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "I am a descendant of Joseph who was carried captive into {0}",
+    "blanks": [
+     "Egypt"
+    ],
+    "distractors": [
+     "Babylon",
+     "Assyria",
+     "Canaan"
+    ]
+   },
+   {
+    "id": "2-ne-3-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "he shall be great like unto {0}, whom I have said I would raise up",
+    "blanks": [
+     "Moses"
+    ],
+    "distractors": [
+     "Abraham",
+     "Aaron",
+     "Joshua"
+    ]
+   },
+   {
+    "id": "2-ne-3-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "According to Joseph's prophecy, whose writings would 'grow together'?",
+    "options": [
+     "The fruit of the loins of Joseph and the fruit of the loins of Judah",
+     "The writings of Nephi and of Laman",
+     "The records of Egypt and Babylon",
+     "The plates of brass and the sword of Laban"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-3-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "Called after his father's name",
+    "text": "The prophecy says the seer would share the name of the prophet Joseph and bear his own father's name. Latter-day Saints see in these words Joseph Smith, son of Joseph Smith Sr."
+   },
+   {
+    "id": "2-ne-3-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "as if the fruit of thy loins had cried unto them from the {0}; for I know their faith.",
+    "blanks": [
+     "dust"
+    ],
+    "distractors": [
+     "grave",
+     "heavens",
+     "wilderness"
+    ]
+   },
+   {
+    "id": "2-ne-3-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "hearken unto the words of thy brother, {0}, and it shall be done",
+    "blanks": [
+     "Nephi"
+    ],
+    "distractors": [
+     "Sam",
+     "Laman",
+     "Lemuel"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "2-ne-4-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "Inasmuch as ye shall keep my commandments ye shall {0} in the land",
+    "blanks": [
+     "prosper"
+    ],
+    "distractors": [
+     "dwell",
+     "remain",
+     "multiply"
+    ]
+   },
+   {
+    "id": "2-ne-4-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "Before he dies, whom does Lehi bless in 2 Nephi 4?",
+    "options": [
+     "The children of Laman and Lemuel, the household of Ishmael, and Sam",
+     "Only Nephi",
+     "Only Joseph, the youngest",
+     "The kings and teachers of the people"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-4-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "The death of Lehi",
+    "text": "After blessing his whole household, the prophet Lehi waxes old, dies, and is buried — closing the journey that began in Jerusalem years earlier."
+   },
+   {
+    "id": "2-ne-4-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "For my soul delighteth in the {0}, and my heart pondereth them",
+    "blanks": [
+     "scriptures"
+    ],
+    "distractors": [
+     "records",
+     "heavens",
+     "riches"
+    ]
+   },
+   {
+    "id": "2-ne-4-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "The Psalm of Nephi",
+    "text": "Verses 16 through 35 are known as the 'Psalm of Nephi': an intimate poem in which he confesses his weaknesses, laments his sins, and reaffirms his faith in the Lord."
+   },
+   {
+    "id": "2-ne-4-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "my heart exclaimeth: O {0} man that I am!",
+    "blanks": [
+     "wretched"
+    ],
+    "distractors": [
+     "sinful",
+     "mortal",
+     "weary"
+    ]
+   },
+   {
+    "id": "2-ne-4-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "my body been carried away upon exceedingly high {0}",
+    "blanks": [
+     "mountains"
+    ],
+    "distractors": [
+     "waters",
+     "valleys",
+     "plains"
+    ]
+   },
+   {
+    "id": "2-ne-4-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "my God, and the {0} of my salvation",
+    "blanks": [
+     "rock"
+    ],
+    "distractors": [
+     "fortress",
+     "tower",
+     "shield"
+    ]
+   },
+   {
+    "id": "2-ne-4-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "In the Psalm of Nephi, what does he refuse to trust in?",
+    "options": [
+     "The arm of flesh",
+     "The plates of brass",
+     "His own swords",
+     "His brothers"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "2-ne-5-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "I, Nephi, should depart from them and flee into the {0}",
+    "blanks": [
+     "wilderness"
+    ],
+    "distractors": [
+     "mountains",
+     "valley",
+     "sea"
+    ]
+   },
+   {
+    "id": "2-ne-5-mp-6",
+    "type": "match_pairs",
+    "after_verse": 6,
+    "pairs": [
+     {
+      "left": "Sam",
+      "right": "Nephi's elder brother"
+     },
+     {
+      "left": "Jacob and Joseph",
+      "right": "Nephi's younger brothers"
+     },
+     {
+      "left": "Zoram",
+      "right": "who had been Laban's servant"
+     },
+     {
+      "left": "Laman and Lemuel",
+      "right": "brothers who did not go with him"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "and also the ball, or {0}, which was prepared for my father",
+    "blanks": [
+     "compass"
+    ],
+    "distractors": [
+     "sword",
+     "anchor",
+     "lamp"
+    ]
+   },
+   {
+    "id": "2-ne-5-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "A temple like Solomon's",
+    "text": "Nephi builds a temple after the manner of the temple of Solomon, though without the same precious materials, which were not to be found in that land."
+   },
+   {
+    "id": "2-ne-5-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "they would that I should be their {0}",
+    "blanks": [
+     "king"
+    ],
+    "distractors": [
+     "teacher",
+     "judge",
+     "prophet"
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "They shall be a {0} unto thy seed, to stir them up in remembrance of me",
+    "blanks": [
+     "scourge"
+    ],
+    "distractors": [
+     "witness",
+     "warning",
+     "shield"
+    ]
+   },
+   {
+    "id": "2-ne-5-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "we lived after the manner of {0}",
+    "blanks": [
+     "happiness"
+    ],
+    "distractors": [
+     "peace",
+     "plenty",
+     "righteousness"
+    ]
+   },
+   {
+    "id": "2-ne-5-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "By the end of 2 Nephi 5, how many years had passed since they left Jerusalem?",
+    "options": [
+     "Forty years",
+     "Thirty years",
+     "Ten years",
+     "One hundred years"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "2-ne-6-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "consecrated by my brother {0}, unto whom ye look",
+    "blanks": [
+     "Nephi"
+    ],
+    "distractors": [
+     "Lehi",
+     "Sam",
+     "Laman"
+    ]
+   },
+   {
+    "id": "2-ne-6-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "Jacob reads Isaiah",
+    "text": "From here Jacob quotes long passages of Isaiah (Bible chapters 49–52). 2 Nephi 7 corresponds to Isaiah 50 and 2 Nephi 8 to Isaiah 51 — he 'likens' the words to his own people."
+   },
+   {
+    "id": "2-ne-6-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "set up my {0} to the people",
+    "blanks": [
+     "standard"
+    ],
+    "distractors": [
+     "throne",
+     "tower",
+     "altar"
+    ]
+   },
+   {
+    "id": "2-ne-6-mc-15",
+    "after_verse": 15,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 6:15, how will those who do not believe in the Messiah be destroyed?",
+    "options": [
+     "By fire, tempest, earthquakes, bloodshed, pestilence, and famine",
+     "Only by the sword of the Lamanites",
+     "By famine and drought alone",
+     "By captivity in Babylon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-6-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "the Mighty One of {0}.",
+    "blanks": [
+     "Jacob"
+    ],
+    "distractors": [
+     "Abraham",
+     "Isaac",
+     "David"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "id": "2-ne-7-mc-2",
+    "after_verse": 2,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 7:2, what does the Lord say he does at his rebuke?",
+    "options": [
+     "He dries up the sea and makes the rivers a wilderness",
+     "He parts the sea for the people to pass",
+     "He rains manna from heaven",
+     "He brings down the walls of Jericho"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-7-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "The suffering servant",
+    "text": "Verses 6–7 describe a servant who gives his back to the smiters and hides not his face from those who spit on him. Christians read this as a prophecy of the suffering of Jesus Christ."
+   },
+   {
+    "id": "2-ne-7-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "and the {0} shall eat them up.",
+    "blanks": [
+     "moth"
+    ],
+    "distractors": [
+     "worm",
+     "rust",
+     "fire"
+    ]
+   },
+   {
+    "id": "2-ne-7-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "ye shall lie down in {0}.",
+    "blanks": [
+     "sorrow"
+    ],
+    "distractors": [
+     "darkness",
+     "silence",
+     "shame"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "id": "2-ne-8-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "Look unto {0}, your father, and unto Sarah",
+    "blanks": [
+     "Abraham"
+    ],
+    "distractors": [
+     "Isaac",
+     "Jacob",
+     "Noah"
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "the heavens shall vanish away like {0}",
+    "blanks": [
+     "smoke"
+    ],
+    "distractors": [
+     "dew",
+     "cloud",
+     "dust"
+    ]
+   },
+   {
+    "id": "2-ne-8-cur-9",
+    "after_verse": 9,
+    "type": "curiosity",
+    "title": "Rahab and the dragon",
+    "text": "Here 'Rahab' is not the woman of Jericho but a poetic name for the chaos monster (associated with Egypt); Isaiah recalls how the arm of the Lord once cut Rahab and the dragon, to give Israel hope."
+   },
+   {
+    "id": "2-ne-8-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "the son of man, who shall be made like unto {0}?",
+    "blanks": [
+     "grass"
+    ],
+    "distractors": [
+     "dust",
+     "smoke",
+     "clay"
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "stand up, O {0}, which hast drunk",
+    "blanks": [
+     "Jerusalem"
+    ],
+    "distractors": [
+     "Babylon",
+     "Samaria",
+     "Nineveh"
+    ]
+   },
+   {
+    "id": "2-ne-8-mp-22",
+    "type": "match_pairs",
+    "after_verse": 22,
+    "pairs": [
+     {
+      "left": "Abraham and Sarah",
+      "right": "the parents Israel is told to look unto"
+     },
+     {
+      "left": "Rahab and the dragon",
+      "right": "the monster the arm of the Lord overcame"
+     },
+     {
+      "left": "the cup of fury",
+      "right": "the suffering Jerusalem drank"
+     },
+     {
+      "left": "Zion",
+      "right": "the city comforted like Eden"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-8-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "put on thy beautiful {0}, O Jerusalem, the holy city",
+    "blanks": [
+     "garments"
+    ],
+    "distractors": [
+     "crowns",
+     "jewels",
+     "sandals"
+    ]
+   }
+  ],
+  "9": [
+   {
+    "id": "2-ne-9-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "he shall show himself unto those at {0}, from whence we came",
+    "blanks": [
+     "Jerusalem"
+    ],
+    "distractors": [
+     "Bethlehem",
+     "Nazareth",
+     "Samaria"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "An infinite atonement",
+    "text": "2 Nephi 9 is one of scripture's most complete sermons on the Atonement. Here Jacob explains why it must be 'infinite': only so can corruption (death) put on incorruption."
+   },
+   {
+    "id": "2-ne-9-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "for our escape from the grasp of this awful {0}",
+    "blanks": [
+     "monster"
+    ],
+    "distractors": [
+     "enemy",
+     "dragon",
+     "abyss"
+    ]
+   },
+   {
+    "id": "2-ne-9-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Jacob describes two deaths that must deliver up their dead. Which are they?",
+    "options": [
+     "The temporal death (the grave) and the spiritual death (hell)",
+     "The death of the body and the death of sin",
+     "The first death and the second resurrection",
+     "The death of the righteous and of the prophets"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-9-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "they shall inherit the {0} of God, which was prepared for them",
+    "blanks": [
+     "kingdom"
+    ],
+    "distractors": [
+     "throne",
+     "favor",
+     "power"
+    ]
+   },
+   {
+    "id": "2-ne-9-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 9:21, whose pains does Christ suffer?",
+    "options": [
+     "Those of all men, women, and children of the family of Adam",
+     "Only those of the righteous",
+     "Only those who believe in him",
+     "Only those of prophets and kings"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-9-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "When they are learned they think they are {0}",
+    "blanks": [
+     "wise"
+    ],
+    "distractors": [
+     "righteous",
+     "mighty",
+     "holy"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-34",
+    "type": "fill_blank",
+    "after_verse": 34,
+    "verse": 34,
+    "template": "Wo unto the {0}, for he shall be thrust down to hell.",
+    "blanks": [
+     "liar"
+    ],
+    "distractors": [
+     "thief",
+     "sorcerer",
+     "coward"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-39",
+    "type": "fill_blank",
+    "after_verse": 39,
+    "verse": 39,
+    "template": "to be carnally-minded is {0}, and to be spiritually-minded is life eternal.",
+    "blanks": [
+     "death"
+    ],
+    "distractors": [
+     "bondage",
+     "misery",
+     "sorrow"
+    ]
+   },
+   {
+    "id": "2-ne-9-fb-41",
+    "type": "fill_blank",
+    "after_verse": 41,
+    "verse": 41,
+    "template": "the keeper of the {0} is the Holy One of Israel",
+    "blanks": [
+     "gate"
+    ],
+    "distractors": [
+     "temple",
+     "kingdom",
+     "city"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-44",
+    "after_verse": 44,
+    "type": "curiosity",
+    "title": "Shaking his garments",
+    "text": "Jacob takes off and shakes his garments before the people: an ancient gesture of declaring himself free of responsibility for their sins — hence he says he is 'rid of your blood.'"
+   },
+   {
+    "id": "2-ne-9-fb-50",
+    "type": "fill_blank",
+    "after_verse": 50,
+    "verse": 50,
+    "template": "come buy wine and {0} without money and without price.",
+    "blanks": [
+     "milk"
+    ],
+    "distractors": [
+     "bread",
+     "oil",
+     "honey"
+    ]
+   },
+   {
+    "id": "2-ne-9-cur-51",
+    "after_verse": 51,
+    "type": "curiosity",
+    "title": "Waters without money",
+    "text": "Verses 50–51 echo the invitation of Isaiah 55: come to the waters, buy wine and milk 'without money and without price' — salvation is God's free gift."
+   },
+   {
+    "id": "2-ne-9-fb-53",
+    "type": "fill_blank",
+    "after_verse": 53,
+    "verse": 53,
+    "template": "they shall become a righteous {0} unto the house of Israel.",
+    "blanks": [
+     "branch"
+    ],
+    "distractors": [
+     "nation",
+     "remnant",
+     "people"
+    ]
+   }
+  ],
+  "10": [
+   {
+    "id": "2-ne-10-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "The name revealed by an angel",
+    "text": "Jacob says that 'in the last night' an angel revealed to him that the Savior's name would be Christ — one of the earliest records of the name in the Book of Mormon."
+   },
+   {
+    "id": "2-ne-10-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "they at Jerusalem will stiffen their necks against him, that he be {0}.",
+    "blanks": [
+     "crucified"
+    ],
+    "distractors": [
+     "forsaken",
+     "stoned",
+     "betrayed"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "from the isles of the sea, and from the {0} parts of the earth",
+    "blanks": [
+     "four"
+    ],
+    "distractors": [
+     "seven",
+     "twelve",
+     "ten"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "this land shall be a land of {0} unto the Gentiles",
+    "blanks": [
+     "liberty"
+    ],
+    "distractors": [
+     "promise",
+     "refuge",
+     "peace"
+    ]
+   },
+   {
+    "id": "2-ne-10-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "for it is a {0} land, saith God unto me, above all other lands",
+    "blanks": [
+     "choice"
+    ],
+    "distractors": [
+     "holy",
+     "fertile",
+     "distant"
+    ]
+   },
+   {
+    "id": "2-ne-10-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 10:23, men are free to choose between what?",
+    "options": [
+     "The way of everlasting death or the way of eternal life",
+     "Riches or poverty",
+     "War or peace",
+     "The sea or the dry land"
+    ],
+    "answer": 0
+   }
+  ],
+  "11": [
+   {
+    "id": "2-ne-11-mp-3",
+    "type": "match_pairs",
+    "after_verse": 3,
+    "pairs": [
+     {
+      "left": "Nephi",
+      "right": "saw the Redeemer and writes the words of Isaiah"
+     },
+     {
+      "left": "Jacob",
+      "right": "Nephi's brother, also saw the Redeemer"
+     },
+     {
+      "left": "Isaiah",
+      "right": "the prophet whose words Nephi will quote"
+     },
+     {
+      "left": "'by the words of three'",
+      "right": "how God establishes his word"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-11-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "for this end hath the law of {0} been given",
+    "blanks": [
+     "Moses"
+    ],
+    "distractors": [
+     "Abraham",
+     "Aaron",
+     "Isaiah"
+    ]
+   },
+   {
+    "id": "2-ne-11-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "that save Christ should come all men must {0}.",
+    "blanks": [
+     "perish"
+    ],
+    "distractors": [
+     "repent",
+     "wander",
+     "despair"
+    ]
+   },
+   {
+    "id": "2-ne-11-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "The Isaiah chapters are coming",
+    "text": "Here Nephi announces he will copy Isaiah: the next chapters (2 Nephi 12–24) reproduce Isaiah 2–14, the largest block of Isaiah in all the Book of Mormon."
+   }
+  ],
+  "12": [
+   {
+    "id": "2-ne-12-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "for out of {0} shall go forth the law, and the word of the Lord from Jerusalem.",
+    "blanks": [
+     "Zion"
+    ],
+    "distractors": [
+     "Babylon",
+     "Egypt",
+     "Bethel"
+    ]
+   },
+   {
+    "id": "2-ne-12-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "Swords into plowshares",
+    "text": "The image of beating swords into plowshares and spears into pruning-hooks (v.4) is one of the Bible's most famous prophecies of peace; it appears also in Micah 4. 2 Nephi 12 reproduces Isaiah 2."
+   },
+   {
+    "id": "2-ne-12-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "Their land is also full of {0}; they worship the work of their own hands",
+    "blanks": [
+     "idols"
+    ],
+    "distractors": [
+     "altars",
+     "temples",
+     "tombs"
+    ]
+   },
+   {
+    "id": "2-ne-12-mc-12",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "What theme does Isaiah repeat in 2 Nephi 12:11–17?",
+    "options": [
+     "The pride of man shall be brought low and the Lord alone shall be exalted",
+     "The righteous shall inherit great riches",
+     "The nations shall live forever at war",
+     "The temple shall never be destroyed"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-12-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "and upon all the ships of {0}, and upon all pleasant pictures.",
+    "blanks": [
+     "Tarshish"
+    ],
+    "distractors": [
+     "Tyre",
+     "Sidon",
+     "Ophir"
+    ]
+   },
+   {
+    "id": "2-ne-12-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "Cease ye from man, whose {0} is in his nostrils",
+    "blanks": [
+     "breath"
+    ],
+    "distractors": [
+     "life",
+     "strength",
+     "spirit"
+    ]
+   }
+  ],
+  "13": [
+   {
+    "id": "2-ne-13-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 13:1–3, what does the Lord announce he will take away from Jerusalem and Judah?",
+    "options": [
+     "Their support and leaders — bread, water, the mighty man, the judge, and the prophet",
+     "Their rivers and mountains",
+     "Their temples and altars",
+     "Their flocks and harvests"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-13-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "doth declare their sin to be even as {0}, and they cannot hide it.",
+    "blanks": [
+     "Sodom"
+    ],
+    "distractors": [
+     "Babylon",
+     "Nineveh",
+     "Egypt"
+    ]
+   },
+   {
+    "id": "2-ne-13-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "and grind the faces of the {0}, saith the Lord God of Hosts.",
+    "blanks": [
+     "poor"
+    ],
+    "distractors": [
+     "widows",
+     "strangers",
+     "captives"
+    ]
+   },
+   {
+    "id": "2-ne-13-cur-18",
+    "after_verse": 18,
+    "type": "curiosity",
+    "title": "The wardrobe of the daughters of Zion",
+    "text": "Verses 18–23 give one of scripture's most detailed lists of ancient jewelry and dress — bracelets, earrings, veils, festive apparel. Isaiah uses it to condemn vanity and pride."
+   },
+   {
+    "id": "2-ne-13-mc-20",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 13:18–23, what does the Lord say he will take away from the daughters of Zion?",
+    "options": [
+     "Their many ornaments and finery — jewels, veils, and festive apparel",
+     "Their houses and fields",
+     "Their children and husbands",
+     "Their books and records"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-13-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Thy men shall fall by the {0} and thy mighty in the war.",
+    "blanks": [
+     "sword"
+    ],
+    "distractors": [
+     "famine",
+     "plague",
+     "fire"
+    ]
+   },
+   {
+    "id": "2-ne-13-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "And her {0} shall lament and mourn; and she shall be desolate",
+    "blanks": [
+     "gates"
+    ],
+    "distractors": [
+     "walls",
+     "towers",
+     "streets"
+    ]
+   }
+  ],
+  "14": [
+   {
+    "id": "2-ne-14-mc-1",
+    "after_verse": 1,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 14:1, seven women take hold of one man. What does this picture?",
+    "options": [
+     "The scarcity of men after the war foretold in the previous chapter",
+     "A great wedding feast",
+     "The wealth of the chosen man",
+     "A law about marriage in Israel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-14-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "In that day shall the {0} of the Lord be beautiful and glorious",
+    "blanks": [
+     "branch"
+    ],
+    "distractors": [
+     "arm",
+     "throne",
+     "word"
+    ]
+   },
+   {
+    "id": "2-ne-14-cur-5",
+    "after_verse": 5,
+    "type": "curiosity",
+    "title": "Cloud by day, fire by night",
+    "text": "The promise of a cloud by day and fire by night over Zion echoes the pillar of cloud and fire that led Israel out of Egypt — a sign of God's protecting presence."
+   },
+   {
+    "id": "2-ne-14-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "And there shall be a {0} for a shadow in the daytime from the heat",
+    "blanks": [
+     "tabernacle"
+    ],
+    "distractors": [
+     "temple",
+     "tower",
+     "cloud"
+    ]
+   }
+  ],
+  "15": [
+   {
+    "id": "2-ne-15-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "The song of the vineyard",
+    "text": "Isaiah 5 opens with a parable: the Lord plants a carefully tended vineyard that yields only wild grapes. Verse 7 reveals the meaning — the vineyard is the house of Israel, and the wild grapes are the people's injustice."
+   },
+   {
+    "id": "2-ne-15-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "and planted it with the choicest {0}, and built a tower in the midst of it",
+    "blanks": [
+     "vine"
+    ],
+    "distractors": [
+     "wheat",
+     "olive",
+     "fig"
+    ]
+   },
+   {
+    "id": "2-ne-15-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "In the song of the vineyard (2 Nephi 15), what does the vineyard represent?",
+    "options": [
+     "The house of Israel",
+     "The kingdom of Babylon",
+     "The temple of Solomon",
+     "The city of Nineveh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-15-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "my people are gone into captivity, because they have no {0}",
+    "blanks": [
+     "knowledge"
+    ],
+    "distractors": [
+     "bread",
+     "water",
+     "strength"
+    ]
+   },
+   {
+    "id": "2-ne-15-mp-20",
+    "type": "match_pairs",
+    "after_verse": 20,
+    "pairs": [
+     {
+      "left": "evil",
+      "right": "which they call good"
+     },
+     {
+      "left": "darkness",
+      "right": "which they put for light"
+     },
+     {
+      "left": "the bitter",
+      "right": "which they make sweet"
+     }
+    ]
+   },
+   {
+    "id": "2-ne-15-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "because they have cast away the {0} of the Lord of Hosts, and despised the word of the Holy One of Israel.",
+    "blanks": [
+     "law"
+    ],
+    "distractors": [
+     "counsel",
+     "covenant",
+     "fear"
+    ]
+   },
+   {
+    "id": "2-ne-15-fb-29",
+    "type": "fill_blank",
+    "after_verse": 29,
+    "verse": 29,
+    "template": "They shall roar like young {0}; yea, they shall roar, and lay hold of the prey",
+    "blanks": [
+     "lions"
+    ],
+    "distractors": [
+     "bulls",
+     "wolves",
+     "bears"
+    ]
+   }
+  ],
+  "16": [
+   {
+    "id": "2-ne-16-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "In the year that king {0} died, I saw also the Lord",
+    "blanks": [
+     "Uzziah"
+    ],
+    "distractors": [
+     "Ahaz",
+     "Hezekiah",
+     "David"
+    ]
+   },
+   {
+    "id": "2-ne-16-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Holy, holy, holy",
+    "text": "The song of the seraphim — 'Holy, holy, holy, is the Lord of Hosts' — is one of the Bible's oldest expressions of worship and has inspired Christian hymns for centuries."
+   },
+   {
+    "id": "2-ne-16-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "having a live {0} in his hand, which he had taken with the tongs from off the altar",
+    "blanks": [
+     "coal"
+    ],
+    "distractors": [
+     "stone",
+     "torch",
+     "sword"
+    ]
+   },
+   {
+    "id": "2-ne-16-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "When the Lord asks 'Whom shall I send?', how does Isaiah answer?",
+    "options": [
+     "'Here am I; send me'",
+     "'I am not worthy, Lord'",
+     "'Send my brother instead'",
+     "'Give me a sign first'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-16-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "But yet there shall be a {0}, and they shall return",
+    "blanks": [
+     "tenth"
+    ],
+    "distractors": [
+     "third",
+     "half",
+     "fifth"
+    ]
+   }
+  ],
+  "17": [
+   {
+    "id": "2-ne-17-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "The Syro-Ephraimite war",
+    "text": "Around 734 BC the kings of Syria (Rezin) and of Israel/Ephraim (Pekah) besieged Jerusalem to force Judah into an alliance against Assyria. It is in this moment of fear that Isaiah brings God's message to king Ahaz."
+   },
+   {
+    "id": "2-ne-17-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "in the days of {0} the son of Jotham, the son of Uzziah, king of Judah",
+    "blanks": [
+     "Ahaz"
+    ],
+    "distractors": [
+     "Hezekiah",
+     "Manasseh",
+     "David"
+    ]
+   },
+   {
+    "id": "2-ne-17-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "What does the Lord say to Ahaz about Syria and Ephraim's plan against Judah?",
+    "options": [
+     "It shall not stand, neither shall it come to pass",
+     "It will last sixty-five years",
+     "It will destroy Jerusalem",
+     "It will bring peace to Israel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-17-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Behold, the virgin: Immanuel",
+    "text": "The sign of 'Immanuel' (which means 'God with us') is one of Isaiah's most famous prophecies; Matthew 1:23 quotes it in announcing the birth of Jesus Christ."
+   },
+   {
+    "id": "2-ne-17-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "and shall bear a son, and shall call his name {0}.",
+    "blanks": [
+     "Immanuel"
+    ],
+    "distractors": [
+     "Isaiah",
+     "Shearjashub",
+     "Tabeal"
+    ]
+   },
+   {
+    "id": "2-ne-17-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "and for the {0} that is in the land of Assyria.",
+    "blanks": [
+     "bee"
+    ],
+    "distractors": [
+     "wasp",
+     "locust",
+     "hornet"
+    ]
+   },
+   {
+    "id": "2-ne-17-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "for butter and {0} shall every one eat that is left in the land.",
+    "blanks": [
+     "honey"
+    ],
+    "distractors": [
+     "milk",
+     "bread",
+     "oil"
+    ]
+   }
+  ],
+  "18": [
+   {
+    "id": "2-ne-18-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "The longest name in the Bible",
+    "text": "'Maher-shalal-hash-baz' (meaning roughly 'swift to the spoil, hasten to the prey') is the longest name in the Bible. It was given to Isaiah's son as a prophetic sign that Damascus and Samaria would soon fall."
+   },
+   {
+    "id": "2-ne-18-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "before the riches of {0} and the spoil of Samaria shall be taken away",
+    "blanks": [
+     "Damascus"
+    ],
+    "distractors": [
+     "Nineveh",
+     "Babylon",
+     "Tyre"
+    ]
+   },
+   {
+    "id": "2-ne-18-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "this people refuseth the waters of {0} that go softly",
+    "blanks": [
+     "Shiloah"
+    ],
+    "distractors": [
+     "Jordan",
+     "Kidron",
+     "Euphrates"
+    ]
+   },
+   {
+    "id": "2-ne-18-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "And he shall be for a {0}; but for a stone of stumbling",
+    "blanks": [
+     "sanctuary"
+    ],
+    "distractors": [
+     "refuge",
+     "fortress",
+     "shield"
+    ]
+   },
+   {
+    "id": "2-ne-18-mc-19",
+    "after_verse": 19,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 18:19, instead of seeking wizards and those with familiar spirits, what should the people do?",
+    "options": [
+     "Seek unto their God",
+     "Consult the neighboring kings",
+     "Build more altars",
+     "Flee to Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-18-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "And they shall look unto the earth and behold {0}, and darkness, dimness of anguish",
+    "blanks": [
+     "trouble"
+    ],
+    "distractors": [
+     "sorrow",
+     "famine",
+     "ruin"
+    ]
+   }
+  ],
+  "19": [
+   {
+    "id": "2-ne-19-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Those who walked in darkness",
+    "text": "'The people that walked in darkness have seen a great light' is a Messianic prophecy that Matthew 4 applies to Jesus' ministry in Galilee — the very region (Zebulun and Naphtali) named in v.1."
+   },
+   {
+    "id": "2-ne-19-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "The people that walked in darkness have seen a great {0}",
+    "blanks": [
+     "light"
+    ],
+    "distractors": [
+     "hope",
+     "dawn",
+     "fire"
+    ]
+   },
+   {
+    "id": "2-ne-19-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "Wonderful, Prince of Peace",
+    "text": "The five titles in v.6 — Wonderful, Counselor, The Mighty God, The Everlasting Father, The Prince of Peace — are among the best-known Messianic prophecies and were immortalized in Handel's oratorio 'Messiah.'"
+   },
+   {
+    "id": "2-ne-19-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "and his name shall be called, Wonderful, {0}, The Mighty God",
+    "blanks": [
+     "Counselor"
+    ],
+    "distractors": [
+     "Redeemer",
+     "Shepherd",
+     "Advocate"
+    ]
+   },
+   {
+    "id": "2-ne-19-mc-15",
+    "after_verse": 15,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 19:14–15, the Lord cuts off 'head and tail' from Israel. Who is each?",
+    "options": [
+     "The ancient is the head; the prophet who teaches lies is the tail",
+     "The king is the head; the people are the tail",
+     "The priest is the head; the soldier is the tail",
+     "The rich is the head; the poor is the tail"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-19-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "For {0} burneth as the fire; it shall devour the briers and thorns",
+    "blanks": [
+     "wickedness"
+    ],
+    "distractors": [
+     "anger",
+     "envy",
+     "pride"
+    ]
+   },
+   {
+    "id": "2-ne-19-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "they together shall be against {0}.",
+    "blanks": [
+     "Judah"
+    ],
+    "distractors": [
+     "Israel",
+     "Samaria",
+     "Edom"
+    ]
+   }
+  ],
+  "20": [
+   {
+    "id": "2-ne-20-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "O {0}, the rod of mine anger",
+    "blanks": [
+     "Assyrian"
+    ],
+    "distractors": [
+     "Egyptian",
+     "Babylonian",
+     "Philistine"
+    ]
+   },
+   {
+    "id": "2-ne-20-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "Although the Lord uses Assyria as his 'rod,' what does the Assyrian king's heart actually intend (v.7)?",
+    "options": [
+     "To destroy and cut off many nations",
+     "To free the captives",
+     "To rebuild Jerusalem",
+     "To serve the Lord"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-20-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "The axe cannot boast",
+    "text": "Isaiah compares Assyria to an axe or saw: the tool cannot boast against the one who wields it. Assyria is only an instrument in God's hands — and will be punished for its arrogance (v.12)."
+   },
+   {
+    "id": "2-ne-20-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Shall the {0} boast itself against him that heweth therewith?",
+    "blanks": [
+     "ax"
+    ],
+    "distractors": [
+     "hammer",
+     "sickle",
+     "sword"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "and his Holy One for a {0}",
+    "blanks": [
+     "flame"
+    ],
+    "distractors": [
+     "sword",
+     "storm",
+     "cloud"
+    ]
+   },
+   {
+    "id": "2-ne-20-cur-21",
+    "after_verse": 21,
+    "type": "curiosity",
+    "title": "A remnant shall return",
+    "text": "'A remnant shall return' is the meaning of the name Shearjashub, Isaiah's son mentioned in 2 Nephi 17:3. The promise that a faithful remnant of Israel always survives is a central theme of the prophet."
+   },
+   {
+    "id": "2-ne-20-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "though thy people Israel be as the {0} of the sea",
+    "blanks": [
+     "sand"
+    ],
+    "distractors": [
+     "waves",
+     "stones",
+     "foam"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "and his yoke from off thy {0}",
+    "blanks": [
+     "neck"
+    ],
+    "distractors": [
+     "back",
+     "arms",
+     "feet"
+    ]
+   },
+   {
+    "id": "2-ne-20-fb-34",
+    "type": "fill_blank",
+    "after_verse": 34,
+    "verse": 34,
+    "template": "and {0} shall fall by a mighty one.",
+    "blanks": [
+     "Lebanon"
+    ],
+    "distractors": [
+     "Bashan",
+     "Carmel",
+     "Sinai"
+    ]
+   }
+  ],
+  "21": [
+   {
+    "id": "2-ne-21-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "The rod from the stem of Jesse",
+    "text": "Jesse was the father of king David. The 'rod' and 'branch' springing from his stem are a Messianic prophecy: the Savior would come from David's line. 2 Nephi 21 reproduces Isaiah 11."
+   },
+   {
+    "id": "2-ne-21-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "And there shall come forth a rod out of the stem of {0}",
+    "blanks": [
+     "Jesse"
+    ],
+    "distractors": [
+     "David",
+     "Judah",
+     "Abraham"
+    ]
+   },
+   {
+    "id": "2-ne-21-cur-6",
+    "after_verse": 6,
+    "type": "curiosity",
+    "title": "The wolf and the lamb",
+    "text": "The image of the wolf dwelling with the lamb and the child playing by the serpent depicts the 'peaceable kingdom' — a prophecy of the peace that will reign when 'the earth shall be full of the knowledge of the Lord' (v.9)."
+   },
+   {
+    "id": "2-ne-21-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "The wolf also shall dwell with the {0}, and the leopard shall lie down with the kid",
+    "blanks": [
+     "lamb"
+    ],
+    "distractors": [
+     "fox",
+     "hare",
+     "dove"
+    ]
+   },
+   {
+    "id": "2-ne-21-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 21:11–12, what does the Lord promise to do 'the second time'?",
+    "options": [
+     "Gather the scattered remnants of Israel and Judah",
+     "Destroy all the Gentile nations",
+     "Rebuild the temple of Solomon",
+     "Send a great drought"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-21-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "And there shall be a {0} for the remnant of his people which shall be left, from Assyria",
+    "blanks": [
+     "highway"
+    ],
+    "distractors": [
+     "bridge",
+     "gate",
+     "wall"
+    ]
+   }
+  ],
+  "22": [
+   {
+    "id": "2-ne-22-mc-1",
+    "after_verse": 1,
+    "type": "multiple_choice",
+    "question": "What kind of text is 2 Nephi 22 (Isaiah 12)?",
+    "options": [
+     "A short song of praise and thanksgiving to the Lord",
+     "A list of laws",
+     "A genealogy of kings",
+     "A battle account"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-22-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Jehovah, strength and song",
+    "text": "Verse 2 contains one of the rare uses of the name 'Jehovah' (the form of the Lord's name, Hebrew YHWH) in the Book of Mormon. This chapter is a short hymn of thanksgiving for deliverance."
+   },
+   {
+    "id": "2-ne-22-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "with joy shall ye draw water out of the wells of {0}.",
+    "blanks": [
+     "salvation"
+    ],
+    "distractors": [
+     "mercy",
+     "life",
+     "peace"
+    ]
+   },
+   {
+    "id": "2-ne-22-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "Cry out and shout, thou inhabitant of {0}; for great is the Holy One of Israel",
+    "blanks": [
+     "Zion"
+    ],
+    "distractors": [
+     "Babylon",
+     "Egypt",
+     "Samaria"
+    ]
+   }
+  ],
+  "23": [
+   {
+    "id": "2-ne-23-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "The 'burden' of Babylon",
+    "text": "A 'burden' in Isaiah is a solemn oracle of judgment. Here the prophet foretells the fall of Babylon — centuries before it became the empire that would destroy Jerusalem."
+   },
+   {
+    "id": "2-ne-23-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "The burden of {0}, which Isaiah the son of Amoz did see.",
+    "blanks": [
+     "Babylon"
+    ],
+    "distractors": [
+     "Egypt",
+     "Assyria",
+     "Nineveh"
+    ]
+   },
+   {
+    "id": "2-ne-23-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 23:10, what heavenly signs accompany the day of the Lord?",
+    "options": [
+     "The sun, moon, and stars will not give their light",
+     "Fire will fall from the sky onto the sea",
+     "Three red moons will appear",
+     "The sky will open in flames"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-23-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "even a man than the golden wedge of {0}.",
+    "blanks": [
+     "Ophir"
+    ],
+    "distractors": [
+     "Sheba",
+     "Havilah",
+     "Tarshish"
+    ]
+   },
+   {
+    "id": "2-ne-23-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "Behold, I will stir up the {0} against them",
+    "blanks": [
+     "Medes"
+    ],
+    "distractors": [
+     "Persians",
+     "Assyrians",
+     "Edomites"
+    ]
+   },
+   {
+    "id": "2-ne-23-cur-19",
+    "after_verse": 19,
+    "type": "curiosity",
+    "title": "Like Sodom and Gomorrah",
+    "text": "Babylon, 'the glory of kingdoms,' would be overthrown like Sodom and Gomorrah and never again inhabited (vv.19–20). History fulfilled the prophecy: ancient Babylon became deserted ruins."
+   },
+   {
+    "id": "2-ne-23-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "and dragons in their pleasant {0}",
+    "blanks": [
+     "palaces"
+    ],
+    "distractors": [
+     "temples",
+     "towers",
+     "gardens"
+    ]
+   }
+  ],
+  "24": [
+   {
+    "id": "2-ne-24-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "thou shalt take up this proverb against the king of {0}",
+    "blanks": [
+     "Babylon"
+    ],
+    "distractors": [
+     "Assyria",
+     "Persia",
+     "Syria"
+    ]
+   },
+   {
+    "id": "2-ne-24-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "and also the cedars of {0}, saying: Since thou art laid down",
+    "blanks": [
+     "Lebanon"
+    ],
+    "distractors": [
+     "Bashan",
+     "Carmel",
+     "Sinai"
+    ]
+   },
+   {
+    "id": "2-ne-24-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "How art thou fallen, O Lucifer",
+    "text": "This is the only place in scripture where the name 'Lucifer' (Latin for 'light-bearer') appears. The taunt over the king of Babylon, who sought to 'be like the Most High,' is traditionally read also as the fall of Satan."
+   },
+   {
+    "id": "2-ne-24-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "How art thou fallen from {0}, O Lucifer, son of the morning!",
+    "blanks": [
+     "heaven"
+    ],
+    "distractors": [
+     "glory",
+     "grace",
+     "power"
+    ]
+   },
+   {
+    "id": "2-ne-24-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "Is this the man that made the {0} to tremble, that did shake kingdoms?",
+    "blanks": [
+     "earth"
+    ],
+    "distractors": [
+     "heavens",
+     "mountains",
+     "seas"
+    ]
+   },
+   {
+    "id": "2-ne-24-mc-25",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 24:24–27, what does Isaiah affirm about the Lord's purpose?",
+    "options": [
+     "That none can disannul it nor turn back his hand",
+     "That it can be changed by the prayers of kings",
+     "That it depends on Assyria's strength",
+     "That it will never be revealed"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-24-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "In the year that king {0} died was this burden.",
+    "blanks": [
+     "Ahaz"
+    ],
+    "distractors": [
+     "Uzziah",
+     "Hezekiah",
+     "David"
+    ]
+   },
+   {
+    "id": "2-ne-24-cur-32",
+    "after_verse": 32,
+    "type": "curiosity",
+    "title": "End of the Isaiah block",
+    "text": "This chapter closes Nephi's long quotation of Isaiah: 2 Nephi 12–24 reproduces Isaiah 2–14. From the next chapter on, Nephi explains these words in his own voice."
+   },
+   {
+    "id": "2-ne-24-fb-32",
+    "type": "fill_blank",
+    "after_verse": 32,
+    "verse": 32,
+    "template": "That the Lord hath founded {0}, and the poor of his people shall trust in it.",
+    "blanks": [
+     "Zion"
+    ],
+    "distractors": [
+     "Babylon",
+     "Egypt",
+     "Samaria"
+    ]
+   }
+  ],
+  "25": [
+   {
+    "id": "2-ne-25-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "Nephi explains Isaiah",
+    "text": "After quoting Isaiah for thirteen chapters, Nephi acknowledges that his words 'are hard to understand' and chooses to teach with 'plainness' — because he did not teach his people 'after the manner of the Jews.'"
+   },
+   {
+    "id": "2-ne-25-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "my soul delighteth in {0} unto my people",
+    "blanks": [
+     "plainness"
+    ],
+    "distractors": [
+     "mercy",
+     "wisdom",
+     "justice"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "save it be those which are carried away captive into {0}.",
+    "blanks": [
+     "Babylon"
+    ],
+    "distractors": [
+     "Egypt",
+     "Assyria",
+     "Nineveh"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "after he is laid in a sepulchre for the space of {0} days he shall rise from the dead",
+    "blanks": [
+     "three"
+    ],
+    "distractors": [
+     "two",
+     "seven",
+     "forty"
+    ]
+   },
+   {
+    "id": "2-ne-25-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "the Messiah cometh in {0} years from the time that my father left Jerusalem",
+    "blanks": [
+     "six hundred"
+    ],
+    "distractors": [
+     "four hundred",
+     "a thousand",
+     "three hundred"
+    ]
+   },
+   {
+    "id": "2-ne-25-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 25:23, how does Nephi describe salvation?",
+    "options": [
+     "It is by grace that we are saved, after all we can do",
+     "We are saved by our works alone",
+     "We are saved with no effort at all",
+     "Grace is only for the Jews"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-25-cur-26",
+    "after_verse": 26,
+    "type": "curiosity",
+    "title": "We talk of Christ",
+    "text": "Verse 26 — 'we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ' — is one of the most beloved statements in the Book of Mormon about the Nephite focus on the Savior."
+   },
+   {
+    "id": "2-ne-25-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "until the law shall be fulfilled which was given unto {0}.",
+    "blanks": [
+     "Moses"
+    ],
+    "distractors": [
+     "Abraham",
+     "Isaiah",
+     "Aaron"
+    ]
+   }
+  ],
+  "26": [
+   {
+    "id": "2-ne-26-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 26:3, what signs would be given to Nephi's people?",
+    "options": [
+     "Signs of the Messiah's birth, death, and resurrection",
+     "The exact day of the end of the world",
+     "The location of treasures",
+     "The names of all future kings"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-26-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "But the Son of {0} shall appear unto them; and he shall heal them",
+    "blanks": [
+     "Righteousness"
+    ],
+    "distractors": [
+     "Peace",
+     "Glory",
+     "Light"
+    ]
+   },
+   {
+    "id": "2-ne-26-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "Jesus is the Christ, the {0} God",
+    "blanks": [
+     "Eternal"
+    ],
+    "distractors": [
+     "living",
+     "mighty",
+     "unseen"
+    ]
+   },
+   {
+    "id": "2-ne-26-cur-16",
+    "after_verse": 16,
+    "type": "curiosity",
+    "title": "A voice out of the dust",
+    "text": "Nephi foresees that the record of his destroyed people will 'whisper out of the dust' — a voice speaking from the ground. Latter-day Saints see here the Book of Mormon itself, coming forth centuries later (cf. Isaiah 29)."
+   },
+   {
+    "id": "2-ne-26-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "and their speech shall whisper out of the {0}.",
+    "blanks": [
+     "dust"
+    ],
+    "distractors": [
+     "grave",
+     "ashes",
+     "stones"
+    ]
+   },
+   {
+    "id": "2-ne-26-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "buy milk and {0}, without money and without price.",
+    "blanks": [
+     "honey"
+    ],
+    "distractors": [
+     "bread",
+     "oil",
+     "wine"
+    ]
+   },
+   {
+    "id": "2-ne-26-cur-29",
+    "after_verse": 29,
+    "type": "curiosity",
+    "title": "What 'priestcraft' is",
+    "text": "Nephi defines 'priestcraft': to preach and set oneself up as a light to the world in order to get gain and praise, without seeking the welfare of Zion. It is one of the few places in scripture that define the term."
+   },
+   {
+    "id": "2-ne-26-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "all men should have charity, which charity is {0}.",
+    "blanks": [
+     "love"
+    ],
+    "distractors": [
+     "peace",
+     "duty",
+     "honor"
+    ]
+   },
+   {
+    "id": "2-ne-26-mc-33",
+    "after_verse": 33,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 26:33, whom does God invite to partake of his goodness?",
+    "options": [
+     "All — black and white, bond and free, male and female",
+     "Only the Jews",
+     "Only the righteous",
+     "Only the rich"
+    ],
+    "answer": 0
+   }
+  ],
+  "27": [
+   {
+    "id": "2-ne-27-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "the Lord hath poured out upon you the spirit of deep {0}",
+    "blanks": [
+     "sleep"
+    ],
+    "distractors": [
+     "fear",
+     "darkness",
+     "sorrow"
+    ]
+   },
+   {
+    "id": "2-ne-27-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "The sealed book",
+    "text": "Nephi describes a book sealed 'by the power of God,' whose sealed portion will come forth only in the Lord's own due time. Latter-day Saints understand this as the plates of the Book of Mormon, a portion of which remains sealed."
+   },
+   {
+    "id": "2-ne-27-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "which are the words of those who have slumbered in the {0}",
+    "blanks": [
+     "dust"
+    ],
+    "distractors": [
+     "grave",
+     "earth",
+     "tomb"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "save it be that {0} witnesses shall behold it, by the power of God",
+    "blanks": [
+     "three"
+    ],
+    "distractors": [
+     "two",
+     "seven",
+     "twelve"
+    ]
+   },
+   {
+    "id": "2-ne-27-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "Read this, I pray thee",
+    "text": "Verses 15–20 (quoting Isaiah 29) describe a 'learned' man who cannot read the words of a sealed book. Latter-day Saints see the fulfillment in 1828, when Martin Harris took a copy of the characters to Professor Charles Anthon."
+   },
+   {
+    "id": "2-ne-27-mc-19",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 27:19–20, after the learned man cannot read the book, to whom does the Lord deliver the words?",
+    "options": [
+     "To the man who is not learned",
+     "To a powerful king",
+     "To an angel",
+     "To a priest"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-27-fb-23",
+    "type": "fill_blank",
+    "after_verse": 23,
+    "verse": 23,
+    "template": "and I am a God of {0}; and I will show unto the world",
+    "blanks": [
+     "miracles"
+    ],
+    "distractors": [
+     "mercy",
+     "justice",
+     "truth"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "yea, a marvelous work and a {0}, for the wisdom",
+    "blanks": [
+     "wonder"
+    ],
+    "distractors": [
+     "miracle",
+     "mystery",
+     "sign"
+    ]
+   },
+   {
+    "id": "2-ne-27-fb-33",
+    "type": "fill_blank",
+    "after_verse": 33,
+    "verse": 33,
+    "template": "thus saith the Lord, who redeemed {0}, concerning the house of Jacob",
+    "blanks": [
+     "Abraham"
+    ],
+    "distractors": [
+     "Isaac",
+     "Moses",
+     "David"
+    ]
+   }
+  ],
+  "28": [
+   {
+    "id": "2-ne-28-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "And they deny the {0} of God, the Holy One of Israel",
+    "blanks": [
+     "power"
+    ],
+    "distractors": [
+     "name",
+     "love",
+     "kingdom"
+    ]
+   },
+   {
+    "id": "2-ne-28-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "What false doctrine does Nephi warn many will teach (2 Nephi 28:7–8)?",
+    "options": [
+     "'Eat, drink, and be merry; God will justify a little sin and we shall still be saved'",
+     "'Keep all the commandments exactly'",
+     "'Sell all you have and give to the poor'",
+     "'Fast and pray without ceasing'"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-28-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "save it be a few, who are the {0} followers of Christ",
+    "blanks": [
+     "humble"
+    ],
+    "distractors": [
+     "faithful",
+     "devoted",
+     "worthy"
+    ]
+   },
+   {
+    "id": "2-ne-28-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "must tumble to the earth, and great must be the {0} thereof.",
+    "blanks": [
+     "fall"
+    ],
+    "distractors": [
+     "ruin",
+     "sorrow",
+     "shame"
+    ]
+   },
+   {
+    "id": "2-ne-28-cur-21",
+    "after_verse": 21,
+    "type": "curiosity",
+    "title": "All is well in Zion",
+    "text": "Nephi describes the devil's strategies in the last days: to enrage some, to tell others there is no hell, and to lull many with the 'carnal security' that 'all is well in Zion.' It is one of the chapter's most quoted warnings."
+   },
+   {
+    "id": "2-ne-28-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "and lull them away into {0} security",
+    "blanks": [
+     "carnal"
+    ],
+    "distractors": [
+     "false",
+     "worldly",
+     "empty"
+    ]
+   },
+   {
+    "id": "2-ne-28-cur-30",
+    "after_verse": 30,
+    "type": "curiosity",
+    "title": "Line upon line",
+    "text": "'Line upon line, precept upon precept, here a little and there a little' describes how God reveals truth gradually — and the promise that to him who receives, more will be given."
+   },
+   {
+    "id": "2-ne-28-fb-30",
+    "type": "fill_blank",
+    "after_verse": 30,
+    "verse": 30,
+    "template": "for they shall learn {0}; for unto him that receiveth",
+    "blanks": [
+     "wisdom"
+    ],
+    "distractors": [
+     "patience",
+     "mercy",
+     "peace"
+    ]
+   },
+   {
+    "id": "2-ne-28-fb-31",
+    "type": "fill_blank",
+    "after_verse": 31,
+    "verse": 31,
+    "template": "Cursed is he that putteth his trust in {0}, or maketh flesh his arm",
+    "blanks": [
+     "man"
+    ],
+    "distractors": [
+     "kings",
+     "gold",
+     "idols"
+    ]
+   }
+  ],
+  "29": [
+   {
+    "id": "2-ne-29-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "A Bible! A Bible!",
+    "text": "This chapter answers those who reject new scripture saying 'we have a Bible and there cannot be any more.' The Lord reminds them that the Bible itself came through the Jews and that he speaks to more than one nation."
+   },
+   {
+    "id": "2-ne-29-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "it shall proceed forth from the {0}, mine ancient covenant people.",
+    "blanks": [
+     "Jews"
+    ],
+    "distractors": [
+     "Gentiles",
+     "Egyptians",
+     "Romans"
+    ]
+   },
+   {
+    "id": "2-ne-29-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "The testimony of two nations",
+    "text": "The Lord explains that 'the testimony of two nations' confirms his word — Latter-day Saints see here the Bible and the Book of Mormon running together as two witnesses (cf. 2 Nephi 3 and Ezekiel 37)."
+   },
+   {
+    "id": "2-ne-29-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "Know ye not that the testimony of {0} nations is a witness unto you that I am God",
+    "blanks": [
+     "two"
+    ],
+    "distractors": [
+     "three",
+     "many",
+     "seven"
+    ]
+   },
+   {
+    "id": "2-ne-29-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 29:12, to whom does the Lord say he will speak and have his word written?",
+    "options": [
+     "To the Jews, the Nephites, the other tribes of Israel, and all nations",
+     "Only to the Jews",
+     "Only to the Nephites",
+     "Only to the prophets"
+    ],
+    "answer": 0
+   }
+  ],
+  "30": [
+   {
+    "id": "2-ne-30-mc-2",
+    "after_verse": 2,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 30:2, who are the covenant people of the Lord?",
+    "options": [
+     "Those who repent and believe in the Son of God, whether Gentile or Jew",
+     "Only the descendants of Nephi",
+     "Only the Jews by birth",
+     "The richest among the Gentiles"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-30-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "and their {0} of darkness shall begin to fall from their eyes",
+    "blanks": [
+     "scales"
+    ],
+    "distractors": [
+     "veil",
+     "clouds",
+     "chains"
+    ]
+   },
+   {
+    "id": "2-ne-30-cur-12",
+    "after_verse": 12,
+    "type": "curiosity",
+    "title": "The peaceable kingdom, again",
+    "text": "Verses 9–15 repeat almost word for word the prophecy of Isaiah 11 (already quoted in 2 Nephi 21) — the wolf with the lamb and the earth full of the knowledge of the Lord. Nephi returns to it while speaking of the latter-day restoration."
+   },
+   {
+    "id": "2-ne-30-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "And the cow and the {0} shall feed; their young ones shall lie down together",
+    "blanks": [
+     "bear"
+    ],
+    "distractors": [
+     "fox",
+     "goat",
+     "deer"
+    ]
+   },
+   {
+    "id": "2-ne-30-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "and {0} shall have power over the hearts of the children of men no more",
+    "blanks": [
+     "Satan"
+    ],
+    "distractors": [
+     "death",
+     "sin",
+     "the world"
+    ]
+   }
+  ],
+  "31": [
+   {
+    "id": "2-ne-31-cur-4",
+    "after_verse": 4,
+    "type": "curiosity",
+    "title": "The prophet who would baptize the Lamb",
+    "text": "Nephi recalls the prophet who 'should baptize the Lamb of God' — John the Baptist, whom he had seen in vision (1 Nephi 11). If even Jesus, being holy, was baptized, how much more we."
+   },
+   {
+    "id": "2-ne-31-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "to fulfil all {0}, O then, how much more need",
+    "blanks": [
+     "righteousness"
+    ],
+    "distractors": [
+     "mercy",
+     "wisdom",
+     "obedience"
+    ]
+   },
+   {
+    "id": "2-ne-31-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "the Holy Ghost descended upon him in the form of a {0}",
+    "blanks": [
+     "dove"
+    ],
+    "distractors": [
+     "flame",
+     "cloud",
+     "light"
+    ]
+   },
+   {
+    "id": "2-ne-31-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "and then can ye speak with the tongue of {0}, and shout praises unto the Holy One of Israel",
+    "blanks": [
+     "angels"
+    ],
+    "distractors": [
+     "prophets",
+     "saints",
+     "men"
+    ]
+   },
+   {
+    "id": "2-ne-31-mc-17",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 31:17, what is the 'gate' by which one should enter the path?",
+    "options": [
+     "Repentance and baptism by water",
+     "Fasting and prayer",
+     "Keeping the law of Moses",
+     "Animal sacrifice"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-31-cur-20",
+    "after_verse": 20,
+    "type": "curiosity",
+    "title": "Press forward, feasting",
+    "text": "Verse 20 — 'press forward with a steadfastness in Christ... feasting upon the word of Christ, and endure to the end' — sums up the doctrine of Christ and is one of the most beloved verses in the Book of Mormon."
+   },
+   {
+    "id": "2-ne-31-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "having a perfect brightness of {0}, and a love of God and of all men",
+    "blanks": [
+     "hope"
+    ],
+    "distractors": [
+     "joy",
+     "peace",
+     "light"
+    ]
+   },
+   {
+    "id": "2-ne-31-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 31, what is the 'doctrine of Christ' that Nephi teaches?",
+    "options": [
+     "Faith in Christ, repentance, baptism, the Holy Ghost, and enduring to the end",
+     "Only keeping the Ten Commandments",
+     "Building temples and offering sacrifices",
+     "Fasting for forty days"
+    ],
+    "answer": 0
+   }
+  ],
+  "32": [
+   {
+    "id": "2-ne-32-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Feast upon the words of Christ",
+    "text": "'Feast upon the words of Christ, for they will tell you all things what ye should do' (v.3) is one of the most quoted invitations in the Book of Mormon — angels speak by the Holy Ghost, and therefore they speak the words of Christ."
+   },
+   {
+    "id": "2-ne-32-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "According to 2 Nephi 32:3, what will the 'words of Christ' do for those who feast upon them?",
+    "options": [
+     "Tell them all things what they should do",
+     "Reveal the day of the Second Coming",
+     "Grant them riches",
+     "Remove all physical pain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-32-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "I am left to mourn because of the {0}, and the wickedness, and the ignorance",
+    "blanks": [
+     "unbelief"
+    ],
+    "distractors": [
+     "pride",
+     "sloth",
+     "fear"
+    ]
+   },
+   {
+    "id": "2-ne-32-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "Who teaches us to pray",
+    "text": "Nephi gives a simple test: the Spirit teaches a man to pray, but 'the evil spirit teacheth him that he must not pray.' The impulse to pray comes from God."
+   },
+   {
+    "id": "2-ne-32-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "I say unto you that ye must {0} always, and not faint",
+    "blanks": [
+     "pray"
+    ],
+    "distractors": [
+     "watch",
+     "labor",
+     "fast"
+    ]
+   }
+  ],
+  "33": [
+   {
+    "id": "2-ne-33-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "the power of the Holy Ghost carrieth it unto the {0} of the children of men",
+    "blanks": [
+     "hearts"
+    ],
+    "distractors": [
+     "minds",
+     "souls",
+     "ears"
+    ]
+   },
+   {
+    "id": "2-ne-33-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "Tears for his people",
+    "text": "Nephi reveals his love: he prays for his people by day and 'mine eyes water my pillow by night, because of them.' Though weak in writing, he trusts the Lord will consecrate his words for their good."
+   },
+   {
+    "id": "2-ne-33-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "I glory in my Jesus, for he hath redeemed my soul from {0}.",
+    "blanks": [
+     "hell"
+    ],
+    "distractors": [
+     "death",
+     "sin",
+     "bondage"
+    ]
+   },
+   {
+    "id": "2-ne-33-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "In 2 Nephi 33:7–9, for whom does Nephi declare he has charity?",
+    "options": [
+     "For his people, for the Jews, and for the Gentiles",
+     "Only for his own people",
+     "Only for the righteous",
+     "Only for his family"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "2-ne-33-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "The voice crying from the dust",
+    "text": "Nephi closes 2 Nephi with a solemn farewell, speaking 'as the voice of one crying from the dust' — an image from Isaiah 29 that presents his record as a voice that speaks even after death. It is the end of his words."
+   },
+   {
+    "id": "2-ne-33-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "I speak unto you as the voice of one crying from the {0}: Farewell",
+    "blanks": [
+     "dust"
+    ],
+    "distractors": [
+     "grave",
+     "ground",
+     "tomb"
+    ]
+   }
+  ]
+ }
+}

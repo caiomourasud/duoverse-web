@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "book": "philip",
+  "chapters": {
+    "1": [
+      {
+        "id": "philip-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Con qué sentimiento dice Pablo que ruega por ellos en sus oraciones?",
+        "options": [
+          "Con gozo",
+          "Con tristeza",
+          "Con temor",
+          "Con pesar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-1-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Quién comienza la buena obra",
+        "text": "Pablo está convencido de que el que comenzó la buena obra en los santos la perfeccionará hasta el día de Jesucristo, enseñando que el crecimiento espiritual es una obra que Dios lleva a término."
+      },
+      {
+        "id": "philip-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Y esto pido en oración: que vuestro {0} abunde aún más y más en conocimiento",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "paz",
+          "gracia",
+          "gozo"
+        ]
+      },
+      {
+        "id": "philip-1-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "El pretorio",
+        "text": "Pablo dice que sus prisiones en Cristo fueron evidentes en todo el pretorio, la guardia imperial de Roma, mostrando que aun en cautiverio su testimonio llegaba al corazón del imperio."
+      },
+      {
+        "id": "philip-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Según Pablo, ¿qué efecto tuvieron sus prisiones sobre la mayoría de los hermanos?",
+        "options": [
+          "Cobraron ánimo y se atrevieron a hablar la palabra sin temor",
+          "Abandonaron la fe",
+          "Huyeron de Roma",
+          "Callaron por miedo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-1-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Envidia y contienda",
+            "right": "Motivo equivocado de algunos que predicaban"
+          },
+          {
+            "left": "Buena voluntad / amor",
+            "right": "Motivo correcto de otros que predicaban"
+          },
+          {
+            "left": "Cristo es anunciado",
+            "right": "Lo que hace que Pablo se regocije"
+          }
+        ]
+      },
+      {
+        "id": "philip-1-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Engrandecido por vida o por muerte",
+        "text": "Pablo espera que Cristo sea engrandecido en su cuerpo \"ya sea por vida o por muerte\", expresando la paz de quien confía al Señor el desenlace de su propia vida."
+      },
+      {
+        "id": "philip-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Porque para mí el vivir es Cristo, y el morir es {0}.",
+        "blanks": [
+          "ganancia"
+        ],
+        "distractors": [
+          "pérdida",
+          "vida",
+          "gloria"
+        ]
+      },
+      {
+        "id": "philip-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Por qué juzga Pablo más necesario quedarse con los santos en lugar de partir?",
+        "options": [
+          "Por causa de ellos, para provecho suyo y gozo de la fe",
+          "Porque temía la muerte",
+          "Porque aún no había predicado el evangelio",
+          "Porque Roma lo había liberado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-1-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Un mismo espíritu",
+            "right": "Cómo deben permanecer firmes los santos"
+          },
+          {
+            "left": "Los que se oponen",
+            "right": "Para ellos es indicio de perdición"
+          },
+          {
+            "left": "Los santos",
+            "right": "Para ellos es indicio de salvación, y esto de Dios"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "philip-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según el versículo 3, ¿cómo debe estimar cada uno a los demás?",
+        "options": [
+          "Como superiores a sí mismo",
+          "Como iguales a sí mismo",
+          "Como inferiores a sí mismo",
+          "Como ajenos a sí mismo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-2-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "El himno a Cristo",
+        "text": "Los versículos 5 al 11 son considerados por muchos eruditos uno de los himnos cristianos más antiguos, describiendo el anonadamiento y la exaltación de Cristo. Es uno de los pasajes más célebres sobre la naturaleza divina de Jesús."
+      },
+      {
+        "id": "philip-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "sin embargo, se despojó a sí mismo, tomando forma de {0}, haciéndose semejante a los hombres;",
+        "blanks": [
+          "siervo"
+        ],
+        "distractors": [
+          "Dios",
+          "hombre",
+          "Señor"
+        ]
+      },
+      {
+        "id": "philip-2-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Se despojó a sí mismo",
+            "right": "Cristo tomó forma de siervo"
+          },
+          {
+            "left": "Se humilló",
+            "right": "Se hizo obediente hasta la muerte de cruz"
+          },
+          {
+            "left": "Dios le exaltó",
+            "right": "Le dio un nombre sobre todo nombre"
+          },
+          {
+            "left": "Toda rodilla se doble",
+            "right": "Ante el nombre de Jesús"
+          }
+        ]
+      },
+      {
+        "id": "philip-2-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo dice Pablo que debemos labrar nuestra salvación?",
+        "options": [
+          "Con temor y temblor",
+          "Con prisa y celo",
+          "Con fuerza y poder",
+          "Con risa y fiesta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-2-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Haced todo sin {0} ni contiendas,",
+        "blanks": [
+          "murmuraciones"
+        ],
+        "distractors": [
+          "alegrías",
+          "obediencias",
+          "consolaciones"
+        ]
+      },
+      {
+        "id": "philip-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿A quién esperaba Pablo enviar pronto a los filipenses?",
+        "options": [
+          "Timoteo",
+          "Epafrodito",
+          "Pedro",
+          "Lucas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-2-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Quién fue Epafrodito",
+        "text": "Epafrodito era un miembro de la iglesia de Filipos enviado para ayudar a Pablo en la prisión. Enfermó al borde de la muerte mientras servía, y Pablo lo devolvió con elogios, pidiendo que fuera recibido con honra."
+      },
+      {
+        "id": "philip-2-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué le sucedió a Epafrodito mientras servía?",
+        "options": [
+          "Estuvo enfermo, al borde de la muerte",
+          "Fue encarcelado con Pablo",
+          "Viajó a Roma",
+          "Perdió la fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-2-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Recibidle, pues, en el Señor con todo {0}; y tened en estima a los que son como él,",
+        "blanks": [
+          "gozo"
+        ],
+        "distractors": [
+          "tristeza",
+          "afecto",
+          "temor"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "philip-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Perros y circuncisión",
+        "text": "Al llamar \"perros\" a los que insistían en la circuncisión, Pablo invierte un insulto que algunos judíos aplicaban a los gentiles, advirtiendo a los santos a no confiar en ritos externos."
+      },
+      {
+        "id": "philip-3-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según su linaje, ¿de qué tribu de Israel decía Pablo que descendía?",
+        "options": [
+          "Benjamín",
+          "Judá",
+          "Leví",
+          "Efraín"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "y lo tengo por {0}, para ganar a Cristo",
+        "blanks": [
+          "basura"
+        ],
+        "distractors": [
+          "ganancia",
+          "justicia",
+          "gloria"
+        ]
+      },
+      {
+        "id": "philip-3-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "A fin de conocerle",
+            "right": "y el poder de su resurrección"
+          },
+          {
+            "left": "La participación",
+            "right": "de sus padecimientos"
+          },
+          {
+            "left": "Llegase a la",
+            "right": "resurrección de entre los muertos"
+          },
+          {
+            "left": "Prosigo",
+            "right": "para ver si alcanzo aquello"
+          }
+        ]
+      },
+      {
+        "id": "philip-3-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "prosigo a la {0}, al premio del supremo llamamiento de Dios",
+        "blanks": [
+          "meta"
+        ],
+        "distractors": [
+          "carne",
+          "vientre",
+          "norma"
+        ]
+      },
+      {
+        "id": "philip-3-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Dónde dice Pablo que está nuestra ciudadanía?",
+        "options": [
+          "En los cielos",
+          "En Roma",
+          "En Filipos",
+          "En Israel"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "philip-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué dice Pablo a los filipenses que hagan siempre en el Señor?",
+        "options": [
+          "Regocijarse",
+          "Ayunar",
+          "Viajar",
+          "Callar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-4-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "La paz que sobrepasa el entendimiento",
+        "text": "Pablo escribe sobre una paz que 'sobrepasa todo entendimiento' estando él mismo preso en Roma, mostrando que esa paz no depende de las circunstancias externas."
+      },
+      {
+        "id": "philip-4-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Por nada estéis {0}; sino sean dadas a conocer vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias.",
+        "blanks": [
+          "afanosos"
+        ],
+        "distractors": [
+          "gozosos",
+          "firmes",
+          "enseñados"
+        ]
+      },
+      {
+        "id": "philip-4-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Todo lo que es verdadero",
+            "right": "En esto pensad"
+          },
+          {
+            "left": "Todo lo puro",
+            "right": "En esto pensad"
+          },
+          {
+            "left": "Todo lo amable",
+            "right": "En esto pensad"
+          },
+          {
+            "left": "Todo lo que es de buen nombre",
+            "right": "En esto pensad"
+          }
+        ]
+      },
+      {
+        "id": "philip-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Todo lo puedo en {0} que me fortalece.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Dios",
+          "Epafrodito",
+          "Clemente"
+        ]
+      },
+      {
+        "id": "philip-4-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿De quién recibió Pablo lo que los filipenses le enviaron?",
+        "options": [
+          "De Epafrodito",
+          "de Clemente",
+          "de Evodia",
+          "de Síntique"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "philip-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Conforme a qué proveerá Dios todo lo que falta a los filipenses?",
+        "options": [
+          "Conforme a sus riquezas en gloria",
+          "Conforme a sus obras",
+          "Conforme a la ley de Moisés",
+          "Conforme a los méritos de Pablo"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

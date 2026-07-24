@@ -1,0 +1,205 @@
+{
+ "schema_version": 1,
+ "book": "omni",
+ "chapters": {
+  "1": [
+   {
+    "id": "omni-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "A rare confession",
+    "text": "Omni candidly calls himself ‘a wicked man’ who had not kept the commandments as he should—an unusually honest self-assessment from a record-keeper, in a book that will pass through five different writers."
+   },
+   {
+    "id": "omni-1-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "the more {0} part of the Nephites were destroyed",
+    "blanks": [
+     "wicked"
+    ],
+    "distractors": [
+     "righteous",
+     "faithful",
+     "humble"
+    ]
+   },
+   {
+    "id": "omni-1-mc-6",
+    "after_verse": 6,
+    "type": "multiple_choice",
+    "question": "What word of the Lord did Amaron say was fulfilled when the wicked Nephites were destroyed?",
+    "options": [
+     "‘If ye will not keep my commandments, ye shall not prosper in the land’",
+     "‘I will never leave you nor forsake you’",
+     "‘Vengeance is mine’",
+     "‘Ask and ye shall receive’"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "I, {0}, am the son of Chemish",
+    "blanks": [
+     "Abinadom"
+    ],
+    "distractors": [
+     "Amaron",
+     "Amaleki",
+     "Omni"
+    ]
+   },
+   {
+    "id": "omni-1-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Warned by the Lord, where did Mosiah lead those who would hearken?",
+    "options": [
+     "Out of the land of Nephi, down to the land of Zarahemla",
+     "Back across the sea to Jerusalem",
+     "Up into the land northward",
+     "Into the land of the Lamanites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "the plates of {0} which contained the record of the Jews",
+    "blanks": [
+     "brass"
+    ],
+    "distractors": [
+     "gold",
+     "iron",
+     "silver"
+    ]
+   },
+   {
+    "id": "omni-1-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "The people of Zarahemla",
+    "text": "Amaleki reveals that the people of Zarahemla had left Jerusalem when King Zedekiah was carried captive to Babylon (about 587 BC)—a second group from Jerusalem, later called the Mulekites, who had lost their records and language."
+   },
+   {
+    "id": "omni-1-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "Mosiah was appointed to be their {0}",
+    "blanks": [
+     "king"
+    ],
+    "distractors": [
+     "judge",
+     "prophet",
+     "priest"
+    ]
+   },
+   {
+    "id": "omni-1-mc-20",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "How did Mosiah interpret the engravings on the large stone brought to him?",
+    "options": [
+     "By the gift and power of God",
+     "With the brass plates",
+     "By asking the people of Zarahemla",
+     "Using the language of the Lamanites"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "he dwelt with them for the space of nine {0}",
+    "blanks": [
+     "moons"
+    ],
+    "distractors": [
+     "stars",
+     "years",
+     "weeks"
+    ]
+   },
+   {
+    "id": "omni-1-cur-22",
+    "after_verse": 22,
+    "type": "curiosity",
+    "title": "A glimpse of the Jaredites",
+    "text": "The engraved stone told of Coriantumr, whose ‘first parents came out from the tower’ when the Lord confounded the language—the earliest hint of the Jaredites, whose full story is later given in the book of Ether."
+   },
+   {
+    "id": "omni-1-mc-25",
+    "after_verse": 25,
+    "type": "multiple_choice",
+    "question": "Having no children, to whom did Amaleki deliver the plates?",
+    "options": [
+     "King Benjamin, a just man before the Lord",
+     "His own eldest son",
+     "The record-keeper Chemish",
+     "The people of Zarahemla by vote"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "offer your whole {0} as an offering unto him",
+    "blanks": [
+     "souls"
+    ],
+    "distractors": [
+     "hearts",
+     "lives",
+     "minds"
+    ]
+   },
+   {
+    "id": "omni-1-cur-30",
+    "after_verse": 30,
+    "type": "curiosity",
+    "title": "The small plates are full",
+    "text": "Amaleki ends by noting ‘these plates are full,’ and with no descendants he gives them to king Benjamin. This closes the small plates of Nephi—the next book, Words of Mormon, bridges to Mormon's abridgment."
+   },
+   {
+    "id": "omni-1-mp-30",
+    "type": "match_pairs",
+    "after_verse": 30,
+    "pairs": [
+     {
+      "left": "Omni",
+      "right": "Fought for the Nephites; called himself wicked"
+     },
+     {
+      "left": "Amaron",
+      "right": "Wrote of the more wicked Nephites being destroyed"
+     },
+     {
+      "left": "Chemish",
+      "right": "Wrote in the same book as his brother"
+     },
+     {
+      "left": "Abinadom",
+      "right": "Knew of no revelation beyond what was written"
+     },
+     {
+      "left": "Amaleki",
+      "right": "Told of Mosiah and gave the plates to king Benjamin"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,5146 @@
+{
+  "schema_version": 1,
+  "book": "luke",
+  "chapters": {
+    "1": [
+      {
+        "id": "luke-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "A quem Lucas escreveu",
+        "text": "Lucas dirige seu relato a um leitor chamado Teófilo, nome que significa \"amigo de Deus\". É o único evangelho endereçado a uma pessoa específica."
+      },
+      {
+        "id": "luke-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Existiu, no tempo de Herodes, rei da Judeia, um sacerdote chamado {0}, da ordem de Abias",
+        "blanks": [
+          "Zacarias"
+        ],
+        "distractors": [
+          "Gabriel",
+          "José",
+          "Aarão"
+        ]
+      },
+      {
+        "id": "luke-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que Zacarias e Isabel não tinham filhos?",
+        "options": [
+          "Isabel era estéril e ambos eram avançados em idade",
+          "Eram jovens demais",
+          "Haviam feito um voto",
+          "Estavam separados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Isabel, tua mulher, dará à luz um filho, e lhe porás o nome de {0}",
+        "blanks": [
+          "João"
+        ],
+        "distractors": [
+          "Jesus",
+          "Zacarias",
+          "Elias"
+        ]
+      },
+      {
+        "id": "luke-1-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Como o anjo se identificou diante de Zacarias?",
+        "options": [
+          "Eu sou Gabriel, que assisto diante de Deus",
+          "Eu sou Elias, o profeta",
+          "Eu sou Miguel, o arcanjo",
+          "Eu sou Rafael, o mensageiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E eis que ficarás {0}, e não poderás falar até o dia em que essas coisas aconteçam",
+        "blanks": [
+          "mudo"
+        ],
+        "distractors": [
+          "cego",
+          "surdo",
+          "manco"
+        ]
+      },
+      {
+        "id": "luke-1-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "foi o anjo Gabriel enviado por Deus a uma cidade da Galileia, chamada {0}",
+        "blanks": [
+          "Nazaré"
+        ],
+        "distractors": [
+          "Judá",
+          "Belém",
+          "Jerusalém"
+        ]
+      },
+      {
+        "id": "luke-1-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "em teu ventre conceberás, e darás à luz um filho, e pôr-lhe-ás o nome de {0}",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "João",
+          "Davi",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "luke-1-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "O que o anjo declarou a Maria sobre o poder de Deus?",
+        "options": [
+          "Para Deus nada será impossível",
+          "Deus exige um sinal",
+          "Deus julgará os soberbos",
+          "Deus não fala com mulheres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "ao ouvir Isabel a saudação de Maria, a criancinha saltou no seu ventre; e Isabel foi cheia do {0} Santo",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "Senhor",
+          "anjo",
+          "céu"
+        ]
+      },
+      {
+        "id": "luke-1-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Disse então Maria: A minha alma engrandece ao {0}",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Altíssimo",
+          "Salvador",
+          "Poderoso"
+        ]
+      },
+      {
+        "id": "luke-1-mp-51",
+        "type": "match_pairs",
+        "after_verse": 51,
+        "pairs": [
+          {
+            "left": "Zacarias",
+            "right": "Sacerdote, pai de João"
+          },
+          {
+            "left": "Isabel",
+            "right": "Mãe de João, estéril"
+          },
+          {
+            "left": "Maria",
+            "right": "Virgem, mãe de Jesus"
+          },
+          {
+            "left": "Gabriel",
+            "right": "Anjo mensageiro"
+          }
+        ]
+      },
+      {
+        "id": "luke-1-fb-57",
+        "type": "fill_blank",
+        "after_verse": 57,
+        "verse": 57,
+        "template": "E completou-se para Isabel o tempo de dar à luz, e teve um {0}",
+        "blanks": [
+          "filho"
+        ],
+        "distractors": [
+          "anjo",
+          "sinal",
+          "irmão"
+        ]
+      },
+      {
+        "id": "luke-1-fb-63",
+        "type": "fill_blank",
+        "after_verse": 63,
+        "verse": 63,
+        "template": "E pedindo ele uma tabuinha de escrever, escreveu, dizendo: O seu nome é {0}",
+        "blanks": [
+          "João"
+        ],
+        "distractors": [
+          "Zacarias",
+          "Jesus",
+          "Davi"
+        ]
+      },
+      {
+        "id": "luke-1-mc-64",
+        "type": "multiple_choice",
+        "after_verse": 64,
+        "question": "O que aconteceu com Zacarias logo após escrever o nome do menino?",
+        "options": [
+          "A boca se lhe abriu e a língua se soltou, e louvou a Deus",
+          "Caiu por terra desmaiado",
+          "Saiu para o deserto",
+          "Tornou a ficar mudo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-1-fb-73",
+        "type": "fill_blank",
+        "after_verse": 73,
+        "verse": 73,
+        "template": "E do juramento que fez a {0}, nosso pai",
+        "blanks": [
+          "Abraão"
+        ],
+        "distractors": [
+          "Davi",
+          "Isaque",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "luke-1-mc-76",
+        "type": "multiple_choice",
+        "after_verse": 76,
+        "question": "Segundo a profecia de Zacarias, o que o menino João seria chamado?",
+        "options": [
+          "Profeta do Altíssimo",
+          "Rei de Israel",
+          "Filho de Deus",
+          "Sacerdote de Abias"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "luke-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Quem emitiu o decreto para que todo o mundo se alistasse?",
+        "options": [
+          "César Augusto",
+          "Quirino",
+          "Herodes",
+          "Pôncio Pilatos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "E subiu também José da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, chamada {0}",
+        "blanks": [
+          "Belém"
+        ],
+        "distractors": [
+          "Jerusalém",
+          "Cafarnaum",
+          "Síria"
+        ]
+      },
+      {
+        "id": "luke-2-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "A manjedoura",
+        "text": "Uma manjedoura era o cocho onde se colocava comida para os animais. Jesus foi deitado ali porque não havia lugar para a família na estalagem."
+      },
+      {
+        "id": "luke-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "e deitou-o numa {0}, porque não havia lugar para eles na estalagem",
+        "blanks": [
+          "manjedoura"
+        ],
+        "distractors": [
+          "estalagem",
+          "cidade",
+          "casa"
+        ]
+      },
+      {
+        "id": "luke-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Segundo o anjo, o que o Salvador nascido na cidade de Davi também é?",
+        "options": [
+          "Cristo, o Senhor",
+          "um profeta",
+          "um governador",
+          "um pastor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Glória a Deus nas alturas, paz na terra, boa vontade para com os {0}!",
+        "blanks": [
+          "homens"
+        ],
+        "distractors": [
+          "anjos",
+          "pastores",
+          "reis"
+        ]
+      },
+      {
+        "id": "luke-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Quando os pastores foram apressadamente, quem encontraram?",
+        "options": [
+          "Maria, José e o menino na manjedoura",
+          "apenas o anjo",
+          "os exércitos celestiais",
+          "os mestres no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Mas Maria guardava todas essas coisas, meditando-as em seu {0}.",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "templo",
+          "caminho",
+          "rebanho"
+        ]
+      },
+      {
+        "id": "luke-2-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "para circuncidar o menino, foi-lhe dado o nome de {0}",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "Simeão",
+          "José",
+          "Davi"
+        ]
+      },
+      {
+        "id": "luke-2-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Como era descrito o homem chamado Simeão, em Jerusalém?",
+        "options": [
+          "justo e temente a Deus, esperava a consolação de Israel",
+          "um doutor da lei",
+          "um governador da Síria",
+          "um pastor do campo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Simeão",
+            "right": "homem justo que esperava a consolação de Israel"
+          },
+          {
+            "left": "César Augusto",
+            "right": "emitiu o decreto do alistamento"
+          },
+          {
+            "left": "Quirino",
+            "right": "governador da Síria"
+          }
+        ]
+      },
+      {
+        "id": "luke-2-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Luz para alumiar as nações, e para glória de teu povo {0}.",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Belém",
+          "Judeia",
+          "Nazaré"
+        ]
+      },
+      {
+        "id": "luke-2-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "A espada na alma",
+        "text": "Simeão profetizou a Maria que uma espada traspassaria a sua alma, prenúncio do sofrimento que ela viveria ao ver o sacrifício do Filho."
+      },
+      {
+        "id": "luke-2-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "Segundo Simeão, este menino foi posto em Israel para quê?",
+        "options": [
+          "para queda e elevação de muitos, e para sinal contradito",
+          "para governar a Síria",
+          "para emitir um decreto",
+          "para guardar o rebanho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "E estava ali a profetisa Ana, filha de Fanuel, da tribo de {0}.",
+        "blanks": [
+          "Aser"
+        ],
+        "distractors": [
+          "Judá",
+          "Davi",
+          "Israel"
+        ]
+      },
+      {
+        "id": "luke-2-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "E tendo ele já {0} anos, subiram a Jerusalém, segundo o costume do dia da festa.",
+        "blanks": [
+          "doze"
+        ],
+        "distractors": [
+          "oito",
+          "três",
+          "oitenta"
+        ]
+      },
+      {
+        "id": "luke-2-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Onde e como foi achado Jesus depois de três dias?",
+        "options": [
+          "no templo, assentado no meio dos mestres, ouvindo-os e interrogando-os",
+          "na estalagem de Belém",
+          "no campo com os pastores",
+          "à beira do caminho com os parentes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-2-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Não sabeis que me convém tratar dos negócios de meu {0}?",
+        "blanks": [
+          "Pai"
+        ],
+        "distractors": [
+          "Senhor",
+          "mestre",
+          "povo"
+        ]
+      },
+      {
+        "id": "luke-2-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "Em que crescia Jesus, segundo o final do capítulo?",
+        "options": [
+          "em sabedoria, estatura e graça para com Deus e os homens",
+          "em riquezas e poder",
+          "em terras e cidades",
+          "em número de discípulos"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "luke-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "No reinado de qual imperador romano Lucas situa o início do ministério de João Batista?",
+        "options": [
+          "Tibério César",
+          "César Augusto",
+          "Júlio César",
+          "Nero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Voz do que clama no {0}: Preparai o caminho do Senhor",
+        "blanks": [
+          "deserto"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "Jordão"
+        ]
+      },
+      {
+        "id": "luke-3-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "A voz no deserto",
+        "text": "Ao citar Isaías, Lucas amplia a profecia até \"toda a carne verá a salvação de Deus\", sublinhando seu tema de que o evangelho alcança todos os povos, e não só Israel."
+      },
+      {
+        "id": "luke-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Raça de {0}, quem vos ensinou a fugir da ira que está para vir?",
+        "blanks": [
+          "víboras"
+        ],
+        "distractors": [
+          "lobos",
+          "serpentes",
+          "raposas"
+        ]
+      },
+      {
+        "id": "luke-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Segundo João, de que Deus é capaz de suscitar filhos a Abraão?",
+        "options": [
+          "Destas pedras",
+          "Das árvores",
+          "Das águas do Jordão",
+          "Da palha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Que conselho deu João aos soldados que o interrogaram?",
+        "options": [
+          "Não tratar mal ninguém e contentar-se com o seu soldo",
+          "Abandonar o exército",
+          "Repartir suas armas",
+          "Jejuar e orar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "esse vos batizará com o {0} e com fogo",
+        "blanks": [
+          "Espírito Santo"
+        ],
+        "distractors": [
+          "fogo do céu",
+          "poder de Elias",
+          "sangue do cordeiro"
+        ]
+      },
+      {
+        "id": "luke-3-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "O que Herodes fez a João depois de ser repreendido por ele?",
+        "options": [
+          "Encerrou-o num cárcere",
+          "Expulsou-o da Galileia",
+          "Mandou apedrejá-lo",
+          "Nomeou-o sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Espírito Santo desceu sobre ele em forma corpórea, como uma {0}",
+        "blanks": [
+          "pomba"
+        ],
+        "distractors": [
+          "chama",
+          "nuvem",
+          "águia"
+        ]
+      },
+      {
+        "id": "luke-3-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "A voz do céu",
+        "text": "No batismo de Jesus aparecem as três pessoas da Trindade: o Filho sendo batizado, o Espírito Santo descendo como pomba e a voz do Pai do céu."
+      },
+      {
+        "id": "luke-3-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Quem escreveu este Evangelho que traça a genealogia de Jesus a partir de cerca dos seus trinta anos?",
+        "options": [
+          "Lucas, médico e companheiro de Paulo",
+          "Pedro, o pescador",
+          "Mateus, o publicano",
+          "Marcos, o intérprete"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Por qual famoso rei de Israel a genealogia de Jesus em Lucas passa?",
+        "options": [
+          "Davi",
+          "Saul",
+          "Salomão",
+          "Ezequias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-3-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Diferente de Mateus, que para em Abraão, até quem Lucas remonta a genealogia de Jesus?",
+        "options": [
+          "Até Adão, \"filho de Deus\"",
+          "Até Davi",
+          "Até Noé",
+          "Até Moisés"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "luke-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E quarenta dias foi tentado pelo {0}, e naqueles dias não comeu coisa alguma",
+        "blanks": [
+          "diabo"
+        ],
+        "distractors": [
+          "Espírito",
+          "profeta",
+          "anjo"
+        ]
+      },
+      {
+        "id": "luke-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "“Escrito está”",
+        "text": "Jesus responde a cada tentação citando as Escrituras com a fórmula “Escrito está”. Essa primeira resposta vem de Deuteronômio, mostrando que a palavra de Deus, e não o pão, sustenta a vida."
+      },
+      {
+        "id": "luke-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Na segunda tentação, o que o diabo prometeu dar a Jesus se ele o adorasse?",
+        "options": [
+          "Todos os reinos do mundo e a sua glória",
+          "Pão para saciar a fome",
+          "Anjos para guardá-lo",
+          "O trono de Davi"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Vai-te, {0}; porque está escrito: Adorarás ao Senhor teu Deus",
+        "blanks": [
+          "Satanás"
+        ],
+        "distractors": [
+          "diabo",
+          "Naamã",
+          "Eliseu"
+        ]
+      },
+      {
+        "id": "luke-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Onde o diabo levou Jesus para tentá-lo a lançar-se abaixo?",
+        "options": [
+          "Ao pináculo do templo",
+          "Ao alto monte",
+          "Ao deserto",
+          "À sinagoga de Nazaré"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "E chegando a {0}, onde fora criado, num dia do sábado",
+        "blanks": [
+          "Nazaré"
+        ],
+        "distractors": [
+          "Cafarnaum",
+          "Jerusalém",
+          "Sarepta"
+        ]
+      },
+      {
+        "id": "luke-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "O Espírito do Senhor está sobre mim, porquanto me ungiu para pregar o evangelho aos {0}",
+        "blanks": [
+          "pobres"
+        ],
+        "distractors": [
+          "ricos",
+          "cativos",
+          "cegos"
+        ]
+      },
+      {
+        "id": "luke-4-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Depois de ler de Isaías, o que Jesus declarou aos que estavam na sinagoga?",
+        "options": [
+          "Hoje se cumpriu esta escritura em vossos ouvidos",
+          "Que voltaria depois de três dias",
+          "Que ninguém poderia ser salvo",
+          "Que o templo seria destruído"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Médico",
+            "right": "cura-te a ti mesmo"
+          },
+          {
+            "left": "Sarepta de Sidom",
+            "right": "a viúva a quem Elias foi enviado"
+          },
+          {
+            "left": "Naamã, o sírio",
+            "right": "o leproso purificado por Eliseu"
+          }
+        ]
+      },
+      {
+        "id": "luke-4-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Nenhum profeta na sua pátria",
+        "text": "Jesus lembra que Elias foi enviado a uma viúva estrangeira em Sarepta e que só Naamã, o sírio, foi curado por Eliseu — exemplos de que Deus abençoou estrangeiros quando Israel rejeitou seus profetas. Isso enfureceu os de Nazaré."
+      },
+      {
+        "id": "luke-4-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "O que os habitantes de Nazaré tentaram fazer com Jesus?",
+        "options": [
+          "Precipitá-lo do cume do monte",
+          "Apedrejá-lo na sinagoga",
+          "Prendê-lo em Cafarnaum",
+          "Levá-lo a Jerusalém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Bem sei quem és: o {0} de Deus",
+        "blanks": [
+          "Santo"
+        ],
+        "distractors": [
+          "Filho",
+          "Senhor",
+          "profeta"
+        ]
+      },
+      {
+        "id": "luke-4-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "entrou na casa de {0}; e a sogra de Simão estava enferma com muita febre",
+        "blanks": [
+          "Simão"
+        ],
+        "distractors": [
+          "Pedro",
+          "Levi",
+          "André"
+        ]
+      },
+      {
+        "id": "luke-4-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Ao pôr do sol em Cafarnaum, o que Jesus fez por aqueles que lhe traziam os enfermos?",
+        "options": [
+          "Impondo as mãos sobre cada um, os curava",
+          "Mandava-os ao templo",
+          "Os batizava no Jordão",
+          "Recusava-se a atendê-los"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-4-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "E pregava nas {0} da Galileia",
+        "blanks": [
+          "sinagogas"
+        ],
+        "distractors": [
+          "cidades",
+          "montanhas",
+          "casas"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "luke-5-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "estava ele junto ao lago de {0};",
+        "blanks": [
+          "Genesaré"
+        ],
+        "distractors": [
+          "Cafarnaum",
+          "Nazaré",
+          "Belém"
+        ]
+      },
+      {
+        "id": "luke-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "O que aconteceu quando lançaram as redes por causa da palavra de Jesus?",
+        "options": [
+          "Colheram uma grande quantidade de peixes e a rede se rompia",
+          "Nada apanharam novamente",
+          "A rede ficou vazia",
+          "Os barcos afundaram de imediato"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "“Homem pecador”",
+        "text": "Diante do milagre, Simão Pedro reconhece sua própria indignidade e pede a Jesus que se ausente. O encontro com o poder divino frequentemente desperta humildade e senso de pequenez."
+      },
+      {
+        "id": "luke-5-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Tiago e João",
+            "right": "filhos de Zebedeu"
+          },
+          {
+            "left": "Simão",
+            "right": "pescador de homens"
+          },
+          {
+            "left": "Deixando tudo",
+            "right": "o seguiram"
+          }
+        ]
+      },
+      {
+        "id": "luke-5-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "tocou-o, dizendo: Quero; sê {0}.",
+        "blanks": [
+          "limpo"
+        ],
+        "distractors": [
+          "curado",
+          "salvo",
+          "perdoado"
+        ]
+      },
+      {
+        "id": "luke-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "A quem Jesus mandou o leproso curado se mostrar?",
+        "options": [
+          "Ao sacerdote",
+          "Aos fariseus",
+          "À multidão",
+          "Aos discípulos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Como os homens conseguiram levar o paralítico até diante de Jesus?",
+        "options": [
+          "Desceram-no pelas telhas do telhado, com a cama",
+          "Abriram caminho empurrando a multidão",
+          "Esperaram a casa se esvaziar",
+          "Entraram pela porta dos fundos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "disse-lhe: Homem, os teus {0} te são perdoados.",
+        "blanks": [
+          "pecados"
+        ],
+        "distractors": [
+          "males",
+          "débitos",
+          "erros"
+        ]
+      },
+      {
+        "id": "luke-5-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Blasfêmia",
+        "text": "Os escribas e fariseus reagiram porque, segundo a lei, só Deus podia perdoar pecados. Ao perdoar o paralítico, Jesus afirmava implicitamente sua autoridade divina."
+      },
+      {
+        "id": "luke-5-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "viu um publicano, chamado {0}, assentado na coletoria",
+        "blanks": [
+          "Levi"
+        ],
+        "distractors": [
+          "Simão",
+          "Tiago",
+          "Zebedeu"
+        ]
+      },
+      {
+        "id": "luke-5-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Segundo Jesus, a quem ele veio chamar?",
+        "options": [
+          "Os pecadores ao arrependimento",
+          "Os justos à recompensa",
+          "Os sãos à cura",
+          "Os ricos à mesa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-5-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "E ninguém põe vinho novo em {0} velhos;",
+        "blanks": [
+          "odres"
+        ],
+        "distractors": [
+          "vasos",
+          "barris",
+          "cântaros"
+        ]
+      },
+      {
+        "id": "luke-5-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "Vinho velho e novo",
+        "text": "As parábolas do pano e do vinho ensinam que a nova mensagem de Jesus não se encaixa nas formas antigas. Quem se apega ao “velho” resiste à novidade do evangelho."
+      }
+    ],
+    "6": [
+      {
+        "id": "luke-6-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Ao ser questionado por colher espigas no sábado, o que Jesus declarou ser ele mesmo?",
+        "options": [
+          "Senhor até do sábado",
+          "Servo dos fariseus",
+          "Profeta da seara",
+          "Guardião dos pães"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-4",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 4,
+        "template": "Como entrou na casa de Deus, e tomou os pães da {0}",
+        "blanks": [
+          "proposição"
+        ],
+        "distractors": [
+          "sinagoga",
+          "colheita",
+          "oração"
+        ]
+      },
+      {
+        "id": "luke-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que Jesus perguntou aos escribas e fariseus antes de curar o homem da mão ressequida?",
+        "options": [
+          "É lícito nos sábados fazer o bem, ou fazer o mal?",
+          "Quem entre vós nunca pecou?",
+          "Por que não orais comigo?",
+          "Onde está a vossa fé?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Uma noite inteira em oração",
+        "text": "Antes de escolher os doze apóstolos, Jesus subiu ao monte e passou a noite inteira orando a Deus. Só de manhã chamou os discípulos e escolheu os doze."
+      },
+      {
+        "id": "luke-6-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Simão",
+            "right": "também chamado Pedro"
+          },
+          {
+            "left": "André",
+            "right": "irmão de Simão"
+          },
+          {
+            "left": "Judas, irmão de Tiago",
+            "right": "um dos doze"
+          },
+          {
+            "left": "Judas Iscariotes",
+            "right": "o traidor"
+          }
+        ]
+      },
+      {
+        "id": "luke-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 20,
+        "template": "Bem-aventurados vós, os {0}, porque vosso é o reino de Deus.",
+        "blanks": [
+          "pobres"
+        ],
+        "distractors": [
+          "ricos",
+          "fartos",
+          "mansos"
+        ]
+      },
+      {
+        "id": "luke-6-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Ai de vós quando todos os homens de vós falarem {0}",
+        "blanks": [
+          "bem"
+        ],
+        "distractors": [
+          "mal",
+          "cedo",
+          "alto"
+        ]
+      },
+      {
+        "id": "luke-6-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Contra quem Jesus pronunciou o primeiro \"ai\", dizendo que já tinham a sua consolação?",
+        "options": [
+          "Os ricos",
+          "Os pobres",
+          "Os que choram",
+          "Os famintos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "E como vós quereis que os homens vos façam, da mesma maneira {0}-lhes vós também.",
+        "blanks": [
+          "fazei"
+        ],
+        "distractors": [
+          "negai",
+          "cobrai",
+          "julgai"
+        ]
+      },
+      {
+        "id": "luke-6-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Segundo Jesus, à semelhança de quem devemos ser misericordiosos?",
+        "options": [
+          "Do nosso Pai",
+          "Dos profetas",
+          "Dos pecadores",
+          "Dos apóstolos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-6-fb-41",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 41,
+        "template": "E por que atentas tu no {0} que está no olho do teu irmão",
+        "blanks": [
+          "argueiro"
+        ],
+        "distractors": [
+          "trave",
+          "fruto",
+          "espinheiro"
+        ]
+      },
+      {
+        "id": "luke-6-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "A árvore e o fruto",
+        "text": "Jesus ensinou que cada árvore se conhece pelo seu próprio fruto: não se colhem figos dos espinheiros nem se vindimam uvas dos abrolhos. Assim, o que há no coração se revela nas obras."
+      },
+      {
+        "id": "luke-6-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 47,
+        "question": "Na parábola, sobre o que estava fundada a casa que a enchente não pôde abalar?",
+        "options": [
+          "Sobre a rocha",
+          "Sobre a terra",
+          "Sobre a areia",
+          "Sobre os alicerces de madeira"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "luke-7-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E o servo de um certo {0}, a quem muito estimava, estava doente, e quase à morte.",
+        "blanks": [
+          "centurião"
+        ],
+        "distractors": [
+          "sacerdote",
+          "fariseu",
+          "publicano"
+        ]
+      },
+      {
+        "id": "luke-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que Jesus disse ao maravilhar-se com a fé do centurião?",
+        "options": [
+          "Nem ainda em Israel achei tanta fé",
+          "Ninguém creu em mim",
+          "Esta fé é pequena",
+          "Volta para tua casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Jesus ia a uma cidade chamada {0}, e com ele iam muitos dos seus discípulos",
+        "blanks": [
+          "Naim"
+        ],
+        "distractors": [
+          "Cafarnaum",
+          "Nazaré",
+          "Belém"
+        ]
+      },
+      {
+        "id": "luke-7-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Jovem",
+            "right": "A quem Jesus disse: Levanta-te"
+          },
+          {
+            "left": "Esquife",
+            "right": "O que Jesus tocou"
+          },
+          {
+            "left": "Viúva",
+            "right": "A mãe do morto"
+          }
+        ]
+      },
+      {
+        "id": "luke-7-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Um grande profeta",
+        "text": "Diante do milagre em Naim, o povo glorifica a Deus dizendo que um grande profeta se levantou entre eles. Lucas é o único evangelho a registrar esta ressurreição."
+      },
+      {
+        "id": "luke-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "enviou-os a Jesus, dizendo: És tu aquele que havia de vir, ou esperamos {0}?",
+        "blanks": [
+          "outro"
+        ],
+        "distractors": [
+          "mais",
+          "ninguém",
+          "outrem"
+        ]
+      },
+      {
+        "id": "luke-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que Jesus mandou anunciar a João sobre o que viram e ouviram?",
+        "options": [
+          "Os cegos veem, os coxos andam, os mortos ressuscitam",
+          "O templo foi reconstruído",
+          "Os ricos foram saciados",
+          "A lei foi abolida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Que saístes a ver no deserto? uma {0} abalada pelo vento?",
+        "blanks": [
+          "cana"
+        ],
+        "distractors": [
+          "árvore",
+          "pedra",
+          "torre"
+        ]
+      },
+      {
+        "id": "luke-7-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Jesus disse sobre João dentre os nascidos de mulher?",
+        "options": [
+          "Não há maior profeta do que João Batista",
+          "É o menor de todos",
+          "Não é profeta",
+          "É igual a Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Tocamos {0} para vós, e não dançastes; cantamos lamentações para vós, e não chorastes,",
+        "blanks": [
+          "flauta"
+        ],
+        "distractors": [
+          "harpa",
+          "tambor",
+          "trombeta"
+        ]
+      },
+      {
+        "id": "luke-7-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "O que a mulher pecadora levou à casa do fariseu?",
+        "options": [
+          "Um vaso de alabastro com unguento",
+          "Um cesto de pães",
+          "Uma moeda de prata",
+          "Um manto novo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-7-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Primeiro devedor",
+            "right": "Devia quinhentos denários"
+          },
+          {
+            "left": "Segundo devedor",
+            "right": "Devia cinquenta denários"
+          },
+          {
+            "left": "Credor",
+            "right": "Perdoou a ambos a dívida"
+          }
+        ]
+      },
+      {
+        "id": "luke-7-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "E disse à mulher: A tua {0} te salvou; vai-te em paz.",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "alma",
+          "graça",
+          "obra"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "luke-8-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Mulheres que serviam a Jesus",
+        "text": "Lucas é o único evangelho a nomear mulheres que sustentavam o ministério de Jesus com seus próprios bens: Maria Madalena, Joana e Suzana — algo raro de se registrar no mundo antigo."
+      },
+      {
+        "id": "luke-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Maria, chamada {0}, da qual saíram sete demônios",
+        "blanks": [
+          "Madalena"
+        ],
+        "distractors": [
+          "Joana",
+          "Suzana",
+          "Marta"
+        ]
+      },
+      {
+        "id": "luke-8-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Um {0} saiu a semear a sua semente",
+        "blanks": [
+          "semeador"
+        ],
+        "distractors": [
+          "pastor",
+          "pescador",
+          "lavrador"
+        ]
+      },
+      {
+        "id": "luke-8-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Quanto fruto produziu a semente que caiu em boa terra?",
+        "options": [
+          "A cento por um",
+          "A trinta por um",
+          "A sessenta por um",
+          "A dez por um"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "A semente é a {0} de Deus",
+        "blanks": [
+          "palavra"
+        ],
+        "distractors": [
+          "lei",
+          "glória",
+          "obra"
+        ]
+      },
+      {
+        "id": "luke-8-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Junto do caminho",
+            "right": "Os que ouvem, mas o diabo tira-lhes a palavra do coração"
+          },
+          {
+            "left": "Sobre a pedra",
+            "right": "Recebem com alegria, mas não têm raiz e na tentação se desviam"
+          },
+          {
+            "left": "Entre espinhos",
+            "right": "São sufocados pelos cuidados, riquezas e deleites da vida"
+          },
+          {
+            "left": "Em boa terra",
+            "right": "Ouvem, conservam a palavra e dão fruto com perseverança"
+          }
+        ]
+      },
+      {
+        "id": "luke-8-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Quem Jesus disse serem sua mãe e seus irmãos?",
+        "options": [
+          "Aqueles que ouvem a palavra de Deus e a executam",
+          "Os doze apóstolos",
+          "Os que o seguiam desde a Galileia",
+          "Maria e seus filhos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Porque não há coisa {0} que não haja de manifestar-se",
+        "blanks": [
+          "oculta"
+        ],
+        "distractors": [
+          "santa",
+          "perdida",
+          "escrita"
+        ]
+      },
+      {
+        "id": "luke-8-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "E ele, levantando-se, repreendeu o {0} e a fúria das águas",
+        "blanks": [
+          "vento"
+        ],
+        "distractors": [
+          "mar",
+          "trovão",
+          "barco"
+        ]
+      },
+      {
+        "id": "luke-8-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que Jesus perguntou aos discípulos após acalmar a tempestade?",
+        "options": [
+          "Onde está a vossa fé?",
+          "Por que duvidastes?",
+          "Quem tocou em mim?",
+          "Não temas, crê somente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "E ele disse: {0}; porque tinham entrado nele muitos demônios",
+        "blanks": [
+          "Legião"
+        ],
+        "distractors": [
+          "Gadareno",
+          "Diabo",
+          "Belzebu"
+        ]
+      },
+      {
+        "id": "luke-8-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Para onde correram os porcos depois que os demônios entraram neles?",
+        "options": [
+          "De um despenhadeiro no lago, e afogaram-se",
+          "Para os desertos",
+          "Para os sepulcros",
+          "Para o monte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "Retorna para tua {0}, e conta quão grandes coisas te fez Deus",
+        "blanks": [
+          "casa"
+        ],
+        "distractors": [
+          "cidade",
+          "sinagoga",
+          "aldeia"
+        ]
+      },
+      {
+        "id": "luke-8-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "chegou um homem, cujo nome era {0}, e era principal da sinagoga",
+        "blanks": [
+          "Jairo"
+        ],
+        "distractors": [
+          "Cuza",
+          "Legião",
+          "Lázaro"
+        ]
+      },
+      {
+        "id": "luke-8-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "O que a mulher com fluxo de sangue tocou para ser curada?",
+        "options": [
+          "A orla da veste de Jesus",
+          "Os pés de Jesus",
+          "As mãos de Jesus",
+          "A cabeça de Jesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-8-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "Tem bom ânimo, filha, a tua {0} te salvou; vai em paz",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "alma",
+          "mão",
+          "prece"
+        ]
+      },
+      {
+        "id": "luke-8-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "Não choreis; não está morta, mas {0}",
+        "blanks": [
+          "dorme"
+        ],
+        "distractors": [
+          "dormia",
+          "descansa",
+          "vive"
+        ]
+      },
+      {
+        "id": "luke-8-mc-54",
+        "type": "multiple_choice",
+        "after_verse": 54,
+        "question": "O que Jesus disse ao tomar a menina pela mão?",
+        "options": [
+          "Levanta-te, menina",
+          "Não temas, crê somente",
+          "Tem bom ânimo, filha",
+          "Onde está a tua fé?"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "luke-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E disse-lhes: Nada leveis convosco para o {0}, nem bordões, nem alforje, nem pão, nem dinheiro",
+        "blanks": [
+          "caminho"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "barco"
+        ]
+      },
+      {
+        "id": "luke-9-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Sacudir o pó dos pés",
+        "text": "Sacudir o pó dos pés era um gesto de advertência: deixava com aquela cidade toda a responsabilidade por rejeitar a mensagem, sem que os discípulos levassem consigo nada dela."
+      },
+      {
+        "id": "luke-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que Herodes estava em dúvida ao ouvir falar de Jesus?",
+        "options": [
+          "Porque ele havia decapitado João e se perguntava quem seria esse de quem ouvia tais coisas",
+          "Porque temia perder o trono para Pilatos",
+          "Porque Jesus o havia repreendido publicamente",
+          "Porque os romanos o acusavam de revolta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E eles disseram: Não temos senão cinco pães e dois {0}",
+        "blanks": [
+          "peixes"
+        ],
+        "distractors": [
+          "cestos",
+          "bordões",
+          "pedaços"
+        ]
+      },
+      {
+        "id": "luke-9-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "e levantaram, do que lhes sobejou, doze {0} de pedaços",
+        "blanks": [
+          "cestos"
+        ],
+        "distractors": [
+          "pães",
+          "peixes",
+          "vestes"
+        ]
+      },
+      {
+        "id": "luke-9-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E respondendo Pedro, disse: O {0} de Deus",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "profeta",
+          "Filho",
+          "servo"
+        ]
+      },
+      {
+        "id": "luke-9-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "e seja rejeitado pelos anciãos e pelos escribas, e seja morto, e ressuscite ao {0} dia",
+        "blanks": [
+          "terceiro"
+        ],
+        "distractors": [
+          "sétimo",
+          "oitavo",
+          "primeiro"
+        ]
+      },
+      {
+        "id": "luke-9-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "transfigurou-se a aparência do seu rosto, e a sua veste ficou branca e muito {0}",
+        "blanks": [
+          "resplandecente"
+        ],
+        "distractors": [
+          "rasgada",
+          "manchada",
+          "escura"
+        ]
+      },
+      {
+        "id": "luke-9-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Moisés e Elias",
+            "right": "apareceram com glória"
+          },
+          {
+            "left": "A veste de Jesus",
+            "right": "ficou branca e resplandecente"
+          },
+          {
+            "left": "A sua morte",
+            "right": "havia de cumprir-se em Jerusalém"
+          }
+        ]
+      },
+      {
+        "id": "luke-9-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "E veio da nuvem uma voz que dizia: Este é o meu amado {0}; a ele ouvi",
+        "blanks": [
+          "Filho"
+        ],
+        "distractors": [
+          "servo",
+          "profeta",
+          "discípulo"
+        ]
+      },
+      {
+        "id": "luke-9-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "E Jesus, respondendo, disse: Ó geração incrédula e {0}!",
+        "blanks": [
+          "perversa"
+        ],
+        "distractors": [
+          "humilde",
+          "fiel",
+          "bendita"
+        ]
+      },
+      {
+        "id": "luke-9-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "porque o Filho do Homem será entregue nas {0} dos homens",
+        "blanks": [
+          "mãos"
+        ],
+        "distractors": [
+          "casas",
+          "cidades",
+          "aldeias"
+        ]
+      },
+      {
+        "id": "luke-9-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "Quem Jesus disse que será grande, ao tomar uma criança?",
+        "options": [
+          "Aquele que entre todos for o menor",
+          "Aquele que tiver mais discípulos",
+          "Aquele que falar com mais autoridade",
+          "Aquele que jejuar mais dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-9-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "Não lho proibais, porque quem não é contra nós é por {0}",
+        "blanks": [
+          "nós"
+        ],
+        "distractors": [
+          "vós",
+          "ti",
+          "mim"
+        ]
+      },
+      {
+        "id": "luke-9-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "Senhor, queres que digamos que desça {0} do céu e os consuma, como Elias também fez?",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "chuva",
+          "vento",
+          "pão"
+        ]
+      },
+      {
+        "id": "luke-9-fb-58",
+        "type": "fill_blank",
+        "after_verse": 58,
+        "verse": 58,
+        "template": "As {0} têm covis, e as aves do céu, ninhos, mas o Filho do Homem não tem onde reclinar a cabeça",
+        "blanks": [
+          "raposas"
+        ],
+        "distractors": [
+          "ovelhas",
+          "serpentes",
+          "águias"
+        ]
+      },
+      {
+        "id": "luke-9-fb-62",
+        "type": "fill_blank",
+        "after_verse": 62,
+        "verse": 62,
+        "template": "Ninguém que lança mão do {0} e olha para trás é apto para o reino de Deus",
+        "blanks": [
+          "arado"
+        ],
+        "distractors": [
+          "bordão",
+          "remo",
+          "candeeiro"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "luke-10-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Como Jesus descreve a seara e os obreiros?",
+        "options": [
+          "Grande é a seara, mas os obreiros são poucos",
+          "Pequena é a seara e os obreiros muitos",
+          "Grande é a seara e os obreiros muitos",
+          "Pequena é a seara e os obreiros poucos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "eis que vos mando como {0} para o meio de lobos.",
+        "blanks": [
+          "cordeiros"
+        ],
+        "distractors": [
+          "obreiros",
+          "salteadores",
+          "demônios"
+        ]
+      },
+      {
+        "id": "luke-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Setenta enviados",
+        "text": "Além dos doze apóstolos, o Senhor designou outros setenta e os mandou de dois em dois, adiante da sua face, a toda cidade e lugar aonde ele haveria de ir."
+      },
+      {
+        "id": "luke-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Naquele dia, com qual cidade haverá mais tolerância do que com a cidade que não recebe os mensageiros?",
+        "options": [
+          "Sodoma",
+          "Jericó",
+          "Cafarnaum",
+          "Betsaida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "porque, se em Tiro e em {0} se fizessem as maravilhas que em vós foram feitas",
+        "blanks": [
+          "Sidom"
+        ],
+        "distractors": [
+          "Jericó",
+          "Sodoma",
+          "Jerusalém"
+        ]
+      },
+      {
+        "id": "luke-10-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Eu vi {0}, como raio, cair do céu.",
+        "blanks": [
+          "Satanás"
+        ],
+        "distractors": [
+          "o inimigo",
+          "o demônio",
+          "o céu"
+        ]
+      },
+      {
+        "id": "luke-10-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Por que Jesus diz aos setenta que devem antes alegrar-se?",
+        "options": [
+          "Por estarem os seus nomes escritos nos céus",
+          "Por se lhes sujeitarem os espíritos",
+          "Por pisarem serpentes e escorpiões",
+          "Por verem Satanás cair"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Revelado às criancinhas",
+        "text": "Jesus alegra-se em espírito porque o Pai escondeu estas coisas aos sábios e inteligentes, e as revelou às criancinhas, segundo o seu próprio agrado."
+      },
+      {
+        "id": "luke-10-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que o doutor da lei pergunta a Jesus para tentá-lo?",
+        "options": [
+          "Que farei para herdar a vida eterna?",
+          "Quem é o meu próximo?",
+          "Que está escrito na lei?",
+          "És tu o Cristo?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Amarás ao Senhor teu Deus de todo o teu {0}",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "próximo",
+          "salário",
+          "caminho"
+        ]
+      },
+      {
+        "id": "luke-10-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Descia um homem de Jerusalém para {0} e caiu nas mãos dos salteadores",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Sidom",
+          "Tiro",
+          "Sodoma"
+        ]
+      },
+      {
+        "id": "luke-10-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Sacerdote",
+            "right": "Viu o ferido e passou de largo"
+          },
+          {
+            "left": "Levita",
+            "right": "Chegou ao lugar e passou de largo"
+          },
+          {
+            "left": "Samaritano",
+            "right": "Atou-lhe as feridas e cuidou dele"
+          },
+          {
+            "left": "Hospedeiro",
+            "right": "Recebeu dois denários para cuidar do ferido"
+          }
+        ]
+      },
+      {
+        "id": "luke-10-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Segundo Jesus, quem foi o próximo do homem que caiu nas mãos dos salteadores?",
+        "options": [
+          "O que usou de misericórdia para com ele",
+          "O sacerdote",
+          "O levita",
+          "O hospedeiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-10-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Maria escolheu a boa {0}, a qual não lhe será tirada.",
+        "blanks": [
+          "parte"
+        ],
+        "distractors": [
+          "casa",
+          "alma",
+          "hora"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "luke-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "O que um dos discípulos pediu a Jesus enquanto ele orava?",
+        "options": [
+          "Que lhe ensinasse a orar",
+          "Que lhe ensinasse a jejuar",
+          "Que lhe ensinasse a curar",
+          "Que lhe ensinasse a pregar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Pai nosso, que estás nos céus, santificado seja o teu {0}",
+        "blanks": [
+          "nome"
+        ],
+        "distractors": [
+          "reino",
+          "trono",
+          "altar"
+        ]
+      },
+      {
+        "id": "luke-11-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "A oração do Senhor",
+        "text": "Os versículos 2 a 4 trazem a versão de Lucas do Pai-Nosso, mais breve do que a de Mateus. Jesus a ensina em resposta ao pedido de um discípulo, oferecendo um modelo de oração centrado em Deus e no perdão."
+      },
+      {
+        "id": "luke-11-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "se for procurá-lo à meia-noite, e lhe disser: Amigo, empresta-me três {0}",
+        "blanks": [
+          "pães"
+        ],
+        "distractors": [
+          "peixes",
+          "ovos",
+          "moedas"
+        ]
+      },
+      {
+        "id": "luke-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Em Lucas 11:9, o que Jesus promete a quem bate?",
+        "options": [
+          "Abrir-se-lhe-á",
+          "Será consolado",
+          "Achará repouso",
+          "Receberá pão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o versículo 13, o que o Pai Celestial dará aos que lho pedirem?",
+        "options": [
+          "O Espírito Santo",
+          "Boas dádivas",
+          "O pão quotidiano",
+          "A sabedoria"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Por quem alguns diziam que Jesus expulsava os demônios?",
+        "options": [
+          "Belzebu",
+          "Satanás",
+          "Jonas",
+          "Salomão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Todo reino dividido contra si mesmo será {0}",
+        "blanks": [
+          "assolado"
+        ],
+        "distractors": [
+          "edificado",
+          "exaltado",
+          "fortalecido"
+        ]
+      },
+      {
+        "id": "luke-11-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Quem não é comigo é {0} mim",
+        "blanks": [
+          "contra"
+        ],
+        "distractors": [
+          "perto de",
+          "longe de",
+          "diante de"
+        ]
+      },
+      {
+        "id": "luke-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Quantos outros espíritos piores o espírito imundo leva consigo ao voltar?",
+        "options": [
+          "Sete",
+          "Três",
+          "Doze",
+          "Dois"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Para ouvir a sabedoria de quem veio a rainha do sul?",
+        "options": [
+          "Salomão",
+          "Jonas",
+          "Abel",
+          "Zacarias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "A candeia do corpo são os {0}",
+        "blanks": [
+          "olhos"
+        ],
+        "distractors": [
+          "pés",
+          "ouvidos",
+          "lábios"
+        ]
+      },
+      {
+        "id": "luke-11-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "que pagais o dízimo da {0}, e da arruda",
+        "blanks": [
+          "hortelã"
+        ],
+        "distractors": [
+          "uva",
+          "oliveira",
+          "figueira"
+        ]
+      },
+      {
+        "id": "luke-11-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Em Lucas 11:43, o que os fariseus amavam nas sinagogas?",
+        "options": [
+          "Os primeiros assentos",
+          "As saudações",
+          "Os dízimos",
+          "Os sepulcros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-11-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "doutores da lei! que sobrecarregais os homens com {0} difíceis de transportar",
+        "blanks": [
+          "cargas"
+        ],
+        "distractors": [
+          "leis",
+          "palavras",
+          "tributos"
+        ]
+      },
+      {
+        "id": "luke-11-mp-51",
+        "type": "match_pairs",
+        "after_verse": 51,
+        "pairs": [
+          {
+            "left": "Doutores da lei",
+            "right": "Tiraram a chave do conhecimento"
+          },
+          {
+            "left": "Abel",
+            "right": "O primeiro sangue requerido"
+          },
+          {
+            "left": "Zacarias",
+            "right": "Morto entre o altar e o templo"
+          },
+          {
+            "left": "Sabedoria de Deus",
+            "right": "Mandou profetas e apóstolos"
+          }
+        ]
+      },
+      {
+        "id": "luke-11-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "doutores da lei, que tirastes a chave do {0}",
+        "blanks": [
+          "conhecimento"
+        ],
+        "distractors": [
+          "templo",
+          "reino",
+          "perdão"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "luke-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Acautelai-vos do fermento dos fariseus, que é a {0}.",
+        "blanks": [
+          "hipocrisia"
+        ],
+        "distractors": [
+          "avareza",
+          "preguiça",
+          "tristeza"
+        ]
+      },
+      {
+        "id": "luke-12-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por quanto se vendiam cinco passarinhos, segundo Jesus?",
+        "options": [
+          "Por dois ceitis",
+          "Por uma moeda de prata",
+          "Por cinco ceitis",
+          "Por dois cordeiros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E até os {0} da vossa cabeça estão todos contados.",
+        "blanks": [
+          "cabelos"
+        ],
+        "distractors": [
+          "passarinhos",
+          "anjos",
+          "dias"
+        ]
+      },
+      {
+        "id": "luke-12-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "A blasfêmia imperdoável",
+        "text": "Jesus ensina que falar contra o Filho do Homem pode ser perdoado, mas blasfemar contra o Espírito Santo, não. É a única ofensa que os Evangelhos descrevem como sem perdão."
+      },
+      {
+        "id": "luke-12-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Quem ensinaria os discípulos a falar diante de magistrados e autoridades?",
+        "options": [
+          "O Espírito Santo",
+          "Os anjos de Deus",
+          "Os fariseus",
+          "Pedro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Do que Jesus mandou que os discípulos se guardassem ao falar da vida?",
+        "options": [
+          "Da avareza",
+          "Da hipocrisia",
+          "Da preguiça",
+          "Da inveja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Homem rico",
+            "right": "Teve uma colheita abundante"
+          },
+          {
+            "left": "Celeiros",
+            "right": "Seriam derrubados e refeitos maiores"
+          },
+          {
+            "left": "Louco",
+            "right": "Como Deus chamou o rico"
+          },
+          {
+            "left": "Esta noite",
+            "right": "Quando lhe pediriam a alma"
+          }
+        ]
+      },
+      {
+        "id": "luke-12-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Porém Deus lhe disse: {0}, esta noite te pedirão a tua alma",
+        "blanks": [
+          "Louco"
+        ],
+        "distractors": [
+          "Homem",
+          "Servo",
+          "Amigo"
+        ]
+      },
+      {
+        "id": "luke-12-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Considerai os {0}, que nem semeiam, nem ceifam",
+        "blanks": [
+          "corvos"
+        ],
+        "distractors": [
+          "lírios",
+          "passarinhos",
+          "cordeiros"
+        ]
+      },
+      {
+        "id": "luke-12-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Considerai os {0}, como eles crescem; não trabalham, nem fiam",
+        "blanks": [
+          "lírios"
+        ],
+        "distractors": [
+          "corvos",
+          "campos",
+          "frutos"
+        ]
+      },
+      {
+        "id": "luke-12-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "O que Jesus mandou buscar primeiro, prometendo que tudo o mais seria acrescentado?",
+        "options": [
+          "O reino de Deus",
+          "A riqueza da terra",
+          "A glória de Salomão",
+          "A herança do irmão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "onde estiver o vosso tesouro, ali estará também o vosso {0}.",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "reino",
+          "corpo",
+          "celeiro"
+        ]
+      },
+      {
+        "id": "luke-12-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Estejam cingidos os vossos lombos, e acesas, as vossas {0}.",
+        "blanks": [
+          "candeias"
+        ],
+        "distractors": [
+          "bolsas",
+          "casas",
+          "bodas"
+        ]
+      },
+      {
+        "id": "luke-12-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Por que os discípulos deviam estar preparados?",
+        "options": [
+          "Porque o Filho do Homem virá à hora que não imaginam",
+          "Porque o ladrão avisaria antes",
+          "Porque o senhor nunca voltaria",
+          "Porque a colheita estava madura"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Qual é, pois, o {0} fiel e prudente, a quem o senhor pôs sobre os seus servos",
+        "blanks": [
+          "mordomo"
+        ],
+        "distractors": [
+          "ladrão",
+          "juiz",
+          "anjo"
+        ]
+      },
+      {
+        "id": "luke-12-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "Segundo Jesus, o que se exigirá de quem muito for dado?",
+        "options": [
+          "Muito se lhe exigirá",
+          "Pouco se lhe exigirá",
+          "Nada se lhe exigirá",
+          "Apenas a metade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Vim lançar {0} na terra; e que mais quero, se já está aceso?",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "paz",
+          "luz",
+          "dissensão"
+        ]
+      },
+      {
+        "id": "luke-12-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "O que Jesus disse que viera trazer à terra, em vez de paz?",
+        "options": [
+          "Dissensão",
+          "Riqueza",
+          "Descanso",
+          "Glória"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-12-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "Quando vedes a nuvem que vem do ocidente, logo dizeis: Lá vem {0}",
+        "blanks": [
+          "chuva"
+        ],
+        "distractors": [
+          "calor",
+          "vento",
+          "fogo"
+        ]
+      },
+      {
+        "id": "luke-12-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "Digo-te que não sairás dali enquanto não pagares o último {0}.",
+        "blanks": [
+          "ceitil"
+        ],
+        "distractors": [
+          "pão",
+          "talento",
+          "açoite"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "luke-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Galileus e Pilatos",
+        "text": "Pilatos era o governador romano da Judeia. O episódio de galileus cujo sangue ele misturou com seus sacrifícios mostra a tensão entre o domínio romano e o culto no templo daquela época."
+      },
+      {
+        "id": "luke-13-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo Jesus, o que aconteceria a todos se não se arrependessem?",
+        "options": [
+          "Perecerão de igual modo",
+          "Serão exaltados",
+          "Herdarão a terra",
+          "Verão o reino"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Eis que há {0} anos venho buscar fruto nesta figueira, e não o acho",
+        "blanks": [
+          "três"
+        ],
+        "distractors": [
+          "sete",
+          "dezoito",
+          "quarenta"
+        ]
+      },
+      {
+        "id": "luke-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Há quantos anos a mulher estava encurvada por um espírito de enfermidade?",
+        "options": [
+          "Três anos",
+          "Doze anos",
+          "Dezoito anos",
+          "Quarenta anos"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "luke-13-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Hipócrita, no sábado não desprende da manjedoura cada um de vós o seu {0} ou jumento, e não o leva para beber?",
+        "blanks": [
+          "boi"
+        ],
+        "distractors": [
+          "cordeiro",
+          "cavalo",
+          "camelo"
+        ]
+      },
+      {
+        "id": "luke-13-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Filha de Abraão",
+        "text": "Ao chamar a mulher de \"filha de Abraão\", Jesus afirma a dignidade dela como herdeira da aliança, contrastando o cuidado com um animal no sábado com a libertação de uma pessoa."
+      },
+      {
+        "id": "luke-13-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Grão de mostarda",
+            "right": "Torna-se grande árvore"
+          },
+          {
+            "left": "Fermento",
+            "right": "Leveda três medidas de farinha"
+          },
+          {
+            "left": "Figueira",
+            "right": "Buscavam fruto e não achavam"
+          }
+        ]
+      },
+      {
+        "id": "luke-13-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Por onde Jesus manda esforçar-se para entrar?",
+        "options": [
+          "Pela porta estreita",
+          "Pelo caminho largo",
+          "Pela porta do templo",
+          "Pelo portão da cidade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Ali haverá choro e ranger de dentes, quando virdes Abraão, e Isaque, e {0}, e todos os profetas",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Moisés",
+          "Davi",
+          "Noé"
+        ]
+      },
+      {
+        "id": "luke-13-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "A que animal Jesus compara Herodes?",
+        "options": [
+          "A uma raposa",
+          "A um lobo",
+          "A uma serpente",
+          "A um leão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-13-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Quantas vezes quis eu ajuntar os teus filhos, como a {0} ajunta os seus pintos debaixo das suas asas, e não quiseste?",
+        "blanks": [
+          "galinha"
+        ],
+        "distractors": [
+          "pomba",
+          "águia",
+          "ovelha"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "luke-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A hidropisia",
+        "text": "O homem \"hidrópico\" sofria de hidropisia, um inchaço doloroso causado pelo acúmulo de líquido no corpo. Curá-lo num sábado, na casa de um fariseu que o observava, foi um ato deliberado de Jesus diante de quem buscava acusá-lo."
+      },
+      {
+        "id": "luke-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Que pergunta Jesus fez aos doutores da lei e aos fariseus antes de curar o homem?",
+        "options": [
+          "É lícito curar no sábado?",
+          "Quem dentre vós é sem pecado?",
+          "Por que me chamais bom?",
+          "Quereis também vós retirar-vos?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Qual será de vós o que, caindo-lhe num {0}, no dia do sábado, o jumento ou o boi, não o tire logo?",
+        "blanks": [
+          "poço"
+        ],
+        "distractors": [
+          "campo",
+          "monte",
+          "rio"
+        ]
+      },
+      {
+        "id": "luke-14-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Ao ser convidado às bodas, onde Jesus diz para não te assentares?",
+        "options": [
+          "No primeiro lugar",
+          "No último lugar",
+          "Junto à porta",
+          "Diante do anfitrião"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Porque qualquer que a si mesmo se exaltar será {0}, e aquele que a si mesmo se humilhar será exaltado.",
+        "blanks": [
+          "humilhado"
+        ],
+        "distractors": [
+          "abençoado",
+          "salvo",
+          "honrado"
+        ]
+      },
+      {
+        "id": "luke-14-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Mas, quando deres um banquete, chama os pobres, aleijados, coxos e {0},",
+        "blanks": [
+          "cegos"
+        ],
+        "distractors": [
+          "ricos",
+          "amigos",
+          "parentes"
+        ]
+      },
+      {
+        "id": "luke-14-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "O primeiro convidado",
+            "right": "Comprei um campo"
+          },
+          {
+            "left": "Outro convidado",
+            "right": "Comprei cinco juntas de bois"
+          },
+          {
+            "left": "Mais um convidado",
+            "right": "Casei, e, portanto, não posso ir"
+          }
+        ]
+      },
+      {
+        "id": "luke-14-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "E disse o senhor ao servo: Sai pelos {0} e valados, e força-os a entrar para que a minha casa se encha.",
+        "blanks": [
+          "caminhos"
+        ],
+        "distractors": [
+          "montes",
+          "campos",
+          "mares"
+        ]
+      },
+      {
+        "id": "luke-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Segundo Jesus, quem não pode ser seu discípulo?",
+        "options": [
+          "Quem ama mais a sua própria vida do que a ele",
+          "Quem possui grandes riquezas",
+          "Quem nunca jejuou",
+          "Quem não sabe ler a lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Pois qual de vós, querendo edificar uma {0}, não se assenta primeiro a fazer as contas dos gastos, para ver se tem com que a acabar?",
+        "blanks": [
+          "torre"
+        ],
+        "distractors": [
+          "casa",
+          "ponte",
+          "muralha"
+        ]
+      },
+      {
+        "id": "luke-14-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Com quantos homens o rei da parábola pondera se pode enfrentar quem vem com vinte mil?",
+        "options": [
+          "Dez mil",
+          "Cinco mil",
+          "Doze mil",
+          "Vinte mil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-14-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Bom é o sal; porém, se o sal se tornar {0}, com que se há de salgar?",
+        "blanks": [
+          "insípido"
+        ],
+        "distractors": [
+          "amargo",
+          "úmido",
+          "escuro"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "luke-15-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Por que os fariseus e os escribas murmuravam contra Jesus?",
+        "options": [
+          "Porque ele recebia pecadores e comia com eles",
+          "Porque ele curava no sábado",
+          "Porque ele não jejuava",
+          "Porque ele entrava no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Que homem dentre vós, tendo cem {0}, e perdendo uma delas, não deixa as noventa e nove no deserto",
+        "blanks": [
+          "ovelhas"
+        ],
+        "distractors": [
+          "dracmas",
+          "moedas",
+          "filhos"
+        ]
+      },
+      {
+        "id": "luke-15-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "O pastor que carrega a ovelha",
+        "text": "Ao achar a ovelha perdida, o pastor não a conduz à frente: ele a põe sobre os ombros, cheio de júbilo. A imagem se tornou um dos símbolos mais antigos do Bom Pastor."
+      },
+      {
+        "id": "luke-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Ou qual a mulher que, tendo dez {0}, se perder uma dracma, não acende a candeia",
+        "blanks": [
+          "dracmas"
+        ],
+        "distractors": [
+          "ovelhas",
+          "candeias",
+          "filhos"
+        ]
+      },
+      {
+        "id": "luke-15-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Segundo Jesus, diante de quem há alegria por um pecador que se arrepende?",
+        "options": [
+          "Diante dos anjos de Deus",
+          "Diante dos fariseus",
+          "Diante dos escribas",
+          "Diante dos publicanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-15-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "o qual o mandou para os seus campos a apascentar os {0}",
+        "blanks": [
+          "porcos"
+        ],
+        "distractors": [
+          "bezerros",
+          "cabritos",
+          "jornaleiros"
+        ]
+      },
+      {
+        "id": "luke-15-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "e dir-lhe-ei: Pai, pequei contra o céu e perante {0};",
+        "blanks": [
+          "ti"
+        ],
+        "distractors": [
+          "vós",
+          "Deus",
+          "todos"
+        ]
+      },
+      {
+        "id": "luke-15-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que o pai mandou os servos trazerem depressa para o filho?",
+        "options": [
+          "A melhor túnica, um anel e sandálias",
+          "Uma candeia e moedas",
+          "Pão e água",
+          "Um cabrito e vinho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-15-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "ouviu a música e as {0}.",
+        "blanks": [
+          "danças"
+        ],
+        "distractors": [
+          "vozes",
+          "festas",
+          "palavras"
+        ]
+      },
+      {
+        "id": "luke-15-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "A ovelha perdida",
+            "right": "O pastor deixa as noventa e nove e a busca"
+          },
+          {
+            "left": "A dracma perdida",
+            "right": "A mulher acende a candeia e varre a casa"
+          },
+          {
+            "left": "O filho pródigo",
+            "right": "O pai mata o bezerro cevado ao seu regresso"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "luke-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O mordomo da casa",
+        "text": "O \"mordomo\" era um administrador de confiança que cuidava dos bens, das contas e dos servos de seu senhor. Era um cargo de grande responsabilidade, e ser acusado de dissipar os bens significava arriscar perder tudo."
+      },
+      {
+        "id": "luke-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Diante da perda da mordomia, o que o mordomo reconhece sobre si mesmo?",
+        "options": [
+          "Que não pode cavar e tem vergonha de mendigar",
+          "Que prefere fugir para outra cidade",
+          "Que devolverá todos os bens ao senhor",
+          "Que pedirá perdão ao senhor de joelhos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "E ele disse: Cem medidas de {0}. E disse-lhe: Toma a tua conta, e assentando-te já, escreve cinquenta.",
+        "blanks": [
+          "azeite"
+        ],
+        "distractors": [
+          "trigo",
+          "vinho",
+          "cevada"
+        ]
+      },
+      {
+        "id": "luke-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E ele disse: Cem alqueires de {0}. E disse-lhe: Toma a tua conta, e escreve oitenta.",
+        "blanks": [
+          "trigo"
+        ],
+        "distractors": [
+          "azeite",
+          "vinho",
+          "cevada"
+        ]
+      },
+      {
+        "id": "luke-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Por que o senhor louvou o injusto mordomo, segundo o versículo 8?",
+        "options": [
+          "Por haver procedido prudentemente",
+          "Por ter devolvido o dinheiro",
+          "Por ter confessado a sua culpa",
+          "Por ter trabalhado mais duro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Dois senhores",
+            "right": "Nenhum servo pode servir a ambos"
+          },
+          {
+            "left": "Deus e Mamom",
+            "right": "Não se pode servir aos dois"
+          },
+          {
+            "left": "Fiel no mínimo",
+            "right": "Também é fiel no muito"
+          },
+          {
+            "left": "Riqueza injusta",
+            "right": "Prova se confiarão a verdadeira"
+          }
+        ]
+      },
+      {
+        "id": "luke-16-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "o que entre os homens é elevado, perante Deus é {0}.",
+        "blanks": [
+          "abominação"
+        ],
+        "distractors": [
+          "misericórdia",
+          "justiça",
+          "sabedoria"
+        ]
+      },
+      {
+        "id": "luke-16-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Até quem duraram a lei e os profetas, segundo o versículo 16?",
+        "options": [
+          "Até João",
+          "Até Moisés",
+          "Até Abraão",
+          "Até Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Ora, havia um homem rico, e vestia-se de {0} e de linho finíssimo, e vivia todos os dias regalada e esplendidamente.",
+        "blanks": [
+          "púrpura"
+        ],
+        "distractors": [
+          "seda",
+          "lã",
+          "ouro"
+        ]
+      },
+      {
+        "id": "luke-16-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Havia também um certo mendigo, chamado {0}, que jazia cheio de chagas à porta daquele;",
+        "blanks": [
+          "Lázaro"
+        ],
+        "distractors": [
+          "Abraão",
+          "Moisés",
+          "Simão"
+        ]
+      },
+      {
+        "id": "luke-16-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Para onde foi levado o mendigo Lázaro quando morreu?",
+        "options": [
+          "Para o seio de Abraão",
+          "Para o templo de Jerusalém",
+          "Para o deserto",
+          "Para a casa do rico"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-16-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "está posto um grande {0} entre nós e vós, de sorte que os que quisessem passar daqui para vós não poderiam",
+        "blanks": [
+          "abismo"
+        ],
+        "distractors": [
+          "muro",
+          "rio",
+          "deserto"
+        ]
+      },
+      {
+        "id": "luke-16-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "O seio de Abraão",
+        "text": "\"O seio de Abraão\" era uma expressão judaica para descrever o lugar de descanso e bênção dos justos após a morte. Estar ali significava partilhar a companhia do pai dos fiéis."
+      },
+      {
+        "id": "luke-16-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Porque tenho cinco {0}; para que lhes dê testemunho, a fim de que não venham também para este lugar de tormento.",
+        "blanks": [
+          "irmãos"
+        ],
+        "distractors": [
+          "filhos",
+          "amigos",
+          "servos"
+        ]
+      },
+      {
+        "id": "luke-16-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Segundo Abraão, o que aconteceria com quem não ouve Moisés e os profetas?",
+        "options": [
+          "Não acreditariam ainda que algum dos mortos ressuscite",
+          "Seriam consolados no seio de Abraão",
+          "Cruzariam o grande abismo livremente",
+          "Receberiam de novo os seus bens"
+        ],
+        "answer": 0
+      }
+    ],
+    "17": [
+      {
+        "id": "luke-17-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "O que Jesus disse ser melhor do que escandalizar um destes pequeninos?",
+        "options": [
+          "Que lhe pusessem ao pescoço uma pedra de moinho e fosse lançado ao mar",
+          "Que jejuasse por quarenta dias",
+          "Que vendesse todos os seus bens",
+          "Que se calasse para sempre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-17-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Perdão sem limite",
+        "text": "Jesus ensina a perdoar o irmão que se arrepende sete vezes no mesmo dia. O número sete representa plenitude: o perdão não deve ser contado, mas oferecido sempre."
+      },
+      {
+        "id": "luke-17-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Disseram então os apóstolos ao Senhor: Aumenta-nos a {0}.",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "graça",
+          "paz",
+          "força"
+        ]
+      },
+      {
+        "id": "luke-17-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "dizei: Somos servos {0}, porque fizemos somente o que devíamos fazer.",
+        "blanks": [
+          "inúteis"
+        ],
+        "distractors": [
+          "fiéis",
+          "humildes",
+          "cansados"
+        ]
+      },
+      {
+        "id": "luke-17-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Dez homens",
+            "right": "Os leprosos que pararam de longe"
+          },
+          {
+            "left": "Sacerdotes",
+            "right": "A quem deviam mostrar-se"
+          },
+          {
+            "left": "Samaritano",
+            "right": "O único que voltou a dar graças"
+          }
+        ]
+      },
+      {
+        "id": "luke-17-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "E disse-lhe: Levanta-te, e vai; a tua fé te {0}.",
+        "blanks": [
+          "salvou"
+        ],
+        "distractors": [
+          "curou",
+          "perdoou",
+          "chamou"
+        ]
+      },
+      {
+        "id": "luke-17-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "porque eis que o reino de Deus está entre {0}.",
+        "blanks": [
+          "vós"
+        ],
+        "distractors": [
+          "eles",
+          "nós",
+          "todos"
+        ]
+      },
+      {
+        "id": "luke-17-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "A que Jesus comparou a vinda do Filho do Homem no seu dia?",
+        "options": [
+          "Ao relâmpago que resplandece de uma parte à outra debaixo do céu",
+          "A um ladrão silencioso",
+          "Ao nascer do sol pela manhã",
+          "A uma trombeta distante"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-17-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Mas no dia em que Ló saiu de Sodoma, choveu do céu fogo e {0}, e os consumiu a todos.",
+        "blanks": [
+          "enxofre"
+        ],
+        "distractors": [
+          "granizo",
+          "cinza",
+          "fumaça"
+        ]
+      },
+      {
+        "id": "luke-17-cur-32",
+        "type": "curiosity",
+        "after_verse": 32,
+        "title": "Lembrai-vos da mulher de Ló",
+        "text": "Ao fugir de Sodoma, a mulher de Ló olhou para trás e ficou presa ao que deixava. Jesus a usa como advertência para não voltar atrás no dia do julgamento."
+      },
+      {
+        "id": "luke-17-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Qualquer que procurar salvar a sua vida, perdê-la-á; e qualquer que a perder, {0}.",
+        "blanks": [
+          "salvá-la-á"
+        ],
+        "distractors": [
+          "achá-la-á",
+          "deixá-la-á",
+          "tomá-la-á"
+        ]
+      },
+      {
+        "id": "luke-17-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "O que Jesus respondeu quando lhe perguntaram: Onde, Senhor?",
+        "options": [
+          "Onde estiver o corpo, aí se ajuntarão as águias",
+          "No monte mais alto da Galileia",
+          "Em Jerusalém, junto ao templo",
+          "Ninguém o saberá senão o Pai"
+        ],
+        "answer": 0
+      }
+    ],
+    "18": [
+      {
+        "id": "luke-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Orar sempre",
+        "text": "Lucas apresenta esta parábola explicando seu propósito antes de contá-la: ensinar que se deve orar sempre e nunca desfalecer. É o único evangelho que registra a parábola da viúva e do juiz injusto."
+      },
+      {
+        "id": "luke-18-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Como era descrito o juiz da parábola?",
+        "options": [
+          "Não temia a Deus nem respeitava homem algum",
+          "Era justo e temente a Deus",
+          "Era sacerdote no templo",
+          "Era amigo da viúva"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Porém, quando vier o Filho do Homem, porventura achará {0} na terra?",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "paz",
+          "luz",
+          "justiça"
+        ]
+      },
+      {
+        "id": "luke-18-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "O fariseu",
+            "right": "Dava graças por não ser como os demais homens"
+          },
+          {
+            "left": "O publicano",
+            "right": "Batia em seu peito pedindo misericórdia"
+          },
+          {
+            "left": "Justificado",
+            "right": "Aquele que desceu perdoado para sua casa"
+          },
+          {
+            "left": "Humilhado",
+            "right": "O que a si mesmo se exalta"
+          }
+        ]
+      },
+      {
+        "id": "luke-18-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Deixai vir a mim os {0}, e não os impeçais, porque dos tais é o reino de Deus.",
+        "blanks": [
+          "pequeninos"
+        ],
+        "distractors": [
+          "pobres",
+          "doentes",
+          "pecadores"
+        ]
+      },
+      {
+        "id": "luke-18-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que o príncipe perguntou a Jesus?",
+        "options": [
+          "Que hei de fazer para herdar a vida eterna?",
+          "Quem é o maior no reino de Deus?",
+          "Quando virá o reino de Deus?",
+          "Por que jejuam teus discípulos?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "vende tudo quanto tens, reparte-o entre os {0}, e terás um tesouro no céu",
+        "blanks": [
+          "pobres"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "discípulos",
+          "anciãos"
+        ]
+      },
+      {
+        "id": "luke-18-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Porque é mais fácil entrar um {0} pelo fundo de uma agulha do que entrar um rico no reino de Deus.",
+        "blanks": [
+          "camelo"
+        ],
+        "distractors": [
+          "cordeiro",
+          "boi",
+          "leão"
+        ]
+      },
+      {
+        "id": "luke-18-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "O que respondeu Jesus quando perguntaram quem pode salvar-se?",
+        "options": [
+          "As coisas impossíveis aos homens são possíveis a Deus",
+          "Somente os ricos se salvarão",
+          "Ninguém poderá salvar-se",
+          "Os que jejuam serão salvos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "E havendo-o açoitado, o matarão; e ao terceiro dia {0}.",
+        "blanks": [
+          "ressuscitará"
+        ],
+        "distractors": [
+          "aparecerá",
+          "subirá",
+          "voltará"
+        ]
+      },
+      {
+        "id": "luke-18-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "O que disseram ao cego quando ele perguntou o que era aquilo?",
+        "options": [
+          "Que Jesus Nazareno passava",
+          "Que vinha uma tempestade",
+          "Que os fariseus chegavam",
+          "Que era um casamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-18-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Então clamou, dizendo: Jesus, Filho de {0}, tem misericórdia de mim.",
+        "blanks": [
+          "Davi"
+        ],
+        "distractors": [
+          "Abraão",
+          "José",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "luke-18-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "O que Jesus disse ao curar o cego?",
+        "options": [
+          "Vê; a tua fé te salvou",
+          "Vai-te em paz",
+          "Não digas a ninguém",
+          "Levanta-te e anda"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "luke-19-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E procurava ver quem era Jesus, e não podia, por causa da multidão, porque ele era de pequena {0}.",
+        "blanks": [
+          "estatura"
+        ],
+        "distractors": [
+          "idade",
+          "voz",
+          "fama"
+        ]
+      },
+      {
+        "id": "luke-19-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Zaqueu, o publicano",
+        "text": "Zaqueu era chefe dos publicanos, os cobradores de impostos a serviço de Roma, desprezados pelo povo. Por isso a multidão murmurou quando Jesus se hospedou em sua casa."
+      },
+      {
+        "id": "luke-19-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Senhor, eis que eu dou aos pobres {0} dos meus bens; e se nalguma coisa defraudei alguém, o restituo quadruplicado.",
+        "blanks": [
+          "metade"
+        ],
+        "distractors": [
+          "o dobro",
+          "um terço",
+          "tudo"
+        ]
+      },
+      {
+        "id": "luke-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E chamando dez servos seus, deu-lhes dez {0}, e disse-lhes: Negociai até que eu venha.",
+        "blanks": [
+          "minas"
+        ],
+        "distractors": [
+          "cidades",
+          "talentos",
+          "moedas"
+        ]
+      },
+      {
+        "id": "luke-19-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E veio outro, dizendo: Senhor, aqui está a tua mina, que guardei num {0};",
+        "blanks": [
+          "lenço"
+        ],
+        "distractors": [
+          "banco",
+          "campo",
+          "celeiro"
+        ]
+      },
+      {
+        "id": "luke-19-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Como o senhor chamou o servo que escondeu a mina?",
+        "options": [
+          "Servo mau",
+          "Servo bom",
+          "Servo fiel",
+          "Servo prudente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-19-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "achareis preso um {0} em que nenhum homem ainda se assentou; soltai-o e trazei-o;",
+        "blanks": [
+          "jumentinho"
+        ],
+        "distractors": [
+          "cordeiro",
+          "cavalo",
+          "novilho"
+        ]
+      },
+      {
+        "id": "luke-19-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "E indo ele, estendiam no {0} as suas vestes.",
+        "blanks": [
+          "caminho"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "barco"
+        ]
+      },
+      {
+        "id": "luke-19-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "O que Jesus disse que aconteceria se os discípulos se calassem?",
+        "options": [
+          "As pedras clamariam",
+          "O templo cairia",
+          "O povo choraria",
+          "O céu se fecharia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-19-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Está escrito: A minha casa é casa de {0}; mas vós fizestes dela covil de salteadores.",
+        "blanks": [
+          "oração"
+        ],
+        "distractors": [
+          "festa",
+          "comércio",
+          "descanso"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "luke-20-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Que pergunta Jesus fez aos principais dos sacerdotes em resposta?",
+        "options": [
+          "O batismo de João era do céu ou dos homens?",
+          "Quem é o herdeiro da vinha?",
+          "É lícito dar tributo a César?",
+          "De quem é esta imagem na moeda?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por que os líderes temiam dizer que o batismo de João era 'dos homens'?",
+        "options": [
+          "Porque todo o povo os apedrejaria, pois tinham João por profeta",
+          "Porque seriam expulsos do templo",
+          "Porque César ficaria irado",
+          "Porque os saduceus os condenariam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Um certo homem plantou uma {0}, e arrendou-a a uns lavradores, e partiu para fora da terra por muito tempo;",
+        "blanks": [
+          "vinha"
+        ],
+        "distractors": [
+          "seara",
+          "figueira",
+          "horta"
+        ]
+      },
+      {
+        "id": "luke-20-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Os servos enviados",
+        "text": "Na parábola, o senhor da vinha envia servo após servo, e cada um é espancado ou ferido e mandado embora — uma imagem dos profetas rejeitados por Israel antes da vinda do Filho amado."
+      },
+      {
+        "id": "luke-20-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E disse o senhor da vinha: Que farei? Mandarei o meu filho {0}; talvez, vendo-o, o respeitem.",
+        "blanks": [
+          "amado"
+        ],
+        "distractors": [
+          "primogênito",
+          "servo",
+          "herdeiro"
+        ]
+      },
+      {
+        "id": "luke-20-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "A pedra",
+            "right": "Feita cabeça da esquina"
+          },
+          {
+            "left": "Os edificadores",
+            "right": "Rejeitaram a pedra"
+          },
+          {
+            "left": "O filho amado",
+            "right": "Morto pelos lavradores"
+          }
+        ]
+      },
+      {
+        "id": "luke-20-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Por que os principais dos sacerdotes não lançaram mão de Jesus naquela hora?",
+        "options": [
+          "Porque temeram o povo",
+          "Porque não o encontraram",
+          "Porque César o protegia",
+          "Porque os saduceus o defenderam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "É-nos lícito dar {0} a César ou não?",
+        "blanks": [
+          "tributo"
+        ],
+        "distractors": [
+          "adoração",
+          "obediência",
+          "honra"
+        ]
+      },
+      {
+        "id": "luke-20-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Dai, pois, a César o que é de César, e a {0}, o que é de Deus.",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Moisés",
+          "Davi",
+          "Roma"
+        ]
+      },
+      {
+        "id": "luke-20-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Mestre, {0} escreveu-nos que, se o irmão de alguém falecer, tendo mulher, e não deixar filhos, o irmão dele tome a mulher, e suscite posteridade a seu irmão.",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Davi",
+          "Abraão",
+          "Isaque"
+        ]
+      },
+      {
+        "id": "luke-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Que enigma os saduceus apresentaram a Jesus sobre a ressurreição?",
+        "options": [
+          "De qual dos sete irmãos a mulher seria, pois todos a tiveram por mulher",
+          "Quem herdaria a vinha do senhor ausente",
+          "A quem pertenceria a moeda de César",
+          "Se os mortos casariam com anjos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Porque não podem mais morrer; pois são iguais aos {0}, e são filhos de Deus, sendo filhos da ressurreição.",
+        "blanks": [
+          "anjos"
+        ],
+        "distractors": [
+          "profetas",
+          "saduceus",
+          "homens"
+        ]
+      },
+      {
+        "id": "luke-20-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Ora, Deus não é Deus de mortos, porém de {0}; porque para ele vivem todos.",
+        "blanks": [
+          "vivos"
+        ],
+        "distractors": [
+          "anjos",
+          "justos",
+          "pecadores"
+        ]
+      },
+      {
+        "id": "luke-20-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "Onde, segundo Jesus, Davi chama o Cristo de 'Senhor'?",
+        "options": [
+          "No livro dos Salmos",
+          "No livro de Moisés",
+          "No livro de Isaías",
+          "No livro dos Provérbios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-20-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Guardai-vos dos {0}, que querem andar com vestes compridas; e amam as saudações nas praças, e as principais cadeiras nas sinagogas, e os primeiros lugares nos banquetes;",
+        "blanks": [
+          "escribas"
+        ],
+        "distractors": [
+          "saduceus",
+          "lavradores",
+          "publicanos"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "luke-21-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "As duas moedinhas da viúva",
+        "text": "As \"duas pequenas moedas\" eram os leptos, as menores moedas em circulação na Judeia. Juntas valiam quase nada — e ainda assim Jesus declara que a viúva deu mais do que todos os ricos, porque ofereceu tudo o que tinha."
+      },
+      {
+        "id": "luke-21-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que Jesus disse sobre a pobre viúva que lançou duas moedas no tesouro?",
+        "options": [
+          "Que ela lançou mais do que todos",
+          "Que ela deveria guardar o seu sustento",
+          "Que os ricos haviam dado mais",
+          "Que ela não devia entrar no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "dias virão em que não se deixará {0} sobre pedra, que não seja derrubada.",
+        "blanks": [
+          "pedra"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "altar"
+        ]
+      },
+      {
+        "id": "luke-21-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Vede que não vos {0}, porque virão muitos em meu nome",
+        "blanks": [
+          "enganem"
+        ],
+        "distractors": [
+          "abençoem",
+          "ensinem",
+          "sigam"
+        ]
+      },
+      {
+        "id": "luke-21-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Quais sinais Jesus disse que haveria em vários lugares antes do fim?",
+        "options": [
+          "Grandes terremotos, fomes e pestilências",
+          "Chuvas e boas colheitas",
+          "Paz entre todas as nações",
+          "Silêncio nos céus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Porque eu vos darei boca e {0}, às quais não poderão contradizer nem resistir",
+        "blanks": [
+          "sabedoria"
+        ],
+        "distractors": [
+          "riqueza",
+          "fama",
+          "paciência"
+        ]
+      },
+      {
+        "id": "luke-21-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Boca e sabedoria",
+            "right": "O que Jesus prometeu dar aos perseguidos"
+          },
+          {
+            "left": "Pais, irmãos e amigos",
+            "right": "Por quem os discípulos seriam entregues"
+          },
+          {
+            "left": "A vossa paciência",
+            "right": "Com ela possuiriam a sua alma"
+          }
+        ]
+      },
+      {
+        "id": "luke-21-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Na vossa {0} possuí a vossa alma.",
+        "blanks": [
+          "paciência"
+        ],
+        "distractors": [
+          "esperança",
+          "fraqueza",
+          "alegria"
+        ]
+      },
+      {
+        "id": "luke-21-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo Jesus, o que indicaria que a assolação de Jerusalém estava chegada?",
+        "options": [
+          "Vê-la cercada de exércitos",
+          "Ver o templo reconstruído",
+          "Ver chuvas sobre os montes",
+          "Ver os reis se ajoelharem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Jerusalém será pisada pelos {0} até que os tempos dos gentios se completem.",
+        "blanks": [
+          "gentios"
+        ],
+        "distractors": [
+          "romanos",
+          "anjos",
+          "profetas"
+        ]
+      },
+      {
+        "id": "luke-21-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Como Jesus disse que o Filho do Homem viria?",
+        "options": [
+          "Numa nuvem, com poder e grande glória",
+          "Em silêncio, de noite",
+          "Sobre um cavalo branco",
+          "Como um laço sobre a terra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "quando virdes acontecer essas coisas, sabei que o reino de {0} está perto.",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Israel",
+          "Davi",
+          "Jerusalém"
+        ]
+      },
+      {
+        "id": "luke-21-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Passarão o céu e a terra, mas as minhas {0} não hão de passar.",
+        "blanks": [
+          "palavras"
+        ],
+        "distractors": [
+          "obras",
+          "promessas",
+          "parábolas"
+        ]
+      },
+      {
+        "id": "luke-21-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "O que Jesus mandou os discípulos fazerem para escaparem das coisas que haviam de acontecer?",
+        "options": [
+          "Vigiar a todo tempo, orando",
+          "Fugir para a Judeia",
+          "Reconstruir o templo",
+          "Guardar suas ofertas no tesouro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-21-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "à noite, saindo, ficava no monte chamado das {0}.",
+        "blanks": [
+          "Oliveiras"
+        ],
+        "distractors": [
+          "Bem-aventuranças",
+          "Tentações",
+          "Figueiras"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "luke-22-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Satanás em Judas",
+        "text": "Lucas registra que Satanás entrou em Judas Iscariotes antes da traição. Judas era um dos doze e combinou entregar Jesus por dinheiro."
+      },
+      {
+        "id": "luke-22-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Os quais se alegraram, e convieram em lhe dar {0}.",
+        "blanks": [
+          "dinheiro"
+        ],
+        "distractors": [
+          "pão",
+          "vinho",
+          "terras"
+        ]
+      },
+      {
+        "id": "luke-22-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "vos encontrará um homem, levando um {0} de água; segui-o até a casa em que ele entrar.",
+        "blanks": [
+          "cântaro"
+        ],
+        "distractors": [
+          "cordeiro",
+          "cesto",
+          "manto"
+        ]
+      },
+      {
+        "id": "luke-22-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Que lugar o homem mostraria para preparar a páscoa?",
+        "options": [
+          "Um grande cenáculo mobiliado",
+          "Um campo aberto",
+          "Uma sala no templo",
+          "Uma casa à beira-mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "O que Jesus disse desejar muito fazer com os apóstolos antes de padecer?",
+        "options": [
+          "Comer com eles aquela páscoa",
+          "Subir ao Monte das Oliveiras",
+          "Voltar à Galileia",
+          "Entrar no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Porque vos digo que já não beberei do fruto da {0}, até que venha o reino de Deus.",
+        "blanks": [
+          "vide"
+        ],
+        "distractors": [
+          "terra",
+          "oliveira",
+          "figueira"
+        ]
+      },
+      {
+        "id": "luke-22-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Isto é o meu corpo, que por vós é dado; fazei isto em {0} de mim.",
+        "blanks": [
+          "memória"
+        ],
+        "distractors": [
+          "honra",
+          "glória",
+          "silêncio"
+        ]
+      },
+      {
+        "id": "luke-22-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Cálice",
+            "right": "O novo testamento no seu sangue"
+          },
+          {
+            "left": "Pão",
+            "right": "O seu corpo, dado por vós"
+          },
+          {
+            "left": "A mão à mesa",
+            "right": "A do que o trai"
+          }
+        ]
+      },
+      {
+        "id": "luke-22-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "antes, o maior entre vós seja como o {0}; e quem governa como quem serve.",
+        "blanks": [
+          "menor"
+        ],
+        "distractors": [
+          "rei",
+          "servo",
+          "mestre"
+        ]
+      },
+      {
+        "id": "luke-22-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Sobre o que os apóstolos se assentariam para julgar as doze tribos de Israel?",
+        "options": [
+          "Tronos",
+          "Cadeiras do templo",
+          "Pedras do altar",
+          "Bancos da sinagoga"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Simão, Simão, eis que Satanás vos pediu para vos cirandar como {0};",
+        "blanks": [
+          "trigo"
+        ],
+        "distractors": [
+          "palha",
+          "joio",
+          "cinza"
+        ]
+      },
+      {
+        "id": "luke-22-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "Quantas vezes Jesus disse que Pedro o negaria antes do galo cantar?",
+        "options": [
+          "Três vezes",
+          "Duas vezes",
+          "Sete vezes",
+          "Uma vez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "E eles disseram: Senhor, eis aqui duas {0}. E ele lhes disse: Basta.",
+        "blanks": [
+          "espadas"
+        ],
+        "distractors": [
+          "bolsas",
+          "capas",
+          "sandálias"
+        ]
+      },
+      {
+        "id": "luke-22-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Pai, se queres, passa de mim este {0}, porém não se faça a minha vontade, senão a tua.",
+        "blanks": [
+          "cálice"
+        ],
+        "distractors": [
+          "pão",
+          "jugo",
+          "cordeiro"
+        ]
+      },
+      {
+        "id": "luke-22-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "Como ficou o suor de Jesus em sua agonia ao orar?",
+        "options": [
+          "Como grandes gotas de sangue",
+          "Como orvalho da manhã",
+          "Como água pura",
+          "Como óleo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "E Jesus lhe disse: Judas, com um {0} trais o Filho do Homem?",
+        "blanks": [
+          "beijo"
+        ],
+        "distractors": [
+          "abraço",
+          "aceno",
+          "grito"
+        ]
+      },
+      {
+        "id": "luke-22-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "E um deles feriu o servo do sumo sacerdote, e cortou-lhe a {0} direita.",
+        "blanks": [
+          "orelha"
+        ],
+        "distractors": [
+          "mão",
+          "face",
+          "testa"
+        ]
+      },
+      {
+        "id": "luke-22-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "O que Jesus fez à orelha do servo ferido?",
+        "options": [
+          "Tocou-lhe a orelha e o curou",
+          "Repreendeu o servo",
+          "Ordenou que partissem",
+          "Calou-se"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "o puseram na casa do sumo sacerdote. E Pedro seguia-o de {0}.",
+        "blanks": [
+          "longe"
+        ],
+        "distractors": [
+          "perto",
+          "noite",
+          "novo"
+        ]
+      },
+      {
+        "id": "luke-22-mp-60",
+        "type": "match_pairs",
+        "after_verse": 60,
+        "pairs": [
+          {
+            "left": "Uma criada",
+            "right": "Disse que Pedro estava com ele"
+          },
+          {
+            "left": "Pedro",
+            "right": "Negou conhecer Jesus"
+          },
+          {
+            "left": "O galo",
+            "right": "Cantou enquanto Pedro falava"
+          }
+        ]
+      },
+      {
+        "id": "luke-22-fb-62",
+        "type": "fill_blank",
+        "after_verse": 62,
+        "verse": 62,
+        "template": "E saindo Pedro para fora, chorou {0}.",
+        "blanks": [
+          "amargamente"
+        ],
+        "distractors": [
+          "alegremente",
+          "baixinho",
+          "sozinho"
+        ]
+      },
+      {
+        "id": "luke-22-mc-64",
+        "type": "multiple_choice",
+        "after_verse": 64,
+        "question": "O que faziam os homens depois de vendar Jesus?",
+        "options": [
+          "Feriam-no no rosto e zombavam",
+          "Davam-lhe pão",
+          "Soltavam-no",
+          "Ajoelhavam-se diante dele"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-22-fb-67",
+        "type": "fill_blank",
+        "after_verse": 67,
+        "verse": 67,
+        "template": "Dizendo: És tu o {0}? dize-no-lo. E disse-lhes: Se vo-lo disser, não o crereis;",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Mestre",
+          "profeta",
+          "rei"
+        ]
+      },
+      {
+        "id": "luke-22-mc-70",
+        "type": "multiple_choice",
+        "after_verse": 70,
+        "question": "O que Jesus respondeu quando perguntaram se ele era o Filho de Deus?",
+        "options": [
+          "Vós dizeis que eu sou",
+          "Não sou",
+          "Perguntai outra vez",
+          "Nada vos direi"
+        ],
+        "answer": 0
+      }
+    ],
+    "23": [
+      {
+        "id": "luke-23-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E Pilatos perguntou-lhe, dizendo: Tu és o Rei dos {0}?",
+        "blanks": [
+          "Judeus"
+        ],
+        "distractors": [
+          "Romanos",
+          "Profetas",
+          "Sacerdotes"
+        ]
+      },
+      {
+        "id": "luke-23-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Não acho culpa",
+        "text": "Por três vezes neste capítulo Pilatos declara que não encontra culpa em Jesus, ainda que ao fim o entregue à vontade da multidão."
+      },
+      {
+        "id": "luke-23-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "vestiu-o de uma roupa {0} e tornou a enviá-lo a Pilatos",
+        "blanks": [
+          "resplandecente"
+        ],
+        "distractors": [
+          "rasgada",
+          "branca",
+          "púrpura"
+        ]
+      },
+      {
+        "id": "luke-23-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "O que aconteceu entre Pilatos e Herodes naquele dia?",
+        "options": [
+          "Fizeram-se amigos",
+          "Tornaram-se inimigos",
+          "Lutaram entre si",
+          "Fugiram juntos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "{0}, pois, e soltá-lo-ei.",
+        "blanks": [
+          "Castigá-lo-ei"
+        ],
+        "distractors": [
+          "Açoitá-lo-ei",
+          "Prendê-lo-ei",
+          "Condená-lo-ei"
+        ]
+      },
+      {
+        "id": "luke-23-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Quem a multidão pediu que fosse solto em lugar de Jesus?",
+        "options": [
+          "Barrabás",
+          "Herodes",
+          "Simão",
+          "José"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Mas eles clamavam em contrário, dizendo: {0}, crucifica-o!",
+        "blanks": [
+          "Crucifica-- o"
+        ],
+        "distractors": [
+          "Solta-o",
+          "Liberta-o",
+          "Salva-o"
+        ]
+      },
+      {
+        "id": "luke-23-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "tomaram um certo {0}, cireneu, que vinha do campo",
+        "blanks": [
+          "Simão"
+        ],
+        "distractors": [
+          "Pedro",
+          "André",
+          "Tomé"
+        ]
+      },
+      {
+        "id": "luke-23-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Jesus disse às filhas de Jerusalém?",
+        "options": [
+          "Não choreis por mim, chorai antes por vós mesmas",
+          "Segui-me até ao monte",
+          "Não temais a morte",
+          "Voltai para vossas casas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "E quando chegaram ao lugar chamado {0}, ali o crucificaram",
+        "blanks": [
+          "Caveira"
+        ],
+        "distractors": [
+          "Betânia",
+          "Sião",
+          "Oliveiras"
+        ]
+      },
+      {
+        "id": "luke-23-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "E dizia Jesus: Pai, {0}, porque não sabem o que fazem.",
+        "blanks": [
+          "perdoa-lhes"
+        ],
+        "distractors": [
+          "abençoa-os",
+          "ouve-me",
+          "ajuda-os"
+        ]
+      },
+      {
+        "id": "luke-23-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Em que línguas estava escrito o título sobre Jesus?",
+        "options": [
+          "Gregas, romanas e hebraicas",
+          "Apenas hebraicas",
+          "Latinas e árabes",
+          "Gregas e egípcias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "Se tu és o {0}, salva-te a ti mesmo, e a nós.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Rei",
+          "Mestre",
+          "Profeta"
+        ]
+      },
+      {
+        "id": "luke-23-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no {0}.",
+        "blanks": [
+          "Paraíso"
+        ],
+        "distractors": [
+          "Céu",
+          "reino",
+          "templo"
+        ]
+      },
+      {
+        "id": "luke-23-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "O que Jesus disse ao clamar com grande voz antes de expirar?",
+        "options": [
+          "Pai, nas tuas mãos entrego o meu espírito",
+          "Está consumado",
+          "Por que me desamparaste",
+          "Tenho sede"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-23-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "deu glória a Deus, dizendo: Na verdade, este homem era {0}.",
+        "blanks": [
+          "justo"
+        ],
+        "distractors": [
+          "santo",
+          "bom",
+          "inocente"
+        ]
+      },
+      {
+        "id": "luke-23-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "E eis que um homem por nome {0}, membro do Sinédrio",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Simão",
+          "Nicodemos",
+          "Lázaro"
+        ]
+      },
+      {
+        "id": "luke-23-mp-52",
+        "type": "match_pairs",
+        "after_verse": 52,
+        "pairs": [
+          {
+            "left": "José",
+            "right": "Pediu o corpo de Jesus a Pilatos"
+          },
+          {
+            "left": "Arimateia",
+            "right": "Cidade de onde José era"
+          },
+          {
+            "left": "Sinédrio",
+            "right": "Conselho do qual José era membro"
+          }
+        ]
+      },
+      {
+        "id": "luke-23-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "envolveu-o num {0}, e pô-lo num sepulcro lavrado numa penha",
+        "blanks": [
+          "lençol"
+        ],
+        "distractors": [
+          "manto",
+          "véu",
+          "saco"
+        ]
+      },
+      {
+        "id": "luke-23-mc-56",
+        "type": "multiple_choice",
+        "after_verse": 56,
+        "question": "O que as mulheres fizeram no sábado?",
+        "options": [
+          "Repousaram conforme o mandamento",
+          "Foram ao sepulcro",
+          "Prepararam o julgamento",
+          "Voltaram à Galileia"
+        ],
+        "answer": 0
+      }
+    ],
+    "24": [
+      {
+        "id": "luke-24-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E no primeiro dia da semana, muito de madrugada, foram elas, e algumas outras com elas, ao {0}, levando as especiarias que tinham preparado.",
+        "blanks": [
+          "sepulcro"
+        ],
+        "distractors": [
+          "templo",
+          "monte",
+          "jardim"
+        ]
+      },
+      {
+        "id": "luke-24-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que os dois homens com vestes resplandecentes perguntaram às mulheres?",
+        "options": [
+          "Por que buscais o vivente entre os mortos?",
+          "Onde está o vosso Senhor?",
+          "Por que chorais à porta?",
+          "Quem revolveu a pedra?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Como ele havia predito",
+        "text": "Os anjos lembram às mulheres que Jesus já anunciara, ainda na Galileia, que seria entregue, crucificado e ressuscitaria ao terceiro dia — exatamente o que agora se cumpria."
+      },
+      {
+        "id": "luke-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Como os apóstolos receberam o relato das mulheres sobre o sepulcro vazio?",
+        "options": [
+          "Pareceu-lhes como desvario, e não creram",
+          "Creram imediatamente e se alegraram",
+          "Correram todos ao sepulcro",
+          "Repreenderam as mulheres por mentir"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Pedro, porém, levantando-se, correu ao sepulcro e, abaixando-se, viu só os {0} ali postos; e retirou-se, admirando-se do que havia acontecido.",
+        "blanks": [
+          "lençóis"
+        ],
+        "distractors": [
+          "anjos",
+          "guardas",
+          "soldados"
+        ]
+      },
+      {
+        "id": "luke-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E eis que no mesmo dia iam dois deles para uma aldeia, que distava de Jerusalém sessenta estádios, cujo nome era {0};",
+        "blanks": [
+          "Emaús"
+        ],
+        "distractors": [
+          "Betânia",
+          "Naim",
+          "Belém"
+        ]
+      },
+      {
+        "id": "luke-24-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Por que os dois discípulos não reconheceram Jesus no caminho?",
+        "options": [
+          "Os olhos deles estavam impedidos de o reconhecerem",
+          "Estava muito escuro na estrada",
+          "Ele cobrira o rosto",
+          "Ele falava outra língua"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Cleofas",
+        "text": "Um dos dois caminhantes para Emaús é nomeado: Cleofas. Espantado, ele pergunta se Jesus é o único peregrino em Jerusalém que ignora o que ali sucedera."
+      },
+      {
+        "id": "luke-24-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "E nós esperávamos que fosse ele o que redimisse {0}; mas agora, além de tudo isso, é já hoje o terceiro dia desde que essas coisas aconteceram;",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Jerusalém",
+          "Judá",
+          "Galileia"
+        ]
+      },
+      {
+        "id": "luke-24-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "O que as mulheres disseram ter visto no sepulcro?",
+        "options": [
+          "Uma visão de anjos, que diziam que ele vive",
+          "O próprio corpo do Senhor",
+          "Os soldados adormecidos",
+          "Uma luz descendo do céu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "E começando por {0}, e por todos os profetas, explicava-lhes em todas as escrituras o que dele estava escrito.",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Davi",
+          "Abraão",
+          "Elias"
+        ]
+      },
+      {
+        "id": "luke-24-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "O que Jesus fez à mesa, em Emaús, antes de ser reconhecido?",
+        "options": [
+          "Tomou o pão, o abençoou, partiu-o e deu-o a eles",
+          "Lavou-lhes os pés",
+          "Ungiu-lhes a cabeça com óleo",
+          "Repartiu o peixe assado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "E disseram um para o outro: Porventura não ardia em nós o nosso {0} quando, pelo caminho nos falava, e quando nos abria as escrituras?",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "espírito",
+          "temor",
+          "ânimo"
+        ]
+      },
+      {
+        "id": "luke-24-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "O que Jesus disse ao se apresentar no meio dos discípulos?",
+        "options": [
+          "Paz seja convosco",
+          "Não temais mais",
+          "Por que duvidais?",
+          "Eis o vosso Mestre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "Mãos e pés",
+            "right": "O que Jesus mandou que vissem"
+          },
+          {
+            "left": "Apalpai-me",
+            "right": "O convite para tocarem nele"
+          },
+          {
+            "left": "Espírito",
+            "right": "O que não tem carne nem ossos"
+          }
+        ]
+      },
+      {
+        "id": "luke-24-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "O que Jesus pediu aos discípulos para provar que não era um espírito?",
+        "options": [
+          "Algo que comer",
+          "Que lhe tocassem os cabelos",
+          "Uma vestidura",
+          "Água para beber"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Então eles apresentaram-lhe parte de um {0} assado, e um favo de mel;",
+        "blanks": [
+          "peixe"
+        ],
+        "distractors": [
+          "pão",
+          "cordeiro",
+          "cabrito"
+        ]
+      },
+      {
+        "id": "luke-24-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "Em quais escritos Jesus disse que tudo a seu respeito devia cumprir-se?",
+        "options": [
+          "Na lei de Moisés, nos profetas e nos salmos",
+          "Somente nos profetas",
+          "Na lei e nos provérbios",
+          "Nos salmos e nas crônicas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "luke-24-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "E levou-os para fora, até {0}; e levantando as suas mãos, os abençoou.",
+        "blanks": [
+          "Betânia"
+        ],
+        "distractors": [
+          "Jerusalém",
+          "Emaús",
+          "Galileia"
+        ]
+      },
+      {
+        "id": "luke-24-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "Como os discípulos retornaram a Jerusalém depois da ascensão?",
+        "options": [
+          "Com grande júbilo, adorando-o",
+          "Tristes e temerosos",
+          "Em silêncio e jejum",
+          "Discutindo entre si"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

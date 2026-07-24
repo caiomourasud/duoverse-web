@@ -1,0 +1,4462 @@
+{
+  "schema_version": 1,
+  "book": "num",
+  "chapters": {
+    "1": [
+      {
+        "id": "num-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Por que 'Números'?",
+        "text": "O nome do livro vem deste censo: em hebraico ele se chama 'Bamidbar' ('no deserto'), mas as traduções gregas e latinas o chamaram de 'Números' por causa da contagem das tribos."
+      },
+      {
+        "id": "num-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Falou mais o Senhor a Moisés no deserto de {0}, na tenda da congregação",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Egito",
+          "Israel",
+          "Judá"
+        ]
+      },
+      {
+        "id": "num-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Quem deveria sair à guerra e, portanto, ser contado no censo?",
+        "options": [
+          "Todos os homens de vinte anos e acima",
+          "Apenas os sacerdotes",
+          "Todas as mulheres e crianças",
+          "Somente os anciãos do povo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "De Rúben, {0}, filho de Sedeur;",
+        "blanks": [
+          "Elizur"
+        ],
+        "distractors": [
+          "Selumiel",
+          "Naassom",
+          "Eliabe"
+        ]
+      },
+      {
+        "id": "num-1-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Os filhos de José são representados por duas tribos no censo. Quais são?",
+        "options": [
+          "Efraim e Manassés",
+          "Rúben e Gade",
+          "Judá e Levi",
+          "Dã e Naftali"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Esses foram os chamados da congregação, os {0} das tribos de seus pais",
+        "blanks": [
+          "príncipes"
+        ],
+        "distractors": [
+          "servos",
+          "inimigos",
+          "estrangeiros"
+        ]
+      },
+      {
+        "id": "num-1-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "De acordo com o versículo 20, qual era a posição de Rúben entre os filhos de Israel?",
+        "options": [
+          "O primogênito",
+          "O caçula",
+          "Um levita",
+          "O sacerdote-chefe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 26,
+        "template": "Dos filhos de {0}, as suas gerações pelas suas famílias",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Simeão",
+          "Gade",
+          "Aser"
+        ]
+      },
+      {
+        "id": "num-1-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Cada tribo é contada a partir de que idade, repetidamente nestes versículos?",
+        "options": [
+          "Vinte anos e acima",
+          "Trinta anos e acima",
+          "Doze anos e acima",
+          "Cinquenta anos e acima"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "Que critério único determinava se um homem era incluído na contagem das tribos?",
+        "options": [
+          "Poder sair à guerra",
+          "Saber ler e escrever",
+          "Possuir terras",
+          "Ter filhos homens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "Foram contados deles, da tribo de {0}, cinquenta e três mil e quatrocentos.",
+        "blanks": [
+          "Naftali"
+        ],
+        "distractors": [
+          "Aser",
+          "Benjamim",
+          "Manassés"
+        ]
+      },
+      {
+        "id": "num-1-cur-46",
+        "type": "curiosity",
+        "after_verse": 46,
+        "title": "Um exército enorme",
+        "text": "O total contado foi de 603.550 homens aptos para a guerra — e isso sem contar os levitas, mulheres e crianças, o que dá uma ideia do tamanho do acampamento de Israel no deserto."
+      },
+      {
+        "id": "num-1-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Por que a tribo de Levi não foi contada com as demais?",
+        "options": [
+          "Foi encarregada do tabernáculo do testemunho",
+          "Tinha poucos homens",
+          "Estava em rebelião",
+          "Ainda não havia chegado ao Sinai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-1-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "Mas os levitas assentarão as suas tendas ao redor do {0} do testemunho",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "acampamento",
+          "deserto",
+          "exército"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "num-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Acampamento em ordem",
+        "text": "Cada tribo acampava sob a sua própria bandeira e insígnia, sempre voltada para a tenda da congregação no centro, mostrando que a adoração a Deus era o coração do acampamento de Israel."
+      },
+      {
+        "id": "num-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Os que assentarem as suas tendas do lado do oriente, para o nascente, serão os da bandeira do exército de {0}, segundo os seus esquadrões",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Rúben",
+          "Efraim",
+          "Dã"
+        ]
+      },
+      {
+        "id": "num-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Segundo o versículo 9, qual exército marcharia primeiro?",
+        "options": [
+          "O exército de Judá",
+          "O exército de Rúben",
+          "O exército de Efraim",
+          "O exército de Dã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-2-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "A bandeira do exército de Rúben, segundo os seus esquadrões, estará para o lado do {0}",
+        "blanks": [
+          "sul"
+        ],
+        "distractors": [
+          "norte",
+          "oriente",
+          "ocidente"
+        ]
+      },
+      {
+        "id": "num-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Então partirá a tenda da congregação com o exército dos {0} no meio dos exércitos",
+        "blanks": [
+          "levitas"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "príncipes",
+          "anciãos"
+        ]
+      },
+      {
+        "id": "num-2-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Para que lado estava a bandeira do exército de Efraim?",
+        "options": [
+          "Para o lado do ocidente",
+          "Para o lado do oriente",
+          "Para o lado do sul",
+          "Para o lado do norte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-2-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Para que lado estava a bandeira do exército de Dã?",
+        "options": [
+          "Para o norte",
+          "Para o sul",
+          "Para o oriente",
+          "Para o ocidente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-2-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Por que os levitas não foram contados entre os filhos de Israel neste recenseamento?",
+        "options": [
+          "Porque o Senhor assim ordenara a Moisés",
+          "Porque eram poucos demais",
+          "Porque estavam em guerra",
+          "Porque viviam fora do acampamento"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "num-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Os quatro filhos de Arão",
+        "text": "Arão teve quatro filhos sacerdotes: Nadabe, Abiú, Eleazar e Itamar. Como Nadabe e Abiú morreram sem filhos, a linhagem sacerdotal de Israel desceu apenas por Eleazar e Itamar."
+      },
+      {
+        "id": "num-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Mas Nadabe e Abiú morreram perante o Senhor, quando ofereceram fogo {0} perante o Senhor no deserto de Sinai",
+        "blanks": [
+          "estranho"
+        ],
+        "distractors": [
+          "consagrado",
+          "santo",
+          "puro"
+        ]
+      },
+      {
+        "id": "num-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Faze chegar a tribo de {0}, e põe-na diante de Aarão, o sacerdote, para que o sirvam",
+        "blanks": [
+          "Levi"
+        ],
+        "distractors": [
+          "Judá",
+          "Rúben",
+          "Gade"
+        ]
+      },
+      {
+        "id": "num-3-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Em Números 3, o que aconteceria ao estranho que se aproximasse para exercer o sacerdócio?",
+        "options": [
+          "Morreria",
+          "Seria expulso do acampamento",
+          "Pagaria cinco siclos",
+          "Serviria aos levitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-3-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Por que o Senhor reivindica para si todo primogênito de Israel neste capítulo?",
+        "options": [
+          "Porque os poupou ao matar os primogênitos do Egito",
+          "Porque eram os mais fortes",
+          "Porque haviam pecado no deserto",
+          "Porque eram filhos de Levi"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-3-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Estes, pois, foram os filhos de Levi pelos seus nomes: Gérson, e {0}, e Merari.",
+        "blanks": [
+          "Coate"
+        ],
+        "distractors": [
+          "Eleazar",
+          "Itamar",
+          "Uziel"
+        ]
+      },
+      {
+        "id": "num-3-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Em que lado do tabernáculo a família dos gersonitas devia armar suas tendas?",
+        "options": [
+          "Ao ocidente",
+          "Ao sul",
+          "Ao norte",
+          "Ao oriente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-3-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "E o seu encargo será a {0}, e a mesa, e o candelabro, e os altares",
+        "blanks": [
+          "arca"
+        ],
+        "distractors": [
+          "tenda",
+          "porta",
+          "coluna"
+        ]
+      },
+      {
+        "id": "num-3-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "assentarão as suas tendas ao lado do tabernáculo, do lado do {0}.",
+        "blanks": [
+          "norte"
+        ],
+        "distractors": [
+          "sul",
+          "ocidente",
+          "oriente"
+        ]
+      },
+      {
+        "id": "num-3-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "todos os homens de um mês e acima, foram vinte e dois mil.",
+        "blanks": [
+          "mês"
+        ],
+        "distractors": [
+          "ano",
+          "dia",
+          "verão"
+        ]
+      },
+      {
+        "id": "num-3-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "Tomarás cinco {0} por cabeça; conforme o siclo do santuário os tomarás",
+        "blanks": [
+          "siclos"
+        ],
+        "distractors": [
+          "geras",
+          "deveres",
+          "altares"
+        ]
+      },
+      {
+        "id": "num-3-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Quanto dinheiro Moisés recolheu pelo resgate dos primogênitos que excediam o número dos levitas?",
+        "options": [
+          "Mil e trezentos e sessenta e cinco siclos",
+          "Cinco siclos",
+          "Vinte geras",
+          "Vinte e dois mil siclos"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "num-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Os filhos de Coate",
+        "text": "Entre os levitas, os coatitas tinham o encargo mais sagrado: carregar a arca e os objetos santíssimos, mas só depois que Aarão e seus filhos os cobrissem."
+      },
+      {
+        "id": "num-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Quando partir o acampamento, Aarão e seus filhos virão, e tirarão o {0} da coberta",
+        "blanks": [
+          "véu"
+        ],
+        "distractors": [
+          "altar",
+          "pano",
+          "candelabro"
+        ]
+      },
+      {
+        "id": "num-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Também sobre a mesa da proposição estenderão um pano {0}",
+        "blanks": [
+          "azul"
+        ],
+        "distractors": [
+          "carmesim",
+          "púrpura",
+          "branco"
+        ]
+      },
+      {
+        "id": "num-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E tirarão as cinzas do altar, e por cima dele estenderão um pano {0}",
+        "blanks": [
+          "púrpura"
+        ],
+        "distractors": [
+          "azul",
+          "carmesim",
+          "branco"
+        ]
+      },
+      {
+        "id": "num-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Segundo os versículos 17 a 20, por que Aarão e seus filhos deviam designar a cada coatita o seu cargo?",
+        "options": [
+          "Para que vivam e não morram ao se aproximarem das coisas santíssimas",
+          "Para que recebessem mais ofertas",
+          "Para que fossem maiores que os outros levitas",
+          "Para que escolhessem onde acampar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-4-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Toma também a soma dos filhos de {0}, segundo a casa de seus pais",
+        "blanks": [
+          "Gérson"
+        ],
+        "distractors": [
+          "Coate",
+          "Merari",
+          "Aarão"
+        ]
+      },
+      {
+        "id": "num-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "e o seu encargo estará debaixo da mão de {0}, filho de Aarão, o sacerdote",
+        "blanks": [
+          "Itamar"
+        ],
+        "distractors": [
+          "Eleazar",
+          "Coate",
+          "Merari"
+        ]
+      },
+      {
+        "id": "num-4-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Que parte do tabernáculo cabia às famílias de Merari transportar (vv. 31-33)?",
+        "options": [
+          "As tábuas, varas, colunas e bases da estrutura",
+          "A arca do testemunho",
+          "O candelabro e suas lâmpadas",
+          "O azeite da unção e o incenso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-4-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "foram dois mil e {0} e cinquenta",
+        "blanks": [
+          "setecentos"
+        ],
+        "distractors": [
+          "seiscentos",
+          "duzentos",
+          "quinhentos"
+        ]
+      },
+      {
+        "id": "num-4-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "foram dois mil e seiscentos e {0}",
+        "blanks": [
+          "trinta"
+        ],
+        "distractors": [
+          "cinquenta",
+          "oitenta",
+          "vinte"
+        ]
+      },
+      {
+        "id": "num-4-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 48,
+        "template": "Os que deles foram contados foram oito mil {0} e oitenta",
+        "blanks": [
+          "quinhentos"
+        ],
+        "distractors": [
+          "seiscentos",
+          "setecentos",
+          "duzentos"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "num-5-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Pureza ao redor do tabernáculo",
+        "text": "A ordem de manter os impuros fora do acampamento não era só higiene: o versículo liga isso ao fato de o Senhor habitar 'no meio' de Israel, então a santidade do lugar exigia a separação."
+      },
+      {
+        "id": "num-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "que lancem para fora do acampamento todo {0}",
+        "blanks": [
+          "leproso"
+        ],
+        "distractors": [
+          "sacerdote",
+          "estrangeiro",
+          "primogênito"
+        ]
+      },
+      {
+        "id": "num-5-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Ao confessar o pecado cometido contra o próximo, quanto a pessoa deveria acrescentar à restituição?",
+        "options": [
+          "O dobro do valor",
+          "O seu quinto",
+          "A metade",
+          "Um dízimo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "num-5-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "uma décima de efa de farinha de {0}",
+        "blanks": [
+          "cevada"
+        ],
+        "distractors": [
+          "trigo",
+          "milho",
+          "centeio"
+        ]
+      },
+      {
+        "id": "num-5-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Água amarga",
+            "right": "Traz consigo a maldição"
+          },
+          {
+            "left": "Oferta de ciúmes",
+            "right": "Traz a iniquidade à memória"
+          },
+          {
+            "left": "Sacerdote",
+            "right": "Apresenta a mulher perante o Senhor"
+          }
+        ]
+      },
+      {
+        "id": "num-5-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "o sacerdote escreverá essas mesmas maldições num {0}",
+        "blanks": [
+          "livro"
+        ],
+        "distractors": [
+          "altar",
+          "vaso",
+          "manto"
+        ]
+      },
+      {
+        "id": "num-5-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Segundo o versículo 28, o que acontecia à mulher que não se tivesse contaminado?",
+        "options": [
+          "Era expulsa do acampamento",
+          "Seria livre e conceberia semente",
+          "Devia oferecer um carneiro",
+          "Levaria a sua iniquidade"
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "id": "num-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O voto de nazireu",
+        "text": "A palavra \"nazireu\" vem do hebraico nazir, \"separado\" ou \"consagrado\". Era um voto que qualquer israelita, homem ou mulher, podia fazer para se dedicar especialmente ao Senhor por um período."
+      },
+      {
+        "id": "num-6-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "De {0} e de bebida forte se apartará",
+        "blanks": [
+          "vinho"
+        ],
+        "distractors": [
+          "mel",
+          "azeite",
+          "leite"
+        ]
+      },
+      {
+        "id": "num-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, por que o nazireu não podia se contaminar nem mesmo pela morte de seu pai, mãe, irmão ou irmã?",
+        "options": [
+          "Porque o nazireado do seu Deus estava sobre a sua cabeça",
+          "Porque deveria partir imediatamente em viagem",
+          "Porque já havia rapado o cabelo",
+          "Porque não tinha família viva"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "um carneiro sem defeito como oferta {0}",
+        "blanks": [
+          "pacífica"
+        ],
+        "distractors": [
+          "queimada",
+          "alçada",
+          "sagrada"
+        ]
+      },
+      {
+        "id": "num-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "depois o nazireu poderá beber {0}",
+        "blanks": [
+          "vinho"
+        ],
+        "distractors": [
+          "azeite",
+          "vinagre",
+          "água"
+        ]
+      },
+      {
+        "id": "num-6-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "O Senhor te abençoe e te {0}",
+        "blanks": [
+          "guarde"
+        ],
+        "distractors": [
+          "ensine",
+          "console",
+          "perdoe"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "num-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O tabernáculo recém-ungido",
+        "text": "Tudo começa no dia em que Moisés terminou de levantar o tabernáculo e o ungiu e santificou com todos os seus utensílios e o altar — só então as ofertas dos príncipes puderam começar."
+      },
+      {
+        "id": "num-7-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E levaram a sua oferta perante o Senhor, seis carros cobertos, e {0} bois",
+        "blanks": [
+          "doze"
+        ],
+        "distractors": [
+          "seis",
+          "quatro",
+          "oito"
+        ]
+      },
+      {
+        "id": "num-7-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "E quatro carros e oito bois deu aos filhos de {0}, segundo o seu serviço",
+        "blanks": [
+          "Merari"
+        ],
+        "distractors": [
+          "Gérson",
+          "Coate",
+          "Aarão"
+        ]
+      },
+      {
+        "id": "num-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que os filhos de Coate não receberam carros nem bois?",
+        "options": [
+          "Porque carregavam o serviço do santuário aos ombros",
+          "Porque eram poucos",
+          "Porque já tinham bois próprios",
+          "Porque não eram levitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E aquele que no primeiro dia ofereceu a sua oferta foi Naassom, filho de Aminadabe, pela tribo de {0}",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Rúben",
+          "Issacar",
+          "Zebulom"
+        ]
+      },
+      {
+        "id": "num-7-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Pesos em siclos",
+        "text": "Cada prato de prata pesava cento e trinta siclos e cada bacia setenta — medidas repetidas igualmente por todos os doze príncipes, mostrando perfeita uniformidade nas ofertas."
+      },
+      {
+        "id": "num-7-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "No segundo dia, fez a sua oferta Natanael, filho de Zuar, príncipe de {0}",
+        "blanks": [
+          "Issacar"
+        ],
+        "distractors": [
+          "Judá",
+          "Zebulom",
+          "Gade"
+        ]
+      },
+      {
+        "id": "num-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "No terceiro dia, o príncipe dos filhos de Zebulom, {0}, filho de Helom, ofertou",
+        "blanks": [
+          "Eliabe"
+        ],
+        "distractors": [
+          "Naassom",
+          "Natanael",
+          "Elizur"
+        ]
+      },
+      {
+        "id": "num-7-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "No quarto dia, o príncipe dos filhos de Rúben, Elizur, filho de {0}, ofertou",
+        "blanks": [
+          "Sedeur"
+        ],
+        "distractors": [
+          "Zuar",
+          "Helom",
+          "Aminadabe"
+        ]
+      },
+      {
+        "id": "num-7-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "No quinto dia, o príncipe dos filhos de {0}, Selumiel, filho de Zurisadai, ofertou",
+        "blanks": [
+          "Simeão"
+        ],
+        "distractors": [
+          "Rúben",
+          "Gade",
+          "Efraim"
+        ]
+      },
+      {
+        "id": "num-7-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "No sexto dia, o príncipe dos filhos de Gade, Eliasafe, filho de {0}, ofertou",
+        "blanks": [
+          "Deuel"
+        ],
+        "distractors": [
+          "Sedeur",
+          "Zurisadai",
+          "Amiúde"
+        ]
+      },
+      {
+        "id": "num-7-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "No sétimo dia, o príncipe dos filhos de {0}, Elisama, filho de Amiúde, ofertou",
+        "blanks": [
+          "Efraim"
+        ],
+        "distractors": [
+          "Simeão",
+          "Manassés",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "num-7-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "No oitavo dia, o príncipe dos filhos de {0}, Gamaliel, filho de Pedazur, ofertou",
+        "blanks": [
+          "Manassés"
+        ],
+        "distractors": [
+          "Efraim",
+          "Benjamim",
+          "Dã"
+        ]
+      },
+      {
+        "id": "num-7-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "No dia nono, o príncipe dos filhos de Benjamim, Abidã, filho de {0}, ofertou",
+        "blanks": [
+          "Gideoni"
+        ],
+        "distractors": [
+          "Pedazur",
+          "Amisadai",
+          "Enã"
+        ]
+      },
+      {
+        "id": "num-7-fb-66",
+        "type": "fill_blank",
+        "after_verse": 66,
+        "verse": 66,
+        "template": "No décimo dia, o príncipe dos filhos de {0}, Aieser, filho de Amisadai, ofertou",
+        "blanks": [
+          "Dã"
+        ],
+        "distractors": [
+          "Aser",
+          "Naftali",
+          "Gade"
+        ]
+      },
+      {
+        "id": "num-7-fb-72",
+        "type": "fill_blank",
+        "after_verse": 72,
+        "verse": 72,
+        "template": "No dia undécimo, o príncipe dos filhos de {0}, Pagiel, filho de Ocrã, ofertou",
+        "blanks": [
+          "Aser"
+        ],
+        "distractors": [
+          "Dã",
+          "Naftali",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "num-7-fb-78",
+        "type": "fill_blank",
+        "after_verse": 78,
+        "verse": 78,
+        "template": "No duodécimo dia, o príncipe dos filhos de {0}, Aira, filho de Enã, ofertou",
+        "blanks": [
+          "Naftali"
+        ],
+        "distractors": [
+          "Aser",
+          "Dã",
+          "Gade"
+        ]
+      },
+      {
+        "id": "num-7-fb-85",
+        "type": "fill_blank",
+        "after_verse": 85,
+        "verse": 85,
+        "template": "toda a prata dos utensílios foi dois mil e quatrocentos {0}, segundo o siclo do santuário",
+        "blanks": [
+          "siclos"
+        ],
+        "distractors": [
+          "bois",
+          "carneiros",
+          "cordeiros"
+        ]
+      },
+      {
+        "id": "num-7-cur-89",
+        "type": "curiosity",
+        "after_verse": 89,
+        "title": "A voz de cima do propiciatório",
+        "text": "O capítulo fecha com Moisés entrando na tenda da congregação e ouvindo a voz do Senhor falar de cima do propiciatório, entre os dois querubins sobre a arca do testemunho."
+      }
+    ],
+    "8": [
+      {
+        "id": "num-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "defronte do candelabro alumiarão as {0} lâmpadas",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "doze",
+          "dez"
+        ]
+      },
+      {
+        "id": "num-8-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "O candelabro de ouro batido",
+        "text": "O candelabro do tabernáculo foi feito de uma única peça de ouro batido a martelo, do pé às flores, segundo o modelo que Jeová mostrou a Moisés no monte."
+      },
+      {
+        "id": "num-8-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 6, o que Jeová mandou Moisés fazer com os levitas?",
+        "options": [
+          "Tomá-los e purificá-los",
+          "Contá-los para a guerra",
+          "Reparti-los entre as tribos",
+          "Levá-los para o Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-8-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Sobre o que os levitas deviam pôr as mãos antes do sacrifício (v. 12)?",
+        "options": [
+          "Sobre a cabeça dos novilhos",
+          "Sobre a arca do testemunho",
+          "Sobre o candelabro",
+          "Sobre as vestes do sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-8-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Ao separar os levitas do meio dos filhos de Israel, de quem o Senhor diz que eles passam a ser (v. 14)?",
+        "options": [
+          "Dele mesmo (do Senhor)",
+          "Do povo de Israel",
+          "Dos primogênitos",
+          "Dos sacerdotes egípcios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-8-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Em que terra Jeová matou todo primogênito quando santificou os de Israel (v. 17)?",
+        "options": [
+          "Egito",
+          "Canaã",
+          "Assíria",
+          "Midiã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-8-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Idade de serviço dos levitas",
+        "text": "Em Números 8 os levitas começavam o serviço aos vinte e cinco anos; em Números 4 a idade mencionada para certas tarefas era trinta anos."
+      },
+      {
+        "id": "num-8-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "da idade de {0} anos e acima entrarão para fazerem o serviço",
+        "blanks": [
+          "vinte e cinco"
+        ],
+        "distractors": [
+          "trinta",
+          "cinquenta",
+          "vinte"
+        ]
+      },
+      {
+        "id": "num-8-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "a partir da idade de {0} anos sairão do serviço desse ministério",
+        "blanks": [
+          "cinquenta"
+        ],
+        "distractors": [
+          "trinta",
+          "sessenta",
+          "quarenta"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "num-9-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E falou o Senhor a Moisés no deserto de {0}, no ano segundo da sua saída da terra do Egito",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Parã",
+          "Moabe",
+          "Egito"
+        ]
+      },
+      {
+        "id": "num-9-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que alguns homens não puderam celebrar a Páscoa no dia determinado?",
+        "options": [
+          "Estavam imundos por causa do corpo de um homem morto",
+          "Não tinham pães ázimos para a refeição",
+          "Estavam doentes e acamados",
+          "Não pertenciam ao povo de Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-9-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "com pães ázimos e ervas {0} a comerão",
+        "blanks": [
+          "amargas"
+        ],
+        "distractors": [
+          "doces",
+          "frescas",
+          "secas"
+        ]
+      },
+      {
+        "id": "num-9-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Nuvem de dia, fogo de noite",
+        "text": "A mesma nuvem que cobria o tabernáculo de dia tornava-se uma aparência de fogo à noite, tornando o sinal de Deus visível ao acampamento durante as 24 horas do dia."
+      },
+      {
+        "id": "num-9-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Segundo os versículos finais, o que determinava quando Israel partia ou acampava?",
+        "options": [
+          "O movimento da nuvem sobre o tabernáculo",
+          "A decisão dos anciãos do povo",
+          "A posição das estrelas no céu",
+          "O calendário das festas anuais"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "num-10-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Faz para ti duas trombetas de {0}",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "ouro",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "num-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Como o toque para apenas ajuntar a congregacao se distinguia do toque de partida?",
+        "options": [
+          "Tocavam as trombetas, mas sem retinir",
+          "Tocavam duas vezes mais alto",
+          "Usavam um chifre de carneiro no lugar das trombetas",
+          "So Moisés podia toca-las"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-10-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Trombetas com dois usos",
+        "text": "As trombetas de prata serviam tanto para convocar e organizar a congregacao quanto como toque de alarme na guerra; ao soa-las em batalha, o povo seria lembrado pelo Senhor e salvo de seus inimigos."
+      },
+      {
+        "id": "num-10-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Além da convocacao e da guerra, quando mais Israel devia tocar as trombetas?",
+        "options": [
+          "Nos dias de alegria, nas solenidades e nos principios dos meses",
+          "Somente ao por do sol de cada dia",
+          "Apenas durante o jejum anual",
+          "Quando algum principe morresse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-10-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "e a nuvem parou no deserto de {0}",
+        "blanks": [
+          "Parã"
+        ],
+        "distractors": [
+          "Sinai",
+          "Sur",
+          "Zim"
+        ]
+      },
+      {
+        "id": "num-10-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Quem desarmava e transportava o tabernaculo quando o acampamento partia?",
+        "options": [
+          "Os filhos de Gérson e os filhos de Merari",
+          "Os principes das doze tribos",
+          "Os filhos de Judá",
+          "O proprio Moisés sozinho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-10-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Os versiculos 14 a 27 listam, principalmente, o que?",
+        "options": [
+          "A ordem de marcha das tribos e os chefes de cada exercito",
+          "As ofertas trazidas ao tabernaculo",
+          "As pragas enviadas sobre o Egito",
+          "Os limites da terra prometida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-10-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Disse então Moisés a Hobabe, filho de Reuel, o {0}, sogro de Moisés",
+        "blanks": [
+          "midianita"
+        ],
+        "distractors": [
+          "egipcio",
+          "amalequita",
+          "moabita"
+        ]
+      },
+      {
+        "id": "num-10-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "e a arca da aliança do Senhor seguiu adiante deles caminho de três dias, para lhes buscar lugar de {0}",
+        "blanks": [
+          "descanso"
+        ],
+        "distractors": [
+          "batalha",
+          "sepultura",
+          "sacrificio"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "num-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Taberá, o lugar do incêndio",
+        "text": "O nome Taberá significa 'incêndio' ou 'queima': foi assim que o lugar passou a se chamar porque o fogo do Senhor ardeu ali entre o povo que se queixava."
+      },
+      {
+        "id": "num-11-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que os filhos de Israel pediram chorando neste trecho?",
+        "options": [
+          "Carne para comer",
+          "Água para beber",
+          "Voltar ao Egito",
+          "Um novo líder"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-11-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Lembramo-nos dos peixes que no {0} comíamos de graça",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Sinai",
+          "Hazerote",
+          "Taberá"
+        ]
+      },
+      {
+        "id": "num-11-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "coisa nenhuma há senão este {0} diante dos nossos olhos",
+        "blanks": [
+          "maná"
+        ],
+        "distractors": [
+          "peixe",
+          "azeite",
+          "orvalho"
+        ]
+      },
+      {
+        "id": "num-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Ajunta-me {0} homens dos anciãos de Israel",
+        "blanks": [
+          "setenta"
+        ],
+        "distractors": [
+          "doze",
+          "cinquenta",
+          "seiscentos"
+        ]
+      },
+      {
+        "id": "num-11-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Mas um {0} inteiro, até vos sair pelo nariz",
+        "blanks": [
+          "mês"
+        ],
+        "distractors": [
+          "dia",
+          "ano",
+          "verão"
+        ]
+      },
+      {
+        "id": "num-11-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Eldade",
+            "right": "Um dos dois que profetizaram no acampamento"
+          },
+          {
+            "left": "Medade",
+            "right": "O outro homem sobre quem repousou o espírito"
+          },
+          {
+            "left": "Setenta anciãos",
+            "right": "Receberam o espírito junto à tenda e profetizaram"
+          }
+        ]
+      },
+      {
+        "id": "num-11-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "E {0}, filho de Num, servo de Moisés",
+        "blanks": [
+          "Josué"
+        ],
+        "distractors": [
+          "Eldade",
+          "Medade",
+          "Arão"
+        ]
+      },
+      {
+        "id": "num-11-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "e trouxe {0} do mar, e as espalhou pelo acampamento",
+        "blanks": [
+          "codornizes"
+        ],
+        "distractors": [
+          "peixes",
+          "ovelhas",
+          "vacas"
+        ]
+      },
+      {
+        "id": "num-11-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "o nome daquele lugar se chamou {0}, porquanto ali enterraram o povo que teve o desejo",
+        "blanks": [
+          "Quibrote-Ataavá"
+        ],
+        "distractors": [
+          "Taberá",
+          "Hazerote",
+          "Sinai"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "num-12-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O homem mais manso",
+        "text": "O versículo 3 descreve Moisés como o homem mais manso que havia sobre a terra; a tradição judaica atribui o próprio livro de Números a Moisés, o que torna essa autodescrição notável."
+      },
+      {
+        "id": "num-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E falaram Miriã e Aarão contra Moisés, por causa da mulher {0}",
+        "blanks": [
+          "cusita"
+        ],
+        "distractors": [
+          "egípcia",
+          "moabita",
+          "midianita"
+        ]
+      },
+      {
+        "id": "num-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, como o Senhor diz que se dará a conhecer a um profeta comum?",
+        "options": [
+          "Em visão ou em sonho",
+          "Por escrito numa pedra",
+          "Apenas por um anjo",
+          "Através do sumo sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-12-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "eis que Miriã ficou leprosa, branca como a {0}",
+        "blanks": [
+          "neve"
+        ],
+        "distractors": [
+          "lã",
+          "espuma",
+          "prata"
+        ]
+      },
+      {
+        "id": "num-12-mp-13",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Miriã",
+            "right": "Ferida com lepra por murmurar"
+          },
+          {
+            "left": "Moisés",
+            "right": "Intercede para que ela seja curada"
+          },
+          {
+            "left": "Hazerote",
+            "right": "Lugar de onde o povo partiu"
+          },
+          {
+            "left": "Parã",
+            "right": "Deserto onde acamparam depois"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "num-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Um homem por tribo",
+        "text": "Foram escolhidos doze espias, um lider de cada tribo de Israel. Entre eles estava Oseias, filho de Num, a quem Moisés daria o novo nome de Josué, futuro sucessor que conduziria o povo a terra."
+      },
+      {
+        "id": "num-13-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Envia homens que espiem a terra de {0}, que eu hei de dar aos filhos de Israel",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Hamate",
+          "Reobe",
+          "Hebrom"
+        ]
+      },
+      {
+        "id": "num-13-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "De qual tribo era Calebe, filho de Jefoné, o espia que depois encorajou Israel?",
+        "options": [
+          "Judá",
+          "Rúben",
+          "Simeão",
+          "Efraim"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-13-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Quem comissionou o envio destes doze homens para espiar a terra?",
+        "options": [
+          "O Senhor",
+          "Aarão",
+          "Calebe",
+          "Josué"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-13-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "e a Oseias, filho de Num, Moisés deu o nome de {0}.",
+        "blanks": [
+          "Josué"
+        ],
+        "distractors": [
+          "Aarão",
+          "Calebe",
+          "Enaque"
+        ]
+      },
+      {
+        "id": "num-13-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E eram aqueles dias os dias das primícias das {0}.",
+        "blanks": [
+          "uvas"
+        ],
+        "distractors": [
+          "romãs",
+          "figos",
+          "árvores"
+        ]
+      },
+      {
+        "id": "num-13-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "cortaram um ramo de vide com um cacho de {0}",
+        "blanks": [
+          "uvas"
+        ],
+        "distractors": [
+          "romãs",
+          "figos",
+          "espinhos"
+        ]
+      },
+      {
+        "id": "num-13-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "e verdadeiramente mana {0} e mel, e este é o seu fruto.",
+        "blanks": [
+          "leite"
+        ],
+        "distractors": [
+          "água",
+          "vinho",
+          "azeite"
+        ]
+      },
+      {
+        "id": "num-13-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Segundo os dez espias, a que eles se compararam diante dos habitantes da terra?",
+        "options": [
+          "A gafanhotos",
+          "A leões",
+          "A pastores",
+          "A príncipes"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "num-14-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E por que o Senhor nos traz a esta terra, para cairmos à {0}, e para que nossas mulheres e nossas crianças sejam uma presa?",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "fome",
+          "peste",
+          "praga"
+        ]
+      },
+      {
+        "id": "num-14-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Dois contra dez",
+        "text": "Dos doze espias enviados, apenas Josué e Calebe confiaram que Israel poderia tomar a terra; por isso serão os únicos da geração adulta a entrar em Canaã."
+      },
+      {
+        "id": "num-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Se o Senhor se agradar de nós, então nos porá nessa terra, e no-la dará; terra que mana leite e {0}.",
+        "blanks": [
+          "mel"
+        ],
+        "distractors": [
+          "vinho",
+          "trigo",
+          "azeite"
+        ]
+      },
+      {
+        "id": "num-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Ao interceder, qual consequência Moisés teme se o Senhor destruir o povo de uma só vez?",
+        "options": [
+          "Que os egípcios e as nações zombem do poder do Senhor",
+          "Que Aarão perca o sacerdócio",
+          "Que os espias sejam esquecidos",
+          "Que o maná cesse de cair"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "O Senhor é {0}, e grande em misericórdia, que perdoa a iniquidade e a transgressão",
+        "blanks": [
+          "longânimo"
+        ],
+        "distractors": [
+          "temível",
+          "justo",
+          "fiel"
+        ]
+      },
+      {
+        "id": "num-14-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Quantas vezes o Senhor diz que o povo já o tentou sem obedecer à sua voz?",
+        "options": [
+          "Dez vezes",
+          "Sete vezes",
+          "Três vezes",
+          "Quarenta vezes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Quem, entre os adultos, o Senhor diz que entrará na terra prometida?",
+        "options": [
+          "Calebe, filho de Jefoné, e Josué, filho de Num",
+          "Moisés e Aarão",
+          "Os amalequitas e os cananeus",
+          "Todos os homens de vinte anos para cima"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-14-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Segundo o número dos dias em que espiastes a terra, quarenta dias, para cada dia um {0}, levareis sobre vós as vossas iniquidades quarenta anos",
+        "blanks": [
+          "ano"
+        ],
+        "distractors": [
+          "mês",
+          "dia",
+          "século"
+        ]
+      },
+      {
+        "id": "num-14-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "O que aconteceu com os espias que difamaram a terra?",
+        "options": [
+          "Morreram da praga perante o Senhor",
+          "Foram apedrejados pelo povo",
+          "Fugiram para o Egito",
+          "Entraram na terra prometida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-14-fb-45",
+        "type": "fill_blank",
+        "after_verse": 45,
+        "verse": 45,
+        "template": "Então desceram os amalequitas e os cananeus, que habitavam na montanha, e os atacaram, derrotando-os até {0}.",
+        "blanks": [
+          "Hormá"
+        ],
+        "distractors": [
+          "Cades",
+          "Canaã",
+          "Hebrom"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "num-15-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Cheiro suave",
+        "text": "A expressão 'cheiro suave' (ou 'cheiro grato') aparece várias vezes neste capítulo: era a imagem hebraica de uma oferta aceita por Deus, e não a ideia de que Deus precisasse do aroma do sacrifício."
+      },
+      {
+        "id": "num-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "como oferta de manjares oferecerá uma décima de flor de farinha misturada com a quarta parte de um him de {0}",
+        "blanks": [
+          "azeite"
+        ],
+        "distractors": [
+          "vinho",
+          "farinha",
+          "sangue"
+        ]
+      },
+      {
+        "id": "num-15-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quanto de flor de farinha acompanhava o novilho na oferta de manjares?",
+        "options": [
+          "Três décimas",
+          "Uma décima",
+          "Duas décimas",
+          "Meia décima"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-15-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Uma mesma lei e um mesmo direito haverá para vós e para o {0} que peregrina convosco.",
+        "blanks": [
+          "estrangeiro"
+        ],
+        "distractors": [
+          "sacerdote",
+          "levita",
+          "profeta"
+        ]
+      },
+      {
+        "id": "num-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Das primícias da vossa massa oferecereis um {0} como oferta alçada",
+        "blanks": [
+          "bolo"
+        ],
+        "distractors": [
+          "novilho",
+          "cordeiro",
+          "feixe"
+        ]
+      },
+      {
+        "id": "num-15-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Quando toda a congregação pecava por inadvertência, que animal era oferecido como holocausto?",
+        "options": [
+          "Um novilho",
+          "Um cordeiro",
+          "Uma cabra",
+          "Um carneiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-15-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Pecado por inadvertência",
+            "right": "Expiado pelo sacerdote e perdoado"
+          },
+          {
+            "left": "Pecado com altivez",
+            "right": "A alma é extirpada do seu povo"
+          },
+          {
+            "left": "Cabra de um ano",
+            "right": "Oferta da alma que pecou sem querer"
+          }
+        ]
+      },
+      {
+        "id": "num-15-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "acharam um homem apanhando {0} no dia do sábado",
+        "blanks": [
+          "lenha"
+        ],
+        "distractors": [
+          "maná",
+          "água",
+          "ovelhas"
+        ]
+      },
+      {
+        "id": "num-15-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "e nas franjas das bordas porão um cordão de {0}",
+        "blanks": [
+          "azul"
+        ],
+        "distractors": [
+          "ouro",
+          "branco",
+          "vermelho"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "num-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Um levita contra os levitas",
+        "text": "Coré era levita, descendente de Coate como o próprio Moisés; sua rebelião não vinha de fora, mas de dentro da tribo encarregada do tabernáculo."
+      },
+      {
+        "id": "num-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Qual era o principal argumento de Coré e seus seguidores contra Moisés e Aarão?",
+        "options": [
+          "Que toda a congregação era santa, e por isso Moisés e Aarão se elevavam demais sobre ela",
+          "Que deviam voltar imediatamente ao Egito",
+          "Que Moisés havia escondido o maná do povo",
+          "Que Aarão não pertencia à tribo de Levi"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "e acontecerá que o homem que o Senhor escolher, esse será o {0}",
+        "blanks": [
+          "santo"
+        ],
+        "distractors": [
+          "sacerdote",
+          "príncipe",
+          "ancião"
+        ]
+      },
+      {
+        "id": "num-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "que nos fizeste subir de uma terra que mana leite e {0}",
+        "blanks": [
+          "mel"
+        ],
+        "distractors": [
+          "vinho",
+          "azeite",
+          "trigo"
+        ]
+      },
+      {
+        "id": "num-16-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Ao defender-se diante do Senhor, Moisés afirmou que dos rebeldes não tomara nem sequer o quê?",
+        "options": [
+          "Um só jumento",
+          "Um pedaço de pão",
+          "Uma só ovelha",
+          "Uma moeda de prata"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-16-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "cada qual o seu incensário, e neles puseram fogo, e neles deitaram {0}",
+        "blanks": [
+          "incenso"
+        ],
+        "distractors": [
+          "azeite",
+          "sangue",
+          "água"
+        ]
+      },
+      {
+        "id": "num-16-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Ó Deus, Deus dos {0} de toda a carne",
+        "blanks": [
+          "espíritos"
+        ],
+        "distractors": [
+          "povos",
+          "exércitos",
+          "reis"
+        ]
+      },
+      {
+        "id": "num-16-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "O que Moisés ordenou à congregação que fizesse em relação às tendas de Coré, Datã e Abirão?",
+        "options": [
+          "Desviar-se delas e não tocar em nada do que era deles",
+          "Incendiá-las imediatamente",
+          "Levar todos os bens para o tabernáculo",
+          "Cercá-las com pedras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-16-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Mas se o Senhor criar alguma coisa nova, e a {0} abrir a sua boca",
+        "blanks": [
+          "terra"
+        ],
+        "distractors": [
+          "nuvem",
+          "tenda",
+          "montanha"
+        ]
+      },
+      {
+        "id": "num-16-cur-32",
+        "type": "curiosity",
+        "after_verse": 32,
+        "title": "Tragados vivos",
+        "text": "O relato diz que a terra abriu a boca e tragou os rebeldes e suas casas, fazendo-os descer vivos ao sepulcro: um juízo extraordinário que selou a disputa pelo sacerdócio."
+      },
+      {
+        "id": "num-16-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Então saiu {0} do Senhor, e consumiu os duzentos e cinquenta homens que ofereciam o incenso.",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "vento",
+          "fumaça",
+          "trovão"
+        ]
+      },
+      {
+        "id": "num-16-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Que destino foi dado aos incensários dos homens que pereceram?",
+        "options": [
+          "Foram batidos em lâminas para cobrir o altar, como sinal aos filhos de Israel",
+          "Foram fundidos e lançados ao deserto",
+          "Foram devolvidos às famílias dos mortos",
+          "Foram enterrados junto com os rebeldes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-16-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "e faze expiação por eles; porque grande indignação saiu de diante do Senhor; já começou a {0}.",
+        "blanks": [
+          "praga"
+        ],
+        "distractors": [
+          "chuva",
+          "guerra",
+          "fome"
+        ]
+      },
+      {
+        "id": "num-16-fb-48",
+        "type": "fill_blank",
+        "after_verse": 48,
+        "verse": 48,
+        "template": "E estava em pé entre os mortos e os {0}; e cessou a praga.",
+        "blanks": [
+          "vivos"
+        ],
+        "distractors": [
+          "enfermos",
+          "feridos",
+          "presos"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "num-17-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o Senhor, o que aconteceria com a vara do homem escolhido?",
+        "options": [
+          "Florescer",
+          "Quebrar-se",
+          "Secar",
+          "Endurecer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-17-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "havia florescido, porque produzira flores, e brotara renovos e dera {0}",
+        "blanks": [
+          "amêndoas"
+        ],
+        "distractors": [
+          "uvas",
+          "figos",
+          "azeitonas"
+        ]
+      },
+      {
+        "id": "num-17-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "A vara que floresceu",
+        "text": "A vara de Aarão era de amendoeira; em hebraico, a palavra para amêndoa lembra a ideia de \"vigiar/despertar\", a primeira árvore a florescer na primavera — um sinal de que Deus despertava para confirmar o sacerdócio escolhido."
+      },
+      {
+        "id": "num-17-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Por que o Senhor mandou guardar a vara de Aarão perante o testemunho?",
+        "options": [
+          "Por sinal contra os filhos rebeldes",
+          "Para plantar novas amendoeiras",
+          "Como oferta de gratidão",
+          "Para repartir entre as tribos"
+        ],
+        "answer": 0
+      }
+    ],
+    "18": [
+      {
+        "id": "num-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Carregar a iniquidade do santuário",
+        "text": "Aarão e seus filhos recebem a grave responsabilidade de \"levar a iniquidade do santuário\": qualquer falha no culto recairia sobre os sacerdotes, e não sobre o povo comum."
+      },
+      {
+        "id": "num-18-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, o que aconteceria se os levitas se chegassem aos utensílios do santuário ou ao altar?",
+        "options": [
+          "Morreriam, tanto eles como os sacerdotes",
+          "Seriam expulsos do acampamento",
+          "Perderiam a sua porção dos dízimos",
+          "Teriam de oferecer um sacrifício pela culpa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "E eu, eis que tomei vossos irmãos, os {0}, do meio dos filhos de Israel",
+        "blanks": [
+          "levitas"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "israelitas",
+          "estranhos"
+        ]
+      },
+      {
+        "id": "num-18-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "No lugar {0} o comerás; todo homem o comerá; santo será para ti.",
+        "blanks": [
+          "santíssimo"
+        ],
+        "distractors": [
+          "alçado",
+          "perpétuo",
+          "imundo"
+        ]
+      },
+      {
+        "id": "num-18-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "da idade de um mês, segundo a tua avaliação, por cinco {0} de dinheiro",
+        "blanks": [
+          "siclos"
+        ],
+        "distractors": [
+          "geras",
+          "talentos",
+          "dracmas"
+        ]
+      },
+      {
+        "id": "num-18-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Convênio de sal",
+            "right": "Aliança eterna e imutável entre Deus e os sacerdotes"
+          },
+          {
+            "left": "Primícias",
+            "right": "O melhor do azeite, do mosto e do grão dado ao Senhor"
+          },
+          {
+            "left": "Resgate",
+            "right": "Pagamento que substitui o primogênito ou o animal imundo"
+          }
+        ]
+      },
+      {
+        "id": "num-18-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "eu sou a tua parte e a tua {0} no meio dos filhos de Israel.",
+        "blanks": [
+          "herança"
+        ],
+        "distractors": [
+          "iniquidade",
+          "primícia",
+          "congregação"
+        ]
+      },
+      {
+        "id": "num-18-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Que oferta os levitas deviam apresentar ao Senhor a partir dos dízimos que recebiam (v. 26)?",
+        "options": [
+          "O dízimo dos dízimos",
+          "Metade de tudo o que recebiam",
+          "A primeira ovelha de cada rebanho",
+          "Cinco siclos por pessoa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-18-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "porque vosso {0} é, pelo vosso serviço na tenda da congregação.",
+        "blanks": [
+          "galardão"
+        ],
+        "distractors": [
+          "pecado",
+          "altar",
+          "véu"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "num-19-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "que te tragam uma {0} vermelha perfeita",
+        "blanks": [
+          "novilha"
+        ],
+        "distractors": [
+          "ovelha",
+          "cabra",
+          "pomba"
+        ]
+      },
+      {
+        "id": "num-19-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "A novilha vermelha",
+        "text": "A novilha tinha de ser perfeita, sem defeito e nunca ter levado jugo. Era um dos pouquíssimos sacrifícios feitos por uma fêmea e o único morto e queimado inteiramente fora do acampamento."
+      },
+      {
+        "id": "num-19-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Que três coisas o sacerdote lançava no fogo que queimava a novilha?",
+        "options": [
+          "Madeira de cedro, hissopo e carmesim",
+          "Ouro, incenso e mirra",
+          "Sal, azeite e farinha",
+          "Trigo, vinho e mel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-19-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "cadáver de algum homem, imundo será {0} dias",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "oito",
+          "quarenta"
+        ]
+      },
+      {
+        "id": "num-19-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o versículo 13, o que acontecia a quem tocava num morto e não se purificava?",
+        "options": [
+          "Contaminava o tabernáculo e era extirpado de Israel",
+          "Pagava uma multa em prata ao sacerdote",
+          "Era expulso por um ano e depois readmitido",
+          "Tinha de oferecer um novilho como holocausto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-19-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Água da separação",
+            "right": "Mistura das cinzas da novilha com água viva"
+          },
+          {
+            "left": "Hissopo",
+            "right": "Planta usada para espargir a água"
+          },
+          {
+            "left": "Terceiro e sétimo dia",
+            "right": "Dias em que o imundo era purificado"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "num-20-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A morte de Miriã",
+        "text": "Miriã, irmã de Moisés e Aarão, morre logo no primeiro versículo do capítulo. Ela foi a profetisa que liderou as mulheres no canto após a travessia do mar (Êxodo 15)."
+      },
+      {
+        "id": "num-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "o povo ficou em Cades; e {0} morreu ali, e ali foi sepultada",
+        "blanks": [
+          "Miriã"
+        ],
+        "distractors": [
+          "Sara",
+          "Raquel",
+          "Débora"
+        ]
+      },
+      {
+        "id": "num-20-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Em vez de apenas falar à rocha como o Senhor ordenara, o que Moisés fez para tirar água dela?",
+        "options": [
+          "Feriu a rocha duas vezes com a sua vara",
+          "Cavou um poço com as mãos",
+          "Orou sobre a rocha por três dias",
+          "Levantou a vara sobre o mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-20-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Essas são as águas de {0}, porque os filhos de Israel contenderam com o Senhor",
+        "blanks": [
+          "Meribá"
+        ],
+        "distractors": [
+          "Cades",
+          "Edom",
+          "Egito"
+        ]
+      },
+      {
+        "id": "num-20-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Quando Israel pediu para passar por sua terra, qual foi a resposta de Edom?",
+        "options": [
+          "Recusou e ameaçou sair com a espada ao encontro",
+          "Concordou e ofereceu água de graça",
+          "Pediu ouro como pagamento",
+          "Convidou Israel a morar com eles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-20-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "os filhos de Israel, toda a congregação, chegaram ao monte {0}",
+        "blanks": [
+          "Hor"
+        ],
+        "distractors": [
+          "Sinai",
+          "Nebo",
+          "Horebe"
+        ]
+      },
+      {
+        "id": "num-20-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "E despe Aarão das suas vestes, e veste-as em {0}, seu filho",
+        "blanks": [
+          "Eleazar"
+        ],
+        "distractors": [
+          "Itamar",
+          "Nadabe",
+          "Abiú"
+        ]
+      },
+      {
+        "id": "num-20-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Por quantos dias toda a casa de Israel chorou a morte de Aarão?",
+        "options": [
+          "Trinta dias",
+          "Sete dias",
+          "Quarenta dias",
+          "Três dias"
+        ],
+        "answer": 0
+      }
+    ],
+    "21": [
+      {
+        "id": "num-21-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "e o nome daquele lugar chamou-se {0}",
+        "blanks": [
+          "Hormá"
+        ],
+        "distractors": [
+          "Obote",
+          "Mataná",
+          "Hesbom"
+        ]
+      },
+      {
+        "id": "num-21-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "A serpente que cura",
+        "text": "A serpente de bronze sobre a haste tornou-se um símbolo marcante: séculos depois, Jesus comparou a si mesmo a essa serpente erguida, dizendo que assim como Moisés a levantou no deserto, o Filho do Homem seria levantado."
+      },
+      {
+        "id": "num-21-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "O que o Senhor disse que aconteceria a quem fosse mordido e olhasse para a serpente ardente sobre a haste?",
+        "options": [
+          "Viveria",
+          "Adormeceria",
+          "Seria julgado",
+          "Voltaria ao Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-21-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "E Moisés fez uma serpente de {0}, e pô-la sobre uma haste",
+        "blanks": [
+          "bronze"
+        ],
+        "distractors": [
+          "barro",
+          "madeira",
+          "prata"
+        ]
+      },
+      {
+        "id": "num-21-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "esse é o {0} do qual o Senhor disse a Moisés",
+        "blanks": [
+          "poço"
+        ],
+        "distractors": [
+          "monte",
+          "vale",
+          "deserto"
+        ]
+      },
+      {
+        "id": "num-21-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Então Israel mandou mensageiros a {0}, rei dos amorreus",
+        "blanks": [
+          "Siom"
+        ],
+        "distractors": [
+          "Ogue",
+          "Balaque",
+          "Arade"
+        ]
+      },
+      {
+        "id": "num-21-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que Israel prometeu a Siom ao pedir passagem por sua terra?",
+        "options": [
+          "Não desviar pelos campos nem pelas vinhas, indo pela estrada real",
+          "Pagar tributo em ouro",
+          "Deixar reféns como garantia",
+          "Entregar suas armas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-21-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Israel habitou em todas as cidades dos amorreus, em {0} e em todas as suas aldeias",
+        "blanks": [
+          "Hesbom"
+        ],
+        "distractors": [
+          "Edrei",
+          "Beer",
+          "Jazer"
+        ]
+      },
+      {
+        "id": "num-21-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Siom",
+            "right": "Rei dos amorreus"
+          },
+          {
+            "left": "Quemós",
+            "right": "Deus de Moabe"
+          },
+          {
+            "left": "Hesbom",
+            "right": "Cidade real de Siom"
+          },
+          {
+            "left": "Arnom",
+            "right": "Termo entre Moabe e os amorreus"
+          }
+        ]
+      },
+      {
+        "id": "num-21-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "subiram o caminho de {0}; e Ogue, rei de Basã",
+        "blanks": [
+          "Basã"
+        ],
+        "distractors": [
+          "Edom",
+          "Moabe",
+          "Jaza"
+        ]
+      },
+      {
+        "id": "num-21-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "O que o Senhor disse a Moisés sobre Ogue, rei de Basã?",
+        "options": [
+          "Que não o temesse, pois o entregaria em sua mão",
+          "Que fizesse aliança com ele",
+          "Que o deixasse passar em paz",
+          "Que voltasse ao monte Hor"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "num-22-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "O medo de Moabe",
+        "text": "Israel não havia atacado Moabe, mas o temor era tão grande que Moabe comparou o povo a um boi que lambe e devora toda a erva do campo ao seu redor."
+      },
+      {
+        "id": "num-22-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Este enviou mensageiros a Balaão, filho de {0}, a Petor",
+        "blanks": [
+          "Beor"
+        ],
+        "distractors": [
+          "Zipor",
+          "Balaque",
+          "Balaão"
+        ]
+      },
+      {
+        "id": "num-22-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por que Balaque queria que Balaão amaldiçoasse Israel?",
+        "options": [
+          "Porque o povo era mais poderoso do que ele",
+          "Porque Israel havia roubado seu gado",
+          "Porque Israel adorava outros deuses",
+          "Porque queria expandir seu reino para o Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-22-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "nem amaldiçoarás este povo, porquanto {0} é.",
+        "blanks": [
+          "bendito"
+        ],
+        "distractors": [
+          "maldito",
+          "poderoso",
+          "numeroso"
+        ]
+      },
+      {
+        "id": "num-22-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que Balaão respondeu sobre a oferta de prata e ouro de Balaque?",
+        "options": [
+          "Que não poderia transgredir o mandado do Senhor",
+          "Que aceitaria somente o ouro",
+          "Que pediria o dobro do pagamento",
+          "Que decidiria pela manhã seguinte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-22-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Viu, pois, a {0} o anjo do Senhor, que estava no caminho",
+        "blanks": [
+          "jumenta"
+        ],
+        "distractors": [
+          "espada",
+          "vereda",
+          "congregação"
+        ]
+      },
+      {
+        "id": "num-22-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que aconteceu quando o Senhor abriu a boca da jumenta?",
+        "options": [
+          "A jumenta falou e perguntou a Balaão por que a espancava",
+          "A jumenta fugiu para o campo",
+          "A jumenta morreu no caminho",
+          "A jumenta atacou o anjo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-22-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Então Balaão disse ao anjo do Senhor: {0}, porque não soube que estavas neste caminho",
+        "blanks": [
+          "Pequei"
+        ],
+        "distractors": [
+          "Errei",
+          "Menti",
+          "Fugi"
+        ]
+      },
+      {
+        "id": "num-22-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "e o fez subir aos altos de {0}, e viu ele dali a parte extrema do povo.",
+        "blanks": [
+          "Baal"
+        ],
+        "distractors": [
+          "Moabe",
+          "Petor",
+          "Arnom"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "num-23-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Sete altares",
+        "text": "Balaão manda erguer exatamente sete altares e oferecer sete bezerros e sete carneiros em cada um dos três montes; o número sete simbolizava plenitude e era usado para reforçar o ritual diante de Deus."
+      },
+      {
+        "id": "num-23-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Da Síria me mandou trazer {0}, rei dos moabitas",
+        "blanks": [
+          "Balaque"
+        ],
+        "distractors": [
+          "Balaão",
+          "Zipor",
+          "Beor"
+        ]
+      },
+      {
+        "id": "num-23-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Em vez de amaldiçoar os inimigos de Balaque, o que Balaão fez com Israel?",
+        "options": [
+          "Os abençoou inteiramente",
+          "Os amaldiçoou três vezes",
+          "Ficou em silêncio",
+          "Fugiu para a Síria"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-23-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "o levou consigo ao campo de {0}, ao cume de Pisga",
+        "blanks": [
+          "Zofim"
+        ],
+        "distractors": [
+          "Moabe",
+          "Peor",
+          "Síria"
+        ]
+      },
+      {
+        "id": "num-23-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Deus não é {0}, para que minta",
+        "blanks": [
+          "homem"
+        ],
+        "distractors": [
+          "rei",
+          "profeta",
+          "inimigo"
+        ]
+      },
+      {
+        "id": "num-23-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Deus os tirou do {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "deserto",
+          "oriente",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "num-23-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Balaque",
+            "right": "Rei de Moabe que quer amaldiçoar Israel"
+          },
+          {
+            "left": "Balaão",
+            "right": "Adivinho que só fala o que o Senhor lhe põe na boca"
+          },
+          {
+            "left": "Pisga",
+            "right": "Cume aonde Balaque levou Balaão"
+          },
+          {
+            "left": "Peor",
+            "right": "Cume que dá para o lado do deserto"
+          }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "num-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O Espírito desce sobre Balaão",
+        "text": "Diferente das vezes anteriores, Balaão não busca agouros: ao ver Israel acampado por tribos, o Espírito de Deus vem sobre ele e ele passa a falar como verdadeiro profeta."
+      },
+      {
+        "id": "num-24-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Que boas são as tuas {0}, ó Jacó!",
+        "blanks": [
+          "tendas"
+        ],
+        "distractors": [
+          "cidades",
+          "águas",
+          "tribos"
+        ]
+      },
+      {
+        "id": "num-24-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Segundo a parábola de Balaão, de onde Deus tirou Israel?",
+        "options": [
+          "Do Egito",
+          "De Assur",
+          "De Moabe",
+          "De Edom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "a sua casa cheia de prata e {0}",
+        "blanks": [
+          "ouro"
+        ],
+        "distractors": [
+          "sândalo",
+          "cedros",
+          "tendas"
+        ]
+      },
+      {
+        "id": "num-24-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "uma estrela procederá de Jacó, e um {0} subirá de Israel",
+        "blanks": [
+          "cetro"
+        ],
+        "distractors": [
+          "rei",
+          "ninho",
+          "cedro"
+        ]
+      },
+      {
+        "id": "num-24-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Balaão",
+            "right": "Profeta que abençoa Israel"
+          },
+          {
+            "left": "Balaque",
+            "right": "Rei de Moabe"
+          },
+          {
+            "left": "Amaleque",
+            "right": "Primeira das nações"
+          }
+        ]
+      },
+      {
+        "id": "num-24-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "até que {0} te leve por prisioneiro",
+        "blanks": [
+          "Assur"
+        ],
+        "distractors": [
+          "Amaleque",
+          "Edom",
+          "Quitim"
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "num-25-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "A que falso deus Israel se juntou em Sitim, provocando a ira do Senhor?",
+        "options": [
+          "Baal-Peor",
+          "Dagom",
+          "Moloque",
+          "Astarote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-25-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Vendo isso {0}, filho de Eleazar, o filho de Aarão, sacerdote",
+        "blanks": [
+          "Fineias"
+        ],
+        "distractors": [
+          "Moisés",
+          "Zinri",
+          "Salu"
+        ]
+      },
+      {
+        "id": "num-25-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "O zelo de Fineias",
+        "text": "Fineias era neto de Aarão e filho de Eleazar, da linhagem sacerdotal de Levi; seu ato decidido cessou a praga e fez dele o exemplo bíblico de zelo recompensado por Deus."
+      },
+      {
+        "id": "num-25-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "era {0}, filho de Salu, príncipe da casa paterna dos simeonitas",
+        "blanks": [
+          "Zinri"
+        ],
+        "distractors": [
+          "Zur",
+          "Eleazar",
+          "Fineias"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "num-26-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O segundo recenseamento",
+        "text": "Quase quarenta anos após o censo do Sinai, Jeová ordena uma nova contagem de Israel nas campinas de Moabe: a geração que entrará na terra prometida."
+      },
+      {
+        "id": "num-26-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "nas campinas de Moabe, junto do Jordão, na altura de {0}",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Hebrom",
+          "Siló",
+          "Nínive"
+        ]
+      },
+      {
+        "id": "num-26-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Datã e Abirão são lembrados aqui porque",
+        "options": [
+          "Contenderam contra Moisés e Aarão junto com Coré",
+          "Lideraram Israel à vitória contra Moabe",
+          "Foram os primeiros a entrar em Canaã",
+          "Construíram o tabernáculo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Para que servia esta contagem do povo de Israel?",
+        "options": [
+          "Para repartir a terra como herança entre as tribos",
+          "Para escolher um novo rei",
+          "Para cobrar impostos do Egito",
+          "Para construir as cidades de refúgio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "mas Er e Onã morreram na terra de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Moabe",
+          "Midiã"
+        ]
+      },
+      {
+        "id": "num-26-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Os filhos de Issacar e de Zebulom são contados aqui como",
+        "options": [
+          "Famílias dentro de suas tribos",
+          "Sacerdotes do tabernáculo",
+          "Capitães do exército egípcio",
+          "Juízes de Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "As filhas de Zelofeade",
+        "text": "Zelofeade não teve filhos homens, só filhas: Maalá, Noa, Hogla, Milca e Tirza. O caso delas leva à lei de que filhas podem herdar a terra (Números 27)."
+      },
+      {
+        "id": "num-26-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Por que Zelofeade é mencionado de forma especial nesta lista?",
+        "options": [
+          "Não tinha filhos homens, apenas filhas",
+          "Foi o homem mais velho de Israel",
+          "Recusou-se a ser contado",
+          "Liderou a tribo de Manassés à guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Manassés e Efraim, contados aqui, eram filhos de qual patriarca?",
+        "options": [
+          "José",
+          "Levi",
+          "Judá",
+          "Benjamim"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "As listas dos versículos 38 a 42 enumeram as famílias de quais tribos?",
+        "options": [
+          "Benjamim e Dã",
+          "Rúben e Simeão",
+          "Levi e Aarão",
+          "Moabe e Midiã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-26-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "E o nome da filha de Aser foi {0}",
+        "blanks": [
+          "Sera"
+        ],
+        "distractors": [
+          "Maalá",
+          "Miriã",
+          "Noa"
+        ]
+      },
+      {
+        "id": "num-26-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "A estes se repartirá a terra em {0}, segundo o número dos nomes",
+        "blanks": [
+          "herança"
+        ],
+        "distractors": [
+          "guerra",
+          "escravidão",
+          "cativeiro"
+        ]
+      },
+      {
+        "id": "num-26-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "Todavia a terra se repartirá por {0}",
+        "blanks": [
+          "sortes"
+        ],
+        "distractors": [
+          "espadas",
+          "tributos",
+          "heranças"
+        ]
+      },
+      {
+        "id": "num-26-cur-59",
+        "type": "curiosity",
+        "after_verse": 59,
+        "title": "A família de Moisés",
+        "text": "Joquebede, filha de Levi, foi mãe de Aarão, Moisés e Miriã: o versículo 59 registra a linhagem levita da qual saíram os líderes do êxodo."
+      },
+      {
+        "id": "num-26-fb-61",
+        "type": "fill_blank",
+        "after_verse": 61,
+        "verse": 61,
+        "template": "Nadabe e Abiú morreram quando ofereceram fogo {0} perante o Senhor",
+        "blanks": [
+          "estranho"
+        ],
+        "distractors": [
+          "santo",
+          "aceitável",
+          "ordenado"
+        ]
+      },
+      {
+        "id": "num-26-fb-65",
+        "type": "fill_blank",
+        "after_verse": 65,
+        "verse": 65,
+        "template": "e nenhum deles ficou, senão Calebe, filho de Jefoné, e Josué, filho de {0}",
+        "blanks": [
+          "Num"
+        ],
+        "distractors": [
+          "Eliabe",
+          "Aarão",
+          "Eleazar"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "num-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Cinco irmãs que mudaram a lei",
+        "text": "Maalá, Noa, Hogla, Milca e Tirza estão entre as poucas mulheres nomeadas individualmente na Torá; o caso delas levou o Senhor a criar uma regra de herança que protegia as filhas quando não havia filho homem."
+      },
+      {
+        "id": "num-27-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Nosso pai morreu no deserto, e não estava entre os que se congregaram contra o Senhor na congregação de {0}",
+        "blanks": [
+          "Coré"
+        ],
+        "distractors": [
+          "Aarão",
+          "Datã",
+          "Balaão"
+        ]
+      },
+      {
+        "id": "num-27-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Como o Senhor respondeu ao pedido das filhas de Zelofeade?",
+        "options": [
+          "Que falavam o que é justo e deviam receber herança entre os irmãos do pai",
+          "Que mulheres não podiam possuir terra alguma",
+          "Que só receberiam terra se casassem com homens da tribo",
+          "Que o pedido seria negado por causa do pecado do pai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-27-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Por que o Senhor mandou Moisés subir ao monte Abarim?",
+        "options": [
+          "Para ver a terra dada aos filhos de Israel antes de morrer",
+          "Para receber novamente as tábuas da lei",
+          "Para oferecer um sacrifício pelo povo",
+          "Para conquistar a terra de Canaã sozinho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-27-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "para que a congregação do Senhor não seja como ovelhas que não têm {0}",
+        "blanks": [
+          "pastor"
+        ],
+        "distractors": [
+          "rei",
+          "juiz",
+          "sacerdote"
+        ]
+      },
+      {
+        "id": "num-27-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Josué",
+            "right": "Novo líder escolhido para suceder Moisés"
+          },
+          {
+            "left": "Eleazar",
+            "right": "Sacerdote que consultaria pelo juízo de Urim"
+          },
+          {
+            "left": "Zelofeade",
+            "right": "Pai das cinco filhas que pediram herança"
+          }
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "num-28-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cheiro suave",
+        "text": "A expressão \"cheiro suave\" repete-se ao longo do capítulo: descreve a oferta aceita por Jeová, símbolo de uma adoração que agrada a Deus quando feita no tempo certo."
+      },
+      {
+        "id": "num-28-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "dois cordeiros de um ano, sem defeito, cada dia, em contínuo {0}",
+        "blanks": [
+          "holocausto"
+        ],
+        "distractors": [
+          "sábado",
+          "carneiro",
+          "santuário"
+        ]
+      },
+      {
+        "id": "num-28-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Esse é o holocausto contínuo, instituído no monte {0}, em cheiro suave",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Nebo",
+          "Horebe",
+          "Carmelo"
+        ]
+      },
+      {
+        "id": "num-28-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Quantos cordeiros adicionais eram oferecidos no dia do sábado, além do holocausto contínuo?",
+        "options": [
+          "Dois cordeiros de um ano",
+          "Sete cordeiros",
+          "Um bezerro",
+          "Um carneiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-28-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Porém no mês primeiro, aos quatorze dias do mês, é a {0} do Senhor",
+        "blanks": [
+          "páscoa"
+        ],
+        "distractors": [
+          "primícia",
+          "convocação",
+          "libação"
+        ]
+      },
+      {
+        "id": "num-28-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "E um bode para oferta pelo pecado, para fazer {0} por vós",
+        "blanks": [
+          "expiação"
+        ],
+        "distractors": [
+          "libação",
+          "convocação",
+          "oferta"
+        ]
+      },
+      {
+        "id": "num-28-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "O \"dia das primícias\", com oferta nova de manjares, corresponde a qual festa de Israel?",
+        "options": [
+          "A festa das semanas (Pentecostes)",
+          "A Páscoa",
+          "A festa dos tabernáculos",
+          "O dia da expiação"
+        ],
+        "answer": 0
+      }
+    ],
+    "29": [
+      {
+        "id": "num-29-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A festa das buzinas",
+        "text": "O \"sonido de buzinas\" do primeiro dia do sétimo mês marcava a festa que mais tarde se chamou Rosh Hashaná. O som do shofar (chifre de carneiro) convocava o povo à reflexão antes do dia da expiação."
+      },
+      {
+        "id": "num-29-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "um dia de sonido de {0}",
+        "blanks": [
+          "buzinas"
+        ],
+        "distractors": [
+          "harpas",
+          "saltérios",
+          "címbalos"
+        ]
+      },
+      {
+        "id": "num-29-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "No dia dez do sétimo mês (o dia da expiação), o que o povo devia fazer além da santa convocação?",
+        "options": [
+          "Afligir as suas almas",
+          "Acender fogueiras",
+          "Plantar as vinhas",
+          "Edificar altares novos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-29-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Sete dias de festa",
+        "text": "A festa dos quinze dias do sétimo mês durava sete dias e celebrava a colheita; é a festa dos tabernáculos (Sucot), em que Israel relembrava a peregrinação pelo deserto vivendo em cabanas."
+      },
+      {
+        "id": "num-29-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "mas sete dias celebrareis festa ao {0}",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "sacerdote",
+          "tabernáculo",
+          "altar"
+        ]
+      },
+      {
+        "id": "num-29-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Segundo dia",
+            "right": "Doze bezerros"
+          },
+          {
+            "left": "Terceiro dia",
+            "right": "Onze bezerros"
+          },
+          {
+            "left": "Carneiros por dia",
+            "right": "Dois"
+          }
+        ]
+      },
+      {
+        "id": "num-29-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Ao longo dos sete dias da festa, o que acontecia com o número de bezerros oferecidos a cada dia?",
+        "options": [
+          "Diminuía um a cada dia",
+          "Aumentava um a cada dia",
+          "Mantinha-se sempre igual",
+          "Dobrava a cada dia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-29-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "no sexto dia, oito {0}, dois carneiros",
+        "blanks": [
+          "bezerros"
+        ],
+        "distractors": [
+          "cordeiros",
+          "carneiros",
+          "bodes"
+        ]
+      },
+      {
+        "id": "num-29-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "O que se realizava no oitavo dia, depois dos sete dias de festa?",
+        "options": [
+          "Uma assembleia solene",
+          "O dia da expiação",
+          "O sonido de buzinas",
+          "Uma colheita de trigo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-29-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "E falou {0} aos filhos de Israel",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Arão",
+          "Josué",
+          "Eleazar"
+        ]
+      }
+    ],
+    "30": [
+      {
+        "id": "num-30-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A palavra empenhada",
+        "text": "Para Israel, um voto ao Senhor era sagrado: quem o fazia deveria cumprir exatamente tudo o que saiu da sua boca, sem violar a palavra dada."
+      },
+      {
+        "id": "num-30-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "ligando a sua alma com {0}, não violará a sua palavra",
+        "blanks": [
+          "obrigação"
+        ],
+        "distractors": [
+          "juramento",
+          "palavra",
+          "voto"
+        ]
+      },
+      {
+        "id": "num-30-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "E se ela tiver {0}, e estiver obrigada a alguns votos",
+        "blanks": [
+          "marido"
+        ],
+        "distractors": [
+          "pai",
+          "filho",
+          "irmão"
+        ]
+      },
+      {
+        "id": "num-30-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Segundo o versículo 9, o voto de quais mulheres permanecia sempre válido sobre elas?",
+        "options": [
+          "A viúva e a repudiada",
+          "A filha na mocidade",
+          "A mulher casada",
+          "A noiva prometida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-30-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Conforme o versículo 15, o que acontecia se o marido anulasse o voto da esposa depois de já tê-lo ouvido e aceitado?",
+        "options": [
+          "Ele levaria a iniquidade dela",
+          "A mulher seria punida",
+          "O voto continuaria válido",
+          "O Senhor anularia o voto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-30-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Esses são os {0} que o Senhor ordenou a Moisés entre o marido e sua mulher",
+        "blanks": [
+          "estatutos"
+        ],
+        "distractors": [
+          "votos",
+          "juramentos",
+          "sacrifícios"
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "num-31-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A última missão de Moisés",
+        "text": "O Senhor avisa que, depois de vingar Israel dos midianitas, Moisés seria “recolhido ao seu povo” — morreria. Esta guerra é uma de suas últimas tarefas como líder."
+      },
+      {
+        "id": "num-31-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "e com as {0} de alarido na sua mão",
+        "blanks": [
+          "trombetas"
+        ],
+        "distractors": [
+          "espadas",
+          "lanças",
+          "bandeiras"
+        ]
+      },
+      {
+        "id": "num-31-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "também Balaão, filho de Beor, mataram à {0}",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "lança",
+          "flecha",
+          "adaga"
+        ]
+      },
+      {
+        "id": "num-31-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Para onde os israelitas levaram os cativos e o despojo?",
+        "options": [
+          "Para o acampamento nas campinas de Moabe, junto do Jordão",
+          "Para o monte Sinai",
+          "Para a terra do Egito",
+          "Para a cidade de Jericó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-31-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "por conselho de {0}, fizeram os filhos de Israel transgredir contra o Senhor",
+        "blanks": [
+          "Balaão"
+        ],
+        "distractors": [
+          "Eleazar",
+          "Fineias",
+          "Moisés"
+        ]
+      },
+      {
+        "id": "num-31-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "E vós, alojai-vos {0} dias fora do acampamento",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "quarenta",
+          "doze"
+        ]
+      },
+      {
+        "id": "num-31-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Toda coisa que pode suportar o fogo fareis passar pelo {0}, para que fique limpa",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "sangue",
+          "azeite",
+          "vento"
+        ]
+      },
+      {
+        "id": "num-31-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Qual tributo para o Senhor foi tomado dos homens de guerra?",
+        "options": [
+          "Uma alma de cada quinhentos",
+          "Uma alma de cada cinquenta",
+          "Uma alma de cada cem",
+          "Metade de todo o despojo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-31-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "e os darás aos {0} que têm o encargo do serviço do tabernáculo do Senhor",
+        "blanks": [
+          "levitas"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "príncipes",
+          "capitães"
+        ]
+      },
+      {
+        "id": "num-31-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "O tributo separado do despojo pertencia a quem?",
+        "options": [
+          "Ao Senhor, entregue ao sacerdote Eleazar",
+          "Aos capitães de mil",
+          "Aos reis dos midianitas",
+          "Aos pequeninos cativos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-31-mc-47",
+        "type": "multiple_choice",
+        "after_verse": 47,
+        "question": "Da metade dos filhos de Israel, a quem Moisés deu a porção tomada?",
+        "options": [
+          "Aos levitas que serviam o tabernáculo",
+          "Aos sacerdotes Eleazar e Fineias",
+          "Aos capitães de cem",
+          "Aos midianitas sobreviventes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-31-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "anéis, brincos, e colares, para fazer {0} por nós perante o Senhor",
+        "blanks": [
+          "expiação"
+        ],
+        "distractors": [
+          "guerra",
+          "contagem",
+          "memorial"
+        ]
+      }
+    ],
+    "32": [
+      {
+        "id": "num-32-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Terra de pastagens",
+        "text": "As cidades listadas no versículo 3, como Hesbom e Nebo, ficavam na Transjordânia, planaltos de boas pastagens que atraíram as tribos com muito gado."
+      },
+      {
+        "id": "num-32-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "O que Moisés pergunta a Rúben e Gade ao ouvir o pedido deles?",
+        "options": [
+          "Se ficariam enquanto seus irmãos iam à peleja",
+          "Quantas cabeças de gado possuíam",
+          "Se haviam consultado os sacerdotes",
+          "Quando atravessariam o Jordão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-32-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Chegando eles até o vale de {0}, e vendo esta terra, desencorajaram o coração dos filhos de Israel",
+        "blanks": [
+          "Escol"
+        ],
+        "distractors": [
+          "Gileade",
+          "Jazer",
+          "Hesbom"
+        ]
+      },
+      {
+        "id": "num-32-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Exceto {0}, filho de Jefoné, o quenezeu, e Josué, filho de Num",
+        "blanks": [
+          "Calebe"
+        ],
+        "distractors": [
+          "Eleazar",
+          "Aarão",
+          "Maquir"
+        ]
+      },
+      {
+        "id": "num-32-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "O que Rúben e Gade prometem fazer pelos demais israelitas, segundo os versículos 16-17?",
+        "options": [
+          "Armar-se e ir à frente até levá-los ao seu lugar",
+          "Dar metade do seu gado ao templo",
+          "Construir um altar no Jordão",
+          "Permanecer todos em Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-32-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "eis que pecastes contra o Senhor; porém sabei que o vosso {0} vos há de achar",
+        "blanks": [
+          "pecado"
+        ],
+        "distractors": [
+          "inimigo",
+          "irmão",
+          "rebanho"
+        ]
+      },
+      {
+        "id": "num-32-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Mas os teus servos passarão, cada um armado para a {0}, perante o Senhor",
+        "blanks": [
+          "guerra"
+        ],
+        "distractors": [
+          "herança",
+          "congregação",
+          "possessão"
+        ]
+      },
+      {
+        "id": "num-32-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Eleazar",
+            "right": "O sacerdote a quem Moisés deu ordem"
+          },
+          {
+            "left": "Josué",
+            "right": "Filho de Num, líder após Moisés"
+          },
+          {
+            "left": "Gileade",
+            "right": "Terra prometida em possessão se cruzassem armados"
+          },
+          {
+            "left": "Canaã",
+            "right": "Onde teriam posses se não passassem armados"
+          }
+        ]
+      },
+      {
+        "id": "num-32-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "à meia tribo de {0}, filho de José, o reino de Siom, rei dos amorreus",
+        "blanks": [
+          "Manassés"
+        ],
+        "distractors": [
+          "Efraim",
+          "Rúben",
+          "Gade"
+        ]
+      },
+      {
+        "id": "num-32-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "E foi {0}, filho de Manassés, e tomou as suas aldeias; e chamou-as Havote-Jair",
+        "blanks": [
+          "Jair"
+        ],
+        "distractors": [
+          "Maquir",
+          "Nobá",
+          "José"
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "num-33-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "todos os {0}, e havendo o Senhor",
+        "blanks": [
+          "primogênitos"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "levitas",
+          "anciãos"
+        ]
+      },
+      {
+        "id": "num-33-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Doze fontes e setenta palmeiras",
+        "text": "Em Elim, um dos primeiros acampamentos, o texto registra doze fontes de águas e setenta palmeiras — um oásis que aliviou o povo logo após a travessia do deserto."
+      },
+      {
+        "id": "num-33-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "em Elim havia doze fontes de águas, e setenta {0}",
+        "blanks": [
+          "palmeiras"
+        ],
+        "distractors": [
+          "oliveiras",
+          "figueiras",
+          "videiras"
+        ]
+      },
+      {
+        "id": "num-33-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Em Refidim, o que faltava ao povo, segundo o versículo 14?",
+        "options": [
+          "Água para beber",
+          "Pão para comer",
+          "Carne para comer",
+          "Lugar para acampar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Depois de Refidim, em que deserto Israel acampou?",
+        "options": [
+          "No deserto de Sinai",
+          "No deserto de Sim",
+          "No deserto de Zim",
+          "No deserto de Etã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Quem escreveu este registro das jornadas de Israel, conforme o capítulo?",
+        "options": [
+          "Moisés",
+          "Aarão",
+          "Josué",
+          "Eleazar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Que padrão se repete em toda esta lista de acampamentos?",
+        "options": [
+          "Partiram de um lugar e acamparam em outro",
+          "Lutaram uma batalha em cada lugar",
+          "Construíram um altar em cada parada",
+          "Contaram o povo em cada parada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "O que estes versículos descrevem em sequência?",
+        "options": [
+          "As paradas da jornada pelo deserto",
+          "As tribos de Israel",
+          "Os filhos de Aarão",
+          "As leis dos sacrifícios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Aarão, o {0}, subiu ao monte Hor",
+        "blanks": [
+          "sacerdote"
+        ],
+        "distractors": [
+          "profeta",
+          "capitão",
+          "escriba"
+        ]
+      },
+      {
+        "id": "num-33-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "Com que idade Aarão morreu no monte Hor?",
+        "options": [
+          "Cento e vinte e três anos",
+          "Cento e vinte anos",
+          "Cento e trinta anos",
+          "Cento e dez anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Quem ouviu que os filhos de Israel chegavam, segundo o versículo 40?",
+        "options": [
+          "O cananeu, rei de Arade",
+          "Faraó, rei do Egito",
+          "O rei de Moabe",
+          "Balaque, filho de Zipor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "Onde Israel acampou ao final da jornada, junto ao Jordão?",
+        "options": [
+          "Nas campinas dos moabitas",
+          "No deserto de Sinai",
+          "Nos montes de Abarim",
+          "Junto ao Mar Vermelho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-33-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "destruireis todas as suas imagens de {0}",
+        "blanks": [
+          "fundição"
+        ],
+        "distractors": [
+          "pedra",
+          "madeira",
+          "barro"
+        ]
+      },
+      {
+        "id": "num-33-cur-54",
+        "type": "curiosity",
+        "after_verse": 54,
+        "title": "A terra repartida por sorte",
+        "text": "O Senhor ordena dividir Canaã por sorte entre as famílias: mais herança aos numerosos e menos aos poucos, cada tribo recebendo a parte que a sorte lhe designasse."
+      },
+      {
+        "id": "num-33-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "vos serão como farpas nos vossos {0}",
+        "blanks": [
+          "olhos"
+        ],
+        "distractors": [
+          "pés",
+          "braços",
+          "ombros"
+        ]
+      }
+    ],
+    "34": [
+      {
+        "id": "num-34-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "As fronteiras de Canaã",
+        "text": "O capítulo traça os quatro limites da terra prometida — sul, ocidente, norte e oriente — usando marcos geográficos reais como o mar Salgado, o mar Grande (Mediterrâneo) e o rio Jordão."
+      },
+      {
+        "id": "num-34-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Quando entrardes na terra de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Edom",
+          "Hamate",
+          "Zedade"
+        ]
+      },
+      {
+        "id": "num-34-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "o {0} grande vos será por termo",
+        "blanks": [
+          "mar"
+        ],
+        "distractors": [
+          "monte",
+          "deserto",
+          "rio"
+        ]
+      },
+      {
+        "id": "num-34-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "as suas saídas serão no {0} salgado",
+        "blanks": [
+          "mar"
+        ],
+        "distractors": [
+          "rio",
+          "vale",
+          "lago"
+        ]
+      },
+      {
+        "id": "num-34-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "{0}, o sacerdote, e Josué, o filho de Num",
+        "blanks": [
+          "Eleazar"
+        ],
+        "distractors": [
+          "Calebe",
+          "Buqui",
+          "Haniel"
+        ]
+      },
+      {
+        "id": "num-34-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Quantos príncipes de cada tribo deveriam ser tomados para repartir a terra?",
+        "options": [
+          "Um de cada tribo",
+          "Dois de cada tribo",
+          "Três de cada tribo",
+          "Sete de cada tribo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-34-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Calebe, filho de Jefoné, foi escolhido como príncipe de qual tribo?",
+        "options": [
+          "Judá",
+          "Benjamim",
+          "Dã",
+          "Simeão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-34-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Eleazar",
+            "right": "Sacerdote que repartiria a terra"
+          },
+          {
+            "left": "Josué",
+            "right": "Filho de Num"
+          },
+          {
+            "left": "Calebe",
+            "right": "Príncipe da tribo de Judá"
+          },
+          {
+            "left": "Senhor",
+            "right": "Quem ordenou a repartição das heranças"
+          }
+        ]
+      }
+    ],
+    "35": [
+      {
+        "id": "num-35-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Cidades para os levitas",
+        "text": "Por servirem no tabernáculo, os levitas não herdaram uma faixa de terra como as outras tribos; em vez disso receberam cidades com arrabaldes (pastagens) distribuídas por todo Israel."
+      },
+      {
+        "id": "num-35-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "da herança da sua possessão, deem cidades aos {0}, em que habitem",
+        "blanks": [
+          "levitas"
+        ],
+        "distractors": [
+          "moabitas",
+          "israelitas",
+          "sacerdotes"
+        ]
+      },
+      {
+        "id": "num-35-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Quantas cidades de refúgio Israel deveria separar dentre as cidades dos levitas?",
+        "options": [
+          "Seis",
+          "Três",
+          "Doze",
+          "Quarenta e oito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-35-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E essas cidades vos serão por refúgio contra o {0} do sangue",
+        "blanks": [
+          "vingador"
+        ],
+        "distractors": [
+          "homicida",
+          "feridor",
+          "sacerdote"
+        ]
+      },
+      {
+        "id": "num-35-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Homicida",
+            "right": "Quem mata por ódio ou inimizade"
+          },
+          {
+            "left": "Vingador do sangue",
+            "right": "Parente que persegue o matador"
+          },
+          {
+            "left": "Cidade de refúgio",
+            "right": "Lugar onde o matador acidental se acolhe"
+          },
+          {
+            "left": "Congregação",
+            "right": "Quem julga entre o feridor e o vingador"
+          }
+        ]
+      },
+      {
+        "id": "num-35-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "até a morte do sumo sacerdote, a quem ungiram com o santo {0}",
+        "blanks": [
+          "óleo"
+        ],
+        "distractors": [
+          "sangue",
+          "fogo",
+          "incenso"
+        ]
+      },
+      {
+        "id": "num-35-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Segundo o versículo 33, o que profana a terra e só pode ser expiado pelo sangue de quem o derramou?",
+        "options": [
+          "O sangue derramado",
+          "A idolatria",
+          "O furto",
+          "O descumprimento do sábado"
+        ],
+        "answer": 0
+      }
+    ],
+    "36": [
+      {
+        "id": "num-36-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "As filhas que abriram precedente",
+        "text": "Zelofeade não teve filhos homens; em Números 27 suas cinco filhas obtiveram o direito de herdar a terra do pai. Números 36 fecha o livro resolvendo o problema seguinte: como manter essa herança dentro da tribo de Manassés."
+      },
+      {
+        "id": "num-36-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "que a herança do nosso irmão {0} se desse às suas filhas.",
+        "blanks": [
+          "Zelofeade"
+        ],
+        "distractors": [
+          "Manassés",
+          "Maquir",
+          "Gileade"
+        ]
+      },
+      {
+        "id": "num-36-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Como Moisés, por mandado do Senhor, respondeu ao pedido da tribo dos filhos de José?",
+        "options": [
+          "Que a tribo dos filhos de José falava o que é justo",
+          "Que o pedido era contra a lei e fora negado",
+          "Que decidiria somente depois de entrar em Canaã",
+          "Que as filhas perderiam toda a sua herança"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-36-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que se ordenou que as herdeiras se casassem dentro da tribo de seu pai?",
+        "options": [
+          "Para que a herança não passasse de uma tribo a outra",
+          "Para que pagassem mais tributo ao tabernáculo",
+          "Para que pudessem servir como sacerdotes",
+          "Para que dobrassem o tamanho de sua herança"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "num-36-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "junto ao Jordão, na altura de {0}.",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Sinai",
+          "Egito",
+          "Hebrom"
+        ]
+      }
+    ]
+  }
+}

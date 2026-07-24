@@ -1,0 +1,5576 @@
+{
+  "schema_version": 1,
+  "book": "gen",
+  "chapters": {
+    "1": [
+      {
+        "id": "gen-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "No princípio, Deus criou os {0} e a terra.",
+        "blanks": [
+          "céus"
+        ],
+        "distractors": [
+          "mares",
+          "luminares",
+          "répteis"
+        ]
+      },
+      {
+        "id": "gen-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "No segundo dia, que nome Deus deu à expansão?",
+        "options": [
+          "Céus",
+          "Terra",
+          "Mares",
+          "Dia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "E disse Deus: Haja {0} na expansão dos céus",
+        "blanks": [
+          "luminares"
+        ],
+        "distractors": [
+          "trevas",
+          "águas",
+          "estrelas"
+        ]
+      },
+      {
+        "id": "gen-1-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Segundo o versículo 16, o que o luminar menor foi feito para governar?",
+        "options": [
+          "A noite",
+          "O dia",
+          "Os mares",
+          "As estrelas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "E Deus criou as grandes {0}",
+        "blanks": [
+          "baleias"
+        ],
+        "distractors": [
+          "aves",
+          "feras",
+          "répteis"
+        ]
+      },
+      {
+        "id": "gen-1-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "\"Façamos o homem\"",
+        "text": "No versículo 26 Deus fala no plural — \"Façamos o homem à nossa imagem\". É o único ser da criação feito à imagem de Deus, e a ele é dado domínio sobre os peixes, as aves e os animais da terra."
+      },
+      {
+        "id": "gen-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "E criou Deus o homem à sua {0}",
+        "blanks": [
+          "imagem"
+        ],
+        "distractors": [
+          "glória",
+          "vontade",
+          "palavra"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "gen-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O primeiro dia santificado",
+        "text": "O setimo dia e o primeiro que Deus chama de santo na Biblia: Ele o abencoa e o santifica antes mesmo de existir um templo ou um sacerdote, lancando a base do descanso sabatico."
+      },
+      {
+        "id": "gen-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E havendo Deus acabado no dia sétimo a sua obra, que tinha feito, {0} no sétimo dia de toda a sua obra, que tinha feito.",
+        "blanks": [
+          "descansou"
+        ],
+        "distractors": [
+          "trabalhou",
+          "ajuntou",
+          "edificou"
+        ]
+      },
+      {
+        "id": "gen-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "De que o Senhor Deus formou o homem em Génesis 2?",
+        "options": [
+          "Do pó da terra",
+          "Das águas do mar",
+          "De uma costela",
+          "Do fôlego do vento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "E plantou o Senhor Deus um jardim no {0}, a oriente, e pôs ali o homem que tinha formado.",
+        "blanks": [
+          "Éden"
+        ],
+        "distractors": [
+          "Egito",
+          "Canaã",
+          "Ararate"
+        ]
+      },
+      {
+        "id": "gen-2-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Pisom",
+            "right": "Rodeia a terra de Havilá, onde há ouro"
+          },
+          {
+            "left": "Giom",
+            "right": "Rodeia toda a terra de Cuxe"
+          },
+          {
+            "left": "Tigre",
+            "right": "Vai para o oriente da Assíria"
+          },
+          {
+            "left": "Eufrates",
+            "right": "O quarto rio do Éden"
+          }
+        ]
+      },
+      {
+        "id": "gen-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Mas da árvore do conhecimento do bem e do mal, dela não comerás, porque no dia em que dela comeres, certamente {0}.",
+        "blanks": [
+          "morrerás"
+        ],
+        "distractors": [
+          "adormecerás",
+          "descansarás",
+          "lavrarás"
+        ]
+      },
+      {
+        "id": "gen-2-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "E disse Adão: Esta é agora osso dos meus ossos e carne da minha carne; esta será chamada {0}, porquanto do homem foi tomada.",
+        "blanks": [
+          "mulher"
+        ],
+        "distractors": [
+          "adjutora",
+          "companheira",
+          "serva"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "gen-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo a serpente, o que aconteceria com Adão e Eva se comessem do fruto?",
+        "options": [
+          "Seriam como Deus, conhecendo o bem e o mal",
+          "Viveriam para sempre no jardim",
+          "Receberiam um novo nome",
+          "Seriam expulsos imediatamente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-3-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "As primeiras roupas",
+        "text": "Ao perceberem que estavam nus, Adão e Eva costuraram folhas de figueira para se cobrir, mencionadas no versiculo 7 como as primeiras vestes improvisadas da humanidade."
+      },
+      {
+        "id": "gen-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Então foram abertos os {0} de ambos",
+        "blanks": [
+          "olhos"
+        ],
+        "distractors": [
+          "braços",
+          "ouvidos",
+          "caminhos"
+        ]
+      },
+      {
+        "id": "gen-3-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Quando Deus pergunta à mulher o que ela fez, a quem ela atribui a culpa?",
+        "options": [
+          "À serpente, que a enganou",
+          "A Adão, que a induziu",
+          "A si mesma, confessando o erro",
+          "Aos animais do campo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-3-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E chamou Adão o nome de sua mulher {0}",
+        "blanks": [
+          "Eva"
+        ],
+        "distractors": [
+          "Sara",
+          "Raquel",
+          "Lia"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "gen-4-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E Adão conheceu sua mulher Eva, e ela concebeu e deu à luz {0}, e disse: Alcancei do Senhor um homem.",
+        "blanks": [
+          "Caim"
+        ],
+        "distractors": [
+          "Abel",
+          "Sete",
+          "Enoque"
+        ]
+      },
+      {
+        "id": "gen-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Pastor e lavrador",
+        "text": "Os dois irmãos representam os dois modos de vida do mundo antigo: Abel cuidava de ovelhas e Caim cultivava a terra. A diferença de suas ofertas — animais e frutos — reflete essas duas ocupações."
+      },
+      {
+        "id": "gen-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quando o Senhor pergunta a Caim onde está seu irmão, o que Caim responde?",
+        "options": [
+          "Não sei; sou eu guardador do meu irmão?",
+          "Ele partiu para a terra de Node.",
+          "Eu o levei ao campo para trabalhar.",
+          "Está cuidando das ovelhas no pasto."
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "E saiu Caim de diante da face do Senhor e habitou na terra de {0}, a oriente do Éden.",
+        "blanks": [
+          "Node"
+        ],
+        "distractors": [
+          "Éden",
+          "Canaã",
+          "Babilônia"
+        ]
+      },
+      {
+        "id": "gen-4-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E conheceu Caim sua mulher, e ela concebeu e deu à luz {0}; e ele edificou uma cidade",
+        "blanks": [
+          "Enoque"
+        ],
+        "distractors": [
+          "Irade",
+          "Lameque",
+          "Jabal"
+        ]
+      },
+      {
+        "id": "gen-4-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "E a Sete também nasceu um filho, e chamou o seu nome {0}; então se começou a invocar o nome do Senhor.",
+        "blanks": [
+          "Enos"
+        ],
+        "distractors": [
+          "Sete",
+          "Abel",
+          "Jubal"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "gen-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O livro das gerações",
+        "text": "O capítulo abre chamando-se \"o livro das gerações de Adão\". É a primeira de várias listas genealógicas de Gênesis, escritas para ligar Adão a Noé e mostrar a continuidade da humanidade até o dilúvio."
+      },
+      {
+        "id": "gen-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versiculo 5, quantos anos Adão viveu ao todo?",
+        "options": [
+          "Novecentos e trinta anos",
+          "Oitocentos anos",
+          "Cento e trinta anos",
+          "Quinhentos anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Qual filho Sete gerou, dando continuidade a linhagem?",
+        "options": [
+          "Enos",
+          "Cainã",
+          "Jarede",
+          "Matusalém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Enos",
+            "right": "gerou Cainã"
+          },
+          {
+            "left": "Cainã",
+            "right": "gerou Maalalel"
+          },
+          {
+            "left": "Adão",
+            "right": "gerou Sete"
+          }
+        ]
+      },
+      {
+        "id": "gen-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Quem foi o filho que Jarede gerou?",
+        "options": [
+          "Enoque",
+          "Maalalel",
+          "Lameque",
+          "Sem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "E Enoque {0} com Deus; e não estava mais, porquanto Deus para si o tomou.",
+        "blanks": [
+          "andou"
+        ],
+        "distractors": [
+          "falou",
+          "lutou",
+          "tropeçou"
+        ]
+      },
+      {
+        "id": "gen-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E chamou o seu nome Noé, dizendo: Este nos {0} acerca de nossas obras",
+        "blanks": [
+          "consolará"
+        ],
+        "distractors": [
+          "julgará",
+          "acompanhará",
+          "abandonará"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "gen-6-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "porém os seus dias serão cento e {0} anos",
+        "blanks": [
+          "vinte"
+        ],
+        "distractors": [
+          "trinta",
+          "cinquenta",
+          "quarenta"
+        ]
+      },
+      {
+        "id": "gen-6-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Noé achou graça",
+        "text": "Noé é descrito como homem justo que andava com Deus, e é a primeira pessoa nas Escrituras de quem se diz que achou graça aos olhos do Senhor, o que o distingue de toda a geração corrompida ao seu redor."
+      },
+      {
+        "id": "gen-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "encheu-se a terra de {0}",
+        "blanks": [
+          "violência"
+        ],
+        "distractors": [
+          "alegria",
+          "paz",
+          "sabedoria"
+        ]
+      },
+      {
+        "id": "gen-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "uma arca da madeira de {0}",
+        "blanks": [
+          "gofer"
+        ],
+        "distractors": [
+          "cedro",
+          "acácia",
+          "carvalho"
+        ]
+      },
+      {
+        "id": "gen-6-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Quantos de cada espécie de animal Noé deveria fazer entrar na arca?",
+        "options": [
+          "Dois de cada espécie",
+          "Um de cada espécie",
+          "Sete de cada espécie",
+          "Dez de cada espécie"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "gen-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "porque vi que eras {0} diante de mim nesta geração",
+        "blanks": [
+          "justo"
+        ],
+        "distractors": [
+          "sábio",
+          "humilde",
+          "valente"
+        ]
+      },
+      {
+        "id": "gen-7-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Sete pares de animais limpos",
+        "text": "Diferente da ordem geral de Gênesis 6 (\"dois de cada espécie\"), aqui o Senhor pede sete pares de cada animal limpo e das aves; o excedente permitiria a Noé oferecer holocaustos após o dilúvio sem extinguir essas espécies."
+      },
+      {
+        "id": "gen-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Por quanto tempo choveu sobre a terra durante o dilúvio?",
+        "options": [
+          "Sete dias e sete noites",
+          "Quarenta dias e quarenta noites",
+          "Quinze dias e quinze noites",
+          "Cento e cinquenta dias e noites"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-7-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "e o {0} o fechou por fora",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Noé",
+          "Sem",
+          "Jafé"
+        ]
+      },
+      {
+        "id": "gen-7-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Quarenta dias e noites",
+            "right": "Duração da chuva sobre a terra"
+          },
+          {
+            "left": "Quinze côvados",
+            "right": "Altura das águas acima dos montes"
+          },
+          {
+            "left": "Cento e cinquenta dias",
+            "right": "Tempo em que as águas prevaleceram"
+          },
+          {
+            "left": "Seiscentos anos",
+            "right": "Idade de Noé quando veio o dilúvio"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "gen-8-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Os montes de Ararate",
+        "text": "A arca repousou sobre os montes de Ararate, região montanhosa identificada com a atual Armênia oriental e o leste da Turquia. Note que o texto fala em \"montes\", no plural, e não num pico isolado."
+      },
+      {
+        "id": "gen-8-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "sobre os montes de {0}.",
+        "blanks": [
+          "Ararate"
+        ],
+        "distractors": [
+          "Sinear",
+          "Assíria",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que a pomba trouxe no bico ao voltar à arca, sinal de que as águas tinham baixado?",
+        "options": [
+          "Uma folha de oliveira",
+          "Um ramo de figueira",
+          "Uma espiga de trigo",
+          "Uma folha de palmeira"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "então Noé tirou a {0} da arca, e olhou",
+        "blanks": [
+          "cobertura"
+        ],
+        "distractors": [
+          "porta",
+          "janela",
+          "tábua"
+        ]
+      },
+      {
+        "id": "gen-8-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E edificou Noé um {0} ao Senhor",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "templo",
+          "monumento",
+          "muro"
+        ]
+      },
+      {
+        "id": "gen-8-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Ararate",
+            "right": "Montes onde a arca repousou"
+          },
+          {
+            "left": "Pomba",
+            "right": "Trouxe a folha de oliveira"
+          },
+          {
+            "left": "Corvo",
+            "right": "Ave solta primeiro, foi e voltou"
+          },
+          {
+            "left": "Altar",
+            "right": "Onde Noé ofereceu holocaustos"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "gen-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Um recomeço da criação",
+        "text": "A bênção \"Frutificai e multiplicai-vos, e enchei a terra\" repete quase palavra por palavra a bênção dada a Adão e Eva em Gênesis 1:28. Após o dilúvio, Noé e seus filhos recebem de novo a tarefa de povoar a terra, como um segundo início para a humanidade."
+      },
+      {
+        "id": "gen-9-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo os versículos 3 e 4, o que Deus proíbe os homens de comer junto com a carne?",
+        "options": [
+          "A carne com o seu sangue",
+          "Toda erva verde",
+          "Os peixes do mar",
+          "As aves dos céus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-9-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "porque Deus fez o homem conforme a sua {0}",
+        "blanks": [
+          "imagem"
+        ],
+        "distractors": [
+          "glória",
+          "vontade",
+          "palavra"
+        ]
+      },
+      {
+        "id": "gen-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "O meu {0} pus na nuvem, e esse será por sinal do convênio entre mim e a terra.",
+        "blanks": [
+          "arco"
+        ],
+        "distractors": [
+          "trono",
+          "véu",
+          "altar"
+        ]
+      },
+      {
+        "id": "gen-9-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "De acordo com os versículos 11 a 16, o que Deus promete por meio do convênio do arco-íris?",
+        "options": [
+          "Que nunca mais haverá dilúvio para destruir a terra",
+          "Que a terra dará frutos o ano inteiro",
+          "Que os homens viverão para sempre",
+          "Que não haverá mais inverno"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-9-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "foram Sem, e Cão, e Jafé; e Cão é o pai de {0}.",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Sem",
+          "Jafé",
+          "Noé"
+        ]
+      },
+      {
+        "id": "gen-9-mp-22",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Cão",
+            "right": "Viu a nudez do pai e contou aos irmãos"
+          },
+          {
+            "left": "Sem e Jafé",
+            "right": "Cobriram o pai sem olhar para ele"
+          },
+          {
+            "left": "Canaã",
+            "right": "Foi amaldiçoado por Noé"
+          },
+          {
+            "left": "Noé",
+            "right": "Plantou uma vinha e embebedou-se"
+          }
+        ]
+      },
+      {
+        "id": "gen-9-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "E viveu Noé, depois do {0}, trezentos e cinquenta anos.",
+        "blanks": [
+          "dilúvio"
+        ],
+        "distractors": [
+          "convênio",
+          "sacrifício",
+          "jardim"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "gen-10-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "De quem são as gerações listadas neste capítulo?",
+        "options": [
+          "Dos filhos de Noé",
+          "Dos filhos de Adão",
+          "Dos filhos de Abraão",
+          "Dos filhos de Jacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-10-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "E Cuxe gerou {0}; este começou a ser poderoso na terra.",
+        "blanks": [
+          "Ninrode"
+        ],
+        "distractors": [
+          "Mizraim",
+          "Canaã",
+          "Magogue"
+        ]
+      },
+      {
+        "id": "gen-10-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Ninrode, o caçador",
+        "text": "Ninrode é descrito como o primeiro homem 'poderoso na terra' e 'poderoso caçador diante do Senhor'. A tradição o associa à fundação de Babel e às primeiras grandes cidades de Sinear."
+      },
+      {
+        "id": "gen-10-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "saiu à Assíria e edificou {0}",
+        "blanks": [
+          "Nínive"
+        ],
+        "distractors": [
+          "Babel",
+          "Sodoma",
+          "Gomorra"
+        ]
+      },
+      {
+        "id": "gen-10-mp-15",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Jafé",
+            "right": "Gomer"
+          },
+          {
+            "left": "Cão",
+            "right": "Cuxe"
+          },
+          {
+            "left": "Sem",
+            "right": "Elão"
+          },
+          {
+            "left": "Cuxe",
+            "right": "Ninrode"
+          }
+        ]
+      },
+      {
+        "id": "gen-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Segundo o versículo 21, Sem é apresentado como o pai de todos os filhos de quem?",
+        "options": [
+          "Éber",
+          "Canaã",
+          "Javã",
+          "Arã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-10-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "o nome de um foi {0}, porquanto em seus dias se repartiu a terra",
+        "blanks": [
+          "Pelegue"
+        ],
+        "distractors": [
+          "Joctã",
+          "Arfaxade",
+          "Salá"
+        ]
+      },
+      {
+        "id": "gen-10-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Conforme o versículo final, quando as nações foram divididas na terra a partir dos filhos de Noé?",
+        "options": [
+          "Depois do dilúvio",
+          "Antes da Criação",
+          "Durante o cativeiro no Egito",
+          "Depois do êxodo"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "gen-11-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Tijolo e betume",
+        "text": "Sem pedra na planície de Sinear, os construtores usaram tijolos cozidos e betume (asfalto) como argamassa — materiais típicos da arquitetura mesopotâmica antiga."
+      },
+      {
+        "id": "gen-11-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "edifiquemos para nós uma cidade e uma {0} cujo cume toque nos céus",
+        "blanks": [
+          "torre"
+        ],
+        "distractors": [
+          "muralha",
+          "ponte",
+          "fortaleza"
+        ]
+      },
+      {
+        "id": "gen-11-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Por isso se chamou o seu nome {0}, porquanto ali confundiu o Senhor a língua de toda a terra",
+        "blanks": [
+          "Babel"
+        ],
+        "distractors": [
+          "Sinear",
+          "Canaã",
+          "Nínive"
+        ]
+      },
+      {
+        "id": "gen-11-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "A quem a genealogia destes versículos liga a humanidade pós-dilúvio?",
+        "options": [
+          "A Sem, filho de Noé",
+          "A Cão, filho de Noé",
+          "A Jafé, filho de Noé",
+          "A Caim, filho de Adão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-11-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Qual é o propósito desta lista de gerações em Gênesis 11?",
+        "options": [
+          "Ligar Sem a Terá, pai de Abrão",
+          "Descrever a construção do templo",
+          "Nomear os reis da Babilônia",
+          "Listar os doze filhos de Jacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-11-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "E viveu Terá, setenta anos, e gerou {0}, Naor, e Harã.",
+        "blanks": [
+          "Abrão"
+        ],
+        "distractors": [
+          "Ló",
+          "Sem",
+          "Arfaxade"
+        ]
+      },
+      {
+        "id": "gen-11-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Ur dos caldeus",
+        "text": "Harã morreu em Ur dos caldeus, a cidade natal da família de Terá no sul da Mesopotâmia, de onde partiriam rumo a Canaã."
+      },
+      {
+        "id": "gen-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "o nome da mulher de Abrão era {0}, e o nome da mulher de Naor era Milca",
+        "blanks": [
+          "Sarai"
+        ],
+        "distractors": [
+          "Milca",
+          "Iscá",
+          "Agar"
+        ]
+      },
+      {
+        "id": "gen-11-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Abrão",
+            "right": "Filho de Terá"
+          },
+          {
+            "left": "Ló",
+            "right": "Filho de Harã"
+          },
+          {
+            "left": "Sarai",
+            "right": "Mulher de Abrão"
+          },
+          {
+            "left": "Canaã",
+            "right": "Terra de destino"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "gen-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Um chamado para deixar tudo",
+        "text": "Deus pede a Abrão que deixe três coisas: sua terra, sua parentela e a casa de seu pai. Era um rompimento total com o passado para seguir uma promessa ainda não vista."
+      },
+      {
+        "id": "gen-12-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "e saíram para ir {0}; e foram à terra de Canaã.",
+        "blanks": [
+          "à terra de Canaã"
+        ],
+        "distractors": [
+          "à terra do Egito",
+          "à terra de Harã",
+          "à terra de Siquém"
+        ]
+      },
+      {
+        "id": "gen-12-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Quando o Senhor apareceu a Abrão em Canaã, o que prometeu dar à sua semente?",
+        "options": [
+          "Esta terra",
+          "Grandes riquezas",
+          "Um exército",
+          "Uma cidade fortificada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-12-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "e {0}, para morar ali, porquanto a fome era grande na terra.",
+        "blanks": [
+          "desceu Abrão ao Egito"
+        ],
+        "distractors": [
+          "desceu Abrão a Canaã",
+          "desceu Abrão a Betel",
+          "desceu Abrão a Harã"
+        ]
+      },
+      {
+        "id": "gen-12-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Abrão",
+            "right": "Patriarca chamado por Deus"
+          },
+          {
+            "left": "Sarai",
+            "right": "Mulher de Abrão"
+          },
+          {
+            "left": "Faraó",
+            "right": "Rei do Egito"
+          },
+          {
+            "left": "Canaã",
+            "right": "Terra prometida à semente de Abrão"
+          }
+        ]
+      },
+      {
+        "id": "gen-12-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "{0} com grandes pragas, por causa de Sarai, mulher de Abrão.",
+        "blanks": [
+          "Porém o Senhor feriu Faraó e a sua casa"
+        ],
+        "distractors": [
+          "Porém o Senhor feriu Abrão e a sua casa",
+          "Porém o Senhor feriu Sarai e a sua casa",
+          "Porém o Senhor feriu Ló e a sua casa"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "gen-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A riqueza de Abrão",
+        "text": "O texto descreve Abrão como muito rico em gado, prata e ouro. Essa prosperidade material acabou gerando a disputa por pastagens que o levaria a se separar de Ló."
+      },
+      {
+        "id": "gen-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Abrão invocou ali o nome do {0}.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "altar",
+          "Egito",
+          "gado"
+        ]
+      },
+      {
+        "id": "gen-13-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Por que Abrão pediu a Ló que não houvesse contenda entre eles?",
+        "options": [
+          "Porque somos irmãos",
+          "Porque a terra era pequena",
+          "Porque Ló era mais velho",
+          "Porque o Senhor o ordenou"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-13-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Então Ló escolheu para si toda a campina do {0}",
+        "blanks": [
+          "Jordão"
+        ],
+        "distractors": [
+          "Egito",
+          "oriente",
+          "sul"
+        ]
+      },
+      {
+        "id": "gen-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "eram maus os homens de {0}, e grandes pecadores contra o Senhor",
+        "blanks": [
+          "Sodoma"
+        ],
+        "distractors": [
+          "Canaã",
+          "Betel",
+          "Hebrom"
+        ]
+      },
+      {
+        "id": "gen-13-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Ló",
+            "right": "Escolheu a campina do Jordão"
+          },
+          {
+            "left": "Abrão",
+            "right": "Habitou nos carvalhais de Manre"
+          },
+          {
+            "left": "Sodoma",
+            "right": "Cidade de homens maus"
+          },
+          {
+            "left": "Senhor",
+            "right": "Prometeu a terra à semente de Abrão"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "gen-14-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Todos esses se ajuntaram no vale de {0}",
+        "blanks": [
+          "Sidim"
+        ],
+        "distractors": [
+          "Seir",
+          "Belá",
+          "Zoar"
+        ]
+      },
+      {
+        "id": "gen-14-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Após vencerem a batalha no vale de Sidim, o que os reis vencedores levaram de Sodoma e de Gomorra?",
+        "options": [
+          "Todos os bens e o mantimento das cidades",
+          "Apenas os reis prisioneiros",
+          "Somente os animais dos campos",
+          "As pedras dos muros das cidades"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "armou os seus criados, nascidos em sua casa, {0}, e os perseguiu até Dã",
+        "blanks": [
+          "trezentos e dezoito"
+        ],
+        "distractors": [
+          "quatrocentos e trinta",
+          "seiscentos e sessenta",
+          "cento e vinte"
+        ]
+      },
+      {
+        "id": "gen-14-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "O primeiro dizimo",
+        "text": "Melquisedeque, rei de Salém, e a primeira pessoa chamada de sacerdote nas Escrituras, e Abraão lhe entrega o dizimo (a decima parte) de tudo que recuperou — o registro biblico mais antigo dessa pratica."
+      },
+      {
+        "id": "gen-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "E Melquisedeque, rei de {0}, trouxe pão e vinho",
+        "blanks": [
+          "Salém"
+        ],
+        "distractors": [
+          "Sodoma",
+          "Gomorra",
+          "Elão"
+        ]
+      },
+      {
+        "id": "gen-14-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Melquisedeque",
+            "right": "Rei de Salém e sacerdote do Deus Altíssimo"
+          },
+          {
+            "left": "Lo",
+            "right": "Sobrinho de Abraão, levado cativo de Sodoma"
+          },
+          {
+            "left": "Quedorlaomer",
+            "right": "Rei de Elão que liderou os quatro reis"
+          },
+          {
+            "left": "Abraão",
+            "right": "Resgatou os cativos e pagou o dizimo"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "gen-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "\"Eu sou o teu escudo\"",
+        "text": "Esta é a primeira vez em que a expressão \"a palavra do Senhor veio\" aparece na Bíblia, fórmula que mais tarde marcaria as mensagens recebidas pelos profetas."
+      },
+      {
+        "id": "gen-15-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Olha agora para os céus e conta as {0}, se as podes contar",
+        "blanks": [
+          "estrelas"
+        ],
+        "distractors": [
+          "nuvens",
+          "areias",
+          "aves"
+        ]
+      },
+      {
+        "id": "gen-15-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Eu sou o Senhor, que te tirei de Ur dos {0}",
+        "blanks": [
+          "caldeus"
+        ],
+        "distractors": [
+          "amorreus",
+          "heteus",
+          "cananeus"
+        ]
+      },
+      {
+        "id": "gen-15-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "e afligi-los-ão {0} anos",
+        "blanks": [
+          "quatrocentos"
+        ],
+        "distractors": [
+          "quarenta",
+          "setenta",
+          "trezentos"
+        ]
+      },
+      {
+        "id": "gen-15-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "No convênio do versículo 18, até que grande rio o Senhor promete estender a terra dada à descendência de Abrão?",
+        "options": [
+          "O rio Eufrates",
+          "O rio Jordão",
+          "O rio Nilo",
+          "O rio Tigre"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "gen-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma serva do Egito",
+        "text": "Agar era egípcia, provavelmente trazida da estada de Abrão no Egito. Seu filho Ismael é tido como ancestral de muitos povos árabes."
+      },
+      {
+        "id": "gen-16-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "ela tinha uma serva {0}",
+        "blanks": [
+          "egípcia"
+        ],
+        "distractors": [
+          "cananeia",
+          "assíria",
+          "babilônica"
+        ]
+      },
+      {
+        "id": "gen-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Por quanto tempo Abrão já habitava em Canaã quando Sarai lhe deu Agar por mulher?",
+        "options": [
+          "Dez anos",
+          "Quarenta anos",
+          "Sete anos",
+          "Cem anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "junto à fonte no caminho de {0}",
+        "blanks": [
+          "Sur"
+        ],
+        "distractors": [
+          "Cades",
+          "Berede",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-16-mp-8",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Agar",
+            "right": "Serva egípcia que fugiu ao deserto"
+          },
+          {
+            "left": "Sarai",
+            "right": "Esposa de Abrão, sem filhos"
+          },
+          {
+            "left": "Anjo do Senhor",
+            "right": "Achou Agar junto à fonte"
+          }
+        ]
+      },
+      {
+        "id": "gen-16-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Segundo o anjo, por que o filho de Agar receberia o nome de Ismael?",
+        "options": [
+          "Porque o Senhor ouviu a sua aflição",
+          "Porque seria o primogênito de Sarai",
+          "Porque nasceria no Egito",
+          "Porque herdaria toda a terra de Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-16-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Por isso se chama aquele {0} Beer-Laai-Roi",
+        "blanks": [
+          "poço"
+        ],
+        "distractors": [
+          "monte",
+          "deserto",
+          "altar"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "gen-17-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O Deus Todo-Poderoso",
+        "text": "No versículo 1, Deus se apresenta a Abrão como \"o Deus Todo-Poderoso\". No hebraico o título é El Shaddai, usado pela primeira vez nas escrituras justamente aqui, ao firmar o convênio com Abrão."
+      },
+      {
+        "id": "gen-17-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Eu sou o Deus Todo-Poderoso, anda em minha presença e sê {0}.",
+        "blanks": [
+          "perfeito"
+        ],
+        "distractors": [
+          "humilde",
+          "obediente",
+          "fiel"
+        ]
+      },
+      {
+        "id": "gen-17-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Qual novo nome o Senhor dá a Abrão no versículo 5?",
+        "options": [
+          "Abraão",
+          "Isaque",
+          "Ismael",
+          "Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-17-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "toda a terra de {0} em perpétua possessão",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Assíria",
+          "Babilônia"
+        ]
+      },
+      {
+        "id": "gen-17-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "O filho de oito dias, pois, será {0}, todo filho homem nas vossas gerações",
+        "blanks": [
+          "circuncidado"
+        ],
+        "distractors": [
+          "abençoado",
+          "consagrado",
+          "purificado"
+        ]
+      },
+      {
+        "id": "gen-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "não chamarás mais pelo nome de Sarai, mas {0} será o seu nome",
+        "blanks": [
+          "Sara"
+        ],
+        "distractors": [
+          "Agar",
+          "Rebeca",
+          "Raquel"
+        ]
+      },
+      {
+        "id": "gen-17-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Qual o nome do filho que Deus promete a Abraão por meio de Sara?",
+        "options": [
+          "Isaque",
+          "Ismael",
+          "Jacó",
+          "José"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-17-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "E era Abraão da idade de noventa e nove anos quando lhe foi {0} a carne do seu prepúcio.",
+        "blanks": [
+          "circuncidada"
+        ],
+        "distractors": [
+          "lavada",
+          "ungida",
+          "marcada"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "gen-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Hospitalidade do deserto",
+        "text": "Ao ver os três visitantes, Abraão corre para recebê-los, oferece água para lavar os pés e prepara uma refeição com vitela, manteiga e leite. Esse zelo retrata a hospitalidade sagrada do antigo Oriente Próximo, em que acolher o forasteiro era um dever de honra."
+      },
+      {
+        "id": "gen-18-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Depois, apareceu-lhe o Senhor nos carvalhais de {0}, estando ele assentado à porta da tenda",
+        "blanks": [
+          "Manre"
+        ],
+        "distractors": [
+          "Sodoma",
+          "Gomorra",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "E Abraão apressou-se em ir ter com {0} à tenda, e disse-lhe: Amassa depressa três medidas de flor de farinha",
+        "blanks": [
+          "Sara"
+        ],
+        "distractors": [
+          "Hagar",
+          "Rebeca",
+          "Lia"
+        ]
+      },
+      {
+        "id": "gen-18-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Assim, pois, {0} Sara consigo, dizendo: Terei ainda deleite depois de haver envelhecido",
+        "blanks": [
+          "riu-se"
+        ],
+        "distractors": [
+          "irou-se",
+          "alegrou-se",
+          "espantou-se"
+        ]
+      },
+      {
+        "id": "gen-18-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Que promessa o Senhor reafirma sobre Abraão neste trecho?",
+        "options": [
+          "Que ele se tornará uma grande e poderosa nação, e nele serão benditas todas as nações da terra",
+          "Que ele governará sobre o Egito por muitos anos",
+          "Que ele edificará uma cidade chamada Manre",
+          "Que ele jamais conhecerá a tristeza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-18-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Disse mais o Senhor: Porquanto o clamor de Sodoma e {0} se multiplicou",
+        "blanks": [
+          "Gomorra"
+        ],
+        "distractors": [
+          "Manre",
+          "Canaã",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-18-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Não faria justiça o {0} de toda a terra?",
+        "blanks": [
+          "Juiz"
+        ],
+        "distractors": [
+          "Rei",
+          "Servo",
+          "Pastor"
+        ]
+      },
+      {
+        "id": "gen-18-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "E disse: Não a destruirei por causa dos {0}",
+        "blanks": [
+          "dez"
+        ],
+        "distractors": [
+          "vinte",
+          "trinta",
+          "quarenta"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "gen-19-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E chegaram dois anjos a Sodoma à tarde, e estava Ló assentado à porta de {0}",
+        "blanks": [
+          "Sodoma"
+        ],
+        "distractors": [
+          "Gomorra",
+          "Zoar",
+          "Hebrom"
+        ]
+      },
+      {
+        "id": "gen-19-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Hospitalidade sagrada",
+        "text": "No antigo Oriente Próximo, receber e proteger o hóspede era um dever sagrado. Ló oferece sua casa aos anjos e os defende, ao contrário dos homens de Sodoma."
+      },
+      {
+        "id": "gen-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Porque nós vamos {0} este lugar, porque o seu clamor aumentou diante da face do Senhor",
+        "blanks": [
+          "destruir"
+        ],
+        "distractors": [
+          "abençoar",
+          "edificar",
+          "povoar"
+        ]
+      },
+      {
+        "id": "gen-19-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "A mão da misericórdia",
+        "text": "Quando Ló hesita, os anjos o tomam pela mão junto com sua família e o conduzem para fora da cidade, descrito como um ato da misericórdia do Senhor."
+      },
+      {
+        "id": "gen-19-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Escapa por tua vida; não olhes para {0} de ti, e não pares em toda esta campina",
+        "blanks": [
+          "trás"
+        ],
+        "distractors": [
+          "frente",
+          "cima",
+          "longe"
+        ]
+      },
+      {
+        "id": "gen-19-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Por isso se chamou o nome da cidade {0}.",
+        "blanks": [
+          "Zoar"
+        ],
+        "distractors": [
+          "Sodoma",
+          "Gomorra",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Então o Senhor fez chover sobre Sodoma e Gomorra {0} e fogo do Senhor desde os céus",
+        "blanks": [
+          "enxofre"
+        ],
+        "distractors": [
+          "maná",
+          "orvalho",
+          "granizo"
+        ]
+      },
+      {
+        "id": "gen-19-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "E a mulher de Ló olhou para trás dele, e ficou convertida numa estátua de {0}.",
+        "blanks": [
+          "sal"
+        ],
+        "distractors": [
+          "pedra",
+          "barro",
+          "ferro"
+        ]
+      },
+      {
+        "id": "gen-19-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Segundo o versículo 29, por que Deus tirou Ló do meio da destruição das cidades da campina?",
+        "options": [
+          "Porque Deus se lembrou de Abraão",
+          "Porque Ló construiu um altar",
+          "Porque Ló pagou um resgate",
+          "Porque Ló era rei de Zoar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-19-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "E a primogênita deu à luz um filho, e chamou o seu nome Moabe; esse é o pai dos {0}, até o dia de hoje.",
+        "blanks": [
+          "moabitas"
+        ],
+        "distractors": [
+          "egípcios",
+          "filisteus",
+          "edomitas"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "gen-20-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sara como irmã, de novo",
+        "text": "Esta é a segunda vez que Abraão apresenta Sara como irmã para se proteger; ele já havia feito o mesmo diante de Faraó, no Egito (Gênesis 12). Por isso, no versículo 13, ele explica que combinara essa atitude com Sara em toda terra aonde chegassem."
+      },
+      {
+        "id": "gen-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "habitou entre Cades e Sur, e peregrinou em {0}",
+        "blanks": [
+          "Gerar"
+        ],
+        "distractors": [
+          "Sodoma",
+          "Hebrom",
+          "Betel"
+        ]
+      },
+      {
+        "id": "gen-20-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Como Deus adverte Abimeleque sobre Sara?",
+        "options": [
+          "Num sonho à noite",
+          "Por meio de um anjo ao meio-dia",
+          "Numa coluna de fogo",
+          "Pela boca de Abraão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "restitui a mulher ao seu marido, porque {0} é, e rogará por ti",
+        "blanks": [
+          "profeta"
+        ],
+        "distractors": [
+          "sacerdote",
+          "rei",
+          "juiz"
+        ]
+      },
+      {
+        "id": "gen-20-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Por que Abraão disse que Sara era sua irmã?",
+        "options": [
+          "Achava que não havia temor de Deus naquele lugar e que o matariam por causa dela",
+          "Para que Abimeleque a libertasse",
+          "Porque havia esquecido que ela era sua mulher",
+          "Porque Deus lhe ordenara mentir"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Segundo o versículo 12, qual era o parentesco verdadeiro entre Abraão e Sara?",
+        "options": [
+          "Ela era filha do pai dele, mas não da mãe",
+          "Eram primos de primeiro grau",
+          "Não tinham nenhum parentesco",
+          "Ela era sobrinha de Abraão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Vês que dei ao teu irmão mil moedas de {0}",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "ouro",
+          "bronze",
+          "cobre"
+        ]
+      },
+      {
+        "id": "gen-20-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Abimeleque",
+            "right": "Rei de Gerar que tomou Sara"
+          },
+          {
+            "left": "Abraão",
+            "right": "Profeta que orou para que fossem curados"
+          },
+          {
+            "left": "Sara",
+            "right": "Mulher de Abraão, restituída ao marido"
+          },
+          {
+            "left": "Gerar",
+            "right": "Cidade onde Abraão peregrinou"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "gen-21-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E chamou Abraão o nome de seu filho que lhe nascera, que Sara lhe dera, {0}.",
+        "blanks": [
+          "Isaque"
+        ],
+        "distractors": [
+          "Ismael",
+          "Abimeleque",
+          "Ficol"
+        ]
+      },
+      {
+        "id": "gen-21-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Cem anos de espera",
+        "text": "Abraão tinha cem anos quando Isaque nasceu. O nome Isaque significa \"ele ri\", lembrando o riso de Sara ao saber que teria um filho na velhice."
+      },
+      {
+        "id": "gen-21-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quem Sara viu zombando, levando-a a pedir que fosse expulso?",
+        "options": [
+          "O filho de Agar, a egípcia",
+          "O próprio Isaque",
+          "Abimeleque",
+          "Ficol"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "No deserto, o que Deus fez quando o menino chorava de sede?",
+        "options": [
+          "Ouviu a voz do moço e enviou seu anjo para confortar Agar",
+          "Mandou chuva sobre o deserto",
+          "Fez Abraão voltar para buscá-los",
+          "Levou-os de volta ao Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Ergue-te, levanta o moço, e pega-o pela mão, porque dele farei uma grande {0}.",
+        "blanks": [
+          "nação"
+        ],
+        "distractors": [
+          "cidade",
+          "serva",
+          "aliança"
+        ]
+      },
+      {
+        "id": "gen-21-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Quem procurou Abraão dizendo \"Deus é contigo em tudo o que fazes\"?",
+        "options": [
+          "Abimeleque, com Ficol, chefe do seu exército",
+          "Agar e Ismael",
+          "Faraó e seus príncipes",
+          "Ló e os homens de Sodoma"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "E tomou Abraão ovelhas e vacas, e deu-as a Abimeleque; e ambos fizeram uma {0}.",
+        "blanks": [
+          "aliança"
+        ],
+        "distractors": [
+          "nação",
+          "cidade",
+          "guerra"
+        ]
+      },
+      {
+        "id": "gen-21-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Abraão pôs à parte como testemunho diante de Abimeleque?",
+        "options": [
+          "Sete cordeiras do rebanho",
+          "Sete odres de água",
+          "Sete poços cavados",
+          "Sete servos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Por isso se chamou aquele lugar {0}, porquanto ambos juraram ali.",
+        "blanks": [
+          "Berseba"
+        ],
+        "distractors": [
+          "Parã",
+          "Sodoma",
+          "Canaã"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "gen-22-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "O que Deus quis fazer com Abraão ao pedir-lhe o sacrifício de seu filho?",
+        "options": [
+          "Pô-lo à prova",
+          "Castigá-lo por um pecado",
+          "Recompensá-lo com riquezas",
+          "Ensiná-lo a caçar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Por que Moriá?",
+        "text": "Abraão foi enviado à terra de Moriá; a tradição associa esse monte ao lugar onde mais tarde Salomão edificaria o templo em Jerusalém."
+      },
+      {
+        "id": "gen-22-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "oferece-o ali em holocausto sobre uma das {0}",
+        "blanks": [
+          "montanhas"
+        ],
+        "distractors": [
+          "cidades",
+          "planícies",
+          "cavernas"
+        ]
+      },
+      {
+        "id": "gen-22-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "O que Isaque perguntou ao pai, ao notar que faltava algo para o holocausto?",
+        "options": [
+          "Onde estava o cordeiro",
+          "Onde estava o altar",
+          "Quem acenderia o fogo",
+          "Quando voltariam para casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Por que o anjo impediu Abraão de ferir o moço?",
+        "options": [
+          "Porque Abraão mostrara que temia a Deus",
+          "Porque o cutelo estava cego",
+          "Porque Isaque fugira",
+          "Porque já era noite"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "multiplicarei a tua semente como as {0} dos céus",
+        "blanks": [
+          "estrelas"
+        ],
+        "distractors": [
+          "nuvens",
+          "aves",
+          "folhas"
+        ]
+      },
+      {
+        "id": "gen-22-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Que notícia chegou a Abraão depois desses acontecimentos?",
+        "options": [
+          "Que Milca dera filhos a seu irmão Naor",
+          "Que Sara havia morrido",
+          "Que houve fome na terra",
+          "Que Isaque se casara"
+        ],
+        "answer": 0
+      }
+    ],
+    "23": [
+      {
+        "id": "gen-23-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sara, a única matriarca com a idade registrada",
+        "text": "Sara é a única mulher na Bíblia cuja idade ao morrer é registrada: cento e vinte e sete anos. Hebrom, onde ela morreu, tornou-se um lugar central na história dos patriarcas."
+      },
+      {
+        "id": "gen-23-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E morreu Sara em Quiriate-Arba, que é {0}, na terra de Canaã",
+        "blanks": [
+          "Hebrom"
+        ],
+        "distractors": [
+          "Sinear",
+          "Macpela",
+          "Manre"
+        ]
+      },
+      {
+        "id": "gen-23-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Que propriedade Abraão pediu a Efrom para usar como sepultura?",
+        "options": [
+          "A cova de Macpela",
+          "O carvalho de Moré",
+          "A torre de Babel",
+          "O poço de Berseba"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-23-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "a terra é de quatrocentos siclos de {0}",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "ouro",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "gen-23-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Abraão sepultou sua mulher Sara na cova do campo de {0}, em frente de Manre",
+        "blanks": [
+          "Macpela"
+        ],
+        "distractors": [
+          "Hebrom",
+          "Canaã",
+          "Sinear"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "gen-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O juramento sob a coxa",
+        "text": "Pôr a mão 'debaixo da coxa' era a forma solene de jurar entre os patriarcas, ligando a promessa à descendência e à linhagem da família."
+      },
+      {
+        "id": "gen-24-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Por que Abraão fez o servo jurar não tomar mulher para Isaque dentre as filhas dos cananeus?",
+        "options": [
+          "Porque os cananeus eram inimigos de guerra de Abraão",
+          "Porque Abraão queria mulher de sua própria terra e parentela",
+          "Porque as cananeias eram pobres demais",
+          "Porque o Senhor proibira o casamento naquela região"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "E o servo tomou {0} camelos, dos camelos do seu senhor",
+        "blanks": [
+          "dez"
+        ],
+        "distractors": [
+          "cinco",
+          "sete",
+          "vinte"
+        ]
+      },
+      {
+        "id": "gen-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Onde e quando o servo fez ajoelhar os camelos ao chegar?",
+        "options": [
+          "Dentro da cidade, ao amanhecer",
+          "Junto a um poço de água, à tarde",
+          "No mercado, ao meio-dia",
+          "Diante do templo, de noite"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "eis que Rebeca, que havia nascido a Betuel, filho de {0}",
+        "blanks": [
+          "Milca"
+        ],
+        "distractors": [
+          "Sara",
+          "Agar",
+          "Quetura"
+        ]
+      },
+      {
+        "id": "gen-24-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Que sinal o servo havia pedido para reconhecer a mulher escolhida, e que Rebeca cumpriu?",
+        "options": [
+          "Que ela tocasse harpa para ele",
+          "Que ela desse de beber a ele e também aos seus camelos",
+          "Que ela soubesse o nome de Abraão",
+          "Que ela lhe oferecesse ouro e prata"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Eu sou a filha de Betuel, filho de Milca, o qual ela deu a {0}",
+        "blanks": [
+          "Naor"
+        ],
+        "distractors": [
+          "Abraão",
+          "Isaque",
+          "Labão"
+        ]
+      },
+      {
+        "id": "gen-24-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E Rebeca tinha um irmão, cujo nome era {0}",
+        "blanks": [
+          "Labão"
+        ],
+        "distractors": [
+          "Naor",
+          "Betuel",
+          "Ismael"
+        ]
+      },
+      {
+        "id": "gen-24-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "O que o servo fez antes de aceitar a comida que puseram diante dele?",
+        "options": [
+          "Recusou comer até dizer as suas palavras",
+          "Comeu e depois dormiu",
+          "Pediu primeiro mais ouro",
+          "Exigiu ver o pai de Rebeca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-24-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "de maneira que foi engrandecido, e deu-lhe {0} e vacas, e prata e ouro",
+        "blanks": [
+          "ovelhas"
+        ],
+        "distractors": [
+          "camelos",
+          "jumentos",
+          "cabras"
+        ]
+      },
+      {
+        "id": "gen-24-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Segundo o servo, o que o Senhor enviaria adiante para fazer prosperar seu caminho?",
+        "options": [
+          "Um exército",
+          "O seu anjo",
+          "Uma estrela",
+          "Um sonho"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "Como Labão e Betuel responderam ao pedido do servo?",
+        "options": [
+          "Recusaram entregar Rebeca",
+          "Disseram que do Senhor procedeu o assunto",
+          "Exigiram mais presentes",
+          "Mandaram o servo embora"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-55",
+        "type": "multiple_choice",
+        "after_verse": 55,
+        "question": "O que o irmão e a mãe de Rebeca pediram ao servo quanto à partida?",
+        "options": [
+          "Que ela ficasse alguns dias, ao menos dez",
+          "Que partisse imediatamente",
+          "Que esperasse um ano",
+          "Que deixasse os presentes e fosse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-24-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "Ó nossa irmã, sê tu a mãe de {0} de milhares",
+        "blanks": [
+          "milhares"
+        ],
+        "distractors": [
+          "centenas",
+          "dezenas",
+          "milhões"
+        ]
+      },
+      {
+        "id": "gen-24-cur-63",
+        "type": "curiosity",
+        "after_verse": 63,
+        "title": "Isaque meditava no campo",
+        "text": "O versículo 63 mostra Isaque saindo 'a orar no campo, à tarde' quando avista os camelos — um raro vislumbre da vida devocional pessoal de Isaque."
+      },
+      {
+        "id": "gen-24-fb-67",
+        "type": "fill_blank",
+        "after_verse": 67,
+        "verse": 67,
+        "template": "E Isaque levou-a para a tenda de sua mãe {0}",
+        "blanks": [
+          "Sara"
+        ],
+        "distractors": [
+          "Rebeca",
+          "Milca",
+          "Agar"
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "gen-25-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Porém Abraão deu tudo o que tinha a {0};",
+        "blanks": [
+          "Isaque"
+        ],
+        "distractors": [
+          "Ismael",
+          "Jacó",
+          "Esaú"
+        ]
+      },
+      {
+        "id": "gen-25-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Herança e concubinas",
+        "text": "Embora Abraão tenha tido outros filhos por Quetura e pelas concubinas, ele deu toda a herança a Isaque, o filho da promessa, e enviou os demais para o oriente com presentes."
+      },
+      {
+        "id": "gen-25-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Com que idade Abraão morreu, segundo o versículo 7?",
+        "options": [
+          "Cento e setenta e cinco anos",
+          "Cento e trinta e sete anos",
+          "Cento e oitenta anos",
+          "Cento e vinte anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-25-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "a serva de Sara, {0}, a egípcia, deu a Abraão.",
+        "blanks": [
+          "Agar"
+        ],
+        "distractors": [
+          "Quetura",
+          "Rebeca",
+          "Sara"
+        ]
+      },
+      {
+        "id": "gen-25-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "quando tomou por sua mulher {0}",
+        "blanks": [
+          "Rebeca"
+        ],
+        "distractors": [
+          "Sara",
+          "Quetura",
+          "Agar"
+        ]
+      },
+      {
+        "id": "gen-25-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "e o maior servirá ao {0}.",
+        "blanks": [
+          "menor"
+        ],
+        "distractors": [
+          "primeiro",
+          "irmão",
+          "servo"
+        ]
+      },
+      {
+        "id": "gen-25-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Por que Esaú recebeu o nome de Edom?",
+        "options": [
+          "Por causa do guisado vermelho que pediu a Jacó",
+          "Porque era homem perito na caça",
+          "Porque nasceu primeiro que Jacó",
+          "Porque vendeu sua primogenitura"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-25-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Assim, desprezou Esaú a sua {0}.",
+        "blanks": [
+          "primogenitura"
+        ],
+        "distractors": [
+          "herança",
+          "bênção",
+          "velhice"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "gen-26-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Não desças ao {0}; habita na terra que eu te disser",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Gerar",
+          "Berseba",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-26-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Como Isaque apresentou Rebeca aos homens de Gerar, por temer que o matassem?",
+        "options": [
+          "Como sua irmã",
+          "Como sua esposa",
+          "Como sua serva",
+          "Como sua prima"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-26-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "colheu naquele mesmo ano cem medidas, porque o {0} o abençoava",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "faraó",
+          "rei",
+          "servo"
+        ]
+      },
+      {
+        "id": "gen-26-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "chamou o nome daquele poço {0}, porque contenderam com ele",
+        "blanks": [
+          "Eseque"
+        ],
+        "distractors": [
+          "Sitna",
+          "Reobote",
+          "Berseba"
+        ]
+      },
+      {
+        "id": "gen-26-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Os nomes dos poços contam a história",
+        "text": "Isaque deu aos poços nomes que registram o conflito e o alívio: Eseque significa 'contenda', Sitna 'inimizade' ou 'acusação', e Reobote 'lugares amplos', porque ali finalmente houve espaço para crescer em paz."
+      },
+      {
+        "id": "gen-26-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Eseque",
+            "right": "Poço da contenda"
+          },
+          {
+            "left": "Reobote",
+            "right": "Poço do espaço amplo"
+          },
+          {
+            "left": "Berseba",
+            "right": "Lugar do altar e do juramento"
+          },
+          {
+            "left": "Gerar",
+            "right": "Cidade dos filisteus"
+          }
+        ]
+      },
+      {
+        "id": "gen-26-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Por que Abimeleque e seus homens quiseram fazer um juramento e uma aliança com Isaque?",
+        "options": [
+          "Porque viram que o Senhor era com Isaque",
+          "Porque queriam tomar seus rebanhos",
+          "Porque ele lhes devia tributo",
+          "Porque pretendiam expulsá-lo de novo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-26-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "E chamou-o Seba; por isso é o nome daquela cidade {0} até o dia de hoje",
+        "blanks": [
+          "Berseba"
+        ],
+        "distractors": [
+          "Gerar",
+          "Reobote",
+          "Sitna"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "gen-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Isaque cego",
+        "text": "Isaque estava tão velho que seus olhos haviam escurecido e não podia ver; foi essa cegueira que tornou possivel o engano de Jacó."
+      },
+      {
+        "id": "gen-27-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que Isaque pediu a Esaú que fizesse antes de abençoá-lo?",
+        "options": [
+          "Apanhar caça e preparar um guisado saboroso",
+          "Trazer ouro do campo",
+          "Reunir o rebanho de cabras",
+          "Plantar trigo e mosto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-27-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Vai agora ao rebanho, e traze-me de lá dois bons {0} das cabras",
+        "blanks": [
+          "cabritos"
+        ],
+        "distractors": [
+          "cordeiros",
+          "novilhos",
+          "carneiros"
+        ]
+      },
+      {
+        "id": "gen-27-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Depois tomou Rebeca as melhores {0} de Esaú, seu filho mais velho",
+        "blanks": [
+          "vestes"
+        ],
+        "distractors": [
+          "armas",
+          "peles",
+          "cabras"
+        ]
+      },
+      {
+        "id": "gen-27-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "A voz é a voz de Jacó, porém as mãos são as mãos de {0}.",
+        "blanks": [
+          "Esaú"
+        ],
+        "distractors": [
+          "Isaque",
+          "Labão",
+          "Rebeca"
+        ]
+      },
+      {
+        "id": "gen-27-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "A bênção da fartura",
+        "text": "Na bênção, Isaque pede que Deus dê a Jacó o orvalho dos céus e a fartura da terra, com abundância de trigo e de mosto, sinais de prosperidade agrícola."
+      },
+      {
+        "id": "gen-27-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Orvalho dos céus",
+            "right": "Bênção de chuva e fertilidade"
+          },
+          {
+            "left": "Gorduras da terra",
+            "right": "Solo fértil e farto"
+          },
+          {
+            "left": "Trigo e mosto",
+            "right": "Abundância de colheita"
+          }
+        ]
+      },
+      {
+        "id": "gen-27-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "chegou seu irmão {0} da sua caça.",
+        "blanks": [
+          "Esaú"
+        ],
+        "distractors": [
+          "Jacó",
+          "Isaque",
+          "Labão"
+        ]
+      },
+      {
+        "id": "gen-27-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Segundo Esaú, quantas vezes Jacó o suplantou?",
+        "options": [
+          "Duas vezes",
+          "Uma vez",
+          "Três vezes",
+          "Sete vezes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-27-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "E Esaú {0} Jacó por causa daquela bênção",
+        "blanks": [
+          "odiou"
+        ],
+        "distractors": [
+          "abençoou",
+          "perdoou",
+          "obedeceu"
+        ]
+      },
+      {
+        "id": "gen-27-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "foge para junto de meu irmão Labão, em {0},",
+        "blanks": [
+          "Harã"
+        ],
+        "distractors": [
+          "Egito",
+          "Hebrom",
+          "Berseba"
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "gen-28-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Não tomes mulher dentre as filhas de {0}.",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Harã",
+          "Betel",
+          "Berseba"
+        ]
+      },
+      {
+        "id": "gen-28-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Ao perceber que as filhas de Canaã desagradavam a seu pai, de qual parente Esaú tomou uma esposa?",
+        "options": [
+          "Ismael",
+          "Labão",
+          "Betuel",
+          "Nebaiote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-28-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A escada de Jacó",
+        "text": "A visão de uma escada com anjos subindo e descendo entre a terra e os céus tornou-se uma das imagens mais lembradas do Antigo Testamento, simbolizando a ligação entre Deus e a humanidade."
+      },
+      {
+        "id": "gen-28-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "uma escada estava posta na terra, cujo topo tocava nos {0}",
+        "blanks": [
+          "céus"
+        ],
+        "distractors": [
+          "montes",
+          "campos",
+          "mares"
+        ]
+      },
+      {
+        "id": "gen-28-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "E chamou o nome daquele lugar {0}",
+        "blanks": [
+          "Betel"
+        ],
+        "distractors": [
+          "Harã",
+          "Berseba",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-28-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Betel",
+            "right": "Casa de Deus"
+          },
+          {
+            "left": "Padã-Arã",
+            "right": "Destino da viagem de Jacó"
+          },
+          {
+            "left": "Dízimo",
+            "right": "Décima parte prometida por Jacó"
+          }
+        ]
+      }
+    ],
+    "29": [
+      {
+        "id": "gen-29-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A pedra sobre o poço",
+        "text": "A grande pedra que cobria a boca do poço só era removida quando todos os rebanhos se ajuntavam; Jacó, sozinho, a revolveu ao ver Raquel, mostrando sua força e seu ânimo."
+      },
+      {
+        "id": "gen-29-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Meus irmãos, de onde sois? E disseram: Somos de {0}.",
+        "blanks": [
+          "Harã"
+        ],
+        "distractors": [
+          "Padã",
+          "Canaã",
+          "Mesopotâmia"
+        ]
+      },
+      {
+        "id": "gen-29-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Qual era a ocupação de Raquel quando chegou ao poço?",
+        "options": [
+          "Pastora das ovelhas de seu pai",
+          "Tecelã na casa de Labão",
+          "Aguadeira da cidade",
+          "Serva de Lia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-29-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E Jacó anunciou a Raquel que era irmão de seu pai, e que era filho de {0};",
+        "blanks": [
+          "Rebeca"
+        ],
+        "distractors": [
+          "Lia",
+          "Raquel",
+          "Zilpa"
+        ]
+      },
+      {
+        "id": "gen-29-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "o nome da mais velha era {0}, e o nome da mais nova, Raquel.",
+        "blanks": [
+          "Lia"
+        ],
+        "distractors": [
+          "Zilpa",
+          "Bila",
+          "Rebeca"
+        ]
+      },
+      {
+        "id": "gen-29-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "e disse: Sete anos te servirei por {0}, tua filha mais nova.",
+        "blanks": [
+          "Raquel"
+        ],
+        "distractors": [
+          "Lia",
+          "Rebeca",
+          "Zilpa"
+        ]
+      },
+      {
+        "id": "gen-29-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Quem Labão entregou a Jacó na noite do banquete, em vez de Raquel?",
+        "options": [
+          "Lia",
+          "Zilpa",
+          "Bila",
+          "Rebeca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-29-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "O enganador enganado",
+        "text": "Jacó, que enganara o pai para tomar a bênção do primogênito, é agora enganado por Labão, que entrega a filha mais velha no lugar da mais nova, alegando o costume local."
+      },
+      {
+        "id": "gen-29-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "amou também Raquel mais do que {0};",
+        "blanks": [
+          "Lia"
+        ],
+        "distractors": [
+          "Zilpa",
+          "Bila",
+          "Raquel"
+        ]
+      },
+      {
+        "id": "gen-29-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Rúben",
+            "right": "Primeiro filho de Lia"
+          },
+          {
+            "left": "Simeão",
+            "right": "O Senhor ouviu que ela era desprezada"
+          },
+          {
+            "left": "Levi",
+            "right": "Agora se ajuntará meu marido a mim"
+          },
+          {
+            "left": "Judá",
+            "right": "Esta vez louvarei ao Senhor"
+          }
+        ]
+      }
+    ],
+    "30": [
+      {
+        "id": "gen-30-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Por que Raquel teve inveja de sua irmã Lia?",
+        "options": [
+          "Porque Lia era mais bonita",
+          "Porque ela mesma não dava filhos a Jacó",
+          "Porque Lia tinha mais rebanhos",
+          "Porque Lia era a esposa preferida"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-30-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Filhos pelas servas",
+        "text": "No costume da época, uma esposa estéril podia dar sua serva ao marido e considerar os filhos dela como seus. Por isso Raquel entrega Bila a Jacó para ser edificada por ela."
+      },
+      {
+        "id": "gen-30-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Julgou-me Deus, e também ouviu a minha voz, e me deu um filho; por isso chamou o seu nome {0}.",
+        "blanks": [
+          "Dã"
+        ],
+        "distractors": [
+          "Naftali",
+          "Gade",
+          "Aser"
+        ]
+      },
+      {
+        "id": "gen-30-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "E foi Rúben nos dias da ceifa do trigo, e achou {0} no campo.",
+        "blanks": [
+          "mandrágoras"
+        ],
+        "distractors": [
+          "espinhos",
+          "videiras",
+          "espigas"
+        ]
+      },
+      {
+        "id": "gen-30-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Deus me deu a minha recompensa, pois dei minha serva ao meu marido; e chamou o seu nome {0}.",
+        "blanks": [
+          "Issacar"
+        ],
+        "distractors": [
+          "Zebulom",
+          "Aser",
+          "Gade"
+        ]
+      },
+      {
+        "id": "gen-30-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Qual foi o nome da filha que Lia deu à luz?",
+        "options": [
+          "Diná",
+          "Raquel",
+          "Bila",
+          "Zilpa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-30-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "O nascimento de José",
+        "text": "José, filho de Raquel, viria a ser vendido pelos irmãos e a salvar o Egito e a própria família da fome. Aqui Raquel já pede outro filho, que seria Benjamim."
+      },
+      {
+        "id": "gen-30-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Tenho visto sinais de que o {0} me abençoou por causa de ti.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "faraó",
+          "anjo",
+          "rei"
+        ]
+      },
+      {
+        "id": "gen-30-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Que animais Jacó pediu como seu salário ao passar pelo rebanho?",
+        "options": [
+          "Os primogênitos",
+          "Os salpicados, malhados e escuros",
+          "Os mais gordos",
+          "Os de lã branca"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-30-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Então tomou Jacó varas verdes de álamo, e de aveleira e de castanheiro, e descascou nelas riscas {0}, descobrindo a brancura que nas varas havia,",
+        "blanks": [
+          "brancas"
+        ],
+        "distractors": [
+          "verdes",
+          "escuras",
+          "vermelhas"
+        ]
+      },
+      {
+        "id": "gen-30-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Como o capítulo descreve a prosperidade de Jacó no fim?",
+        "options": [
+          "Ele ficou só com camelos e jumentos",
+          "Prosperou sobremaneira, com muitos rebanhos, servas, servos, camelos e jumentos",
+          "Ele deu todos os seus rebanhos a Labão",
+          "Ele continuou mais pobre que Labão"
+        ],
+        "answer": 1
+      }
+    ],
+    "31": [
+      {
+        "id": "gen-31-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A ordem do Senhor",
+        "text": "É o próprio Senhor quem manda Jacó voltar à terra de seus pais, prometendo: “eu serei contigo”. A partida de Jacó não é só fuga de Labão, mas obediência a um mandamento divino."
+      },
+      {
+        "id": "gen-31-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo Jacó (v. 7), quantas vezes Labão mudou o seu salário?",
+        "options": [
+          "Dez vezes",
+          "Sete vezes",
+          "Três vezes",
+          "Setenta vezes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "E disse-me o anjo de Deus em sonhos: {0}. E eu disse: Eis-me aqui.",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Labão",
+          "Isaque",
+          "Abraão"
+        ]
+      },
+      {
+        "id": "gen-31-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Eu sou o Deus de {0}, onde ungiste uma coluna, onde me fizeste um voto",
+        "blanks": [
+          "Betel"
+        ],
+        "distractors": [
+          "Canaã",
+          "Gileade",
+          "Sinear"
+        ]
+      },
+      {
+        "id": "gen-31-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "furtou Raquel os {0} que seu pai tinha.",
+        "blanks": [
+          "ídolos"
+        ],
+        "distractors": [
+          "rebanhos",
+          "camelos",
+          "servos"
+        ]
+      },
+      {
+        "id": "gen-31-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Em direção a qual montanha Jacó se dirigiu ao fugir (v. 21)?",
+        "options": [
+          "Gileade",
+          "Ararate",
+          "Seir",
+          "Moré"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Veio, porém, Deus a Labão, o arameu, num sonho à noite, e disse-lhe: Guarda-te que não fales a {0} nem bem nem mal.",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Raquel",
+          "Lia",
+          "Isaque"
+        ]
+      },
+      {
+        "id": "gen-31-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "De que Labão acusa Jacó no versículo 30?",
+        "options": [
+          "De ter furtado os seus deuses",
+          "De ter matado seus rebanhos",
+          "De ter destruído sua tenda",
+          "De ter raptado seus servos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "O ardil de Raquel",
+        "text": "Raquel escondera os ídolos na albarda do camelo e sentou-se sobre eles; ao alegar o “costume das mulheres”, impede que o pai a faça levantar para revistar. Por isso Labão revista toda a tenda sem nada achar."
+      },
+      {
+        "id": "gen-31-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Estes {0} anos eu estive contigo, as tuas ovelhas e as tuas cabras nunca abortaram",
+        "blanks": [
+          "vinte"
+        ],
+        "distractors": [
+          "quatorze",
+          "sete",
+          "trinta"
+        ]
+      },
+      {
+        "id": "gen-31-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "quatorze anos te servi por tuas duas filhas, e {0} anos por teu rebanho",
+        "blanks": [
+          "seis"
+        ],
+        "distractors": [
+          "dez",
+          "vinte",
+          "sete"
+        ]
+      },
+      {
+        "id": "gen-31-mp-47",
+        "type": "match_pairs",
+        "after_verse": 47,
+        "pairs": [
+          {
+            "left": "Galeede",
+            "right": "Nome dado por Jacó ao montão de pedras"
+          },
+          {
+            "left": "Jegar-Saaduta",
+            "right": "Nome dado por Labão ao mesmo montão"
+          },
+          {
+            "left": "Mispá",
+            "right": "Atalaia: “Atente o Senhor entre mim e ti”"
+          }
+        ]
+      },
+      {
+        "id": "gen-31-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "O Deus de Abraão, e o Deus de Naor, o Deus de seu pai julgue entre nós.",
+        "blanks": [
+          "Naor"
+        ],
+        "distractors": [
+          "Isaque",
+          "Labão",
+          "Jacó"
+        ]
+      }
+    ],
+    "32": [
+      {
+        "id": "gen-32-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Maanaim",
+        "text": "Ao ver os anjos de Deus, Jacó chamou o lugar de Maanaim, nome que significa 'dois acampamentos' ou 'dois exércitos' em hebraico."
+      },
+      {
+        "id": "gen-32-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E chamou o nome daquele lugar {0}.",
+        "blanks": [
+          "Maanaim"
+        ],
+        "distractors": [
+          "Seir",
+          "Edom",
+          "Peniel"
+        ]
+      },
+      {
+        "id": "gen-32-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "O que os mensageiros relataram a Jacó sobre Esaú?",
+        "options": [
+          "Que Esaú vinha encontrá-lo com quatrocentos homens",
+          "Que Esaú havia morrido em Seir",
+          "Que Esaú recusava qualquer presente",
+          "Que Esaú já havia perdoado tudo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-32-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Duzentas {0}, e vinte bodes; duzentas ovelhas, e vinte carneiros;",
+        "blanks": [
+          "cabras"
+        ],
+        "distractors": [
+          "vacas",
+          "camelas",
+          "jumentas"
+        ]
+      },
+      {
+        "id": "gen-32-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "e os seus onze filhos, e passou o vau de {0}.",
+        "blanks": [
+          "Jaboque"
+        ],
+        "distractors": [
+          "Jordão",
+          "Seir",
+          "Maanaim"
+        ]
+      },
+      {
+        "id": "gen-32-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Não se chamará mais o teu nome Jacó, mas {0}, pois como príncipe lutaste com Deus",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Esaú",
+          "Abraão",
+          "Isaque"
+        ]
+      },
+      {
+        "id": "gen-32-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "E chamou Jacó o nome daquele lugar {0}, porque dizia: Vi Deus face a face",
+        "blanks": [
+          "Peniel"
+        ],
+        "distractors": [
+          "Maanaim",
+          "Seir",
+          "Edom"
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "gen-33-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Como Jacó se aproximou de Esaú ao reencontrá-lo?",
+        "options": [
+          "Inclinando-se à terra sete vezes",
+          "Enviando primeiro um exército",
+          "Escondendo-se atrás das servas",
+          "Fugindo de volta para Padã-Arã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Um abraço no lugar da vingança",
+        "text": "Esaú jurara matar Jacó pela bênção tomada; aqui, porém, ele corre, abraça o irmão e chora com ele, mostrando que o medo de Jacó deu lugar ao perdão."
+      },
+      {
+        "id": "gen-33-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Como Jacó descreveu os filhos que Esaú viu com ele?",
+        "options": [
+          "Os filhos que Deus graciosamente deu a teu servo",
+          "Os servos que comprou no Egito",
+          "Os homens de guerra do seu exército",
+          "Os filhos de Hamor, pai de Siquém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Para qual lugar Esaú estava de volta e onde Jacó prometeu encontrá-lo?",
+        "options": [
+          "Seir",
+          "Sucote",
+          "Siquém",
+          "Padã-Arã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "chamou o nome daquele lugar {0}",
+        "blanks": [
+          "Sucote"
+        ],
+        "distractors": [
+          "Siquém",
+          "Seir",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-33-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "O que Jacó fez ao chegar são e salvo perto de Siquém?",
+        "options": [
+          "Levantou um altar e o chamou: Deus, o Deus de Israel",
+          "Construiu uma cidade fortificada",
+          "Cavou um poço de água",
+          "Plantou uma vinha"
+        ],
+        "answer": 0
+      }
+    ],
+    "34": [
+      {
+        "id": "gen-34-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A única filha nomeada de Jacó",
+        "text": "Diná é a única filha de Jacó cujo nome é registrado nas escrituras. Ela era filha de Lia, a mesma esposa que deu a Jacó vários de seus filhos, entre eles Simeão e Levi, que vingam a irmã neste capítulo."
+      },
+      {
+        "id": "gen-34-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E saiu {0}, filha de Lia, que esta dera a Jacó, para ver as filhas da terra.",
+        "blanks": [
+          "Diná"
+        ],
+        "distractors": [
+          "Raquel",
+          "Rebeca",
+          "Sara"
+        ]
+      },
+      {
+        "id": "gen-34-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que os filhos de Jacó ficaram tão irados ao voltar do campo?",
+        "options": [
+          "Porque Siquém fizera doidice em Israel, deitando-se com a filha de Jacó",
+          "Porque Hamor havia roubado o gado deles",
+          "Porque Jacó os havia deserdado",
+          "Porque os heveus tinham incendiado o acampamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Qual condição os filhos de Jacó impuseram, enganosamente, para dar Diná em casamento?",
+        "options": [
+          "Que todo homem da cidade fosse circuncidado",
+          "Que entregassem todo o gado da cidade",
+          "Que os heveus deixassem a terra",
+          "Que pagassem um dote em ouro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Como Hamor e Siquém convenceram os homens da cidade a aceitar a proposta?",
+        "options": [
+          "Dizendo que ficariam com o gado e os bens daquela família",
+          "Prometendo-lhes ouro do tesouro de Jacó",
+          "Ameaçando expulsá-los da cidade",
+          "Oferecendo-lhes terras no Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "os dois filhos de Jacó, Simeão e Levi, irmãos de Diná, tomaram cada um a sua {0}, e entraram afoitamente na cidade",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "lança",
+          "flecha",
+          "funda"
+        ]
+      },
+      {
+        "id": "gen-34-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Diná",
+            "right": "Filha de Jacó e Lia"
+          },
+          {
+            "left": "Siquém",
+            "right": "Filho de Hamor, o heveu"
+          },
+          {
+            "left": "Simeão e Levi",
+            "right": "Irmãos que vingaram Diná"
+          },
+          {
+            "left": "Hamor",
+            "right": "Pai de Siquém"
+          }
+        ]
+      }
+    ],
+    "35": [
+      {
+        "id": "gen-35-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Os deuses estranhos enterrados",
+        "text": "Antes de subir a Betel para adorar, Jacó mandou a família abandonar os ídolos e brincos; ele os enterrou debaixo do carvalho em Siquém, um gesto de purificação antes de encontrar-se com Deus."
+      },
+      {
+        "id": "gen-35-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "e Jacó os escondeu debaixo do carvalho que está junto a {0}",
+        "blanks": [
+          "Siquém"
+        ],
+        "distractors": [
+          "Betel",
+          "Hebrom",
+          "Belém"
+        ]
+      },
+      {
+        "id": "gen-35-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Em Betel, Deus muda o nome de Jacó. Qual passa a ser o seu novo nome?",
+        "options": [
+          "Israel",
+          "Benjamim",
+          "Esaú",
+          "Isaque"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-35-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "uma coluna de pedra; e derramou sobre ela uma libação, e deitou sobre ela {0}",
+        "blanks": [
+          "azeite"
+        ],
+        "distractors": [
+          "água",
+          "sangue",
+          "vinho"
+        ]
+      },
+      {
+        "id": "gen-35-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "chamou o seu nome Benoni; mas seu pai o chamou {0}",
+        "blanks": [
+          "Benjamim"
+        ],
+        "distractors": [
+          "Rúben",
+          "José",
+          "Simeão"
+        ]
+      },
+      {
+        "id": "gen-35-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Segundo o final do versículo 22, quantos eram os filhos de Jacó?",
+        "options": [
+          "Doze",
+          "Dez",
+          "Sete",
+          "Quatro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-35-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Quantos anos viveu Isaque, segundo o versículo 28?",
+        "options": [
+          "Cento e oitenta",
+          "Cento e vinte",
+          "Novecentos e trinta",
+          "Setenta"
+        ],
+        "answer": 0
+      }
+    ],
+    "36": [
+      {
+        "id": "gen-36-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Esaú e Edom",
+        "text": "O nome 'Edom' significa 'vermelho', lembrando o guisado vermelho pelo qual Esaú vendeu seu direito de primogenitura, e tambem a regiao avermelhada de Seir onde seus descendentes se estabeleceram."
+      },
+      {
+        "id": "gen-36-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Esaú tomou suas mulheres das filhas de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Seir",
+          "Edom",
+          "Moabe"
+        ]
+      },
+      {
+        "id": "gen-36-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Por que Esaú se separou de seu irmão Jacó e foi para outra terra?",
+        "options": [
+          "Porque os bens de ambos eram muitos demais para habitarem juntos",
+          "Porque houve uma guerra entre os dois",
+          "Porque uma fome assolava a terra de Canaã",
+          "Porque Deus ordenou que se separassem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Portanto, Esaú habitou na montanha de {0}",
+        "blanks": [
+          "Seir"
+        ],
+        "distractors": [
+          "Canaã",
+          "Moabe",
+          "Midiã"
+        ]
+      },
+      {
+        "id": "gen-36-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Segundo o versiculo 12, quem foi o filho que Timna deu a Elifaz?",
+        "options": [
+          "Amaleque",
+          "Quenaz",
+          "Reuel",
+          "Naate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Que titulo recebem em Gênesis 36 os chefes que descenderam de Esaú?",
+        "options": [
+          "Príncipes",
+          "Sacerdotes",
+          "Juízes",
+          "Profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Estes são os filhos de Seir, o horeu, moradores daquela terra: Lotã, e Sobal, e Zibeão, e {0}",
+        "blanks": [
+          "Aná"
+        ],
+        "distractors": [
+          "Eser",
+          "Disã",
+          "Disom"
+        ]
+      },
+      {
+        "id": "gen-36-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "esse é o Aná que achou as fontes termais no deserto, quando apascentava os {0} de seu pai Zibeão",
+        "blanks": [
+          "jumentos"
+        ],
+        "distractors": [
+          "camelos",
+          "bois",
+          "cordeiros"
+        ]
+      },
+      {
+        "id": "gen-36-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "Os horeus de Seir",
+        "text": "Antes de Esaú, a montanha de Seir era habitada pelos horeus, um povo que os descendentes de Esaú gradualmente substituíram, conforme tambem recorda Deuteronômio 2."
+      },
+      {
+        "id": "gen-36-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Os reis listados reinaram em Edom 'antes que reinasse rei algum' sobre qual povo?",
+        "options": [
+          "Os filhos de Israel",
+          "Os cananeus",
+          "Os egipcios",
+          "Os filisteus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "E Bela, filho de Beor, reinou em {0}",
+        "blanks": [
+          "Edom"
+        ],
+        "distractors": [
+          "Seir",
+          "Moabe",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-36-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "Bela",
+            "right": "Dinabá"
+          },
+          {
+            "left": "Hadade",
+            "right": "Avite"
+          },
+          {
+            "left": "Hadar",
+            "right": "Pau"
+          }
+        ]
+      },
+      {
+        "id": "gen-36-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Com que afirmação Gênesis 36 encerra a lista dos príncipes de Edom?",
+        "options": [
+          "Esse é Esaú, pai de Edom",
+          "Esse é Jacó, pai de Israel",
+          "Esse é Seir, o horeu",
+          "Esse é Ismael, filho de Abraão"
+        ],
+        "answer": 0
+      }
+    ],
+    "37": [
+      {
+        "id": "gen-37-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A túnica de muitas cores",
+        "text": "A famosa túnica de José era uma veste longa e ornamentada, sinal de favoritismo e de que ele não faria o trabalho pesado do campo, o que aprofundou o ciúme dos irmãos."
+      },
+      {
+        "id": "gen-37-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "e fez-lhe uma túnica de várias {0}.",
+        "blanks": [
+          "cores"
+        ],
+        "distractors": [
+          "peles",
+          "joias",
+          "pedras"
+        ]
+      },
+      {
+        "id": "gen-37-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "No segundo sonho de José, o que se inclinava diante dele?",
+        "options": [
+          "O sol, a lua e onze estrelas",
+          "Onze molhos de trigo no campo",
+          "Doze ovelhas do rebanho de seu pai",
+          "As nuvens e os ventos do céu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Para onde Jacó enviou José à procura de seus irmãos e do rebanho?",
+        "options": [
+          "Siquém",
+          "Dotã",
+          "Hebrom",
+          "Gileade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "porque os ouvi dizer: Vamos a {0}.",
+        "blanks": [
+          "Dotã"
+        ],
+        "distractors": [
+          "Siquém",
+          "Hebrom",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-37-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "A caravana de ismaelitas que os irmãos avistaram levava suas mercadorias para qual destino?",
+        "options": [
+          "O Egito",
+          "Canaã",
+          "Dotã",
+          "Gileade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "e venderam José por vinte moedas de {0} aos ismaelitas",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "ouro",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "gen-37-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "Rúben",
+            "right": "Quis livrar José e devolvê-lo ao pai"
+          },
+          {
+            "left": "Judá",
+            "right": "Propôs vender José aos ismaelitas"
+          },
+          {
+            "left": "Túnica de várias cores",
+            "right": "Tingida em sangue de cabrito para enganar Jacó"
+          }
+        ]
+      },
+      {
+        "id": "gen-37-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "venderam-no no Egito a {0}, eunuco de Faraó",
+        "blanks": [
+          "Potifar"
+        ],
+        "distractors": [
+          "José",
+          "Judá",
+          "Rúben"
+        ]
+      }
+    ],
+    "38": [
+      {
+        "id": "gen-38-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E viu Judá ali a filha de um homem cananeu, cujo nome era {0}",
+        "blanks": [
+          "Sua"
+        ],
+        "distractors": [
+          "Hira",
+          "Er",
+          "Onã"
+        ]
+      },
+      {
+        "id": "gen-38-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Os três filhos de Judá",
+        "text": "Judá teve com a filha de Sua três filhos: Er, Onã e Selá. É a partir desse ramo cananeu que o capítulo desenvolve toda a sua trama familiar."
+      },
+      {
+        "id": "gen-38-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "O que Judá ordena a Onã que faça pela mulher de seu irmão morto?",
+        "options": [
+          "Que se case com ela e suscite semente a seu irmão",
+          "Que a mande embora para a casa do pai dela",
+          "Que ofereça um cabrito do rebanho em sacrifício",
+          "Que construa uma casa para ela em Timna"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-38-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Então disse Judá a Tamar sua nora: Permanece {0} na casa de teu pai, até que Selá, meu filho, seja grande.",
+        "blanks": [
+          "viúva"
+        ],
+        "distractors": [
+          "serva",
+          "prostituta",
+          "estrangeira"
+        ]
+      },
+      {
+        "id": "gen-38-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Eis que o teu sogro sobe a {0}, para tosquiar as suas ovelhas.",
+        "blanks": [
+          "Timna"
+        ],
+        "distractors": [
+          "Adulão",
+          "Quezibe",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "gen-38-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "E ela disse: O teu selo, e o teu cordão, e o {0} que está em tua mão.",
+        "blanks": [
+          "cajado"
+        ],
+        "distractors": [
+          "cabrito",
+          "manto",
+          "anel"
+        ]
+      },
+      {
+        "id": "gen-38-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Ao saber que Tamar estava grávida, o que Judá ordena que se faça com ela?",
+        "options": [
+          "Que seja tirada para fora e queimada",
+          "Que seja expulsa para a terra de Adulão",
+          "Que seja entregue por mulher a Selá",
+          "Que permaneça viúva na casa do pai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-38-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Perez",
+            "right": "Gêmeo que rompeu e saiu, embora o irmão tivesse posto a mão primeiro"
+          },
+          {
+            "left": "Zerá",
+            "right": "Gêmeo em cuja mão a parteira atou o fio de escarlate"
+          },
+          {
+            "left": "Tamar",
+            "right": "Mãe dos gêmeos, nora de Judá"
+          }
+        ]
+      }
+    ],
+    "39": [
+      {
+        "id": "gen-39-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "comprou-o da mão dos {0} que o tinham levado para lá.",
+        "blanks": [
+          "ismaelitas"
+        ],
+        "distractors": [
+          "midianitas",
+          "egípcios",
+          "hebreus"
+        ]
+      },
+      {
+        "id": "gen-39-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O Senhor estava com José",
+        "text": "Mesmo escravo em terra estrangeira, José prosperava porque o Senhor estava com ele; essa mesma frase reaparece no fim do capítulo, no cárcere, emoldurando toda a história."
+      },
+      {
+        "id": "gen-39-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Ao recusar a mulher de seu senhor, contra quem José disse que estaria pecando?",
+        "options": [
+          "Contra Deus",
+          "Contra Faraó",
+          "Contra os ismaelitas",
+          "Contra seus irmãos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-39-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E ele deixou a sua {0} na mão dela, e fugiu, e saiu para fora.",
+        "blanks": [
+          "roupa"
+        ],
+        "distractors": [
+          "capa",
+          "túnica",
+          "sandália"
+        ]
+      },
+      {
+        "id": "gen-39-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Veio a mim o servo {0}",
+        "blanks": [
+          "hebreu"
+        ],
+        "distractors": [
+          "egípcio",
+          "cananeu",
+          "sírio"
+        ]
+      },
+      {
+        "id": "gen-39-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "o entregou na casa do {0}",
+        "blanks": [
+          "cárcere"
+        ],
+        "distractors": [
+          "campo",
+          "templo",
+          "palácio"
+        ]
+      }
+    ],
+    "40": [
+      {
+        "id": "gen-40-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O copeiro do rei",
+        "text": "O copeiro-mor era um alto oficial que provava e servia o vinho do rei: um cargo de grande confiança na corte egípcia, pois protegia o monarca de envenenamento."
+      },
+      {
+        "id": "gen-40-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Quais dois servos do rei do Egito foram presos junto a José?",
+        "options": [
+          "O copeiro e o padeiro",
+          "O escriba e o soldado",
+          "O mordomo e o jardineiro",
+          "O ministro e o sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-40-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "E o copo de Faraó estava na minha mão, e eu tomava as {0}, e as espremia no copo de Faraó, e dava o copo na mão de Faraó.",
+        "blanks": [
+          "uvas"
+        ],
+        "distractors": [
+          "azeitonas",
+          "tâmaras",
+          "figos"
+        ]
+      },
+      {
+        "id": "gen-40-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Dentro ainda de três dias Faraó levantará a tua cabeça, e te restaurará ao teu {0}, e darás o copo de Faraó na sua mão, conforme o costume antigo, quando eras seu copeiro.",
+        "blanks": [
+          "cargo"
+        ],
+        "distractors": [
+          "trono",
+          "reino",
+          "palácio"
+        ]
+      },
+      {
+        "id": "gen-40-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Eu também sonhei, e eis que três {0} brancos estavam sobre a minha cabeça;",
+        "blanks": [
+          "cestos"
+        ],
+        "distractors": [
+          "cavalos",
+          "montes",
+          "rios"
+        ]
+      },
+      {
+        "id": "gen-40-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Como o copeiro-mor tratou José depois de ser restaurado ao seu ofício?",
+        "options": [
+          "Não se lembrou dele, mas esqueceu-se dele",
+          "Levou-o consigo até Faraó",
+          "Libertou-o da prisão",
+          "Deu-lhe metade de seus bens"
+        ],
+        "answer": 0
+      }
+    ],
+    "41": [
+      {
+        "id": "gen-41-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "ao fim de dois anos inteiros, {0} sonhou",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "José",
+          "Potífera",
+          "Manassés"
+        ]
+      },
+      {
+        "id": "gen-41-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Vacas que sobem do Nilo",
+        "text": "As sete vacas que sobem do rio refletem o Egito real: o gado pastava as margens do Nilo, cuja cheia anual determinava se haveria fartura ou fome. O sonho fala a linguagem do proprio Egito."
+      },
+      {
+        "id": "gen-41-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "eis que brotavam de uma haste sete {0} cheias e boas",
+        "blanks": [
+          "espigas"
+        ],
+        "distractors": [
+          "vacas",
+          "margens",
+          "cidades"
+        ]
+      },
+      {
+        "id": "gen-41-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Pela manhã, perturbado pelos sonhos, a quem Faraó mandou chamar primeiro?",
+        "options": [
+          "Os adivinhos e sábios do Egito",
+          "José, o hebreu",
+          "O copeiro-mor",
+          "Os sacerdotes de Om"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Quem o copeiro-mor descreveu como o jovem que interpretara os sonhos na prisão?",
+        "options": [
+          "Um jovem hebreu, servo do capitão da guarda",
+          "O padeiro-mor",
+          "Um sábio do Egito",
+          "Um sacerdote de Om"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Barbear-se para ver o rei",
+        "text": "Antes de ir a Faraó, José se barbeia e troca de roupa. Diferente dos hebreus, os egípcios prezavam o rosto raspado; o gesto mostra que José se apresenta segundo o costume da corte egípcia."
+      },
+      {
+        "id": "gen-41-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Não está em mim; {0} responderá com paz a Faraó",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "José",
+          "Faraó",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "gen-41-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Segundo José, de quem vinha a mensagem dos dois sonhos de Faraó?",
+        "options": [
+          "De Deus, que mostrava o que havia de fazer",
+          "Dos magos do Egito",
+          "Do próprio Faraó",
+          "Do copeiro-mor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "As sete vacas formosas são sete {0}",
+        "blanks": [
+          "anos"
+        ],
+        "distractors": [
+          "dias",
+          "cidades",
+          "rios"
+        ]
+      },
+      {
+        "id": "gen-41-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "procure Faraó agora um homem de discernimento e {0}",
+        "blanks": [
+          "sábio"
+        ],
+        "distractors": [
+          "forte",
+          "jovem",
+          "rico"
+        ]
+      },
+      {
+        "id": "gen-41-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "o fez vestir de roupas de linho fino, e pôs um colar de {0} no seu pescoço",
+        "blanks": [
+          "ouro"
+        ],
+        "distractors": [
+          "prata",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "gen-41-cur-42",
+        "type": "curiosity",
+        "after_verse": 42,
+        "title": "O anel, o linho e o colar",
+        "text": "O anel de Faraó, o linho fino e o colar de ouro eram insígnias reais do Egito. Ao entregá-los a José, Faraó o tornava vizir, o segundo homem do reino, abaixo apenas do trono."
+      },
+      {
+        "id": "gen-41-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "Que nome Faraó deu a José, e quem lhe deu por mulher?",
+        "options": [
+          "Zafenate-Paneia; Azenate, filha de Potífera",
+          "Manassés; Azenate, filha de Om",
+          "Efraim; a filha do copeiro-mor",
+          "Zafenate-Paneia; a filha do capitão da guarda"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "chamou José o nome do primogênito {0}",
+        "blanks": [
+          "Manassés"
+        ],
+        "distractors": [
+          "Efraim",
+          "Potífera",
+          "Azenate"
+        ]
+      },
+      {
+        "id": "gen-41-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "o nome do segundo chamou {0}",
+        "blanks": [
+          "Efraim"
+        ],
+        "distractors": [
+          "Manassés",
+          "Zafenate",
+          "Potífera"
+        ]
+      },
+      {
+        "id": "gen-41-mc-57",
+        "type": "multiple_choice",
+        "after_verse": 57,
+        "question": "Por que todas as terras vinham ao Egito comprar de José?",
+        "options": [
+          "A fome prevalecia em todas as terras",
+          "Havia guerra em Canaã",
+          "Faraó os convocou",
+          "O Nilo havia secado"
+        ],
+        "answer": 0
+      }
+    ],
+    "42": [
+      {
+        "id": "gen-42-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Então desceram os {0} irmãos de José, para comprarem trigo do Egito.",
+        "blanks": [
+          "dez"
+        ],
+        "distractors": [
+          "doze",
+          "três",
+          "cinco"
+        ]
+      },
+      {
+        "id": "gen-42-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Ao reconhecer os irmãos, do que José os acusou?",
+        "options": [
+          "De serem espias vindos para ver a nudez da terra",
+          "De terem roubado trigo dos celeiros",
+          "De não terem pago pelo mantimento",
+          "De terem fugido de Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Pela vida de {0}, não saireis daqui senão quando vosso irmão mais novo vier aqui.",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "José",
+          "Jacó",
+          "Rúben"
+        ]
+      },
+      {
+        "id": "gen-42-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "No terceiro dia, que razão José deu para deixá-los viver se obedecessem?",
+        "options": [
+          "Porque ele temia a Deus",
+          "Porque tinha pena da fome deles",
+          "Porque o Faraó assim ordenara",
+          "Porque eles eram de Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Falavam por intérprete",
+        "text": "Os irmãos não desconfiaram de José porque ele lhes falava por meio de um intérprete, escondendo que entendia perfeitamente o hebraico deles — foi assim que José ouviu, sem ser notado, a confissão de culpa dos irmãos pelo que lhe haviam feito."
+      },
+      {
+        "id": "gen-42-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Depois retornou a eles, e falou-lhes, e tomou {0} dentre eles, e amarrou-o perante os seus olhos.",
+        "blanks": [
+          "Simeão"
+        ],
+        "distractors": [
+          "Benjamim",
+          "Rúben",
+          "José"
+        ]
+      },
+      {
+        "id": "gen-42-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que os irmãos descobriram ao abrir os sacos no caminho de volta?",
+        "options": [
+          "Que o dinheiro deles fora devolvido dentro do saco",
+          "Que o trigo havia estragado",
+          "Que faltava um saco de trigo",
+          "Que José escondera ouro entre o trigo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Por que Jacó se recusou a deixar Benjamim descer ao Egito?",
+        "options": [
+          "Temia perdê-lo, pois já dera José por morto e Simeão estava preso",
+          "Benjamim era jovem demais para a viagem",
+          "Não confiava nos egípcios para vender trigo",
+          "Queria mandar Rúben em seu lugar"
+        ],
+        "answer": 0
+      }
+    ],
+    "43": [
+      {
+        "id": "gen-43-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A fome que moldou Israel",
+        "text": "A fome 'gravíssima' deste versículo é a mesma que José previra nos sonhos do faraó: sete anos de escassez que acabaram levando toda a família de Jacó a se mudar para o Egito."
+      },
+      {
+        "id": "gen-43-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Qual condição 'aquele homem' (José) impôs para que os irmãos voltassem a vê-lo?",
+        "options": [
+          "Que trouxessem o irmão deles consigo",
+          "Que pagassem em dobro pelo trigo",
+          "Que deixassem Simeão como refém para sempre",
+          "Que trouxessem o próprio pai Jacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-43-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Eu serei {0} por ele, da minha mão o requererás",
+        "blanks": [
+          "fiador"
+        ],
+        "distractors": [
+          "servo",
+          "mensageiro",
+          "escravo"
+        ]
+      },
+      {
+        "id": "gen-43-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que Israel mandou os filhos levarem ao homem do Egito como presente?",
+        "options": [
+          "Ouro e prata em abundância",
+          "Bálsamo, mel, especiarias, mirra, nozes e amêndoas",
+          "Rebanhos de ovelhas e bois",
+          "Vestes finas e tecidos"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-43-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Então temeram aqueles homens, porquanto foram levados à casa de {0}",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Benjamim",
+          "Judá",
+          "Simeão"
+        ]
+      },
+      {
+        "id": "gen-43-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "E trouxe-lhes para fora {0}",
+        "blanks": [
+          "Simeão"
+        ],
+        "distractors": [
+          "Benjamim",
+          "Judá",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gen-43-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Por que José apressou-se a entrar na câmara para chorar?",
+        "options": [
+          "Porque temia ser reconhecido",
+          "Porque suas entranhas comoveram-se por causa de seu irmão Benjamim",
+          "Porque estava com raiva dos irmãos",
+          "Porque recebera más notícias do pai"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-43-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "porém a porção de Benjamim era cinco vezes maior do que as porções deles todos",
+        "blanks": [
+          "cinco"
+        ],
+        "distractors": [
+          "duas",
+          "três",
+          "sete"
+        ]
+      }
+    ],
+    "44": [
+      {
+        "id": "gen-44-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Enche de {0} os sacos destes homens, quanto puderem levar",
+        "blanks": [
+          "mantimento"
+        ],
+        "distractors": [
+          "dinheiro",
+          "prata",
+          "trigo"
+        ]
+      },
+      {
+        "id": "gen-44-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O copo de adivinhação",
+        "text": "O copo de prata escondido no saco de Benjamim era ligado à hidromancia, prática egípcia de “ler” sinais na água de um copo; o texto a apresenta como parte do disfarce de José como autoridade egípcia."
+      },
+      {
+        "id": "gen-44-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "De que terra os irmãos dizem ter trazido de volta o dinheiro achado nos sacos?",
+        "options": [
+          "Canaã",
+          "Egito",
+          "Assíria",
+          "Babilônia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-44-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "e achou-se o copo no saco de {0}",
+        "blanks": [
+          "Benjamim"
+        ],
+        "distractors": [
+          "Judá",
+          "José",
+          "Rúben"
+        ]
+      },
+      {
+        "id": "gen-44-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "e não se acenda a tua ira contra o teu servo, porque tu és como {0}",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "José",
+          "Judá",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "gen-44-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Como os irmãos descrevem o pai e o irmão mais novo ao governador?",
+        "options": [
+          "Um pai velho e um filho da sua velhice",
+          "Um pai rico e um filho primogênito",
+          "Um pai sacerdote e um filho doente",
+          "Um pai morto e um filho órfão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-44-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "fareis descer as minhas {0} com dor à sepultura",
+        "blanks": [
+          "cãs"
+        ],
+        "distractors": [
+          "vestes",
+          "lágrimas",
+          "mãos"
+        ]
+      },
+      {
+        "id": "gen-44-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "fique teu servo em lugar desse moço por {0} de meu senhor",
+        "blanks": [
+          "escravo"
+        ],
+        "distractors": [
+          "amigo",
+          "filho",
+          "fiador"
+        ]
+      }
+    ],
+    "45": [
+      {
+        "id": "gen-45-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Um choro que atravessou o palácio",
+        "text": "O versículo 2 diz que José chorou tão alto que os egípcios e a casa de Faraó o ouviram — o emotivo reencontro repercutiu até dentro do palácio do faraó."
+      },
+      {
+        "id": "gen-45-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Ao se revelar, qual foi a primeira pergunta de José aos irmãos?",
+        "options": [
+          "Se o pai dele ainda estava vivo",
+          "Por que o haviam vendido",
+          "Onde estava Benjamim",
+          "Quanto trigo precisavam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-45-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "e como regente em toda a terra do {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Gósen",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gen-45-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E fazei saber a meu pai toda a minha {0} no Egito",
+        "blanks": [
+          "glória"
+        ],
+        "distractors": [
+          "fome",
+          "casa",
+          "voz"
+        ]
+      },
+      {
+        "id": "gen-45-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "mas a {0} deu trezentas peças de prata, e cinco mudas de roupa",
+        "blanks": [
+          "Benjamim"
+        ],
+        "distractors": [
+          "José",
+          "Faraó",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "gen-45-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "e foram à terra de {0}, a seu pai Jacó",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Gósen",
+          "Israel"
+        ]
+      }
+    ],
+    "46": [
+      {
+        "id": "gen-46-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Berseba, o lugar do altar",
+        "text": "Antes de deixar Canaã, Jacó para em Berseba e oferece sacrifícios ao Deus de seu pai Isaque. Era ali que Abraão e Isaque já haviam invocado o nome do Senhor, ligando a partida de Jacó à mesma aliança dos patriarcas."
+      },
+      {
+        "id": "gen-46-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que Deus promete a Jacó na visão antes de descer ao Egito?",
+        "options": [
+          "Que ali fará dele uma grande nação",
+          "Que nunca mais haverá fome",
+          "Que ele governará o Egito",
+          "Que voltará a Canaã em sete dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Eu descerei contigo ao {0}, e certamente te farei tornar a subir",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Berseba",
+          "Gósen"
+        ]
+      },
+      {
+        "id": "gen-46-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jacó e seus filhos: {0}, o primogênito de Jacó,",
+        "blanks": [
+          "Rúben"
+        ],
+        "distractors": [
+          "Simeão",
+          "Levi",
+          "Judá"
+        ]
+      },
+      {
+        "id": "gen-46-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Tradicionalmente, a quem se atribui a autoria do livro de Gênesis?",
+        "options": [
+          "A Moisés",
+          "A Josué",
+          "A Abraão",
+          "A Samuel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Esses são os filhos de {0}, que deu a Jacó em Padã-Arã",
+        "blanks": [
+          "Lia"
+        ],
+        "distractors": [
+          "Raquel",
+          "Zilpa",
+          "Bila"
+        ]
+      },
+      {
+        "id": "gen-46-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Os filhos de Raquel, mulher de Jacó: José e {0}.",
+        "blanks": [
+          "Benjamim"
+        ],
+        "distractors": [
+          "Rúben",
+          "Levi",
+          "Judá"
+        ]
+      },
+      {
+        "id": "gen-46-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Quantas almas da casa de Jacó entraram no Egito, segundo o capítulo?",
+        "options": [
+          "Setenta",
+          "Sessenta",
+          "Doze",
+          "Cem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "E enviou Judá adiante de si a José, para o encaminhar a {0}",
+        "blanks": [
+          "Gósen"
+        ],
+        "distractors": [
+          "Berseba",
+          "Canaã",
+          "Egito"
+        ]
+      },
+      {
+        "id": "gen-46-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "porque todo pastor de ovelhas é abominação aos {0}.",
+        "blanks": [
+          "egípcios"
+        ],
+        "distractors": [
+          "cananeus",
+          "hebreus",
+          "assírios"
+        ]
+      }
+    ],
+    "47": [
+      {
+        "id": "gen-47-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cinco irmãos diante de Faraó",
+        "text": "José escolheu apenas cinco de seus irmãos para apresentar a Faraó, deixando claro que eram pastores, ofício que os egípcios desprezavam, para garantir que ficassem isolados em Gósen."
+      },
+      {
+        "id": "gen-47-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "porquanto a fome é grave na terra de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Gósen",
+          "Egito",
+          "Ramessés"
+        ]
+      },
+      {
+        "id": "gen-47-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quantos anos Jacó disse ter vivido até aquele momento ao responder a Faraó?",
+        "options": [
+          "Cento e trinta anos",
+          "Cento e quarenta e sete anos",
+          "Dezessete anos",
+          "Setenta anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Então José recolheu todo o {0} que se achou na terra do Egito",
+        "blanks": [
+          "dinheiro"
+        ],
+        "distractors": [
+          "gado",
+          "trigo",
+          "pasto"
+        ]
+      },
+      {
+        "id": "gen-47-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Para quem José comprou toda a terra do Egito durante a fome?",
+        "options": [
+          "Para Faraó",
+          "Para seus irmãos",
+          "Para os sacerdotes",
+          "Para Jacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Qual terra José não comprou, pois seus donos recebiam uma ração de Faraó?",
+        "options": [
+          "A terra dos sacerdotes",
+          "A terra dos pastores",
+          "A terra de Gósen",
+          "A terra de Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "E Jacó viveu na terra do Egito {0} anos",
+        "blanks": [
+          "dezessete"
+        ],
+        "distractors": [
+          "trinta",
+          "sete",
+          "quarenta"
+        ]
+      },
+      {
+        "id": "gen-47-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Gósen",
+            "right": "Região onde Jacó e os filhos se estabeleceram"
+          },
+          {
+            "left": "Faraó",
+            "right": "Rei do Egito que acolheu a família de José"
+          },
+          {
+            "left": "Jacó",
+            "right": "Pai de José, que pediu para ser sepultado com seus pais"
+          },
+          {
+            "left": "Ramessés",
+            "right": "Melhor parte da terra dada à família"
+          }
+        ]
+      }
+    ],
+    "48": [
+      {
+        "id": "gen-48-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "os seus dois filhos, Manassés e {0}",
+        "blanks": [
+          "Efraim"
+        ],
+        "distractors": [
+          "Rúben",
+          "Simeão",
+          "José"
+        ]
+      },
+      {
+        "id": "gen-48-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Luz e El Shaddai",
+        "text": "Jacó relembra a aparição de Deus em Luz (mais tarde chamada Betel), onde recebeu a promessa da terra de Canaã. O título 'Deus Todo-Poderoso' traduz o hebraico 'El Shaddai'."
+      },
+      {
+        "id": "gen-48-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "morreu-me {0} na terra de Canaã",
+        "blanks": [
+          "Raquel"
+        ],
+        "distractors": [
+          "Lia",
+          "Rebeca",
+          "Sara"
+        ]
+      },
+      {
+        "id": "gen-48-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "O {0} que me redimiu de todo o mal",
+        "blanks": [
+          "anjo"
+        ],
+        "distractors": [
+          "profeta",
+          "servo",
+          "guardião"
+        ]
+      },
+      {
+        "id": "gen-48-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Segundo a bênção de Jacó, o que aconteceria com Efraim, o irmão mais novo?",
+        "options": [
+          "Seria maior que Manassés",
+          "Ficaria sem herança",
+          "Voltaria a Canaã sozinho",
+          "Seria escravo de Manassés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-48-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "que tomei com a minha espada e com o meu {0}",
+        "blanks": [
+          "arco"
+        ],
+        "distractors": [
+          "escudo",
+          "lança",
+          "punhal"
+        ]
+      }
+    ],
+    "49": [
+      {
+        "id": "gen-49-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "As bênçãos das doze tribos",
+        "text": "Gênesis 49 traz as últimas palavras de Jacó (Israel) aos seus doze filhos no leito de morte, no Egito; cada bênção profética molda o futuro de uma das tribos de Israel."
+      },
+      {
+        "id": "gen-49-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Como Jacó descreve Rúben no versículo 3?",
+        "options": [
+          "Seu primogênito, sua força e o princípio do seu vigor",
+          "Um leãozinho da presa",
+          "Um ramo frutífero junto à fonte",
+          "Um lobo que despedaça"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Simeão e Levi são {0}; as suas espadas são instrumentos de violência.",
+        "blanks": [
+          "irmãos"
+        ],
+        "distractors": [
+          "inimigos",
+          "servos",
+          "pastores"
+        ]
+      },
+      {
+        "id": "gen-49-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "{0}, a ti te louvarão os teus irmãos",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Rúben",
+          "Simeão",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "gen-49-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Segundo o versículo 10, o cetro não se arredará de Judá até que venha quem?",
+        "options": [
+          "Siló",
+          "Abraão",
+          "Efrom",
+          "Sidom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Zebulom habitará no porto dos mares, e será porto dos navios, e o seu termo se estenderá até {0}.",
+        "blanks": [
+          "Sidom"
+        ],
+        "distractors": [
+          "Canaã",
+          "Macpela",
+          "Manre"
+        ]
+      },
+      {
+        "id": "gen-49-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Imagens de animais",
+        "text": "Jacó compara várias tribos a animais: Judá a um leão, Issacar a um jumento de fortes ossos e Dã a uma serpente — figuras que descrevem o caráter de cada tribo."
+      },
+      {
+        "id": "gen-49-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "{0} julgará o seu povo, como uma das tribos de Israel.",
+        "blanks": [
+          "Dã"
+        ],
+        "distractors": [
+          "Gade",
+          "Aser",
+          "Naftali"
+        ]
+      },
+      {
+        "id": "gen-49-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que Jacó declara esperar no versículo 18?",
+        "options": [
+          "A salvação do Senhor",
+          "A morte dos inimigos",
+          "A herança da terra",
+          "O regresso de José"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "{0} é um ramo frutífero, ramo frutífero junto à fonte",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Rúben",
+          "Judá",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "gen-49-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "A pedra de Israel",
+        "text": "No versículo 24 Jacó chama Deus de 'o Valente de Jacó' e fala do 'pastor e a pedra de Israel', títulos divinos que os profetas associariam mais tarde ao Messias."
+      },
+      {
+        "id": "gen-49-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Benjamim é {0} que despedaça",
+        "blanks": [
+          "lobo"
+        ],
+        "distractors": [
+          "leão",
+          "serpente",
+          "jumento"
+        ]
+      },
+      {
+        "id": "gen-49-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que o versículo 28 diz que são todos os filhos abençoados?",
+        "options": [
+          "As doze tribos de Israel",
+          "Os reis do Egito",
+          "Os filhos de Abraão",
+          "Os profetas de Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Quem NÃO é citado no versículo 31 como sepultado na cova de Macpela?",
+        "options": [
+          "Raquel",
+          "Abraão",
+          "Isaque",
+          "Lia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Acabando, pois, {0} de dar mandamentos a seus filhos, encolheu os seus pés na cama",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Abraão",
+          "Isaque",
+          "José"
+        ]
+      }
+    ],
+    "50": [
+      {
+        "id": "gen-50-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E José ordenou aos seus servos, os médicos, que {0} seu pai",
+        "blanks": [
+          "embalsamassem"
+        ],
+        "distractors": [
+          "sepultassem",
+          "consolassem",
+          "abençoassem"
+        ]
+      },
+      {
+        "id": "gen-50-cur-1",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Embalsamamento egípcio",
+        "text": "Jacó foi embalsamado à maneira egípcia, um processo de mumificação que durava cerca de quarenta dias. O luto de setenta dias pelos egípcios mostra a alta honra que José tinha na corte de Faraó."
+      },
+      {
+        "id": "gen-50-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Como o texto descreve o cortejo que subiu com José para sepultar seu pai?",
+        "options": [
+          "Grandíssimo",
+          "Pequeno e discreto",
+          "Apenas seus irmãos",
+          "Somente os servos de Faraó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "e o sepultaram na cova do campo de {0}",
+        "blanks": [
+          "Macpela"
+        ],
+        "distractors": [
+          "Gósen",
+          "Canaã",
+          "Manre"
+        ]
+      },
+      {
+        "id": "gen-50-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "O que os irmãos de José temeram após a morte do pai?",
+        "options": [
+          "Que José os odiasse e retribuísse o mal que lhe fizeram",
+          "Que José os expulsasse de Gósen",
+          "Que José morresse logo",
+          "Que Faraó os escravizasse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Não temais, porque porventura estou eu em lugar de {0}?",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Faraó",
+          "Jacó",
+          "Abraão"
+        ]
+      },
+      {
+        "id": "gen-50-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "e viveu José cento e dez {0}",
+        "blanks": [
+          "anos"
+        ],
+        "distractors": [
+          "dias",
+          "meses",
+          "semanas"
+        ]
+      },
+      {
+        "id": "gen-50-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo José, qual foi o propósito de Deus ao permitir o mal que seus irmãos intentaram contra ele?",
+        "options": [
+          "Conservar a vida de um povo numeroso",
+          "Punir os irmãos",
+          "Enriquecer o Egito",
+          "Provar a fé de Jacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que José fez os filhos de Israel jurarem?",
+        "options": [
+          "Levar dali os seus ossos",
+          "Construir-lhe um túmulo no Egito",
+          "Voltar à corte de Faraó",
+          "Embalsamá-lo por setenta dias"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

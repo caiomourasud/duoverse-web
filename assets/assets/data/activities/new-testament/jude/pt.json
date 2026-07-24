@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "book": "jude",
+  "chapters": {
+    "1": [
+      {
+        "id": "jude-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Judas, irmão de Tiago",
+        "body": "O autor se apresenta como “servo de Jesus Cristo e irmão de Tiago” — tradicionalmente identificado como irmão do Senhor. Sua carta de um só capítulo conclama os crentes a “batalhar pela fé”."
+      },
+      {
+        "id": "jude-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "batalhar pela {0} que uma vez foi entregue aos santos",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "verdade",
+          "graça",
+          "lei"
+        ]
+      },
+      {
+        "id": "jude-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Quais cidades Judas cita como exemplo, “sofrendo a pena do fogo eterno” (v. 7)?",
+        "options": [
+          "Sodoma e Gomorra",
+          "Nínive e Tiro",
+          "Babilônia e Egito",
+          "Jericó e Ai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Miguel e o corpo de Moisés",
+        "body": "Somente Judas, na Bíblia, registra que Miguel, o arcanjo, “disputava a respeito do corpo de Moisés” com o diabo, dizendo apenas: “O Senhor te repreenda”."
+      },
+      {
+        "id": "jude-1-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Três que se desviaram (v. 11)",
+        "pairs": [
+          {
+            "left": "Caim",
+            "right": "por cujo caminho entraram"
+          },
+          {
+            "left": "Balaão",
+            "right": "por cujo erro foram levados, por galardão"
+          },
+          {
+            "left": "Coré",
+            "right": "por cuja contradição pereceram"
+          }
+        ]
+      },
+      {
+        "id": "jude-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "{0} errantes, para os quais está eternamente reservada a escuridão das trevas",
+        "blanks": [
+          "estrelas"
+        ],
+        "distractors": [
+          "nuvens",
+          "ondas",
+          "ventos"
+        ]
+      },
+      {
+        "id": "jude-1-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "A profecia de Enoque",
+        "body": "Judas é o único livro do Novo Testamento a citar uma profecia de Enoque, “o sétimo depois de Adão”, que predisse que o Senhor viria “com milhares de seus santos” para executar juízo."
+      },
+      {
+        "id": "jude-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Segundo o versículo 14, quem “profetizou” acerca desses ímpios, sendo “o sétimo depois de Adão”?",
+        "options": [
+          "Enoque",
+          "Noé",
+          "Moisés",
+          "Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Conservai-vos a vós mesmos no {0} de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "temor",
+          "favor",
+          "poder"
+        ]
+      }
+    ]
+  }
+}

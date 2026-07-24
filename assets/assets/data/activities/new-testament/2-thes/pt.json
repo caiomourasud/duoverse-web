@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "book": "2-thes",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-thes-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Quem são os remetentes desta carta à igreja dos tessalonicenses?",
+        "options": [
+          "Paulo, Silvano e Timóteo",
+          "Pedro e João",
+          "Tiago e Judas",
+          "Paulo e Barnabé"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Glória nas perseguições",
+        "text": "Paulo diz que se gloria desta igreja nas outras congregações por causa da paciência dela nas perseguições. A fidelidade sob pressão tornou-se um exemplo que ele compartilhava com os demais santos."
+      },
+      {
+        "id": "2-thes-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "porquanto a vossa fé {0} muitíssimo",
+        "blanks": [
+          "cresce"
+        ],
+        "distractors": [
+          "padece",
+          "descansa",
+          "obedece"
+        ]
+      },
+      {
+        "id": "2-thes-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "quando se manifestar o Senhor Jesus desde o {0} com os anjos do seu poder",
+        "blanks": [
+          "céu"
+        ],
+        "distractors": [
+          "fogo",
+          "reino",
+          "templo"
+        ]
+      },
+      {
+        "id": "2-thes-1-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Aos que vos atribulam",
+            "right": "tribulação em paga"
+          },
+          {
+            "left": "A vós, que sois atribulados",
+            "right": "descanso conosco"
+          },
+          {
+            "left": "O Senhor Jesus manifestado do céu",
+            "right": "como labareda de fogo"
+          },
+          {
+            "left": "Os que não obedecem ao evangelho",
+            "right": "vingança"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "2-thes-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Um falso alarme",
+        "text": "Alguns santos haviam sido perturbados por rumores — talvez por uma carta falsa atribuída a Paulo — de que o dia de Cristo já estava perto. Paulo escreve para acalmá-los e corrigir o engano."
+      },
+      {
+        "id": "2-thes-2-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que Paulo lembra aos santos no versículo 5?",
+        "options": [
+          "Que ele já lhes dizia essas coisas quando estava com eles",
+          "Que eles deviam jejuar antes da vinda",
+          "Que ele nunca lhes havia ensinado isso",
+          "Que outro apóstolo os visitaria em breve"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "se manifeste o homem do pecado, o filho da {0}",
+        "blanks": [
+          "perdição"
+        ],
+        "distractors": [
+          "iniquidade",
+          "mentira",
+          "injustiça"
+        ]
+      },
+      {
+        "id": "2-thes-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "o qual o Senhor desfará pelo {0} da sua boca",
+        "blanks": [
+          "espírito"
+        ],
+        "distractors": [
+          "poder",
+          "esplendor",
+          "engano"
+        ]
+      },
+      {
+        "id": "2-thes-2-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Antes do dia de Cristo virá",
+            "right": "a apostasia"
+          },
+          {
+            "left": "O Senhor desfará o iníquo com",
+            "right": "o espírito da sua boca"
+          },
+          {
+            "left": "Os santos devem estar",
+            "right": "firmes"
+          },
+          {
+            "left": "Deus escolheu os santos para",
+            "right": "a salvação"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-thes-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Orai por nós",
+        "text": "Mesmo sendo o autor da carta, Paulo pede que os santos orem por ele, para que a palavra do Senhor 'tenha livre curso' e seja glorificada. Ele via a oração mútua como essencial para o avanço do evangelho."
+      },
+      {
+        "id": "2-thes-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo Paulo, de que os santos precisavam ser livres?",
+        "options": [
+          "De homens dissolutos e maus",
+          "Das leis de Moisés",
+          "Da pobreza material",
+          "Dos cobradores de impostos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Mas fiel é o Senhor, que vos confortará, e guardará do {0}.",
+        "blanks": [
+          "maligno"
+        ],
+        "distractors": [
+          "pão",
+          "Senhor",
+          "irmão"
+        ]
+      },
+      {
+        "id": "2-thes-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Paulo trabalhava",
+            "right": "noite e dia"
+          },
+          {
+            "left": "Comeu o pão de ninguém",
+            "right": "de graça"
+          },
+          {
+            "left": "Não queria ser",
+            "right": "pesado a vós"
+          },
+          {
+            "left": "Deu-se a si mesmo como",
+            "right": "exemplo"
+          }
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "que se alguém não quiser {0}, não coma também.",
+        "blanks": [
+          "trabalhar"
+        ],
+        "distractors": [
+          "orar",
+          "comer",
+          "obedecer"
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E vós, irmãos, não vos canseis de fazer o {0}.",
+        "blanks": [
+          "bem"
+        ],
+        "distractors": [
+          "pão",
+          "mal",
+          "trabalho"
+        ]
+      },
+      {
+        "id": "2-thes-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Como Paulo encerra a epístola para dar autenticidade a ela?",
+        "options": [
+          "Com sua saudação de próprio punho",
+          "Com o selo de um apóstolo",
+          "Pedindo silêncio aos santos",
+          "Citando a lei de Moisés"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

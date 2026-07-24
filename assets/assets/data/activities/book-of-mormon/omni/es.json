@@ -1,0 +1,205 @@
+{
+ "schema_version": 1,
+ "book": "omni",
+ "chapters": {
+  "1": [
+   {
+    "id": "omni-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Una confesión poco común",
+    "text": "Omni se llama a sí mismo con franqueza ‘inicuo’, alguien que no había guardado los mandamientos como debía — una autoevaluación inusualmente honesta de un escriba, en un libro que pasará por cinco escritores distintos."
+   },
+   {
+    "id": "omni-1-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "la parte más {0} de los nefitas fue destruida",
+    "blanks": [
+     "inicua"
+    ],
+    "distractors": [
+     "justa",
+     "fiel",
+     "humilde"
+    ]
+   },
+   {
+    "id": "omni-1-mc-6",
+    "after_verse": 6,
+    "type": "multiple_choice",
+    "question": "¿Qué palabra del Señor dijo Amarón que se cumplió cuando los nefitas inicuos fueron destruidos?",
+    "options": [
+     "‘Si no guardáis mis mandamientos, no prosperaréis en la tierra’",
+     "‘Nunca te dejaré ni te abandonaré’",
+     "‘Mía es la venganza’",
+     "‘Pedid y recibiréis’"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "yo, {0}, soy hijo de Quemis",
+    "blanks": [
+     "Abinadom"
+    ],
+    "distractors": [
+     "Amarón",
+     "Amalekí",
+     "Omni"
+    ]
+   },
+   {
+    "id": "omni-1-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Advertido por el Señor, ¿a dónde condujo Mosíah a los que quisieron escuchar?",
+    "options": [
+     "Fuera de la tierra de Nefi, hasta la tierra de Zarahemla",
+     "De vuelta por el mar a Jerusalén",
+     "A la tierra del norte",
+     "A la tierra de los lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "las planchas de {0} que contenían los anales de los judíos",
+    "blanks": [
+     "bronce"
+    ],
+    "distractors": [
+     "oro",
+     "hierro",
+     "plata"
+    ]
+   },
+   {
+    "id": "omni-1-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "El pueblo de Zarahemla",
+    "text": "Amalekí revela que el pueblo de Zarahemla había salido de Jerusalén cuando el rey Sedequías fue llevado cautivo a Babilonia (hacia 587 a.C.) — un segundo grupo procedente de Jerusalén, más tarde llamado los mulekitas, que había perdido sus anales y su idioma."
+   },
+   {
+    "id": "omni-1-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "Mosíah fue nombrado para ser su {0}",
+    "blanks": [
+     "rey"
+    ],
+    "distractors": [
+     "juez",
+     "profeta",
+     "sacerdote"
+    ]
+   },
+   {
+    "id": "omni-1-mc-20",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "¿Cómo interpretó Mosíah los grabados de la gran piedra que le llevaron?",
+    "options": [
+     "Por el don y poder de Dios",
+     "Con las planchas de bronce",
+     "Preguntando al pueblo de Zarahemla",
+     "Usando el idioma de los lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "vivió con ellos por el término de nueve {0}",
+    "blanks": [
+     "lunas"
+    ],
+    "distractors": [
+     "estrellas",
+     "años",
+     "semanas"
+    ]
+   },
+   {
+    "id": "omni-1-cur-22",
+    "after_verse": 22,
+    "type": "curiosity",
+    "title": "Un vistazo de los jareditas",
+    "text": "La piedra grabada hablaba de Coriántumr, cuyos ‘primeros padres vinieron de la torre’ cuando el Señor confundió el lenguaje — la referencia más antigua a los jareditas, cuya historia completa se da después, en el libro de Éter."
+   },
+   {
+    "id": "omni-1-mc-25",
+    "after_verse": 25,
+    "type": "multiple_choice",
+    "question": "Al no tener hijos, ¿a quién entregó Amalekí las planchas?",
+    "options": [
+     "Al rey Benjamín, un varón justo ante el Señor",
+     "A su propio hijo mayor",
+     "Al escriba Quemis",
+     "Al pueblo de Zarahemla por votación"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "ofrecedle vuestras {0} enteras como ofrenda",
+    "blanks": [
+     "almas"
+    ],
+    "distractors": [
+     "vidas",
+     "mentes",
+     "fuerzas"
+    ]
+   },
+   {
+    "id": "omni-1-cur-30",
+    "after_verse": 30,
+    "type": "curiosity",
+    "title": "Las planchas menores están llenas",
+    "text": "Amalekí concluye señalando que ‘estas planchas están llenas’ y, sin descendientes, las entrega al rey Benjamín. Así se cierran las planchas menores de Nefi — el libro siguiente, Palabras de Mormón, enlaza con el compendio de Mormón."
+   },
+   {
+    "id": "omni-1-mp-30",
+    "type": "match_pairs",
+    "after_verse": 30,
+    "pairs": [
+     {
+      "left": "Omni",
+      "right": "Combatió por los nefitas; se llamó a sí mismo inicuo"
+     },
+     {
+      "left": "Amarón",
+      "right": "Escribió sobre la destrucción de los nefitas más inicuos"
+     },
+     {
+      "left": "Quemis",
+      "right": "Escribió en el mismo libro que su hermano"
+     },
+     {
+      "left": "Abinadom",
+      "right": "No sabía de revelación más allá de lo escrito"
+     },
+     {
+      "left": "Amalekí",
+      "right": "Habló de Mosíah y dio las planchas al rey Benjamín"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "schema_version": 1,
+ "book": "w-of-m",
+ "chapters": {
+  "1": [
+   {
+    "id": "w-of-m-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "entregar nas mãos de meu filho {0} o registro",
+    "blanks": [
+     "Morôni"
+    ],
+    "distractors": [
+     "Mosias",
+     "Néfi",
+     "Alma"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Uma voz de mil anos depois",
+    "text": "Mórmon escreve esta ponte como quase testemunha ocular da destruição dos nefitas, cerca de quatro séculos depois de Cristo — quase mil anos após o início das placas menores. Dirige-a a seu filho Morôni, que sobreviveria a toda a sua nação."
+   },
+   {
+    "id": "w-of-m-1-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "Enquanto resumia as placas de Néfi, o que Mórmon encontrou?",
+    "options": [
+     "Placas menores com as palavras dos profetas, de Jacó ao rei Benjamim",
+     "Um mapa da terra prometida",
+     "A espada de Labão",
+     "Um registro dos jareditas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "E faço isto com um {0} propósito",
+    "blanks": [
+     "sábio"
+    ],
+    "distractors": [
+     "secreto",
+     "santo",
+     "oculto"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "‘Com um sábio propósito’",
+    "text": "Mórmon acrescenta as placas menores a seu registro ‘com um sábio propósito’ que não compreende plenamente, movido pelo Espírito. Os leitores modernos associam isto à perda de 116 páginas do manuscrito, que o relato sobreposto das placas menores depois substituiu."
+   },
+   {
+    "id": "w-of-m-1-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "O que o rei Benjamim fez com as placas que Amaléqui lhe entregou?",
+    "options": [
+     "Pôs juntamente com as outras placas transmitidas pelos reis",
+     "Enterrou-as na terra",
+     "Enviou-as aos lamanitas",
+     "Fundiu-as para aproveitar o metal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-mc-11",
+    "after_verse": 11,
+    "type": "multiple_choice",
+    "question": "Por que Mórmon tem certeza de que os registros serão preservados?",
+    "options": [
+     "Grandes coisas estão escritas neles, pelas quais seu povo será julgado no último dia",
+     "São feitos de ouro que não enferruja",
+     "Nenhum inimigo sabe onde estão escondidos",
+     "Os reis fizeram um juramento de guardá-los"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "com a espada de {0}",
+    "blanks": [
+     "Labão"
+    ],
+    "distractors": [
+     "Néfi",
+     "Leí",
+     "Mosias"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "A espada de Labão retorna",
+    "text": "O rei Benjamim combate ‘com a espada de Labão’ — a mesma espada que Néfi tomou em Jerusalém séculos antes (1 Néfi 4), agora transmitida com a realeza e empunhada na defesa dos nefitas."
+   },
+   {
+    "id": "w-of-m-1-mc-16",
+    "after_verse": 16,
+    "type": "multiple_choice",
+    "question": "O que aconteceu entre o povo antes de o rei Benjamim estabelecer a paz?",
+    "options": [
+     "Falsos Cristos, profetas e mestres foram castigados por seus crimes",
+     "Os lamanitas se converteram num só dia",
+     "Um grande templo foi construído em Zaraenla",
+     "O povo escolheu um novo idioma"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "governou seu povo com {0}",
+    "blanks": [
+     "retidão"
+    ],
+    "distractors": [
+     "paz",
+     "sabedoria",
+     "misericórdia"
+    ]
+   },
+   {
+    "id": "w-of-m-1-mp-18",
+    "type": "match_pairs",
+    "after_verse": 18,
+    "pairs": [
+     {
+      "left": "Mórmon",
+      "right": "Resumiu as placas e escreveu este livro"
+     },
+     {
+      "left": "Morôni",
+      "right": "Filho de Mórmon, que terminaria o registro"
+     },
+     {
+      "left": "Amaléqui",
+      "right": "Deu as placas menores ao rei Benjamim"
+     },
+     {
+      "left": "Rei Benjamim",
+      "right": "Rei santo que restabeleceu a paz"
+     }
+    ]
+   }
+  ]
+ }
+}

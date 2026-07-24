@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "book": "gal",
+  "chapters": {
+    "1": [
+      {
+        "id": "gal-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Apóstolo por Cristo, não por homens",
+        "text": "Paulo abre a carta defendendo sua autoridade apostólica: ela não veio de homens, mas diretamente de Jesus Cristo e de Deus Pai. Esse ponto é central para tudo o que ele dirá em Gálatas."
+      },
+      {
+        "id": "gal-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Segundo o versículo 4, por que Cristo se deu a si mesmo?",
+        "options": [
+          "Por nossos pecados, para nos livrar do presente mundo perverso",
+          "Para abolir o sacerdócio",
+          "Para estabelecer um reino terreno",
+          "Para condenar os gentios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-1-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Mas, ainda que nós mesmos, ou um {0} do céu vos anuncie outro evangelho, além do que já vos anunciamos, seja anátema.",
+        "blanks": [
+          "anjo"
+        ],
+        "distractors": [
+          "apóstolo",
+          "irmão",
+          "servo"
+        ]
+      },
+      {
+        "id": "gal-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Como Paulo diz ter recebido o evangelho que prega?",
+        "options": [
+          "Aprendendo dos outros apóstolos",
+          "Pela revelação de Jesus Cristo",
+          "Pelas tradições de seus pais",
+          "Lendo as escrituras dos judeus"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-1-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Do perseguidor ao pregador",
+        "text": "Antes de sua conversão, Paulo (Saulo) perseguia ferozmente a igreja de Deus. Aqui ele recorda esse passado para mostrar que só uma intervenção divina poderia tê-lo transformado em apóstolo."
+      },
+      {
+        "id": "gal-1-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Nem subi a Jerusalém, para ter com os que já antes de mim eram apóstolos, mas parti para a {0}, e voltei outra vez a Damasco.",
+        "blanks": [
+          "Arábia"
+        ],
+        "distractors": [
+          "Síria",
+          "Cilícia",
+          "Judeia"
+        ]
+      },
+      {
+        "id": "gal-1-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Galácia",
+            "right": "Região onde estavam as igrejas destinatárias"
+          },
+          {
+            "left": "Pedro",
+            "right": "Apóstolo que Paulo visitou em Jerusalém"
+          },
+          {
+            "left": "Tiago",
+            "right": "Irmão do Senhor"
+          },
+          {
+            "left": "Anátema",
+            "right": "Maldição contra quem prega outro evangelho"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "gal-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "subi outra vez a {0} com Barnabé",
+        "blanks": [
+          "Jerusalém"
+        ],
+        "distractors": [
+          "Antioquia",
+          "Galácia",
+          "Damasco"
+        ]
+      },
+      {
+        "id": "gal-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Tito, o grego",
+        "text": "Tito era um cristão de origem grega (gentio). O fato de não ter sido obrigado a circuncidar-se tornou-se uma prova viva de que os gentios eram aceitos por meio da fé, sem a lei de Moisés."
+      },
+      {
+        "id": "gal-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quem eram considerados \"colunas\" da Igreja e estenderam a Paulo a destra da comunhão?",
+        "options": [
+          "Tiago, Cefas e João",
+          "Pedro, André e Filipe",
+          "Mateus, Marcos e Lucas",
+          "Estêvão, Filipe e Barnabé"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Onde Paulo resistiu a Pedro face a face por ele ser repreensível?",
+        "options": [
+          "Antioquia",
+          "Jerusalém",
+          "Roma",
+          "Éfeso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Justificação",
+            "right": "Vem pela fé em Jesus Cristo"
+          },
+          {
+            "left": "Obras da lei",
+            "right": "Não justificam carne alguma"
+          },
+          {
+            "left": "Lei de Moisés",
+            "right": "O que os judaizantes exigiam dos gentios"
+          },
+          {
+            "left": "Liberdade em Cristo",
+            "right": "O que Paulo defendia"
+          }
+        ]
+      },
+      {
+        "id": "gal-2-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Já estou crucificado com Cristo; e vivo, não mais eu, mas {0} vive em mim",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Pedro",
+          "Barnabé",
+          "Deus"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "gal-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Os gálatas",
+        "text": "A Galácia era uma região no centro da Ásia Menor (atual Turquia). Paulo escreve com forte emoção, chamando os crentes de 'insensatos' por abandonarem o evangelho da fé que haviam recebido."
+      },
+      {
+        "id": "gal-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo Paulo, como os gálatas receberam o Espírito?",
+        "options": [
+          "Pelas obras da lei",
+          "Pela pregação da fé",
+          "Pela circuncisão",
+          "Pela guarda do sábado"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Assim como {0} creu em Deus, e isso lhe foi imputado como justiça.",
+        "blanks": [
+          "Abraão"
+        ],
+        "distractors": [
+          "Cristo",
+          "Moisés",
+          "Paulo"
+        ]
+      },
+      {
+        "id": "gal-3-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Fé",
+            "right": "O meio pelo qual o justo viverá"
+          },
+          {
+            "left": "Lei",
+            "right": "Traz maldição sobre quem não a cumpre toda"
+          },
+          {
+            "left": "Cristo",
+            "right": "Resgatou-nos da maldição da lei"
+          },
+          {
+            "left": "Abraão",
+            "right": "Exemplo de justificação pela fé"
+          }
+        ]
+      },
+      {
+        "id": "gal-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "A quem Paulo identifica como a 'posteridade' (descendência) prometida a Abraão?",
+        "options": [
+          "Isaque",
+          "Israel",
+          "Cristo",
+          "Os gentios"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Para que serve a lei?",
+        "text": "Paulo ensina que a lei de Moisés foi acrescentada por causa das transgressões, como medida temporária, até que viesse Cristo, a quem a promessa havia sido feita."
+      },
+      {
+        "id": "gal-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "A lei está contra as promessas de Deus?",
+        "options": [
+          "Sim, ela as anula",
+          "De maneira nenhuma",
+          "Apenas para os gentios",
+          "Somente após Cristo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "De maneira que a lei nos serviu de {0}, para nos conduzir a Cristo, para que pela fé fôssemos justificados.",
+        "blanks": [
+          "aio"
+        ],
+        "distractors": [
+          "maldição",
+          "promessa",
+          "herança"
+        ]
+      },
+      {
+        "id": "gal-3-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Segundo o versículo 28, o que é verdade sobre os que estão em Cristo Jesus?",
+        "options": [
+          "São separados por nação e classe",
+          "Permanecem sob a lei",
+          "São todos um em Cristo Jesus",
+          "São justificados pelas obras"
+        ],
+        "answer": 2
+      }
+    ],
+    "4": [
+      {
+        "id": "gal-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Mas, vindo a plenitude dos tempos, Deus enviou o seu {0}, nascido de mulher, nascido sob a lei,",
+        "blanks": [
+          "Filho"
+        ],
+        "distractors": [
+          "servo",
+          "herdeiro",
+          "Espírito"
+        ]
+      },
+      {
+        "id": "gal-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "\"Aba, Pai\"",
+        "text": "\"Aba\" é uma palavra aramaica íntima para \"pai\", semelhante a \"papai\". Paulo a mantém em sua forma original para mostrar a proximidade afetuosa que o Espírito gera entre os filhos adotivos e Deus."
+      },
+      {
+        "id": "gal-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, o que somos por meio de Cristo, já não sendo mais servos?",
+        "options": [
+          "Escravos",
+          "Tutores",
+          "Herdeiros de Deus",
+          "Profetas"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-4-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Que práticas Paulo lamenta que os gálatas estejam observando?",
+        "options": [
+          "Dias, e meses, e tempos, e anos",
+          "Jejuns e sacrifícios no templo",
+          "As festas dos gentios",
+          "Somente as luas novas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Como Paulo diz ter anunciado o evangelho aos gálatas pela primeira vez?",
+        "options": [
+          "Com poder e glória",
+          "Com fraqueza da carne",
+          "Por carta",
+          "Em segredo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "antes me recebestes como um {0} de Deus, como o próprio Jesus Cristo.",
+        "blanks": [
+          "anjo"
+        ],
+        "distractors": [
+          "servo",
+          "filho",
+          "inimigo"
+        ]
+      },
+      {
+        "id": "gal-4-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Segundo a escritura citada por Paulo, quem eram as mães dos dois filhos de Abraão?",
+        "options": [
+          "A escrava e a livre",
+          "Sara e Rebeca",
+          "Agar e Raquel",
+          "Lia e Raquel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Agar",
+            "right": "O monte Sinai e a servidão"
+          },
+          {
+            "left": "A livre",
+            "right": "A promessa"
+          },
+          {
+            "left": "Os dois filhos",
+            "right": "Os dois convênios"
+          }
+        ]
+      },
+      {
+        "id": "gal-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Porém nós, irmãos, somos filhos da {0} como Isaque.",
+        "blanks": [
+          "promessa"
+        ],
+        "distractors": [
+          "escrava",
+          "carne",
+          "servidão"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "gal-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O jugo da servidão",
+        "text": "O \"jugo\" era a peça de madeira colocada sobre bois para o trabalho. Paulo usa essa imagem para descrever a tentativa de obrigar os cristãos a guardar a lei de Moisés como condição de salvação."
+      },
+      {
+        "id": "gal-5-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo Paulo, o que aconteceria a quem se deixasse circuncidar buscando a justiça pela lei?",
+        "options": [
+          "Cristo de nada lhe aproveitaria",
+          "Receberia maior graça",
+          "Seria isento da lei",
+          "Herdaria o reino imediatamente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "mas sim a fé que opera pela {0}",
+        "blanks": [
+          "caridade"
+        ],
+        "distractors": [
+          "circuncisão",
+          "lei",
+          "carne"
+        ]
+      },
+      {
+        "id": "gal-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Um pouco de {0} leveda toda a massa.",
+        "blanks": [
+          "fermento"
+        ],
+        "distractors": [
+          "Espírito",
+          "fruto",
+          "jugo"
+        ]
+      },
+      {
+        "id": "gal-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Numa só palavra, em que toda a lei se cumpre?",
+        "options": [
+          "Amarás ao teu próximo como a ti mesmo",
+          "Guardarás o sábado",
+          "Serás circuncidado",
+          "Não tocarás no impuro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Andai no {0}, e não cumprireis a concupiscência da carne.",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "jugo",
+          "fermento",
+          "próximo"
+        ]
+      },
+      {
+        "id": "gal-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Segundo o versículo 18, quem é guiado pelo Espírito não está debaixo de quê?",
+        "options": [
+          "Da lei",
+          "Da graça",
+          "Da fé",
+          "Da liberdade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Fruto do Espírito",
+            "right": "Caridade, alegria, paz"
+          },
+          {
+            "left": "Obras da carne",
+            "right": "Adultério, idolatria, invejas"
+          },
+          {
+            "left": "Contra o fruto do Espírito",
+            "right": "Não há lei"
+          },
+          {
+            "left": "Os que praticam as obras da carne",
+            "right": "Não herdarão o reino de Deus"
+          }
+        ]
+      },
+      {
+        "id": "gal-5-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Crucificar a carne",
+        "text": "Paulo diz que os que são de Cristo \"crucificaram a carne\", uma imagem de morte voluntária dos desejos pecaminosos para viver pelo Espírito."
+      }
+    ],
+    "6": [
+      {
+        "id": "gal-6-mp-2",
+        "type": "match_pairs",
+        "after_verse": 2,
+        "pairs": [
+          {
+            "left": "Levar as cargas uns dos outros",
+            "right": "Cumprir a lei de Cristo"
+          },
+          {
+            "left": "Corrigir com mansidão",
+            "right": "Restaurar quem foi surpreendido em ofensa"
+          },
+          {
+            "left": "Guardar-se",
+            "right": "Não ser também tentado"
+          }
+        ]
+      },
+      {
+        "id": "gal-6-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Levai as cargas uns dos outros, e assim cumprireis a lei de {0}.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Deus",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gal-6-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Duas cargas diferentes",
+        "text": "Os versículos 2 e 5 parecem contradizer-se, mas usam ideias distintas: devemos ajudar a carregar os fardos pesados uns dos outros (v. 2) e, ainda assim, cada um responde por sua própria responsabilidade pessoal diante de Deus (v. 5)."
+      },
+      {
+        "id": "gal-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, o que acontece com tudo o que o homem semear?",
+        "options": [
+          "Isso também ceifará",
+          "Será esquecido",
+          "Deus o multiplicará",
+          "Não terá valor algum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "mas o que semeia no Espírito, do Espírito ceifará a {0} eterna.",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "corrupção",
+          "carne",
+          "glória"
+        ]
+      },
+      {
+        "id": "gal-6-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Não vos canseis de fazer o bem",
+        "text": "A imagem da semeadura e da colheita (v. 7–9) ensina paciência: assim como o lavrador espera a estação certa, os santos colhem o fruto da retidão \"a seu tempo\", se não desfalecerem."
+      },
+      {
+        "id": "gal-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que Paulo destaca no versículo 11 sobre a carta?",
+        "options": [
+          "Que a escreveu com grandes letras por sua própria mão",
+          "Que foi escrita por um escriba",
+          "Que era a sua primeira carta",
+          "Que foi traduzida do hebraico"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Mas longe esteja de mim gloriar-me, a não ser na cruz de nosso Senhor Jesus {0}",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Israel",
+          "Davi"
+        ]
+      },
+      {
+        "id": "gal-6-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Segundo o versículo 15, o que tem valor em Cristo Jesus?",
+        "options": [
+          "O ser uma nova criatura",
+          "A circuncisão",
+          "A incircuncisão",
+          "Guardar a lei de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Quanto ao mais, ninguém me perturbe, porque trago no meu corpo as {0} do Senhor Jesus.",
+        "blanks": [
+          "marcas"
+        ],
+        "distractors": [
+          "palavras",
+          "cargas",
+          "letras"
+        ]
+      }
+    ]
+  }
+}

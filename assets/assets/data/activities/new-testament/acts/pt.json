@@ -1,0 +1,4299 @@
+{
+  "schema_version": 1,
+  "book": "acts",
+  "chapters": {
+    "1": [
+      {
+        "id": "acts-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O segundo tratado",
+        "text": "Lucas chama o seu evangelho de \"primeiro tratado\" e dirige Atos ao mesmo Teófilo. Os dois livros formam uma obra só, narrando primeiro o que Jesus fez e ensinou, e depois o que a igreja fez em seu nome."
+      },
+      {
+        "id": "acts-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "determinou-lhes que não se ausentassem de Jerusalém, mas que esperassem a promessa do {0}",
+        "blanks": [
+          "Pai"
+        ],
+        "distractors": [
+          "Espírito",
+          "Senhor",
+          "céu"
+        ]
+      },
+      {
+        "id": "acts-1-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versículo 5, com que os apóstolos seriam batizados?",
+        "options": [
+          "O Espírito Santo",
+          "Água",
+          "Fogo do céu",
+          "O poder do Pai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Segundo o versículo 8, até onde os apóstolos seriam testemunhas de Jesus?",
+        "options": [
+          "Até os confins da terra",
+          "Até toda a casa de Israel",
+          "Até as portas de Jerusalém",
+          "Até o monte das Oliveiras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Homens galileus, por que estais olhando para o {0}?",
+        "blanks": [
+          "céu"
+        ],
+        "distractors": [
+          "monte",
+          "templo",
+          "caminho"
+        ]
+      },
+      {
+        "id": "acts-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A jornada de um sábado",
+        "text": "O monte das Oliveiras ficava \"à distância da jornada de um sábado\" de Jerusalém — cerca de mil metros, o limite que a tradição judaica permitia caminhar no dia de repouso."
+      },
+      {
+        "id": "acts-1-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Pedro",
+            "right": "Quem se levantou para falar aos discípulos"
+          },
+          {
+            "left": "Tiago, filho de Alfeu",
+            "right": "Distinto do outro Tiago entre os apóstolos"
+          },
+          {
+            "left": "Simão",
+            "right": "Chamado o Zelote"
+          },
+          {
+            "left": "Judas",
+            "right": "Irmão de Tiago, no cenáculo"
+          }
+        ]
+      },
+      {
+        "id": "acts-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Segundo o versículo 14, quem perseverava em oração com os apóstolos?",
+        "options": [
+          "Maria, mãe de Jesus, e as mulheres",
+          "Os setenta discípulos",
+          "Os escribas e fariseus",
+          "Os anciãos de Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "na sua própria língua esse campo se chama Aceldama, isto é, Campo de {0}.",
+        "blanks": [
+          "Sangue"
+        ],
+        "distractors": [
+          "Oliveiras",
+          "Iniquidade",
+          "Sortes"
+        ]
+      },
+      {
+        "id": "acts-1-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo o versículo 20, em qual livro estava escrito o que se cumpriu sobre Judas?",
+        "options": [
+          "O livro dos Salmos",
+          "O livro de Isaías",
+          "O livro da lei",
+          "O livro dos profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "E apresentaram dois: José, chamado Barsabás, que tinha por sobrenome o {0}, e Matias.",
+        "blanks": [
+          "Justo"
+        ],
+        "distractors": [
+          "Zelote",
+          "Galileu",
+          "Nazareno"
+        ]
+      },
+      {
+        "id": "acts-1-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Segundo o versículo 26, como foi escolhido quem substituiria Judas?",
+        "options": [
+          "A sorte caiu sobre Matias",
+          "Pedro o nomeou",
+          "O povo votou em José",
+          "Um anjo o indicou"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "acts-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Pentecostes",
+        "text": "Pentecostes era uma festa judaica celebrada cinquenta dias depois da Páscoa. Nesse dia, reunidos em um só lugar, os discípulos receberam o Espírito Santo."
+      },
+      {
+        "id": "acts-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E de repente veio do céu um som, como de um {0} veemente e impetuoso, e encheu toda a casa em que estavam assentados.",
+        "blanks": [
+          "vento"
+        ],
+        "distractors": [
+          "fogo",
+          "trovão",
+          "clamor"
+        ]
+      },
+      {
+        "id": "acts-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, o que foi visto pousando sobre cada um dos discípulos?",
+        "options": [
+          "Línguas repartidas, como que de fogo",
+          "Pombas brancas do céu",
+          "Nuvens de fumaça",
+          "Coroas de luz"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "E todos ficaram cheios do Espírito Santo, e começaram a falar noutras {0}, conforme o Espírito Santo lhes concedia que falassem.",
+        "blanks": [
+          "línguas"
+        ],
+        "distractors": [
+          "cidades",
+          "casas",
+          "nações"
+        ]
+      },
+      {
+        "id": "acts-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Ao ouvir os discípulos falando, a multidão pasmava perguntando que homens eram aqueles. De onde diziam que eles eram?",
+        "options": [
+          "Galileus",
+          "Romanos",
+          "Egípcios",
+          "Cretenses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Pentecostes",
+            "right": "Festa em que veio o Espírito"
+          },
+          {
+            "left": "Línguas de fogo",
+            "right": "Pousaram sobre cada um deles"
+          },
+          {
+            "left": "Galileus",
+            "right": "Origem dos que falavam"
+          },
+          {
+            "left": "Grandezas de Deus",
+            "right": "O que os povos os ouviam falar"
+          }
+        ]
+      },
+      {
+        "id": "acts-2-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Cheios de mosto",
+        "text": "Alguns zombadores diziam que os discípulos estavam \"cheios de mosto\" (vinho novo). Pedro responderia logo depois que não estavam embriagados, pois era apenas a terceira hora do dia."
+      },
+      {
+        "id": "acts-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E outros, zombando, diziam: Estão cheios de {0}.",
+        "blanks": [
+          "mosto"
+        ],
+        "distractors": [
+          "vinho",
+          "fogo",
+          "temor"
+        ]
+      },
+      {
+        "id": "acts-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Pedro disse que o que acontecia já fora anunciado por qual profeta?",
+        "options": [
+          "Joel",
+          "Davi",
+          "Isaías",
+          "Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E nos últimos dias acontecerá, diz Deus, que do meu Espírito derramarei sobre toda a {0}",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "terra",
+          "casa",
+          "nação"
+        ]
+      },
+      {
+        "id": "acts-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "A Jesus Nazareno, homem aprovado por Deus entre vós com maravilhas, prodígios e {0}, que Deus por ele fez no meio de vós",
+        "blanks": [
+          "sinais"
+        ],
+        "distractors": [
+          "palavras",
+          "obras",
+          "dons"
+        ]
+      },
+      {
+        "id": "acts-2-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Segundo Pedro, o que Deus fez com Jesus depois de ter sido crucificado?",
+        "options": [
+          "Ressuscitou-o, libertando-o das dores da morte",
+          "Levou-o em segredo do sepulcro",
+          "Deu-lhe um novo nome",
+          "Enviou-o para o deserto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Homens irmãos, seja-me lícito dizer-vos livremente acerca do patriarca {0}, que ele morreu e foi sepultado",
+        "blanks": [
+          "Davi"
+        ],
+        "distractors": [
+          "Joel",
+          "Pedro",
+          "Abraão"
+        ]
+      },
+      {
+        "id": "acts-2-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Deus ressuscitou este Jesus, do que todos nós somos {0}.",
+        "blanks": [
+          "testemunhas"
+        ],
+        "distractors": [
+          "servos",
+          "irmãos",
+          "apóstolos"
+        ]
+      },
+      {
+        "id": "acts-2-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Saiba, pois, com certeza, toda a casa de Israel que a esse Jesus, a quem vós crucificastes, Deus o fez Senhor e {0}.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "profeta",
+          "Rei",
+          "Salvador"
+        ]
+      },
+      {
+        "id": "acts-2-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Ao ouvir as palavras de Pedro, como reagiu o povo?",
+        "options": [
+          "Compungiram-se em seu coração",
+          "Zombaram dele",
+          "Fugiram do templo",
+          "Pediram um sinal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos {0}",
+        "blanks": [
+          "pecados"
+        ],
+        "distractors": [
+          "povos",
+          "irmãos",
+          "sinais"
+        ]
+      },
+      {
+        "id": "acts-2-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Quantas almas foram acrescentadas à igreja naquele dia?",
+        "options": [
+          "Quase três mil",
+          "Cerca de quinhentas",
+          "Doze",
+          "Setenta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-cur-42",
+        "type": "curiosity",
+        "after_verse": 42,
+        "title": "A vida da igreja primitiva",
+        "text": "Os primeiros crentes perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão e nas orações, tendo tudo em comum."
+      },
+      {
+        "id": "acts-2-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "E todos os que criam estavam juntos, e tinham tudo em {0}.",
+        "blanks": [
+          "comum"
+        ],
+        "distractors": [
+          "esperança",
+          "temor",
+          "alegria"
+        ]
+      },
+      {
+        "id": "acts-2-mc-47",
+        "type": "multiple_choice",
+        "after_verse": 47,
+        "question": "Segundo o versículo 47, quem acrescentava cada dia à igreja os que se haviam de salvar?",
+        "options": [
+          "O Senhor",
+          "Pedro",
+          "Os apóstolos",
+          "A multidão"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "acts-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E Pedro e João subiam juntos ao templo à hora da oração, a {0}.",
+        "blanks": [
+          "nona"
+        ],
+        "distractors": [
+          "terceira",
+          "sexta",
+          "décima"
+        ]
+      },
+      {
+        "id": "acts-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A porta Formosa",
+        "text": "O coxo era posto cada dia à porta do templo chamada Formosa para pedir esmola. Era um lugar movimentado de entrada, ideal para quem dependia da caridade dos que iam orar."
+      },
+      {
+        "id": "acts-3-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Por que o povo ficou cheio de pasmo ao ver o homem andando?",
+        "options": [
+          "Reconheceram que era o que pedia esmola à porta Formosa",
+          "Nunca o tinham visto antes",
+          "Ele falava em outras línguas",
+          "Ele havia ressuscitado dos mortos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Pedro e João",
+            "right": "Apóstolos que curaram o coxo"
+          },
+          {
+            "left": "Pórtico de Salomão",
+            "right": "Onde o povo correu atônito"
+          },
+          {
+            "left": "Porta Formosa",
+            "right": "Onde o coxo pedia esmola"
+          },
+          {
+            "left": "Coxo curado",
+            "right": "Apegou-se a Pedro e João"
+          }
+        ]
+      },
+      {
+        "id": "acts-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "O Deus de Abraão, e de Isaque, e de {0}, o Deus de nossos pais, glorificou seu filho Jesus",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Moisés",
+          "Davi",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "acts-3-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Segundo Pedro no versículo 15, o que o povo fez ao Príncipe da vida?",
+        "options": [
+          "Mataram-no, mas Deus o ressuscitou dos mortos",
+          "Coroaram-no rei em Jerusalém",
+          "Negaram conhecê-lo perante Pilatos",
+          "Apedrejaram-no no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Arrependei-vos, pois, e convertei-vos, para que sejam {0} os vossos pecados",
+        "blanks": [
+          "apagados"
+        ],
+        "distractors": [
+          "lembrados",
+          "contados",
+          "revelados"
+        ]
+      },
+      {
+        "id": "acts-3-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Segundo o versículo 22, o que Moisés disse aos pais que o Senhor levantaria dentre seus irmãos?",
+        "options": [
+          "Um profeta semelhante a ele",
+          "Um rei como Davi",
+          "Um sacerdote eterno",
+          "Um juiz para Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Abraão",
+            "right": "Pai do convênio com Deus"
+          },
+          {
+            "left": "Moisés",
+            "right": "Anunciou um profeta semelhante a ele"
+          },
+          {
+            "left": "Samuel",
+            "right": "Primeiro dos profetas que anunciaram esses dias"
+          },
+          {
+            "left": "Descendência de Abraão",
+            "right": "Nela serão benditas as famílias da terra"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "acts-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Os saduceus e a ressurreição",
+        "text": "Os saduceus negavam a ressurreição dos mortos. Por isso ficaram tão incomodados ao ver os apóstolos pregando que Jesus havia ressuscitado, bem dentro do templo que eles controlavam."
+      },
+      {
+        "id": "acts-4-fb-1",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 1,
+        "template": "E estando eles falando ao povo, sobrevieram os sacerdotes, e o capitão do {0}, e os saduceus,",
+        "blanks": [
+          "templo"
+        ],
+        "distractors": [
+          "povo",
+          "Sinédrio",
+          "céu"
+        ]
+      },
+      {
+        "id": "acts-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Quantos homens chegou a alcançar o número dos que creram?",
+        "options": [
+          "Quase cinco mil",
+          "Cerca de três mil",
+          "Doze",
+          "Quarenta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Quem era o sumo sacerdote mencionado no versículo 6?",
+        "options": [
+          "Anás",
+          "Pedro",
+          "Barnabé",
+          "Alexandre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E em nenhum outro há {0}, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos.",
+        "blanks": [
+          "salvação"
+        ],
+        "distractors": [
+          "esperança",
+          "justiça",
+          "consolação"
+        ]
+      },
+      {
+        "id": "acts-4-mp-13",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Pedro e João",
+            "right": "Eram homens iletrados e ignorantes"
+          },
+          {
+            "left": "O homem curado",
+            "right": "Estava de pé com os apóstolos"
+          },
+          {
+            "left": "O Sinédrio",
+            "right": "Mandou que não falassem no nome de Jesus"
+          }
+        ]
+      },
+      {
+        "id": "acts-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 20,
+        "template": "Porque não podemos deixar de falar do que vimos e {0}.",
+        "blanks": [
+          "ouvimos"
+        ],
+        "distractors": [
+          "cremos",
+          "fizemos",
+          "sabemos"
+        ]
+      },
+      {
+        "id": "acts-4-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Por meio da boca de qual servo Deus havia dito 'Por que bramaram as nações'?",
+        "options": [
+          "Davi",
+          "Moisés",
+          "Samuel",
+          "João"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-27",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 27,
+        "template": "Porque verdadeiramente contra o teu santo Filho Jesus, que tu ungiste, se juntaram Herodes e Pôncio Pilatos, com os gentios e os povos de {0};",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Jerusalém",
+          "Chipre",
+          "Samaria"
+        ]
+      },
+      {
+        "id": "acts-4-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "O que aconteceu ao lugar depois que oraram?",
+        "options": [
+          "Tremeu",
+          "Escureceu",
+          "Pegou fogo",
+          "Foi destruído"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Qual era o significado do nome Barnabé, dado a José pelos apóstolos?",
+        "options": [
+          "Filho da consolação",
+          "Filho do trovão",
+          "Homem de Deus",
+          "Pedra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Possuindo uma herdade, vendeu-a, e trouxe o valor, e o apresentou aos pés dos {0}.",
+        "blanks": [
+          "apóstolos"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "anciãos",
+          "escribas"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "acts-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Ananias e Safira",
+        "text": "O casal vendeu uma propriedade e fingiu doar todo o valor, retendo parte em segredo. Lucas mostra o contraste com Barnabé, do capítulo anterior, que depositou tudo aos pés dos apóstolos."
+      },
+      {
+        "id": "acts-5-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo Pedro, quem encheu o coração de Ananias para mentir ao Espírito Santo?",
+        "options": [
+          "Satanás",
+          "O sumo sacerdote",
+          "Gamaliel",
+          "Teudas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Não mentiste aos homens, mas a {0}.",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Pedro",
+          "Pilatos",
+          "Davi"
+        ]
+      },
+      {
+        "id": "acts-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Por que é que entre vós vos pusestes de acordo para tentar o {0} do Senhor?",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "anjo",
+          "templo",
+          "concílio"
+        ]
+      },
+      {
+        "id": "acts-5-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que aconteceu com Safira ao ouvir as palavras de Pedro?",
+        "options": [
+          "Caiu aos pés dele e expirou",
+          "Confessou e foi perdoada",
+          "Fugiu de Jerusalém",
+          "Foi presa pelos jovens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E estavam todos unânimes no pórtico de {0}.",
+        "blanks": [
+          "Salomão"
+        ],
+        "distractors": [
+          "Davi",
+          "Moisés",
+          "Pedro"
+        ]
+      },
+      {
+        "id": "acts-5-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Por que os enfermos eram postos nas ruas quando Pedro passava?",
+        "options": [
+          "Para que a sombra de Pedro cobrisse alguns deles",
+          "Para que ele os batizasse",
+          "Para pedir esmola aos apóstolos",
+          "Para ouvi-lo pregar no templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Os saduceus",
+        "text": "O sumo sacerdote e os seus eram da seita dos saduceus, que negavam a ressurreição. Por isso a pregação apostólica do Cristo ressuscitado os enchia de inveja."
+      },
+      {
+        "id": "acts-5-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Mas de noite um {0} do Senhor abriu as portas da prisão",
+        "blanks": [
+          "anjo"
+        ],
+        "distractors": [
+          "homem",
+          "servidor",
+          "profeta"
+        ]
+      },
+      {
+        "id": "acts-5-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "O que os servidores encontraram ao chegar à prisão?",
+        "options": [
+          "Ninguém dentro, embora o cárcere estivesse fechado com segurança",
+          "Os apóstolos açoitados",
+          "Os guardas fugindo",
+          "Um anjo guardando a porta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "os trouxeram, não com violência (porque temiam ser apedrejados pelo {0}).",
+        "blanks": [
+          "povo"
+        ],
+        "distractors": [
+          "concílio",
+          "sumo sacerdote",
+          "capitão"
+        ]
+      },
+      {
+        "id": "acts-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Mais importa obedecer a Deus do que aos {0}.",
+        "blanks": [
+          "homens"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "anciãos",
+          "reis"
+        ]
+      },
+      {
+        "id": "acts-5-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Como Pedro descreve a morte de Jesus diante do Sinédrio?",
+        "options": [
+          "Vós o matastes, suspendendo-o no madeiro",
+          "Vós o apedrejastes fora da cidade",
+          "Pilatos o crucificou contra a vossa vontade",
+          "Os romanos o mataram em segredo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "Gamaliel",
+        "text": "Gamaliel era um fariseu e mestre da lei, venerado por todo o povo. Seu conselho ponderado salvou a vida dos apóstolos: se a obra fosse de Deus, ninguém poderia desfazê-la."
+      },
+      {
+        "id": "acts-5-mp-37",
+        "type": "match_pairs",
+        "after_verse": 37,
+        "pairs": [
+          {
+            "left": "Ananias",
+            "right": "Reteve parte do valor e caiu morto"
+          },
+          {
+            "left": "Gamaliel",
+            "right": "Fariseu e mestre da lei que aconselhou cautela"
+          },
+          {
+            "left": "Teudas",
+            "right": "Dizia ser alguém; foi morto e seus seguidores dispersos"
+          },
+          {
+            "left": "Judas, o galileu",
+            "right": "Levantou-se nos dias do alistamento e pereceu"
+          }
+        ]
+      },
+      {
+        "id": "acts-5-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Por que os apóstolos se regozijaram ao sair do Sinédrio?",
+        "options": [
+          "Por terem sido julgados dignos de padecer afronta pelo nome de Jesus",
+          "Por terem sido absolvidos sem castigo",
+          "Por terem convertido o sumo sacerdote",
+          "Por terem recebido autoridade do concílio"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "acts-6-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Os sete escolhidos",
+        "text": "A igreja crescia e as viúvas de fala grega eram esquecidas na distribuição diária. Os apóstolos não abandonaram a pregação: delegaram o cuidado material a sete homens de boa reputação, muitas vezes lembrados como os primeiros diáconos."
+      },
+      {
+        "id": "acts-6-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que os apóstolos decidiram não abandonar para servir às mesas?",
+        "options": [
+          "A palavra de Deus e a oração",
+          "As esmolas aos pobres",
+          "O culto no templo",
+          "A circuncisão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "cheio de fé e de {0}, fazia prodígios",
+        "blanks": [
+          "poder"
+        ],
+        "distractors": [
+          "sabedoria",
+          "graça",
+          "glória"
+        ]
+      },
+      {
+        "id": "acts-6-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Por que os opositores não conseguiam vencer Estêvão na disputa?",
+        "options": [
+          "Não podiam resistir à sabedoria e ao espírito com que falava",
+          "Ele tinha guardas romanos",
+          "Ele se escondia no templo",
+          "Ele subornava o povo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-6-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Falsas testemunhas",
+        "text": "As acusações contra Estêvão — destruir o templo e mudar os costumes de Moisés — ecoam as feitas contra o próprio Jesus em seu julgamento. Lucas mostra o discípulo seguindo os passos do Mestre."
+      },
+      {
+        "id": "acts-6-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Estêvão",
+            "right": "Cheio de fé; seu rosto parecia o de um anjo"
+          },
+          {
+            "left": "Os sete",
+            "right": "Escolhidos para servir às mesas"
+          },
+          {
+            "left": "Falsas testemunhas",
+            "right": "Acusaram Estêvão de blasfêmia"
+          },
+          {
+            "left": "Sinédrio",
+            "right": "Concílio perante o qual Estêvão foi levado"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "acts-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O discurso de Estêvão",
+        "text": "Em sua defesa, Estêvão percorre toda a história de Israel — Abraão, José, Moisés, o tabernáculo e o templo — não para se justificar, mas para mostrar um padrão: o povo repetidamente rejeitou aqueles que Deus enviou."
+      },
+      {
+        "id": "acts-7-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "A quem o Deus da glória apareceu, mandando-o sair da sua terra?",
+        "options": [
+          "Abraão",
+          "Moisés",
+          "Jacó",
+          "Isaque"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Quantos patriarcas Jacó gerou, segundo o discurso de Estêvão?",
+        "options": [
+          "Doze",
+          "Sete",
+          "Dez",
+          "Setenta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "movidos de {0}, venderam José",
+        "blanks": [
+          "inveja"
+        ],
+        "distractors": [
+          "ódio",
+          "medo",
+          "ganância"
+        ]
+      },
+      {
+        "id": "acts-7-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Abraão",
+            "right": "Saiu da Mesopotâmia rumo à terra prometida"
+          },
+          {
+            "left": "José",
+            "right": "Vendido pelos irmãos, governou o Egito"
+          },
+          {
+            "left": "Jacó",
+            "right": "Desceu ao Egito com setenta e cinco almas"
+          },
+          {
+            "left": "Moisés",
+            "right": "Nasceu quando outro rei oprimia Israel"
+          }
+        ]
+      },
+      {
+        "id": "acts-7-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "instruído em toda a ciência dos {0}",
+        "blanks": [
+          "egípcios"
+        ],
+        "distractors": [
+          "caldeus",
+          "romanos",
+          "assírios"
+        ]
+      },
+      {
+        "id": "acts-7-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "estrangeiro na terra de {0}, onde gerou",
+        "blanks": [
+          "Midiã"
+        ],
+        "distractors": [
+          "Canaã",
+          "Harã",
+          "Egito"
+        ]
+      },
+      {
+        "id": "acts-7-cur-30",
+        "type": "curiosity",
+        "after_verse": 30,
+        "title": "A sarça ardente",
+        "text": "Estêvão recorda o chamado de Moisés no monte Sinai, na chama de uma sarça que ardia sem se consumir. Foi ali que Deus se revelou como o Deus de Abraão, de Isaque e de Jacó."
+      },
+      {
+        "id": "acts-7-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "o lugar em que estás é terra {0}.",
+        "blanks": [
+          "santa"
+        ],
+        "distractors": [
+          "deserta",
+          "prometida",
+          "estrangeira"
+        ]
+      },
+      {
+        "id": "acts-7-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "O que Israel fez no deserto enquanto rejeitava Moisés?",
+        "options": [
+          "Fez um bezerro e ofereceu sacrifícios ao ídolo",
+          "Construiu o templo",
+          "Atravessou o Jordão",
+          "Ungiu Davi como rei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "para além de {0}.",
+        "blanks": [
+          "Babilônia"
+        ],
+        "distractors": [
+          "Egito",
+          "Nínive",
+          "Assíria"
+        ]
+      },
+      {
+        "id": "acts-7-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "O céu é o meu {0}, e a terra o escabelo",
+        "blanks": [
+          "trono"
+        ],
+        "distractors": [
+          "templo",
+          "reino",
+          "altar"
+        ]
+      },
+      {
+        "id": "acts-7-mc-56",
+        "type": "multiple_choice",
+        "after_verse": 56,
+        "question": "O que Estêvão declarou ver ao fixar os olhos no céu?",
+        "options": [
+          "Os céus abertos e o Filho do Homem à direita de Deus",
+          "Um anjo com uma espada de fogo",
+          "Moisés e Elias",
+          "Uma escada até o céu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-58",
+        "type": "fill_blank",
+        "after_verse": 58,
+        "verse": 58,
+        "template": "aos pés de um jovem chamado {0}.",
+        "blanks": [
+          "Saulo"
+        ],
+        "distractors": [
+          "Barnabé",
+          "Pedro",
+          "Filipe"
+        ]
+      },
+      {
+        "id": "acts-7-cur-60",
+        "type": "curiosity",
+        "after_verse": 60,
+        "title": "O primeiro mártir",
+        "text": "Estêvão é o primeiro cristão a morrer pela fé. Ao ser apedrejado, ora por seus algozes — como Jesus na cruz — e Lucas diz que ele adormeceu. Entre os presentes estava Saulo, que logo se tornaria perseguidor."
+      }
+    ],
+    "8": [
+      {
+        "id": "acts-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A dispersão",
+        "text": "A perseguição que se segue à morte de Estêvão dispersa os discípulos pela Judeia e Samaria. O que parecia um golpe contra a igreja acaba espalhando o evangelho para fora de Jerusalém."
+      },
+      {
+        "id": "acts-8-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que Saulo fazia à igreja antes de sua conversão?",
+        "options": [
+          "Assolava-a, prendendo homens e mulheres",
+          "Pregava em Samaria",
+          "Curava os enfermos",
+          "Distribuía esmolas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Filipe à cidade de {0}, proclamava-lhes Cristo.",
+        "blanks": [
+          "Samaria"
+        ],
+        "distractors": [
+          "Jerusalém",
+          "Cesareia",
+          "Damasco"
+        ]
+      },
+      {
+        "id": "acts-8-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Simão, o mago",
+        "text": "Simão havia iludido Samaria com artes mágicas, a ponto de o povo o chamar de o grande poder de Deus. Diante dos milagres de Filipe, ele próprio creu e foi batizado."
+      },
+      {
+        "id": "acts-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Como Simão havia conquistado a atenção do povo de Samaria?",
+        "options": [
+          "Com artes mágicas",
+          "Com grandes esmolas",
+          "Com discursos no templo",
+          "Com curas milagrosas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Por que Pedro e João foram enviados de Jerusalém a Samaria?",
+        "options": [
+          "Para que os crentes recebessem o Espírito Santo",
+          "Para batizar Simão",
+          "Para prender Filipe",
+          "Para construir uma igreja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "A simonia",
+        "text": "Quando Simão ofereceu dinheiro para comprar o poder de dar o Espírito Santo, Pedro o repreendeu duramente. Desse episódio nasceu a palavra simonia: o pecado de tentar comprar ou vender coisas sagradas."
+      },
+      {
+        "id": "acts-8-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "supuseste que o {0} de Deus se adquire por dinheiro.",
+        "blanks": [
+          "dom"
+        ],
+        "distractors": [
+          "poder",
+          "reino",
+          "favor"
+        ]
+      },
+      {
+        "id": "acts-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que o eunuco etíope estava fazendo quando Filipe o encontrou?",
+        "options": [
+          "Lia o profeta Isaías em seu carro",
+          "Orava no templo",
+          "Pregava aos samaritanos",
+          "Batizava no rio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-cur-32",
+        "type": "curiosity",
+        "after_verse": 32,
+        "title": "O cordeiro de Isaías 53",
+        "text": "A passagem que o eunuco lia é de Isaías 53, o cântico do servo sofredor levado como ovelha ao matadouro. Filipe partiu desse texto para anunciar-lhe Jesus."
+      },
+      {
+        "id": "acts-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Ele foi levado como {0} para o matadouro",
+        "blanks": [
+          "ovelha"
+        ],
+        "distractors": [
+          "boi",
+          "bode",
+          "novilho"
+        ]
+      },
+      {
+        "id": "acts-8-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "O que aconteceu depois que o eunuco creu que Jesus é o Filho de Deus?",
+        "options": [
+          "Filipe o batizou na água",
+          "Recebeu cartas para Damasco",
+          "Foi a Jerusalém adorar",
+          "Voltou a Samaria"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Filipe",
+            "right": "Pregou Cristo em Samaria e batizou o eunuco"
+          },
+          {
+            "left": "Simão",
+            "right": "Mago que quis comprar o dom de Deus"
+          },
+          {
+            "left": "Pedro e João",
+            "right": "Impuseram as mãos para dar o Espírito Santo"
+          },
+          {
+            "left": "Eunuco etíope",
+            "right": "Lia Isaías e foi batizado a caminho de Gaza"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "acts-9-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que a voz do céu disse a Saulo no caminho de Damasco?",
+        "options": [
+          "Eu sou Jesus, a quem tu persegues",
+          "Eu sou Moisés, o legislador",
+          "Eu sou Pedro, o apóstolo",
+          "Eu sou Elias, o profeta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O Caminho",
+        "text": "Saulo levava cartas para prender os que seguiam o Caminho, um dos primeiros nomes do cristianismo. A luz que o cercou perto de Damasco transformaria o maior perseguidor no maior missionário da igreja."
+      },
+      {
+        "id": "acts-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Quanto tempo Saulo ficou sem ver após a visão?",
+        "options": [
+          "Três dias",
+          "Sete dias",
+          "Quarenta dias",
+          "Um dia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "alguém chamado Saulo, de {0};",
+        "blanks": [
+          "Tarso"
+        ],
+        "distractors": [
+          "Damasco",
+          "Jope",
+          "Listra"
+        ]
+      },
+      {
+        "id": "acts-9-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "este é para mim {0} escolhido, para levar o meu nome",
+        "blanks": [
+          "vaso"
+        ],
+        "distractors": [
+          "servo",
+          "profeta",
+          "apóstolo"
+        ]
+      },
+      {
+        "id": "acts-9-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Escamas dos olhos",
+        "text": "Ananias, um discípulo temeroso por causa da fama de Saulo, obedece a Deus e impõe-lhe as mãos. Caem-lhe dos olhos como que escamas, e o perseguidor passa a pregar nas sinagogas que Jesus é o Filho de Deus."
+      },
+      {
+        "id": "acts-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "o arriaram, dentro de um {0}, pelo muro.",
+        "blanks": [
+          "cesto"
+        ],
+        "distractors": [
+          "barco",
+          "saco",
+          "carro"
+        ]
+      },
+      {
+        "id": "acts-9-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Quem levou Saulo aos apóstolos e garantiu por ele em Jerusalém?",
+        "options": [
+          "Barnabé",
+          "Pedro",
+          "Ananias",
+          "Estêvão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Eneias, Jesus Cristo te {0}; levanta-te e faze a tua cama.",
+        "blanks": [
+          "cura"
+        ],
+        "distractors": [
+          "abençoa",
+          "perdoa",
+          "chama"
+        ]
+      },
+      {
+        "id": "acts-9-cur-36",
+        "type": "curiosity",
+        "after_verse": 36,
+        "title": "Tabita, a gazela",
+        "text": "Tabita, em grego Dorcas, significa gazela. Discípula de Jope cheia de boas obras, era amada pelas viúvas que vestia. Pedro a ressuscita, e a notícia leva muitos a crer no Senhor."
+      },
+      {
+        "id": "acts-9-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Quem era Tabita (Dorcas), de Jope?",
+        "options": [
+          "Uma discípula cheia de boas obras e esmolas",
+          "Uma profetisa que predizia o futuro",
+          "A esposa de Simão, o curtidor",
+          "Uma viúva rica de Cesareia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "O que aconteceu em Jope depois que Pedro ressuscitou Tabita?",
+        "options": [
+          "Muitos creram no Senhor",
+          "Pedro foi preso",
+          "A cidade rejeitou os apóstolos",
+          "Tabita partiu para Cesareia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-mp-43",
+        "type": "match_pairs",
+        "after_verse": 43,
+        "pairs": [
+          {
+            "left": "Saulo",
+            "right": "Perseguidor convertido na estrada de Damasco"
+          },
+          {
+            "left": "Ananias",
+            "right": "Impôs as mãos e Saulo recuperou a vista"
+          },
+          {
+            "left": "Eneias",
+            "right": "Paralítico curado por Pedro em Lida"
+          },
+          {
+            "left": "Tabita (Dorcas)",
+            "right": "Discípula de Jope ressuscitada por Pedro"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "acts-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Cornélio, o centurião",
+        "text": "Cornélio era um oficial romano temente a Deus, generoso e dado à oração, mas não judeu. Sua história abre a porta do evangelho aos gentios, sem que precisassem antes adotar a lei de Moisés."
+      },
+      {
+        "id": "acts-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que o anjo disse a Cornélio sobre suas orações e esmolas?",
+        "options": [
+          "Subiram para memória diante de Deus",
+          "Foram em vão",
+          "Deviam cessar",
+          "Eram conhecidas só dos homens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que Pedro viu descer do céu em sua visão?",
+        "options": [
+          "Um grande lençol com todo tipo de animais",
+          "Uma escada de anjos",
+          "Uma coluna de fogo",
+          "Um trono de glória"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Não faças tu comum ao que Deus {0}.",
+        "blanks": [
+          "purificou"
+        ],
+        "distractors": [
+          "criou",
+          "escolheu",
+          "abençoou"
+        ]
+      },
+      {
+        "id": "acts-10-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "O que o Espírito disse a Pedro enquanto ele refletia sobre a visão?",
+        "options": [
+          "Que três homens o procuravam e devia ir com eles",
+          "Que fugisse de Jope",
+          "Que jejuasse por três dias",
+          "Que subisse ao templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Cornélio, o {0}, homem justo e temente a Deus",
+        "blanks": [
+          "centurião"
+        ],
+        "distractors": [
+          "governador",
+          "sacerdote",
+          "escriba"
+        ]
+      },
+      {
+        "id": "acts-10-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Levanta-te, sou homem",
+        "text": "Quando Cornélio se prostra a seus pés, Pedro o levanta de imediato: eu mesmo também sou homem. A adoração pertence só a Deus, não aos seus mensageiros."
+      },
+      {
+        "id": "acts-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Deus mostrou a Pedro por meio da visão do lençol?",
+        "options": [
+          "Que não chamasse nenhum homem comum ou imundo",
+          "Que reconstruísse o templo",
+          "Que pregasse só aos judeus",
+          "Que jejuasse quarenta dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Por que Cornélio reuniu seus parentes e amigos para ouvir Pedro?",
+        "options": [
+          "Para ouvir tudo o que Deus havia mandado a Pedro",
+          "Para um banquete de despedida",
+          "Para julgar Pedro",
+          "Para um sacrifício romano"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "aquele que, em qualquer {0}, o teme e faz o que é justo.",
+        "blanks": [
+          "nação"
+        ],
+        "distractors": [
+          "cidade",
+          "tribo",
+          "casa"
+        ]
+      },
+      {
+        "id": "acts-10-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Segundo Pedro, o que Deus fez com Jesus, a quem mataram no madeiro?",
+        "options": [
+          "Ressuscitou-o ao terceiro dia",
+          "Ocultou seu corpo",
+          "Levou-o ao céu sem morrer",
+          "Deu-lhe um trono em Roma"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "O Pentecostes dos gentios",
+        "text": "Enquanto Pedro ainda falava, o Espírito Santo caiu sobre os gentios, que começaram a falar em línguas. O sinal convence Pedro a batizá-los, confirmando que o evangelho é para todos os povos."
+      },
+      {
+        "id": "acts-10-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "O que maravilhou os crentes da circuncisão que vieram com Pedro?",
+        "options": [
+          "O dom do Espírito Santo derramado também sobre os gentios",
+          "Cornélio recusou o batismo",
+          "Pedro falou em línguas estranhas",
+          "Um anjo apareceu na casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "recusar a {0}, para que não sejam batizados estes",
+        "blanks": [
+          "água"
+        ],
+        "distractors": [
+          "graça",
+          "palavra",
+          "salvação"
+        ]
+      },
+      {
+        "id": "acts-10-mp-48",
+        "type": "match_pairs",
+        "after_verse": 48,
+        "pairs": [
+          {
+            "left": "Cornélio",
+            "right": "Centurião romano, primeiro gentio convertido"
+          },
+          {
+            "left": "Pedro",
+            "right": "Viu a visão do lençol e pregou em Cesareia"
+          },
+          {
+            "left": "O lençol com animais",
+            "right": "Sinal de que nada do que Deus purificou é imundo"
+          },
+          {
+            "left": "O Espírito Santo",
+            "right": "Caiu sobre os gentios que ouviam Pedro"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "acts-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Os gentios e a circuncisão",
+        "text": "A notícia de que gentios haviam recebido a palavra de Deus gerou polêmica entre os judeus cristãos, para quem comer com incircuncisos quebrava a lei. Pedro precisa explicar a visão que recebera em Jope."
+      },
+      {
+        "id": "acts-11-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por que os irmãos da circuncisão criticaram Pedro?",
+        "options": [
+          "Por ter entrado e comido com gentios incircuncisos",
+          "Por pregar em Samaria",
+          "Por batizar Simão, o mago",
+          "Por curar no sábado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Quantas vezes a visão do lençol se repetiu antes de ser recolhida ao céu?",
+        "options": [
+          "Três",
+          "Duas",
+          "Sete",
+          "Dez"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "serás salvo, tu e toda a tua {0}.",
+        "blanks": [
+          "casa"
+        ],
+        "distractors": [
+          "cidade",
+          "tribo",
+          "terra"
+        ]
+      },
+      {
+        "id": "acts-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "João certamente batizou com {0}, mas vós sereis batizados",
+        "blanks": [
+          "água"
+        ],
+        "distractors": [
+          "fogo",
+          "óleo",
+          "sangue"
+        ]
+      },
+      {
+        "id": "acts-11-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que a igreja de Jerusalém fez ao saber da conversão em Antioquia?",
+        "options": [
+          "Enviou Barnabé a Antioquia",
+          "Enviou Pedro e João",
+          "Excomungou os gregos",
+          "Proibiu a pregação"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Chamados cristãos",
+        "text": "Foi em Antioquia, depois de um ano de ensino de Barnabé e Saulo, que os discípulos receberam pela primeira vez o nome de cristãos. A cidade se tornaria a base das viagens missionárias de Paulo."
+      },
+      {
+        "id": "acts-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Onde os discípulos foram chamados cristãos pela primeira vez?",
+        "options": [
+          "Antioquia",
+          "Jerusalém",
+          "Damasco",
+          "Cesareia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "haveria uma grande {0} em todo o mundo",
+        "blanks": [
+          "fome"
+        ],
+        "distractors": [
+          "guerra",
+          "peste",
+          "seca"
+        ]
+      },
+      {
+        "id": "acts-11-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Barnabé",
+            "right": "Enviado a Antioquia; trouxe Saulo de Tarso"
+          },
+          {
+            "left": "Antioquia",
+            "right": "Onde os discípulos foram chamados cristãos"
+          },
+          {
+            "left": "Ágabo",
+            "right": "Profeta que predisse uma grande fome"
+          },
+          {
+            "left": "Pedro",
+            "right": "Explicou aos irmãos por que pregou aos gentios"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "acts-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Herodes Agripa I",
+        "text": "O rei deste capítulo é Herodes Agripa I, neto de Herodes, o Grande. Para agradar aos judeus, ele perseguiu a igreja, matando Tiago e prendendo Pedro."
+      },
+      {
+        "id": "acts-12-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Qual apóstolo Herodes mandou matar à espada?",
+        "options": [
+          "Tiago, irmão de João",
+          "Pedro",
+          "Estêvão",
+          "João"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E caíram-lhe das mãos as {0}.",
+        "blanks": [
+          "cadeias"
+        ],
+        "distractors": [
+          "vestes",
+          "sandálias",
+          "chaves"
+        ]
+      },
+      {
+        "id": "acts-12-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A casa de Maria",
+        "text": "Livre da prisão, Pedro vai à casa de Maria, mãe de João Marcos, onde a igreja orava. João Marcos seria mais tarde companheiro de viagem e, segundo a tradição, autor do Evangelho de Marcos."
+      },
+      {
+        "id": "acts-12-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Quem reconheceu a voz de Pedro à porta mas, de alegria, não a abriu?",
+        "options": [
+          "A menina Rode",
+          "Maria, mãe de Marcos",
+          "A esposa de Pedro",
+          "Uma viúva da igreja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "O que os reunidos disseram quando Rode insistiu que Pedro estava à porta?",
+        "options": [
+          "É o seu anjo",
+          "Está ressuscitado",
+          "É um fantasma",
+          "Foi solto pelo rei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "A morte de Herodes",
+        "text": "Aclamado pelo povo como voz de um deus, Herodes não deu glória a Deus e foi ferido por um anjo, morrendo comido de vermes. O historiador Josefo registra uma morte semelhante do rei em Cesareia."
+      },
+      {
+        "id": "acts-12-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "e comido de {0}, expirou.",
+        "blanks": [
+          "bichos"
+        ],
+        "distractors": [
+          "feras",
+          "cães",
+          "lobos"
+        ]
+      },
+      {
+        "id": "acts-12-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "O que aconteceu com a palavra de Deus em meio a essas perseguições?",
+        "options": [
+          "Crescia e se multiplicava",
+          "Foi silenciada",
+          "Ficou só em Jerusalém",
+          "Foi proibida por Herodes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Herodes",
+            "right": "Matou Tiago e foi ferido por um anjo"
+          },
+          {
+            "left": "Pedro",
+            "right": "Libertado da prisão por um anjo"
+          },
+          {
+            "left": "Rode",
+            "right": "Reconheceu a voz de Pedro à porta"
+          },
+          {
+            "left": "João Marcos",
+            "right": "Filho de Maria; foi com Barnabé e Saulo"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "acts-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A primeira viagem missionária",
+        "text": "Enquanto a igreja de Antioquia jejuava e orava, o Espírito Santo separou Barnabé e Saulo para a obra. Começa aqui a primeira das viagens missionárias que levariam o evangelho por todo o mundo romano."
+      },
+      {
+        "id": "acts-13-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Quem o Espírito Santo mandou separar para a obra missionária em Antioquia?",
+        "options": [
+          "Barnabé e Saulo",
+          "Pedro e João",
+          "Tiago e Filipe",
+          "Silas e Marcos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Quem era Elimas, que resistia a Paulo diante do procônsul em Chipre?",
+        "options": [
+          "Um feiticeiro e falso profeta",
+          "Um sacerdote de Júpiter",
+          "O governador de Chipre",
+          "Um profeta cristão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "De Saulo a Paulo",
+        "text": "É a partir deste capítulo que Lucas passa a chamá-lo Paulo, seu nome romano, em vez de Saulo, o hebraico. A mudança acompanha sua liderança crescente na missão aos gentios."
+      },
+      {
+        "id": "acts-13-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "e ficarás {0}, sem ver o sol por algum tempo.",
+        "blanks": [
+          "cego"
+        ],
+        "distractors": [
+          "mudo",
+          "surdo",
+          "manco"
+        ]
+      },
+      {
+        "id": "acts-13-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "sete nações na terra de {0}, lhes deu por herança",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Babilônia",
+          "Assíria"
+        ]
+      },
+      {
+        "id": "acts-13-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "homem da tribo de {0}.",
+        "blanks": [
+          "Benjamim"
+        ],
+        "distractors": [
+          "Judá",
+          "Levi",
+          "Efraim"
+        ]
+      },
+      {
+        "id": "acts-13-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Quem disse 'não sou digno de desatar as sandálias' daquele que vinha após ele?",
+        "options": [
+          "João Batista",
+          "Davi",
+          "Samuel",
+          "Pedro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Porém Deus o {0} dos mortos.",
+        "blanks": [
+          "ressuscitou"
+        ],
+        "distractors": [
+          "chamou",
+          "escolheu",
+          "tirou"
+        ]
+      },
+      {
+        "id": "acts-13-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Qual era o argumento de Paulo ao citar os salmos sobre não ver corrupção?",
+        "options": [
+          "Davi morreu e viu corrupção, mas Jesus, ressuscitado, não",
+          "Davi nunca morreu",
+          "Jesus não ressuscitou",
+          "Os salmos falavam de Salomão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "se vos anuncia a {0} dos pecados.",
+        "blanks": [
+          "remissão"
+        ],
+        "distractors": [
+          "lembrança",
+          "origem",
+          "glória"
+        ]
+      },
+      {
+        "id": "acts-13-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "Como os judeus reagiram ao ver quase toda a cidade vir ouvir Paulo?",
+        "options": [
+          "Encheram-se de inveja e o contradiziam",
+          "Converteram-se em massa",
+          "Expulsaram os romanos",
+          "Pediram batismo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "Eu te pus para {0} dos gentios,",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "rei",
+          "guia",
+          "glória"
+        ]
+      },
+      {
+        "id": "acts-13-mp-52",
+        "type": "match_pairs",
+        "after_verse": 52,
+        "pairs": [
+          {
+            "left": "Barnabé e Saulo",
+            "right": "Enviados de Antioquia na primeira viagem"
+          },
+          {
+            "left": "Elimas",
+            "right": "Feiticeiro cegado por Paulo em Chipre"
+          },
+          {
+            "left": "Sérgio Paulo",
+            "right": "Procônsul que creu em Chipre"
+          },
+          {
+            "left": "João Marcos",
+            "right": "Deixou os missionários e voltou a Jerusalém"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "acts-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Icônio, Listra e Derbe",
+        "text": "Paulo e Barnabé seguem pregando em cidades da Ásia Menor, sempre começando pela sinagoga. A reação se divide entre fé e hostilidade, marcando o padrão das viagens missionárias."
+      },
+      {
+        "id": "acts-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Como ficou a cidade de Icônio diante da pregação dos apóstolos?",
+        "options": [
+          "Dividida: uns com os judeus, outros com os apóstolos",
+          "Toda convertida",
+          "Toda contra eles",
+          "Indiferente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "aleijado dos pés, {0} desde o ventre de sua mãe",
+        "blanks": [
+          "coxo"
+        ],
+        "distractors": [
+          "cego",
+          "surdo",
+          "mudo"
+        ]
+      },
+      {
+        "id": "acts-14-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "O coxo de Listra",
+        "text": "Em Listra, Paulo cura um homem coxo de nascença, que nunca havia andado. O milagre lembra a cura do coxo por Pedro no templo, no início de Atos, mostrando o mesmo poder operando pelos dois apóstolos."
+      },
+      {
+        "id": "acts-14-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Júpiter e Mercúrio",
+        "text": "Vendo o milagre, o povo de Listra tomou Barnabé por Júpiter e Paulo por Mercúrio, o mensageiro dos deuses, porque era ele quem falava. Uma lenda local contava que esses deuses já tinham visitado a região disfarçados."
+      },
+      {
+        "id": "acts-14-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Que nomes a multidão de Listra deu a Barnabé e a Paulo, achando-os deuses?",
+        "options": [
+          "Júpiter e Mercúrio",
+          "Apolo e Marte",
+          "Saturno e Vênus",
+          "César e Augusto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "O que aconteceu a Paulo em Listra depois que vieram judeus de Antioquia e Icônio?",
+        "options": [
+          "Foi apedrejado e arrastado para fora como morto",
+          "Foi coroado rei",
+          "Foi preso em Roma",
+          "Fugiu de barco"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "para entrar no {0} de Deus.",
+        "blanks": [
+          "reino"
+        ],
+        "distractors": [
+          "templo",
+          "povo",
+          "caminho"
+        ]
+      },
+      {
+        "id": "acts-14-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "O que Paulo e Barnabé relataram à igreja ao voltar a Antioquia?",
+        "options": [
+          "Que Deus abrira aos gentios a porta da fé",
+          "Que haviam sido presos em Roma",
+          "Que o templo fora destruído",
+          "Que Herodes morrera"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Listra",
+            "right": "Onde Paulo curou um coxo e foi apedrejado"
+          },
+          {
+            "left": "Júpiter e Mercúrio",
+            "right": "Nomes que a multidão deu a Barnabé e Paulo"
+          },
+          {
+            "left": "Anciãos",
+            "right": "Designados por Paulo e Barnabé em cada igreja"
+          },
+          {
+            "left": "Porta da fé",
+            "right": "Aberta por Deus aos gentios"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "acts-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O concílio de Jerusalém",
+        "text": "A questão era decisiva: os gentios convertidos precisavam ser circuncidados e guardar a lei de Moisés? Para resolvê-la, a igreja realizou em Jerusalém seu primeiro grande concílio."
+      },
+      {
+        "id": "acts-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Qual questão dividiu a igreja e levou ao concílio de Jerusalém?",
+        "options": [
+          "Se os gentios precisavam ser circuncidados para se salvar",
+          "Se podiam comer carne",
+          "Qual dia guardar o sábado",
+          "Quem seria o líder da igreja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "O jugo da lei",
+        "text": "Pedro chamou a exigência de circuncisão de um jugo que nem os pais nem eles tinham conseguido suportar. Seu argumento foi que tanto judeus quanto gentios são salvos pela graça do Senhor Jesus."
+      },
+      {
+        "id": "acts-15-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "purificando o seu coração pela {0}.",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "lei",
+          "circuncisão",
+          "obras"
+        ]
+      },
+      {
+        "id": "acts-15-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Quem, após Pedro, tomou a palavra e citou os profetas no concílio?",
+        "options": [
+          "Tiago",
+          "João",
+          "Barnabé",
+          "Silas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "das contaminações dos {0},",
+        "blanks": [
+          "ídolos"
+        ],
+        "distractors": [
+          "templos",
+          "mortos",
+          "altares"
+        ]
+      },
+      {
+        "id": "acts-15-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Quem foram escolhidos para levar a carta do concílio a Antioquia, com Paulo e Barnabé?",
+        "options": [
+          "Judas Barsabás e Silas",
+          "Pedro e João",
+          "Ágabo e Marcos",
+          "Tiago e Simão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "O que o Espírito Santo e os apóstolos decidiram impor aos gentios?",
+        "options": [
+          "Nenhum encargo além de algumas coisas necessárias",
+          "A circuncisão completa",
+          "Toda a lei de Moisés",
+          "Um imposto ao templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "O que Paulo e Barnabé fizeram ao permanecer em Antioquia?",
+        "options": [
+          "Ensinavam e pregavam a palavra do Senhor",
+          "Construíram um templo",
+          "Voltaram a Jerusalém",
+          "Pararam de pregar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "Por que Paulo e Barnabé se separaram antes da segunda viagem?",
+        "options": [
+          "Discordaram sobre levar João Marcos consigo",
+          "Brigaram por dinheiro",
+          "Discordaram sobre a circuncisão",
+          "Um deles adoeceu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Concílio de Jerusalém",
+            "right": "Decidiu que os gentios não precisavam circuncidar-se"
+          },
+          {
+            "left": "Tiago",
+            "right": "Propôs a decisão final citando os profetas"
+          },
+          {
+            "left": "Judas e Silas",
+            "right": "Levaram a carta do concílio a Antioquia"
+          },
+          {
+            "left": "Paulo e Barnabé",
+            "right": "Separaram-se por causa de João Marcos"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "acts-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Timóteo",
+        "text": "Timóteo, filho de mãe judia e pai grego, junta-se a Paulo em Listra e se tornará um de seus discípulos mais próximos. Paulo lhe escreveria depois duas cartas, 1 e 2 Timóteo."
+      },
+      {
+        "id": "acts-16-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Quem se juntou a Paulo em Listra, filho de mãe judia e pai grego?",
+        "options": [
+          "Timóteo",
+          "Silas",
+          "Lucas",
+          "Tito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Passa à {0}, e ajuda-nos.",
+        "blanks": [
+          "Macedônia"
+        ],
+        "distractors": [
+          "Galácia",
+          "Ásia",
+          "Frígia"
+        ]
+      },
+      {
+        "id": "acts-16-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Quem era Lídia, a primeira convertida em Filipos?",
+        "options": [
+          "Uma vendedora de púrpura de Tiatira que adorava a Deus",
+          "Uma escrava com espírito de adivinhação",
+          "A esposa do carcereiro",
+          "Uma sacerdotisa de Diana"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "O espírito de adivinhação",
+        "text": "A escrava que seguia Paulo tinha um espírito de adivinhação que dava grande lucro aos seus senhores. Quando Paulo o expulsou em nome de Jesus, a fonte de renda secou — e foi por isso que os senhores o levaram à justiça."
+      },
+      {
+        "id": "acts-16-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que Paulo fez com a moça que tinha espírito de adivinhação?",
+        "options": [
+          "Expulsou o espírito em nome de Jesus Cristo",
+          "Pagou aos seus senhores",
+          "Batizou-a no rio",
+          "Mandou-a embora da cidade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "E perto da {0}, Paulo e Silas oravam",
+        "blanks": [
+          "meia noite"
+        ],
+        "distractors": [
+          "madrugada",
+          "tarde",
+          "manhã"
+        ]
+      },
+      {
+        "id": "acts-16-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "A primeira igreja na Europa",
+        "text": "O terremoto que abriu a prisão converteu o carcereiro e sua casa. Com Lídia, o carcereiro e os irmãos, forma-se em Filipos a primeira comunidade cristã do continente europeu, a quem Paulo enviaria mais tarde a carta aos Filipenses."
+      },
+      {
+        "id": "acts-16-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "O que o carcereiro perguntou a Paulo e Silas após o terremoto?",
+        "options": [
+          "Que me é necessário fazer para me salvar?",
+          "Quem sois vós?",
+          "Por que cantáveis?",
+          "Onde estão os presos?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "e logo foi {0}, ele e todos os seus.",
+        "blanks": [
+          "batizado"
+        ],
+        "distractors": [
+          "curado",
+          "libertado",
+          "perdoado"
+        ]
+      },
+      {
+        "id": "acts-16-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Por que Paulo se recusou a sair secretamente da prisão?",
+        "options": [
+          "Porque eram cidadãos romanos açoitados sem julgamento",
+          "Porque queriam mais dinheiro",
+          "Porque o terremoto destruíra a saída",
+          "Porque esperavam Lídia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Timóteo",
+            "right": "Discípulo de Listra que passou a acompanhar Paulo"
+          },
+          {
+            "left": "Lídia",
+            "right": "Vendedora de púrpura, primeira convertida em Filipos"
+          },
+          {
+            "left": "Carcereiro de Filipos",
+            "right": "Converteu-se com sua casa após o terremoto"
+          },
+          {
+            "left": "Visão da Macedônia",
+            "right": "Levou Paulo a pregar na Europa"
+          }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "acts-17-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que Paulo demonstrava pelas escrituras na sinagoga de Tessalônica?",
+        "options": [
+          "Que o Cristo devia padecer e ressuscitar dos mortos",
+          "Que o templo seria reconstruído",
+          "Que César era o messias",
+          "Que a lei salvava"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Estes que têm alvoroçado o {0},",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "templo",
+          "povo",
+          "reino"
+        ]
+      },
+      {
+        "id": "acts-17-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Os nobres bereanos",
+        "text": "Lucas elogia os judeus de Bereia por receberem a palavra de bom grado e examinarem as escrituras todos os dias para conferir se as coisas eram assim. Tornaram-se um modelo de quem estuda antes de crer."
+      },
+      {
+        "id": "acts-17-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "examinando cada dia nas {0} se estas coisas eram assim.",
+        "blanks": [
+          "escrituras"
+        ],
+        "distractors": [
+          "leis",
+          "sinagogas",
+          "tradições"
+        ]
+      },
+      {
+        "id": "acts-17-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Que filósofos discutiram com Paulo em Atenas?",
+        "options": [
+          "Epicureus e estóicos",
+          "Fariseus e saduceus",
+          "Escribas e anciãos",
+          "Sofistas e cínicos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Ao Deus Desconhecido",
+        "text": "Em Atenas, Paulo encontrou um altar dedicado “ao Deus Desconhecido” e o usou como ponte: aquele que os atenienses adoravam sem conhecer, dizia ele, é o Deus que fez o céu e a terra. Citou até poetas gregos para anunciá-lo."
+      },
+      {
+        "id": "acts-17-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "estava escrito: Ao Deus {0}.",
+        "blanks": [
+          "Desconhecido"
+        ],
+        "distractors": [
+          "Altíssimo",
+          "Vivo",
+          "Eterno"
+        ]
+      },
+      {
+        "id": "acts-17-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Porque nele {0}, e nos movemos, e existimos;",
+        "blanks": [
+          "vivemos"
+        ],
+        "distractors": [
+          "cremos",
+          "esperamos",
+          "permanecemos"
+        ]
+      },
+      {
+        "id": "acts-17-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Que prova Deus deu de que julgará o mundo pelo homem que designou?",
+        "options": [
+          "Ressuscitou-o dos mortos",
+          "Enviou um anjo",
+          "Destruiu os ídolos",
+          "Deu uma nova lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Tessalônica",
+            "right": "Sinagoga onde alguns creram e houve tumulto"
+          },
+          {
+            "left": "Bereia",
+            "right": "Judeus nobres que examinavam as escrituras"
+          },
+          {
+            "left": "Areópago",
+            "right": "Onde Paulo pregou o Deus Desconhecido"
+          },
+          {
+            "left": "Dionísio e Damaris",
+            "right": "Atenienses que creram em Paulo"
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "acts-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Áquila e Priscila",
+        "text": "Em Corinto, Paulo se hospeda com Áquila e Priscila, um casal judeu expulso de Roma por Cláudio, e trabalha com eles fazendo tendas. O casal se torna colaborador constante de Paulo e ajudaria a instruir Apolo."
+      },
+      {
+        "id": "acts-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "pois tinham por ofício fazer {0}.",
+        "blanks": [
+          "tendas"
+        ],
+        "distractors": [
+          "redes",
+          "vasos",
+          "sandálias"
+        ]
+      },
+      {
+        "id": "acts-18-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Quem creu no Senhor com toda a sua casa em Corinto?",
+        "options": [
+          "Crispo, principal da sinagoga",
+          "Gálio, o procônsul",
+          "Sóstenes",
+          "Áquila"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que o Senhor disse a Paulo em visão em Corinto?",
+        "options": [
+          "Não temas, fala e não te cales, pois tenho muito povo nesta cidade",
+          "Parte imediatamente para Roma",
+          "Volta a Jerusalém",
+          "Não pregues mais aos gentios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como o procônsul Gálio reagiu à acusação dos judeus contra Paulo?",
+        "options": [
+          "Recusou-se a julgar questões de palavras e nomes da lei judaica",
+          "Condenou Paulo à morte",
+          "Mandou açoitar Paulo",
+          "Converteu-se ao evangelho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "em Cencreia, porque tinha {0}.",
+        "blanks": [
+          "voto"
+        ],
+        "distractors": [
+          "pressa",
+          "medo",
+          "sede"
+        ]
+      },
+      {
+        "id": "acts-18-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Apolo de Alexandria",
+        "text": "Apolo era um judeu eloquente e poderoso nas escrituras, mas conhecia apenas o batismo de João. Priscila e Áquila o levaram à parte e lhe explicaram o caminho de Deus com mais exatidão, e ele se tornou grande pregador."
+      },
+      {
+        "id": "acts-18-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "O que Priscila e Áquila fizeram ao ouvir Apolo na sinagoga de Éfeso?",
+        "options": [
+          "Levaram-no à parte e lhe explicaram melhor o caminho de Deus",
+          "Expulsaram-no da sinagoga",
+          "Batizaram-no de novo",
+          "Acusaram-no perante Gálio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Áquila e Priscila",
+            "right": "Casal que fazia tendas e instruiu Apolo"
+          },
+          {
+            "left": "Gálio",
+            "right": "Procônsul que recusou julgar Paulo"
+          },
+          {
+            "left": "Crispo",
+            "right": "Principal da sinagoga que creu em Corinto"
+          },
+          {
+            "left": "Apolo",
+            "right": "Judeu eloquente de Alexandria, poderoso nas escrituras"
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "acts-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Éfeso e o templo de Diana",
+        "text": "Éfeso era uma das maiores cidades do império e abrigava o templo de Diana (Ártemis), uma das sete maravilhas do mundo antigo. Paulo passaria ali cerca de três anos, seu período mais longo numa só cidade."
+      },
+      {
+        "id": "acts-19-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que os discípulos de Éfeso responderam quando Paulo perguntou se haviam recebido o Espírito Santo?",
+        "options": [
+          "Que nem sequer tinham ouvido que havia Espírito Santo",
+          "Que já falavam em línguas",
+          "Que João os batizara no Espírito",
+          "Que não criam em Jesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "na escola de um certo {0}.",
+        "blanks": [
+          "Tirano"
+        ],
+        "distractors": [
+          "Justo",
+          "Crispo",
+          "Demétrio"
+        ]
+      },
+      {
+        "id": "acts-19-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Como Deus operava milagres extraordinários por meio de Paulo em Éfeso?",
+        "options": [
+          "Até lenços e aventais tocados por ele curavam os enfermos",
+          "Por meio de sacrifícios no templo",
+          "Pela sombra de Paulo",
+          "Por amuletos de prata"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Os filhos de Ceva",
+        "text": "Sete filhos de Ceva tentaram expulsar um espírito maligno invocando “Jesus a quem Paulo prega”, sem fé própria. O espírito respondeu que conhecia Jesus e Paulo, mas não a eles, e o endemoninhado os feriu e os fez fugir nus."
+      },
+      {
+        "id": "acts-19-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Conheço Jesus, e bem sei quem é {0};",
+        "blanks": [
+          "Paulo"
+        ],
+        "distractors": [
+          "Pedro",
+          "Silas",
+          "Apolo"
+        ]
+      },
+      {
+        "id": "acts-19-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "trouxeram os seus {0}, e os queimaram",
+        "blanks": [
+          "livros"
+        ],
+        "distractors": [
+          "ídolos",
+          "amuletos",
+          "tesouros"
+        ]
+      },
+      {
+        "id": "acts-19-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Cinquenta mil peças de prata",
+        "text": "Os efésios que praticavam magia queimaram seus livros em público; o valor somou cinquenta mil peças de prata, uma fortuna. O gesto mostrou um rompimento radical e custoso com a antiga vida."
+      },
+      {
+        "id": "acts-19-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Por que o ourives Demétrio incitou um tumulto contra Paulo em Éfeso?",
+        "options": [
+          "Porque a pregação ameaçava seu lucro com os nichos de prata de Diana",
+          "Porque Paulo destruíra o templo",
+          "Porque Paulo era romano",
+          "Porque Paulo não pagava impostos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Grande é a {0} dos efésios.",
+        "blanks": [
+          "Diana"
+        ],
+        "distractors": [
+          "Vênus",
+          "Minerva",
+          "Juno"
+        ]
+      },
+      {
+        "id": "acts-19-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "Como o escrivão da cidade descreveu Éfeso ao acalmar a multidão?",
+        "options": [
+          "Como guardadora do templo da grande deusa Diana",
+          "Como capital do império",
+          "Como cidade santa dos judeus",
+          "Como colônia romana"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Que advertência o escrivão fez à multidão de Éfeso?",
+        "options": [
+          "Que corriam risco de ser acusados de sedição por aquele tumulto",
+          "Que Diana os puniria",
+          "Que Paulo seria executado",
+          "Que o templo seria fechado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Discípulos de Éfeso",
+            "right": "Rebatizados em nome do Senhor Jesus"
+          },
+          {
+            "left": "Filhos de Ceva",
+            "right": "Exorcistas vencidos pelo espírito maligno"
+          },
+          {
+            "left": "Demétrio",
+            "right": "Ourives que incitou o tumulto por Diana"
+          },
+          {
+            "left": "Escrivão da cidade",
+            "right": "Acalmou a multidão no teatro"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "acts-20-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Êutico e o primeiro dia da semana",
+        "text": "Em Trôade, os discípulos se reuniram no primeiro dia da semana para partir o pão — uma das primeiras menções ao culto cristão no domingo. Foi durante o longo discurso de Paulo que o jovem Êutico adormeceu e caiu da janela."
+      },
+      {
+        "id": "acts-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "De onde Paulo e seus companheiros navegaram após os pães ázimos, rumo a Trôade?",
+        "options": [
+          "De Filipos",
+          "De Corinto",
+          "De Éfeso",
+          "De Mileto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que aconteceu ao jovem Êutico durante o longo discurso de Paulo em Trôade?",
+        "options": [
+          "Adormeceu, caiu do terceiro andar e foi levantado morto",
+          "Fugiu da reunião",
+          "Foi preso pelos guardas",
+          "Apagou as luzes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "estar em Jerusalém no dia de {0}.",
+        "blanks": [
+          "Pentecostes"
+        ],
+        "distractors": [
+          "Páscoa",
+          "Expiação",
+          "Tabernáculos"
+        ]
+      },
+      {
+        "id": "acts-20-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Como Paulo descreveu seu ministério aos anciãos de Éfeso?",
+        "options": [
+          "Não deixou de anunciar nada útil, ensinando em público e de casa em casa",
+          "Pregou apenas no templo",
+          "Cobrou pela pregação",
+          "Ensinou só os ricos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "dizendo que me esperam {0} e tribulações.",
+        "blanks": [
+          "prisões"
+        ],
+        "distractors": [
+          "riquezas",
+          "honras",
+          "alegrias"
+        ]
+      },
+      {
+        "id": "acts-20-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Pastores do rebanho",
+        "text": "Paulo encarrega os anciãos de Éfeso de cuidar do rebanho como bispos, ou supervisores, que o Espírito Santo constituiu. Adverte que surgirão “lobos cruéis” e mestres enganadores até dentre eles mesmos."
+      },
+      {
+        "id": "acts-20-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "entrarão entre vós {0} cruéis,",
+        "blanks": [
+          "lobos"
+        ],
+        "distractors": [
+          "leões",
+          "tiranos",
+          "inimigos"
+        ]
+      },
+      {
+        "id": "acts-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "O que Paulo afirmou sobre prata, ouro e vestes durante seu ministério?",
+        "options": [
+          "Que de ninguém os cobiçou, sustentando-se com as próprias mãos",
+          "Que recebeu muito dos ricos",
+          "Que os distribuiu aos pobres",
+          "Que os guardou para a viagem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Mais bem-aventurada coisa é {0} do que receber.",
+        "blanks": [
+          "dar"
+        ],
+        "distractors": [
+          "pedir",
+          "guardar",
+          "vender"
+        ]
+      },
+      {
+        "id": "acts-20-cur-37",
+        "type": "curiosity",
+        "after_verse": 37,
+        "title": "A despedida em Mileto",
+        "text": "Ao saber que não veria mais o rosto de Paulo, os anciãos de Éfeso choraram e se lançaram ao seu pescoço. É uma das cenas mais comoventes de Atos, encerrando o discurso de despedida do apóstolo."
+      },
+      {
+        "id": "acts-20-mp-38",
+        "type": "match_pairs",
+        "after_verse": 38,
+        "pairs": [
+          {
+            "left": "Êutico",
+            "right": "Jovem que caiu da janela e foi reanimado por Paulo"
+          },
+          {
+            "left": "Anciãos de Éfeso",
+            "right": "Reuniram-se com Paulo em Mileto para a despedida"
+          },
+          {
+            "left": "Lobos cruéis",
+            "right": "Falsos mestres que Paulo previu surgirem"
+          },
+          {
+            "left": "Dar é melhor que receber",
+            "right": "Palavra de Jesus citada por Paulo"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "acts-21-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que os discípulos de Tiro disseram a Paulo pelo Espírito?",
+        "options": [
+          "Que não subisse a Jerusalém",
+          "Que pregasse aos gentios",
+          "Que voltasse a Antioquia",
+          "Que se calasse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Filipe, o evangelista",
+        "text": "Em Cesareia, Paulo se hospeda com Filipe, o evangelista, um dos sete escolhidos em Atos 6 e o mesmo que batizou o eunuco etíope. Suas quatro filhas profetizavam, sinal da presença do Espírito na casa."
+      },
+      {
+        "id": "acts-21-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "o homem de quem é esta {0},",
+        "blanks": [
+          "cinta"
+        ],
+        "distractors": [
+          "veste",
+          "túnica",
+          "capa"
+        ]
+      },
+      {
+        "id": "acts-21-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Como Paulo respondeu aos que choravam, pedindo que não subisse a Jerusalém?",
+        "options": [
+          "Que estava pronto a morrer em Jerusalém pelo nome do Senhor Jesus",
+          "Que mudaria de rota",
+          "Que voltaria a Cesareia",
+          "Que esperaria um sinal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Do que os irmãos de Jerusalém informaram Paulo sobre os milhares de judeus que criam?",
+        "options": [
+          "Que eram todos zelosos da lei",
+          "Que rejeitavam Moisés",
+          "Que queriam matá-lo",
+          "Que não criam na ressurreição"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Temos quatro homens que fizeram {0}.",
+        "blanks": [
+          "voto"
+        ],
+        "distractors": [
+          "jejum",
+          "sacrifício",
+          "milagre"
+        ]
+      },
+      {
+        "id": "acts-21-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Do que os judeus da Ásia acusaram Paulo ao alvoroçar o povo no templo?",
+        "options": [
+          "De ensinar contra o povo, a lei e o templo, e de profaná-lo",
+          "De roubar o tesouro",
+          "De negar César",
+          "De curar no sábado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "O Pátio dos Gentios",
+        "text": "Os gentios só podiam entrar no pátio externo do templo; avisos em pedra ameaçavam de morte quem cruzasse o limite para o interior. Por isso a suspeita de que Paulo levara o grego Trófimo adiante incendiou a multidão."
+      },
+      {
+        "id": "acts-21-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "O que o tribuno romano fez ao chegar e encontrar Paulo sendo espancado?",
+        "options": [
+          "Prendeu-o e mandou acorrentá-lo com duas cadeias",
+          "Soltou-o imediatamente",
+          "Entregou-o aos judeus",
+          "Mandou matá-lo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Por quem o tribuno confundiu Paulo a princípio?",
+        "options": [
+          "Por um egípcio que liderara uma sedição no deserto",
+          "Por um sumo sacerdote",
+          "Por um profeta da Judeia",
+          "Por um soldado romano"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Ágabo",
+            "right": "Profeta que predisse a prisão de Paulo em Jerusalém"
+          },
+          {
+            "left": "Filipe, o evangelista",
+            "right": "Hospedou Paulo em Cesareia; tinha quatro filhas profetisas"
+          },
+          {
+            "left": "Trófimo",
+            "right": "Efésio que Paulo foi acusado de levar ao templo"
+          },
+          {
+            "left": "O tribuno",
+            "right": "Comandante romano que prendeu Paulo no tumulto"
+          }
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "acts-22-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Aos pés de Gamaliel",
+        "text": "Paulo destaca que foi criado em Jerusalém aos pés de Gamaliel, o respeitado mestre fariseu que antes aconselhara cautela contra os apóstolos (Atos 5). Sua formação rigorosa explica o zelo com que antes perseguia os cristãos."
+      },
+      {
+        "id": "acts-22-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "criado aos pés de {0},",
+        "blanks": [
+          "Gamaliel"
+        ],
+        "distractors": [
+          "Moisés",
+          "Ananias",
+          "Tértulo"
+        ]
+      },
+      {
+        "id": "acts-22-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "O que a voz disse a Paulo no caminho de Damasco, em sua defesa?",
+        "options": [
+          "Eu sou Jesus Nazareno, a quem tu persegues",
+          "Eu sou o Deus de Abraão",
+          "Eu sou um anjo do Senhor",
+          "Eu sou Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "e lava os teus {0}, invocando o nome do Senhor.",
+        "blanks": [
+          "pecados"
+        ],
+        "distractors": [
+          "pés",
+          "olhos",
+          "temores"
+        ]
+      },
+      {
+        "id": "acts-22-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "A quem Jesus disse a Paulo, no templo, que o enviaria?",
+        "options": [
+          "Para longe, aos gentios",
+          "Aos sacerdotes de Jerusalém",
+          "Aos reis da Judeia",
+          "Aos samaritanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "É-vos lícito açoitar um homem {0},",
+        "blanks": [
+          "romano"
+        ],
+        "distractors": [
+          "judeu",
+          "grego",
+          "livre"
+        ]
+      },
+      {
+        "id": "acts-22-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Cidadão de nascimento",
+        "text": "O tribuno comprara a cidadania romana por grande soma; Paulo, porém, nascera cidadão, condição rara e valiosa numa província. Esse direito o protegia de ser açoitado sem julgamento e moldaria todo o seu processo."
+      },
+      {
+        "id": "acts-22-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Que diferença havia entre a cidadania romana de Paulo e a do tribuno?",
+        "options": [
+          "Paulo nasceu cidadão; o tribuno a comprou por grande soma",
+          "Ambos a compraram",
+          "Paulo a comprou e o tribuno herdou",
+          "Nenhum dos dois era cidadão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Gamaliel",
+            "right": "Mestre da lei aos pés de quem Paulo foi criado"
+          },
+          {
+            "left": "Ananias de Damasco",
+            "right": "Devolveu a vista a Saulo e o mandou batizar-se"
+          },
+          {
+            "left": "Cidadania romana",
+            "right": "Protegia Paulo de ser açoitado sem julgamento"
+          },
+          {
+            "left": "Estêvão",
+            "right": "Mártir em cuja morte Paulo consentira"
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "acts-23-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Como Paulo chamou o sumo sacerdote Ananias após ser ferido na boca?",
+        "options": [
+          "Parede branqueada",
+          "Filho do diabo",
+          "Pai dos fariseus",
+          "Servo de César"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "eu sou {0}, filho de fariseu;",
+        "blanks": [
+          "fariseu"
+        ],
+        "distractors": [
+          "saduceu",
+          "escriba",
+          "sacerdote"
+        ]
+      },
+      {
+        "id": "acts-23-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Saduceus e fariseus",
+        "text": "Paulo dividiu o conselho ao apelar à ressurreição: os saduceus negavam a ressurreição, os anjos e os espíritos, enquanto os fariseus criam em todos. A jogada transformou o julgamento numa disputa interna do Sinédrio."
+      },
+      {
+        "id": "acts-23-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que o Senhor disse a Paulo na noite seguinte ao tumulto?",
+        "options": [
+          "Que, como testificara em Jerusalém, devia também testificar em Roma",
+          "Que fugisse para Damasco",
+          "Que se calasse diante de César",
+          "Que voltasse a Antioquia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Quem revelou ao tribuno a cilada para matar Paulo?",
+        "options": [
+          "O filho da irmã de Paulo (seu sobrinho)",
+          "Um centurião romano",
+          "O próprio sumo sacerdote",
+          "Um anjo do Senhor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Para onde o tribuno mandou levar Paulo em segurança, com grande escolta?",
+        "options": [
+          "A Cesareia, ao governador Félix",
+          "A Roma, a César",
+          "A Antioquia",
+          "De volta ao templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Cláudio Lisias, a {0}, excelentíssimo governador,",
+        "blanks": [
+          "Félix"
+        ],
+        "distractors": [
+          "Festo",
+          "Agripa",
+          "César"
+        ]
+      },
+      {
+        "id": "acts-23-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "O que Félix decidiu ao receber Paulo em Cesareia?",
+        "options": [
+          "Ouvi-lo quando chegassem seus acusadores, guardando-o no Pretório de Herodes",
+          "Soltá-lo imediatamente",
+          "Enviá-lo a Roma",
+          "Entregá-lo aos judeus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Ananias",
+            "right": "Sumo sacerdote que mandou ferir Paulo na boca"
+          },
+          {
+            "left": "Os saduceus",
+            "right": "Negavam a ressurreição, os anjos e os espíritos"
+          },
+          {
+            "left": "O sobrinho de Paulo",
+            "right": "Avisou o tribuno da cilada"
+          },
+          {
+            "left": "Cláudio Lísias",
+            "right": "Tribuno que enviou Paulo a Félix"
+          }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "acts-24-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Tértulo, o orador",
+        "text": "Os judeus contrataram Tértulo, um orador profissional, para apresentar a acusação contra Paulo perante Félix em latim jurídico. Ele começou bajulando o governador, técnica comum nos tribunais romanos."
+      },
+      {
+        "id": "acts-24-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Quem os judeus trouxeram para apresentar as acusações contra Paulo perante Félix?",
+        "options": [
+          "Um orador chamado Tértulo",
+          "O profeta Ágabo",
+          "O tribuno Lísias",
+          "O rei Agripa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "o principal defensor da seita dos {0};",
+        "blanks": [
+          "nazarenos"
+        ],
+        "distractors": [
+          "fariseus",
+          "saduceus",
+          "essênios"
+        ]
+      },
+      {
+        "id": "acts-24-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "O que Paulo confessou sobre 'o Caminho' que chamavam de seita?",
+        "options": [
+          "Que por ele servia ao Deus dos pais, crendo na lei e nos profetas",
+          "Que era uma nova religião",
+          "Que rejeitava as escrituras",
+          "Que negava a ressurreição"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "vim trazer à minha nação {0} e ofertas.",
+        "blanks": [
+          "esmolas"
+        ],
+        "distractors": [
+          "cartas",
+          "leis",
+          "notícias"
+        ]
+      },
+      {
+        "id": "acts-24-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Por que Félix se espantou ao ouvir Paulo falar de justiça e do juízo vindouro?",
+        "options": [
+          "Foi tomado de temor e adiou a conversa",
+          "Converteu-se na hora",
+          "Mandou soltá-lo",
+          "Riu-se de Paulo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Dois anos preso",
+        "text": "Félix esperava que Paulo lhe desse dinheiro pela soltura, e por isso o mandava chamar com frequência. Ao deixar o cargo, para agradar aos judeus, deixou Paulo preso, entregando o caso ao sucessor Pórcio Festo."
+      },
+      {
+        "id": "acts-24-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Tértulo",
+            "right": "Orador que acusou Paulo perante Félix"
+          },
+          {
+            "left": "Félix",
+            "right": "Governador que adiou a causa e manteve Paulo preso"
+          },
+          {
+            "left": "Drusila",
+            "right": "Esposa judia de Félix"
+          },
+          {
+            "left": "Pórcio Festo",
+            "right": "Sucessor de Félix como governador"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "acts-25-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Apelo a César",
+        "text": "Apelar a César era um direito do cidadão romano que tirava o caso das mãos locais e o levava ao tribunal do imperador, em Roma. Ao usá-lo, Paulo cumpriu, sem saber, a promessa do Senhor de que testificaria em Roma."
+      },
+      {
+        "id": "acts-25-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que os principais dos judeus pediram a Festo sobre Paulo?",
+        "options": [
+          "Que o fizesse vir a Jerusalém, armando uma cilada para matá-lo no caminho",
+          "Que o soltasse logo",
+          "Que o enviasse a Roma",
+          "Que o açoitasse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "nem contra o templo, nem contra {0}.",
+        "blanks": [
+          "César"
+        ],
+        "distractors": [
+          "Roma",
+          "o rei",
+          "Festo"
+        ]
+      },
+      {
+        "id": "acts-25-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Que decisão Paulo tomou ao ser pressionado a ir a Jerusalém?",
+        "options": [
+          "Apelou para César",
+          "Fugiu de Cesareia",
+          "Aceitou ser julgado pelos judeus",
+          "Pediu para ser solto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Qual era o cerne da disputa dos judeus contra Paulo, segundo Festo?",
+        "options": [
+          "Questões da religião deles e de um certo Jesus, morto, que Paulo afirmava viver",
+          "Um roubo no templo",
+          "Uma dívida com César",
+          "Uma rebelião armada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que o rei Agripa disse a Festo sobre Paulo?",
+        "options": [
+          "Que também queria ouvir aquele homem",
+          "Que o condenasse à morte",
+          "Que o soltasse logo",
+          "Que o enviasse a Jerusalém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "apelando ele mesmo também para {0}, determinei enviá-lo.",
+        "blanks": [
+          "Augusto"
+        ],
+        "distractors": [
+          "Festo",
+          "Agripa",
+          "Félix"
+        ]
+      },
+      {
+        "id": "acts-25-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Festo",
+            "right": "Novo governador que sucedeu a Félix"
+          },
+          {
+            "left": "Agripa e Berenice",
+            "right": "Vieram a Cesareia e ouviram a causa de Paulo"
+          },
+          {
+            "left": "Apelar a César",
+            "right": "Direito de cidadão romano que Paulo usou"
+          },
+          {
+            "left": "Augusto",
+            "right": "O imperador a quem Paulo apelou"
+          }
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "acts-26-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Diante do rei Agripa",
+        "text": "Agripa II era versado nos costumes e questões dos judeus, o que torna esta a defesa mais completa de Paulo em Atos. É a terceira narração de sua conversão no livro, agora diante de um rei."
+      },
+      {
+        "id": "acts-26-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Conforme a mais severa seita de sua religião, como Paulo dizia ter vivido?",
+        "options": [
+          "Como fariseu",
+          "Como saduceu",
+          "Como essênio",
+          "Como sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "encerrei muitos dos {0} nas prisões;",
+        "blanks": [
+          "santos"
+        ],
+        "distractors": [
+          "profetas",
+          "sacerdotes",
+          "gentios"
+        ]
+      },
+      {
+        "id": "acts-26-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Em que língua a voz do céu falou a Paulo no caminho de Damasco?",
+        "options": [
+          "Em língua hebraica",
+          "Em grego",
+          "Em latim",
+          "Em egípcio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "e das trevas os converteres à {0},",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "vida",
+          "verdade",
+          "glória"
+        ]
+      },
+      {
+        "id": "acts-26-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Como Festo reagiu ao discurso de Paulo diante de Agripa?",
+        "options": [
+          "Disse em alta voz que as muitas letras o faziam delirar",
+          "Converteu-se ao evangelho",
+          "Mandou soltá-lo",
+          "Calou-se de medo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Por pouco me persuades",
+        "text": "A famosa resposta de Agripa — 'por pouco não me persuades a fazer-me cristão' — mostra o quanto a defesa de Paulo tocou o rei. Paulo respondeu desejando que todos os ouvintes se tornassem como ele, exceto pelas cadeias."
+      },
+      {
+        "id": "acts-26-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que o rei Agripa respondeu a Paulo?",
+        "options": [
+          "Por pouco não o persuadia a tornar-se cristão",
+          "Que o condenava à morte",
+          "Que cria nos profetas",
+          "Que o libertaria na hora"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "Rei Agripa",
+            "right": "Ouviu a defesa de Paulo e quase se tornou cristão"
+          },
+          {
+            "left": "Festo",
+            "right": "Disse que as muitas letras faziam Paulo delirar"
+          },
+          {
+            "left": "Visão de Damasco",
+            "right": "Chamado de Paulo para ser ministro e testemunha"
+          },
+          {
+            "left": "Apelo a César",
+            "right": "Impediu que soltassem Paulo"
+          }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "acts-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A viagem a Roma",
+        "text": "O relato volta à primeira pessoa do plural ('nós'), sinal de que Lucas acompanhava Paulo. Como preso que apelara a César, Paulo é enviado a Roma sob a guarda do centurião Júlio, da coorte augusta."
+      },
+      {
+        "id": "acts-27-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Para onde Paulo e outros presos foram enviados, sob a guarda do centurião Júlio?",
+        "options": [
+          "Para a Itália",
+          "Para o Egito",
+          "Para a Grécia",
+          "Para Chipre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Os navios de trigo",
+        "text": "Em Mirra, o centurião embarca o grupo num navio de Alexandria rumo à Itália. Eram grandes cargueiros que levavam trigo do Egito para alimentar Roma — daí o trigo lançado ao mar mais tarde para aliviar a nave."
+      },
+      {
+        "id": "acts-27-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "O que Paulo advertiu sobre a viagem por mar?",
+        "options": [
+          "Que seria com dano e perda, para o navio, a carga e as vidas",
+          "Que chegariam em segurança",
+          "Que o vento seria favorável",
+          "Que deviam vender a carga"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Por que a maioria decidiu deixar Bons Portos e tentar chegar a Fênice?",
+        "options": [
+          "Porque o porto não era adequado para passar o inverno",
+          "Porque faltava comida",
+          "Porque havia piratas",
+          "Porque Paulo mandou"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que a tripulação fez ao ser violentamente açoitada pela tempestade?",
+        "options": [
+          "Aliviou o navio, lançando a carga e os aparelhos ao mar",
+          "Voltou a Creta",
+          "Rendeu-se aos ventos",
+          "Lançou-se nos botes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Nenhuma vida se perderá",
+        "text": "No auge da tempestade, quando todos perdiam a esperança, um anjo garantiu a Paulo que ele compareceria a César e que ninguém a bordo morreria. Paulo então animou os 276 a comer e a confiar em Deus."
+      },
+      {
+        "id": "acts-27-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "é necessário que sejas apresentado a {0},",
+        "blanks": [
+          "César"
+        ],
+        "distractors": [
+          "Festo",
+          "Agripa",
+          "Félix"
+        ]
+      },
+      {
+        "id": "acts-27-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "O que os marinheiros suspeitaram à meia-noite na décima quarta noite de tempestade?",
+        "options": [
+          "Que estavam próximos de alguma terra",
+          "Que o navio afundaria já",
+          "Que viam um farol",
+          "Que a tempestade cessara"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "porque nem um {0} da cabeça de qualquer de vós cairá.",
+        "blanks": [
+          "cabelo"
+        ],
+        "distractors": [
+          "dedo",
+          "dente",
+          "osso"
+        ]
+      },
+      {
+        "id": "acts-27-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Quantas pessoas estavam ao todo no navio?",
+        "options": [
+          "Duzentas e setenta e seis",
+          "Setenta e seis",
+          "Cento e setenta e seis",
+          "Trezentas e setenta e seis"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Por que o centurião impediu que os soldados matassem os presos no naufrágio?",
+        "options": [
+          "Porque queria salvar Paulo",
+          "Porque temia César",
+          "Porque eram inocentes",
+          "Porque um anjo o proibiu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mp-44",
+        "type": "match_pairs",
+        "after_verse": 44,
+        "pairs": [
+          {
+            "left": "Júlio",
+            "right": "Centurião da coorte augusta que guardava Paulo"
+          },
+          {
+            "left": "Euro-Aquilão",
+            "right": "Vento tempestuoso que arrastou o navio"
+          },
+          {
+            "left": "Aristarco",
+            "right": "Macedônio de Tessalônica que acompanhou Paulo"
+          },
+          {
+            "left": "Os 276",
+            "right": "Todos se salvaram em terra após o naufrágio"
+          }
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "acts-28-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "De homicida a deus",
+        "text": "Os habitantes de Malta, ao verem a víbora presa à mão de Paulo, primeiro o julgaram um assassino punido pela justiça divina; ao verem que nada lhe acontecia, passaram a chamá-lo de deus. Paulo simplesmente sacudiu a cobra no fogo, sem sofrer mal."
+      },
+      {
+        "id": "acts-28-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "uma {0}, fugindo do calor, lhe acometeu a mão.",
+        "blanks": [
+          "víbora"
+        ],
+        "distractors": [
+          "aranha",
+          "lagartixa",
+          "escorpião"
+        ]
+      },
+      {
+        "id": "acts-28-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "O que Paulo fez pelo pai de Públio, enfermo de febres e disenteria?",
+        "options": [
+          "Orou, impôs as mãos sobre ele e o curou",
+          "Deu-lhe ervas",
+          "Levou-o a um médico",
+          "Pediu que jejuasse"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como Paulo reagiu ao ser recebido pelos irmãos na Praça de Ápio e Três Vendas?",
+        "options": [
+          "Deu graças a Deus e tomou ânimo",
+          "Pediu para voltar",
+          "Calou-se de medo",
+          "Recusou a companhia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "porque pela {0} de Israel estou com esta cadeia.",
+        "blanks": [
+          "esperança"
+        ],
+        "distractors": [
+          "lei",
+          "glória",
+          "aliança"
+        ]
+      },
+      {
+        "id": "acts-28-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Como Paulo passava o dia com os judeus em Roma?",
+        "options": [
+          "Declarando o reino de Deus e persuadindo-os sobre Jesus pela lei e os profetas",
+          "Discutindo política romana",
+          "Pedindo dinheiro",
+          "Em silêncio orando"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "O fim aberto de Atos",
+        "text": "Atos termina sem narrar o julgamento final de Paulo: o foco de Lucas é o evangelho chegando livremente a Roma, capital do mundo. A citação de Isaías sobre o coração endurecido sela a virada decisiva da mensagem aos gentios."
+      },
+      {
+        "id": "acts-28-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "ensinando com toda a {0} as coisas pertencentes ao Senhor Jesus Cristo,",
+        "blanks": [
+          "ousadia"
+        ],
+        "distractors": [
+          "humildade",
+          "paciência",
+          "sabedoria"
+        ]
+      },
+      {
+        "id": "acts-28-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Malta",
+            "right": "Ilha onde Paulo sobreviveu à picada de uma víbora"
+          },
+          {
+            "left": "Públio",
+            "right": "Chefe da ilha cujo pai Paulo curou"
+          },
+          {
+            "left": "Roma",
+            "right": "Onde Paulo pregou dois anos preso, mas livremente"
+          },
+          {
+            "left": "Isaías",
+            "right": "Profeta que Paulo citou sobre o coração endurecido"
+          }
+        ]
+      }
+    ]
+  }
+}

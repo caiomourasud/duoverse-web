@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "book": "1-tim",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-tim-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Who writes this epistle and how does he call Timothy?",
+        "options": [
+          "Paul, who calls Timothy his own son in the faith",
+          "Peter, who calls Timothy his brother",
+          "James, who calls Timothy his servant",
+          "John, who calls Timothy his beloved"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-1-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Timothy at Ephesus",
+        "text": "Paul left Timothy at Ephesus to oversee the church and correct false teachers, one of the pastoral charges that give this letter its name."
+      },
+      {
+        "id": "1-tim-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "The law is not made",
+            "right": "for a righteous man"
+          },
+          {
+            "left": "The law is made",
+            "right": "for the lawless and disobedient"
+          },
+          {
+            "left": "Paul thanks",
+            "right": "Christ Jesus, who enabled him"
+          },
+          {
+            "left": "The gospel was",
+            "right": "committed to Paul's trust"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "that Christ Jesus came into the world to save {0}; of whom I am chief.",
+        "blanks": [
+          "sinners"
+        ],
+        "distractors": [
+          "apostles",
+          "prophets",
+          "teachers"
+        ]
+      },
+      {
+        "id": "1-tim-1-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Doxology to the King eternal",
+        "text": "Verse 17 is a doxology, a brief outburst of praise describing God as immortal, invisible, and the only wise God, closing with 'Amen.'"
+      },
+      {
+        "id": "1-tim-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "that thou by them mightest war a good {0};",
+        "blanks": [
+          "warfare"
+        ],
+        "distractors": [
+          "doctrine",
+          "conscience",
+          "hope"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-tim-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Pray for all",
+        "text": "Paul asks for supplications, prayers, intercessions, and thanks for ALL men, excluding no one, not even the rulers of his day."
+      },
+      {
+        "id": "1-tim-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "For there is one God, and one {0} between God and men, the man Christ Jesus;",
+        "blanks": [
+          "mediator"
+        ],
+        "distractors": [
+          "preacher",
+          "apostle",
+          "teacher"
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "To what office does Paul say he was ordained?",
+        "options": [
+          "A preacher and an apostle, a teacher of the Gentiles",
+          "King of Ephesus",
+          "Scribe of the Jews",
+          "Priest of the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Adorn themselves",
+            "right": "in modest apparel"
+          },
+          {
+            "left": "Men pray",
+            "right": "lifting up holy hands"
+          },
+          {
+            "left": "Let the woman learn",
+            "right": "in silence"
+          },
+          {
+            "left": "God will have",
+            "right": "all men to be saved"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "According to verse 13, who was formed first?",
+        "options": [
+          "Adam",
+          "Eve",
+          "Christ",
+          "Timothy"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "1-tim-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The office of a bishop",
+        "text": "The word rendered \"bishop\" means an overseer or superintendent. Paul presents it as \"a good work\" worthy of desire, not as a position of worldly honour."
+      },
+      {
+        "id": "1-tim-3-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to {0};",
+        "blanks": [
+          "teach"
+        ],
+        "distractors": [
+          "wine",
+          "strike",
+          "rule"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to Paul, care of which thing is tied to knowing how to rule one's own house?",
+        "options": [
+          "The church of God",
+          "The city",
+          "The temple",
+          "One's own wealth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Bishop",
+            "right": "Apt to teach"
+          },
+          {
+            "left": "Deacons",
+            "right": "Not doubletongued"
+          },
+          {
+            "left": "Bishop",
+            "right": "Not given to wine"
+          },
+          {
+            "left": "Deacons",
+            "right": "Not greedy of filthy lucre"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Let the deacons be the husbands of one wife, ruling their children and their own {0} well.",
+        "blanks": [
+          "houses"
+        ],
+        "distractors": [
+          "churches",
+          "consciences",
+          "wives"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "How does Paul describe the church of the living God?",
+        "options": [
+          "The pillar and ground of the truth",
+          "The snare of the devil",
+          "The glory of the Gentiles",
+          "The good degree of the deacons"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-tim-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Great Apostasy",
+        "text": "Paul's warning that some shall 'depart from the faith' is seen by Latter-day Saints as a prophecy of the Great Apostasy, which made the Restoration of the gospel necessary."
+      },
+      {
+        "id": "1-tim-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Forbidding to {0}, and commanding to abstain from meats, which God hath created",
+        "blanks": [
+          "marry"
+        ],
+        "distractors": [
+          "fast",
+          "pray",
+          "labour"
+        ]
+      },
+      {
+        "id": "1-tim-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "According to verse 4, how should every creature of God be received?",
+        "options": [
+          "With thanksgiving",
+          "In secret",
+          "With sacrifice",
+          "After fasting"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What does Paul tell Timothy to exercise himself unto?",
+        "options": [
+          "Godliness",
+          "Bodily exercise",
+          "Fables",
+          "Riches"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "bodily exercise profiteth little: but {0} is profitable unto all things",
+        "blanks": [
+          "godliness"
+        ],
+        "distractors": [
+          "reproach",
+          "doctrine",
+          "prophecy"
+        ]
+      },
+      {
+        "id": "1-tim-4-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "Give attendance to",
+            "right": "reading, to exhortation, to doctrine"
+          },
+          {
+            "left": "Neglect not",
+            "right": "the gift that is in thee"
+          },
+          {
+            "left": "Be thou an example",
+            "right": "of the believers"
+          },
+          {
+            "left": "Let no man despise",
+            "right": "thy youth"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Take heed unto thyself, and unto the {0}; continue in them",
+        "blanks": [
+          "doctrine"
+        ],
+        "distractors": [
+          "youth",
+          "fable",
+          "godliness"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-tim-5-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "How does Paul instruct Timothy to treat an elder?",
+        "options": [
+          "Rebuke him sharply",
+          "Entreat him as a father",
+          "Ignore him",
+          "Remove him from the church"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Honour widows that are widows {0}.",
+        "blanks": [
+          "indeed"
+        ],
+        "distractors": [
+          "desolate",
+          "blameless",
+          "younger"
+        ]
+      },
+      {
+        "id": "1-tim-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "According to verse 8, who has denied the faith and is worse than an infidel?",
+        "options": [
+          "One who rebukes elders",
+          "One who provides not for his own, especially his own house",
+          "One who honours widows",
+          "One who guides the house"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "if she have lodged strangers, if she have washed the saints’ {0}, if she have relieved the afflicted",
+        "blanks": [
+          "feet"
+        ],
+        "distractors": [
+          "children",
+          "house",
+          "works"
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "The roll of widows",
+        "text": "The early church kept a formal list of widows who received support and served the congregation, which is why Paul describes the conditions for being taken into the number."
+      },
+      {
+        "id": "1-tim-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Why does Paul want the younger women to marry and guide the house?",
+        "options": [
+          "To enrich the church",
+          "To give none occasion to the adversary to speak reproachfully",
+          "To leave the congregation",
+          "To receive double honour"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Let the elders that rule well be counted worthy of {0} honour",
+        "blanks": [
+          "double"
+        ],
+        "distractors": [
+          "little",
+          "no",
+          "own"
+        ]
+      },
+      {
+        "id": "1-tim-5-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "The ox that treadeth out the corn",
+            "right": "Thou shalt not muzzle"
+          },
+          {
+            "left": "The labourer",
+            "right": "Is worthy of his reward"
+          },
+          {
+            "left": "The elders that rule well",
+            "right": "Worthy of double honour"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "A little wine",
+        "text": "Paul advises Timothy to use a little wine for his stomach and frequent infirmities, a common health counsel of the day given the uncertain quality of water."
+      },
+      {
+        "id": "1-tim-5-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What does verse 25 teach about good works?",
+        "options": [
+          "They always remain hidden",
+          "They are manifest beforehand and cannot be hid",
+          "Only God knows them",
+          "They have no reward"
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "id": "1-tim-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Who wrote this letter and to whom is it addressed?",
+        "options": [
+          "Paul, to Timothy",
+          "Peter, to Titus",
+          "John, to the Ephesians",
+          "James, to the twelve tribes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-6-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "We carry nothing out",
+        "text": "The thought that we bring nothing in at birth and carry nothing out at death echoes Job 1:21 and Ecclesiastes 5:15, a reminder that material goods are fleeting."
+      },
+      {
+        "id": "1-tim-6-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "For the love of money is the {0} of all evil",
+        "blanks": [
+          "root"
+        ],
+        "distractors": [
+          "honour",
+          "truth",
+          "hope"
+        ]
+      },
+      {
+        "id": "1-tim-6-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Love of money",
+            "right": "Root of all evil"
+          },
+          {
+            "left": "Godliness with contentment",
+            "right": "Great gain"
+          },
+          {
+            "left": "Man of God",
+            "right": "Flee these things"
+          },
+          {
+            "left": "Good fight",
+            "right": "Fight of faith"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "nor trust in uncertain {0}, but in the living God",
+        "blanks": [
+          "riches"
+        ],
+        "distractors": [
+          "words",
+          "works",
+          "promises"
+        ]
+      }
+    ]
+  }
+}

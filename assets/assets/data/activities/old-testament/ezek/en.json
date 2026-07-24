@@ -1,0 +1,4037 @@
+{
+ "schema_version": 1,
+ "book": "ezek",
+ "chapters": {
+  "1": [
+   {
+    "id": "ezek-1-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "Ezekiel the priest, the son of {0}",
+    "blanks": [
+     "Buzi"
+    ],
+    "distractors": [
+     "Buz",
+     "Bani",
+     "Beor"
+    ]
+   },
+   {
+    "id": "ezek-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Where was Ezekiel when the heavens were opened and he saw visions of God (Ezekiel 1:1)?",
+    "options": [
+     "In the temple at Jerusalem",
+     "Among the captives by the river of Chebar",
+     "On Mount Sinai",
+     "In the king's palace"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "How many faces and wings did each of the four living creatures have (Ezekiel 1:6)?",
+    "options": [
+     "Two faces and two wings",
+     "Four faces and four wings",
+     "One face and six wings",
+     "Three faces and four wings"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Ezekiel 1:10, the four faces of each creature were the face of a man, a lion, an ox, and what?",
+    "options": [
+     "An eagle",
+     "A serpent",
+     "A horse",
+     "A ram"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What was beside the living creatures upon the earth in Ezekiel 1:15-16?",
+    "options": [
+     "A flaming sword",
+     "A wheel, as it were a wheel in the middle of a wheel",
+     "A golden altar",
+     "A river of fire"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Wheels full of eyes",
+    "text": "The wheels are described as 'so high that they were dreadful' and their rings 'full of eyes round about' — an image of God's all-seeing presence that moves freely in every direction, even among captives far from the temple."
+   },
+   {
+    "id": "ezek-1-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "In Ezekiel 1:24 the noise of the creatures' wings was like what?",
+    "options": [
+     "A still small whisper",
+     "The sound of trumpets",
+     "The noise of great waters, as the voice of the Almighty",
+     "The roaring of a furnace"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-1-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "When Ezekiel saw the appearance of the likeness of the glory of the Lord (Ezekiel 1:28), what did he do?",
+    "options": [
+     "He sang for joy",
+     "He hid in a cave",
+     "He fell upon his face",
+     "He ran to Jerusalem"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "ezek-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "By what title does the Lord repeatedly address Ezekiel, beginning in Ezekiel 2:1?",
+    "options": [
+     "Son of man",
+     "Servant of the Lord",
+     "Prophet of Judah",
+     "Man of God"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-2-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Sent to a rebellious house",
+    "text": "God warns that Israel may not listen, yet sends Ezekiel anyway 'whether they will hear, or whether they will forbear' — the prophet's task is faithfulness, not guaranteed success."
+   },
+   {
+    "id": "ezek-2-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "there was written therein lamentations, and mourning, and {0}",
+    "blanks": [
+     "woe"
+    ],
+    "distractors": [
+     "joy",
+     "praise",
+     "law"
+    ]
+   },
+   {
+    "id": "ezek-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What was written on the roll of a book shown to Ezekiel (Ezekiel 2:10)?",
+    "options": [
+     "Blessings and promises",
+     "Lamentations, and mourning, and woe",
+     "The names of the tribes",
+     "Songs of deliverance"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "ezek-3-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "and it was in my mouth as {0} for sweetness",
+    "blanks": [
+     "honey"
+    ],
+    "distractors": [
+     "fire",
+     "vinegar",
+     "bread"
+    ]
+   },
+   {
+    "id": "ezek-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "When Ezekiel ate the roll the Lord gave him, how did it taste (Ezekiel 3:3)?",
+    "options": [
+     "Bitter as gall",
+     "As honey for sweetness",
+     "Like dust",
+     "Sour as wine"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "To whom is Ezekiel sent to speak in Ezekiel 3:4-5?",
+    "options": [
+     "To a people of a strange speech and hard language",
+     "To the house of Israel",
+     "To the kings of Babylon",
+     "To the priests of Egypt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What role does the Lord give Ezekiel for the house of Israel in Ezekiel 3:17?",
+    "options": [
+     "A judge",
+     "A watchman",
+     "A king",
+     "A scribe"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-cur-15",
+    "type": "curiosity",
+    "after_verse": 15,
+    "title": "Seven days astonished",
+    "text": "Before he could speak, Ezekiel sat among the captives at Tel-abib 'astonished' for seven days — overwhelmed by what he had seen before the word of the Lord came to him again."
+   },
+   {
+    "id": "ezek-3-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Where did the Lord tell Ezekiel to go to speak with him in Ezekiel 3:22?",
+    "options": [
+     "Into the plain",
+     "Up the mountain",
+     "To the temple",
+     "Across the river"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-3-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "According to Ezekiel 3:26, what would happen to Ezekiel's tongue?",
+    "options": [
+     "It would be loosed to sing",
+     "It would cleave to the roof of his mouth so he would be dumb",
+     "It would speak many languages",
+     "It would be burned with a coal"
+    ],
+    "answer": 1
+   }
+  ],
+  "4": [
+   {
+    "id": "ezek-4-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "son of man, take thee a {0}",
+    "blanks": [
+     "tile"
+    ],
+    "distractors": [
+     "sword",
+     "scroll",
+     "harp"
+    ]
+   },
+   {
+    "id": "ezek-4-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What city was Ezekiel told to portray upon the tile in Ezekiel 4:1?",
+    "options": [
+     "Babylon",
+     "Jerusalem",
+     "Nineveh",
+     "Samaria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How many days was Ezekiel to lie on his left side, bearing the iniquity of Israel (Ezekiel 4:5)?",
+    "options": [
+     "Forty days",
+     "Seventy days",
+     "Three hundred and ninety days",
+     "Seven days"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-4-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "A day for a year",
+    "text": "The Lord tells Ezekiel, 'I have appointed thee each day for a year' (4:6) — the days he lies on each side stand for the years of Israel's and Judah's guilt, turning his body into a living calendar of judgment."
+   },
+   {
+    "id": "ezek-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "How was Ezekiel to measure the food he ate during the sign (Ezekiel 4:10)?",
+    "options": [
+     "By weight, twenty shekels a day",
+     "As much as he wished",
+     "Once a week",
+     "Only at night"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-4-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Why would the people of Jerusalem eat bread by weight and drink water by measure (Ezekiel 4:16-17)?",
+    "options": [
+     "To prepare for a feast",
+     "Because the Lord would break the staff of bread, so they would consume away for their iniquity",
+     "To honor a vow",
+     "Because of a drought sent by Baal"
+    ],
+    "answer": 1
+   }
+  ],
+  "5": [
+   {
+    "id": "ezek-5-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "take thee a barber’s {0}",
+    "blanks": [
+     "razor"
+    ],
+    "distractors": [
+     "staff",
+     "cloak",
+     "vessel"
+    ]
+   },
+   {
+    "id": "ezek-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What sign act did the Lord command Ezekiel to perform with a sharp knife in Ezekiel 5:1?",
+    "options": [
+     "Cut down a tree",
+     "Shave his head and his beard, then divide the hair",
+     "Slay a lamb",
+     "Break a clay jar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-5-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Why does the Lord say he will not spare Jerusalem in Ezekiel 5:11?",
+    "options": [
+     "Because she defiled his sanctuary with detestable things and abominations",
+     "Because she was too small",
+     "Because of a famine",
+     "Because she trusted in Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-5-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Set in the midst of the nations",
+    "text": "The Lord says of Jerusalem, 'This is Jerusalem: I have set it in the midst of the nations' (5:5). Chosen to be an example of righteousness to the surrounding peoples, she instead exceeded them in wickedness."
+   },
+   {
+    "id": "ezek-5-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Which judgments does the Lord say he will send upon Jerusalem in Ezekiel 5:12,17?",
+    "options": [
+     "Earthquake and flood",
+     "Famine, evil beasts, pestilence, blood, and the sword",
+     "Hail and locusts",
+     "Darkness and frogs"
+    ],
+    "answer": 1
+   }
+  ],
+  "6": [
+   {
+    "id": "ezek-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Against what does the Lord tell Ezekiel to set his face and prophesy in Ezekiel 6:2-3?",
+    "options": [
+     "The mountains of Israel",
+     "The ships of Tyre",
+     "The rivers of Egypt",
+     "The walls of Babylon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-6-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Against the high places",
+    "text": "The 'high places' (6:3) were hilltop shrines where Israel offered to idols. By turning the judgment against the very mountains, the Lord strikes at the heart of the nation's idolatry."
+   },
+   {
+    "id": "ezek-6-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What did the Lord say the escaped remnant would do among the nations (Ezekiel 6:9-10)?",
+    "options": [
+     "Forget the Lord entirely",
+     "Remember the Lord and loathe themselves for their abominations",
+     "Build new temples",
+     "Make war on Babylon"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "By what three things does Ezekiel 6:11-12 say the house of Israel shall fall?",
+    "options": [
+     "By drought, frost, and storm",
+     "By the sword, the famine, and the pestilence",
+     "By fire, flood, and earthquake",
+     "By exile, slavery, and shame"
+    ],
+    "answer": 1
+   }
+  ],
+  "7": [
+   {
+    "id": "ezek-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What single word does the Lord repeatedly declare has come upon the land of Israel in Ezekiel 7:2-3?",
+    "options": [
+     "The end",
+     "The dawn",
+     "The harvest",
+     "The feast"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-7-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "An end, not just a siege",
+    "text": "Earlier chapters warned of siege; here the message sharpens to a final reckoning — 'An end, the end is come upon the four corners of the land' (7:2). The day of the Lord's wrath has arrived for Israel."
+   },
+   {
+    "id": "ezek-7-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 7:10, what is said to have blossomed and budded as the day comes?",
+    "options": [
+     "The almond tree",
+     "The rod and pride",
+     "The fig tree",
+     "The vine"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-7-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "According to Ezekiel 7:15, where are the sword, the pestilence, and the famine?",
+    "options": [
+     "All hidden underground",
+     "The sword is without, and the pestilence and the famine within",
+     "Only in Babylon",
+     "Carried away by the wind"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-7-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Into whose hands will the Lord give the land for a prey and a spoil in Ezekiel 7:21?",
+    "options": [
+     "The angels",
+     "The priests",
+     "The strangers and the wicked of the earth",
+     "The kings of Judah"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-7-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "According to Ezekiel 7:26, when the people seek a vision of the prophet, what will be lacking?",
+    "options": [
+     "Bread from the baker",
+     "The law from the priest and counsel from the ancients",
+     "Water from the well",
+     "Soldiers for the wall"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "ezek-8-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "To what city was Ezekiel carried in the visions of God in Ezekiel 8:3?",
+    "options": [
+     "Babylon",
+     "Jerusalem",
+     "Bethel",
+     "Tyre"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "The image of jealousy",
+    "text": "At the temple gate Ezekiel sees 'the image of jealousy, which provoketh to jealousy' (8:3) — an idol set up in God's own house, the first of a tour of escalating abominations within the sanctuary."
+   },
+   {
+    "id": "ezek-8-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "When Ezekiel dug in the wall as the Lord told him in Ezekiel 8:7-8, what did he find?",
+    "options": [
+     "A buried treasure",
+     "A door",
+     "A hidden spring",
+     "A scroll"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "How many men of the ancients of Israel stood with censers before the idols, and who was among them (Ezekiel 8:11)?",
+    "options": [
+     "Twelve men, with Aaron",
+     "Seventy men, with Jaazaniah the son of Shaphan",
+     "Forty men, with Eli",
+     "Ten men, with Korah"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "How does the Lord say he will respond to these abominations in Ezekiel 8:18?",
+    "options": [
+     "He will forgive at once",
+     "He will deal in fury; his eye shall not spare, and though they cry he will not hear",
+     "He will send a prophet to plead",
+     "He will delay for a hundred years"
+    ],
+    "answer": 1
+   }
+  ],
+  "9": [
+   {
+    "id": "ezek-9-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "one man among them was clothed with {0}",
+    "blanks": [
+     "linen"
+    ],
+    "distractors": [
+     "gold",
+     "scarlet",
+     "wool"
+    ]
+   },
+   {
+    "id": "ezek-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What was the man clothed with linen told to set upon the foreheads of certain men in Ezekiel 9:4?",
+    "options": [
+     "A crown",
+     "A mark, upon those who sigh and cry for the abominations",
+     "A seal of wax",
+     "A drop of oil"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-9-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "Begin at my sanctuary",
+    "text": "The Lord commands the slayers to spare those who bear the mark but to 'begin at my sanctuary' (9:6) — judgment starts with God's own house and its corrupt leaders before reaching the city."
+   },
+   {
+    "id": "ezek-9-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "What did the man clothed with linen report when he returned in Ezekiel 9:11?",
+    "options": [
+     "That the city had repented",
+     "That he had done as he was commanded",
+     "That the enemy had fled",
+     "That the temple was rebuilt"
+    ],
+    "answer": 1
+   }
+  ],
+  "10": [
+   {
+    "id": "ezek-10-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What did the Lord tell the man clothed with linen to fill his hands with and scatter over the city (Ezekiel 10:2)?",
+    "options": [
+     "Salt",
+     "Coals of fire from between the cherubims",
+     "Seed",
+     "Ashes"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-10-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "The glory leaves the threshold",
+    "text": "In 10:4 'the glory of the Lord went up from the cherub, and stood over the threshold of the house' — a step in the slow, sorrowful departure of God's presence from the temple before its destruction."
+   },
+   {
+    "id": "ezek-10-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "How are the wheels described in Ezekiel 10:9-10?",
+    "options": [
+     "As broken and still",
+     "As a wheel in the midst of a wheel, all of one likeness",
+     "As wheels of stone",
+     "As tiny and hidden"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-10-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Which four faces did each cherub have, according to Ezekiel 10:14?",
+    "options": [
+     "Cherub, man, lion, and eagle",
+     "Lamb, ox, dove, and serpent",
+     "Man, horse, ram, and fish",
+     "Lion, bear, leopard, and goat"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-10-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "As what does Ezekiel identify the cherubims in Ezekiel 10:15,20?",
+    "options": [
+     "Angels he had never seen",
+     "The living creatures he had seen by the river of Chebar",
+     "The seraphim of the temple",
+     "Statues from the holy place"
+    ],
+    "answer": 1
+   }
+  ],
+  "11": [
+   {
+    "id": "ezek-11-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What proverb did the princes of the people say in Ezekiel 11:3?",
+    "options": [
+     "This city is the caldron, and we be the flesh",
+     "The fathers have eaten sour grapes",
+     "A prophet is not without honour",
+     "The harvest is past"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-11-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Named leaders",
+    "text": "Ezekiel names the princes at the gate — Jaazaniah the son of Azur and Pelatiah the son of Benaiah (11:1) — concrete leaders held responsible for the wicked counsel given in the city."
+   },
+   {
+    "id": "ezek-11-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What did the Lord say would happen to those who trusted the 'caldron' in Ezekiel 11:8-10?",
+    "options": [
+     "They would be crowned",
+     "He would bring a sword upon them and judge them in the border of Israel",
+     "They would prosper",
+     "They would flee to Egypt safely"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Ezekiel 11:15, what had the inhabitants of Jerusalem said to Ezekiel's brethren in exile?",
+    "options": [
+     "Come back to the city at once",
+     "Get you far from the Lord: unto us is this land given in possession",
+     "Bring us gold from Babylon",
+     "Pray for our king"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What new thing does the Lord promise to give in Ezekiel 11:19?",
+    "options": [
+     "A new temple of gold",
+     "One heart and a new spirit, taking away the stony heart and giving a heart of flesh",
+     "A new king from David",
+     "A new law on tablets"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Where did the glory of the Lord go and what did Ezekiel then do (Ezekiel 11:23-25)?",
+    "options": [
+     "It filled the temple, and he sang",
+     "It went up from the city to the mountain on the east, and he told the captives all the Lord had shown him",
+     "It returned to Sinai, and he slept",
+     "It vanished, and he wept silently"
+    ],
+    "answer": 1
+   }
+  ],
+  "12": [
+   {
+    "id": "ezek-12-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What sign act does the Lord command Ezekiel to perform in Ezekiel 12:3-5?",
+    "options": [
+     "Plant a vineyard",
+     "Prepare baggage for removing, dig through the wall, and go forth as into captivity",
+     "Build an altar",
+     "Climb a tower and shout"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Eyes that see not",
+    "text": "The Lord describes Israel as a rebellious house 'which have eyes to see, and see not; they have ears to hear, and hear not' (12:2) — so Ezekiel must act out his message in plain sight to break through their blindness."
+   },
+   {
+    "id": "ezek-12-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Whom does the 'burden' of Ezekiel 12:10 concern?",
+    "options": [
+     "The prince in Jerusalem and all the house of Israel",
+     "The king of Babylon",
+     "The priests of Tyre",
+     "The elders of Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-12-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "What does the Lord say the people will know when he scatters them among the nations (Ezekiel 12:15)?",
+    "options": [
+     "That the prophets were false",
+     "That I am the Lord",
+     "That Babylon is mighty",
+     "That the land is cursed"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "eat thy bread with quaking, and drink thy water with {0}",
+    "blanks": [
+     "trembling"
+    ],
+    "distractors": [
+     "singing",
+     "gladness",
+     "laughter"
+    ]
+   },
+   {
+    "id": "ezek-12-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "With what was Ezekiel told to eat his bread and drink his water in Ezekiel 12:18?",
+    "options": [
+     "With feasting and joy",
+     "With quaking and trembling and carefulness",
+     "In secret",
+     "Standing at the gate"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "How does the Lord answer the saying that 'every vision faileth' in Ezekiel 12:23,25,28?",
+    "options": [
+     "He admits the visions were mistaken",
+     "He declares that none of his words shall be prolonged, but shall come to pass without delay",
+     "He postpones the visions a thousand years",
+     "He sends new prophets to Babylon"
+    ],
+    "answer": 1
+   }
+  ],
+  "13": [
+   {
+    "id": "ezek-13-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Foxes among the ruins",
+    "text": "Verse 4 likens Israel's false prophets to \"foxes in the deserts\" — scavengers that burrow into broken walls rather than repair them, a vivid charge against leaders who exploit ruin instead of mending it."
+   },
+   {
+    "id": "ezek-13-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 13:5, what had the false prophets failed to do?",
+    "options": [
+     "Go up into the gaps and make up the hedge for the house of Israel",
+     "Offer the daily sacrifices",
+     "Anoint a new king",
+     "Write down the law"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-13-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What false message had the prophets given the people, according to Ezekiel 13:10?",
+    "options": [
+     "A coming famine",
+     "Peace, when there was no peace",
+     "The return of the ark",
+     "A new temple"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-13-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "Say unto them which daub it with {0} mortar",
+    "blanks": [
+     "untempered"
+    ],
+    "distractors": [
+     "golden",
+     "fresh",
+     "white"
+    ]
+   },
+   {
+    "id": "ezek-13-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "In Ezekiel 13:16, what did these prophets of Israel see for Jerusalem?",
+    "options": [
+     "Visions of war",
+     "A coming king",
+     "Visions of peace, when there was no peace",
+     "A great harvest"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-13-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What does the Lord promise in Ezekiel 13:23 about the false prophets' power?",
+    "options": [
+     "He will make them rulers",
+     "He will give them new visions",
+     "He will let them remain",
+     "They shall see no more vanity nor divine divinations"
+    ],
+    "answer": 3
+   }
+  ],
+  "14": [
+   {
+    "id": "ezek-14-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Why do the elders who come to Ezekiel receive no true answer from the Lord (Ezekiel 14:3-4)?",
+    "options": [
+     "They have set up their idols in their heart",
+     "They came at the wrong hour",
+     "They brought no offering",
+     "They were not priests"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-14-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Ezekiel 14:6, what does the Lord command the house of Israel to do?",
+    "options": [
+     "Build a new altar",
+     "Repent and turn from their idols",
+     "Flee to Egypt",
+     "Crown a king"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-14-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Which three righteous men does Ezekiel 14:14 name, who could deliver only their own souls?",
+    "options": [
+     "Abraham, Isaac, and Jacob",
+     "Moses, Aaron, and Samuel",
+     "Noah, Daniel, and Job",
+     "Elijah, Elisha, and Isaiah"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-14-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What are the Lord's \"four sore judgments\" upon Jerusalem in Ezekiel 14:21?",
+    "options": [
+     "Drought, locusts, fire, and earthquake",
+     "Storm, flood, hail, and frost",
+     "Darkness, blindness, deafness, and silence",
+     "The sword, the famine, the noisome beast, and the pestilence"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-14-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "Daniel among the ancients",
+    "text": "By naming Daniel beside Noah and Job as a byword for righteousness (v. 14), Ezekiel — a contemporary — treats Daniel, then a young exile in Babylon, as already famed for his integrity."
+   }
+  ],
+  "15": [
+   {
+    "id": "ezek-15-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "The useless vine wood",
+    "text": "Unlike oak or cedar, a vine's wood is too crooked and soft to build with; its only worth is its fruit. The Lord's question in verse 2 sets up the whole point: a fruitless vine is good for nothing but burning."
+   },
+   {
+    "id": "ezek-15-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Ezekiel 15:4, what becomes of the vine wood once it is cast into the fire?",
+    "options": [
+     "It is shaped into a vessel",
+     "The fire devours both ends and the midst is burned",
+     "It is rescued unburned",
+     "It is made into a pin to hang things on"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-15-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "And I will make the land {0}",
+    "blanks": [
+     "desolate"
+    ],
+    "distractors": [
+     "fruitful",
+     "holy",
+     "level"
+    ]
+   }
+  ],
+  "16": [
+   {
+    "id": "ezek-16-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In the allegory of Ezekiel 16:6, what does the Lord say to the abandoned newborn?",
+    "options": [
+     "Live",
+     "Flee",
+     "Be silent",
+     "Arise and walk"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "I clothed thee also with broidered work, and shod thee with {0} skin",
+    "blanks": [
+     "badgers’"
+    ],
+    "distractors": [
+     "lions’",
+     "lambs’",
+     "oxen’s"
+    ]
+   },
+   {
+    "id": "ezek-16-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "According to Ezekiel 16:14, what made Jerusalem's renown go forth among the nations?",
+    "options": [
+     "Her wealth in gold",
+     "Her beauty, made perfect through the Lord's comeliness",
+     "Her armies",
+     "Her wisdom"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Whom does Ezekiel 16:3 name as Jerusalem's symbolic father and mother?",
+    "options": [
+     "An Egyptian and a Moabite",
+     "A Babylonian and a Philistine",
+     "An Amorite and a Hittite",
+     "An Assyrian and a Canaanite"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-16-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "In Ezekiel 16:27, into whose will did the Lord deliver Jerusalem when she went astray?",
+    "options": [
+     "The Egyptians",
+     "The Assyrians",
+     "The Chaldeans",
+     "The daughters of the Philistines"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-16-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Forgetting the day of rescue",
+    "text": "The repeated charge (vv. 22) is that Jerusalem \"hast not remembered the days of thy youth\" — the heart of the allegory is ingratitude: forgetting the One who rescued and adorned her."
+   },
+   {
+    "id": "ezek-16-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "In Ezekiel 16:32, to what is unfaithful Jerusalem compared?",
+    "options": [
+     "A widow without sons",
+     "A wife that taketh strangers instead of her husband",
+     "A queen without a crown",
+     "A servant set free"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "What does Ezekiel 16:35 call Jerusalem as it summons her to hear the word of the Lord?",
+    "options": [
+     "O harlot",
+     "O daughter",
+     "O city",
+     "O Zion"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-mc-39",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "According to Ezekiel 16:38, how will the Lord judge Jerusalem?",
+    "options": [
+     "As soldiers in battle",
+     "As women that break wedlock and shed blood are judged",
+     "As thieves caught stealing",
+     "As strangers in the land"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-44",
+    "type": "multiple_choice",
+    "after_verse": 44,
+    "question": "What proverb does Ezekiel 16:44 say will be used against Jerusalem?",
+    "options": [
+     "A prophet has no honor at home",
+     "Pride goeth before a fall",
+     "As is the mother, so is her daughter",
+     "The fathers have eaten sour grapes"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-16-mc-50",
+    "type": "multiple_choice",
+    "after_verse": 50,
+    "question": "In Ezekiel 16:46, who are named as Jerusalem's elder and younger sisters?",
+    "options": [
+     "Babylon and Tyre",
+     "Nineveh and Damascus",
+     "Egypt and Edom",
+     "Samaria and Sodom"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-16-fb-51",
+    "type": "fill_blank",
+    "after_verse": 51,
+    "verse": 51,
+    "template": "Neither hath Samaria committed half of thy {0}",
+    "blanks": [
+     "sins"
+    ],
+    "distractors": [
+     "fields",
+     "feasts",
+     "songs"
+    ]
+   },
+   {
+    "id": "ezek-16-mc-57",
+    "type": "multiple_choice",
+    "after_verse": 57,
+    "question": "In Ezekiel 16:49, what does the Lord name as the iniquity of Sodom?",
+    "options": [
+     "Pride, fulness of bread, and abundance of idleness",
+     "Theft and murder",
+     "Sorcery and false oaths",
+     "Drunkenness alone"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-mc-63",
+    "type": "multiple_choice",
+    "after_verse": 63,
+    "question": "Despite the judgment, what does the Lord promise in Ezekiel 16:60?",
+    "options": [
+     "To remember his covenant and establish an everlasting covenant",
+     "To send a new prophet",
+     "To rebuild the walls in a day",
+     "To restore the kings"
+    ],
+    "answer": 0
+   }
+  ],
+  "17": [
+   {
+    "id": "ezek-17-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In the riddle of Ezekiel 17:3, what does the great eagle take from Lebanon?",
+    "options": [
+     "The highest branch of the cedar",
+     "A stone from the mountain",
+     "A lamb from the flock",
+     "A spring of water"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-17-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "What did the seed of the land become after it was planted, in Ezekiel 17:6?",
+    "options": [
+     "A tall cedar",
+     "A spreading vine of low stature",
+     "An olive tree",
+     "A field of wheat"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-17-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "shall it not utterly wither, when the {0} wind toucheth it",
+    "blanks": [
+     "east"
+    ],
+    "distractors": [
+     "west",
+     "north",
+     "south"
+    ]
+   },
+   {
+    "id": "ezek-17-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "How does Ezekiel 17:12 interpret the riddle of the first eagle?",
+    "options": [
+     "A famine in the land",
+     "A plague among the cattle",
+     "The king of Babylon coming to Jerusalem and taking its king and princes",
+     "The building of a new temple"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-17-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "According to Ezekiel 17:15, against whom did the vine-king rebel by sending ambassadors to Egypt?",
+    "options": [
+     "Against Assyria",
+     "Against the Philistines",
+     "Against the Ammonites",
+     "Against the king of Babylon"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-17-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "The tender twig on the high mountain",
+    "text": "After all the judgment, verse 22 turns hopeful: the Lord himself will crop a tender shoot from the high cedar's top and plant it on a high and eminent mountain — long read as a messianic promise that the Lord will raise up the kingdom he chooses."
+   },
+   {
+    "id": "ezek-17-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "What does the Lord declare he does in Ezekiel 17:24, that all the trees of the field may know?",
+    "options": [
+     "He brings down the high tree and exalts the low tree",
+     "He plants only cedars",
+     "He waters the desert",
+     "He raises the seas"
+    ],
+    "answer": 0
+   }
+  ],
+  "18": [
+   {
+    "id": "ezek-18-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "the soul that {0}, it shall die",
+    "blanks": [
+     "sinneth"
+    ],
+    "distractors": [
+     "liveth",
+     "speaketh",
+     "wandereth"
+    ]
+   },
+   {
+    "id": "ezek-18-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Of the just man who keeps the Lord's statutes, what does Ezekiel 18:9 declare?",
+    "options": [
+     "He shall surely live",
+     "He shall be made a king",
+     "He shall be rich",
+     "He shall never sorrow"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Ezekiel 18:13, what is said of the violent son who does all these abominations?",
+    "options": [
+     "He shall be forgiven",
+     "He shall surely die; his blood shall be upon him",
+     "He shall live for his father's sake",
+     "He shall be made a priest"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-18-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "According to Ezekiel 18:17, does the righteous son die for the iniquity of his wicked father?",
+    "options": [
+     "Yes, he bears it fully",
+     "Only in part",
+     "He shall not die for it; he shall surely live",
+     "Only if he is silent"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-18-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What proverb does the Lord forbid Israel to use, in Ezekiel 18:2-3?",
+    "options": [
+     "A prophet has no honor at home",
+     "As is the mother, so is her daughter",
+     "Pride goeth before a fall",
+     "The fathers have eaten sour grapes, and the children's teeth are set on edge"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-18-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "In Ezekiel 18:21, what happens to the wicked who turns from all his sins?",
+    "options": [
+     "He shall surely live; he shall not die",
+     "He shall die anyway",
+     "He must first pay a price",
+     "He shall be exiled"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "What complaint does Israel raise in Ezekiel 18:25, which the Lord answers?",
+    "options": [
+     "The way of the Lord is not equal",
+     "The Lord has forgotten us",
+     "The famine is too great",
+     "The prophets are silent"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-cur-31",
+    "type": "curiosity",
+    "after_verse": 31,
+    "title": "A new heart and a new spirit",
+    "text": "Verse 31's plea — \"make you a new heart and a new spirit\" — anticipates the promise of Ezekiel 36 to replace the heart of stone with a heart of flesh; here it is framed as something the people are urged to do."
+   },
+   {
+    "id": "ezek-18-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "How does Ezekiel 18:32 describe the Lord's desire toward the one who dies?",
+    "options": [
+     "He delights in judgment",
+     "He has no pleasure in the death of him that dieth",
+     "He is indifferent",
+     "He rejoices in punishment"
+    ],
+    "answer": 1
+   }
+  ],
+  "19": [
+   {
+    "id": "ezek-19-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In the lamentation of Ezekiel 19:2, to what is the mother of the princes compared?",
+    "options": [
+     "A lioness lying down among lions",
+     "An eagle on the cliff",
+     "A vine on the hill",
+     "A ewe with her lambs"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-19-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "What became of the first young lion, according to Ezekiel 19:4?",
+    "options": [
+     "He ruled forever",
+     "He was taken in their pit and brought with chains to Egypt",
+     "He fled to the mountains",
+     "He was made a shepherd"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-19-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "This is a {0}, and shall be for a lamentation",
+    "blanks": [
+     "lamentation"
+    ],
+    "distractors": [
+     "blessing",
+     "promise",
+     "parable"
+    ]
+   },
+   {
+    "id": "ezek-19-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "From lions to a withered vine",
+    "text": "The poem shifts its figure midway: the princes are first young lions caught by the nations, then a fruitful vine plucked up and dried by the east wind — a double image of Judah's fallen royal house."
+   }
+  ],
+  "20": [
+   {
+    "id": "ezek-20-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In Ezekiel 20:6, how does the Lord describe the land he swore to bring Israel into?",
+    "options": [
+     "Flowing with milk and honey, the glory of all lands",
+     "A barren wilderness",
+     "A walled fortress",
+     "A land of forests"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "What did the Lord give Israel in the wilderness, by which a man should live, in Ezekiel 20:11?",
+    "options": [
+     "A king",
+     "His statutes and judgments",
+     "A temple",
+     "Manna only"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-20-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "but {0} my sabbaths",
+    "blanks": [
+     "polluted"
+    ],
+    "distractors": [
+     "honored",
+     "kept",
+     "blessed"
+    ]
+   },
+   {
+    "id": "ezek-20-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "According to Ezekiel 20:21, what did the children do, like their fathers?",
+    "options": [
+     "They built an altar",
+     "They crowned a king",
+     "They rebelled and polluted the sabbaths",
+     "They returned to Egypt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-20-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "In Ezekiel 20:27, in what further way does the Lord say Israel's fathers had blasphemed him?",
+    "options": [
+     "By committing a trespass against him",
+     "By burning the scrolls",
+     "By crowning a foreign king",
+     "By tearing down the altar"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "In Ezekiel 20:32, what did Israel say in their mind that shall not come to pass?",
+    "options": [
+     "We will be as the heathen, to serve wood and stone",
+     "We will rebuild the temple",
+     "We will return to the desert",
+     "We will choose a new prophet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "What does the Lord say he will do in Ezekiel 20:37 as he gathers his people?",
+    "options": [
+     "Cause them to pass under the rod and bring them into the bond of the covenant",
+     "Scatter them again",
+     "Make them all priests",
+     "Give them new lands at once"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "For my name's sake",
+    "text": "In verse 9 the Lord says he acted \"for my name's sake\" — a refrain repeated through the chapter — sparing rebellious Israel not because they deserved it, but so his name would not be profaned among the nations."
+   },
+   {
+    "id": "ezek-20-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "What will Israel know when the Lord brings them into the land of Israel, in Ezekiel 20:42?",
+    "options": [
+     "That the prophets failed",
+     "That I am the Lord",
+     "That the nations are stronger",
+     "That the covenant is broken"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-20-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "What does Ezekiel complain people say about him, in Ezekiel 20:49?",
+    "options": [
+     "Doth he not speak parables?",
+     "Is he not a king?",
+     "Has he forgotten the law?",
+     "Why does he weep?"
+    ],
+    "answer": 0
+   }
+  ],
+  "21": [
+   {
+    "id": "ezek-21-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 21:3, what does the Lord say he will draw forth against the land of Israel?",
+    "options": [
+     "His sword out of his sheath",
+     "A great flood",
+     "A swarm of locusts",
+     "A consuming fire"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-21-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "to give it into the hand of the {0}",
+    "blanks": [
+     "slayer"
+    ],
+    "distractors": [
+     "king",
+     "priest",
+     "merchant"
+    ]
+   },
+   {
+    "id": "ezek-21-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Ezekiel 21:12, against whom will the sword come, that the prophet should smite his thigh?",
+    "options": [
+     "The Egyptians",
+     "The priests alone",
+     "The Lord's people and all the princes of Israel",
+     "The merchants of Tyre"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-21-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "How does the king of Babylon use divination at the parting of the way, in Ezekiel 21:21?",
+    "options": [
+     "He casts dice",
+     "He reads the stars",
+     "He drinks from a cup",
+     "He makes his arrows bright, consults images, and looks in the liver"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-21-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What is commanded of the wicked prince of Israel in Ezekiel 21:26?",
+    "options": [
+     "Remove the diadem and take off the crown",
+     "Build a new throne",
+     "Marry a foreign wife",
+     "Lead the army out"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-21-cur-27",
+    "type": "curiosity",
+    "after_verse": 27,
+    "title": "Until he come whose right it is",
+    "text": "The threefold \"I will overturn, overturn, overturn it\" (v. 27) ends with \"until he come whose right it is\" — long read as a messianic promise that the throne would one day rest with its rightful King."
+   },
+   {
+    "id": "ezek-21-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Against which people is the sword oracle of Ezekiel 21:28 also turned?",
+    "options": [
+     "The Ammonites",
+     "The Egyptians",
+     "The Edomites",
+     "The Moabites"
+    ],
+    "answer": 0
+   }
+  ],
+  "22": [
+   {
+    "id": "ezek-22-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What title does the Lord repeatedly give Jerusalem in Ezekiel 22:2-3?",
+    "options": [
+     "The bloody city",
+     "The holy city",
+     "The city of refuge",
+     "The royal city"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-22-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "According to Ezekiel 22:6, who were in Jerusalem, each one to their power, to shed blood?",
+    "options": [
+     "The princes of Israel",
+     "The foreign armies",
+     "The merchants",
+     "The shepherds"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-22-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Ezekiel 22:7, how were the fatherless and the widow treated in Jerusalem?",
+    "options": [
+     "They were honored",
+     "They were vexed",
+     "They were enriched",
+     "They were crowned"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-22-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "What does the Lord say he will do to Jerusalem in Ezekiel 22:15?",
+    "options": [
+     "Restore her at once",
+     "Hide her away",
+     "Scatter her among the heathen and disperse her in the countries",
+     "Build her walls higher"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-22-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "To what does Ezekiel 22:18 compare the house of Israel?",
+    "options": [
+     "Pure gold",
+     "Living water",
+     "Fine wheat",
+     "Dross of silver in the furnace"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-22-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "How does the Lord describe the land in Ezekiel 22:24?",
+    "options": [
+     "A land flowing with milk and honey",
+     "The land that is not cleansed, nor rained upon in the day of indignation",
+     "A garden of the Lord",
+     "A walled vineyard"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-22-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Whom did the Lord seek in Ezekiel 22:30, to stand in the gap, but found none?",
+    "options": [
+     "A king",
+     "A priest",
+     "A prophet",
+     "A man to make up the hedge and stand in the gap"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-22-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "Israel as the dross",
+    "text": "Verse 18 turns Israel into the worthless dross left when silver is refined — brass, tin, iron, and lead. The coming siege is pictured as a furnace meant to melt the city down and burn that dross away."
+   }
+  ],
+  "23": [
+   {
+    "id": "ezek-23-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In the allegory of Ezekiel 23:4, what are the names of the two sisters, and which cities do they stand for?",
+    "options": [
+     "Aholah is Samaria, and Aholibah is Jerusalem",
+     "Aholah is Jerusalem, and Aholibah is Samaria",
+     "Aholah is Babylon, and Aholibah is Tyre",
+     "Aholah is Sodom, and Aholibah is Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Ezekiel 23:11, how did the younger sister Aholibah compare to her sister?",
+    "options": [
+     "She was faithful",
+     "She was more corrupt in her doings than her sister",
+     "She repented",
+     "She fled the land"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Whose images, portrayed on the wall, did Aholibah become enamored with, in Ezekiel 23:14?",
+    "options": [
+     "The Egyptians",
+     "The Philistines",
+     "The Chaldeans",
+     "The Edomites"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-23-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "What happened after the Lord's mind was alienated from Aholibah, in Ezekiel 23:18?",
+    "options": [
+     "She was restored",
+     "She was praised",
+     "She was crowned",
+     "His mind was alienated, as it had been from her sister"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-23-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Two sisters, one warning",
+    "text": "The names Aholah (\"her own tent\") and Aholibah (\"my tent is in her\") hint at the theme: Samaria built her own shrines, while Jerusalem held the Lord's true sanctuary — yet both proved unfaithful."
+   },
+   {
+    "id": "ezek-23-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Which nations does the Lord say he will raise up against Aholibah, in Ezekiel 23:22-23?",
+    "options": [
+     "The Babylonians, the Chaldeans, and the Assyrians",
+     "The Egyptians and the Moabites",
+     "The Edomites and the Philistines",
+     "The Greeks and the Romans"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "What does the Lord say he will set against Aholibah in Ezekiel 23:25?",
+    "options": [
+     "His mercy",
+     "His jealousy",
+     "His silence",
+     "His blessing"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "According to Ezekiel 23:30, why are these things done to her?",
+    "options": [
+     "For a famine",
+     "For a broken treaty",
+     "Because she went after the heathen and was polluted with their idols",
+     "For a forgotten feast"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-23-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "What does the Lord charge Aholibah with in Ezekiel 23:35?",
+    "options": [
+     "She honored him",
+     "She built him an altar",
+     "She kept his sabbaths",
+     "She forgot him and cast him behind her back"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-23-mc-41",
+    "type": "multiple_choice",
+    "after_verse": 41,
+    "question": "What did Aholibah set upon the table before her, in Ezekiel 23:41?",
+    "options": [
+     "The Lord's incense and oil",
+     "Bread and wine",
+     "Gold and silver",
+     "Fruit and grain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "According to Ezekiel 23:42, what did the men from the wilderness put upon the sisters' hands and heads?",
+    "options": [
+     "Chains and fetters",
+     "Bracelets and beautiful crowns",
+     "Veils and sashes",
+     "Rings and seals"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "What will the sisters know after their judgment, according to Ezekiel 23:49?",
+    "options": [
+     "That the prophets failed",
+     "That I am the Lord God",
+     "That the nations are mighty",
+     "That the temple is gone"
+    ],
+    "answer": 1
+   }
+  ],
+  "24": [
+   {
+    "id": "ezek-24-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What object does the Lord command Ezekiel to set on the fire as a parable, in Ezekiel 24:3?",
+    "options": [
+     "A pot",
+     "A lamp",
+     "An altar",
+     "A loom"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What does the Lord again call Jerusalem as he announces the great pile for fire, in Ezekiel 24:9?",
+    "options": [
+     "The bloody city",
+     "The faithful city",
+     "The chosen city",
+     "The peaceful city"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "The pot whose scum will not come out",
+    "text": "The boiling pot (vv. 3-6) is Jerusalem: its \"scum\" — its ingrained corruption — clings even as the contents are boiled away, so the Lord finally commands the empty pot itself be set on the coals to burn the filth out."
+   },
+   {
+    "id": "ezek-24-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Heap on wood, kindle the fire, consume the {0}",
+    "blanks": [
+     "flesh"
+    ],
+    "distractors": [
+     "stone",
+     "iron",
+     "garments"
+    ]
+   },
+   {
+    "id": "ezek-24-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "What does the Lord tell Ezekiel he will take away \"with a stroke,\" in Ezekiel 24:16?",
+    "options": [
+     "His home",
+     "His office",
+     "His flock",
+     "The desire of his eyes"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-24-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "How were the people to react to coming grief, following Ezekiel's sign, in Ezekiel 24:23?",
+    "options": [
+     "They should not mourn nor weep, but pine away for their iniquities",
+     "They should fast forty days",
+     "They should rejoice openly",
+     "They should rebuild at once"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "What does the Lord promise about Ezekiel's mouth in Ezekiel 24:27?",
+    "options": [
+     "It shall be shut forever",
+     "It shall be opened, and he shall be no more dumb",
+     "It shall sing only",
+     "It shall speak in riddles alone"
+    ],
+    "answer": 1
+   }
+  ],
+  "25": [
+   {
+    "id": "ezek-25-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A refrain of recognition",
+    "text": "These oracles against the nations keep returning to one purpose: 'they shall know that I am the Lord.' Even judgment on Israel's enemies is meant to reveal who God is."
+   },
+   {
+    "id": "ezek-25-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 25:3, what did the Ammonites say 'Aha' against?",
+    "options": [
+     "The Lord's sanctuary, the land of Israel, and the house of Judah",
+     "The kings of Babylon",
+     "The merchants of Tyre",
+     "The wisdom of Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-25-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 25:8, which two are quoted as saying the house of Judah is 'like unto all the heathen'?",
+    "options": [
+     "Tyre and Zidon",
+     "Egypt and Ethiopia",
+     "Moab and Seir",
+     "Babylon and Persia"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-25-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "According to Ezekiel 25:15, why is judgment pronounced on the Philistines?",
+    "options": [
+     "For building idols",
+     "Because they have dealt by revenge, with a despiteful heart, for the old hatred",
+     "For refusing tribute",
+     "For worshipping the sea"
+    ],
+    "answer": 1
+   }
+  ],
+  "26": [
+   {
+    "id": "ezek-26-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Ezekiel 26:3, the Lord says he will bring many nations up against Tyre like what?",
+    "options": [
+     "A swarm of locusts",
+     "As the sea causeth his waves to come up",
+     "A fire in the forest",
+     "A flock of eagles"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-26-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Whom does Ezekiel 26:7 name as the king the Lord will bring against Tyrus from the north?",
+    "options": [
+     "Pharaoh of Egypt",
+     "Cyrus of Persia",
+     "Nebuchadrezzar king of Babylon",
+     "Sennacherib of Assyria"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-26-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "And I will make thee like the top of a {0}",
+    "blanks": [
+     "rock"
+    ],
+    "distractors": [
+     "mountain",
+     "wall",
+     "tower"
+    ]
+   },
+   {
+    "id": "ezek-26-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "What does the Lord declare of Tyre in Ezekiel 26:21?",
+    "options": [
+     "She shall be rebuilt in glory",
+     "She shall rule the seas",
+     "She shall be sought for, yet never be found again",
+     "She shall be spared for her wisdom"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-26-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "A place to spread nets",
+    "text": "The oracle says Tyre will become 'a place for the spreading of nets in the midst of the sea' — the proud mercantile city reduced to a bare rock where fishermen dry their nets."
+   }
+  ],
+  "27": [
+   {
+    "id": "ezek-27-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 27:3, what boast does Tyre make of herself?",
+    "options": [
+     "I am the gate of heaven",
+     "I am of perfect beauty",
+     "I am the mistress of kings",
+     "I am the strength of the seas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Ezekiel 27:8, the inhabitants of Zidon and Arvad served Tyre as what?",
+    "options": [
+     "Her priests",
+     "Her judges",
+     "Her mariners",
+     "Her builders"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-27-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Ezekiel 27:12, what was Tarshish's trade with Tyre?",
+    "options": [
+     "Silver, iron, tin, and lead",
+     "Horses and mules",
+     "Wheat and honey",
+     "Emeralds and coral"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-27-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "Dedan was thy merchant in precious {0} for chariots",
+    "blanks": [
+     "clothes"
+    ],
+    "distractors": [
+     "stones",
+     "metals",
+     "spices"
+    ]
+   },
+   {
+    "id": "ezek-27-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "How does Ezekiel 27:25 describe Tyre at the height of her trade?",
+    "options": [
+     "Forsaken and empty",
+     "Replenished, and made very glorious in the midst of the seas",
+     "Hidden among the mountains",
+     "Feared by no one"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "What broke Tyre in the midst of the seas, according to Ezekiel 27:26?",
+    "options": [
+     "A great fire",
+     "The east wind",
+     "An earthquake",
+     "A flood from the rivers"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-36",
+    "type": "multiple_choice",
+    "after_verse": 36,
+    "question": "How do the merchants among the people react to Tyre's fall in Ezekiel 27:36?",
+    "options": [
+     "They rebuild her",
+     "They sing for her",
+     "They hiss at her",
+     "They ransom her"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-27-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "The ship of nations",
+    "text": "The whole chapter is an extended metaphor: Tyre is pictured as a great merchant ship, with timber, sails, oars, and crew drawn from many lands — built to perfection, yet doomed to sink."
+   }
+  ],
+  "28": [
+   {
+    "id": "ezek-28-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What proud claim does the prince of Tyre make in Ezekiel 28:2?",
+    "options": [
+     "I am a God, I sit in the seat of God",
+     "I am the wisest of men",
+     "I am the lord of the seas",
+     "I am the heir of Eden"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-28-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "In Ezekiel 28:3, the prince of Tyre is sarcastically called wiser than whom?",
+    "options": [
+     "Solomon",
+     "Daniel",
+     "Job",
+     "Moses"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-28-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "In the lamentation of Ezekiel 28:12, how is the king of Tyre described?",
+    "options": [
+     "Full of wisdom, and perfect in beauty",
+     "A mighty hunter",
+     "A man of war",
+     "A keeper of vineyards"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-28-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "According to Ezekiel 28:15, the king of Tyre was perfect in his ways until what was found in him?",
+    "options": [
+     "Idolatry",
+     "Cowardice",
+     "Iniquity",
+     "Poverty"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-28-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "Behold, I am against thee, O {0}",
+    "blanks": [
+     "Zidon"
+    ],
+    "distractors": [
+     "Tyrus",
+     "Egypt",
+     "Edom"
+    ]
+   },
+   {
+    "id": "ezek-28-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What does the Lord promise Israel in Ezekiel 28:26?",
+    "options": [
+     "They shall wander forty years",
+     "They shall dwell safely, build houses, and plant vineyards",
+     "They shall serve the nations",
+     "They shall sail the seas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-28-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "An echo of Eden",
+    "text": "The king of Tyre is said to have been 'in Eden the garden of God,' adorned with precious stones, an 'anointed cherub' — language so cosmic it has long been read as also describing the fall of Lucifer."
+   }
+  ],
+  "29": [
+   {
+    "id": "ezek-29-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "The great dragon of the Nile",
+    "text": "Pharaoh is called 'the great dragon that lieth in the midst of his rivers,' boasting 'My river is mine own.' Egypt's whole wealth flowed from the Nile, so the Lord strikes at the very source of its pride."
+   },
+   {
+    "id": "ezek-29-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "According to Ezekiel 29:6, what had Egypt been to the house of Israel?",
+    "options": [
+     "A staff of reed",
+     "A shield of bronze",
+     "A tower of refuge",
+     "A fountain of water"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-29-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "How far does Ezekiel 29:10 say the land of Egypt will be made utterly waste?",
+    "options": [
+     "From sea to sea",
+     "From the tower of Syene even unto the border of Ethiopia",
+     "From Memphis to Thebes",
+     "From the desert to the delta"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-29-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "In Ezekiel 29:14, to which land will the Egyptians be brought back, to be a base kingdom?",
+    "options": [
+     "Canaan",
+     "Pathros",
+     "Assyria",
+     "Tarshish"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-29-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "In Ezekiel 29:18-19, the Lord gives the land of Egypt to Nebuchadrezzar as wages for his army's labor against whom?",
+    "options": [
+     "Jerusalem",
+     "Sidon",
+     "Tyrus",
+     "Babylon"
+    ],
+    "answer": 2
+   }
+  ],
+  "30": [
+   {
+    "id": "ezek-30-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What does Ezekiel 30:3 announce is near?",
+    "options": [
+     "The feast of harvest",
+     "The day of the Lord, a cloudy day",
+     "The return from exile",
+     "The coming of a king"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "When will Egypt know that the Lord is God, according to Ezekiel 30:8?",
+    "options": [
+     "When the Nile rises",
+     "When he has set a fire in Egypt and destroyed all her helpers",
+     "When her temples are rebuilt",
+     "When the rains return"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "By whose hand will the Lord make the multitude of Egypt to cease (Ezekiel 30:10)?",
+    "options": [
+     "Pharaoh's own",
+     "Cyrus, king of Persia",
+     "Nebuchadrezzar king of Babylon",
+     "The Philistines"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-30-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "And I will set {0} in Egypt",
+    "blanks": [
+     "fire"
+    ],
+    "distractors": [
+     "famine",
+     "darkness",
+     "sword"
+    ]
+   },
+   {
+    "id": "ezek-30-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "What does the Lord say he has done to Pharaoh in Ezekiel 30:21?",
+    "options": [
+     "Broken his arm",
+     "Crowned his son",
+     "Closed his mouth",
+     "Burned his fleet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-30-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What recurring result does Ezekiel 30:26 give for scattering the Egyptians?",
+    "options": [
+     "That Pharaoh may repent",
+     "That they shall know that I am the Lord",
+     "That Babylon may rest",
+     "That Israel may rejoice"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Cities by name",
+    "text": "This oracle is unusual for naming so many Egyptian cities — Noph, Zoan, No, Sin, Pi-beseth, Tehaphnehes — pressing home that the judgment would touch the whole land, not just Pharaoh."
+   }
+  ],
+  "31": [
+   {
+    "id": "ezek-31-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "To what does Ezekiel 31:3 compare the Assyrian (Pharaoh's likeness)?",
+    "options": [
+     "A lion of the desert",
+     "A cedar in Lebanon with fair branches",
+     "A river of the east",
+     "A tower of stone"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-31-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "I have made him {0} by the multitude of his branches",
+    "blanks": [
+     "fair"
+    ],
+    "distractors": [
+     "tall",
+     "rich",
+     "wise"
+    ]
+   },
+   {
+    "id": "ezek-31-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "In Ezekiel 31:10-11, why was the great cedar delivered into the hand of the mighty one of the heathen?",
+    "options": [
+     "Because its roots had dried up",
+     "Because its heart was lifted up in its height",
+     "Because a fire consumed it",
+     "Because the birds forsook it"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-31-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "At the end of Ezekiel 31:18, whom does the allegory of the cedar declare it to be?",
+    "options": [
+     "The king of Babylon",
+     "The king of Assyria alone",
+     "Pharaoh and all his multitude",
+     "The prince of Tyre"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-31-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Envied by the trees of Eden",
+    "text": "So glorious was the cedar that 'all the trees of Eden, that were in the garden of God, envied him' — yet height became its downfall, a parable that pride goes before destruction."
+   }
+  ],
+  "32": [
+   {
+    "id": "ezek-32-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 32:2, to what is Pharaoh compared as he troubles the waters?",
+    "options": [
+     "A young lion of the nations and a whale in the seas",
+     "An eagle of the heights",
+     "A bull of the fields",
+     "A serpent of the rocks"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-32-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "What does Ezekiel 32:7-8 say the Lord will do to the heavens when he puts Pharaoh out?",
+    "options": [
+     "Open them in light",
+     "Cover them and make the stars dark",
+     "Fill them with fire",
+     "Cause them to rain"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-32-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Whose sword does Ezekiel 32:11 say shall come upon Egypt?",
+    "options": [
+     "The sword of Edom",
+     "The sword of the Philistines",
+     "The sword of the king of Babylon",
+     "The sword of the angel"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-32-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "she is delivered to the {0}",
+    "blanks": [
+     "sword"
+    ],
+    "distractors": [
+     "fire",
+     "pit",
+     "grave"
+    ]
+   },
+   {
+    "id": "ezek-32-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Which fallen nation does Ezekiel 32:22 name as already lying in the pit, with her graves about her?",
+    "options": [
+     "Asshur",
+     "Moab",
+     "Tyrus",
+     "Persia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-32-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Where does Ezekiel 32:32 say Pharaoh shall finally be laid?",
+    "options": [
+     "On the throne of Egypt",
+     "In the temple of the Nile",
+     "In the midst of the uncircumcised, with them slain by the sword",
+     "Upon the holy mountain"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-32-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "A descent into the pit",
+    "text": "The second lament leads Pharaoh down into the realm of the dead, where he finds the once-great empires — Asshur, Elam, Meshech and Tubal, Edom — already lying slain. Even the mightiest end the same way."
+   }
+  ],
+  "33": [
+   {
+    "id": "ezek-33-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "According to Ezekiel 33:6, if the watchman sees the sword and blows not the trumpet, what happens?",
+    "options": [
+     "He is rewarded for his silence",
+     "The blood of the slain will be required at the watchman's hand",
+     "The city is spared",
+     "The sword turns back"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "I have no pleasure in the {0} of the wicked",
+    "blanks": [
+     "death"
+    ],
+    "distractors": [
+     "sin",
+     "ruin",
+     "exile"
+    ]
+   },
+   {
+    "id": "ezek-33-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "In Ezekiel 33:14-15, what must the wicked man do to surely live?",
+    "options": [
+     "Offer a sacrifice",
+     "Turn from his sin, restore the pledge, and do that which is lawful and right",
+     "Flee to the mountains",
+     "Pay a ransom of gold"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What complaint do the children of Israel make in Ezekiel 33:17?",
+    "options": [
+     "The way of the Lord is not equal",
+     "The prophets are silent",
+     "The land is too small",
+     "The harvest has failed"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-33-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "What message did the one who escaped from Jerusalem bring in Ezekiel 33:21?",
+    "options": [
+     "The temple is restored",
+     "The king has returned",
+     "The city is smitten",
+     "The exile is ended"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-33-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "In Ezekiel 33:24, what do those inhabiting the wastes claim, citing the patriarch Abraham?",
+    "options": [
+     "Abraham was one, and he inherited the land; but we are many",
+     "Abraham built the temple",
+     "Abraham bought the land from Edom",
+     "Abraham left them gold"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-33-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "How does Ezekiel 33:32 say the people treat the prophet's words?",
+    "options": [
+     "They obey them at once",
+     "As a very lovely song they hear but do not do",
+     "They burn the scrolls",
+     "They write them on their walls"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "The watchman restored",
+    "text": "Ezekiel is again named a 'watchman unto the house of Israel' (echoing chapter 3). If he warns faithfully, he saves his own soul, whether or not the people listen — duty over results."
+   }
+  ],
+  "34": [
+   {
+    "id": "ezek-34-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 34:2, what is the woe pronounced upon the shepherds of Israel?",
+    "options": [
+     "They have lost the flock to Babylon",
+     "They feed themselves and not the flocks",
+     "They have abandoned the temple",
+     "They have sold the sheep to Egypt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "What does the Lord declare he himself will do in Ezekiel 34:11?",
+    "options": [
+     "Both search my sheep, and seek them out",
+     "Appoint new shepherds",
+     "Destroy the whole flock",
+     "Leave them scattered"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-34-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "I judge between cattle and {0}",
+    "blanks": [
+     "cattle"
+    ],
+    "distractors": [
+     "sheep",
+     "shepherds",
+     "nations"
+    ]
+   },
+   {
+    "id": "ezek-34-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "In Ezekiel 34:22, what does the Lord promise to do for his flock?",
+    "options": [
+     "Sell them to the strongest",
+     "Save his flock so they shall no more be a prey",
+     "Scatter them further",
+     "Leave them to the beasts"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Whom does the Lord promise to set up as one shepherd over the flock in Ezekiel 34:23?",
+    "options": [
+     "His servant Moses",
+     "His servant David",
+     "The prophet Ezekiel",
+     "A prince of Egypt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "How does Ezekiel 34:31 close the shepherd chapter?",
+    "options": [
+     "With a curse on the nations",
+     "Declaring 'ye my flock... are men, and I am your God'",
+     "With a list of cities",
+     "With a command to fast"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "The shepherd who seeks the lost",
+    "text": "'I will seek that which was lost, and bring again that which was driven away' (v. 16) — this image of God as the shepherd who goes after the straying sheep echoes through Jesus' parable of the lost sheep."
+   }
+  ],
+  "35": [
+   {
+    "id": "ezek-35-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Against what does Ezekiel 35:2-3 set the prophet's face?",
+    "options": [
+     "Mount Seir",
+     "Mount Zion",
+     "Mount Carmel",
+     "Mount Sinai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-35-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "According to Ezekiel 35:5, what does Seir's offense consist of?",
+    "options": [
+     "Worshipping foreign idols",
+     "A perpetual hatred and shedding the blood of Israel in their calamity",
+     "Refusing to pay tribute",
+     "Withholding grain in famine"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-35-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "thou shalt be desolate, O mount {0}",
+    "blanks": [
+     "Seir"
+    ],
+    "distractors": [
+     "Zion",
+     "Israel",
+     "Edom"
+    ]
+   },
+   {
+    "id": "ezek-35-cur-10",
+    "type": "curiosity",
+    "after_verse": 10,
+    "title": "Coveting another's land",
+    "text": "Seir's deeper sin (v. 10) was greed: 'These two nations and these two countries shall be mine.' The land already belonged to the Lord — 'whereas the Lord was there' — so the claim was an affront to God himself."
+   }
+  ],
+  "36": [
+   {
+    "id": "ezek-36-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "To whom is the prophet told to speak at the start of Ezekiel 36 (vv. 1-4)?",
+    "options": [
+     "The rivers of Babylon",
+     "The mountains of Israel",
+     "The kings of the east",
+     "The priests of the temple"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What does the Lord promise the mountains of Israel in Ezekiel 36:8-10?",
+    "options": [
+     "They shall sink into the sea",
+     "They shall shoot forth branches, be tilled and sown, and be inhabited again",
+     "They shall be given to Edom",
+     "They shall remain forever desolate"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Ezekiel 36:13-14, what accusation against the land does the Lord say will cease?",
+    "options": [
+     "That it is too small",
+     "That it devours men and bereaves its nations",
+     "That it has no water",
+     "That it bears no fruit"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "According to Ezekiel 36:20, what did Israel do when they came among the heathen?",
+    "options": [
+     "They built new temples",
+     "They profaned the Lord's holy name",
+     "They forgot their language",
+     "They made peace with all"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "But I had pity for mine {0} name",
+    "blanks": [
+     "holy"
+    ],
+    "distractors": [
+     "great",
+     "own",
+     "righteous"
+    ]
+   },
+   {
+    "id": "ezek-36-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "What does the Lord promise to give in Ezekiel 36:26?",
+    "options": [
+     "A new law written on stone",
+     "A new heart and a new spirit, taking away the stony heart",
+     "A new temple of gold",
+     "A new king from the east"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "After being cleansed, how does Ezekiel 36:31 say Israel will respond?",
+    "options": [
+     "They will boast of their merit",
+     "They will loathe themselves for their iniquities and abominations",
+     "They will demand more land",
+     "They will forget the Lord"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "To what does Ezekiel 36:38 compare the repopulated waste cities?",
+    "options": [
+     "The holy flock, as the flock of Jerusalem in her solemn feasts",
+     "The stars of heaven",
+     "The sands of the sea",
+     "The cedars of Lebanon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-36-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Not for your sake",
+    "text": "The Lord stresses that the restoration is 'not for your sakes, O house of Israel, but for mine holy name's sake' — a striking statement that grace flows from God's own character, not from Israel's worthiness."
+   }
+  ],
+  "37": [
+   {
+    "id": "ezek-37-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Where did the hand of the Lord set Ezekiel down in Ezekiel 37:1?",
+    "options": [
+     "In the midst of a valley full of bones",
+     "On the river Chebar",
+     "Within the temple",
+     "On a high mountain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-37-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 37, what did the bones become after the breath came into them?",
+    "options": [
+     "A heap of ashes",
+     "A flowing river",
+     "An exceeding great army",
+     "A grove of trees"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-37-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "I shall place you in your own {0}",
+    "blanks": [
+     "land"
+    ],
+    "distractors": [
+     "house",
+     "field",
+     "city"
+    ]
+   },
+   {
+    "id": "ezek-37-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "In Ezekiel 37:16, what is Ezekiel told to write upon the two sticks?",
+    "options": [
+     "The names of the kings",
+     "For Judah, and for Joseph",
+     "The ten commandments",
+     "The borders of the land"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-37-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Two sticks made one",
+    "text": "The two sticks joined in Ezekiel's hand — one for Judah, one for Joseph — picture the gathering of a divided Israel into a single people, a sign of reunion and restoration."
+   },
+   {
+    "id": "ezek-37-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "In Ezekiel 37:19, the stick of Joseph is said to be in the hand of whom?",
+    "options": [
+     "Ephraim",
+     "Manasseh",
+     "Levi",
+     "Benjamin"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-37-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "According to Ezekiel 37:21, what will the Lord do with the children of Israel?",
+    "options": [
+     "Scatter them among the heathen",
+     "Gather them and bring them into their own land",
+     "Leave them in Babylon",
+     "Make them servants to Gog"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-37-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "In Ezekiel 37:24, who is said to be king and one shepherd over them?",
+    "options": [
+     "Solomon",
+     "Zerubbabel",
+     "David my servant",
+     "Cyrus"
+    ],
+    "answer": 2
+   }
+  ],
+  "38": [
+   {
+    "id": "ezek-38-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In Ezekiel 38:2, against whom is Ezekiel told to set his face?",
+    "options": [
+     "Babylon",
+     "Egypt",
+     "Gog, the land of Magog",
+     "Tyre"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-38-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Gog and Magog",
+    "text": "Gog of the land of Magog became a lasting symbol of the hostile nations gathered against God's people; the New Testament book of Revelation later borrows the names for a final conflict."
+   },
+   {
+    "id": "ezek-38-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "According to Ezekiel 38:11-12, why does Gog plan to attack the land?",
+    "options": [
+     "To take a spoil and a prey from people dwelling safely",
+     "To make peace",
+     "To rebuild the temple",
+     "To pay tribute"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-38-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "In Ezekiel 38:15, from what direction will Gog come against Israel?",
+    "options": [
+     "Out of the south",
+     "Out of the north parts",
+     "From the sea westward",
+     "From the east"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-38-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What does the Lord declare he will do to himself in Ezekiel 38:23?",
+    "options": [
+     "Hide himself",
+     "Magnify and sanctify himself, and be known to many nations",
+     "Repent of his anger",
+     "Forget the nations"
+    ],
+    "answer": 1
+   }
+  ],
+  "39": [
+   {
+    "id": "ezek-39-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "According to Ezekiel 39:4, where shall Gog and his bands fall?",
+    "options": [
+     "Upon the mountains of Israel",
+     "In the wilderness of Egypt",
+     "By the river Chebar",
+     "In the streets of Babylon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-39-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "In Ezekiel 39:9, for how many years will the people burn the weapons with fire?",
+    "options": [
+     "Forty years",
+     "Three years",
+     "Seven years",
+     "Twelve years"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-39-cur-12",
+    "type": "curiosity",
+    "after_verse": 12,
+    "title": "Seven months of burying",
+    "text": "So great will be the fall of Gog's multitude that Israel will spend seven months burying the dead to cleanse the land, and the burial place will be called the valley of Hamon-gog."
+   },
+   {
+    "id": "ezek-39-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "In Ezekiel 39:11, what name is given to the place where Gog is buried?",
+    "options": [
+     "The valley of Hamon-gog",
+     "The valley of decision",
+     "The valley of dry bones",
+     "The valley of Hinnom"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-39-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "the name of the city shall be {0}",
+    "blanks": [
+     "Hamonah"
+    ],
+    "distractors": [
+     "Bethel",
+     "Zion",
+     "Babel"
+    ]
+   },
+   {
+    "id": "ezek-39-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "According to Ezekiel 39:23, why did the house of Israel go into captivity?",
+    "options": [
+     "For a famine in the land",
+     "For their iniquity, because they trespassed against the Lord",
+     "Because of Gog's army",
+     "By the will of Egypt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-39-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "What does the Lord promise to pour out upon the house of Israel in Ezekiel 39:29?",
+    "options": [
+     "His wrath",
+     "His spirit",
+     "A famine",
+     "The sword"
+    ],
+    "answer": 1
+   }
+  ],
+  "40": [
+   {
+    "id": "ezek-40-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "The man with the measuring reed",
+    "text": "Ezekiel sees a man whose appearance is like brass, holding a line of flax and a measuring reed; throughout chapters 40-42 this guide measures every part of the new temple before Ezekiel's eyes."
+   },
+   {
+    "id": "ezek-40-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 40:3, what did the man whose appearance was like brass hold in his hand?",
+    "options": [
+     "A sword and a shield",
+     "A line of flax and a measuring reed",
+     "A scroll and a pen",
+     "A lamp and oil"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 40:6, toward which direction did the gate the man came to look?",
+    "options": [
+     "Toward the east",
+     "Toward the west",
+     "Toward the north",
+     "Toward the south"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-40-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "According to Ezekiel 40:16, what was carved upon the posts of the gate?",
+    "options": [
+     "Lions",
+     "Palm trees",
+     "Oxen",
+     "Eagles"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What was repeatedly being done to the gates and courts throughout Ezekiel 40?",
+    "options": [
+     "They were being burned",
+     "They were being measured",
+     "They were being painted",
+     "They were being torn down"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "he measured from gate to gate toward the south an hundred {0}",
+    "blanks": [
+     "cubits"
+    ],
+    "distractors": [
+     "cities",
+     "stones",
+     "years"
+    ]
+   },
+   {
+    "id": "ezek-40-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "In Ezekiel 40, by what unit are the gates and courts measured?",
+    "options": [
+     "Furlongs",
+     "Cubits",
+     "Miles",
+     "Spans"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-39",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "According to Ezekiel 40:39, what stood in the porch of the gate, on each side?",
+    "options": [
+     "Two tables to slay the offerings on",
+     "Two thrones",
+     "Two altars of incense",
+     "Two pools of water"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-40-mc-44",
+    "type": "multiple_choice",
+    "after_verse": 44,
+    "question": "In Ezekiel 40:44, whose chambers were by the inner gate?",
+    "options": [
+     "The kings",
+     "The merchants",
+     "The singers",
+     "The strangers"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-40-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "According to Ezekiel 40:49, the porch was reached how?",
+    "options": [
+     "By a tunnel",
+     "By the steps whereby they went up to it",
+     "By a ladder",
+     "By a ramp of earth"
+    ],
+    "answer": 1
+   }
+  ],
+  "41": [
+   {
+    "id": "ezek-41-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Ezekiel 41:4, what did the man call the inner room he measured?",
+    "options": [
+     "The court of the women",
+     "The most holy place",
+     "The porch",
+     "The treasury"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Measuring the temple itself",
+    "text": "Having measured the outer gates and courts, the guide now turns to the temple proper — its posts, doorways, and the inner room called the most holy place."
+   },
+   {
+    "id": "ezek-41-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "According to Ezekiel 41:5-8, what surrounded the house on every side?",
+    "options": [
+     "A moat of water",
+     "Side chambers",
+     "A row of pillars only",
+     "An open field"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Toward which direction did the face of the house and the separate place look in Ezekiel 41:14?",
+    "options": [
+     "The west",
+     "The north",
+     "The east",
+     "The south"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-41-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "In Ezekiel 41:18-19, what two figures were carved alternately on the walls?",
+    "options": [
+     "Lions and eagles",
+     "Cherubims and palm trees",
+     "Oxen and serpents",
+     "Stars and suns"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "the face of a {0} was toward the palm tree on the one side",
+    "blanks": [
+     "man"
+    ],
+    "distractors": [
+     "king",
+     "lamb",
+     "child"
+    ]
+   },
+   {
+    "id": "ezek-41-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "According to Ezekiel 41:25-26, what was carved on the doors of the temple, like on the walls?",
+    "options": [
+     "Cherubims and palm trees",
+     "Names of the tribes",
+     "Vines and grapes",
+     "Wheels and wings"
+    ],
+    "answer": 0
+   }
+  ],
+  "42": [
+   {
+    "id": "ezek-42-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The priests' chambers",
+    "text": "After measuring the temple, Ezekiel's guide turns to the priests' chambers beside the 'separate place' — the open area that walled the holy sanctuary off from the rest of the court."
+   },
+   {
+    "id": "ezek-42-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 42:5, why were the upper chambers shorter than the lower ones?",
+    "options": [
+     "The galleries took up more space from them",
+     "They were never finished",
+     "They were burned",
+     "They were carved away"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-42-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "According to Ezekiel 42:3-6, in how many stories were the chambers built?",
+    "options": [
+     "One",
+     "Two",
+     "Three",
+     "Seven"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-42-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Ezekiel 42:13, what does the man say the north and south chambers are?",
+    "options": [
+     "Holy chambers where the priests eat the most holy things",
+     "Storehouses for grain",
+     "Lodgings for travelers",
+     "Stables for the offerings"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-42-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "to make a separation between the {0} and the profane place",
+    "blanks": [
+     "sanctuary"
+    ],
+    "distractors": [
+     "palace",
+     "market",
+     "vineyard"
+    ]
+   }
+  ],
+  "43": [
+   {
+    "id": "ezek-43-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "The glory returns",
+    "text": "Years before, Ezekiel had watched the glory of God leave the Jerusalem temple. Now the glory of the God of Israel returns by the east gate, with a voice like many waters, and fills the house once more."
+   },
+   {
+    "id": "ezek-43-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 43:2-5, by which way did the glory of the God of Israel come into the temple?",
+    "options": [
+     "From the way of the west",
+     "From the way of the east",
+     "Down from the sky",
+     "Up from the sea"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "In Ezekiel 43:7, what does the Lord call the temple?",
+    "options": [
+     "A house of merchandise",
+     "The place of my throne, where I will dwell forever",
+     "A tent of meeting only",
+     "A place of rest for the kings"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "the altar shall be twelve cubits long, twelve broad, {0} in the four squares thereof",
+    "blanks": [
+     "square"
+    ],
+    "distractors": [
+     "round",
+     "hollow",
+     "open"
+    ]
+   },
+   {
+    "id": "ezek-43-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "According to Ezekiel 43:18-21, what was the altar to be used for?",
+    "options": [
+     "To store grain",
+     "To offer burnt offerings and sprinkle blood thereon",
+     "As a seat for the prince",
+     "To wash garments"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "In Ezekiel 43:27, what does the Lord promise once the altar is consecrated?",
+    "options": [
+     "He will accept the people",
+     "He will depart",
+     "He will send a famine",
+     "He will hide his face"
+    ],
+    "answer": 0
+   }
+  ],
+  "44": [
+   {
+    "id": "ezek-44-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 44:2, why is the east gate of the sanctuary to remain shut?",
+    "options": [
+     "Because it was broken",
+     "Because the Lord, the God of Israel, has entered in by it",
+     "Because of an enemy attack",
+     "Because it faced the desert"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "A gate for the prince",
+    "text": "Though the east gate stays shut, verse 3 makes one exception: the prince may sit in it to eat bread before the Lord, entering and leaving by the porch of that gate."
+   },
+   {
+    "id": "ezek-44-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Ezekiel 44:10, what shall the Levites who went astray after idols bear?",
+    "options": [
+     "A double portion",
+     "Their iniquity",
+     "The priesthood",
+     "A crown"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Ezekiel 44:15, which priests may come near to minister to the Lord?",
+    "options": [
+     "The sons of Zadok",
+     "The sons of Korah",
+     "The sons of Eli",
+     "Any of the people"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-44-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "According to Ezekiel 44:17-18, what must the priests wear when they minister in the inner court?",
+    "options": [
+     "Wool garments",
+     "Linen garments",
+     "Garments of skins",
+     "Garments of gold"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-fb-23",
+    "type": "fill_blank",
+    "after_verse": 23,
+    "verse": 23,
+    "template": "they shall teach my people the difference between the {0} and profane",
+    "blanks": [
+     "holy"
+    ],
+    "distractors": [
+     "rich",
+     "wise",
+     "strong"
+    ]
+   },
+   {
+    "id": "ezek-44-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "According to Ezekiel 44:21, what may no priest do when he enters the inner court?",
+    "options": [
+     "Speak aloud",
+     "Drink wine",
+     "Sit down",
+     "Carry a sword"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "In Ezekiel 44:28, what does the Lord say will be the inheritance of the priests?",
+    "options": [
+     "A portion of land in every tribe",
+     "Cities of refuge",
+     "The Lord himself ('I am their inheritance')",
+     "The spoils of war"
+    ],
+    "answer": 2
+   }
+  ],
+  "45": [
+   {
+    "id": "ezek-45-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Ezekiel 45:1-4, the holy portion of the land is set apart for whom and for what?",
+    "options": [
+     "For the merchants and their trade",
+     "For the priests and the sanctuary",
+     "For the army and its camps",
+     "For the strangers"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-45-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "remove violence and {0}",
+    "blanks": [
+     "spoil"
+    ],
+    "distractors": [
+     "famine",
+     "tribute",
+     "fear"
+    ]
+   },
+   {
+    "id": "ezek-45-cur-10",
+    "type": "curiosity",
+    "after_verse": 10,
+    "title": "Just balances",
+    "text": "Right after commanding the princes to put away violence and spoil, the Lord demands 'just balances, and a just ephah, and a just bath' — honest weights and measures in everyday trade."
+   },
+   {
+    "id": "ezek-45-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Ezekiel 45:9, what does the Lord command the princes of Israel to do?",
+    "options": [
+     "Remove violence and spoil, and execute judgment and justice",
+     "Raise an army",
+     "Build a wall",
+     "Tax the priests"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-45-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "In Ezekiel 45:18, on the first day of the first month, what is to be done?",
+    "options": [
+     "A coronation",
+     "Take a young bullock and cleanse the sanctuary",
+     "A census of the people",
+     "A treaty with the nations"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-45-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "According to Ezekiel 45:21, what feast is to be kept in the first month, on the fourteenth day?",
+    "options": [
+     "The feast of tabernacles",
+     "The day of atonement",
+     "The passover",
+     "The feast of trumpets"
+    ],
+    "answer": 2
+   }
+  ],
+  "46": [
+   {
+    "id": "ezek-46-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Ezekiel 46:1, when is the east gate of the inner court to be opened?",
+    "options": [
+     "Never",
+     "On the sabbath and the new moon",
+     "Only at night",
+     "Only in war"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Enter one gate, leave by another",
+    "text": "Verse 9 sets an orderly rule for the feasts: whoever comes in by the north gate must go out by the south, and whoever enters by the south goes out by the north — no one turns back the way he came."
+   },
+   {
+    "id": "ezek-46-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Ezekiel 46:9, at the solemn feasts, how must a worshipper leave the temple?",
+    "options": [
+     "By the same gate he entered",
+     "By the gate opposite the one he entered",
+     "Only by the east gate",
+     "By climbing the wall"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "In Ezekiel 46:10, where is the prince when the people go in and out?",
+    "options": [
+     "Outside the wall",
+     "In the midst of them",
+     "Upon the altar",
+     "In the holy chambers"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "According to Ezekiel 46:16-17, a gift the prince gives to a servant returns to the prince in what year?",
+    "options": [
+     "The year of jubilee",
+     "The year of liberty",
+     "The seventh year",
+     "The year of harvest"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "where the {0} of the house shall boil the sacrifice of the people",
+    "blanks": [
+     "ministers"
+    ],
+    "distractors": [
+     "enemies",
+     "strangers",
+     "merchants"
+    ]
+   }
+  ],
+  "47": [
+   {
+    "id": "ezek-47-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The river from the temple",
+    "text": "From under the threshold of the temple flow waters that grow ever deeper — a healing, life-giving river. The image echoes again in Revelation 22, where a river of living water flows from the throne of God."
+   },
+   {
+    "id": "ezek-47-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Ezekiel 47:3-4, as the man measured, how did the waters rise?",
+    "options": [
+     "They stayed at the ankles",
+     "From the ankles, to the knees, to the loins",
+     "They dried up",
+     "They turned to blood"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "By Ezekiel 47:5, what had the waters become?",
+    "options": [
+     "A shallow brook",
+     "A river that could not be passed over",
+     "A still pond",
+     "A frozen stream"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "According to Ezekiel 47:9, what happens wherever the river comes?",
+    "options": [
+     "The land is scorched",
+     "Every thing shall live",
+     "The waters turn bitter",
+     "A famine begins"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 47:10, who shall stand by the river from En-gedi to En-eglaim?",
+    "options": [
+     "Soldiers",
+     "Fishers",
+     "Kings",
+     "Shepherds"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "This shall be the border, whereby ye shall inherit the land according to the twelve {0} of Israel",
+    "blanks": [
+     "tribes"
+    ],
+    "distractors": [
+     "cities",
+     "kings",
+     "rivers"
+    ]
+   },
+   {
+    "id": "ezek-47-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "According to Ezekiel 47:15-17, the borders being described mark out what?",
+    "options": [
+     "The walls of the temple",
+     "The land to be inherited",
+     "The valley of Hamon-gog",
+     "The path of the river"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "In Ezekiel 47:22-23, what does the Lord say about the strangers who sojourn in Israel?",
+    "options": [
+     "They shall be cast out",
+     "They shall have inheritance among the tribes of Israel",
+     "They shall pay double tribute",
+     "They shall not enter the land"
+    ],
+    "answer": 1
+   }
+  ],
+  "48": [
+   {
+    "id": "ezek-48-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What is being divided among the named tribes throughout Ezekiel 48?",
+    "options": [
+     "The spoils of Gog",
+     "The land, in portions for each tribe",
+     "The temple offerings",
+     "The waters of the river"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Ezekiel 48:10, the holy oblation is set apart for whom, with the sanctuary in its midst?",
+    "options": [
+     "The merchants",
+     "The priests",
+     "The strangers",
+     "The kings"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Ezekiel 48:15, the five thousand left over is to be a profane place for what?",
+    "options": [
+     "The army",
+     "The city, for dwelling and suburbs",
+     "The merchants",
+     "A burial ground"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "In Ezekiel 48:19, those who serve the city are to be from where?",
+    "options": [
+     "From the priests only",
+     "From all the tribes of Israel",
+     "From the strangers",
+     "From the Levites only"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "According to Ezekiel 48:21, where is the sanctuary of the house set, in the prince's portion?",
+    "options": [
+     "Outside the land",
+     "In the midst thereof",
+     "On the seacoast",
+     "At the north border only"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-cur-20",
+    "type": "curiosity",
+    "after_verse": 20,
+    "title": "The sanctuary at the center",
+    "text": "In the apportioning of the land, the sanctuary of the house is set in the midst of the holy oblation — a deliberate picture of God's presence at the very center of the restored nation."
+   },
+   {
+    "id": "ezek-48-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Through Ezekiel 48:23-28, what is each of the remaining tribes (Benjamin, Simeon, and others) given?",
+    "options": [
+     "A city",
+     "A portion of the land",
+     "A share of the offerings",
+     "A gate only"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-fb-35",
+    "type": "fill_blank",
+    "after_verse": 35,
+    "verse": 35,
+    "template": "the name of the city from that day shall be, The {0} is there",
+    "blanks": [
+     "Lord"
+    ],
+    "distractors": [
+     "king",
+     "temple",
+     "throne"
+    ]
+   }
+  ]
+ }
+}

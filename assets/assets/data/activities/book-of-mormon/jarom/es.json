@@ -1,0 +1,136 @@
+{
+ "schema_version": 1,
+ "book": "jarom",
+ "chapters": {
+  "1": [
+   {
+    "id": "jarom-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "de acuerdo con el mandato de mi padre, {0}",
+    "blanks": [
+     "Enós"
+    ],
+    "distractors": [
+     "Jacob",
+     "Nefi",
+     "Lehi"
+    ]
+   },
+   {
+    "id": "jarom-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Por qué Jarom escribe poco",
+    "text": "Jarom explica que no registrará sus propias profecías ni revelaciones — sus padres ya habían revelado el plan de salvación, y ‘esto me basta’. Todo su libro tiene apenas 15 versículos."
+   },
+   {
+    "id": "jarom-1-mc-5",
+    "after_verse": 5,
+    "type": "multiple_choice",
+    "question": "Hacia los doscientos años, ¿cómo describe Jarom al pueblo de Nefi?",
+    "options": [
+     "Fuerte en el país, guardando la ley de Moisés y el día de reposo",
+     "Disperso y olvidado",
+     "Gobernado por los lamanitas",
+     "Sin profeta alguno"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "¿Cómo lograron los nefitas resistir a los lamanitas en la batalla?",
+    "options": [
+     "Sus reyes y dirigentes eran grandes hombres en la fe del Señor",
+     "Eran mucho más numerosos",
+     "Contrataron ejércitos extranjeros",
+     "Pagaron tributo a los lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-cur-8",
+    "after_verse": 8,
+    "type": "curiosity",
+    "title": "Hierro, cobre, bronce y acero",
+    "text": "Jarom enumera la destreza de los nefitas en el trabajo de metales —oro, plata, hierro, cobre, bronce y acero—, forjando tanto herramientas para cultivar la tierra como armas de guerra, como la flecha, el dardo y la jabalina."
+   },
+   {
+    "id": "jarom-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Según guardéis mis mandamientos, {0} en la tierra",
+    "blanks": [
+     "prosperaréis"
+    ],
+    "distractors": [
+     "habitaréis",
+     "permaneceréis",
+     "reinaréis"
+    ]
+   },
+   {
+    "id": "jarom-1-mc-11",
+    "after_verse": 11,
+    "type": "multiple_choice",
+    "question": "¿A qué persuadían los profetas, sacerdotes y maestros al pueblo?",
+    "options": [
+     "A mirar hacia el Mesías y creer en su venida",
+     "A abandonar la ley de Moisés",
+     "A construir templos de oro",
+     "A hacer tratados de paz con los lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jarom-1-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Las planchas se llenan",
+    "text": "Jarom remite a los lectores a las ‘otras planchas de Nefi’ para la historia de sus guerras y luego entrega estas planchas menores a su hijo Omni — el registro pasando por un linaje familiar que escribe cada vez menos."
+   },
+   {
+    "id": "jarom-1-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "entrego estas planchas en manos de mi hijo {0}",
+    "blanks": [
+     "Omni"
+    ],
+    "distractors": [
+     "Enós",
+     "Jacob",
+     "Nefi"
+    ]
+   },
+   {
+    "id": "jarom-1-mp-15",
+    "type": "match_pairs",
+    "after_verse": 15,
+    "pairs": [
+     {
+      "left": "Enós",
+      "right": "Padre de Jarom"
+     },
+     {
+      "left": "Jarom",
+      "right": "Autor de este libro"
+     },
+     {
+      "left": "Omni",
+      "right": "Hijo de Jarom"
+     },
+     {
+      "left": "Nefi",
+      "right": "Comenzó las planchas que Jarom guarda"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "book": "1-pet",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-pet-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The \"strangers scattered\"",
+        "body": "Peter writes to Christians spread across five regions of Asia Minor (modern Turkey), treating them as pilgrims far from their heavenly home."
+      },
+      {
+        "id": "1-pet-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to verse 3, unto what has God begotten us again?",
+        "options": [
+          "Unto a lively hope",
+          "Unto earthly riches",
+          "Unto eternal rest from labor",
+          "Unto rule over the nations"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "That the trial of your faith, being much more precious than of {0} that perisheth, though it be tried with fire",
+        "blanks": [
+          "gold"
+        ],
+        "distractors": [
+          "blood",
+          "spirit",
+          "lambs"
+        ]
+      },
+      {
+        "id": "1-pet-1-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "The prophets searched",
+        "body": "Peter teaches that the ancient prophets, by the Spirit of Christ within them, testified beforehand of both the sufferings of Christ and the glory that should follow."
+      },
+      {
+        "id": "1-pet-1-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What commandment does Peter quote from scripture in verse 16?",
+        "options": [
+          "Be ye holy; for I am holy",
+          "Love your enemies",
+          "Thou shalt not covet",
+          "Honour thy father and mother"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "With what were we NOT redeemed, according to verse 18?",
+        "options": [
+          "With corruptible things, as silver and gold",
+          "With the blood of Christ",
+          "With the word of God",
+          "With faith and hope"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "But with the precious blood of Christ, as of a {0} without blemish and without spot",
+        "blanks": [
+          "lamb"
+        ],
+        "distractors": [
+          "prophet",
+          "angel",
+          "servant"
+        ]
+      },
+      {
+        "id": "1-pet-1-mp-24",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "title": "Grass and word (v. 24-25)",
+        "pairs": [
+          {
+            "left": "All flesh",
+            "right": "is as grass"
+          },
+          {
+            "left": "The glory of man",
+            "right": "as the flower of grass"
+          },
+          {
+            "left": "The word of the Lord",
+            "right": "endureth for ever"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-pet-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The sincere milk of the word",
+        "body": "Peter compares new converts to newborn babes who long for milk: so should we desire the word of God in order to grow spiritually."
+      },
+      {
+        "id": "1-pet-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "To whom coming, as unto a living {0}, disallowed indeed of men, but chosen of God, and precious,",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "light",
+          "rock",
+          "gate"
+        ]
+      },
+      {
+        "id": "1-pet-2-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to the scripture quoted, what does God lay in Sion?",
+        "options": [
+          "A chief corner stone",
+          "A throne of gold",
+          "An altar of sacrifice",
+          "A watchtower"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "title": "What believers are (v9)",
+        "pairs": [
+          {
+            "left": "A chosen",
+            "right": "generation"
+          },
+          {
+            "left": "A royal",
+            "right": "priesthood"
+          },
+          {
+            "left": "An holy",
+            "right": "nation"
+          },
+          {
+            "left": "A peculiar",
+            "right": "people"
+          }
+        ]
+      },
+      {
+        "id": "1-pet-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "To what does Peter tell believers to submit for the Lord's sake?",
+        "options": [
+          "Every ordinance of man",
+          "Only the elders of the church",
+          "Only other Christians",
+          "No one but God"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Which of these commands is NOT in verse 17?",
+        "options": [
+          "Gather riches",
+          "Honour all men",
+          "Fear God",
+          "Honour the king"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Follow his steps",
+        "body": "Peter reminds servants who suffer unjustly that Christ also suffered for us, leaving an example that we should follow his steps."
+      },
+      {
+        "id": "1-pet-2-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Who his own self bare our sins in his own body on the {0}, that we, being dead to sins, should live unto righteousness:",
+        "blanks": [
+          "tree"
+        ],
+        "distractors": [
+          "altar",
+          "mount",
+          "desert"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "1-pet-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "prompt": "Complete verse 4.",
+        "verse": 4,
+        "template": "even the ornament of a meek and {0} spirit, which is in the sight of God of great price",
+        "blanks": [
+          "quiet"
+        ],
+        "distractors": [
+          "proud",
+          "rebellious",
+          "restless"
+        ]
+      },
+      {
+        "id": "1-pet-3-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "prompt": "In verse 6, who is cited as an example for obeying her husband, calling him lord?",
+        "options": [
+          "Sara",
+          "Rebekah",
+          "Rachel",
+          "Hannah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-3-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "prompt": "Match each exhortation in verses 8–9 to its completion.",
+        "pairs": [
+          [
+            "Be ye all",
+            "of one mind"
+          ],
+          [
+            "Not rendering",
+            "evil for evil"
+          ],
+          [
+            "But contrariwise",
+            "blessing"
+          ]
+        ]
+      },
+      {
+        "id": "1-pet-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "prompt": "Complete verse 13.",
+        "verse": 13,
+        "template": "And who is he that will harm you, if ye be followers of that which is {0}?",
+        "blanks": [
+          "good"
+        ],
+        "distractors": [
+          "evil",
+          "worldly",
+          "false"
+        ]
+      },
+      {
+        "id": "1-pet-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "prompt": "In verse 15 (17 by count), the saints should be ready always to give an answer about what?",
+        "options": [
+          "A reason of the hope that is in them",
+          "The origin of the law",
+          "The number of the elect",
+          "The end of the world"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Preached unto the spirits in prison",
+        "body": "Verses 18–20 teach that between His crucifixion and resurrection, Christ ministered to the spirits of the dead. For Latter-day Saints, this passage grounds the understanding of the redemption of the dead and salvation for the dead."
+      },
+      {
+        "id": "1-pet-3-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "prompt": "In verse 20, how many souls were saved by water in the days of Noah?",
+        "options": [
+          "Eight",
+          "Twelve",
+          "Three",
+          "Forty"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-pet-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "He who has ceased from sin should live the rest of his time in the flesh to what?",
+        "options": [
+          "The will of God",
+          "The lusts of men",
+          "The wisdom of the Gentiles",
+          "The desires of the flesh"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "The gospel preached to the dead",
+        "body": "This verse supports the restored doctrine that the gospel is preached to the dead in the spirit world, so that they may be judged according to men in the flesh and live according to God in the spirit."
+      },
+      {
+        "id": "1-pet-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "With the end of all things at hand, what does Peter urge the Saints to do?",
+        "options": [
+          "Be sober and watch unto prayer",
+          "Gather riches",
+          "Flee the cities",
+          "Stay silent before persecutors"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "for charity shall cover the multitude of {0}",
+        "blanks": [
+          "sins"
+        ],
+        "distractors": [
+          "gifts",
+          "Gentiles",
+          "sufferings"
+        ]
+      },
+      {
+        "id": "1-pet-4-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Use hospitality one to another without {0}.",
+        "blanks": [
+          "grudging"
+        ],
+        "distractors": [
+          "idolatries",
+          "revellings",
+          "lusts"
+        ]
+      },
+      {
+        "id": "1-pet-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How does Peter say each man should minister the gift he has received?",
+        "options": [
+          "As good stewards of the manifold grace of God",
+          "As lords over the flock",
+          "In exchange for the honor of men",
+          "Only among his own household"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Good stewards of God's grace",
+        "body": "Peter teaches that every gift received should serve others: he who speaks, let him speak the oracles of God, and he who ministers, let him do it by the ability God gives, that in all things God may be glorified through Jesus Christ."
+      },
+      {
+        "id": "1-pet-4-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "instructions": "Match the attitude in persecution to its result.",
+        "pairs": [
+          {
+            "left": "Being reproached for the name of Christ",
+            "right": "Happiness and the spirit of glory"
+          },
+          {
+            "left": "Partaking of Christ's sufferings",
+            "right": "Gladness when his glory is revealed"
+          },
+          {
+            "left": "Suffering as a Christian",
+            "right": "Glorify God without shame"
+          }
+        ]
+      },
+      {
+        "id": "1-pet-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "According to Peter, where is the time come that judgment must begin?",
+        "options": [
+          "At the house of God",
+          "Among the Gentiles",
+          "With the kings of the earth",
+          "At the city of Babylon"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "1-pet-5-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The chief Shepherd",
+        "text": "Peter calls Christ the \"chief Shepherd,\" echoing the image of Jesus as the Good Shepherd who cares for the flock. Elders shepherd, but Christ is the supreme Shepherd to whom they answer."
+      },
+      {
+        "id": "1-pet-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What will the elders receive when the chief Shepherd shall appear?",
+        "options": [
+          "A crown of glory that fadeth not away",
+          "Earthly riches and power",
+          "Dominion over the nations",
+          "Rest from all labor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Casting all your {0} upon him; for he careth for you.",
+        "blanks": [
+          "care"
+        ],
+        "distractors": [
+          "crown",
+          "heritage",
+          "grace"
+        ]
+      },
+      {
+        "id": "1-pet-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How does Peter describe the devil, the adversary of the saints?",
+        "options": [
+          "As a roaring lion, seeking whom he may devour",
+          "As a wolf among the sheep",
+          "As a serpent in the wilderness",
+          "As a thief in the night"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-5-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Babylon",
+        "text": "Many scholars understand \"Babylon\" as a coded name for Rome, from which Peter likely wrote. The city stood for the worldly power that oppressed the Christians."
+      },
+      {
+        "id": "1-pet-5-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "title": "Who sends greetings?",
+        "pairs": [
+          {
+            "left": "The church elected together with you",
+            "right": "That is at Babylon"
+          },
+          {
+            "left": "Marcus",
+            "right": "Called by Peter \"my son\""
+          },
+          {
+            "left": "Silvanus",
+            "right": "Faithful brother by whom Peter wrote"
+          }
+        ]
+      }
+    ]
+  }
+}

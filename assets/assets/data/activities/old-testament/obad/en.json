@@ -1,0 +1,88 @@
+{
+ "schema_version": 1,
+ "book": "obad",
+ "chapters": {
+  "1": [
+   {
+    "id": "obad-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The shortest book in the Old Testament",
+    "text": "Obadiah is just 21 verses — the briefest book in the entire Old Testament. Its single chapter is a prophecy against Edom, the nation descended from Esau, Jacob's brother."
+   },
+   {
+    "id": "obad-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "According to Obadiah 1:3, what has deceived Edom?",
+    "options": [
+     "The pride of his heart",
+     "A false prophet",
+     "A foreign treaty",
+     "A famine in the land"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "obad-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "and thou shalt be {0} for ever",
+    "blanks": [
+     "cut off"
+    ],
+    "distractors": [
+     "restored",
+     "exalted",
+     "forgiven"
+    ]
+   },
+   {
+    "id": "obad-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Obadiah 1:11, what did Edom do while strangers carried Jerusalem's forces captive?",
+    "options": [
+     "Defended the city",
+     "Stood on the other side, as one of them",
+     "Fled to the mountains",
+     "Warned the people"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "obad-1-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "How does Obadiah 1:21 say the book ends for mount Zion and Esau?",
+    "options": [
+     "Edom triumphs over Zion",
+     "Both are destroyed together",
+     "Saviours judge the mount of Esau, and the kingdom shall be the Lord's",
+     "The two make a lasting peace"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "obad-1-mp-21",
+    "type": "match_pairs",
+    "after_verse": 21,
+    "pairs": [
+     {
+      "left": "Edom",
+      "right": "Descended from Esau"
+     },
+     {
+      "left": "Mount Zion",
+      "right": "Deliverance and holiness"
+     },
+     {
+      "left": "The day of the Lord",
+      "right": "As thou hast done, it shall be done unto thee"
+     }
+    ]
+   }
+  ]
+ }
+}

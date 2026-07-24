@@ -1,0 +1,4329 @@
+{
+  "schema_version": 1,
+  "book": "acts",
+  "chapters": {
+    "1": [
+      {
+        "id": "acts-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The former treatise",
+        "text": "Luke calls his gospel the \"former treatise\" and addresses Acts to the same Theophilus. The two books form one work: first what Jesus did and taught, then what the church did in his name."
+      },
+      {
+        "id": "acts-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "commanded them that they should not depart from Jerusalem, but wait for the promise of the {0}",
+        "blanks": [
+          "Father"
+        ],
+        "distractors": [
+          "Spirit",
+          "Lord",
+          "heaven"
+        ]
+      },
+      {
+        "id": "acts-1-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, with what would the apostles be baptized?",
+        "options": [
+          "The Holy Ghost",
+          "Water",
+          "Fire from heaven",
+          "The power of the Father"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "According to verse 8, how far would the apostles be witnesses unto Jesus?",
+        "options": [
+          "Unto the uttermost part of the earth",
+          "Unto all the house of Israel",
+          "Unto the gates of Jerusalem",
+          "Unto the mount of Olivet"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Ye men of Galilee, why stand ye gazing up into {0}?",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "mountains",
+          "clouds",
+          "darkness"
+        ]
+      },
+      {
+        "id": "acts-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "A sabbath day's journey",
+        "text": "The mount called Olivet lay \"a sabbath day's journey\" from Jerusalem — roughly a thousand metres, the distance Jewish tradition allowed a person to walk on the day of rest."
+      },
+      {
+        "id": "acts-1-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Peter",
+            "right": "Who stood up to speak to the disciples"
+          },
+          {
+            "left": "James the son of Alphæus",
+            "right": "Distinguished from the other James among the apostles"
+          },
+          {
+            "left": "Simon",
+            "right": "Called Zelotes"
+          },
+          {
+            "left": "Judas",
+            "right": "The brother of James, in the upper room"
+          }
+        ]
+      },
+      {
+        "id": "acts-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "According to verse 14, who continued in prayer with the apostles?",
+        "options": [
+          "Mary the mother of Jesus, and the women",
+          "The seventy disciples",
+          "The scribes and Pharisees",
+          "The elders of Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "that field is called in their proper tongue, Aceldama, that is to say, The field of {0}.",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "iniquity",
+          "olives",
+          "lots"
+        ]
+      },
+      {
+        "id": "acts-1-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to verse 20, in which book was it written concerning Judas?",
+        "options": [
+          "The book of Psalms",
+          "The book of Isaiah",
+          "The book of the law",
+          "The book of the prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And they appointed two, Joseph called Barsabas, who was surnamed {0}, and Matthias.",
+        "blanks": [
+          "Justus"
+        ],
+        "distractors": [
+          "Zelotes",
+          "Barnabas",
+          "Iscariot"
+        ]
+      },
+      {
+        "id": "acts-1-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "According to verse 26, how was Judas's replacement chosen?",
+        "options": [
+          "The lot fell upon Matthias",
+          "Peter appointed him",
+          "The people voted for Joseph",
+          "An angel named him"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "acts-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Pentecost",
+        "text": "Pentecost was a Jewish feast held fifty days after Passover. On this day the disciples, gathered with one accord in one place, received the Holy Ghost."
+      },
+      {
+        "id": "acts-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And suddenly there came a sound from heaven as of a rushing mighty {0}, and it filled all the house where they were sitting.",
+        "blanks": [
+          "wind"
+        ],
+        "distractors": [
+          "fire",
+          "storm",
+          "flame"
+        ]
+      },
+      {
+        "id": "acts-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to verse 3, what appeared and sat upon each of the disciples?",
+        "options": [
+          "Cloven tongues like as of fire",
+          "White doves from heaven",
+          "Pillars of cloud",
+          "Crowns of light"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "And they were all filled with the Holy Ghost, and began to speak with other {0}, as the Spirit gave them utterance.",
+        "blanks": [
+          "tongues"
+        ],
+        "distractors": [
+          "cities",
+          "houses",
+          "nations"
+        ]
+      },
+      {
+        "id": "acts-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "When the multitude heard the disciples speak, they were amazed and asked: were not all these which speak what?",
+        "options": [
+          "Galilæans",
+          "Romans",
+          "Egyptians",
+          "Cretes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Pentecost",
+            "right": "Feast when the Spirit came"
+          },
+          {
+            "left": "Cloven tongues",
+            "right": "Sat upon each of them like fire"
+          },
+          {
+            "left": "Galilæans",
+            "right": "Origin of those who spoke"
+          },
+          {
+            "left": "Wonderful works of God",
+            "right": "What the nations heard them speak"
+          }
+        ]
+      },
+      {
+        "id": "acts-2-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Full of new wine",
+        "text": "Some mockers said the disciples were \"full of new wine.\" Peter would soon answer that they were not drunken, seeing it was but the third hour of the day."
+      },
+      {
+        "id": "acts-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Others mocking said, These men are full of new {0}.",
+        "blanks": [
+          "wine"
+        ],
+        "distractors": [
+          "bread",
+          "fire",
+          "fear"
+        ]
+      },
+      {
+        "id": "acts-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Peter said what was happening had been spoken by which prophet?",
+        "options": [
+          "Joel",
+          "David",
+          "Isaiah",
+          "Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all {0}",
+        "blanks": [
+          "flesh"
+        ],
+        "distractors": [
+          "earth",
+          "lands",
+          "nations"
+        ]
+      },
+      {
+        "id": "acts-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Jesus of Nazareth, a man approved of God among you by miracles and wonders and {0}, which God did by him in the midst of you",
+        "blanks": [
+          "signs"
+        ],
+        "distractors": [
+          "words",
+          "works",
+          "gifts"
+        ]
+      },
+      {
+        "id": "acts-2-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "According to Peter, what did God do with Jesus after He was crucified?",
+        "options": [
+          "Raised him up, having loosed the pains of death",
+          "Took him secretly from the tomb",
+          "Gave him a new name",
+          "Sent him into the wilderness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Men and brethren, let me freely speak unto you of the patriarch {0}, that he is both dead and buried",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Joel",
+          "Peter",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "acts-2-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "This Jesus hath God raised up, whereof we all are {0}.",
+        "blanks": [
+          "witnesses"
+        ],
+        "distractors": [
+          "servants",
+          "brethren",
+          "apostles"
+        ]
+      },
+      {
+        "id": "acts-2-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "that God hath made that same Jesus, whom ye have crucified, both Lord and {0}.",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "prophet",
+          "King",
+          "Saviour"
+        ]
+      },
+      {
+        "id": "acts-2-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "When the people heard Peter's words, how did they react?",
+        "options": [
+          "They were pricked in their heart",
+          "They mocked him",
+          "They fled the temple",
+          "They asked for a sign"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Repent, and be baptized every one of you in the name of Jesus Christ for the remission of {0}",
+        "blanks": [
+          "sins"
+        ],
+        "distractors": [
+          "nations",
+          "brethren",
+          "signs"
+        ]
+      },
+      {
+        "id": "acts-2-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "How many souls were added unto them the same day?",
+        "options": [
+          "About three thousand",
+          "About five hundred",
+          "Twelve",
+          "Seventy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-2-cur-42",
+        "type": "curiosity",
+        "after_verse": 42,
+        "title": "The early church",
+        "text": "The first believers continued steadfastly in the apostles' doctrine and fellowship, in breaking of bread, and in prayers, having all things common."
+      },
+      {
+        "id": "acts-2-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "And all that believed were together, and had all things {0};",
+        "blanks": [
+          "common"
+        ],
+        "distractors": [
+          "hidden",
+          "hopeful",
+          "glad"
+        ]
+      },
+      {
+        "id": "acts-2-mc-47",
+        "type": "multiple_choice",
+        "after_verse": 47,
+        "question": "According to verse 47, who added to the church daily such as should be saved?",
+        "options": [
+          "The Lord",
+          "Peter",
+          "The apostles",
+          "The multitude"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "acts-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Now Peter and John went up together into the temple at the hour of prayer, being the {0} hour.",
+        "blanks": [
+          "ninth"
+        ],
+        "distractors": [
+          "third",
+          "sixth",
+          "eleventh"
+        ]
+      },
+      {
+        "id": "acts-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The gate called Beautiful",
+        "text": "The lame man was laid daily at the temple gate called Beautiful to ask alms. It was a busy entrance, an ideal spot for someone who depended on the charity of those going up to pray."
+      },
+      {
+        "id": "acts-3-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Why were the people filled with wonder when they saw the man walking?",
+        "options": [
+          "They knew he was the one who sat for alms at the Beautiful gate",
+          "They had never seen him before",
+          "He spoke in other tongues",
+          "He had risen from the dead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Peter and John",
+            "right": "Apostles who healed the lame man"
+          },
+          {
+            "left": "Solomon's porch",
+            "right": "Where the people ran together"
+          },
+          {
+            "left": "Beautiful gate",
+            "right": "Where the lame man asked alms"
+          },
+          {
+            "left": "The healed man",
+            "right": "Held Peter and John"
+          }
+        ]
+      },
+      {
+        "id": "acts-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "The God of Abraham, and of Isaac, and of {0}, the God of our fathers, hath glorified his Son Jesus",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Moses",
+          "David",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "acts-3-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to Peter in verse 15, what did the people do to the Prince of life?",
+        "options": [
+          "Killed him, but God raised him from the dead",
+          "Crowned him king in Jerusalem",
+          "Denied knowing him before Pilate",
+          "Stoned him in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Repent ye therefore, and be converted, that your sins may be {0} out",
+        "blanks": [
+          "blotted"
+        ],
+        "distractors": [
+          "counted",
+          "remembered",
+          "numbered"
+        ]
+      },
+      {
+        "id": "acts-3-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to verse 22, what did Moses say the Lord would raise up from among their brethren?",
+        "options": [
+          "A prophet like unto himself",
+          "A king like David",
+          "An everlasting priest",
+          "A judge for Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-3-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Father of the covenant God made"
+          },
+          {
+            "left": "Moses",
+            "right": "Foretold a prophet like himself"
+          },
+          {
+            "left": "Samuel",
+            "right": "First of the prophets who foretold these days"
+          },
+          {
+            "left": "Abraham's seed",
+            "right": "In it all kindreds of the earth blessed"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "acts-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Sadducees and the resurrection",
+        "text": "The Sadducees denied any resurrection of the dead. That is why they were so disturbed to find the apostles preaching that Jesus had risen, right inside the temple they oversaw."
+      },
+      {
+        "id": "acts-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 2,
+        "template": "Being grieved that they taught the people, and preached through Jesus the {0} from the dead.",
+        "blanks": [
+          "resurrection"
+        ],
+        "distractors": [
+          "salvation",
+          "kingdom",
+          "doctrine"
+        ]
+      },
+      {
+        "id": "acts-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "About how many was the number of the men who believed?",
+        "options": [
+          "Five thousand",
+          "Three thousand",
+          "One hundred and twenty",
+          "Forty"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 7,
+        "template": "And when they had set them in the midst, they asked, By what {0}, or by what name, have ye done this?",
+        "blanks": [
+          "power"
+        ],
+        "distractors": [
+          "right",
+          "law",
+          "sign"
+        ]
+      },
+      {
+        "id": "acts-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "With what was Peter filled when he answered the rulers?",
+        "options": [
+          "The Holy Ghost",
+          "Great fear",
+          "Indignation",
+          "New wine"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 12,
+        "template": "Neither is there {0} in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+        "blanks": [
+          "salvation"
+        ],
+        "distractors": [
+          "healing",
+          "boldness",
+          "grace"
+        ]
+      },
+      {
+        "id": "acts-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What did the council take knowledge of about Peter and John?",
+        "options": [
+          "That they had been with Jesus",
+          "That they were rich",
+          "That they were priests",
+          "That they feared death"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 20,
+        "template": "For we cannot but speak the things which we have {0} and heard.",
+        "blanks": [
+          "seen"
+        ],
+        "distractors": [
+          "believed",
+          "taught",
+          "feared"
+        ]
+      },
+      {
+        "id": "acts-4-mp-19",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Peter and John",
+            "right": "Could not but speak what they had seen"
+          },
+          {
+            "left": "The rulers",
+            "right": "Found no way to punish them"
+          },
+          {
+            "left": "The people",
+            "right": "Glorified God for what was done"
+          }
+        ]
+      },
+      {
+        "id": "acts-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 24,
+        "template": "Lord, thou art God, which hast made heaven, and earth, and the {0}, and all that in them is:",
+        "blanks": [
+          "sea"
+        ],
+        "distractors": [
+          "sun",
+          "stars",
+          "wind"
+        ]
+      },
+      {
+        "id": "acts-4-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Through whose mouth had God spoken 'Why did the heathen rage'?",
+        "options": [
+          "David",
+          "Moses",
+          "Samuel",
+          "Joel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-31",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 31,
+        "template": "And when they had prayed, the place was {0} where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
+        "blanks": [
+          "shaken"
+        ],
+        "distractors": [
+          "opened",
+          "darkened",
+          "lifted"
+        ]
+      },
+      {
+        "id": "acts-4-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "How is the multitude of believers described in verse 32?",
+        "options": [
+          "Of one heart and of one soul",
+          "Full of fear",
+          "Divided among themselves",
+          "Scattered abroad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-4-fb-36",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 36,
+        "template": "And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of {0},) a Levite, and of the country of Cyprus,",
+        "blanks": [
+          "consolation"
+        ],
+        "distractors": [
+          "thunder",
+          "promise",
+          "blessing"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "acts-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Ananias and Sapphira",
+        "text": "The couple sold a possession and pretended to give the whole price, secretly keeping part back. Luke sets them against Barnabas in the previous chapter, who laid all he had at the apostles' feet."
+      },
+      {
+        "id": "acts-5-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to Peter, who filled Ananias' heart to lie to the Holy Ghost?",
+        "options": [
+          "Satan",
+          "The high priest",
+          "Gamaliel",
+          "Theudas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "thou hast not lied unto men, but unto {0}.",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Peter",
+          "Pilate",
+          "David"
+        ]
+      },
+      {
+        "id": "acts-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "How is it that ye have agreed together to tempt the {0} of the Lord?",
+        "blanks": [
+          "Spirit"
+        ],
+        "distractors": [
+          "angel",
+          "temple",
+          "council"
+        ]
+      },
+      {
+        "id": "acts-5-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What happened to Sapphira when she heard Peter's words?",
+        "options": [
+          "She fell down at his feet and yielded up the ghost",
+          "She confessed and was forgiven",
+          "She fled from Jerusalem",
+          "She was bound by the young men"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "they were all with one accord in {0} porch.",
+        "blanks": [
+          "Solomon’s"
+        ],
+        "distractors": [
+          "David’s",
+          "Moses’",
+          "Peter’s"
+        ]
+      },
+      {
+        "id": "acts-5-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Why were the sick laid in the streets as Peter passed by?",
+        "options": [
+          "That at the least his shadow might overshadow some of them",
+          "That he might baptize them",
+          "To ask alms of the apostles",
+          "To hear him preach in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "The Sadducees",
+        "text": "The high priest and his company were of the sect of the Sadducees, who denied the resurrection. That is why the apostles' preaching of the risen Christ filled them with indignation."
+      },
+      {
+        "id": "acts-5-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "But the {0} of the Lord by night opened the prison doors",
+        "blanks": [
+          "angel"
+        ],
+        "distractors": [
+          "captain",
+          "keeper",
+          "prophet"
+        ]
+      },
+      {
+        "id": "acts-5-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did the officers find when they came to the prison?",
+        "options": [
+          "No man within, though the prison was shut with all safety",
+          "The apostles beaten",
+          "The keepers fleeing",
+          "An angel guarding the door"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "brought them without violence: for they feared the {0}, lest they should have been stoned.",
+        "blanks": [
+          "people"
+        ],
+        "distractors": [
+          "council",
+          "priests",
+          "captain"
+        ]
+      },
+      {
+        "id": "acts-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "We ought to obey God rather than {0}.",
+        "blanks": [
+          "men"
+        ],
+        "distractors": [
+          "priests",
+          "elders",
+          "kings"
+        ]
+      },
+      {
+        "id": "acts-5-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "How does Peter describe Jesus' death before the council?",
+        "options": [
+          "Whom ye slew and hanged on a tree",
+          "Whom ye stoned outside the city",
+          "Whom Pilate crucified against your will",
+          "Whom the Romans slew in secret"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-5-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "Gamaliel",
+        "text": "Gamaliel was a Pharisee and a doctor of the law, had in reputation among all the people. His measured counsel spared the apostles' lives: if the work were of God, no one could overthrow it."
+      },
+      {
+        "id": "acts-5-mp-37",
+        "type": "match_pairs",
+        "after_verse": 37,
+        "pairs": [
+          {
+            "left": "Ananias",
+            "right": "Kept back part of the price and fell dead"
+          },
+          {
+            "left": "Gamaliel",
+            "right": "Pharisee and doctor of the law who counselled caution"
+          },
+          {
+            "left": "Theudas",
+            "right": "Boasted to be somebody; was slain and his followers scattered"
+          },
+          {
+            "left": "Judas of Galilee",
+            "right": "Rose up in the days of the taxing and perished"
+          }
+        ]
+      },
+      {
+        "id": "acts-5-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Why did the apostles rejoice as they departed from the council?",
+        "options": [
+          "That they were counted worthy to suffer shame for his name",
+          "That they were released without punishment",
+          "That they had converted the high priest",
+          "That they had received authority from the council"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "acts-6-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The seven chosen",
+        "text": "The church was growing and the Greek-speaking widows were being overlooked in the daily distribution. The apostles did not abandon preaching: they delegated the material care to seven men of good report, often remembered as the first deacons."
+      },
+      {
+        "id": "acts-6-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did the apostles decide not to abandon in order to serve tables?",
+        "options": [
+          "The word of God and prayer",
+          "Almsgiving to the poor",
+          "Worship in the temple",
+          "Circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "full of faith and {0}, did great wonders",
+        "blanks": [
+          "power"
+        ],
+        "distractors": [
+          "wisdom",
+          "grace",
+          "glory"
+        ]
+      },
+      {
+        "id": "acts-6-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Why could Stephen's opponents not prevail against him in debate?",
+        "options": [
+          "They could not resist the wisdom and the spirit by which he spoke",
+          "He had Roman guards",
+          "He hid in the temple",
+          "He bribed the people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-6-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "False witnesses",
+        "text": "The charges against Stephen — destroying the temple and changing the customs of Moses — echo those made against Jesus himself at his trial. Luke shows the disciple following the steps of the Master."
+      },
+      {
+        "id": "acts-6-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Stephen",
+            "right": "Full of faith; his face seemed that of an angel"
+          },
+          {
+            "left": "The seven",
+            "right": "Chosen to serve tables"
+          },
+          {
+            "left": "False witnesses",
+            "right": "Accused Stephen of blasphemy"
+          },
+          {
+            "left": "The council",
+            "right": "Body before which Stephen was brought"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "acts-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Stephen's speech",
+        "text": "In his defense, Stephen walks through all of Israel's history — Abraham, Joseph, Moses, the tabernacle and the temple — not to justify himself, but to reveal a pattern: the people repeatedly rejected those whom God sent."
+      },
+      {
+        "id": "acts-7-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "To whom did the God of glory appear, telling him to leave his country?",
+        "options": [
+          "Abraham",
+          "Moses",
+          "Jacob",
+          "Isaac"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "How many patriarchs did Jacob beget, according to Stephen's speech?",
+        "options": [
+          "Twelve",
+          "Seven",
+          "Ten",
+          "Seventy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "moved with {0}, sold Joseph",
+        "blanks": [
+          "envy"
+        ],
+        "distractors": [
+          "hatred",
+          "fear",
+          "greed"
+        ]
+      },
+      {
+        "id": "acts-7-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Left Mesopotamia for the promised land"
+          },
+          {
+            "left": "Joseph",
+            "right": "Sold by his brothers, ruled Egypt"
+          },
+          {
+            "left": "Jacob",
+            "right": "Went down to Egypt with seventy-five souls"
+          },
+          {
+            "left": "Moses",
+            "right": "Born when another king oppressed Israel"
+          }
+        ]
+      },
+      {
+        "id": "acts-7-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "learned in all the wisdom of the {0}",
+        "blanks": [
+          "Egyptians"
+        ],
+        "distractors": [
+          "Chaldeans",
+          "Romans",
+          "Assyrians"
+        ]
+      },
+      {
+        "id": "acts-7-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "a stranger in the land of {0}, where he begat",
+        "blanks": [
+          "Madian"
+        ],
+        "distractors": [
+          "Canaan",
+          "Charran",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "acts-7-cur-30",
+        "type": "curiosity",
+        "after_verse": 30,
+        "title": "The burning bush",
+        "text": "Stephen recalls Moses' call at Mount Sinai, in the flame of a bush that burned without being consumed. There God revealed himself as the God of Abraham, Isaac and Jacob."
+      },
+      {
+        "id": "acts-7-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "the place where thou standest is {0} ground.",
+        "blanks": [
+          "holy"
+        ],
+        "distractors": [
+          "cursed",
+          "desert",
+          "promised"
+        ]
+      },
+      {
+        "id": "acts-7-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "What did Israel do in the wilderness while rejecting Moses?",
+        "options": [
+          "Made a calf and offered sacrifice to the idol",
+          "Built the temple",
+          "Crossed the Jordan",
+          "Anointed David as king"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "carry you away beyond {0}.",
+        "blanks": [
+          "Babylon"
+        ],
+        "distractors": [
+          "Egypt",
+          "Nineveh",
+          "Assyria"
+        ]
+      },
+      {
+        "id": "acts-7-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Heaven is my {0}, and earth is my footstool",
+        "blanks": [
+          "throne"
+        ],
+        "distractors": [
+          "temple",
+          "kingdom",
+          "altar"
+        ]
+      },
+      {
+        "id": "acts-7-mc-56",
+        "type": "multiple_choice",
+        "after_verse": 56,
+        "question": "What did Stephen declare he saw as he looked up to heaven?",
+        "options": [
+          "The heavens opened and the Son of man at the right hand of God",
+          "An angel with a sword of fire",
+          "Moses and Elijah",
+          "A ladder reaching to heaven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-7-fb-58",
+        "type": "fill_blank",
+        "after_verse": 58,
+        "verse": 58,
+        "template": "whose name was {0}.",
+        "blanks": [
+          "Saul"
+        ],
+        "distractors": [
+          "Barnabas",
+          "Peter",
+          "Philip"
+        ]
+      },
+      {
+        "id": "acts-7-cur-60",
+        "type": "curiosity",
+        "after_verse": 60,
+        "title": "The first martyr",
+        "text": "Stephen is the first Christian to die for the faith. As he is stoned, he prays for his killers — like Jesus on the cross — and Luke says he fell asleep. Among those present was Saul, who would soon become a persecutor."
+      }
+    ],
+    "8": [
+      {
+        "id": "acts-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The scattering",
+        "text": "The persecution following Stephen's death scatters the disciples through Judea and Samaria. What looked like a blow against the church ends up spreading the gospel beyond Jerusalem."
+      },
+      {
+        "id": "acts-8-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What was Saul doing to the church before his conversion?",
+        "options": [
+          "He made havoc of it, imprisoning men and women",
+          "He preached in Samaria",
+          "He healed the sick",
+          "He gave alms"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "down to the city of {0}, and preached Christ",
+        "blanks": [
+          "Samaria"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Cæsarea",
+          "Damascus"
+        ]
+      },
+      {
+        "id": "acts-8-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Simon the sorcerer",
+        "text": "Simon had bewitched Samaria with sorcery, so that the people called him the great power of God. Faced with Philip's miracles, he himself believed and was baptized."
+      },
+      {
+        "id": "acts-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How had Simon won the attention of the people of Samaria?",
+        "options": [
+          "With sorcery",
+          "With great almsgiving",
+          "With speeches in the temple",
+          "With miraculous healings"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Why were Peter and John sent from Jerusalem to Samaria?",
+        "options": [
+          "So that the believers might receive the Holy Ghost",
+          "To baptize Simon",
+          "To arrest Philip",
+          "To build a church"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Simony",
+        "text": "When Simon offered money to buy the power of giving the Holy Ghost, Peter rebuked him sharply. From this episode comes the word simony: the sin of trying to buy or sell sacred things."
+      },
+      {
+        "id": "acts-8-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "the {0} of God may be purchased with money.",
+        "blanks": [
+          "gift"
+        ],
+        "distractors": [
+          "power",
+          "kingdom",
+          "favour"
+        ]
+      },
+      {
+        "id": "acts-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What was the Ethiopian eunuch doing when Philip found him?",
+        "options": [
+          "Reading the prophet Isaiah in his chariot",
+          "Praying in the temple",
+          "Preaching to the Samaritans",
+          "Baptizing in the river"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-cur-32",
+        "type": "curiosity",
+        "after_verse": 32,
+        "title": "The lamb of Isaiah 53",
+        "text": "The passage the eunuch was reading is from Isaiah 53, the song of the suffering servant led as a sheep to the slaughter. Philip began from that text to preach Jesus to him."
+      },
+      {
+        "id": "acts-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "He was led as a {0} to the slaughter",
+        "blanks": [
+          "sheep"
+        ],
+        "distractors": [
+          "ox",
+          "goat",
+          "calf"
+        ]
+      },
+      {
+        "id": "acts-8-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "What happened after the eunuch believed that Jesus is the Son of God?",
+        "options": [
+          "Philip baptized him in the water",
+          "He received letters for Damascus",
+          "He went to Jerusalem to worship",
+          "He returned to Samaria"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-8-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Philip",
+            "right": "Preached Christ in Samaria and baptized the eunuch"
+          },
+          {
+            "left": "Simon",
+            "right": "Sorcerer who tried to buy the gift of God"
+          },
+          {
+            "left": "Peter and John",
+            "right": "Laid on hands to give the Holy Ghost"
+          },
+          {
+            "left": "Ethiopian eunuch",
+            "right": "Read Isaiah and was baptized on the road to Gaza"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "acts-9-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What did the voice from heaven say to Saul on the road to Damascus?",
+        "options": [
+          "I am Jesus, whom thou persecutest",
+          "I am Moses, the lawgiver",
+          "I am Peter, the apostle",
+          "I am Elijah, the prophet"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The Way",
+        "text": "Saul carried letters to arrest those of the Way, one of the earliest names for Christianity. The light that surrounded him near Damascus would turn the greatest persecutor into the church's greatest missionary."
+      },
+      {
+        "id": "acts-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How long was Saul without sight after the vision?",
+        "options": [
+          "Three days",
+          "Seven days",
+          "Forty days",
+          "One day"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "for one called Saul, of {0}:",
+        "blanks": [
+          "Tarsus"
+        ],
+        "distractors": [
+          "Damascus",
+          "Joppa",
+          "Lystra"
+        ]
+      },
+      {
+        "id": "acts-9-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "he is a chosen {0} unto me, to bear my name",
+        "blanks": [
+          "vessel"
+        ],
+        "distractors": [
+          "servant",
+          "prophet",
+          "apostle"
+        ]
+      },
+      {
+        "id": "acts-9-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Scales from the eyes",
+        "text": "Ananias, a disciple afraid because of Saul's reputation, obeys God and lays hands on him. Something like scales falls from his eyes, and the persecutor begins to preach in the synagogues that Jesus is the Son of God."
+      },
+      {
+        "id": "acts-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "let him down by the wall in a {0}.",
+        "blanks": [
+          "basket"
+        ],
+        "distractors": [
+          "boat",
+          "sack",
+          "cart"
+        ]
+      },
+      {
+        "id": "acts-9-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Who brought Saul to the apostles and vouched for him in Jerusalem?",
+        "options": [
+          "Barnabas",
+          "Peter",
+          "Ananias",
+          "Stephen"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Jesus Christ maketh thee {0}: arise, and make thy bed.",
+        "blanks": [
+          "whole"
+        ],
+        "distractors": [
+          "free",
+          "clean",
+          "new"
+        ]
+      },
+      {
+        "id": "acts-9-cur-36",
+        "type": "curiosity",
+        "after_verse": 36,
+        "title": "Tabitha, the gazelle",
+        "text": "Tabitha, in Greek Dorcas, means gazelle. A disciple in Joppa full of good works, she was loved by the widows she clothed. Peter raises her, and the news leads many to believe in the Lord."
+      },
+      {
+        "id": "acts-9-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Who was Tabitha (Dorcas), of Joppa?",
+        "options": [
+          "A disciple full of good works and almsdeeds",
+          "A prophetess who foretold the future",
+          "The wife of Simon the tanner",
+          "A rich widow of Caesarea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "What happened in Joppa after Peter raised Tabitha?",
+        "options": [
+          "Many believed in the Lord",
+          "Peter was imprisoned",
+          "The city rejected the apostles",
+          "Tabitha left for Caesarea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-9-mp-43",
+        "type": "match_pairs",
+        "after_verse": 43,
+        "pairs": [
+          {
+            "left": "Saul",
+            "right": "Persecutor converted on the road to Damascus"
+          },
+          {
+            "left": "Ananias",
+            "right": "Laid on hands and Saul regained his sight"
+          },
+          {
+            "left": "Aeneas",
+            "right": "Paralytic healed by Peter in Lydda"
+          },
+          {
+            "left": "Tabitha (Dorcas)",
+            "right": "Disciple of Joppa raised by Peter"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "acts-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Cornelius the centurion",
+        "text": "Cornelius was a Roman officer who feared God, generous and given to prayer, yet not a Jew. His story opens the door of the gospel to the Gentiles, without their first having to adopt the law of Moses."
+      },
+      {
+        "id": "acts-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did the angel tell Cornelius about his prayers and alms?",
+        "options": [
+          "They had come up for a memorial before God",
+          "They were in vain",
+          "They had to cease",
+          "They were known only to men"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Peter see descending from heaven in his vision?",
+        "options": [
+          "A great sheet with all kinds of animals",
+          "A ladder of angels",
+          "A pillar of fire",
+          "A throne of glory"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "What God hath {0}, that call not thou common.",
+        "blanks": [
+          "cleansed"
+        ],
+        "distractors": [
+          "created",
+          "chosen",
+          "blessed"
+        ]
+      },
+      {
+        "id": "acts-10-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What did the Spirit say to Peter as he thought about the vision?",
+        "options": [
+          "That three men sought him and he should go with them",
+          "That he should flee Joppa",
+          "That he should fast three days",
+          "That he should go up to the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Cornelius the {0}, a just man",
+        "blanks": [
+          "centurion"
+        ],
+        "distractors": [
+          "governor",
+          "priest",
+          "scribe"
+        ]
+      },
+      {
+        "id": "acts-10-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Stand up, I am a man",
+        "text": "When Cornelius falls at his feet, Peter at once lifts him up: I myself also am a man. Worship belongs to God alone, not to his messengers."
+      },
+      {
+        "id": "acts-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did God show Peter through the vision of the sheet?",
+        "options": [
+          "That he should call no man common or unclean",
+          "That he should rebuild the temple",
+          "That he should preach only to Jews",
+          "That he should fast forty days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Why did Cornelius gather his relatives and friends to hear Peter?",
+        "options": [
+          "To hear all that God had commanded Peter",
+          "For a farewell banquet",
+          "To judge Peter",
+          "For a Roman sacrifice"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "in every {0} he that feareth him",
+        "blanks": [
+          "nation"
+        ],
+        "distractors": [
+          "city",
+          "tribe",
+          "house"
+        ]
+      },
+      {
+        "id": "acts-10-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "According to Peter, what did God do with Jesus, whom they killed on a tree?",
+        "options": [
+          "Raised him up the third day",
+          "Hid his body",
+          "Took him to heaven without dying",
+          "Gave him a throne in Rome"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "The Gentiles' Pentecost",
+        "text": "While Peter was still speaking, the Holy Ghost fell on the Gentiles, who began to speak in tongues. The sign convinces Peter to baptize them, confirming that the gospel is for all peoples."
+      },
+      {
+        "id": "acts-10-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "What astonished the believers of the circumcision who came with Peter?",
+        "options": [
+          "The gift of the Holy Ghost poured out on the Gentiles too",
+          "Cornelius refused baptism",
+          "Peter spoke in strange tongues",
+          "An angel appeared in the house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-10-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "Can any man forbid {0}, that these should not be baptized",
+        "blanks": [
+          "water"
+        ],
+        "distractors": [
+          "grace",
+          "word",
+          "salvation"
+        ]
+      },
+      {
+        "id": "acts-10-mp-48",
+        "type": "match_pairs",
+        "after_verse": 48,
+        "pairs": [
+          {
+            "left": "Cornelius",
+            "right": "Roman centurion, first Gentile convert"
+          },
+          {
+            "left": "Peter",
+            "right": "Saw the vision of the sheet and preached in Caesarea"
+          },
+          {
+            "left": "The sheet with animals",
+            "right": "Sign that nothing God cleansed is unclean"
+          },
+          {
+            "left": "The Holy Ghost",
+            "right": "Fell on the Gentiles who listened to Peter"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "acts-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Gentiles and circumcision",
+        "text": "The news that Gentiles had received the word of God stirred controversy among Jewish Christians, for whom eating with the uncircumcised broke the law. Peter has to explain the vision he had received in Joppa."
+      },
+      {
+        "id": "acts-11-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why did the brethren of the circumcision criticize Peter?",
+        "options": [
+          "For going in and eating with uncircumcised Gentiles",
+          "For preaching in Samaria",
+          "For baptizing Simon the sorcerer",
+          "For healing on the sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "How many times was the vision of the sheet repeated before being drawn up to heaven?",
+        "options": [
+          "Three",
+          "Two",
+          "Seven",
+          "Ten"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "thou and all thy {0} shall be saved.",
+        "blanks": [
+          "house"
+        ],
+        "distractors": [
+          "city",
+          "tribe",
+          "land"
+        ]
+      },
+      {
+        "id": "acts-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "John indeed baptized with {0}; but ye shall be baptized",
+        "blanks": [
+          "water"
+        ],
+        "distractors": [
+          "fire",
+          "oil",
+          "blood"
+        ]
+      },
+      {
+        "id": "acts-11-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What did the church in Jerusalem do on hearing of the conversion in Antioch?",
+        "options": [
+          "It sent Barnabas to Antioch",
+          "It sent Peter and John",
+          "It excommunicated the Greeks",
+          "It forbade the preaching"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Called Christians",
+        "text": "It was in Antioch, after a year of teaching by Barnabas and Saul, that the disciples were first called Christians. The city would become the base of Paul's missionary journeys."
+      },
+      {
+        "id": "acts-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Where were the disciples first called Christians?",
+        "options": [
+          "Antioch",
+          "Jerusalem",
+          "Damascus",
+          "Caesarea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-11-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "there should be great {0} throughout all the world",
+        "blanks": [
+          "dearth"
+        ],
+        "distractors": [
+          "war",
+          "plague",
+          "drought"
+        ]
+      },
+      {
+        "id": "acts-11-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Barnabas",
+            "right": "Sent to Antioch; brought Saul from Tarsus"
+          },
+          {
+            "left": "Antioch",
+            "right": "Where the disciples were called Christians"
+          },
+          {
+            "left": "Agabus",
+            "right": "Prophet who foretold a great famine"
+          },
+          {
+            "left": "Peter",
+            "right": "Explained to the brethren why he preached to the Gentiles"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "acts-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Herod Agrippa I",
+        "text": "The king of this chapter is Herod Agrippa I, grandson of Herod the Great. To please the Jews, he persecuted the church, killing James and imprisoning Peter."
+      },
+      {
+        "id": "acts-12-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Which apostle did Herod have killed with the sword?",
+        "options": [
+          "James, the brother of John",
+          "Peter",
+          "Stephen",
+          "John"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And his {0} fell off from his hands.",
+        "blanks": [
+          "chains"
+        ],
+        "distractors": [
+          "garments",
+          "sandals",
+          "keys"
+        ]
+      },
+      {
+        "id": "acts-12-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "The house of Mary",
+        "text": "Freed from prison, Peter goes to the house of Mary, mother of John Mark, where the church was praying. John Mark would later be a traveling companion and, by tradition, the author of the Gospel of Mark."
+      },
+      {
+        "id": "acts-12-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Who recognized Peter's voice at the door but, for gladness, did not open it?",
+        "options": [
+          "The girl Rhoda",
+          "Mary, the mother of Mark",
+          "Peter's wife",
+          "A widow of the church"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What did those gathered say when Rhoda insisted that Peter was at the door?",
+        "options": [
+          "It is his angel",
+          "He is risen",
+          "It is a ghost",
+          "The king set him free"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "The death of Herod",
+        "text": "Hailed by the people as the voice of a god, Herod gave no glory to God and was struck by an angel, dying eaten by worms. The historian Josephus records a similar death of the king at Caesarea."
+      },
+      {
+        "id": "acts-12-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "he was eaten of {0}, and gave up the ghost.",
+        "blanks": [
+          "worms"
+        ],
+        "distractors": [
+          "beasts",
+          "dogs",
+          "wolves"
+        ]
+      },
+      {
+        "id": "acts-12-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What happened to the word of God in the midst of these persecutions?",
+        "options": [
+          "It grew and multiplied",
+          "It was silenced",
+          "It stayed only in Jerusalem",
+          "It was banned by Herod"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-12-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Herod",
+            "right": "Killed James and was struck by an angel"
+          },
+          {
+            "left": "Peter",
+            "right": "Freed from prison by an angel"
+          },
+          {
+            "left": "Rhoda",
+            "right": "Recognized Peter's voice at the door"
+          },
+          {
+            "left": "John Mark",
+            "right": "Son of Mary; went with Barnabas and Saul"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "acts-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The first missionary journey",
+        "text": "As the church of Antioch fasted and prayed, the Holy Ghost set apart Barnabas and Saul for the work. Here begins the first of the missionary journeys that would carry the gospel across the Roman world."
+      },
+      {
+        "id": "acts-13-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Whom did the Holy Ghost command to set apart for the missionary work at Antioch?",
+        "options": [
+          "Barnabas and Saul",
+          "Peter and John",
+          "James and Philip",
+          "Silas and Mark"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Who was Elymas, who withstood Paul before the deputy in Cyprus?",
+        "options": [
+          "A sorcerer and false prophet",
+          "A priest of Jupiter",
+          "The governor of Cyprus",
+          "A Christian prophet"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "From Saul to Paul",
+        "text": "From this chapter on, Luke begins to call him Paul, his Roman name, instead of Saul, the Hebrew one. The change accompanies his growing leadership in the mission to the Gentiles."
+      },
+      {
+        "id": "acts-13-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "thou shalt be {0}, not seeing the sun for a season.",
+        "blanks": [
+          "blind"
+        ],
+        "distractors": [
+          "dumb",
+          "deaf",
+          "lame"
+        ]
+      },
+      {
+        "id": "acts-13-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "seven nations in the land of {0}, he divided",
+        "blanks": [
+          "Chanaan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Babylon",
+          "Assyria"
+        ]
+      },
+      {
+        "id": "acts-13-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "a man of the tribe of {0},",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Judah",
+          "Levi",
+          "Ephraim"
+        ]
+      },
+      {
+        "id": "acts-13-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Who said he was 'not worthy to loose the shoes' of the one coming after him?",
+        "options": [
+          "John the Baptist",
+          "David",
+          "Samuel",
+          "Peter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "But God {0} him from the dead:",
+        "blanks": [
+          "raised"
+        ],
+        "distractors": [
+          "called",
+          "chose",
+          "took"
+        ]
+      },
+      {
+        "id": "acts-13-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What was Paul's argument in citing the psalms about not seeing corruption?",
+        "options": [
+          "David died and saw corruption, but the risen Jesus did not",
+          "David never died",
+          "Jesus did not rise",
+          "The psalms spoke of Solomon"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "is preached unto you the {0} of sins:",
+        "blanks": [
+          "forgiveness"
+        ],
+        "distractors": [
+          "remembrance",
+          "origin",
+          "glory"
+        ]
+      },
+      {
+        "id": "acts-13-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "How did the Jews react on seeing almost the whole city come to hear Paul?",
+        "options": [
+          "They were filled with envy and contradicted him",
+          "They converted en masse",
+          "They expelled the Romans",
+          "They asked for baptism"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-13-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "to be a {0} of the Gentiles,",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "king",
+          "guide",
+          "glory"
+        ]
+      },
+      {
+        "id": "acts-13-mp-52",
+        "type": "match_pairs",
+        "after_verse": 52,
+        "pairs": [
+          {
+            "left": "Barnabas and Saul",
+            "right": "Sent from Antioch on the first journey"
+          },
+          {
+            "left": "Elymas",
+            "right": "Sorcerer blinded by Paul in Cyprus"
+          },
+          {
+            "left": "Sergius Paulus",
+            "right": "Deputy who believed in Cyprus"
+          },
+          {
+            "left": "John Mark",
+            "right": "Left the missionaries and returned to Jerusalem"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "acts-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Iconium, Lystra and Derbe",
+        "text": "Paul and Barnabas keep preaching in cities of Asia Minor, always beginning at the synagogue. The response splits between faith and hostility, setting the pattern of the missionary journeys."
+      },
+      {
+        "id": "acts-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "How was the city of Iconium divided by the apostles' preaching?",
+        "options": [
+          "Divided: some with the Jews, some with the apostles",
+          "Wholly converted",
+          "Wholly against them",
+          "Indifferent"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "impotent in his {0}, being a cripple",
+        "blanks": [
+          "feet"
+        ],
+        "distractors": [
+          "hands",
+          "eyes",
+          "ears"
+        ]
+      },
+      {
+        "id": "acts-14-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "The cripple of Lystra",
+        "text": "At Lystra, Paul heals a man lame from birth who had never walked. The miracle echoes Peter's healing of the lame man at the temple early in Acts, showing the same power working through both apostles."
+      },
+      {
+        "id": "acts-14-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Jupiter and Mercury",
+        "text": "Seeing the miracle, the people of Lystra took Barnabas for Jupiter and Paul for Mercury, the messenger of the gods, because he was the chief speaker. A local legend told that these gods had once visited the region in disguise."
+      },
+      {
+        "id": "acts-14-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "What names did the crowd of Lystra give Barnabas and Paul, thinking them gods?",
+        "options": [
+          "Jupiter and Mercury",
+          "Apollos and Mars",
+          "Saturn and Venus",
+          "Caesar and Augustus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What happened to Paul at Lystra after Jews came from Antioch and Iconium?",
+        "options": [
+          "He was stoned and dragged out as dead",
+          "He was crowned king",
+          "He was imprisoned in Rome",
+          "He fled by boat"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "enter into the {0} of God.",
+        "blanks": [
+          "kingdom"
+        ],
+        "distractors": [
+          "temple",
+          "city",
+          "house"
+        ]
+      },
+      {
+        "id": "acts-14-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did Paul and Barnabas report to the church on returning to Antioch?",
+        "options": [
+          "That God had opened the door of faith to the Gentiles",
+          "That they had been imprisoned in Rome",
+          "That the temple had been destroyed",
+          "That Herod had died"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-14-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Lystra",
+            "right": "Where Paul healed a cripple and was stoned"
+          },
+          {
+            "left": "Jupiter and Mercury",
+            "right": "Names the crowd gave Barnabas and Paul"
+          },
+          {
+            "left": "Elders",
+            "right": "Ordained by Paul and Barnabas in every church"
+          },
+          {
+            "left": "Door of faith",
+            "right": "Opened by God to the Gentiles"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "acts-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The council of Jerusalem",
+        "text": "The question was decisive: did Gentile converts need to be circumcised and keep the law of Moses? To settle it, the church held its first great council in Jerusalem."
+      },
+      {
+        "id": "acts-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What question divided the church and led to the council of Jerusalem?",
+        "options": [
+          "Whether Gentiles needed to be circumcised to be saved",
+          "Whether they could eat meat",
+          "Which day to keep the sabbath",
+          "Who would lead the church"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "The yoke of the law",
+        "text": "Peter called the demand for circumcision a yoke that neither their fathers nor they had been able to bear. His argument was that both Jews and Gentiles are saved by the grace of the Lord Jesus."
+      },
+      {
+        "id": "acts-15-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "purifying their hearts by {0}.",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "law",
+          "circumcision",
+          "works"
+        ]
+      },
+      {
+        "id": "acts-15-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Who, after Peter, spoke up and quoted the prophets at the council?",
+        "options": [
+          "James",
+          "John",
+          "Barnabas",
+          "Silas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "abstain from pollutions of {0},",
+        "blanks": [
+          "idols"
+        ],
+        "distractors": [
+          "temples",
+          "dead",
+          "altars"
+        ]
+      },
+      {
+        "id": "acts-15-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Who were chosen to carry the council's letter to Antioch, with Paul and Barnabas?",
+        "options": [
+          "Judas Barsabas and Silas",
+          "Peter and John",
+          "Agabus and Mark",
+          "James and Simeon"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "What did the Holy Ghost and the apostles decide to lay upon the Gentiles?",
+        "options": [
+          "No burden beyond a few necessary things",
+          "Full circumcision",
+          "The whole law of Moses",
+          "A temple tax"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "What did Paul and Barnabas do while they remained in Antioch?",
+        "options": [
+          "They taught and preached the word of the Lord",
+          "They built a temple",
+          "They returned to Jerusalem",
+          "They stopped preaching"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "Why did Paul and Barnabas part before the second journey?",
+        "options": [
+          "They disagreed over taking John Mark with them",
+          "They quarreled over money",
+          "They disagreed about circumcision",
+          "One of them fell ill"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-15-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Council of Jerusalem",
+            "right": "Decided Gentiles need not be circumcised"
+          },
+          {
+            "left": "James",
+            "right": "Proposed the final decision, quoting the prophets"
+          },
+          {
+            "left": "Judas and Silas",
+            "right": "Carried the council's letter to Antioch"
+          },
+          {
+            "left": "Paul and Barnabas",
+            "right": "Parted over John Mark"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "acts-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Timothy",
+        "text": "Timothy, son of a Jewish mother and a Greek father, joins Paul at Lystra and would become one of his closest disciples. Paul would later write him two letters, 1 and 2 Timothy."
+      },
+      {
+        "id": "acts-16-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Who joined Paul at Lystra, the son of a Jewish mother and a Greek father?",
+        "options": [
+          "Timothy",
+          "Silas",
+          "Luke",
+          "Titus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Come over into {0}, and help us.",
+        "blanks": [
+          "Macedonia"
+        ],
+        "distractors": [
+          "Galatia",
+          "Asia",
+          "Phrygia"
+        ]
+      },
+      {
+        "id": "acts-16-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Who was Lydia, the first convert in Philippi?",
+        "options": [
+          "A seller of purple from Thyatira who worshipped God",
+          "A slave girl with a spirit of divination",
+          "The jailer's wife",
+          "A priestess of Diana"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "The spirit of divination",
+        "text": "The slave girl who followed Paul had a spirit of divination that brought her masters much gain. When Paul cast it out in the name of Jesus, the source of income dried up — and that is why the masters dragged him to court."
+      },
+      {
+        "id": "acts-16-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What did Paul do to the girl who had a spirit of divination?",
+        "options": [
+          "Cast out the spirit in the name of Jesus Christ",
+          "Paid her masters",
+          "Baptized her in the river",
+          "Sent her out of the city"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "And at {0} Paul and Silas prayed",
+        "blanks": [
+          "midnight"
+        ],
+        "distractors": [
+          "dawn",
+          "noon",
+          "morning"
+        ]
+      },
+      {
+        "id": "acts-16-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "The first church in Europe",
+        "text": "The earthquake that opened the prison converted the jailer and his household. With Lydia, the jailer and the brethren, the first Christian community on the European continent forms in Philippi, to whom Paul would later send the letter to the Philippians."
+      },
+      {
+        "id": "acts-16-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What did the jailer ask Paul and Silas after the earthquake?",
+        "options": [
+          "What must I do to be saved?",
+          "Who are you?",
+          "Why were you singing?",
+          "Where are the prisoners?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "and was {0}, he and all his, straightway.",
+        "blanks": [
+          "baptized"
+        ],
+        "distractors": [
+          "healed",
+          "freed",
+          "forgiven"
+        ]
+      },
+      {
+        "id": "acts-16-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Why did Paul refuse to leave the prison secretly?",
+        "options": [
+          "Because they were Roman citizens beaten without trial",
+          "Because they wanted more money",
+          "Because the earthquake had destroyed the exit",
+          "Because they were waiting for Lydia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-16-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Timothy",
+            "right": "Disciple of Lystra who began traveling with Paul"
+          },
+          {
+            "left": "Lydia",
+            "right": "Seller of purple, first convert in Philippi"
+          },
+          {
+            "left": "Jailer of Philippi",
+            "right": "Converted with his house after the earthquake"
+          },
+          {
+            "left": "Vision of Macedonia",
+            "right": "Led Paul to preach in Europe"
+          }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "acts-17-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did Paul prove from the scriptures in the synagogue of Thessalonica?",
+        "options": [
+          "That the Christ had to suffer and rise from the dead",
+          "That the temple would be rebuilt",
+          "That Caesar was the messiah",
+          "That the law saved"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "These that have turned the {0} upside down",
+        "blanks": [
+          "world"
+        ],
+        "distractors": [
+          "temple",
+          "people",
+          "kingdom"
+        ]
+      },
+      {
+        "id": "acts-17-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "The noble Bereans",
+        "text": "Luke praises the Jews of Berea for receiving the word with eagerness and searching the scriptures daily to check whether things were so. They became a model of those who study before believing."
+      },
+      {
+        "id": "acts-17-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "searched the {0} daily, whether those things were so.",
+        "blanks": [
+          "scriptures"
+        ],
+        "distractors": [
+          "laws",
+          "synagogues",
+          "traditions"
+        ]
+      },
+      {
+        "id": "acts-17-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Which philosophers disputed with Paul in Athens?",
+        "options": [
+          "Epicureans and Stoics",
+          "Pharisees and Sadducees",
+          "Scribes and elders",
+          "Sophists and Cynics"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "To the Unknown God",
+        "text": "In Athens, Paul found an altar dedicated “to the Unknown God” and used it as a bridge: the one the Athenians worshipped without knowing, he said, is the God who made heaven and earth. He even quoted Greek poets to proclaim him."
+      },
+      {
+        "id": "acts-17-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "with this inscription, To the {0} God.",
+        "blanks": [
+          "Unknown"
+        ],
+        "distractors": [
+          "Most High",
+          "Living",
+          "Eternal"
+        ]
+      },
+      {
+        "id": "acts-17-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "For in him we {0}, and move, and have our being;",
+        "blanks": [
+          "live"
+        ],
+        "distractors": [
+          "believe",
+          "hope",
+          "remain"
+        ]
+      },
+      {
+        "id": "acts-17-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "What proof did God give that he will judge the world by the man he ordained?",
+        "options": [
+          "He raised him from the dead",
+          "He sent an angel",
+          "He destroyed the idols",
+          "He gave a new law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-17-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Thessalonica",
+            "right": "Synagogue where some believed and a riot arose"
+          },
+          {
+            "left": "Berea",
+            "right": "Noble Jews who searched the scriptures"
+          },
+          {
+            "left": "Areopagus",
+            "right": "Where Paul preached the Unknown God"
+          },
+          {
+            "left": "Dionysius and Damaris",
+            "right": "Athenians who believed Paul"
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "acts-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Aquila and Priscilla",
+        "text": "In Corinth, Paul lodges with Aquila and Priscilla, a Jewish couple expelled from Rome by Claudius, and works with them making tents. The couple become constant co-workers of Paul and would help instruct Apollos."
+      },
+      {
+        "id": "acts-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "by their occupation they were {0}.",
+        "blanks": [
+          "tentmakers"
+        ],
+        "distractors": [
+          "fishermen",
+          "potters",
+          "carpenters"
+        ]
+      },
+      {
+        "id": "acts-18-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Who believed on the Lord with all his house in Corinth?",
+        "options": [
+          "Crispus, the chief ruler of the synagogue",
+          "Gallio, the proconsul",
+          "Sosthenes",
+          "Aquila"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did the Lord say to Paul in a vision in Corinth?",
+        "options": [
+          "Be not afraid, speak and hold not thy peace, for I have much people in this city",
+          "Leave at once for Rome",
+          "Return to Jerusalem",
+          "Preach no more to the Gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "How did the proconsul Gallio react to the Jews' accusation against Paul?",
+        "options": [
+          "He refused to judge questions of words and names of the Jewish law",
+          "He condemned Paul to death",
+          "He had Paul beaten",
+          "He converted to the gospel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "in Cenchrea: for he had a {0}.",
+        "blanks": [
+          "vow"
+        ],
+        "distractors": [
+          "fever",
+          "fear",
+          "debt"
+        ]
+      },
+      {
+        "id": "acts-18-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Apollos of Alexandria",
+        "text": "Apollos was a Jew eloquent and mighty in the scriptures, but he knew only the baptism of John. Priscilla and Aquila took him aside and explained the way of God to him more accurately, and he became a great preacher."
+      },
+      {
+        "id": "acts-18-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What did Priscilla and Aquila do on hearing Apollos in the synagogue of Ephesus?",
+        "options": [
+          "Took him aside and explained the way of God more fully",
+          "Expelled him from the synagogue",
+          "Baptized him again",
+          "Accused him before Gallio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-18-mp-28",
+        "type": "match_pairs",
+        "after_verse": 28,
+        "pairs": [
+          {
+            "left": "Aquila and Priscilla",
+            "right": "Couple who made tents and instructed Apollos"
+          },
+          {
+            "left": "Gallio",
+            "right": "Proconsul who refused to judge Paul"
+          },
+          {
+            "left": "Crispus",
+            "right": "Synagogue ruler who believed in Corinth"
+          },
+          {
+            "left": "Apollos",
+            "right": "Eloquent Jew of Alexandria, mighty in the scriptures"
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "acts-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Ephesus and the temple of Diana",
+        "text": "Ephesus was one of the empire's greatest cities and home to the temple of Diana (Artemis), one of the seven wonders of the ancient world. Paul would spend about three years there, his longest stay in a single city."
+      },
+      {
+        "id": "acts-19-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What did the disciples at Ephesus answer when Paul asked if they had received the Holy Ghost?",
+        "options": [
+          "That they had not even heard whether there was a Holy Ghost",
+          "That they already spoke in tongues",
+          "That John had baptized them in the Spirit",
+          "That they did not believe in Jesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "in the school of one {0}.",
+        "blanks": [
+          "Tyrannus"
+        ],
+        "distractors": [
+          "Justus",
+          "Crispus",
+          "Demetrius"
+        ]
+      },
+      {
+        "id": "acts-19-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How did God work extraordinary miracles through Paul in Ephesus?",
+        "options": [
+          "Even handkerchiefs and aprons he had touched healed the sick",
+          "Through sacrifices in the temple",
+          "By Paul's shadow",
+          "Through silver amulets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "The sons of Sceva",
+        "text": "Seven sons of Sceva tried to cast out an evil spirit by invoking “Jesus whom Paul preaches,” without faith of their own. The spirit answered that it knew Jesus and Paul, but not them, and the possessed man wounded them and made them flee naked."
+      },
+      {
+        "id": "acts-19-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Jesus I know, and {0} I know;",
+        "blanks": [
+          "Paul"
+        ],
+        "distractors": [
+          "Peter",
+          "Silas",
+          "Apollos"
+        ]
+      },
+      {
+        "id": "acts-19-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "brought their {0} together, and burned them",
+        "blanks": [
+          "books"
+        ],
+        "distractors": [
+          "idols",
+          "amulets",
+          "treasures"
+        ]
+      },
+      {
+        "id": "acts-19-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Fifty thousand pieces of silver",
+        "text": "The Ephesians who practiced magic burned their books in public; the value came to fifty thousand pieces of silver, a fortune. The act showed a radical and costly break with the old life."
+      },
+      {
+        "id": "acts-19-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Why did the silversmith Demetrius stir up a riot against Paul in Ephesus?",
+        "options": [
+          "Because the preaching threatened his profit from Diana's silver shrines",
+          "Because Paul had destroyed the temple",
+          "Because Paul was a Roman",
+          "Because Paul did not pay taxes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Great is {0} of the Ephesians.",
+        "blanks": [
+          "Diana"
+        ],
+        "distractors": [
+          "Venus",
+          "Minerva",
+          "Juno"
+        ]
+      },
+      {
+        "id": "acts-19-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "How did the townclerk describe Ephesus as he calmed the crowd?",
+        "options": [
+          "As guardian of the temple of the great goddess Diana",
+          "As capital of the empire",
+          "As the holy city of the Jews",
+          "As a Roman colony"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What warning did the townclerk give the crowd of Ephesus?",
+        "options": [
+          "That they risked being charged with sedition for that uproar",
+          "That Diana would punish them",
+          "That Paul would be executed",
+          "That the temple would be closed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-19-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Disciples of Ephesus",
+            "right": "Rebaptized in the name of the Lord Jesus"
+          },
+          {
+            "left": "Sons of Sceva",
+            "right": "Exorcists overcome by the evil spirit"
+          },
+          {
+            "left": "Demetrius",
+            "right": "Silversmith who stirred the riot for Diana"
+          },
+          {
+            "left": "Townclerk",
+            "right": "Calmed the crowd in the theatre"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "acts-20-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Eutychus and the first day of the week",
+        "text": "In Troas, the disciples gathered on the first day of the week to break bread — one of the earliest mentions of Christian Sunday worship. It was during Paul's long sermon that the young Eutychus fell asleep and dropped from the window."
+      },
+      {
+        "id": "acts-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "From where did Paul and his companions sail after the unleavened bread, toward Troas?",
+        "options": [
+          "From Philippi",
+          "From Corinth",
+          "From Ephesus",
+          "From Miletus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What happened to the young Eutychus during Paul's long sermon in Troas?",
+        "options": [
+          "He fell asleep, dropped from the third loft and was taken up dead",
+          "He fled the meeting",
+          "He was arrested by the guards",
+          "He put out the lights"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "to be at Jerusalem the day of {0}.",
+        "blanks": [
+          "Pentecost"
+        ],
+        "distractors": [
+          "Passover",
+          "Atonement",
+          "Tabernacles"
+        ]
+      },
+      {
+        "id": "acts-20-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "How did Paul describe his ministry to the elders of Ephesus?",
+        "options": [
+          "He kept back nothing profitable, teaching publicly and house to house",
+          "He preached only in the temple",
+          "He charged for preaching",
+          "He taught only the rich"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "saying that {0} and afflictions abide me.",
+        "blanks": [
+          "bonds"
+        ],
+        "distractors": [
+          "riches",
+          "honours",
+          "joys"
+        ]
+      },
+      {
+        "id": "acts-20-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Shepherds of the flock",
+        "text": "Paul charges the elders of Ephesus to watch over the flock as overseers, whom the Holy Ghost has appointed. He warns that “grievous wolves” and deceiving teachers will arise, even from among themselves."
+      },
+      {
+        "id": "acts-20-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "shall grievous {0} enter in among you,",
+        "blanks": [
+          "wolves"
+        ],
+        "distractors": [
+          "lions",
+          "tyrants",
+          "enemies"
+        ]
+      },
+      {
+        "id": "acts-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What did Paul say about silver, gold and clothing during his ministry?",
+        "options": [
+          "That he coveted none, supporting himself with his own hands",
+          "That he received much from the rich",
+          "That he gave them to the poor",
+          "That he kept them for the journey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-20-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "It is more blessed to {0} than to receive.",
+        "blanks": [
+          "give"
+        ],
+        "distractors": [
+          "ask",
+          "keep",
+          "sell"
+        ]
+      },
+      {
+        "id": "acts-20-cur-37",
+        "type": "curiosity",
+        "after_verse": 37,
+        "title": "The farewell at Miletus",
+        "text": "On learning they would see Paul's face no more, the elders of Ephesus wept and fell on his neck. It is one of the most moving scenes in Acts, closing the apostle's farewell speech."
+      },
+      {
+        "id": "acts-20-mp-38",
+        "type": "match_pairs",
+        "after_verse": 38,
+        "pairs": [
+          {
+            "left": "Eutychus",
+            "right": "Young man who fell from the window and was revived by Paul"
+          },
+          {
+            "left": "Elders of Ephesus",
+            "right": "Met Paul at Miletus for the farewell"
+          },
+          {
+            "left": "Grievous wolves",
+            "right": "False teachers Paul foresaw arising"
+          },
+          {
+            "left": "Giving over receiving",
+            "right": "A saying of Jesus quoted by Paul"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "acts-21-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did the disciples of Tyre tell Paul through the Spirit?",
+        "options": [
+          "That he should not go up to Jerusalem",
+          "That he should preach to the Gentiles",
+          "That he should return to Antioch",
+          "That he should keep silent"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Philip the evangelist",
+        "text": "In Caesarea, Paul lodges with Philip the evangelist, one of the seven chosen in Acts 6 and the same who baptized the Ethiopian eunuch. His four daughters prophesied, a sign of the Spirit's presence in the home."
+      },
+      {
+        "id": "acts-21-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "the man that owneth this {0},",
+        "blanks": [
+          "girdle"
+        ],
+        "distractors": [
+          "garment",
+          "cloak",
+          "robe"
+        ]
+      },
+      {
+        "id": "acts-21-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "How did Paul answer those who wept, begging him not to go up to Jerusalem?",
+        "options": [
+          "That he was ready to die at Jerusalem for the name of the Lord Jesus",
+          "That he would change his route",
+          "That he would return to Caesarea",
+          "That he would wait for a sign"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did the brethren of Jerusalem tell Paul about the thousands of Jews who believed?",
+        "options": [
+          "That they were all zealous of the law",
+          "That they rejected Moses",
+          "That they wanted to kill him",
+          "That they did not believe in the resurrection"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "four men which have a {0} on them;",
+        "blanks": [
+          "vow"
+        ],
+        "distractors": [
+          "debt",
+          "fast",
+          "mark"
+        ]
+      },
+      {
+        "id": "acts-21-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did the Jews of Asia accuse Paul of as they stirred up the people in the temple?",
+        "options": [
+          "Of teaching against the people, the law and the temple, and profaning it",
+          "Of stealing the treasury",
+          "Of denying Caesar",
+          "Of healing on the sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "The Court of the Gentiles",
+        "text": "Gentiles could enter only the outer court of the temple; stone signs threatened death to anyone who crossed the barrier into the inner court. That is why the suspicion that Paul had taken the Greek Trophimus inside enraged the crowd."
+      },
+      {
+        "id": "acts-21-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What did the Roman commander do when he arrived and found Paul being beaten?",
+        "options": [
+          "He arrested him and ordered him bound with two chains",
+          "He released him at once",
+          "He handed him to the Jews",
+          "He ordered him killed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "For whom did the commander at first mistake Paul?",
+        "options": [
+          "For an Egyptian who had led a revolt in the wilderness",
+          "For a high priest",
+          "For a prophet of Judea",
+          "For a Roman soldier"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-21-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Agabus",
+            "right": "Prophet who foretold Paul's arrest in Jerusalem"
+          },
+          {
+            "left": "Philip the evangelist",
+            "right": "Hosted Paul in Caesarea; had four prophesying daughters"
+          },
+          {
+            "left": "Trophimus",
+            "right": "Ephesian Paul was accused of bringing into the temple"
+          },
+          {
+            "left": "The commander",
+            "right": "Roman officer who arrested Paul in the riot"
+          }
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "acts-22-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "At the feet of Gamaliel",
+        "text": "Paul stresses that he was brought up in Jerusalem at the feet of Gamaliel, the respected Pharisee teacher who had earlier counseled caution against the apostles (Acts 5). His rigorous training explains the zeal with which he once persecuted Christians."
+      },
+      {
+        "id": "acts-22-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "at the feet of {0},",
+        "blanks": [
+          "Gamaliel"
+        ],
+        "distractors": [
+          "Moses",
+          "Ananias",
+          "Tertullus"
+        ]
+      },
+      {
+        "id": "acts-22-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What did the voice say to Paul on the road to Damascus, in his defense?",
+        "options": [
+          "I am Jesus of Nazareth, whom thou persecutest",
+          "I am the God of Abraham",
+          "I am an angel of the Lord",
+          "I am Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "wash away thy {0}, calling on the name of the Lord.",
+        "blanks": [
+          "sins"
+        ],
+        "distractors": [
+          "feet",
+          "fears",
+          "tears"
+        ]
+      },
+      {
+        "id": "acts-22-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "To whom did Jesus tell Paul, in the temple, that he would send him?",
+        "options": [
+          "Far away, to the Gentiles",
+          "To the priests of Jerusalem",
+          "To the kings of Judea",
+          "To the Samaritans"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "to scourge a man that is a {0}, and uncondemned?",
+        "blanks": [
+          "Roman"
+        ],
+        "distractors": [
+          "Jew",
+          "Greek",
+          "slave"
+        ]
+      },
+      {
+        "id": "acts-22-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "A citizen by birth",
+        "text": "The commander had bought Roman citizenship with a great sum; Paul, however, was born a citizen, a rare and valuable status in a province. That right protected him from being scourged without trial and would shape his whole case."
+      },
+      {
+        "id": "acts-22-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What difference was there between Paul's Roman citizenship and the commander's?",
+        "options": [
+          "Paul was born a citizen; the commander bought it for a great sum",
+          "Both bought it",
+          "Paul bought it and the commander inherited it",
+          "Neither was a citizen"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-22-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Gamaliel",
+            "right": "Teacher of the law at whose feet Paul was raised"
+          },
+          {
+            "left": "Ananias of Damascus",
+            "right": "Restored Saul's sight and told him to be baptized"
+          },
+          {
+            "left": "Roman citizenship",
+            "right": "Protected Paul from being scourged without trial"
+          },
+          {
+            "left": "Stephen",
+            "right": "Martyr in whose death Paul had consented"
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "acts-23-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Paul call the high priest Ananias after being struck on the mouth?",
+        "options": [
+          "Whited wall",
+          "Son of the devil",
+          "Father of the Pharisees",
+          "Servant of Caesar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "I am a {0}, the son of a Pharisee:",
+        "blanks": [
+          "Pharisee"
+        ],
+        "distractors": [
+          "Sadducee",
+          "scribe",
+          "priest"
+        ]
+      },
+      {
+        "id": "acts-23-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Sadducees and Pharisees",
+        "text": "Paul divided the council by appealing to the resurrection: the Sadducees denied the resurrection, angels and spirits, while the Pharisees believed in all. The move turned the trial into an internal dispute of the Sanhedrin."
+      },
+      {
+        "id": "acts-23-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did the Lord say to Paul the night after the uproar?",
+        "options": [
+          "That as he had testified in Jerusalem, he must also testify in Rome",
+          "That he should flee to Damascus",
+          "That he should keep silent before Caesar",
+          "That he should return to Antioch"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Who revealed to the commander the plot to kill Paul?",
+        "options": [
+          "The son of Paul's sister (his nephew)",
+          "A Roman centurion",
+          "The high priest himself",
+          "An angel of the Lord"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Where did the commander send Paul under heavy escort for safety?",
+        "options": [
+          "To Caesarea, to governor Felix",
+          "To Rome, to Caesar",
+          "To Antioch",
+          "Back to the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "unto the most excellent governor {0} sendeth greeting.",
+        "blanks": [
+          "Felix"
+        ],
+        "distractors": [
+          "Festus",
+          "Agrippa",
+          "Cæsar"
+        ]
+      },
+      {
+        "id": "acts-23-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "What did Felix decide on receiving Paul in Caesarea?",
+        "options": [
+          "To hear him when his accusers came, keeping him in Herod's hall",
+          "To release him at once",
+          "To send him to Rome",
+          "To hand him to the Jews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-23-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Ananias",
+            "right": "High priest who ordered Paul struck on the mouth"
+          },
+          {
+            "left": "The Sadducees",
+            "right": "Denied the resurrection, angels and spirits"
+          },
+          {
+            "left": "Paul's nephew",
+            "right": "Warned the commander of the plot"
+          },
+          {
+            "left": "Claudius Lysias",
+            "right": "Commander who sent Paul to Felix"
+          }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "acts-24-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Tertullus the orator",
+        "text": "The Jews hired Tertullus, a professional orator, to present the accusation against Paul before Felix in legal style. He opened by flattering the governor, a common technique in Roman courts."
+      },
+      {
+        "id": "acts-24-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Whom did the Jews bring to present the charges against Paul before Felix?",
+        "options": [
+          "An orator named Tertullus",
+          "The prophet Agabus",
+          "The commander Lysias",
+          "King Agrippa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "a ringleader of the sect of the {0}:",
+        "blanks": [
+          "Nazarenes"
+        ],
+        "distractors": [
+          "Pharisees",
+          "Sadducees",
+          "Essenes"
+        ]
+      },
+      {
+        "id": "acts-24-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What did Paul confess about 'the Way' they called a sect?",
+        "options": [
+          "That by it he served the God of the fathers, believing the law and the prophets",
+          "That it was a new religion",
+          "That it rejected the scriptures",
+          "That it denied the resurrection"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "I came to bring {0} to my nation, and offerings.",
+        "blanks": [
+          "alms"
+        ],
+        "distractors": [
+          "letters",
+          "laws",
+          "news"
+        ]
+      },
+      {
+        "id": "acts-24-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Why did Felix tremble on hearing Paul speak of righteousness and the judgment to come?",
+        "options": [
+          "He was seized with fear and put off the conversation",
+          "He converted at once",
+          "He ordered him released",
+          "He laughed at Paul"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-24-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Two years in prison",
+        "text": "Felix hoped Paul would give him money for his release, and so sent for him often. On leaving office, to please the Jews, he left Paul bound, handing the case to his successor Porcius Festus."
+      },
+      {
+        "id": "acts-24-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Tertullus",
+            "right": "Orator who accused Paul before Felix"
+          },
+          {
+            "left": "Felix",
+            "right": "Governor who deferred the case and kept Paul bound"
+          },
+          {
+            "left": "Drusilla",
+            "right": "Jewish wife of Felix"
+          },
+          {
+            "left": "Porcius Festus",
+            "right": "Felix's successor as governor"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "acts-25-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Appeal to Caesar",
+        "text": "Appealing to Caesar was a Roman citizen's right that took the case out of local hands to the emperor's court in Rome. By using it, Paul unknowingly fulfilled the Lord's promise that he would testify in Rome."
+      },
+      {
+        "id": "acts-25-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did the chief of the Jews ask Festus concerning Paul?",
+        "options": [
+          "That he bring him to Jerusalem, plotting to kill him on the way",
+          "That he release him soon",
+          "That he send him to Rome",
+          "That he scourge him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "neither against the temple, nor yet against {0}, have I offended",
+        "blanks": [
+          "Cæsar"
+        ],
+        "distractors": [
+          "Rome",
+          "the king",
+          "Festus"
+        ]
+      },
+      {
+        "id": "acts-25-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What decision did Paul make when pressured to go to Jerusalem?",
+        "options": [
+          "He appealed to Caesar",
+          "He fled Caesarea",
+          "He agreed to be judged by the Jews",
+          "He asked to be released"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What was the heart of the Jews' dispute against Paul, according to Festus?",
+        "options": [
+          "Questions of their religion and of one Jesus, dead, whom Paul affirmed to be alive",
+          "A theft in the temple",
+          "A debt to Caesar",
+          "An armed rebellion"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What did king Agrippa say to Festus about Paul?",
+        "options": [
+          "That he also wished to hear the man himself",
+          "That he condemn him to death",
+          "That he release him soon",
+          "That he send him to Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-25-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "he himself hath appealed to {0}, I have determined to send him.",
+        "blanks": [
+          "Augustus"
+        ],
+        "distractors": [
+          "Festus",
+          "Agrippa",
+          "Felix"
+        ]
+      },
+      {
+        "id": "acts-25-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Festus",
+            "right": "New governor who succeeded Felix"
+          },
+          {
+            "left": "Agrippa and Bernice",
+            "right": "Came to Caesarea and heard Paul's case"
+          },
+          {
+            "left": "Appeal to Caesar",
+            "right": "Roman citizen's right that Paul used"
+          },
+          {
+            "left": "Augustus",
+            "right": "The emperor to whom Paul appealed"
+          }
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "acts-26-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Before king Agrippa",
+        "text": "Agrippa II was well versed in the customs and questions of the Jews, which makes this Paul's fullest defense in Acts. It is the third account of his conversion in the book, now before a king."
+      },
+      {
+        "id": "acts-26-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to the strictest sect of his religion, how did Paul say he had lived?",
+        "options": [
+          "As a Pharisee",
+          "As a Sadducee",
+          "As an Essene",
+          "As a priest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "many of the {0} did I shut up in prison,",
+        "blanks": [
+          "saints"
+        ],
+        "distractors": [
+          "prophets",
+          "priests",
+          "Gentiles"
+        ]
+      },
+      {
+        "id": "acts-26-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "In what language did the voice from heaven speak to Paul on the road to Damascus?",
+        "options": [
+          "In the Hebrew tongue",
+          "In Greek",
+          "In Latin",
+          "In Egyptian"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "to turn them from darkness to {0},",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "life",
+          "truth",
+          "glory"
+        ]
+      },
+      {
+        "id": "acts-26-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "How did Festus react to Paul's speech before Agrippa?",
+        "options": [
+          "He said aloud that much learning was making him mad",
+          "He converted to the gospel",
+          "He ordered him released",
+          "He fell silent in fear"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Almost thou persuadest me",
+        "text": "Agrippa's famous reply — 'almost thou persuadest me to be a Christian' — shows how deeply Paul's defense touched the king. Paul replied wishing that all his hearers might become as he was, except for the chains."
+      },
+      {
+        "id": "acts-26-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did king Agrippa reply to Paul?",
+        "options": [
+          "Almost he was persuaded to become a Christian",
+          "That he condemned him to death",
+          "That he believed the prophets",
+          "That he would free him at once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-26-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "King Agrippa",
+            "right": "Heard Paul's defense and was almost persuaded to be a Christian"
+          },
+          {
+            "left": "Festus",
+            "right": "Said much learning was making Paul mad"
+          },
+          {
+            "left": "Damascus vision",
+            "right": "Paul's call to be a minister and witness"
+          },
+          {
+            "left": "Appeal to Caesar",
+            "right": "Prevented Paul from being released"
+          }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "acts-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The voyage to Rome",
+        "text": "The account returns to the first person plural ('we'), a sign that Luke was traveling with Paul. As a prisoner who had appealed to Caesar, Paul is sent to Rome under the guard of the centurion Julius, of the Augustan band."
+      },
+      {
+        "id": "acts-27-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Where were Paul and other prisoners sent, under the guard of the centurion Julius?",
+        "options": [
+          "To Italy",
+          "To Egypt",
+          "To Greece",
+          "To Cyprus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "The grain ships",
+        "text": "At Myra, the centurion puts the group on a ship of Alexandria bound for Italy. These were large freighters carrying grain from Egypt to feed Rome — hence the wheat later thrown overboard to lighten the ship."
+      },
+      {
+        "id": "acts-27-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What did Paul warn about the sea voyage?",
+        "options": [
+          "That it would bring hurt and loss, to the ship, the cargo and their lives",
+          "That they would arrive safely",
+          "That the wind would be favorable",
+          "That they should sell the cargo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Why did the majority decide to leave Fair Havens and try to reach Phenice?",
+        "options": [
+          "Because the haven was not suitable to winter in",
+          "Because food was lacking",
+          "Because there were pirates",
+          "Because Paul ordered it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What did the crew do when violently tossed by the storm?",
+        "options": [
+          "Lightened the ship, casting cargo and tackle into the sea",
+          "Returned to Crete",
+          "Surrendered to the winds",
+          "Threw themselves into the boats"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "No life will be lost",
+        "text": "At the height of the storm, when all had lost hope, an angel assured Paul that he would stand before Caesar and that no one aboard would die. Paul then encouraged the 276 to eat and to trust God."
+      },
+      {
+        "id": "acts-27-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "thou must be brought before {0}:",
+        "blanks": [
+          "Cæsar"
+        ],
+        "distractors": [
+          "Festus",
+          "Agrippa",
+          "Felix"
+        ]
+      },
+      {
+        "id": "acts-27-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did the sailors suspect at midnight on the fourteenth night of the storm?",
+        "options": [
+          "That they were nearing some land",
+          "That the ship would sink at once",
+          "That they saw a lighthouse",
+          "That the storm had ceased"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "there shall not an {0} fall from the head of any of you.",
+        "blanks": [
+          "hair"
+        ],
+        "distractors": [
+          "ear",
+          "tooth",
+          "eye"
+        ]
+      },
+      {
+        "id": "acts-27-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "How many people were on the ship in all?",
+        "options": [
+          "Two hundred seventy-six",
+          "Seventy-six",
+          "One hundred seventy-six",
+          "Three hundred seventy-six"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Why did the centurion stop the soldiers from killing the prisoners in the wreck?",
+        "options": [
+          "Because he wanted to save Paul",
+          "Because he feared Caesar",
+          "Because they were innocent",
+          "Because an angel forbade him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-27-mp-44",
+        "type": "match_pairs",
+        "after_verse": 44,
+        "pairs": [
+          {
+            "left": "Julius",
+            "right": "Centurion of the Augustan band who guarded Paul"
+          },
+          {
+            "left": "Euroclydon",
+            "right": "Tempestuous wind that drove the ship"
+          },
+          {
+            "left": "Aristarchus",
+            "right": "Macedonian of Thessalonica who accompanied Paul"
+          },
+          {
+            "left": "The 276",
+            "right": "All escaped safe to land after the wreck"
+          }
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "acts-28-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "From murderer to god",
+        "text": "The people of Malta, seeing the viper fastened on Paul's hand, first judged him a murderer punished by divine justice; seeing that nothing happened to him, they began to call him a god. Paul simply shook the snake into the fire, suffering no harm."
+      },
+      {
+        "id": "acts-28-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "there came a {0} out of the heat, and fastened on his hand.",
+        "blanks": [
+          "viper"
+        ],
+        "distractors": [
+          "spider",
+          "lizard",
+          "scorpion"
+        ]
+      },
+      {
+        "id": "acts-28-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What did Paul do for the father of Publius, sick with fever and dysentery?",
+        "options": [
+          "Prayed, laid his hands on him, and healed him",
+          "Gave him herbs",
+          "Took him to a physician",
+          "Asked him to fast"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "How did Paul react on being met by the brethren at Appii Forum and the Three Taverns?",
+        "options": [
+          "He thanked God and took courage",
+          "He asked to turn back",
+          "He fell silent in fear",
+          "He refused their company"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "for the {0} of Israel I am bound with this chain.",
+        "blanks": [
+          "hope"
+        ],
+        "distractors": [
+          "law",
+          "glory",
+          "covenant"
+        ]
+      },
+      {
+        "id": "acts-28-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "How did Paul spend the day with the Jews in Rome?",
+        "options": [
+          "Declaring the kingdom of God and persuading them about Jesus from the law and the prophets",
+          "Debating Roman politics",
+          "Asking for money",
+          "In silent prayer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "acts-28-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "The open ending of Acts",
+        "text": "Acts ends without narrating Paul's final trial: Luke's focus is the gospel reaching Rome freely, capital of the world. The Isaiah quote about the hardened heart seals the decisive turn of the message to the Gentiles."
+      },
+      {
+        "id": "acts-28-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "with all {0}, no man forbidding him.",
+        "blanks": [
+          "confidence"
+        ],
+        "distractors": [
+          "humility",
+          "patience",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "acts-28-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Malta",
+            "right": "Island where Paul survived a viper's bite"
+          },
+          {
+            "left": "Publius",
+            "right": "Chief of the island whose father Paul healed"
+          },
+          {
+            "left": "Rome",
+            "right": "Where Paul preached for two years as a prisoner, yet freely"
+          },
+          {
+            "left": "Isaiah",
+            "right": "Prophet Paul quoted about the hardened heart"
+          }
+        ]
+      }
+    ]
+  }
+}

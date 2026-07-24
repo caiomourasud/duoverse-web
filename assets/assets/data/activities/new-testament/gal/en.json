@@ -1,0 +1,692 @@
+{
+  "schema_version": 1,
+  "book": "gal",
+  "chapters": {
+    "1": [
+      {
+        "id": "gal-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "An apostle by Christ, not by men",
+        "text": "Paul opens the letter by defending his apostolic authority: it did not come from men, but directly from Jesus Christ and God the Father. This point is central to everything he will say in Galatians."
+      },
+      {
+        "id": "gal-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "According to verse 4, why did Christ give himself?",
+        "options": [
+          "For our sins, to deliver us from this present evil world",
+          "To abolish the priesthood",
+          "To establish an earthly kingdom",
+          "To condemn the Gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-1-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "But though we, or an {0} from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+        "blanks": [
+          "angel"
+        ],
+        "distractors": [
+          "apostle",
+          "brother",
+          "servant"
+        ]
+      },
+      {
+        "id": "gal-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How does Paul say he received the gospel he preaches?",
+        "options": [
+          "By learning it from the other apostles",
+          "By the revelation of Jesus Christ",
+          "From the traditions of his fathers",
+          "By reading the scriptures of the Jews"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-1-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "From persecutor to preacher",
+        "text": "Before his conversion, Paul (Saul) fiercely persecuted the church of God. Here he recalls that past to show that only divine intervention could have turned him into an apostle."
+      },
+      {
+        "id": "gal-1-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Neither went I up to Jerusalem to them which were apostles before me; but I went into {0}, and returned again unto Damascus.",
+        "blanks": [
+          "Arabia"
+        ],
+        "distractors": [
+          "Syria",
+          "Cilicia",
+          "Judaea"
+        ]
+      },
+      {
+        "id": "gal-1-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Galatia",
+            "right": "Region where the recipient churches were"
+          },
+          {
+            "left": "Peter",
+            "right": "Apostle Paul visited in Jerusalem"
+          },
+          {
+            "left": "James",
+            "right": "The Lord's brother"
+          },
+          {
+            "left": "Accursed",
+            "right": "Curse upon anyone who preaches another gospel"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "gal-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "I went up again to {0} with Barnabas",
+        "blanks": [
+          "Jerusalem"
+        ],
+        "distractors": [
+          "Antioch",
+          "Galatia",
+          "Damascus"
+        ]
+      },
+      {
+        "id": "gal-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Titus the Greek",
+        "text": "Titus was a Christian of Greek (Gentile) background. That he was not compelled to be circumcised became living proof that Gentiles were accepted through faith, without the law of Moses."
+      },
+      {
+        "id": "gal-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Who were regarded as \"pillars\" and gave Paul the right hands of fellowship?",
+        "options": [
+          "James, Cephas, and John",
+          "Peter, Andrew, and Philip",
+          "Matthew, Mark, and Luke",
+          "Stephen, Philip, and Barnabas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Where did Paul withstand Peter to the face because he was to be blamed?",
+        "options": [
+          "Antioch",
+          "Jerusalem",
+          "Rome",
+          "Ephesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Justification",
+            "right": "Comes by faith in Jesus Christ"
+          },
+          {
+            "left": "Works of the law",
+            "right": "Justify no flesh"
+          },
+          {
+            "left": "Law of Moses",
+            "right": "What the Judaizers demanded of Gentiles"
+          },
+          {
+            "left": "Liberty in Christ",
+            "right": "What Paul defended"
+          }
+        ]
+      },
+      {
+        "id": "gal-2-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "I am crucified with Christ: nevertheless I live; yet not I, but {0} liveth in me",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Peter",
+          "Barnabas",
+          "God"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "gal-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Galatians",
+        "text": "Galatia was a region in central Asia Minor (modern Turkey). Paul writes with strong emotion, calling the believers 'foolish' for abandoning the gospel of faith they had received."
+      },
+      {
+        "id": "gal-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to Paul, how did the Galatians receive the Spirit?",
+        "options": [
+          "By the works of the law",
+          "By the hearing of faith",
+          "By circumcision",
+          "By keeping the sabbath"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Even as {0} believed God, and it was accounted to him for righteousness.",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Christ",
+          "Moses",
+          "Paul"
+        ]
+      },
+      {
+        "id": "gal-3-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Faith",
+            "right": "The means by which the just shall live"
+          },
+          {
+            "left": "Law",
+            "right": "Brings a curse on those who do not keep it all"
+          },
+          {
+            "left": "Christ",
+            "right": "Redeemed us from the curse of the law"
+          },
+          {
+            "left": "Abraham",
+            "right": "Example of justification by faith"
+          }
+        ]
+      },
+      {
+        "id": "gal-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Whom does Paul identify as the 'seed' promised to Abraham?",
+        "options": [
+          "Isaac",
+          "Israel",
+          "Christ",
+          "The Gentiles"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "What is the law for?",
+        "text": "Paul teaches that the law of Moses was added because of transgressions, as a temporary measure, until Christ should come, the one to whom the promise was made."
+      },
+      {
+        "id": "gal-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Is the law against the promises of God?",
+        "options": [
+          "Yes, it annuls them",
+          "God forbid (by no means)",
+          "Only for the Gentiles",
+          "Only after Christ"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-3-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Wherefore the law was our {0} to bring us unto Christ, that we might be justified by faith.",
+        "blanks": [
+          "schoolmaster"
+        ],
+        "distractors": [
+          "curse",
+          "promise",
+          "inheritance"
+        ]
+      },
+      {
+        "id": "gal-3-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "According to verse 28, what is true of those who are in Christ Jesus?",
+        "options": [
+          "They are divided by nation and class",
+          "They remain under the law",
+          "They are all one in Christ Jesus",
+          "They are justified by works"
+        ],
+        "answer": 2
+      }
+    ],
+    "4": [
+      {
+        "id": "gal-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "But when the fulness of the time was come, God sent forth his {0}, made of a woman, made under the law,",
+        "blanks": [
+          "Son"
+        ],
+        "distractors": [
+          "servant",
+          "heir",
+          "Spirit"
+        ]
+      },
+      {
+        "id": "gal-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "\"Abba, Father\"",
+        "text": "\"Abba\" is an intimate Aramaic word for \"father,\" much like \"daddy.\" Paul keeps it in its original form to show the affectionate closeness the Spirit creates between adopted sons and God."
+      },
+      {
+        "id": "gal-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "According to verse 7, what are we through Christ, being no longer servants?",
+        "options": [
+          "Slaves",
+          "Tutors",
+          "Heirs of God",
+          "Prophets"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "gal-4-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What does Paul lament that the Galatians are observing?",
+        "options": [
+          "Days, and months, and times, and years",
+          "Fasts and temple sacrifices",
+          "The feasts of the Gentiles",
+          "New moons only"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "How does Paul say he first preached the gospel to the Galatians?",
+        "options": [
+          "With power and glory",
+          "Through infirmity of the flesh",
+          "By letter",
+          "In secret"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gal-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "but received me as an {0} of God, even as Christ Jesus.",
+        "blanks": [
+          "angel"
+        ],
+        "distractors": [
+          "servant",
+          "heir",
+          "enemy"
+        ]
+      },
+      {
+        "id": "gal-4-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to the scripture Paul cites, who were the mothers of Abraham's two sons?",
+        "options": [
+          "The bondmaid and the freewoman",
+          "Sara and Rebekah",
+          "Hagar and Rachel",
+          "Leah and Rachel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-4-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Agar",
+            "right": "Mount Sinai and bondage"
+          },
+          {
+            "left": "The freewoman",
+            "right": "The promise"
+          },
+          {
+            "left": "The two sons",
+            "right": "The two covenants"
+          }
+        ]
+      },
+      {
+        "id": "gal-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Now we, brethren, as Isaac was, are the children of {0}.",
+        "blanks": [
+          "promise"
+        ],
+        "distractors": [
+          "bondage",
+          "flesh",
+          "Sinai"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "gal-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The yoke of bondage",
+        "text": "A \"yoke\" was the wooden bar placed on oxen for labor. Paul uses this image to describe the attempt to bind Christians to keep the law of Moses as a condition of salvation."
+      },
+      {
+        "id": "gal-5-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to Paul, what would happen to those who were circumcised seeking justification by the law?",
+        "options": [
+          "Christ would profit them nothing",
+          "They would receive greater grace",
+          "They would be exempt from the law",
+          "They would inherit the kingdom at once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "but faith which worketh by {0}",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "circumcision",
+          "law",
+          "flesh"
+        ]
+      },
+      {
+        "id": "gal-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "A little {0} leaveneth the whole lump.",
+        "blanks": [
+          "leaven"
+        ],
+        "distractors": [
+          "Spirit",
+          "fruit",
+          "yoke"
+        ]
+      },
+      {
+        "id": "gal-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "In one word, in what is all the law fulfilled?",
+        "options": [
+          "Thou shalt love thy neighbour as thyself",
+          "Thou shalt keep the sabbath",
+          "Thou shalt be circumcised",
+          "Thou shalt not touch the unclean"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Walk in the {0}, and ye shall not fulfil the lust of the flesh.",
+        "blanks": [
+          "Spirit"
+        ],
+        "distractors": [
+          "yoke",
+          "leaven",
+          "neighbour"
+        ]
+      },
+      {
+        "id": "gal-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "According to verse 18, those led by the Spirit are not under what?",
+        "options": [
+          "The law",
+          "Grace",
+          "Faith",
+          "Liberty"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-5-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Fruit of the Spirit",
+            "right": "Love, joy, peace"
+          },
+          {
+            "left": "Works of the flesh",
+            "right": "Adultery, idolatry, envyings"
+          },
+          {
+            "left": "Against the fruit of the Spirit",
+            "right": "There is no law"
+          },
+          {
+            "left": "Those who do the works of the flesh",
+            "right": "Shall not inherit the kingdom of God"
+          }
+        ]
+      },
+      {
+        "id": "gal-5-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Crucifying the flesh",
+        "text": "Paul says those who are Christ's have \"crucified the flesh,\" an image of the willing death of sinful desires in order to live by the Spirit."
+      }
+    ],
+    "6": [
+      {
+        "id": "gal-6-mp-2",
+        "type": "match_pairs",
+        "after_verse": 2,
+        "pairs": [
+          {
+            "left": "Bear one another's burdens",
+            "right": "Fulfil the law of Christ"
+          },
+          {
+            "left": "Restore in the spirit of meekness",
+            "right": "Help one overtaken in a fault"
+          },
+          {
+            "left": "Consider thyself",
+            "right": "Lest thou also be tempted"
+          }
+        ]
+      },
+      {
+        "id": "gal-6-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Bear ye one another’s burdens, and so fulfil the law of {0}.",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Moses",
+          "God",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gal-6-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Two different burdens",
+        "text": "Verses 2 and 5 seem to contradict, but they use distinct ideas: we are to help carry one another's heavy loads (v. 2), yet each person still answers for his own personal responsibility before God (v. 5)."
+      },
+      {
+        "id": "gal-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "According to verse 7, what happens to whatsoever a man soweth?",
+        "options": [
+          "That shall he also reap",
+          "It shall be forgotten",
+          "God shall multiply it",
+          "It availeth nothing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "but he that soweth to the Spirit shall of the Spirit reap {0} everlasting.",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "corruption",
+          "flesh",
+          "glory"
+        ]
+      },
+      {
+        "id": "gal-6-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Be not weary in well doing",
+        "text": "The imagery of sowing and reaping (vv. 7–9) teaches patience: just as a farmer waits for the right season, the Saints reap the fruit of righteousness \"in due season,\" if they faint not."
+      },
+      {
+        "id": "gal-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What does Paul point out in verse 11 about the letter?",
+        "options": [
+          "That he wrote it in large letters with his own hand",
+          "That it was written by a scribe",
+          "That it was his first letter",
+          "That it was translated from Hebrew"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "But God forbid that I should glory, save in the cross of our Lord Jesus {0}",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Moses",
+          "Israel",
+          "David"
+        ]
+      },
+      {
+        "id": "gal-6-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to verse 15, what counts in Christ Jesus?",
+        "options": [
+          "A new creature",
+          "Circumcision",
+          "Uncircumcision",
+          "Keeping the law of Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gal-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "From henceforth let no man trouble me: for I bear in my body the {0} of the Lord Jesus.",
+        "blanks": [
+          "marks"
+        ],
+        "distractors": [
+          "words",
+          "burdens",
+          "letters"
+        ]
+      }
+    ]
+  }
+}

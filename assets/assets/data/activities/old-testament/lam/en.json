@@ -1,0 +1,447 @@
+{
+ "schema_version": 1,
+ "book": "lam",
+ "chapters": {
+  "1": [
+   {
+    "id": "lam-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "An alphabet of grief",
+    "text": "Chapters 1, 2, and 4 of Lamentations are acrostics: each has 22 verses, one for every letter of the Hebrew alphabet — a poetic way of saying the grief is complete, from A to Z."
+   },
+   {
+    "id": "lam-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Why has the Lord afflicted the city (Lamentations 1:5)?",
+    "options": [
+     "For the multitude of her transgressions",
+     "Because of a famine",
+     "Out of envy of the nations",
+     "For a broken vow of David"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "the heathen entered into her {0}",
+    "blanks": [
+     "sanctuary"
+    ],
+    "distractors": [
+     "palace",
+     "garden",
+     "chambers"
+    ]
+   },
+   {
+    "id": "lam-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Lamentations 1:12 the city calls to those who pass by to behold what?",
+    "options": [
+     "The glory of the temple",
+     "If there is any sorrow like her sorrow",
+     "The wealth of the nations",
+     "The end of her enemies"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-1-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "What does the city confess about the Lord in Lamentations 1:18?",
+    "options": [
+     "The Lord has forgotten her",
+     "The Lord is unjust",
+     "The Lord is righteous, for she rebelled against his commandment",
+     "The Lord will reward her"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "lam-2-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "How does Lamentations 2:5 describe the Lord's dealings with Israel?",
+    "options": [
+     "He became as an enemy",
+     "As a shepherd",
+     "As a father",
+     "As a stranger"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Lamentations 2:9, what is said of her prophets?",
+    "options": [
+     "They fled to Egypt",
+     "They find no vision from the Lord",
+     "They were made kings",
+     "They wrote new laws"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "In Lamentations 2:15, passersby mockingly recall that Jerusalem was called what?",
+    "options": [
+     "The city of refuge",
+     "The gate of heaven",
+     "The perfection of beauty, the joy of the whole earth",
+     "The strength of Israel"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-2-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "What does Lamentations 2:17 say the Lord has done?",
+    "options": [
+     "Forgotten his covenant",
+     "Repented of his anger",
+     "Hidden his face for ever",
+     "Fulfilled his word that he commanded in days of old"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "lam-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "When prophecy goes silent",
+    "text": "Verse 9 mourns that 'the law is no more' and the prophets 'find no vision' — for an Israelite, losing the temple meant losing the very channels through which God had spoken."
+   }
+  ],
+  "3": [
+   {
+    "id": "lam-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How does the speaker describe himself in Lamentations 3:1?",
+    "options": [
+     "The man that has seen affliction by the rod of God's wrath",
+     "A prince of Judah",
+     "A watchman on the wall",
+     "A priest of the temple"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-3-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "In Lamentations 3:6, God set him in dark places, like whom?",
+    "options": [
+     "The angels",
+     "Those long dead",
+     "The kings of old",
+     "The prophets"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-3-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "To what two animals does Lamentations 3:10 compare the Lord's dealings?",
+    "options": [
+     "An eagle and a serpent",
+     "A wolf and a leopard",
+     "A bear lying in wait and a lion",
+     "An ox and a ram"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What did God fill the speaker with, in Lamentations 3:15?",
+    "options": [
+     "Honey and wine",
+     "Bread and water",
+     "Oil and myrrh",
+     "Bitterness and wormwood"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "lam-3-cur-23",
+    "type": "curiosity",
+    "after_verse": 23,
+    "title": "Great is thy faithfulness",
+    "text": "Lamentations 3:22-23 — 'his compassions fail not. They are new every morning' — became the refrain of the beloved hymn 'Great Is Thy Faithfulness.' The book's deepest hope sits at its very center."
+   },
+   {
+    "id": "lam-3-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "The Lord is my {0}",
+    "blanks": [
+     "portion"
+    ],
+    "distractors": [
+     "refuge",
+     "shepherd",
+     "salvation"
+    ]
+   },
+   {
+    "id": "lam-3-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "Lamentations 3:27 says it is good for a man to bear what in his youth?",
+    "options": [
+     "The yoke",
+     "The sword",
+     "The crown",
+     "The staff"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-3-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "According to Lamentations 3:33, the Lord does not afflict the children of men how?",
+    "options": [
+     "Forever",
+     "Willingly",
+     "In secret",
+     "Without warning"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-3-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "Lamentations 3:37 asks: who can speak and have it come to pass unless whom commands it?",
+    "options": [
+     "The king",
+     "The prophet",
+     "The Lord",
+     "The priest"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-3-mc-39",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "Lamentations 3:39 asks why a living man should complain, given what?",
+    "options": [
+     "The shortness of life",
+     "The silence of God",
+     "The strength of enemies",
+     "The punishment of his sins"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "lam-3-mc-44",
+    "type": "multiple_choice",
+    "after_verse": 44,
+    "question": "What does Lamentations 3:40 urge the people to do?",
+    "options": [
+     "Search their ways and turn again to the Lord",
+     "Flee to the mountains",
+     "Rebuild the temple",
+     "Make a treaty with Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-3-mc-50",
+    "type": "multiple_choice",
+    "after_verse": 50,
+    "question": "In Lamentations 3:48-49, what does the speaker say of his weeping eye?",
+    "options": [
+     "It is now dry",
+     "It runs down without ceasing",
+     "It rejoices",
+     "It sleeps in peace"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-3-mc-55",
+    "type": "multiple_choice",
+    "after_verse": 55,
+    "question": "From where did the speaker call upon the Lord's name in Lamentations 3:55?",
+    "options": [
+     "From the temple",
+     "From the mountaintop",
+     "Out of the low dungeon",
+     "From the palace"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-3-mc-60",
+    "type": "multiple_choice",
+    "after_verse": 60,
+    "question": "In Lamentations 3:57, what did the Lord say when the speaker called?",
+    "options": [
+     "Be still",
+     "Go in peace",
+     "Wait yet",
+     "Fear not"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "lam-3-mc-66",
+    "type": "multiple_choice",
+    "after_verse": 66,
+    "question": "How does the speaker close his plea about his enemies in Lamentations 3:64?",
+    "options": [
+     "Asking the Lord to repay them according to their deeds",
+     "Forgiving them fully",
+     "Forgetting them",
+     "Blessing them"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "lam-4-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "Purer than snow",
+    "text": "Verse 7 recalls that Zion's princes (Nazarites) were once 'purer than snow, whiter than milk' — making the next verse's picture of them blackened by famine all the more shocking."
+   },
+   {
+    "id": "lam-4-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Lamentations 4:6 says the punishment of the people is greater than the sin of which city?",
+    "options": [
+     "Sodom",
+     "Nineveh",
+     "Babylon",
+     "Egypt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-4-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "According to Lamentations 4:11, what did the Lord kindle in Zion?",
+    "options": [
+     "A lamp of hope",
+     "A fire that devoured its foundations",
+     "A new covenant",
+     "A feast"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-4-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Lamentations 4:13 blames the city's fall on the sins of her prophets and the iniquities of whom?",
+    "options": [
+     "Her kings",
+     "Her merchants",
+     "Her priests",
+     "Her soldiers"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-4-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "In Lamentations 4:21, to whom is it said the cup of judgment shall also pass?",
+    "options": [
+     "The daughter of Egypt",
+     "The daughter of Babylon",
+     "The daughter of Moab",
+     "The daughter of Edom"
+    ],
+    "answer": 3
+   }
+  ],
+  "5": [
+   {
+    "id": "lam-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How does Lamentations 5:3 describe the people?",
+    "options": [
+     "Orphans and fatherless",
+     "Kings and princes",
+     "Strong and free",
+     "Rich and full"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "lam-5-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Lamentations 5:6, to which two nations did they give the hand for bread?",
+    "options": [
+     "Babylon and Persia",
+     "Egypt and Assyria",
+     "Moab and Edom",
+     "Tyre and Sidon"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "lam-5-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "our dance is turned into {0}",
+    "blanks": [
+     "mourning"
+    ],
+    "distractors": [
+     "silence",
+     "ashes",
+     "weeping"
+    ]
+   },
+   {
+    "id": "lam-5-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "How does Lamentations 5:19 describe the Lord, in contrast to the ruined nation?",
+    "options": [
+     "He has departed",
+     "He sleeps",
+     "He remains for ever; his throne from generation to generation",
+     "He has forgotten his throne"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "lam-5-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "An ending read twice",
+    "text": "Because the book ends on a somber note, Jewish tradition repeats the hopeful plea 'Turn thou us unto thee, O Lord... renew our days as of old' — so the public reading ends on hope."
+   }
+  ]
+ }
+}

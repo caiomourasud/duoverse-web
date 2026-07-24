@@ -1,0 +1,686 @@
+{
+ "schema_version": 1,
+ "book": "eccl",
+ "chapters": {
+  "1": [
+   {
+    "id": "eccl-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The Preacher Introduces Himself",
+    "text": "Qoheleth (the 'Preacher' in Hebrew) reveals his position as 'son of David, king in Jerusalem' and begins his reflection on vanity."
+   },
+   {
+    "id": "eccl-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "According to the Preacher in chapter 1, what is the state of all things?",
+    "options": [
+     "All things are permanent and lasting",
+     "Vanity of vanities",
+     "Everything is wise and comprehensible",
+     "All things are just and equitable"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What does the Preacher say about renewal in the world?",
+    "options": [
+     "All things are new each day",
+     "There is always something new under the sun",
+     "There is nothing new; all repeats",
+     "God creates new things continually"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-1-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What conclusion does the Preacher reach after observing 'all that is done under the sun'?",
+    "options": [
+     "It is all wise and well-made",
+     "It is all corruption and sickness",
+     "It is vanity and vexation of spirit",
+     "It is all comprehensible and rational"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-1-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "What does the Preacher say about wisdom?",
+    "options": [
+     "Increased wisdom increases happiness",
+     "In much wisdom is much grief",
+     "Wisdom never brings suffering",
+     "Only fools suffer; the wise do not"
+    ],
+    "answer": 1
+   }
+  ],
+  "2": [
+   {
+    "id": "eccl-2-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The Preacher Seeks Pleasures",
+    "text": "He decided to try laughter, joy, wine, and sensory pleasures to see if life has value."
+   },
+   {
+    "id": "eccl-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How did the Preacher build and accumulate possessions?",
+    "options": [
+     "He received all by inheritance",
+     "He bought with borrowed money",
+     "He made pools of water, orchards, and gardens",
+     "He received from God without effort"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "After accumulating all he desired, what was the Preacher's conclusion?",
+    "options": [
+     "He attained complete happiness",
+     "He saw it was great deception",
+     "He discovered it was all vanity",
+     "He became completely satisfied"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-2-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What is the difference between the wise and the fool according to the Preacher?",
+    "options": [
+     "The wise always prosper and the fool suffers",
+     "The wise has light in his eyes; the fool walks in darkness",
+     "There is no difference",
+     "The fool is happier than the wise"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-2-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "What does the Preacher question about his labors?",
+    "options": [
+     "He will surely keep them",
+     "He will multiply them",
+     "Who knows if he will be wise or a fool to inherit all",
+     "They are completely lost"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-2-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "To whom does God grant wisdom and knowledge according to the Preacher?",
+    "options": [
+     "To all men equally",
+     "Only to kings",
+     "To a man who is good in His sight",
+     "Only to the rich and powerful"
+    ],
+    "answer": 2
+   }
+  ],
+  "3": [
+   {
+    "id": "eccl-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A Time for Everything",
+    "text": "The Preacher presents the idea that everything has its appointed time: birth, death, planting, harvest, war, and peace."
+   },
+   {
+    "id": "eccl-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Complete: 'A time to seek, and a time to ___'",
+    "options": [
+     "find",
+     "lose",
+     "keep",
+     "choose"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What is the work that God has given to men?",
+    "options": [
+     "To work only the land",
+     "To occupy themselves and be afflicted",
+     "Only to rest",
+     "To build cities"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "What has God put in men's hearts?",
+    "options": [
+     "The desire for riches",
+     "Eternity",
+     "Fear of death",
+     "The will to dominate"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-3-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "What conclusion does the Preacher draw about the best thing for man?",
+    "options": [
+     "To accumulate riches",
+     "To rejoice and enjoy his labor",
+     "To conquer death",
+     "To become king"
+    ],
+    "answer": 1
+   }
+  ],
+  "4": [
+   {
+    "id": "eccl-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Oppression in the World",
+    "text": "The Preacher observes the oppressed without a comforter, seeing that there is vanity in all labor that man does."
+   },
+   {
+    "id": "eccl-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What is better according to the Preacher?",
+    "options": [
+     "The fool works too much",
+     "Only to rest without labor",
+     "A handful with quiet than both hands with toil",
+     "To work without ever stopping"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What advantage has a companion according to the Preacher?",
+    "options": [
+     "No advantage",
+     "If one falls, the other will lift him up",
+     "It doubles his wealth",
+     "It avoids death"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-4-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "What does the Preacher observe about the new king who ascends to the throne?",
+    "options": [
+     "He is praised by all eternally",
+     "There is no end to his popularity",
+     "Those who come after will not rejoice in him",
+     "He reigns guaranteed for a hundred years"
+    ],
+    "answer": 2
+   }
+  ],
+  "5": [
+   {
+    "id": "eccl-5-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Warning Against Rash Vows",
+    "text": "The Preacher warns against making rash and easy vows to God; it is better not to vow than to vow and not fulfill."
+   },
+   {
+    "id": "eccl-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What is better according to the Preacher?",
+    "options": [
+     "To make rash vows",
+     "To guard your mouth",
+     "To speak much to God",
+     "To promise everything you desire"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-5-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What truth does the Preacher affirm about he who loves money?",
+    "options": [
+     "He is easily satisfied",
+     "He is never satisfied",
+     "He can rest easy",
+     "He lives a happy life"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-5-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What happens when wealth is lost?",
+    "options": [
+     "It returns to its owner naturally",
+     "It brings no suffering",
+     "It generates frustration and pain",
+     "It is easily replaced"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-5-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "How should the laborer's life be according to the Preacher?",
+    "options": [
+     "Always think of future ambitions",
+     "To enjoy his labor; this is a gift from God",
+     "To accumulate as much as possible",
+     "To reject all pleasure"
+    ],
+    "answer": 1
+   }
+  ],
+  "6": [
+   {
+    "id": "eccl-6-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A Great Evil",
+    "text": "The Preacher observes the man to whom God gave wealth but does not let him enjoy it; another enjoys it in his place."
+   },
+   {
+    "id": "eccl-6-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "According to the Preacher, which life is better?",
+    "options": [
+     "To live a thousand years twice",
+     "A stillborn is better than to live long in vanity",
+     "Longevity with wealth",
+     "To live in poverty"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-6-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "What does the Preacher not know?",
+    "options": [
+     "His own name",
+     "Who God is",
+     "What is good for man; what will be after him",
+     "Where he will die"
+    ],
+    "answer": 2
+   }
+  ],
+  "7": [
+   {
+    "id": "eccl-7-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "In Praise of Wisdom",
+    "text": "The Preacher begins to exalt wisdom, recognizing that no one can be successful without it."
+   },
+   {
+    "id": "eccl-7-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "What is better according to the Preacher?",
+    "options": [
+     "The laughter of the fool",
+     "The brief anger of the wise",
+     "Continuous joy",
+     "Lasting fury"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-7-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "What is the benefit of wisdom and money?",
+    "options": [
+     "Only money protects",
+     "Only wisdom protects",
+     "Both protect, but wisdom preserves the life of its possessors",
+     "Neither helps"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "eccl-7-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What advice does the Preacher give?",
+    "options": [
+     "Be extremely just or extremely ungodly",
+     "Be neither too just nor too ungodly",
+     "Always be just without limit",
+     "Avoid any form of justice"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-7-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "What truth does the Preacher state about men?",
+    "options": [
+     "All are just",
+     "There is not a just man who does good and never sins",
+     "None sin",
+     "All are wicked"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-7-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "What did the Preacher find about men and women?",
+    "options": [
+     "All are equally good",
+     "One upright man among a thousand and no upright woman",
+     "All are equally wicked",
+     "Women are more righteous than men"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "eccl-8-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Wisdom Illuminates",
+    "text": "A man's wisdom illuminates his face, changing his severity. The Preacher reflects on obedience to the king."
+   },
+   {
+    "id": "eccl-8-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "According to the Preacher, who will resist the king?",
+    "options": [
+     "Anyone",
+     "No one",
+     "Only the wise",
+     "Kings of other nations"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-8-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What truth does the Preacher affirm?",
+    "options": [
+     "No one has power over the wind",
+     "Everyone has power over destiny",
+     "Man controls death",
+     "Life is completely predictable"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "eccl-8-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "What will be the fate of the wicked?",
+    "options": [
+     "He will live many years",
+     "His days will be prolonged as a shadow",
+     "His days will be good",
+     "He will have no punishment"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-8-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "What conclusion does the Preacher reach?",
+    "options": [
+     "He understands all of God's work",
+     "Though the wise thinks to know, he cannot comprehend God's work",
+     "He knows exactly what God does",
+     "He can measure divine work"
+    ],
+    "answer": 1
+   }
+  ],
+  "9": [
+   {
+    "id": "eccl-9-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Death Comes to All",
+    "text": "Death comes to the just and unjust, the clean and unclean, to the sacrificer and to those who do not sacrifice."
+   },
+   {
+    "id": "eccl-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What does the Preacher affirm about the dead?",
+    "options": [
+     "They still know all that occurs",
+     "They know nothing more; their memory is forgotten",
+     "They live in another kingdom",
+     "They can judge the living"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-9-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What advice does the Preacher give?",
+    "options": [
+     "Work slowly in life",
+     "Whatever your hand finds to do, do it with all your might",
+     "Do nothing important",
+     "Let others work"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-9-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What illustration does the Preacher use about wisdom?",
+    "options": [
+     "Little wisdom preserves a great city",
+     "Wisdom is useless",
+     "Rich cities do not need wisdom",
+     "Wisdom never helps"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "eccl-9-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "What does the folly of a single fool do?",
+    "options": [
+     "Nothing affects",
+     "It destroys much wisdom and honor",
+     "It increases glory",
+     "It protects the city"
+    ],
+    "answer": 1
+   }
+  ],
+  "10": [
+   {
+    "id": "eccl-10-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Dead Flies and Folly",
+    "text": "Dead flies cause the perfumer's ointment to putrefy. A little folly ruins much wisdom."
+   },
+   {
+    "id": "eccl-10-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "How should one behave when facing someone who is furious?",
+    "options": [
+     "Confront his anger",
+     "If the spirit of the ruler rises against you, do not abandon your place",
+     "Flee immediately",
+     "Defy his authority"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-10-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What danger is there in risky activities?",
+    "options": [
+     "No danger",
+     "He who digs a pit falls into it",
+     "Everyone comes out unscathed",
+     "The ax becomes dull"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-10-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What does the fool constantly do?",
+    "options": [
+     "Speaks with wisdom",
+     "Multiplies words about things he does not know",
+     "Keeps silence",
+     "Only listens"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-10-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "According to the Preacher, what should we not even do?",
+    "options": [
+     "Rest",
+     "Work too much",
+     "Even in thought curse the king",
+     "Study"
+    ],
+    "answer": 2
+   }
+  ],
+  "11": [
+   {
+    "id": "eccl-11-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Cast Your Bread Upon the Waters",
+    "text": "The Preacher encourages generosity: cast your bread upon the waters and after many days you will find it."
+   },
+   {
+    "id": "eccl-11-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Why should we be generous according to the Preacher?",
+    "options": [
+     "We will always know when we will prosper",
+     "We do not know what misfortune may come",
+     "Only the rich should be generous",
+     "Generosity never helps"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-11-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What advice does the Preacher give to young people?",
+    "options": [
+     "Suffer with sadness",
+     "Rejoice in your youth; light is sweet",
+     "Focus only on work",
+     "Reject all joy"
+    ],
+    "answer": 1
+   }
+  ],
+  "12": [
+   {
+    "id": "eccl-12-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Remember Your Creator",
+    "text": "In youth, remember your Creator. The body ages and death approaches; all is vanity."
+   },
+   {
+    "id": "eccl-12-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "How does the Preacher describe the aging process?",
+    "options": [
+     "The body becomes stronger",
+     "The silver cord loosens, the golden bowl breaks",
+     "It never changes",
+     "It reverses"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "eccl-12-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "What did the Preacher seek?",
+    "options": [
+     "Pleasing words and honest truths",
+     "Only money and fame",
+     "To hide the truth",
+     "To deceive the people"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "eccl-12-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "What is the final conclusion of the book?",
+    "options": [
+     "Vanity is the meaning of life",
+     "Fear God and keep His commandments; this is the whole duty of man",
+     "Money is the supreme good",
+     "Death is the end of all without judgment"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

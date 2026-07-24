@@ -1,0 +1,4541 @@
+{
+  "schema_version": 1,
+  "book": "ex",
+  "chapters": {
+    "1": [
+      {
+        "id": "ex-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Setenta almas",
+        "text": "O versículo conta que apenas setenta descendentes de Jacó entraram no Egito; de um grupo tão pequeno surgiria a nação de Israel."
+      },
+      {
+        "id": "ex-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "foram setenta almas; {0}, porém, estava no Egito.",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Rúben",
+          "Levi",
+          "Judá"
+        ]
+      },
+      {
+        "id": "ex-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que o novo rei do Egito passou a temer os filhos de Israel?",
+        "options": [
+          "Porque eram mais numerosos e mais poderosos do que os egípcios",
+          "Porque adoravam um Deus diferente",
+          "Porque se recusavam a trabalhar",
+          "Porque tinham um exército maior"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-1-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Porque edificaram para Faraó cidades-celeiro, {0} e Ramessés.",
+        "blanks": [
+          "Pitom"
+        ],
+        "distractors": [
+          "Gósen",
+          "Midiã",
+          "Horebe"
+        ]
+      },
+      {
+        "id": "ex-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Todos os filhos que nascerem lançareis no {0}, mas todas as filhas guardareis com vida.",
+        "blanks": [
+          "rio"
+        ],
+        "distractors": [
+          "deserto",
+          "campo",
+          "poço"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "ex-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Um cesto à prova d'água",
+        "text": "O mesmo betume e breu usados para vedar o cesto de Moisés também impermeabilizavam barcos no Egito antigo; a mãe transformou uma sentença de morte no rio em um pequeno barco de salvação."
+      },
+      {
+        "id": "ex-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "tomou um cesto de {0}, e o betumou com betume e breu",
+        "blanks": [
+          "juncos"
+        ],
+        "distractors": [
+          "espinhos",
+          "palha",
+          "cardos"
+        ]
+      },
+      {
+        "id": "ex-2-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "chamou o seu nome {0}, e disse: Porque das águas o tirei",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Gérson",
+          "Reuel",
+          "Levi"
+        ]
+      },
+      {
+        "id": "ex-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Por que Moisés matou o egípcio?",
+        "options": [
+          "Viu o egípcio ferindo um hebreu, um de seus irmãos",
+          "O egípcio havia roubado o seu rebanho",
+          "O egípcio se recusou a dar-lhe água do poço",
+          "O egípcio zombara da filha de Faraó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-2-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Moisés fugiu de diante da face de Faraó, e habitou na terra de {0}",
+        "blanks": [
+          "Midiã"
+        ],
+        "distractors": [
+          "Egito",
+          "Canaã",
+          "Gósen"
+        ]
+      },
+      {
+        "id": "ex-2-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Zípora",
+            "right": "Esposa de Moisés"
+          },
+          {
+            "left": "Gérson",
+            "right": "Filho de Moisés"
+          },
+          {
+            "left": "Reuel",
+            "right": "Sacerdote de Midiã"
+          },
+          {
+            "left": "Faraó",
+            "right": "Rei do Egito"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "ex-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A sarça que não se consumia",
+        "text": "O sinal que prendeu a atenção de Moisés foi um paradoxo: uma sarça envolta em chamas que ardia sem se queimar. Foi essa visão incomum, e não uma voz vinda do nada, que o fez parar e voltar-se para olhar."
+      },
+      {
+        "id": "ex-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "porque o lugar em que tu estás é terra {0}.",
+        "blanks": [
+          "santa"
+        ],
+        "distractors": [
+          "maldita",
+          "estéril",
+          "deserta"
+        ]
+      },
+      {
+        "id": "ex-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Como Deus descreve a terra à qual promete levar Israel?",
+        "options": [
+          "Uma terra que mana leite e mel",
+          "Uma terra de prata e ouro",
+          "Uma terra de trigo e vinho",
+          "Uma terra de pão e azeite"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Quando Moisés pergunta qual nome dar a Deus diante de Israel, o que Deus responde?",
+        "options": [
+          "Eu Sou O Que Sou",
+          "O Deus dos exércitos",
+          "O Todo-Poderoso",
+          "O Senhor dos hebreus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-3-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Horebe",
+            "right": "O monte de Deus onde Moisés é chamado"
+          },
+          {
+            "left": "Jetro",
+            "right": "Sogro de Moisés, sacerdote em Midiã"
+          },
+          {
+            "left": "A sarça",
+            "right": "Ardia em fogo, mas não se consumia"
+          },
+          {
+            "left": "Faraó",
+            "right": "Rei do Egito a quem Moisés é enviado"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "ex-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "E o Senhor disse-lhe: Que é isso na tua mão? E ele disse: Uma {0}.",
+        "blanks": [
+          "vara"
+        ],
+        "distractors": [
+          "cobra",
+          "pedra",
+          "cauda"
+        ]
+      },
+      {
+        "id": "ex-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A vara que vira cobra",
+        "text": "O primeiro sinal dado a Moisés — a vara que se transforma em cobra — ressoaria depois diante de Faraó, cujos magos imitaram o prodígio (Êxodo 7), mas a vara de Moisés engoliu as deles."
+      },
+      {
+        "id": "ex-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "No segundo sinal, o que acontece com a mão de Moisés quando ele a tira do peito?",
+        "options": [
+          "Fica leprosa, branca como a neve",
+          "Torna-se em vara",
+          "Enche-se de sangue",
+          "Fica negra como carvão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Vai, pois, agora, e eu serei com a tua {0}, e te ensinarei o que hás de falar.",
+        "blanks": [
+          "boca"
+        ],
+        "distractors": [
+          "mão",
+          "voz",
+          "vara"
+        ]
+      },
+      {
+        "id": "ex-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Então foi Moisés, e voltou para Jetro, seu {0}, e disse-lhe: Eu irei agora",
+        "blanks": [
+          "sogro"
+        ],
+        "distractors": [
+          "irmão",
+          "servo",
+          "filho"
+        ]
+      },
+      {
+        "id": "ex-4-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Então dirás a Faraó: Assim diz o Senhor: Israel é meu filho, meu {0}.",
+        "blanks": [
+          "primogênito"
+        ],
+        "distractors": [
+          "servo",
+          "povo",
+          "irmão"
+        ]
+      },
+      {
+        "id": "ex-4-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Então Zípora tomou uma pedra afiada, e circuncidou o prepúcio de seu {0}",
+        "blanks": [
+          "filho"
+        ],
+        "distractors": [
+          "esposo",
+          "irmão",
+          "servo"
+        ]
+      },
+      {
+        "id": "ex-4-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Disse também o Senhor a Aarão: Vai ao {0}, ao encontro de Moisés.",
+        "blanks": [
+          "deserto"
+        ],
+        "distractors": [
+          "Egito",
+          "monte",
+          "rio"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "ex-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma festa no deserto",
+        "text": "O primeiro pedido a Faraó nao foi a libertacao definitiva, mas permissao para Israel ir 'celebrar uma festa' e sacrificar ao Senhor no deserto, a tres dias de viagem."
+      },
+      {
+        "id": "ex-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Não conheço o Senhor, nem tampouco deixarei ir {0}.",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Moisés",
+          "Aarão",
+          "Faraó"
+        ]
+      },
+      {
+        "id": "ex-5-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Que castigo Moisés e Aarão temiam que viesse sobre o povo se não fossem sacrificar ao Senhor?",
+        "options": [
+          "Pestilência ou espada",
+          "Fome e seca",
+          "Terremoto",
+          "Inundação do Nilo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Daqui em diante não torneis a dar palha ao povo, para fazer {0}, como dantes fizestes",
+        "blanks": [
+          "tijolos"
+        ],
+        "distractors": [
+          "muros",
+          "telhas",
+          "vasos"
+        ]
+      },
+      {
+        "id": "ex-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que Faraó ordenou agravar o serviço sobre os israelitas?",
+        "options": [
+          "Para que não confiassem em palavras de mentira",
+          "Para terminar uma cidade",
+          "Para puni-los por roubo",
+          "Para prepará-los para a guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Então o povo se espalhou por toda a terra do Egito, a colher {0} em lugar de palha.",
+        "blanks": [
+          "restolho"
+        ],
+        "distractors": [
+          "barro",
+          "trigo",
+          "lenha"
+        ]
+      },
+      {
+        "id": "ex-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Quem foi açoitado quando o povo não conseguiu cumprir a tarefa de tijolos?",
+        "options": [
+          "Os oficiais dos filhos de Israel",
+          "Os capatazes de Faraó",
+          "Moisés e Aarão",
+          "Os sacerdotes egípcios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-5-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "dando-lhes a {0} nas mãos, para nos matar.",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "palha",
+          "carga",
+          "ordem"
+        ]
+      },
+      {
+        "id": "ex-5-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "O que Moisés fez ao ver a opressão aumentar sobre o povo?",
+        "options": [
+          "Voltou-se ao Senhor e reclamou",
+          "Fugiu para Midiã",
+          "Enfrentou Faraó com a vara",
+          "Reuniu um exército"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "ex-6-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O nome Jeová",
+        "text": "No versículo 3 Deus diz que apareceu aos patriarcas como 'Deus Todo-Poderoso', mas que pelo nome Jeová não lhes fora plenamente conhecido. Jeová é a forma do nome sagrado de Deus (do hebraico YHWH), associado ao seu papel como o Eterno que cumpre seus convênios."
+      },
+      {
+        "id": "ex-6-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E eu apareci a Abraão, a Isaque, e a Jacó, como o Deus Todo-Poderoso, mas pelo meu nome, {0}, não lhes fui perfeitamente conhecido.",
+        "blanks": [
+          "Jeová"
+        ],
+        "distractors": [
+          "Canaã",
+          "Faraó",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que os filhos de Israel não ouviram a mensagem de libertação que Moisés lhes trouxe?",
+        "options": [
+          "Por causa da angústia do espírito e da dura servidão",
+          "Porque não acreditavam que Moisés fosse profeta",
+          "Porque Faraó os havia proibido de escutar",
+          "Porque Aarão ainda não havia chegado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-6-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Eis que os filhos de Israel não me ouviram; como, pois, {0} me ouvirá?",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "Aarão",
+          "Moisés",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "E estes são os nomes dos filhos de {0}, segundo as suas gerações: Gérson, Coate e Merari",
+        "blanks": [
+          "Levi"
+        ],
+        "distractors": [
+          "Rúben",
+          "Simeão",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E Anrão tomou por mulher {0}, sua tia, e ela deu-lhe Aarão e Moisés",
+        "blanks": [
+          "Joquebede"
+        ],
+        "distractors": [
+          "Eliseba",
+          "Zípora",
+          "Puá"
+        ]
+      },
+      {
+        "id": "ex-6-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Anrão",
+            "right": "Pai de Aarão e Moisés"
+          },
+          {
+            "left": "Eleazar",
+            "right": "Filho de Aarão, pai de Fineias"
+          },
+          {
+            "left": "Eliseba",
+            "right": "Mulher de Aarão"
+          },
+          {
+            "left": "Levi",
+            "right": "Avô de cujos filhos vieram os levitas"
+          }
+        ]
+      },
+      {
+        "id": "ex-6-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Que dificuldade Moisés alega novamente ao receber a ordem de falar a Faraó tudo o que o Senhor lhe diz?",
+        "options": [
+          "Que é de lábios incircuncisos",
+          "Que é velho demais para a tarefa",
+          "Que não conhece a língua do Egito",
+          "Que teme que Aarão o abandone"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "ex-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Eis que te pus por deus sobre Faraó, e {0}, teu irmão, será o teu profeta.",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Jetro",
+          "Reuel",
+          "Gérson"
+        ]
+      },
+      {
+        "id": "ex-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Profeta e porta-voz",
+        "text": "O Senhor diz que Moisés seria \"deus sobre Faraó\" e Aarão o seu \"profeta\": Moisés receberia a palavra de Deus e Aarão a anunciaria, como um profeta declara ao povo o que Deus revela."
+      },
+      {
+        "id": "ex-7-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Que idade tinha Moisés quando ele e Aarão falaram a Faraó?",
+        "options": [
+          "Oitenta anos",
+          "Quarenta anos",
+          "Cento e vinte anos",
+          "Sessenta anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "mas a vara de {0} tragou as varas deles.",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Faraó",
+          "Moisés",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "ferirei as águas que estão no rio, e tornar-se-ão em {0}.",
+        "blanks": [
+          "sangue"
+        ],
+        "distractors": [
+          "pó",
+          "barro",
+          "areia"
+        ]
+      },
+      {
+        "id": "ex-7-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Vara de Aarão",
+            "right": "Engoliu as varas dos magos"
+          },
+          {
+            "left": "Águas do rio",
+            "right": "Tornaram-se em sangue"
+          },
+          {
+            "left": "Peixes do rio",
+            "right": "Morreram"
+          },
+          {
+            "left": "Coração de Faraó",
+            "right": "Endureceu-se"
+          }
+        ]
+      },
+      {
+        "id": "ex-7-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Assim, se cumpriram {0} dias, depois que o Senhor ferira o rio.",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "quarenta",
+          "dez"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "ex-8-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A praga das rãs",
+        "text": "A segunda praga enche o Egito de rãs que sobem do rio Nilo até as casas, camas e fornos — atingindo um símbolo de fertilidade reverenciado pelos egípcios."
+      },
+      {
+        "id": "ex-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "eis que ferirei com {0} todos os teus termos",
+        "blanks": [
+          "rãs"
+        ],
+        "distractors": [
+          "moscas",
+          "piolhos",
+          "gafanhotos"
+        ]
+      },
+      {
+        "id": "ex-8-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "No versículo 7, quem conseguiu reproduzir a praga das rãs com seus encantamentos?",
+        "options": [
+          "Os magos do Egito",
+          "Os sacerdotes de Israel",
+          "Os servos de Faraó",
+          "Os anjos do Senhor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-8-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "para que saibas que ninguém há como o {0} nosso Deus",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Faraó",
+          "Moisés",
+          "Aarão"
+        ]
+      },
+      {
+        "id": "ex-8-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "fere o pó da terra, para que se torne em {0} por toda a terra do Egito",
+        "blanks": [
+          "piolhos"
+        ],
+        "distractors": [
+          "rãs",
+          "moscas",
+          "trevas"
+        ]
+      },
+      {
+        "id": "ex-8-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Ao não conseguirem produzir piolhos, o que os magos disseram a Faraó (v. 19)?",
+        "options": [
+          "“Isto é o dedo de Deus”",
+          "“Nada podemos fazer”",
+          "“Deixa ir o povo”",
+          "“O Senhor é grande”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-8-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "naquele dia eu separarei a terra de {0}, em que meu povo habita",
+        "blanks": [
+          "Gósen"
+        ],
+        "distractors": [
+          "Egito",
+          "Canaã",
+          "Midiã"
+        ]
+      },
+      {
+        "id": "ex-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Mas endureceu Faraó ainda esta vez seu {0}, e não deixou ir o povo",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "rosto",
+          "povo",
+          "servo"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "ex-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Eis que a mão do Senhor será sobre teu gado, que está no campo, sobre os cavalos, sobre os jumentos, sobre os {0}, sobre os bois, e sobre as ovelhas, com pestilência gravíssima.",
+        "blanks": [
+          "camelos"
+        ],
+        "distractors": [
+          "cordeiros",
+          "cabritos",
+          "cães"
+        ]
+      },
+      {
+        "id": "ex-9-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "O gado de Gósen poupado",
+        "text": "Já na praga do gado, o Senhor faz “separação” entre os rebanhos de Israel e os do Egito: nenhum animal dos israelitas morre. É a mesma distinção que depois protege Gósen da saraiva (v. 26)."
+      },
+      {
+        "id": "ex-9-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Depois que todo o gado dos egípcios morreu, o que Faraó fez antes de endurecer o coração?",
+        "options": [
+          "Mandou averiguar e viu que do gado de Israel não morrera nenhum",
+          "Libertou imediatamente o povo de Israel",
+          "Ofereceu sacrifícios ao Senhor",
+          "Fugiu da cidade com seus servos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-9-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E o Senhor endureceu o {0} de Faraó, e ele não os ouviu, como o Senhor tinha dito a Moisés.",
+        "blanks": [
+          "coração"
+        ],
+        "distractors": [
+          "povo",
+          "campo",
+          "gado"
+        ]
+      },
+      {
+        "id": "ex-9-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Eis que amanhã por este tempo farei chover {0} muito pesada, qual nunca houve no Egito, desde o dia em que foi fundado até agora.",
+        "blanks": [
+          "saraiva"
+        ],
+        "distractors": [
+          "chuva",
+          "cinza",
+          "pestilência"
+        ]
+      },
+      {
+        "id": "ex-9-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Qual região foi a única poupada da saraiva, por estarem ali os filhos de Israel?",
+        "options": [
+          "Gósen",
+          "Egito",
+          "Sinai",
+          "Midiã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-9-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Então lhe disse Moisés: Ao sair da {0} estenderei minhas mãos ao Senhor; os trovões cessarão, e não haverá mais saraiva; para que saibas que a terra é do Senhor.",
+        "blanks": [
+          "cidade"
+        ],
+        "distractors": [
+          "casa",
+          "terra",
+          "tenda"
+        ]
+      },
+      {
+        "id": "ex-9-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Mas o {0} e o centeio não foram feridos, porque estavam cobertos.",
+        "blanks": [
+          "trigo"
+        ],
+        "distractors": [
+          "linho",
+          "cevada",
+          "aveia"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "ex-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "eis que trarei amanhã {0} aos teus termos",
+        "blanks": [
+          "gafanhotos"
+        ],
+        "distractors": [
+          "rãs",
+          "piolhos",
+          "moscas"
+        ]
+      },
+      {
+        "id": "ex-10-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Uma praga inédita",
+        "text": "O texto enfatiza que nem os pais nem os avós dos egípcios jamais tinham visto algo assim — a praga de gafanhotos foi descrita como sem precedentes na história do Egito."
+      },
+      {
+        "id": "ex-10-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Em Êxodo 10:9, por que Moisés insiste em levar todo o povo, dos meninos aos velhos, e também os rebanhos?",
+        "options": [
+          "Porque tinham de celebrar uma festa ao Senhor",
+          "Porque iam fugir para sempre do Egito",
+          "Porque temiam deixar alguém para trás",
+          "Porque Faraó havia exigido isso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "e aconteceu que pela manhã o {0} oriental trouxe os gafanhotos",
+        "blanks": [
+          "vento"
+        ],
+        "distractors": [
+          "calor",
+          "sol",
+          "orvalho"
+        ]
+      },
+      {
+        "id": "ex-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "houve {0} espessas em toda a terra do Egito por três dias",
+        "blanks": [
+          "trevas"
+        ],
+        "distractors": [
+          "nuvens",
+          "chamas",
+          "cinzas"
+        ]
+      },
+      {
+        "id": "ex-10-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Luz em Gósen",
+        "text": "Durante a praga das trevas, os egípcios não conseguiam se ver nem sair de seus lugares por três dias, mas os filhos de Israel tinham luz em suas habitações."
+      },
+      {
+        "id": "ex-10-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "porque no dia em que vires o meu rosto, {0}",
+        "blanks": [
+          "morrerás"
+        ],
+        "distractors": [
+          "partirás",
+          "perecerás",
+          "servirás"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "ex-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Ainda uma praga trarei sobre Faraó, e sobre o {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Assíria",
+          "Babilônia"
+        ]
+      },
+      {
+        "id": "ex-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Prata e ouro de partida",
+        "text": "Antes de sair, os israelitas pediriam aos egípcios objetos de prata e de ouro. Esse 'despojo' não foi roubo: era uma espécie de pagamento atrasado por gerações de trabalho escravo, e parte desse ouro seria usada depois para o tabernáculo."
+      },
+      {
+        "id": "ex-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Qual é a praga final que o Senhor anuncia neste capítulo?",
+        "options": [
+          "A morte de todo primogênito na terra do Egito",
+          "Uma chuva de granizo sobre as colheitas",
+          "Três dias de trevas sobre o Egito",
+          "Uma invasão de gafanhotos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-11-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "nem mesmo um {0} moverá a sua língua",
+        "blanks": [
+          "cão"
+        ],
+        "distractors": [
+          "leão",
+          "lobo",
+          "boi"
+        ]
+      },
+      {
+        "id": "ex-11-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Moisés e Aarão",
+            "right": "Operaram as maravilhas diante de Faraó"
+          },
+          {
+            "left": "Faraó",
+            "right": "Teve o coração endurecido e não deixou Israel ir"
+          },
+          {
+            "left": "Primogênitos do Egito",
+            "right": "Morreriam na praga final anunciada"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "ex-12-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O início do calendário",
+        "text": "Ao declarar este mês o 'princípio dos meses', o Senhor reorganiza o calendário de Israel em torno da libertação do Egito; esse mês (Abibe/Nisã) passa a abrir o ano religioso."
+      },
+      {
+        "id": "ex-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Aos dez deste mês tome cada um para si um {0}, segundo as casas dos pais",
+        "blanks": [
+          "cordeiro"
+        ],
+        "distractors": [
+          "novilho",
+          "potro",
+          "pombo"
+        ]
+      },
+      {
+        "id": "ex-12-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "com pães ázimos; com ervas {0} a comerão",
+        "blanks": [
+          "amargosas"
+        ],
+        "distractors": [
+          "assadas",
+          "levedadas",
+          "salgadas"
+        ]
+      },
+      {
+        "id": "ex-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Como Israel deveria comer o cordeiro, segundo o versículo 11?",
+        "options": [
+          "Sentados e em repouso",
+          "Com os lombos cingidos e apressadamente",
+          "Somente ao amanhecer",
+          "Depois de uma longa oração"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-12-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "e vendo eu o sangue, passarei por cima de vós, e não haverá entre vós praga de {0}",
+        "blanks": [
+          "mortandade"
+        ],
+        "distractors": [
+          "gafanhotos",
+          "tempestade",
+          "escuridão"
+        ]
+      },
+      {
+        "id": "ex-12-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Sete dias comereis pães {0}",
+        "blanks": [
+          "ázimos"
+        ],
+        "distractors": [
+          "levedados",
+          "assados",
+          "amargos"
+        ]
+      },
+      {
+        "id": "ex-12-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Então tomai um molho de {0}, e molhai-o no sangue que estiver na bacia",
+        "blanks": [
+          "hissopo"
+        ],
+        "distractors": [
+          "cordeiro",
+          "fermento",
+          "cajado"
+        ]
+      },
+      {
+        "id": "ex-12-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "À meia-noite, quem o Senhor matou em toda a terra do Egito?",
+        "options": [
+          "Todos os soldados de Faraó",
+          "Todos os primogênitos",
+          "Todos os sacerdotes",
+          "Todos os anciãos"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-12-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "e pediram aos egípcios objetos de {0}, e objetos de ouro, e roupas",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "bronze",
+          "barro",
+          "madeira"
+        ]
+      },
+      {
+        "id": "ex-12-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Ramessés",
+            "right": "Ponto de partida de Israel"
+          },
+          {
+            "left": "Sucote",
+            "right": "Primeiro destino da jornada"
+          },
+          {
+            "left": "Quatrocentos e trinta anos",
+            "right": "Tempo em que habitaram no Egito"
+          },
+          {
+            "left": "Seiscentos mil",
+            "right": "Número aproximado de homens a pé"
+          }
+        ]
+      },
+      {
+        "id": "ex-12-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "Numa casa se comerá; não levarás daquela carne para fora da casa, nem dela quebrareis {0}",
+        "blanks": [
+          "osso"
+        ],
+        "distractors": [
+          "sangue",
+          "fermento",
+          "carvão"
+        ]
+      },
+      {
+        "id": "ex-12-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Uma mesma {0} haja para o natural e para o estrangeiro que peregrinar entre vós",
+        "blanks": [
+          "lei"
+        ],
+        "distractors": [
+          "páscoa",
+          "casa",
+          "praga"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "ex-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Por que o primogênito?",
+        "text": "Como o Senhor poupou os primogênitos de Israel na última praga do Egito, todo primogênito passou a lhe pertencer e devia ser santificado ou resgatado, lembrando aquele livramento."
+      },
+      {
+        "id": "ex-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Hoje vós saís, no mês de {0}.",
+        "blanks": [
+          "Abibe"
+        ],
+        "distractors": [
+          "Sivã",
+          "Etanim",
+          "Bul"
+        ]
+      },
+      {
+        "id": "ex-13-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Durante quantos dias o povo deveria comer pães ázimos?",
+        "options": [
+          "Sete dias",
+          "Três dias",
+          "Quarenta dias",
+          "Um dia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E todo primogênito da jumenta, resgatarás com um {0}",
+        "blanks": [
+          "cordeiro"
+        ],
+        "distractors": [
+          "bezerro",
+          "cabrito",
+          "pombo"
+        ]
+      },
+      {
+        "id": "ex-13-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Por que Deus não levou o povo pelo caminho da terra dos filisteus, ainda que fosse mais perto?",
+        "options": [
+          "Para que o povo não se arrependesse ao ver a guerra e voltasse ao Egito",
+          "Porque a terra dos filisteus estava em festa",
+          "Para que o povo descansasse no deserto",
+          "Porque faltava água nesse caminho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-13-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Assim, partiram de Sucote, e acamparam em {0}, à entrada do deserto.",
+        "blanks": [
+          "Etã"
+        ],
+        "distractors": [
+          "Ramessés",
+          "Egito",
+          "Canaã"
+        ]
+      },
+      {
+        "id": "ex-13-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Coluna de nuvem",
+            "right": "Guiava o povo de dia"
+          },
+          {
+            "left": "Coluna de fogo",
+            "right": "Alumiava o povo de noite"
+          },
+          {
+            "left": "Ossos de José",
+            "right": "Moisés os levou consigo"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "ex-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Acampar diante de Pi-Hairote",
+        "text": "Deus ordena que Israel acampe num ponto vulnerável, entre Migdol e o mar, diante de Baal-Zefom. O movimento parece um erro estratégico, mas é deliberado: atrai Faraó para a armadilha em que o próprio Senhor será glorificado."
+      },
+      {
+        "id": "ex-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo o versículo 3, o que Deus prevê que Faraó dirá dos filhos de Israel?",
+        "options": [
+          "Que estão desnorteados na terra e o deserto os encerrou",
+          "Que já cruzaram o mar e escaparam",
+          "Que se renderam ao exército egípcio",
+          "Que voltaram para servir no Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-14-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E tomou seiscentos carros escolhidos, e todos os {0} do Egito, e os capitães sobre eles todos.",
+        "blanks": [
+          "carros"
+        ],
+        "distractors": [
+          "cavalos",
+          "servos",
+          "exércitos"
+        ]
+      },
+      {
+        "id": "ex-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "O Senhor {0} por vós, e vós vos calareis.",
+        "blanks": [
+          "pelejará"
+        ],
+        "distractors": [
+          "clamará",
+          "marchará",
+          "perseguirá"
+        ]
+      },
+      {
+        "id": "ex-14-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "E tu, levanta a tua vara, e estende a tua mão sobre o mar, e fende-o, para que os filhos de Israel passem pelo meio do mar em terra {0}.",
+        "blanks": [
+          "seca"
+        ],
+        "distractors": [
+          "firme",
+          "santa",
+          "prometida"
+        ]
+      },
+      {
+        "id": "ex-14-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Segundo o versículo 21, o que o Senhor usou para fazer o mar retirar-se e tornar-se em terra seca?",
+        "options": [
+          "Um forte vento oriental que soprou toda a noite",
+          "Uma coluna de fogo lançada sobre as águas",
+          "A vara de Moisés ferindo a rocha",
+          "Uma chuva de granizo durante a noite"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-14-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "E os filhos de Israel entraram pelo meio do mar em terra seca; e as águas foram -lhes como {0} à sua direita e à sua esquerda.",
+        "blanks": [
+          "muro"
+        ],
+        "distractors": [
+          "abrigo",
+          "caminho",
+          "sombra"
+        ]
+      },
+      {
+        "id": "ex-14-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "E tirou-lhes as {0} dos seus carros, e fê-los andar dificultosamente.",
+        "blanks": [
+          "rodas"
+        ],
+        "distractors": [
+          "armas",
+          "tendas",
+          "espadas"
+        ]
+      },
+      {
+        "id": "ex-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Segundo o versículo 30, de que o Senhor salvou Israel naquele dia?",
+        "options": [
+          "Da mão dos egípcios",
+          "Da fome no deserto",
+          "Da sede junto ao mar",
+          "Das pragas do Egito"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "ex-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O Cântico do Mar",
+        "text": "Os versículos 1 a 18 são conhecidos como o Cântico do Mar (Shirat HaYam), considerado uma das porções poéticas mais antigas da Bíblia hebraica e recitado até hoje na liturgia judaica."
+      },
+      {
+        "id": "ex-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Lançou no mar os carros de {0} e o seu exército",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "Moisés",
+          "Aarão",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-15-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "afundaram como {0} em veementes águas",
+        "blanks": [
+          "chumbo"
+        ],
+        "distractors": [
+          "pedra",
+          "restolho",
+          "areia"
+        ]
+      },
+      {
+        "id": "ex-15-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Quem é como tu glorificado em {0}",
+        "blanks": [
+          "santidade"
+        ],
+        "distractors": [
+          "guerra",
+          "misericórdia",
+          "benevolência"
+        ]
+      },
+      {
+        "id": "ex-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Então Miriam, a profetiza, a irmã de {0}, tomou o tamboril",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Moisés",
+          "Faraó",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-15-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Por que o povo não pôde beber as águas do lugar chamado Mara?",
+        "options": [
+          "Porque eram amargas",
+          "Porque eram poucas",
+          "Porque estavam secas",
+          "Porque eram salgadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-15-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "havia ali doze fontes de água e setenta {0}",
+        "blanks": [
+          "palmeiras"
+        ],
+        "distractors": [
+          "fontes",
+          "tendas",
+          "ovelhas"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "ex-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Quinze dias de jornada",
+        "text": "O texto data o episódio nos 'quinze dias do mês segundo' após a saída do Egito, marcando que a fome surgiu cerca de um mês depois da libertação."
+      },
+      {
+        "id": "ex-16-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "chegou ao deserto de {0}, que está entre Elim e Sinai",
+        "blanks": [
+          "Sim"
+        ],
+        "distractors": [
+          "Sinai",
+          "Elim",
+          "Egito"
+        ]
+      },
+      {
+        "id": "ex-16-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Ao cair da tarde comereis {0}, e pela manhã vos fartareis de pão",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "peixe",
+          "orvalho",
+          "maná"
+        ]
+      },
+      {
+        "id": "ex-16-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Que é isto?",
+        "text": "Ao verem o maná, os filhos de Israel perguntaram uns aos outros 'Que é isto?', porque não sabiam o que era; o próprio nome 'maná' nasce dessa surpresa."
+      },
+      {
+        "id": "ex-16-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "um {0} por cabeça, segundo o número das vossas almas",
+        "blanks": [
+          "ômer"
+        ],
+        "distractors": [
+          "efa",
+          "vaso",
+          "forno"
+        ]
+      },
+      {
+        "id": "ex-16-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Amanhã é repouso, o santo {0} do Senhor",
+        "blanks": [
+          "sábado"
+        ],
+        "distractors": [
+          "forno",
+          "deserto",
+          "maná"
+        ]
+      },
+      {
+        "id": "ex-16-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Segundo o versículo 31, com o que se parecia o sabor do maná?",
+        "options": [
+          "Bolos de mel",
+          "Carne assada",
+          "Pão sem fermento",
+          "Codornizes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-16-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "comeram maná até que chegaram aos termos da terra de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Sinai",
+          "Elim"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "ex-17-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Por que o povo murmurou contra Moisés em Refidim?",
+        "options": [
+          "Porque tinham sede e não havia água para beber",
+          "Porque estavam com fome e não havia pão",
+          "Porque tinham medo do exército do faraó",
+          "Porque queriam voltar a adorar o bezerro de ouro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-17-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "toma na tua mão a tua {0}, com que feriste o rio",
+        "blanks": [
+          "vara"
+        ],
+        "distractors": [
+          "espada",
+          "bandeira",
+          "pedra"
+        ]
+      },
+      {
+        "id": "ex-17-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Massá e Meribá",
+        "text": "Moisés deu ao lugar os nomes Massá ('provação') e Meribá ('contenda'), marcando para sempre a desconfiança do povo, que perguntou: 'Está o Senhor no meio de nós, ou não?'"
+      },
+      {
+        "id": "ex-17-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Escolhe-nos homens, e sai, peleja contra {0}",
+        "blanks": [
+          "Amaleque"
+        ],
+        "distractors": [
+          "Moabe",
+          "Edom",
+          "Midiã"
+        ]
+      },
+      {
+        "id": "ex-17-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "Moisés",
+            "right": "Erguia a vara de Deus sobre o outeiro"
+          },
+          {
+            "left": "Josué",
+            "right": "Comandava a peleja contra Amaleque"
+          },
+          {
+            "left": "Aarão e Hur",
+            "right": "Sustentaram as mãos de Moisés"
+          }
+        ]
+      },
+      {
+        "id": "ex-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "E Moisés edificou um altar, e chamou o seu nome: o Senhor é minha {0}",
+        "blanks": [
+          "bandeira"
+        ],
+        "distractors": [
+          "rocha",
+          "vara",
+          "espada"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "ex-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O sacerdote de Midiã",
+        "text": "Jetro é chamado de \"sacerdote de Midiã\". Midiã ficava a leste do golfo de Ácaba, e foi ali que Moisés viveu como pastor por anos antes de Deus chamá-lo na sarça ardente."
+      },
+      {
+        "id": "ex-18-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "O Deus de meu pai foi minha ajuda, e me livrou da espada de {0}",
+        "blanks": [
+          "Faraó"
+        ],
+        "distractors": [
+          "Jetro",
+          "Aarão",
+          "Gérson"
+        ]
+      },
+      {
+        "id": "ex-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Por que Jetro se alegrou ao reencontrar Moisés?",
+        "options": [
+          "Por todo o bem que o Senhor tinha feito a Israel, livrando-o dos egípcios",
+          "Porque Moisés havia se tornado rei do Egito",
+          "Porque Israel havia conquistado a terra de Midiã",
+          "Porque Faraó havia se convertido ao Senhor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-18-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Agora sei que o Senhor é maior que todos os {0}",
+        "blanks": [
+          "deuses"
+        ],
+        "distractors": [
+          "reis",
+          "povos",
+          "homens"
+        ]
+      },
+      {
+        "id": "ex-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "O que Jetro observou Moisés fazendo desde a manhã até a tarde?",
+        "options": [
+          "Julgar o povo sozinho, que ficava em pé diante dele",
+          "Conduzir o povo pelo deserto",
+          "Oferecer holocaustos a Deus",
+          "Escrever os mandamentos em tábuas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-18-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "procura homens capazes, tementes a Deus, homens de verdade, que odeiem a {0}",
+        "blanks": [
+          "avareza"
+        ],
+        "distractors": [
+          "soberba",
+          "preguiça",
+          "mentira"
+        ]
+      },
+      {
+        "id": "ex-18-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Jetro",
+            "right": "Sogro de Moisés que deu o conselho"
+          },
+          {
+            "left": "Zípora",
+            "right": "Esposa de Moisés"
+          },
+          {
+            "left": "Aarão",
+            "right": "Comeu pão diante de Deus com Jetro"
+          },
+          {
+            "left": "Maiorais de mil",
+            "right": "Líderes que Moisés pôs sobre o povo"
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "ex-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O terceiro mês",
+        "text": "O encontro no Sinai começa “ao terceiro mês” após a saída do Egito. A tradição judaica liga esse momento à festa de Shavuot (Pentecostes), celebrada como a data da entrega da lei."
+      },
+      {
+        "id": "ex-19-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "e chegaram ao deserto de {0}",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Refidim",
+          "Egito",
+          "Jacó"
+        ]
+      },
+      {
+        "id": "ex-19-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "O que o Senhor promete a Israel se ouvir a sua voz e guardar o seu convênio?",
+        "options": [
+          "Que serão a sua propriedade peculiar dentre todos os povos",
+          "Que receberão a terra de Refidim",
+          "Que viverão para sempre sem morrer",
+          "Que jamais sairão do deserto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-19-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Tudo o que o Senhor falou, {0}",
+        "blanks": [
+          "faremos"
+        ],
+        "distractors": [
+          "ouviremos",
+          "subiremos",
+          "guardaremos"
+        ]
+      },
+      {
+        "id": "ex-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "porque certamente será {0} ou flechado",
+        "blanks": [
+          "apedrejado"
+        ],
+        "distractors": [
+          "santificado",
+          "advertido",
+          "queimado"
+        ]
+      },
+      {
+        "id": "ex-19-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "e a sua fumaça subiu como fumaça de um {0}",
+        "blanks": [
+          "forno"
+        ],
+        "distractors": [
+          "monte",
+          "altar",
+          "deserto"
+        ]
+      },
+      {
+        "id": "ex-19-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Monte Sinai",
+            "right": "Onde o Senhor desceu em fogo"
+          },
+          {
+            "left": "Buzina",
+            "right": "Som que ia aumentando enquanto Moisés falava"
+          },
+          {
+            "left": "Aarão",
+            "right": "Único que podia subir com Moisés"
+          }
+        ]
+      },
+      {
+        "id": "ex-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "depois subirás tu, e {0} contigo",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Jacó",
+          "Israel",
+          "Moisés"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "ex-20-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A casa da servidão",
+        "text": "Antes de dar qualquer mandamento, Deus se identifica como quem libertou Israel da escravidão no Egito: a obediência nasce da gratidão pela libertação, não do medo."
+      },
+      {
+        "id": "ex-20-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Eu sou o Senhor teu Deus, que te tirei da terra do {0}, da casa da servidão.",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Sinai",
+          "Israel"
+        ]
+      },
+      {
+        "id": "ex-20-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Como Deus se descreve ao proibir a adoração de imagens de escultura?",
+        "options": [
+          "Como um Deus zeloso",
+          "Como um Deus distante",
+          "Como um Deus indiferente",
+          "Como um Deus mudo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Lembra-te do dia do {0}, para o santificar.",
+        "blanks": [
+          "sábado"
+        ],
+        "distractors": [
+          "jejum",
+          "trabalho",
+          "perdão"
+        ]
+      },
+      {
+        "id": "ex-20-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Segundo o versículo 11, por que o sábado deve ser santificado?",
+        "options": [
+          "Porque em seis dias Deus fez os céus e a terra e ao sétimo descansou",
+          "Porque foi o dia da saída do Egito",
+          "Porque foi quando a Lei foi dada",
+          "Porque foi o dia em que o homem foi criado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Honra teu pai e tua mãe, para que os teus dias se prolonguem na {0} que o Senhor teu Deus te dá.",
+        "blanks": [
+          "terra"
+        ],
+        "distractors": [
+          "cidade",
+          "casa",
+          "tenda"
+        ]
+      },
+      {
+        "id": "ex-20-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Não matarás",
+            "right": "Respeito à vida"
+          },
+          {
+            "left": "Não adulterarás",
+            "right": "Fidelidade no casamento"
+          },
+          {
+            "left": "Não furtarás",
+            "right": "Respeito aos bens alheios"
+          },
+          {
+            "left": "Não dirás falso testemunho",
+            "right": "Verdade ao falar do próximo"
+          }
+        ]
+      },
+      {
+        "id": "ex-20-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "E todo o povo viu os trovões e os relâmpagos, e o sonido da buzina, e o monte {0}; e o povo, vendo isso, retirou-se e pôs-se de longe.",
+        "blanks": [
+          "fumegando"
+        ],
+        "distractors": [
+          "derretendo",
+          "afundando",
+          "rachando"
+        ]
+      },
+      {
+        "id": "ex-20-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo Moisés, por que Deus veio em meio aos trovões e relâmpagos?",
+        "options": [
+          "Para pôr o povo à prova e para que não pecassem",
+          "Para destruir o monte Sinai",
+          "Para escolher um novo líder",
+          "Para punir o Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-20-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Não fareis junto a mim deuses de prata, e não fareis para vós deuses de {0}.",
+        "blanks": [
+          "ouro"
+        ],
+        "distractors": [
+          "barro",
+          "madeira",
+          "ferro"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "ex-21-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O sétimo ano de liberdade",
+        "text": "A lei limitava a servidão do hebreu a seis anos: no sétimo ele saía livre, ecoando o ritmo sabático de descanso que permeia toda a Torá."
+      },
+      {
+        "id": "ex-21-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Se comprares um servo hebreu, seis anos servirá, mas ao {0} sairá livre, de graça.",
+        "blanks": [
+          "sétimo"
+        ],
+        "distractors": [
+          "terceiro",
+          "décimo",
+          "quarto"
+        ]
+      },
+      {
+        "id": "ex-21-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Segundo o versículo 8, o que o senhor não podia fazer com a serva que lhe desagradasse?",
+        "options": [
+          "Vendê-la a um povo estranho",
+          "Libertá-la de graça",
+          "Desposá-la com seu filho",
+          "Devolvê-la ao pai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-21-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Quem ferir alguém, de modo que morra, certamente {0};",
+        "blanks": [
+          "morrerá"
+        ],
+        "distractors": [
+          "pagará",
+          "fugirá",
+          "servirá"
+        ]
+      },
+      {
+        "id": "ex-21-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E quem amaldiçoar seu pai ou sua {0}, certamente morrerá.",
+        "blanks": [
+          "mãe"
+        ],
+        "distractors": [
+          "filha",
+          "esposa",
+          "serva"
+        ]
+      },
+      {
+        "id": "ex-21-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Se alguém ferir seu servo, ou sua serva com {0}, e morrer sob sua mão, será certamente castigado;",
+        "blanks": [
+          "vara"
+        ],
+        "distractors": [
+          "pedra",
+          "sovela",
+          "bordão"
+        ]
+      },
+      {
+        "id": "ex-21-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Olho por olho",
+        "text": "A famosa lei do talião ('olho por olho, dente por dente') não incentivava a vingança: limitava a punição ao tamanho exato do dano, impedindo represálias maiores."
+      },
+      {
+        "id": "ex-21-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Olho por olho, {0} por dente, mão por mão, pé por pé;",
+        "blanks": [
+          "dente"
+        ],
+        "distractors": [
+          "braço",
+          "mão",
+          "vida"
+        ]
+      },
+      {
+        "id": "ex-21-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "E se fizer cair o {0} do seu servo, ou o {0} da sua serva, o deixará ir livre pelo seu {0}.",
+        "blanks": [
+          "dente"
+        ],
+        "distractors": [
+          "olho",
+          "pé",
+          "cabelo"
+        ]
+      },
+      {
+        "id": "ex-21-mp-28",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Boi escornear homem ou mulher",
+            "right": "O boi será apedrejado"
+          },
+          {
+            "left": "Boi escornear servo ou serva",
+            "right": "Trinta siclos de prata ao senhor"
+          },
+          {
+            "left": "Dono ciente e descuidado",
+            "right": "Também o dono morrerá"
+          }
+        ]
+      },
+      {
+        "id": "ex-21-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Se o boi escornear um servo, ou uma serva, dar-se-ão trinta {0} de prata ao seu senhor, e o boi será apedrejado.",
+        "blanks": [
+          "siclos"
+        ],
+        "distractors": [
+          "talentos",
+          "dracmas",
+          "côvados"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "ex-22-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "por um boi pagará {0} bois",
+        "blanks": [
+          "cinco"
+        ],
+        "distractors": [
+          "quatro",
+          "sete",
+          "três"
+        ]
+      },
+      {
+        "id": "ex-22-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Quem acende, paga",
+        "text": "A lei do fogo (v. 6) responsabiliza quem ateia um incêndio pelo trigo, pela seara e pelo campo queimados — um princípio antigo de responsabilidade pelo dano causado, mesmo sem intenção de prejudicar."
+      },
+      {
+        "id": "ex-22-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Em uma disputa sobre um bem que alguém reivindica como seu, diante de quem a causa de ambos era levada?",
+        "options": [
+          "Dos juízes",
+          "Do faraó",
+          "Dos sacerdotes",
+          "Dos anciãos da cidade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-22-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Então haverá juramento do {0} entre ambos",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "dono",
+          "próximo",
+          "ladrão"
+        ]
+      },
+      {
+        "id": "ex-22-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "A {0} não deixarás viver.",
+        "blanks": [
+          "feiticeira"
+        ],
+        "distractors": [
+          "viúva",
+          "estrangeira",
+          "virgem"
+        ]
+      },
+      {
+        "id": "ex-22-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "pois estrangeiros fostes na terra do {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Midiã",
+          "Sinai"
+        ]
+      },
+      {
+        "id": "ex-22-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Ao emprestar dinheiro ao pobre do povo, o que o israelita estava proibido de cobrar?",
+        "options": [
+          "Usura (juros)",
+          "Penhor",
+          "Dote",
+          "Primícias"
+        ],
+        "answer": 0
+      }
+    ],
+    "23": [
+      {
+        "id": "ex-23-cur-1",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Justiça imparcial",
+        "text": "Os primeiros versículos proíbem tanto torcer a justiça contra um inocente quanto favorecer alguém só por ser pobre: a verdade no julgamento não deve curvar-se nem ao poder nem à pena."
+      },
+      {
+        "id": "ex-23-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo os versículos 4–5, o que se deve fazer ao encontrar o boi ou jumento extraviado do próprio inimigo?",
+        "options": [
+          "Reconduzi-lo de volta ao dono e ajudá-lo",
+          "Ficar com o animal como compensação",
+          "Deixá-lo onde está, pois é do inimigo",
+          "Vendê-lo e dar o dinheiro aos pobres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-23-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "pois fostes estrangeiros na terra do {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Sinai",
+          "Filístia"
+        ]
+      },
+      {
+        "id": "ex-23-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "A festa dos pães {0} guardarás",
+        "blanks": [
+          "ázimos"
+        ],
+        "distractors": [
+          "levedados",
+          "amargos",
+          "consagrados"
+        ]
+      },
+      {
+        "id": "ex-23-cur-14",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "As três festas anuais",
+        "text": "Deus institui três festas em que todo Israel se reuniria: a dos pães ázimos (Páscoa), a da ceifa dos primeiros frutos e a da colheita ao fim do ano — calendário que marcava a vida agrícola e espiritual do povo."
+      },
+      {
+        "id": "ex-23-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Eis que eu envio um {0} diante de ti",
+        "blanks": [
+          "anjo"
+        ],
+        "distractors": [
+          "profeta",
+          "exército",
+          "sinal"
+        ]
+      },
+      {
+        "id": "ex-23-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Anjo prometido",
+            "right": "Guia que Deus envia diante de Israel"
+          },
+          {
+            "left": "Voz do anjo",
+            "right": "Deve ser obedecida sem o provocar à ira"
+          },
+          {
+            "left": "Nações da terra",
+            "right": "Amorreus, heteus, cananeus e outros povos"
+          },
+          {
+            "left": "Promessa a quem obedece",
+            "right": "Deus será inimigo dos seus inimigos"
+          }
+        ]
+      },
+      {
+        "id": "ex-23-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Segundo o versículo 28, o que Deus diz que enviará para expulsar os heveus, cananeus e heteus de diante de Israel?",
+        "options": [
+          "Vespões",
+          "Trovões",
+          "Pragas de gafanhotos",
+          "Anjos com espadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-23-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "desde o {0} até o mar dos filisteus",
+        "blanks": [
+          "Mar Vermelho"
+        ],
+        "distractors": [
+          "Mar da Galileia",
+          "Mar Morto",
+          "rio Jordão"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "ex-24-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo os versículos 1 e 2, quem podia chegar-se perto do Senhor no monte?",
+        "options": [
+          "Somente Moisés",
+          "Todo o povo de Israel",
+          "Os setenta anciãos",
+          "Aarão e seus filhos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-24-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Eis aqui o sangue do {0} que o Senhor fez convosco sobre todas estas palavras.",
+        "blanks": [
+          "convênio"
+        ],
+        "distractors": [
+          "altar",
+          "holocausto",
+          "monte"
+        ]
+      },
+      {
+        "id": "ex-24-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "Um pavimento de safira",
+        "text": "Ao verem o Deus de Israel, Moisés e os anciãos descreveram sob os pés do Senhor algo como uma obra de pedra de safira, tão claro quanto o próprio céu — uma das raras visões da glória divina registradas no Velho Testamento."
+      },
+      {
+        "id": "ex-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E levantou-se Moisés com {0}, seu servidor; e subiu Moisés ao monte de Deus,",
+        "blanks": [
+          "Josué"
+        ],
+        "distractors": [
+          "Aarão",
+          "Hur",
+          "Abiú"
+        ]
+      },
+      {
+        "id": "ex-24-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Seis dias",
+            "right": "Tempo em que a nuvem cobriu o monte antes do chamado"
+          },
+          {
+            "left": "Sétimo dia",
+            "right": "Quando o Senhor chamou Moisés do meio da nuvem"
+          },
+          {
+            "left": "Fogo consumidor",
+            "right": "Aparência da glória do Senhor no cume do monte"
+          },
+          {
+            "left": "Quarenta dias e quarenta noites",
+            "right": "Tempo que Moisés esteve no monte"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "ex-25-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O tabernáculo portátil",
+        "text": "Êxodo 25 inicia as instruções de Deus a Moisés no monte Sinai para construir o tabernáculo, um santuário móvel que Israel carregava pelo deserto para adorar a Jeová."
+      },
+      {
+        "id": "ex-25-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Que metais Israel deveria trazer como oferta para o santuário?",
+        "options": [
+          "Ouro, prata e bronze",
+          "Ferro, estanho e chumbo",
+          "Cobre, níquel e zinco",
+          "Bronze, ferro e prata"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-25-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "E me farão um {0}, e habitarei no meio deles.",
+        "blanks": [
+          "santuário"
+        ],
+        "distractors": [
+          "altar",
+          "trono",
+          "jardim"
+        ]
+      },
+      {
+        "id": "ex-25-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Arca",
+            "right": "Guardava o testemunho"
+          },
+          {
+            "left": "Varas",
+            "right": "Serviam para carregar a arca"
+          },
+          {
+            "left": "Argolas",
+            "right": "Onde as varas eram colocadas"
+          }
+        ]
+      },
+      {
+        "id": "ex-25-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "E ali me encontrarei contigo, e falarei contigo de cima do {0}",
+        "blanks": [
+          "propiciatório"
+        ],
+        "distractors": [
+          "candelabro",
+          "santuário",
+          "tabernáculo"
+        ]
+      },
+      {
+        "id": "ex-25-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "E sobre a mesa porás o {0} da proposição perante a minha face continuamente.",
+        "blanks": [
+          "pão"
+        ],
+        "distractors": [
+          "azeite",
+          "incenso",
+          "óleo"
+        ]
+      },
+      {
+        "id": "ex-25-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Também farás um {0} de ouro puro",
+        "blanks": [
+          "candelabro"
+        ],
+        "distractors": [
+          "propiciatório",
+          "santuário",
+          "peitoral"
+        ]
+      },
+      {
+        "id": "ex-25-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Quantas lâmpadas o candelabro de ouro deveria ter?",
+        "options": [
+          "Sete",
+          "Três",
+          "Doze",
+          "Quatro"
+        ],
+        "answer": 0
+      }
+    ],
+    "26": [
+      {
+        "id": "ex-26-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "As cores do tabernáculo",
+        "text": "O azul, a púrpura e o carmesim eram tinturas caríssimas no mundo antigo; a púrpura vinha de um caramujo marinho e o carmesim de um inseto, tornando as cortinas do tabernáculo um símbolo de realeza e santidade."
+      },
+      {
+        "id": "ex-26-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "O comprimento de uma cortina será de vinte e oito {0}",
+        "blanks": [
+          "côvados"
+        ],
+        "distractors": [
+          "palmos",
+          "cortinas",
+          "colchetes"
+        ]
+      },
+      {
+        "id": "ex-26-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Farás também cortinas de pelos de {0} para servirem de tenda sobre o tabernáculo",
+        "blanks": [
+          "cabras"
+        ],
+        "distractors": [
+          "carneiros",
+          "texugos",
+          "bois"
+        ]
+      },
+      {
+        "id": "ex-26-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Farás também cinquenta colchetes de {0}",
+        "blanks": [
+          "bronze"
+        ],
+        "distractors": [
+          "prata",
+          "ferro",
+          "estanho"
+        ]
+      },
+      {
+        "id": "ex-26-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Farás também as tábuas para o tabernáculo de madeira de {0}",
+        "blanks": [
+          "acácia"
+        ],
+        "distractors": [
+          "cedro",
+          "oliveira",
+          "carvalho"
+        ]
+      },
+      {
+        "id": "ex-26-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "De que material eram feitas as bases que sustentavam as tábuas do tabernáculo?",
+        "options": [
+          "Prata",
+          "Ouro",
+          "Bronze",
+          "Madeira"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-26-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "E ao lado do tabernáculo, para o ocidente, farás seis {0}",
+        "blanks": [
+          "tábuas"
+        ],
+        "distractors": [
+          "bases",
+          "barras",
+          "colunas"
+        ]
+      },
+      {
+        "id": "ex-26-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E cobrirás de {0} as tábuas, e farás de ouro as suas argolas",
+        "blanks": [
+          "ouro"
+        ],
+        "distractors": [
+          "prata",
+          "bronze",
+          "estanho"
+        ]
+      },
+      {
+        "id": "ex-26-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Segundo o versículo 33, o que o véu separava dentro do tabernáculo?",
+        "options": [
+          "O santuário do lugar santíssimo",
+          "O pátio do altar",
+          "A entrada da tenda",
+          "O candelabro da mesa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-26-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Arca do testemunho",
+            "right": "Ficava no lugar santíssimo"
+          },
+          {
+            "left": "Mesa",
+            "right": "Posta ao lado norte"
+          },
+          {
+            "left": "Candelabro",
+            "right": "Defronte da mesa, ao sul"
+          }
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "ex-27-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Farás também o altar de madeira de {0}, cinco côvados será o comprimento",
+        "blanks": [
+          "acácia"
+        ],
+        "distractors": [
+          "cedro",
+          "oliveira",
+          "carvalho"
+        ]
+      },
+      {
+        "id": "ex-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Os chifres do altar",
+        "text": "Os quatro chifres do altar, feitos de uma só peça com ele, tornaram-se símbolo de refúgio: nas Escrituras, agarrar-se a eles era buscar proteção e misericórdia."
+      },
+      {
+        "id": "ex-27-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "De que material o altar e suas varas deviam ser cobertos?",
+        "options": [
+          "Bronze",
+          "Prata",
+          "Ouro",
+          "Ferro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-27-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "os colchetes das colunas e as suas faixas serão de {0}",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "bronze",
+          "ouro",
+          "ferro"
+        ]
+      },
+      {
+        "id": "ex-27-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Quantos côvados de cortinas tinha a largura do pátio no lado do ocidente?",
+        "options": [
+          "Cinquenta côvados",
+          "Cem côvados",
+          "Quinze côvados",
+          "Vinte côvados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-27-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "E à porta do pátio haverá uma cortina de vinte côvados, de azul, e púrpura, e {0}, e de linho fino torcido",
+        "blanks": [
+          "carmesim"
+        ],
+        "distractors": [
+          "verde",
+          "branco",
+          "dourado"
+        ]
+      },
+      {
+        "id": "ex-27-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "que te tragam azeite puro de {0}, batido para o candeeiro",
+        "blanks": [
+          "oliva"
+        ],
+        "distractors": [
+          "cedro",
+          "trigo",
+          "nardo"
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "ex-28-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "a quem eu enchi do espírito de {0}",
+        "blanks": [
+          "sabedoria"
+        ],
+        "distractors": [
+          "glória",
+          "santidade",
+          "ornamento"
+        ]
+      },
+      {
+        "id": "ex-28-mp-4",
+        "type": "match_pairs",
+        "after_verse": 4,
+        "pairs": [
+          {
+            "left": "Peitoral",
+            "right": "Peça quadrada sobre o coração do sacerdote"
+          },
+          {
+            "left": "Éfode",
+            "right": "Veste de ouro, azul, púrpura e carmesim com ombreiras"
+          },
+          {
+            "left": "Mitra",
+            "right": "Cobertura para a cabeça de linho fino"
+          }
+        ]
+      },
+      {
+        "id": "ex-28-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "por pedras de {0} para os filhos de Israel",
+        "blanks": [
+          "memória"
+        ],
+        "distractors": [
+          "juízo",
+          "ornamento",
+          "sabedoria"
+        ]
+      },
+      {
+        "id": "ex-28-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Qual peça da veste sacerdotal era chamada \"do juízo\"?",
+        "options": [
+          "O peitoral",
+          "O manto",
+          "O éfode",
+          "A mitra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-28-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "E a quarta fileira será de um {0}, e de um ônix, e de um jaspe",
+        "blanks": [
+          "berilo"
+        ],
+        "distractors": [
+          "topázio",
+          "carbúnculo",
+          "sárdio"
+        ]
+      },
+      {
+        "id": "ex-28-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Então porás os dois {0} trançados de ouro nos dois anéis",
+        "blanks": [
+          "cordões"
+        ],
+        "distractors": [
+          "engastes",
+          "anéis",
+          "ombreiras"
+        ]
+      },
+      {
+        "id": "ex-28-cur-30",
+        "type": "curiosity",
+        "after_verse": 30,
+        "title": "Urim e Tumim",
+        "text": "No peitoral do juízo o sacerdote guardava o Urim e o Tumim, instrumentos usados para conhecer a vontade do Senhor. Os nomes significam aproximadamente \"luzes\" e \"perfeições\", e a Bíblia não descreve sua aparência exata."
+      },
+      {
+        "id": "ex-28-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Também porás no peitoral do juízo o {0} e o Tumim",
+        "blanks": [
+          "Urim"
+        ],
+        "distractors": [
+          "éfode",
+          "manto",
+          "carmesim"
+        ]
+      },
+      {
+        "id": "ex-28-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "E nas suas bordas farás {0} de azul, e de púrpura, e de carmesim",
+        "blanks": [
+          "romãs"
+        ],
+        "distractors": [
+          "campainhas",
+          "ombreiras",
+          "túnicas"
+        ]
+      },
+      {
+        "id": "ex-28-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "à maneira de gravuras de sinetes: {0} ao Senhor",
+        "blanks": [
+          "Santidade"
+        ],
+        "distractors": [
+          "Glória",
+          "Memória",
+          "Justiça"
+        ]
+      },
+      {
+        "id": "ex-28-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "isso será {0} perpétuo para ele",
+        "blanks": [
+          "estatuto"
+        ],
+        "distractors": [
+          "mandamento",
+          "convênio",
+          "santuário"
+        ]
+      }
+    ],
+    "29": [
+      {
+        "id": "ex-29-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sacrifício sem mácula",
+        "text": "Os animais oferecidos na consagração tinham de ser 'sem mácula', ou seja, sem defeito. A perfeição do sacrifício prefigurava a oferta perfeita de Cristo."
+      },
+      {
+        "id": "ex-29-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Depois tomarás as vestes, e vestirás Aarão da {0} e do manto do éfode",
+        "blanks": [
+          "túnica"
+        ],
+        "distractors": [
+          "mitra",
+          "coroa",
+          "espádua"
+        ]
+      },
+      {
+        "id": "ex-29-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "para que tenham o {0} por estatuto perpétuo",
+        "blanks": [
+          "sacerdócio"
+        ],
+        "distractors": [
+          "holocausto",
+          "altar",
+          "tabernáculo"
+        ]
+      },
+      {
+        "id": "ex-29-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Onde Moisés devia matar o novilho?",
+        "options": [
+          "À porta da tenda da congregação",
+          "No topo do monte Sinai",
+          "Dentro do Santo dos Santos",
+          "Junto ao mar Vermelho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-29-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "e o seu esterco queimarás com fogo fora do {0}",
+        "blanks": [
+          "acampamento"
+        ],
+        "distractors": [
+          "altar",
+          "tabernáculo",
+          "santuário"
+        ]
+      },
+      {
+        "id": "ex-29-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "e o porás sobre a ponta da {0} direita de Aarão",
+        "blanks": [
+          "orelha"
+        ],
+        "distractors": [
+          "cabeça",
+          "mão",
+          "túnica"
+        ]
+      },
+      {
+        "id": "ex-29-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Qual parte do carneiro das consagrações ficava como porção de Moisés?",
+        "options": [
+          "O peito",
+          "A espádua direita",
+          "A cauda",
+          "O fígado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-29-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E as {0} santas, que são de Aarão, serão de seus filhos depois dele",
+        "blanks": [
+          "vestes"
+        ],
+        "distractors": [
+          "ofertas",
+          "porções",
+          "consagrações"
+        ]
+      },
+      {
+        "id": "ex-29-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "conforme a tudo o que eu te ordenei; por {0} dias os consagrarás",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "quarenta",
+          "doze"
+        ]
+      },
+      {
+        "id": "ex-29-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Isto, pois, é o que oferecereis sobre o altar: dois {0} de um ano, cada dia, continuamente.",
+        "blanks": [
+          "cordeiros"
+        ],
+        "distractors": [
+          "carneiros",
+          "novilhos",
+          "pães"
+        ]
+      },
+      {
+        "id": "ex-29-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "Qual promessa o Senhor faz no fim do capítulo?",
+        "options": [
+          "Habitar no meio dos filhos de Israel e ser o seu Deus",
+          "Dar a Arão um reino terreno",
+          "Destruir o tabernáculo",
+          "Levar Israel de volta ao Egito"
+        ],
+        "answer": 0
+      }
+    ],
+    "30": [
+      {
+        "id": "ex-30-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E farás um altar para queimar o {0}; de madeira de acácia o farás.",
+        "blanks": [
+          "incenso"
+        ],
+        "distractors": [
+          "holocausto",
+          "azeite",
+          "sacrifício"
+        ]
+      },
+      {
+        "id": "ex-30-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Incenso de manhã e à tarde",
+        "text": "Arão devia queimar incenso sobre o altar todas as manhãs ao preparar as lâmpadas e novamente ao acendê-las à tarde, mantendo um incenso contínuo perante o Senhor."
+      },
+      {
+        "id": "ex-30-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Com que frequência Arão faria expiação sobre os chifres do altar do incenso?",
+        "options": [
+          "Uma vez no ano",
+          "Todas as manhãs",
+          "A cada mês",
+          "Em cada sábado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-30-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Isto dará todo aquele que passar ao número dos alistados: a metade de um {0}, segundo o siclo do santuário",
+        "blanks": [
+          "siclo"
+        ],
+        "distractors": [
+          "côvado",
+          "him",
+          "gera"
+        ]
+      },
+      {
+        "id": "ex-30-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Quanto deviam dar o rico e o pobre como oferta de expiação por sua alma?",
+        "options": [
+          "O mesmo: metade do siclo",
+          "O rico, mais; o pobre, menos",
+          "Conforme a idade de cada um",
+          "Um côvado de ouro cada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-30-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Farás também uma pia de bronze com a sua base de {0}, para lavar",
+        "blanks": [
+          "bronze"
+        ],
+        "distractors": [
+          "ouro",
+          "prata",
+          "acácia"
+        ]
+      },
+      {
+        "id": "ex-30-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "toma para ti das principais especiarias: da mais pura {0}, quinhentos siclos",
+        "blanks": [
+          "mirra"
+        ],
+        "distractors": [
+          "canela",
+          "cássia",
+          "cálamo"
+        ]
+      },
+      {
+        "id": "ex-30-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Mirra e canela",
+            "right": "Especiarias da unção"
+          },
+          {
+            "left": "Azeite da santa unção",
+            "right": "Para ungir e santificar"
+          },
+          {
+            "left": "Pia de bronze",
+            "right": "Para Arão lavar mãos e pés"
+          },
+          {
+            "left": "Altar de acácia",
+            "right": "Para queimar o incenso"
+          }
+        ]
+      },
+      {
+        "id": "ex-30-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Também ungirás Aarão e seus filhos, e os santificarás para me servirem como {0}.",
+        "blanks": [
+          "sacerdotes"
+        ],
+        "distractors": [
+          "profetas",
+          "juízes",
+          "levitas"
+        ]
+      },
+      {
+        "id": "ex-30-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Toma especiarias aromáticas, estoraque, e onicha, e gálbano; essas especiarias aromáticas e o {0} puro, de igual peso",
+        "blanks": [
+          "incenso"
+        ],
+        "distractors": [
+          "azeite",
+          "sangue",
+          "bálsamo"
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "ex-31-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Eis que eu chamei por nome Bezalel, filho de Uri, filho de Ur, da tribo de {0},",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Dã",
+          "Levi",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "ex-31-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Habilidade como dom",
+        "text": "Bezalel é a primeira pessoa nas Escrituras de quem se diz ter sido cheia do Espírito de Deus, e isso ocorre justamente para capacitá-lo no ofício artesanal de construir o santuário."
+      },
+      {
+        "id": "ex-31-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Arca do testemunho",
+            "right": "Guardava as tábuas da aliança"
+          },
+          {
+            "left": "Candelabro",
+            "right": "Dava luz no santuário"
+          },
+          {
+            "left": "Altar do incenso",
+            "right": "Queimava incenso aromático"
+          },
+          {
+            "left": "Altar do holocausto",
+            "right": "Recebia os sacrifícios queimados"
+          }
+        ]
+      },
+      {
+        "id": "ex-31-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o Senhor, o que a guarda do sábado representava para Israel?",
+        "options": [
+          "Um sinal perpétuo entre Deus e o povo, mostrando que é o Senhor quem o santifica",
+          "Uma forma de pagar dívidas com os sacerdotes",
+          "Um descanso apenas para os artesãos do tabernáculo",
+          "Um costume comum partilhado com as nações vizinhas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-31-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "tábuas de {0}, escritas pelo dedo de Deus.",
+        "blanks": [
+          "pedra"
+        ],
+        "distractors": [
+          "ouro",
+          "prata",
+          "bronze"
+        ]
+      }
+    ],
+    "32": [
+      {
+        "id": "ex-32-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Moisés demorou no monte",
+        "text": "O povo se rebelou porque Moisés ficou quarenta dias e quarenta noites no monte Sinai recebendo a lei; sua demora foi o estopim para exigirem um deus visível."
+      },
+      {
+        "id": "ex-32-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "e fez dele um {0} de fundição",
+        "blanks": [
+          "bezerro"
+        ],
+        "distractors": [
+          "cordeiro",
+          "leão",
+          "altar"
+        ]
+      },
+      {
+        "id": "ex-32-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Como o Senhor descreve o povo de Israel a Moisés no versículo 9?",
+        "options": [
+          "Um povo obstinado",
+          "Um povo humilde",
+          "Um povo fiel",
+          "Um povo temente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-32-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Lembra-te de {0}, de Isaque, e de Israel",
+        "blanks": [
+          "Abraão"
+        ],
+        "distractors": [
+          "Adão",
+          "Noé",
+          "José"
+        ]
+      },
+      {
+        "id": "ex-32-mp-17",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Josué",
+            "right": "Pensou ouvir alarido de guerra no acampamento"
+          },
+          {
+            "left": "Moisés",
+            "right": "Quebrou as tábuas ao pé do monte"
+          },
+          {
+            "left": "O bezerro",
+            "right": "Foi queimado e moído até virar pó"
+          }
+        ]
+      },
+      {
+        "id": "ex-32-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Como Aarão explica a Moisés o surgimento do bezerro?",
+        "options": [
+          "Que lançou o ouro no fogo e o bezerro saiu",
+          "Que um profeta o esculpiu",
+          "Que o povo o trouxe pronto do Egito",
+          "Que Josué o moldou"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-32-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "e caíram do povo aquele dia uns três mil {0}",
+        "blanks": [
+          "homens"
+        ],
+        "distractors": [
+          "bezerros",
+          "soldados",
+          "sacerdotes"
+        ]
+      },
+      {
+        "id": "ex-32-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "risca-me, peço-te, do teu {0} que escreveste",
+        "blanks": [
+          "livro"
+        ],
+        "distractors": [
+          "altar",
+          "monte",
+          "povo"
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "ex-33-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Terra que mana leite e mel",
+        "text": "A expressão \"terra que mana leite e mel\" descreve a fertilidade de Canaã e aparece dezenas de vezes na Bíblia como símbolo da promessa feita aos patriarcas Abraão, Isaque e Jacó."
+      },
+      {
+        "id": "ex-33-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "A uma terra que mana {0} e mel",
+        "blanks": [
+          "leite"
+        ],
+        "distractors": [
+          "vinho",
+          "azeite",
+          "trigo"
+        ]
+      },
+      {
+        "id": "ex-33-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "E falou o Senhor a Moisés face a face, como qualquer fala com o seu {0}",
+        "blanks": [
+          "amigo"
+        ],
+        "distractors": [
+          "servo",
+          "irmão",
+          "pastor"
+        ]
+      },
+      {
+        "id": "ex-33-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Josué, filho de Num",
+        "text": "O jovem Josué, filho de Num, que não se apartava da tenda, seria depois o sucessor de Moisés e conduziria Israel à conquista da terra prometida."
+      },
+      {
+        "id": "ex-33-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "No versículo 13, o que Moisés roga ao Senhor que lhe faça conhecer?",
+        "options": [
+          "O teu caminho",
+          "O teu nome",
+          "A tua face",
+          "O teu trono"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-33-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Rogo-te que me mostres a tua {0}",
+        "blanks": [
+          "glória"
+        ],
+        "distractors": [
+          "face",
+          "presença",
+          "bondade"
+        ]
+      }
+    ],
+    "34": [
+      {
+        "id": "ex-34-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E disse o Senhor a Moisés: Lavra-te duas tábuas de {0}, como as primeiras",
+        "blanks": [
+          "pedra"
+        ],
+        "distractors": [
+          "barro",
+          "madeira",
+          "bronze"
+        ]
+      },
+      {
+        "id": "ex-34-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "O nome proclamado",
+        "text": "No cume do Sinai o próprio Senhor desce numa nuvem e proclama Seu nome, prenunciando os atributos divinos que Ele declara nos versículos seguintes."
+      },
+      {
+        "id": "ex-34-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo a proclamação do Senhor, até qual geração Ele visita a iniquidade dos pais?",
+        "options": [
+          "Até a terceira e quarta geração",
+          "Até a sétima geração",
+          "Até a décima geração",
+          "Até a segunda geração"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-34-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Eis que eu faço um {0}; farei diante de todo o teu povo maravilhas",
+        "blanks": [
+          "convênio"
+        ],
+        "distractors": [
+          "juízo",
+          "milagre",
+          "sacrifício"
+        ]
+      },
+      {
+        "id": "ex-34-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "pois o nome do Senhor é {0}; Deus zeloso é ele",
+        "blanks": [
+          "Zeloso"
+        ],
+        "distractors": [
+          "Santo",
+          "Eterno",
+          "Justo"
+        ]
+      },
+      {
+        "id": "ex-34-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "ao tempo apontado do mês de {0}, porque no mês de Abibe saíste do Egito",
+        "blanks": [
+          "Abibe"
+        ],
+        "distractors": [
+          "Sivã",
+          "Nisã",
+          "Tisri"
+        ]
+      },
+      {
+        "id": "ex-34-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Quantos dias trabalharás antes de descansar no sétimo, segundo o versículo 21?",
+        "options": [
+          "Seis dias",
+          "Sete dias",
+          "Cinco dias",
+          "Três dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-34-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Três vezes no ano todos os vossos homens aparecerão perante o Senhor Deus, o Deus de {0}",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Judá",
+          "Efraim",
+          "Egito"
+        ]
+      },
+      {
+        "id": "ex-34-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "e escreveu nas tábuas as palavras do convênio, os dez {0}",
+        "blanks": [
+          "mandamentos"
+        ],
+        "distractors": [
+          "estatutos",
+          "preceitos",
+          "testemunhos"
+        ]
+      },
+      {
+        "id": "ex-34-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "O rosto resplandecente",
+        "text": "Ao descer do Sinai, a pele do rosto de Moisés brilhava por ter falado com o Senhor; foi por isso que ele passou a usar um véu diante do povo."
+      },
+      {
+        "id": "ex-34-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "e tinha posto um {0} sobre o seu rosto",
+        "blanks": [
+          "véu"
+        ],
+        "distractors": [
+          "manto",
+          "sinal",
+          "selo"
+        ]
+      }
+    ],
+    "35": [
+      {
+        "id": "ex-35-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O sábado antes do trabalho",
+        "text": "Antes de mandar construir o tabernáculo, Moisés reforça a guarda do sábado: nem mesmo a obra sagrada justifica quebrar o dia de repouso."
+      },
+      {
+        "id": "ex-35-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "mas o {0} dia vos será santo, o sábado do repouso ao Senhor",
+        "blanks": [
+          "sétimo"
+        ],
+        "distractors": [
+          "primeiro",
+          "terceiro",
+          "sexto"
+        ]
+      },
+      {
+        "id": "ex-35-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "E pedras de ônix, e pedras de {0}, para o éfode e para o peitoral.",
+        "blanks": [
+          "engaste"
+        ],
+        "distractors": [
+          "bronze",
+          "prata",
+          "acácia"
+        ]
+      },
+      {
+        "id": "ex-35-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "A arca e as suas varas, o {0} e o véu da cortina,",
+        "blanks": [
+          "propiciatório"
+        ],
+        "distractors": [
+          "candelabro",
+          "tabernáculo",
+          "peitoral"
+        ]
+      },
+      {
+        "id": "ex-35-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Segundo o versículo 21, quem trouxe a oferta alçada ao Senhor para a obra da tenda?",
+        "options": [
+          "Todo aquele cujo coração o moveu e cujo espírito o impeliu",
+          "Apenas os sacerdotes da tribo de Levi",
+          "Somente os príncipes das tribos",
+          "Apenas os homens com mais de cinquenta anos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-35-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "trouxeram fivelas, e pendentes, e {0}, e braceletes, todo objeto de ouro",
+        "blanks": [
+          "anéis"
+        ],
+        "distractors": [
+          "colunas",
+          "estacas",
+          "cordas"
+        ]
+      },
+      {
+        "id": "ex-35-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "o Senhor chamou por nome Bezaleel, filho de Uri, filho de Hur, da tribo de {0}",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Dã",
+          "Levi",
+          "Benjamim"
+        ]
+      },
+      {
+        "id": "ex-35-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Bezaleel",
+            "right": "Cheio do espírito de Deus para toda obra"
+          },
+          {
+            "left": "Aoliabe",
+            "right": "Filho de Aisamaque, da tribo de Dã"
+          },
+          {
+            "left": "Hur",
+            "right": "Avô de Bezaleel"
+          }
+        ]
+      }
+    ],
+    "36": [
+      {
+        "id": "ex-36-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Quem Moisés chamou para liderar a construção do santuário?",
+        "options": [
+          "Bezalel e Aoliabe",
+          "Aarão e Hur",
+          "Josué e Calebe",
+          "Nadabe e Abiú"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-36-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "O povo traz muito mais do que basta para o serviço da obra que o {0} ordenou que se fizesse.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Faraó",
+          "sacerdote",
+          "anjo"
+        ]
+      },
+      {
+        "id": "ex-36-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Ofertas demais",
+        "text": "Este é um dos raros relatos bíblicos em que um líder precisa pedir ao povo que pare de doar: havia material mais do que suficiente para toda a obra, e ainda sobejava."
+      },
+      {
+        "id": "ex-36-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "fez o tabernáculo de dez cortinas, de linho fino torcido, e de azul, e de púrpura, e de carmesim, com {0}",
+        "blanks": [
+          "querubins"
+        ],
+        "distractors": [
+          "palmeiras",
+          "leões",
+          "estrelas"
+        ]
+      },
+      {
+        "id": "ex-36-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Fez também cortinas de pelos de cabras para a tenda sobre o {0}",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "altar",
+          "santuário",
+          "véu"
+        ]
+      },
+      {
+        "id": "ex-36-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Fez também para a tenda uma coberta de peles de carneiros, tintas de {0}",
+        "blanks": [
+          "vermelho"
+        ],
+        "distractors": [
+          "azul",
+          "púrpura",
+          "branco"
+        ]
+      },
+      {
+        "id": "ex-36-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Também fez tábuas para o tabernáculo, de madeira de {0}, que eram colocadas em pé.",
+        "blanks": [
+          "acácia"
+        ],
+        "distractors": [
+          "cedro",
+          "carvalho",
+          "oliveira"
+        ]
+      },
+      {
+        "id": "ex-36-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "E fez quarenta bases de {0} debaixo das vinte tábuas",
+        "blanks": [
+          "prata"
+        ],
+        "distractors": [
+          "ouro",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "ex-36-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Assim, eram oito tábuas com as suas bases de prata, a saber, dezesseis bases, duas bases debaixo de cada {0}.",
+        "blanks": [
+          "tábua"
+        ],
+        "distractors": [
+          "coluna",
+          "cortina",
+          "barra"
+        ]
+      },
+      {
+        "id": "ex-36-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "E cobriu de {0} as tábuas, e as suas argolas (os suportes das barras) fez de ouro",
+        "blanks": [
+          "ouro"
+        ],
+        "distractors": [
+          "prata",
+          "bronze",
+          "ferro"
+        ]
+      },
+      {
+        "id": "ex-36-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "Depois fez o véu de azul, e de púrpura, e de carmesim, e de linho fino torcido; de obra esmerada o fez com {0}.",
+        "blanks": [
+          "querubins"
+        ],
+        "distractors": [
+          "colunas",
+          "molduras",
+          "colchetes"
+        ]
+      }
+    ],
+    "37": [
+      {
+        "id": "ex-37-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Fez também {0} a arca de madeira de acácia",
+        "blanks": [
+          "Bezalel"
+        ],
+        "distractors": [
+          "Aoliabe",
+          "Moisés",
+          "Arão"
+        ]
+      },
+      {
+        "id": "ex-37-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que os dois querubins de ouro faziam sobre o propiciatório?",
+        "options": [
+          "Estendiam as asas por cima, cobrindo-o, com os rostos voltados um para o outro",
+          "Seguravam as varas usadas para levar a arca",
+          "Sustentavam as sete lâmpadas do candelabro",
+          "Guardavam o azeite santo da unção"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "os seus pratos, e as suas colheres, e as suas {0}, e os seus jarros",
+        "blanks": [
+          "tigelas"
+        ],
+        "distractors": [
+          "lâmpadas",
+          "argolas",
+          "hastes"
+        ]
+      },
+      {
+        "id": "ex-37-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Em que formato eram os copos das hastes do candelabro?",
+        "options": [
+          "De amêndoas",
+          "De romãs",
+          "De lírios",
+          "De uvas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "De um {0} de ouro puro o fez",
+        "blanks": [
+          "talento"
+        ],
+        "distractors": [
+          "côvado",
+          "palmo",
+          "siclo"
+        ]
+      },
+      {
+        "id": "ex-37-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Segundo o versículo 29, de quem era a obra do azeite santo da unção e do incenso aromático?",
+        "options": [
+          "Do perfumista",
+          "Do ourives",
+          "Do tecelão",
+          "Do oleiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-37-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "O propiciatório",
+        "text": "O propiciatório era a tampa de ouro puro que cobria a arca; sobre ele, entre os dois querubins, o Senhor manifestava Sua presença e se comunicava com Israel."
+      }
+    ],
+    "38": [
+      {
+        "id": "ex-38-cur-pt-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Madeira de acácia",
+        "text": "O altar do holocausto era feito de madeira de acácia recoberta de bronze: a acácia, resistente e abundante no deserto do Sinai, foi a madeira usada em quase todos os móveis do tabernáculo."
+      },
+      {
+        "id": "ex-38-fb-pt-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Fez também o altar do holocausto de madeira de {0}",
+        "blanks": [
+          "acácia"
+        ],
+        "distractors": [
+          "cedro",
+          "oliveira",
+          "carvalho"
+        ]
+      },
+      {
+        "id": "ex-38-mc-pt-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "De que material eram as quatro argolas fundidas para os suportes das varas do altar?",
+        "options": [
+          "Ouro",
+          "Bronze",
+          "Prata",
+          "Ferro"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "ex-38-fb-pt-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Fez também a pia de bronze com a sua base de bronze, dos {0} das mulheres que se ajuntavam",
+        "blanks": [
+          "espelhos"
+        ],
+        "distractors": [
+          "véus",
+          "mantos",
+          "tecidos"
+        ]
+      },
+      {
+        "id": "ex-38-mc-pt-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Do lado oriental do pátio, as cortinas tinham quantos côvados?",
+        "options": [
+          "Cinquenta",
+          "Cem",
+          "Quinze",
+          "Vinte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-38-fb-pt-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "E a cortina da porta do pátio era de obra de bordador, de azul, e de {0}, e de carmesim",
+        "blanks": [
+          "púrpura"
+        ],
+        "distractors": [
+          "prata",
+          "linho",
+          "bronze"
+        ]
+      },
+      {
+        "id": "ex-38-fb-pt-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Fez, pois, {0}, filho de Uri, filho de Hur, da tribo de Judá, tudo quanto o Senhor tinha ordenado a Moisés.",
+        "blanks": [
+          "Bezalel"
+        ],
+        "distractors": [
+          "Aoliabe",
+          "Itamar",
+          "Aarão"
+        ]
+      },
+      {
+        "id": "ex-38-cur-pt-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Bezalel e Aoliabe",
+        "text": "A obra foi liderada por dois artífices: Bezalel, da tribo de Judá, e Aoliabe, da tribo de Dã, descrito como mestre de obra, engenhoso artífice e bordador."
+      },
+      {
+        "id": "ex-38-fb-pt-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E o {0} da oferta foi setenta talentos e dois mil e quatrocentos siclos.",
+        "blanks": [
+          "bronze"
+        ],
+        "distractors": [
+          "ouro",
+          "prata",
+          "ferro"
+        ]
+      }
+    ],
+    "39": [
+      {
+        "id": "ex-39-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Roupas para o serviço sagrado",
+        "text": "Este capítulo descreve a confecção das vestes sacerdotais — feitas de azul, púrpura e carmesim — para Aarão ministrar no santuário."
+      },
+      {
+        "id": "ex-39-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Assim, fez o {0} de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido.",
+        "blanks": [
+          "éfode"
+        ],
+        "distractors": [
+          "peitoral",
+          "manto",
+          "turbante"
+        ]
+      },
+      {
+        "id": "ex-39-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Nas pedras de ônix engastadas em ouro, o que foi gravado?",
+        "options": [
+          "Os nomes dos filhos de Israel",
+          "Os dez mandamentos",
+          "O nome de Moisés",
+          "Os limites das tribos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-39-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Também fizeram para o peitoral cordões de igual medida, de obra trançada, de ouro {0}.",
+        "blanks": [
+          "puro"
+        ],
+        "distractors": [
+          "batido",
+          "lavrado",
+          "fundido"
+        ]
+      },
+      {
+        "id": "ex-39-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "E fez o {0} do éfode de obra tecida, todo de azul.",
+        "blanks": [
+          "manto"
+        ],
+        "distractors": [
+          "peitoral",
+          "turbante",
+          "cinto"
+        ]
+      },
+      {
+        "id": "ex-39-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Fizeram também as campainhas de ouro puro, pondo as campainhas no meio das {0} nas bordas do manto, ao redor, entre as romãs:",
+        "blanks": [
+          "romãs"
+        ],
+        "distractors": [
+          "pedras",
+          "argolas",
+          "franjas"
+        ]
+      },
+      {
+        "id": "ex-39-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Fizeram também a lâmina da coroa de santidade de ouro puro, e nela escreveram o escrito como de gravura de sinete: {0} ao Senhor.",
+        "blanks": [
+          "Santidade"
+        ],
+        "distractors": [
+          "Glória",
+          "Louvor",
+          "Justiça"
+        ]
+      },
+      {
+        "id": "ex-39-mp-37",
+        "type": "match_pairs",
+        "after_verse": 37,
+        "pairs": [
+          {
+            "left": "Arca do testemunho",
+            "right": "Continha as tábuas da lei"
+          },
+          {
+            "left": "Candelabro",
+            "right": "Sustentava as lâmpadas do santuário"
+          },
+          {
+            "left": "Mesa",
+            "right": "Recebia os pães da proposição"
+          }
+        ]
+      },
+      {
+        "id": "ex-39-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "Viu, pois, Moisés toda a obra, e eis que a tinham feito; como o Senhor ordenara, assim a fizeram; então Moisés os {0}.",
+        "blanks": [
+          "abençoou"
+        ],
+        "distractors": [
+          "repreendeu",
+          "ungiu",
+          "convocou"
+        ]
+      }
+    ],
+    "40": [
+      {
+        "id": "ex-40-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Um ano no deserto",
+        "text": "A ordem de levantar o tabernáculo cai no primeiro dia do primeiro mês do segundo ano após a saída do Egito. Quase um ano inteiro se passou entre o Êxodo e a montagem do santuário."
+      },
+      {
+        "id": "ex-40-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "E porás nele a arca do {0}, e cobrirás a arca com o véu.",
+        "blanks": [
+          "testemunho"
+        ],
+        "distractors": [
+          "holocausto",
+          "tabernáculo",
+          "incenso"
+        ]
+      },
+      {
+        "id": "ex-40-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E porás a pia entre a tenda da congregação e o altar, e nela porás {0}.",
+        "blanks": [
+          "água"
+        ],
+        "distractors": [
+          "azeite",
+          "incenso",
+          "sangue"
+        ]
+      },
+      {
+        "id": "ex-40-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Após ungir o altar do holocausto e seus utensílios, como ele é descrito?",
+        "options": [
+          "Santíssimo",
+          "Profano",
+          "Comum",
+          "Vazio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Com que finalidade Aarão seria vestido com as vestes santas e ungido?",
+        "options": [
+          "Para servir como sacerdote",
+          "Para guerrear",
+          "Para julgar o povo",
+          "Para construir a arca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E aconteceu no mês primeiro, no ano segundo, ao primeiro do mês, que o {0} foi levantado.",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "altar",
+          "candelabro",
+          "pátio"
+        ]
+      },
+      {
+        "id": "ex-40-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "E sobre ela pôs em ordem o {0} perante o Senhor, como o Senhor ordenara a Moisés.",
+        "blanks": [
+          "pão"
+        ],
+        "distractors": [
+          "incenso",
+          "azeite",
+          "sangue"
+        ]
+      },
+      {
+        "id": "ex-40-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Para que servia a pia colocada entre a tenda da congregação e o altar?",
+        "options": [
+          "Para se lavar",
+          "Para guardar o pão",
+          "Para queimar incenso",
+          "Para acender as lâmpadas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "ex-40-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "A glória que enche o tabernáculo",
+        "text": "Quando a obra termina, a nuvem cobre a tenda e a glória do Senhor enche o tabernáculo de tal forma que nem Moisés consegue entrar. É o mesmo sinal de presença divina que mais tarde encheria o templo de Salomão."
+      },
+      {
+        "id": "ex-40-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Então a {0} cobriu a tenda da congregação, e a glória do Senhor encheu o tabernáculo;",
+        "blanks": [
+          "nuvem"
+        ],
+        "distractors": [
+          "chuva",
+          "neblina",
+          "fumaça"
+        ]
+      }
+    ]
+  }
+}

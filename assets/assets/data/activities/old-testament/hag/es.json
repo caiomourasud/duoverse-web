@@ -1,0 +1,166 @@
+{
+ "schema_version": 1,
+ "book": "hag",
+ "chapters": {
+  "1": [
+   {
+    "id": "hag-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Un profeta con fecha",
+    "text": "Hageo es uno de los libros más precisamente datados de la Biblia: el versículo 1 fija su primer mensaje en 'el año segundo del rey Darío, en el mes sexto, en el primer día' — hacia el año 520 a.C., entre los exiliados que volvieron a Judá."
+   },
+   {
+    "id": "hag-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué decía el pueblo sobre reedificar la casa de Jehová en Hageo 1:2?",
+    "options": [
+     "No ha llegado aún el tiempo de reedificarla",
+     "Debía reedificarse de inmediato",
+     "Otro pueblo debía reedificarla",
+     "Debía reedificarse en Babilonia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Porque mi {0} está desierta",
+    "blanks": [
+     "casa"
+    ],
+    "distractors": [
+     "viña",
+     "ciudad",
+     "tierra"
+    ]
+   },
+   {
+    "id": "hag-1-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "Sembráis mucho",
+      "right": "y recogéis poco"
+     },
+     {
+      "left": "coméis",
+      "right": "y no quedáis satisfechos"
+     },
+     {
+      "left": "bebéis",
+      "right": "y no os saciáis"
+     }
+    ]
+   },
+   {
+    "id": "hag-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "¿Cómo respondieron Zorobabel, Josué y el pueblo al mensaje de Hageo (Hageo 1:12)?",
+    "options": [
+     "Se burlaron del profeta",
+     "Huyeron a Babilonia",
+     "Obedecieron la voz de Jehová y temieron delante de él",
+     "Exigieron un nuevo rey"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "hag-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "¿Qué orden repite el Señor a Zorobabel, Josué y al pueblo en Hageo 2:4?",
+    "options": [
+     "Esfuérzate y trabajad, porque yo estoy con vosotros",
+     "Dejad la tierra",
+     "Ofreced más sacrificios",
+     "Esperad diez años"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-2-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "y vendrá el {0} de todas las naciones",
+    "blanks": [
+     "Deseado"
+    ],
+    "distractors": [
+     "Rey",
+     "Tesoro",
+     "Ejército"
+    ]
+   },
+   {
+    "id": "hag-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Una gloria mayor prometida",
+    "text": "Aunque los exiliados que volvieron lloraban porque el templo reconstruido parecía 'nada' junto al de Salomón, Hageo 2:9 prometió que la gloria de esta última casa sería mayor que la primera — leído por muchos como algo más allá de la piedra y el oro."
+   },
+   {
+    "id": "hag-2-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Cuando se preguntó a los sacerdotes si la carne consagrada en la falda de la ropa consagraba, al tocarlos, el pan o el vino, ¿qué respondieron (Hageo 2:12)?",
+    "options": [
+     "Sí",
+     "No",
+     "Solo el pan",
+     "Solo el vino"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mp-8",
+    "type": "match_pairs",
+    "after_verse": 8,
+    "pairs": [
+     {
+      "left": "Mía es",
+      "right": "la plata"
+     },
+     {
+      "left": "mío es",
+      "right": "el oro"
+     }
+    ]
+   },
+   {
+    "id": "hag-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "¿Con qué tres cosas dice el Señor que hirió la obra de sus manos en Hageo 2:17?",
+    "options": [
+     "Fuego, diluvio y hambre",
+     "Viento solano, tizoncillo y granizo",
+     "Langostas, sequía y tinieblas",
+     "Espada, peste y viento"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "¿Qué promete el Señor hacer de Zorobabel en Hageo 2:23?",
+    "options": [
+     "Un gran rey",
+     "Un sumo sacerdote",
+     "Como anillo de sellar, porque lo ha escogido",
+     "Un profeta como Hageo"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

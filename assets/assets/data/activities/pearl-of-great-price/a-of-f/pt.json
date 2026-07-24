@@ -1,0 +1,132 @@
+{
+ "schema_version": 1,
+ "book": "a-of-f",
+ "chapters": {
+  "1": [
+   {
+    "id": "a-of-f-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Resposta à pergunta de um jornalista",
+    "text": "As Regras de Fé nasceram como parte da 'Carta a Wentworth', de 1842, resposta de Joseph Smith ao editor de jornal John Wentworth, que perguntou sobre as crenças da Igreja. Joseph encerrou a carta com treze breves declarações de fé."
+   },
+   {
+    "id": "a-of-f-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "Cremos em Deus, o Pai Eterno, e em Seu Filho, {0}, e no Espírito Santo.",
+    "blanks": [
+     "Jesus Cristo"
+    ],
+    "distractors": [
+     "Miguel",
+     "Adão",
+     "Elias"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "Segundo a segunda Regra de Fé, os homens serão punidos por quê?",
+    "options": [
+     "Por seus próprios pecados e não pela transgressão de Adão",
+     "Pelos pecados de seus pais",
+     "Pela transgressão de Adão",
+     "Pelos pecados de todo o mundo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "O que é listado primeiro entre os primeiros princípios e ordenanças do Evangelho (Regra 4)?",
+    "options": [
+     "Batismo por imersão",
+     "Arrependimento",
+     "Fé no Senhor Jesus Cristo",
+     "Imposição de mãos"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "a-of-f-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "A sexta Regra de Fé afirma a crença na mesma organização que existia onde?",
+    "options": [
+     "Na Igreja Primitiva",
+     "Nas cortes de Israel",
+     "Na cidade de Enoque",
+     "No templo de Salomão"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "a-of-f-1-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "também cremos ser o {0} a palavra de Deus.",
+    "blanks": [
+     "Livro de Mórmon"
+    ],
+    "distractors": [
+     "Doutrina e Convênios",
+     "Carta a Wentworth",
+     "Pérola de Grande Valor"
+    ]
+   },
+   {
+    "id": "a-of-f-1-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "A revelação ainda não terminou",
+    "text": "A nona Regra de Fé declara a crença não só em tudo o que Deus 'revelou' e 'revela agora', mas que Ele 'ainda revelará muitas coisas grandiosas e importantes' — afirmação de que a revelação permanece aberta."
+   },
+   {
+    "id": "a-of-f-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo a décima Regra de Fé, onde será construída Sião (a Nova Jerusalém)?",
+    "options": [
+     "Na terra do Egito",
+     "No continente americano",
+     "No monte Sião, em Jerusalém",
+     "Nas ilhas do mar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "a-of-f-1-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "Pretendemos o privilégio de adorar a Deus Todo-Poderoso de acordo com os ditames de nossa própria {0}",
+    "blanks": [
+     "consciência"
+    ],
+    "distractors": [
+     "vontade",
+     "tradição",
+     "compreensão"
+    ]
+   },
+   {
+    "id": "a-of-f-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "A décima terceira Regra de Fé diz que a sua lista de virtudes segue a admoestação de quem?",
+    "options": [
+     "Moisés",
+     "Isaías",
+     "Pedro",
+     "Paulo"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

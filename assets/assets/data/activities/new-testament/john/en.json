@@ -1,0 +1,4327 @@
+{
+  "schema_version": 1,
+  "book": "john",
+  "chapters": {
+    "1": [
+      {
+        "id": "john-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Word",
+        "text": "John opens his gospel by calling Jesus \"the Word\" (Logos), who already was in the beginning with God. No other gospel begins with Christ's pre-mortal existence."
+      },
+      {
+        "id": "john-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "In the beginning was the {0}, and the Word was with God, and the Word was God.",
+        "blanks": [
+          "Word"
+        ],
+        "distractors": [
+          "Lamb",
+          "Light",
+          "Spirit"
+        ]
+      },
+      {
+        "id": "john-1-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, what did the darkness fail to do to the light?",
+        "options": [
+          "Comprehended it not",
+          "Received it not",
+          "Knew it not",
+          "Quenched it not"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "That was the true Light, which lighteth every man that cometh into the {0}.",
+        "blanks": [
+          "world"
+        ],
+        "distractors": [
+          "temple",
+          "wilderness",
+          "heaven"
+        ]
+      },
+      {
+        "id": "john-1-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "According to verse 11, how did his own respond when he came unto his own?",
+        "options": [
+          "Received him not",
+          "Believed on him",
+          "Followed him",
+          "Worshipped him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And the Word was made {0}, and dwelt among us",
+        "blanks": [
+          "flesh"
+        ],
+        "distractors": [
+          "light",
+          "spirit",
+          "man"
+        ]
+      },
+      {
+        "id": "john-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "According to verse 17, by whom came grace and truth?",
+        "options": [
+          "Jesus Christ",
+          "Moses",
+          "John",
+          "Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "but confessed, I am not the {0}.",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "prophet",
+          "Word",
+          "Light"
+        ]
+      },
+      {
+        "id": "john-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "He said, I am the voice of one crying in the {0}",
+        "blanks": [
+          "wilderness"
+        ],
+        "distractors": [
+          "temple",
+          "mountain",
+          "world"
+        ]
+      },
+      {
+        "id": "john-1-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "The shoe's latchet",
+        "text": "Loosing another's sandal strap was the task of the lowliest servant. John the Baptist says he is not worthy even of that before the one coming after him."
+      },
+      {
+        "id": "john-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "whose shoe’s latchet I am not worthy to {0}.",
+        "blanks": [
+          "unloose"
+        ],
+        "distractors": [
+          "bear",
+          "carry",
+          "touch"
+        ]
+      },
+      {
+        "id": "john-1-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Seeing Jesus coming unto him, what did John call him?",
+        "options": [
+          "The Lamb of God, which taketh away the sin of the world",
+          "The prophet of Israel",
+          "The King of the Jews",
+          "The Son of man"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "And I saw, and bare record that this is the {0} of God.",
+        "blanks": [
+          "Son"
+        ],
+        "distractors": [
+          "Lamb",
+          "Word",
+          "Light"
+        ]
+      },
+      {
+        "id": "john-1-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "I saw the Spirit descending from heaven like a {0}, and it abode upon him.",
+        "blanks": [
+          "dove"
+        ],
+        "distractors": [
+          "flame",
+          "cloud",
+          "eagle"
+        ]
+      },
+      {
+        "id": "john-1-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "he saith, Behold the {0} of God!",
+        "blanks": [
+          "Lamb"
+        ],
+        "distractors": [
+          "Son",
+          "Word",
+          "King"
+        ]
+      },
+      {
+        "id": "john-1-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "When Jesus asked \"What seek ye?\", what did the two disciples call him?",
+        "options": [
+          "Rabbi (which is to say, Master)",
+          "Lord",
+          "Prophet",
+          "Lamb"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-1-mp-50",
+        "type": "match_pairs",
+        "after_verse": 50,
+        "pairs": [
+          {
+            "left": "Andrew",
+            "right": "Simon Peter's brother, heard John and followed Jesus"
+          },
+          {
+            "left": "Simon",
+            "right": "Shall be called Cephas (a stone)"
+          },
+          {
+            "left": "Philip",
+            "right": "Was of Bethsaida, the city of Andrew and Peter"
+          },
+          {
+            "left": "Nathanael",
+            "right": "Asked if any good thing could come out of Nazareth"
+          }
+        ]
+      },
+      {
+        "id": "john-1-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "What did Jesus tell Nathanael he would see?",
+        "options": [
+          "Heaven open, and the angels of God ascending and descending upon the Son of man",
+          "The temple rebuilt in three days",
+          "Fire come down from heaven",
+          "Water turned into wine"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "john-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The first sign",
+        "text": "Only John's Gospel records the wedding at Cana. John calls Jesus' miracles \"signs,\" because each one points to who he is."
+      },
+      {
+        "id": "john-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "the mother of Jesus saith unto him, They have no {0}.",
+        "blanks": [
+          "wine"
+        ],
+        "distractors": [
+          "bread",
+          "water",
+          "oil"
+        ]
+      },
+      {
+        "id": "john-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "His mother saith unto the servants, {0} he saith unto you, do it.",
+        "blanks": [
+          "Whatsoever"
+        ],
+        "distractors": [
+          "Whosoever",
+          "Wherever",
+          "Whenever"
+        ]
+      },
+      {
+        "id": "john-2-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What were the six waterpots of stone there for?",
+        "options": [
+          "After the manner of the purifying of the Jews",
+          "For storing the wedding wine",
+          "For washing the bridegroom's feet",
+          "For carrying offerings to the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "the governor of the feast called the {0}",
+        "blanks": [
+          "bridegroom"
+        ],
+        "distractors": [
+          "servant",
+          "disciple",
+          "ruler"
+        ]
+      },
+      {
+        "id": "john-2-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Cana of Galilee",
+            "right": "Where water was made wine"
+          },
+          {
+            "left": "Capernaum",
+            "right": "Where Jesus went down after the wedding"
+          },
+          {
+            "left": "Jerusalem",
+            "right": "Where Jesus cleansed the temple"
+          }
+        ]
+      },
+      {
+        "id": "john-2-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Destroy this temple, and in {0} days I will raise it up.",
+        "blanks": [
+          "three"
+        ],
+        "distractors": [
+          "seven",
+          "forty",
+          "many"
+        ]
+      },
+      {
+        "id": "john-2-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "When Jesus said he would raise up the temple in three days, what temple did he mean?",
+        "options": [
+          "The temple of his body",
+          "The temple in Jerusalem",
+          "The temple of Solomon",
+          "The tabernacle of Moses"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "john-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Who was Nicodemus?",
+        "options": [
+          "A Pharisee and a ruler of the Jews",
+          "A fisherman of Galilee",
+          "A Roman centurion",
+          "A publican of Capernaum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Except a man be born again, he cannot see the {0} of God",
+        "blanks": [
+          "kingdom"
+        ],
+        "distractors": [
+          "Spirit",
+          "Son",
+          "witness"
+        ]
+      },
+      {
+        "id": "john-3-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Born again",
+        "text": "Nicodemus' nighttime talk with Jesus, found only in John's Gospel, is the source of the famous phrase \"born again\" — the spiritual rebirth of water and of the Spirit."
+      },
+      {
+        "id": "john-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "The {0} bloweth where it listeth, and thou hearest the sound thereof",
+        "blanks": [
+          "wind"
+        ],
+        "distractors": [
+          "Spirit",
+          "water",
+          "light"
+        ]
+      },
+      {
+        "id": "john-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What does Jesus compare to the Son of man being lifted up?",
+        "options": [
+          "Moses lifting up the serpent in the wilderness",
+          "The light coming into the world",
+          "The bridegroom who hath the bride",
+          "The wind that bloweth where it listeth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "For God so loved the {0}, that he gave his only begotten Son",
+        "blanks": [
+          "world"
+        ],
+        "distractors": [
+          "heaven",
+          "earth",
+          "kingdom"
+        ]
+      },
+      {
+        "id": "john-3-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "According to verse 19, why did men love darkness rather than light?",
+        "options": [
+          "Because their deeds were evil",
+          "Because they knew not Moses",
+          "Because they were not born of water",
+          "Because the light had not yet come"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-3-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Nicodemus",
+            "right": "Ruler of the Jews who came by night"
+          },
+          {
+            "left": "John",
+            "right": "Baptized in Ænon near to Salim"
+          },
+          {
+            "left": "Moses",
+            "right": "Lifted up the serpent in the wilderness"
+          },
+          {
+            "left": "Jesus",
+            "right": "Baptized in the land of Judæa"
+          }
+        ]
+      },
+      {
+        "id": "john-3-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "He must {0}, but I must decrease.",
+        "blanks": [
+          "increase"
+        ],
+        "distractors": [
+          "reign",
+          "remain",
+          "testify"
+        ]
+      },
+      {
+        "id": "john-3-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "According to verse 36, what hath he that believeth on the Son?",
+        "options": [
+          "Everlasting life",
+          "The wrath of God",
+          "The witness of John",
+          "The Spirit by measure"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "john-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Why go through Samaria",
+        "text": "Most Jews avoided Samaria and took the longer route through the Jordan valley. Saying Jesus \"must needs go through Samaria\" hints at a purpose beyond the shortest road."
+      },
+      {
+        "id": "john-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Then cometh he to a city of Samaria, which is called {0}, near to the parcel of ground that Jacob gave to his son Joseph.",
+        "blanks": [
+          "Sychar"
+        ],
+        "distractors": [
+          "Capernaum",
+          "Cana",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "john-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Where did Jesus, wearied with his journey, sit?",
+        "options": [
+          "On Jacob's well",
+          "At the city gate",
+          "On mount Gerizim",
+          "Under a fig tree"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why was the woman surprised that Jesus asked her for a drink?",
+        "options": [
+          "The Jews have no dealings with the Samaritans",
+          "She had no water",
+          "The well was dry",
+          "It was forbidden to speak at the well"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "thou wouldest have asked of him, and he would have given thee living {0}.",
+        "blanks": [
+          "water"
+        ],
+        "distractors": [
+          "bread",
+          "light",
+          "life"
+        ]
+      },
+      {
+        "id": "john-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "But whosoever drinketh of the water that I shall give him shall never {0}",
+        "blanks": [
+          "thirst"
+        ],
+        "distractors": [
+          "hunger",
+          "perish",
+          "die"
+        ]
+      },
+      {
+        "id": "john-4-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "How many husbands did Jesus say the woman had had?",
+        "options": [
+          "Five",
+          "Three",
+          "Two",
+          "Seven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "God is a {0}: and they that worship him must worship him in spirit and in truth.",
+        "blanks": [
+          "Spirit"
+        ],
+        "distractors": [
+          "light",
+          "love",
+          "truth"
+        ]
+      },
+      {
+        "id": "john-4-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to Jesus, salvation is of whom?",
+        "options": [
+          "The Jews",
+          "The Samaritans",
+          "The prophets",
+          "The Pharisees"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "I know that {0} cometh, which is called Christ",
+        "blanks": [
+          "Messias"
+        ],
+        "distractors": [
+          "Elias",
+          "Moses",
+          "David"
+        ]
+      },
+      {
+        "id": "john-4-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What did the woman tell the men of the city about Jesus?",
+        "options": [
+          "He told me all things that ever I did",
+          "He healed a sick man",
+          "He turned water into wine",
+          "He walked on the sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Jesus saith unto them, My {0} is to do the will of him that sent me, and to finish his work.",
+        "blanks": [
+          "meat"
+        ],
+        "distractors": [
+          "joy",
+          "work",
+          "glory"
+        ]
+      },
+      {
+        "id": "john-4-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "How did Jesus describe the fields when speaking of the harvest?",
+        "options": [
+          "They are white already to harvest",
+          "They are green",
+          "They are dry",
+          "They are in flower"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-mp-42",
+        "type": "match_pairs",
+        "after_verse": 42,
+        "pairs": [
+          {
+            "left": "Samaritans",
+            "right": "Believed on him for the saying of the woman"
+          },
+          {
+            "left": "Two days",
+            "right": "How long Jesus abode with them"
+          },
+          {
+            "left": "Saviour of the world",
+            "right": "How they confessed him"
+          }
+        ]
+      },
+      {
+        "id": "john-4-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "What did the Samaritans call Jesus after hearing him themselves?",
+        "options": [
+          "The Saviour of the world",
+          "A great prophet",
+          "The son of Joseph",
+          "The king of the Jews"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "For Jesus himself testified, that a {0} hath no honour in his own country.",
+        "blanks": [
+          "prophet"
+        ],
+        "distractors": [
+          "master",
+          "king",
+          "servant"
+        ]
+      },
+      {
+        "id": "john-4-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Where was the nobleman's son sick?",
+        "options": [
+          "At Capernaum",
+          "At Cana",
+          "At Sychar",
+          "At Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-4-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "Jesus saith unto him, Go thy way; thy son {0}.",
+        "blanks": [
+          "liveth"
+        ],
+        "distractors": [
+          "sleepeth",
+          "believeth",
+          "cometh"
+        ]
+      },
+      {
+        "id": "john-4-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "At what hour did the fever leave the nobleman's son?",
+        "options": [
+          "The seventh hour",
+          "The sixth hour",
+          "The third hour",
+          "The ninth hour"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "john-5-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And a certain man was there, which had an infirmity {0} and eight years.",
+        "blanks": [
+          "thirty"
+        ],
+        "distractors": [
+          "twenty",
+          "forty",
+          "fifty"
+        ]
+      },
+      {
+        "id": "john-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What did Jesus ask the infirm man at the pool?",
+        "options": [
+          "Wilt thou be made whole?",
+          "Believest thou on me?",
+          "Where is thy faith?",
+          "Who put thee here?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "The pool of Bethesda",
+        "text": "Bethesda lay by the sheep market and had five porches. A great multitude of impotent folk waited there for the moving of the water, believing the first to step in after it was troubled would be made whole."
+      },
+      {
+        "id": "john-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jesus saith unto him, Rise, take up thy {0}, and walk.",
+        "blanks": [
+          "bed"
+        ],
+        "distractors": [
+          "cloak",
+          "staff",
+          "net"
+        ]
+      },
+      {
+        "id": "john-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Why did the Jews persecute Jesus?",
+        "options": [
+          "Because he had done these things on the sabbath day",
+          "Because he entered the temple",
+          "Because he ate with sinners",
+          "Because he did not fast"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "said also that God was his Father, making himself equal with {0}.",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Moses",
+          "Elias",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "john-5-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "The Father",
+            "right": "Loveth the Son and sheweth him all things"
+          },
+          {
+            "left": "The Son",
+            "right": "Can do nothing of himself"
+          },
+          {
+            "left": "The dead",
+            "right": "Are raised up and quickened"
+          },
+          {
+            "left": "All judgment",
+            "right": "Is committed unto the Son"
+          }
+        ]
+      },
+      {
+        "id": "john-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "they that have done good, unto the resurrection of {0}; and they that have done evil, unto the resurrection of damnation.",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "glory",
+          "light",
+          "peace"
+        ]
+      },
+      {
+        "id": "john-5-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "How did Jesus describe John, who bare witness unto the truth?",
+        "options": [
+          "A burning and a shining light",
+          "The Lamb of God",
+          "The voice crying in the wilderness",
+          "The friend of the bridegroom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-5-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Ye have neither heard his {0} at any time, nor seen his shape.",
+        "blanks": [
+          "voice"
+        ],
+        "distractors": [
+          "word",
+          "work",
+          "glory"
+        ]
+      },
+      {
+        "id": "john-5-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Who did Jesus say had written of him?",
+        "options": [
+          "Moses",
+          "Esaias",
+          "David",
+          "Abraham"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "john-6-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Two names, one sea",
+        "text": "John calls it both \"the sea of Galilee\" and \"the sea of Tiberias.\" Tiberias was a city Herod Antipas built on its western shore, so the lake took on a second, Roman-flavored name."
+      },
+      {
+        "id": "john-6-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "he saith unto Philip, Whence shall we buy {0}, that these may eat?",
+        "blanks": [
+          "bread"
+        ],
+        "distractors": [
+          "fishes",
+          "loaves",
+          "manna"
+        ]
+      },
+      {
+        "id": "john-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why did Jesus ask Philip where to buy bread?",
+        "options": [
+          "To prove him, for he himself knew what he would do",
+          "Because he did not know the way",
+          "Because the disciples were hungry",
+          "To send Philip into the city"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "There is a lad here, which hath five barley loaves, and two small {0}: but what are they among so many?",
+        "blanks": [
+          "fishes"
+        ],
+        "distractors": [
+          "coins",
+          "baskets",
+          "lambs"
+        ]
+      },
+      {
+        "id": "john-6-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "About how many men sat down to eat?",
+        "options": [
+          "About five thousand",
+          "About two thousand",
+          "About three hundred",
+          "About twelve thousand"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Five barley loaves",
+            "right": "The bread the lad brought"
+          },
+          {
+            "left": "Two small fishes",
+            "right": "Shared with the loaves"
+          },
+          {
+            "left": "Twelve baskets",
+            "right": "Fragments that remained"
+          },
+          {
+            "left": "Five thousand",
+            "right": "Number of men who ate"
+          }
+        ]
+      },
+      {
+        "id": "john-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "This is of a truth that {0} that should come into the world.",
+        "blanks": [
+          "prophet"
+        ],
+        "distractors": [
+          "king",
+          "shepherd",
+          "teacher"
+        ]
+      },
+      {
+        "id": "john-6-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Refusing a crown",
+        "text": "The crowd wanted to take Jesus by force and make him a king. He withdrew alone into a mountain, refusing an earthly throne built on a free meal."
+      },
+      {
+        "id": "john-6-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "But he saith unto them, It is I; be not {0}.",
+        "blanks": [
+          "afraid"
+        ],
+        "distractors": [
+          "troubled",
+          "ashamed",
+          "moved"
+        ]
+      },
+      {
+        "id": "john-6-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What did the disciples see as they rowed on the troubled sea?",
+        "options": [
+          "Jesus walking on the sea",
+          "A great light in the sky",
+          "Another ship sinking",
+          "An angel above the water"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Why did Jesus say the people sought him?",
+        "options": [
+          "Because they did eat of the loaves, and were filled",
+          "Because they saw him walk on the sea",
+          "Because they wished to be healed",
+          "Because the scribes commanded them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting {0}",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "bread",
+          "joy",
+          "peace"
+        ]
+      },
+      {
+        "id": "john-6-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "This is the work of God, that ye {0} on him whom he hath sent.",
+        "blanks": [
+          "believe"
+        ],
+        "distractors": [
+          "wait",
+          "call",
+          "look"
+        ]
+      },
+      {
+        "id": "john-6-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Bread from heaven",
+        "text": "The people point back to the manna their fathers ate in the desert. Jesus answers that it was not Moses but his Father who gives the true bread from heaven."
+      },
+      {
+        "id": "john-6-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "For the bread of God is he which cometh down from {0}, and giveth life unto the world.",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "above",
+          "Egypt",
+          "Galilee"
+        ]
+      },
+      {
+        "id": "john-6-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "What did Jesus declare himself to be in verse 35?",
+        "options": [
+          "The bread of life",
+          "The light of the world",
+          "The good shepherd",
+          "The true vine"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What does the Father's will promise to those who see the Son and believe?",
+        "options": [
+          "Everlasting life, raised up at the last day",
+          "Bread that never runs out",
+          "A throne in Jerusalem",
+          "Freedom from all labour"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Is not this Jesus, the son of {0}, whose father and mother we know?",
+        "blanks": [
+          "Joseph"
+        ],
+        "distractors": [
+          "David",
+          "Jona",
+          "Simon"
+        ]
+      },
+      {
+        "id": "john-6-cur-43",
+        "type": "curiosity",
+        "after_verse": 43,
+        "title": "Murmuring among themselves",
+        "text": "The Jews stumbled because they knew Jesus' earthly family. Knowing the son of Joseph from Nazareth, they could not accept his claim to have come down from heaven."
+      },
+      {
+        "id": "john-6-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "No man can come to me, except the {0} which hath sent me draw him",
+        "blanks": [
+          "Father"
+        ],
+        "distractors": [
+          "Spirit",
+          "prophet",
+          "Son"
+        ]
+      },
+      {
+        "id": "john-6-mc-47",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "In verse 47, what does Jesus promise to him that believeth on him?",
+        "options": [
+          "Everlasting life",
+          "Daily bread",
+          "A kingdom",
+          "Rest from labour"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "and the bread that I will give is my {0}, which I will give for the life of the world.",
+        "blanks": [
+          "flesh"
+        ],
+        "distractors": [
+          "blood",
+          "spirit",
+          "life"
+        ]
+      },
+      {
+        "id": "john-6-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 53,
+        "question": "How did the Jews react to Jesus saying he would give his flesh?",
+        "options": [
+          "They strove among themselves",
+          "They believed at once",
+          "They took up stones",
+          "They fell silent"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "For my flesh is meat indeed, and my {0} is drink indeed.",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "bread",
+          "water",
+          "spirit"
+        ]
+      },
+      {
+        "id": "john-6-cur-58",
+        "type": "curiosity",
+        "after_verse": 58,
+        "title": "Manna that could not save",
+        "text": "Jesus contrasts himself with the manna: their fathers ate it and still died, but he is the living bread, and whoever eats of this bread shall live for ever."
+      },
+      {
+        "id": "john-6-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "These things said he in the synagogue, as he taught in {0}.",
+        "blanks": [
+          "Capernaum"
+        ],
+        "distractors": [
+          "Galilee",
+          "Tiberias",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "john-6-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "This is an {0} saying",
+        "blanks": [
+          "hard"
+        ],
+        "distractors": [
+          "strange",
+          "new",
+          "dark"
+        ]
+      },
+      {
+        "id": "john-6-fb-63",
+        "type": "fill_blank",
+        "after_verse": 63,
+        "verse": 63,
+        "template": "It is the {0} that quickeneth; the flesh profiteth nothing",
+        "blanks": [
+          "spirit"
+        ],
+        "distractors": [
+          "bread",
+          "word",
+          "Father"
+        ]
+      },
+      {
+        "id": "john-6-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "What did many of his disciples do after the hard saying?",
+        "options": [
+          "Went back, and walked no more with him",
+          "Took up stones against him",
+          "Confessed him to be the Christ",
+          "Followed him into the ship"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-6-fb-68",
+        "type": "fill_blank",
+        "after_verse": 68,
+        "verse": 68,
+        "template": "Lord, to whom shall we go? thou hast the words of eternal {0}.",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "truth",
+          "peace",
+          "joy"
+        ]
+      },
+      {
+        "id": "john-6-mc-71",
+        "type": "multiple_choice",
+        "after_verse": 71,
+        "question": "Of whom did Jesus speak as the one who would betray him?",
+        "options": [
+          "Judas Iscariot the son of Simon",
+          "Simon Peter",
+          "Andrew",
+          "Philip"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "john-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The feast of tabernacles",
+        "text": "The feast of tabernacles celebrated the harvest and Israel's wilderness wanderings. Its water-drawing ceremony forms the backdrop for Jesus' later cry, \"If any man thirst, let him come unto me, and drink.\""
+      },
+      {
+        "id": "john-7-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, what was the attitude of Jesus' own brethren toward him?",
+        "options": [
+          "Neither did they believe in him",
+          "They fully believed in him",
+          "They sought to kill him",
+          "They followed him secretly"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Then Jesus said unto them, My {0} is not yet come: but your time is alway ready.",
+        "blanks": [
+          "time"
+        ],
+        "distractors": [
+          "kingdom",
+          "temple",
+          "way"
+        ]
+      },
+      {
+        "id": "john-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "for some said, He is a good man: others said, Nay; but he deceiveth the {0}.",
+        "blanks": [
+          "people"
+        ],
+        "distractors": [
+          "world",
+          "temple",
+          "sabbath"
+        ]
+      },
+      {
+        "id": "john-7-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to verse 15, what did the Jews marvel at concerning Jesus?",
+        "options": [
+          "How he knew letters, having never learned",
+          "How he healed on the sabbath",
+          "How he multiplied the loaves",
+          "How he walked on the sea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "and said, My {0} is not mine, but his that sent me.",
+        "blanks": [
+          "doctrine"
+        ],
+        "distractors": [
+          "glory",
+          "work",
+          "judgment"
+        ]
+      },
+      {
+        "id": "john-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Judge not according to the {0}, but judge righteous judgment.",
+        "blanks": [
+          "appearance"
+        ],
+        "distractors": [
+          "law",
+          "flesh",
+          "people"
+        ]
+      },
+      {
+        "id": "john-7-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Some of them of Jerusalem",
+            "right": "Ask if this is the one they seek to kill"
+          },
+          {
+            "left": "The rulers",
+            "right": "Do they know that this is the very Christ?"
+          },
+          {
+            "left": "Jesus",
+            "right": "Speaks boldly, and they say nothing to him"
+          }
+        ]
+      },
+      {
+        "id": "john-7-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "but no man laid hands on him, because his {0} was not yet come.",
+        "blanks": [
+          "hour"
+        ],
+        "distractors": [
+          "feast",
+          "glory",
+          "work"
+        ]
+      },
+      {
+        "id": "john-7-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "According to verse 32, who sent officers to take Jesus?",
+        "options": [
+          "The Pharisees and the chief priests",
+          "Jesus' brethren",
+          "The people of Jerusalem",
+          "The dispersed Gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "Jesus stood and cried, saying, If any man {0}, let him come unto me, and drink.",
+        "blanks": [
+          "thirst"
+        ],
+        "distractors": [
+          "hunger",
+          "fear",
+          "believe"
+        ]
+      },
+      {
+        "id": "john-7-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "Rivers of living water",
+        "text": "John explains that in speaking of \"rivers of living water,\" Jesus meant the Spirit, which was not yet given because Jesus was not yet glorified."
+      },
+      {
+        "id": "john-7-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 42,
+        "question": "According to verse 42, from which town does the scripture say Christ would come?",
+        "options": [
+          "Bethlehem",
+          "Galilee",
+          "Nazareth",
+          "Capernaum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "The officers answered, Never man {0} like this man.",
+        "blanks": [
+          "spake"
+        ],
+        "distractors": [
+          "taught",
+          "believed",
+          "cried"
+        ]
+      },
+      {
+        "id": "john-7-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "According to verse 50, who argued that the law judges no man before it hears him?",
+        "options": [
+          "Nicodemus",
+          "Moses",
+          "David",
+          "The officers"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-7-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "Search, and look: for out of Galilee ariseth no {0}.",
+        "blanks": [
+          "prophet"
+        ],
+        "distractors": [
+          "man",
+          "disciple",
+          "priest"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "john-8-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Teaching in the temple",
+        "text": "Early in the morning Jesus returned to the temple and sat down to teach the people. Sitting was the customary posture of a teacher in that day."
+      },
+      {
+        "id": "john-8-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to the scribes and Pharisees, what did the law of Moses command for such an offense?",
+        "options": [
+          "That she should be stoned",
+          "That she be cast out of the temple",
+          "That she pay a tribute",
+          "That she be delivered to the Romans"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "He that is without {0} among you, let him first cast a stone at her.",
+        "blanks": [
+          "sin"
+        ],
+        "distractors": [
+          "guilt",
+          "blame",
+          "fear"
+        ]
+      },
+      {
+        "id": "john-8-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "go, and {0} no more",
+        "blanks": [
+          "sin"
+        ],
+        "distractors": [
+          "weep",
+          "fear",
+          "doubt"
+        ]
+      },
+      {
+        "id": "john-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "I am the {0} of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "truth",
+          "life",
+          "way"
+        ]
+      },
+      {
+        "id": "john-8-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "According to your law, the testimony of how many men is true?",
+        "options": [
+          "Two",
+          "Three",
+          "Seven",
+          "Twelve"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "I am the light",
+            "right": "of the world"
+          },
+          {
+            "left": "Ye judge",
+            "right": "after the flesh"
+          },
+          {
+            "left": "The Father that",
+            "right": "sent me"
+          },
+          {
+            "left": "In the treasury",
+            "right": "as he taught in the temple"
+          }
+        ]
+      },
+      {
+        "id": "john-8-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Ye are from beneath; I am from above: ye are of this world; I am not of this {0}.",
+        "blanks": [
+          "world"
+        ],
+        "distractors": [
+          "temple",
+          "people",
+          "place"
+        ]
+      },
+      {
+        "id": "john-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Jesus said that he does nothing of himself, but speaks as whom had taught him?",
+        "options": [
+          "His Father",
+          "The Pharisees",
+          "Moses",
+          "Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And ye shall know the truth, and the {0} shall make you free.",
+        "blanks": [
+          "truth"
+        ],
+        "distractors": [
+          "word",
+          "light",
+          "law"
+        ]
+      },
+      {
+        "id": "john-8-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "If ye were Abraham’s children, ye would do the {0} of Abraham.",
+        "blanks": [
+          "works"
+        ],
+        "distractors": [
+          "words",
+          "deeds",
+          "laws"
+        ]
+      },
+      {
+        "id": "john-8-cur-44",
+        "type": "curiosity",
+        "after_verse": 44,
+        "title": "The father of lies",
+        "text": "Jesus calls the devil a murderer from the beginning and the \"father\" of lies, saying there is no truth in him. It is one of the most direct descriptions of the adversary in the New Testament."
+      },
+      {
+        "id": "john-8-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "What accusation did the Jews make against Jesus in verse 48?",
+        "options": [
+          "That he was a Samaritan and had a devil",
+          "That he blasphemed the temple",
+          "That he broke the sabbath",
+          "That he befriended the Romans"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "If a man keep my saying, he shall never see {0}.",
+        "blanks": [
+          "death"
+        ],
+        "distractors": [
+          "sorrow",
+          "glory",
+          "judgment"
+        ]
+      },
+      {
+        "id": "john-8-mc-53",
+        "type": "multiple_choice",
+        "after_verse": 53,
+        "question": "Whom did the Jews ask whether Jesus claimed to be greater than?",
+        "options": [
+          "Their father Abraham",
+          "Moses the lawgiver",
+          "King David",
+          "John the Baptist"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-8-fb-56",
+        "type": "fill_blank",
+        "after_verse": 56,
+        "verse": 56,
+        "template": "Your father {0} rejoiced to see my day: and he saw it, and was glad.",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Moses",
+          "David",
+          "Isaac"
+        ]
+      },
+      {
+        "id": "john-8-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "What did Jesus declare about himself in verse 58?",
+        "options": [
+          "Before Abraham was, I am",
+          "I am greater than Moses",
+          "I have seen the prophets die",
+          "I am almost fifty years old"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "john-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Who did sin?",
+        "text": "The disciples assumed every affliction was the punishment of someone's sin. Jesus overturns this: the man's blindness was not a penalty but an occasion for the works of God to be made manifest."
+      },
+      {
+        "id": "john-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "the {0} of God should be made manifest",
+        "blanks": [
+          "works"
+        ],
+        "distractors": [
+          "power",
+          "glory",
+          "mercy"
+        ]
+      },
+      {
+        "id": "john-9-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, what does Jesus call himself as long as he is in the world?",
+        "options": [
+          "The light of the world",
+          "The bread of life",
+          "The good shepherd",
+          "The door of the sheep"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "he spat on the ground, and made clay of the {0}, and he anointed the eyes of the blind man with the clay,",
+        "blanks": [
+          "spittle"
+        ],
+        "distractors": [
+          "water",
+          "dust",
+          "oil"
+        ]
+      },
+      {
+        "id": "john-9-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Go, wash in the pool of {0}, (which is by interpretation, Sent.)",
+        "blanks": [
+          "Siloam"
+        ],
+        "distractors": [
+          "Bethesda",
+          "Jordan",
+          "Aenon"
+        ]
+      },
+      {
+        "id": "john-9-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "In verse 11, how does the man describe what Jesus did to his eyes?",
+        "options": [
+          "Made clay and anointed mine eyes",
+          "Laid his hands upon mine eyes",
+          "Spake, and mine eyes were opened",
+          "Touched mine eyes with water"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And it was the {0} day when Jesus made the clay, and opened his eyes.",
+        "blanks": [
+          "sabbath"
+        ],
+        "distractors": [
+          "feast",
+          "passover",
+          "first"
+        ]
+      },
+      {
+        "id": "john-9-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "When asked again what he thought of the one who opened his eyes, what did the blind man say?",
+        "options": [
+          "He is a prophet",
+          "He is a sinner",
+          "He is the Christ",
+          "I know not"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to verse 22, why did the man's parents fear the Jews?",
+        "options": [
+          "Confessing Jesus as Christ meant being put out of the synagogue",
+          "Working on the sabbath meant being stoned",
+          "Entering the temple meant being arrested",
+          "Healing on the sabbath meant being condemned"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "one thing I know, that, whereas I was blind, now I {0}.",
+        "blanks": [
+          "see"
+        ],
+        "distractors": [
+          "believe",
+          "walk",
+          "hear"
+        ]
+      },
+      {
+        "id": "john-9-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Moses' disciples",
+        "text": "Reviling the healed man, the leaders declare themselves \"Moses' disciples.\" To them, following Moses and following Jesus seemed opposed, though Jesus elsewhere insists that Moses himself wrote of him."
+      },
+      {
+        "id": "john-9-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Since the world began was it not heard that any man opened the eyes of one that was born {0}.",
+        "blanks": [
+          "blind"
+        ],
+        "distractors": [
+          "dead",
+          "lame",
+          "dumb"
+        ]
+      },
+      {
+        "id": "john-9-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "How did the leaders respond to the healed man in verse 34?",
+        "options": [
+          "They cast him out",
+          "They stoned him",
+          "They believed him",
+          "They held their peace"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-9-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "And he said, Lord, I believe. And he {0} him.",
+        "blanks": [
+          "worshipped"
+        ],
+        "distractors": [
+          "followed",
+          "left",
+          "heard"
+        ]
+      },
+      {
+        "id": "john-9-mp-41",
+        "type": "match_pairs",
+        "after_verse": 41,
+        "pairs": [
+          {
+            "left": "Man born blind",
+            "right": "Receives sight and worships Jesus"
+          },
+          {
+            "left": "Siloam",
+            "right": "Pool whose name means Sent"
+          },
+          {
+            "left": "Pharisees",
+            "right": "Say they see, yet their sin remaineth"
+          },
+          {
+            "left": "The man's parents",
+            "right": "Fear being put out of the synagogue"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "john-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The sheepfold",
+        "text": "In Jesus' day several families often kept their flocks in one walled sheepfold with a single gate watched by a porter. Anyone climbing in another way was treated as a thief."
+      },
+      {
+        "id": "john-10-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a {0}.",
+        "blanks": [
+          "robber"
+        ],
+        "distractors": [
+          "hireling",
+          "shepherd",
+          "stranger"
+        ]
+      },
+      {
+        "id": "john-10-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to verse 3, how does the shepherd call his own sheep?",
+        "options": [
+          "By name",
+          "With a staff",
+          "By whistling",
+          "Through the door"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "In verse 7, what does Jesus declare himself to be?",
+        "options": [
+          "The door of the sheep",
+          "The fold of the sheep",
+          "The porter of the sheep",
+          "The wolf of the sheep"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "I am come that they might have life, and that they might have it more {0}.",
+        "blanks": [
+          "abundantly"
+        ],
+        "distractors": [
+          "truly",
+          "freely",
+          "gladly"
+        ]
+      },
+      {
+        "id": "john-10-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "I am the good shepherd: the good shepherd giveth his life for the {0}.",
+        "blanks": [
+          "sheep"
+        ],
+        "distractors": [
+          "world",
+          "flock",
+          "souls"
+        ]
+      },
+      {
+        "id": "john-10-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Good shepherd",
+            "right": "Giveth his life for the sheep"
+          },
+          {
+            "left": "Hireling",
+            "right": "Fleeth and leaveth the sheep"
+          },
+          {
+            "left": "Wolf",
+            "right": "Catcheth and scattereth the sheep"
+          },
+          {
+            "left": "Thief",
+            "right": "Cometh to steal and to kill"
+          }
+        ]
+      },
+      {
+        "id": "john-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "they shall hear my voice; and there shall be one fold, and one {0}.",
+        "blanks": [
+          "shepherd"
+        ],
+        "distractors": [
+          "porter",
+          "hireling",
+          "door"
+        ]
+      },
+      {
+        "id": "john-10-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Can a devil open the eyes of the blind?",
+        "text": "Jesus' words again divided the Jews: some said he had a devil and was mad, while others reasoned that no devil could open the eyes of the blind, echoing the healing of the blind man in the previous chapter."
+      },
+      {
+        "id": "john-10-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to verse 22, which feast was being kept at Jerusalem, and in what season?",
+        "options": [
+          "The feast of the dedication, in winter",
+          "The passover, in spring",
+          "The feast of tabernacles, in autumn",
+          "The feast of pentecost, in summer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And Jesus walked in the temple in {0}’s porch.",
+        "blanks": [
+          "Solomon"
+        ],
+        "distractors": [
+          "David",
+          "Moses",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "john-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "According to verse 28, what does Jesus give his sheep, so that they shall never perish?",
+        "options": [
+          "Eternal life",
+          "A new name",
+          "Bread from heaven",
+          "Living water"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "I and my {0} are one.",
+        "blanks": [
+          "Father"
+        ],
+        "distractors": [
+          "Son",
+          "Christ",
+          "Spirit"
+        ]
+      },
+      {
+        "id": "john-10-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Why did the Jews say they were stoning Jesus?",
+        "options": [
+          "For blasphemy, because being a man he made himself God",
+          "For a good work he had done",
+          "For healing on the sabbath day",
+          "For entering the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-10-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Then the Jews took up {0} again to stone him.",
+        "blanks": [
+          "stones"
+        ],
+        "distractors": [
+          "works",
+          "words",
+          "rods"
+        ]
+      },
+      {
+        "id": "john-10-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "And went away again beyond {0} into the place where John at first baptized; and there he abode.",
+        "blanks": [
+          "Jordan"
+        ],
+        "distractors": [
+          "the temple",
+          "the wilderness",
+          "the sea"
+        ]
+      },
+      {
+        "id": "john-10-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "What did the people say about John in verse 41?",
+        "options": [
+          "John did no miracle, but all things he spake of this man were true",
+          "John did many miracles like this man",
+          "John stoned those who did not believe",
+          "John built Solomon's porch"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "john-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Bethany, the home of Lazarus",
+        "text": "Bethany lay only a couple of miles from Jerusalem, on the slope of the Mount of Olives. It was the home of Lazarus and his sisters, Mary and Martha, where Jesus often stayed."
+      },
+      {
+        "id": "john-11-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "When Jesus heard Lazarus was sick, what did he say about the sickness?",
+        "options": [
+          "It is not unto death, but for the glory of God",
+          "Lazarus would die that very day",
+          "He did not know Lazarus",
+          "The sickness was punishment for sin"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Our friend Lazarus {0}; but I go, that I may awake him out of sleep.",
+        "blanks": [
+          "sleepeth"
+        ],
+        "distractors": [
+          "weepeth",
+          "walketh",
+          "riseth"
+        ]
+      },
+      {
+        "id": "john-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Then said Thomas, which is called {0}, unto his fellow disciples, Let us also go, that we may die with him.",
+        "blanks": [
+          "Didymus"
+        ],
+        "distractors": [
+          "Lazarus",
+          "Caiaphas",
+          "Cephas"
+        ]
+      },
+      {
+        "id": "john-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What did Martha say to Jesus when she met him?",
+        "options": [
+          "Lord, if thou hadst been here, my brother had not died",
+          "Lord, depart from us",
+          "Lord, I do not believe in thee",
+          "Lord, let him sleep on"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Jesus said unto her, I am the {0}, and the life: he that believeth in me, though he were dead, yet shall he live:",
+        "blanks": [
+          "resurrection"
+        ],
+        "distractors": [
+          "light",
+          "door",
+          "truth"
+        ]
+      },
+      {
+        "id": "john-11-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "The shortest verse",
+        "text": "\"Jesus wept\" is traditionally remembered as the shortest verse in the Bible. At his friend's tomb it reveals the deeply human compassion of the Savior."
+      },
+      {
+        "id": "john-11-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "What did Mary do when she came where Jesus was?",
+        "options": [
+          "She fell down at his feet",
+          "She returned home",
+          "She went to the temple",
+          "She called the Pharisees"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "When they saw Jesus weep, what did the Jews say?",
+        "options": [
+          "Behold how he loved him!",
+          "He has no power at all",
+          "Why came he not sooner?",
+          "Let us stone this man"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "And when he thus had spoken, he cried with a loud voice, Lazarus, {0} forth.",
+        "blanks": [
+          "come"
+        ],
+        "distractors": [
+          "sleep",
+          "wait",
+          "believe"
+        ]
+      },
+      {
+        "id": "john-11-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "According to Caiaphas' counsel, what was expedient?",
+        "options": [
+          "That one man should die for the people, that the whole nation perish not",
+          "That Jesus should be set free",
+          "That the Romans should depart",
+          "That all men should believe on Jesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-11-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "went thence unto a country near to the wilderness, into a city called {0}, and there continued with his disciples.",
+        "blanks": [
+          "Ephraim"
+        ],
+        "distractors": [
+          "Bethany",
+          "Jerusalem",
+          "Galilee"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "john-12-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A costly perfume",
+        "text": "Spikenard was imported from the mountains of India, and a pound of it was worth nearly a year's wages. That is why Mary's act of pouring all of it on Jesus' feet was so extravagant."
+      },
+      {
+        "id": "john-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Then took Mary a pound of ointment of {0}, very costly, and anointed the feet of Jesus",
+        "blanks": [
+          "spikenard"
+        ],
+        "distractors": [
+          "frankincense",
+          "myrrh",
+          "balm"
+        ]
+      },
+      {
+        "id": "john-12-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Why did Judas Iscariot say the ointment should have been sold?",
+        "options": [
+          "And given to the poor",
+          "To buy food for the supper",
+          "To pay the temple tax",
+          "To keep against Jesus' burying"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Why did much people of the Jews come to where Jesus was?",
+        "options": [
+          "That they might see Lazarus also, whom he had raised",
+          "To hear the Pharisees teach",
+          "To keep the passover in Jerusalem",
+          "To take up stones against Jesus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of {0} that cometh in the name of the Lord.",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Sion",
+          "Judah",
+          "Bethany"
+        ]
+      },
+      {
+        "id": "john-12-fb-15",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 15,
+        "template": "Fear not, daughter of {0}: behold, thy King cometh, sitting on an ass’s colt.",
+        "blanks": [
+          "Sion"
+        ],
+        "distractors": [
+          "Israel",
+          "Galilee",
+          "Jerusalem"
+        ]
+      },
+      {
+        "id": "john-12-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see {0}.",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "Lazarus",
+          "Andrew",
+          "Philip"
+        ]
+      },
+      {
+        "id": "john-12-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Mary",
+            "right": "Anointed Jesus' feet with spikenard"
+          },
+          {
+            "left": "Judas Iscariot",
+            "right": "Objected to the cost of the ointment"
+          },
+          {
+            "left": "Certain Greeks",
+            "right": "Would see Jesus"
+          },
+          {
+            "left": "Philip",
+            "right": "Was of Bethsaida of Galilee"
+          }
+        ]
+      },
+      {
+        "id": "john-12-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Except a corn of {0} fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.",
+        "blanks": [
+          "wheat"
+        ],
+        "distractors": [
+          "barley",
+          "mustard",
+          "tares"
+        ]
+      },
+      {
+        "id": "john-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "When Jesus asked the Father to glorify his name, what came?",
+        "options": [
+          "A voice from heaven",
+          "An earthquake",
+          "A pillar of fire",
+          "A great rain"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And I, if I be lifted up from the earth, will {0} all men unto me.",
+        "blanks": [
+          "draw"
+        ],
+        "distractors": [
+          "judge",
+          "save",
+          "lose"
+        ]
+      },
+      {
+        "id": "john-12-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "What did Jesus tell the people to do while they had the light?",
+        "options": [
+          "Walk while ye have the light",
+          "Hide from the Pharisees",
+          "Go up to Jerusalem",
+          "Wait for an angel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "That the saying of {0} the prophet might be fulfilled, which he spake, Lord, who hath believed our report?",
+        "blanks": [
+          "Esaias"
+        ],
+        "distractors": [
+          "David",
+          "Moses",
+          "Elias"
+        ]
+      },
+      {
+        "id": "john-12-mc-42",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "Why did many of the chief rulers who believed not confess Jesus?",
+        "options": [
+          "Because of the Pharisees, lest they be put out of the synagogue",
+          "Because they feared the Romans",
+          "Because they understood not his words",
+          "Because they were poor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-12-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "I am come a {0} into the world, that whosoever believeth on me should not abide in darkness.",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "king",
+          "voice",
+          "door"
+        ]
+      },
+      {
+        "id": "john-12-fb-47",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 47,
+        "template": "for I came not to judge the world, but to {0} the world",
+        "blanks": [
+          "save"
+        ],
+        "distractors": [
+          "condemn",
+          "judge",
+          "lose"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "john-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Loved them unto the end",
+        "text": "John 13 begins the long upper-room scene that runs through chapter 17. Unlike the other Gospels, John gives no account of the bread and cup here; instead he records Jesus washing the disciples' feet — a servant's act that frames \"loved them unto the end.\""
+      },
+      {
+        "id": "john-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 4,
+        "template": "He riseth from supper, and laid aside his garments; and took a {0}, and girded himself.",
+        "blanks": [
+          "towel"
+        ],
+        "distractors": [
+          "basin",
+          "robe",
+          "cloth"
+        ]
+      },
+      {
+        "id": "john-13-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What did Jesus begin to do after pouring water into a basin?",
+        "options": [
+          "Wash the disciples' feet",
+          "Break the bread",
+          "Anoint their heads",
+          "Wash their hands"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jesus answered him, If I wash thee not, thou hast no {0} with me.",
+        "blanks": [
+          "part"
+        ],
+        "distractors": [
+          "peace",
+          "life",
+          "place"
+        ]
+      },
+      {
+        "id": "john-13-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "After Jesus warned him, what did Peter ask to have washed besides his feet?",
+        "options": [
+          "His hands and his head",
+          "His shoulders and back",
+          "His eyes and mouth",
+          "His arms and knees"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 14,
+        "template": "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s {0}.",
+        "blanks": [
+          "feet"
+        ],
+        "distractors": [
+          "hands",
+          "burdens",
+          "garments"
+        ]
+      },
+      {
+        "id": "john-13-mp-13",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Wash one another's feet",
+            "right": "What Jesus said his disciples ought to do"
+          },
+          {
+            "left": "Master and Lord",
+            "right": "What the disciples called Jesus"
+          },
+          {
+            "left": "An example",
+            "right": "What Jesus said he had given them"
+          },
+          {
+            "left": "His heel",
+            "right": "What the one eating bread lifted against him"
+          }
+        ]
+      },
+      {
+        "id": "john-13-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Troubled in spirit, what did Jesus testify to the disciples?",
+        "options": [
+          "One of them would betray him",
+          "He would return soon",
+          "He would go to Jerusalem",
+          "He would heal the sick"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Now there was leaning on Jesus’ {0} one of his disciples, whom Jesus loved.",
+        "blanks": [
+          "bosom"
+        ],
+        "distractors": [
+          "shoulder",
+          "side",
+          "knee"
+        ]
+      },
+      {
+        "id": "john-13-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "How did Jesus show which disciple would betray him?",
+        "options": [
+          "He gave Judas a dipped sop",
+          "He pointed with his hand",
+          "He called him by name",
+          "He looked at Peter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "He then having received the sop went immediately out: and it was {0}.",
+        "blanks": [
+          "night"
+        ],
+        "distractors": [
+          "evening",
+          "day",
+          "dawn"
+        ]
+      },
+      {
+        "id": "john-13-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "When Judas had gone out, what did Jesus say was now happening?",
+        "options": [
+          "The Son of man is glorified",
+          "His hour had not yet come",
+          "The disciples would scatter",
+          "The temple would fall"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-13-fb-34",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 34,
+        "template": "A new commandment I give unto you, That ye {0} one another; as I have loved you, that ye also love one another.",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "serve",
+          "forgive",
+          "teach"
+        ]
+      },
+      {
+        "id": "john-13-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "What did Jesus tell Peter, who vowed to lay down his life for him?",
+        "options": [
+          "He would deny Jesus thrice before the cock crew",
+          "He would be greatest among the disciples",
+          "He would walk on the sea",
+          "He would receive the keys of the kingdom"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "john-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The farewell discourse",
+        "text": "This chapter opens Jesus' long farewell discourse at the Last Supper. His words of comfort — “Let not your heart be troubled” — come just as the disciples are about to lose him."
+      },
+      {
+        "id": "john-14-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "In my Father’s house are many {0}: if it were not so, I would have told you.",
+        "blanks": [
+          "mansions"
+        ],
+        "distractors": [
+          "works",
+          "thrones",
+          "gates"
+        ]
+      },
+      {
+        "id": "john-14-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Which disciple told Jesus they knew not whither he went?",
+        "options": [
+          "Thomas",
+          "Philip",
+          "Judas",
+          "Peter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "I am the way, the truth, and the {0}: no man cometh unto the Father, but by me.",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "light",
+          "door",
+          "peace"
+        ]
+      },
+      {
+        "id": "john-14-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Jesus answer when Philip said, “shew us the Father”?",
+        "options": [
+          "He that hath seen me hath seen the Father",
+          "No man cometh to the Father but by me",
+          "The Father is in heaven",
+          "Ye cannot see the Father now"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "the works that I do shall he do also; and greater {0} than these shall he do",
+        "blanks": [
+          "works"
+        ],
+        "distractors": [
+          "signs",
+          "things",
+          "deeds"
+        ]
+      },
+      {
+        "id": "john-14-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to verse 15, how does one show love for Jesus?",
+        "options": [
+          "Keep my commandments",
+          "Ask in my name",
+          "Believe the works",
+          "Abide in the house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Comforter",
+            "right": "Whom the Father would give to abide for ever"
+          },
+          {
+            "left": "Spirit of truth",
+            "right": "Whom the world cannot receive"
+          },
+          {
+            "left": "Father",
+            "right": "Whom Jesus would pray for the disciples"
+          }
+        ]
+      },
+      {
+        "id": "john-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "I will not leave you {0}: I will come to you.",
+        "blanks": [
+          "comfortless"
+        ],
+        "distractors": [
+          "troubled",
+          "weary",
+          "afraid"
+        ]
+      },
+      {
+        "id": "john-14-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "If a man love me, he will keep my {0}: and my Father will love him",
+        "blanks": [
+          "words"
+        ],
+        "distractors": [
+          "sayings",
+          "ways",
+          "house"
+        ]
+      },
+      {
+        "id": "john-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Who is the Comforter the Father would send in Jesus' name?",
+        "options": [
+          "The Holy Ghost",
+          "An angel",
+          "Another prophet",
+          "The Father himself"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-14-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "A different kind of peace",
+        "text": "Jesus sets his peace apart from the world's: “not as the world giveth, give I unto you.” The peace he offers does not depend on outward circumstances, so he repeats the comfort of verse 1."
+      },
+      {
+        "id": "john-14-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "I go unto the Father: for my Father is {0} than I.",
+        "blanks": [
+          "greater"
+        ],
+        "distractors": [
+          "lesser",
+          "nearer",
+          "older"
+        ]
+      },
+      {
+        "id": "john-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What does Jesus call the one who cometh in verse 30?",
+        "options": [
+          "The prince of this world",
+          "The father of lies",
+          "The accuser",
+          "The thief"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "john-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The vine and the husbandman",
+        "text": "Jesus calls himself the \"true vine\" and his Father the \"husbandman\" (the vinedresser). The vine was a familiar image for Israel, often used in scripture for the Lord's own people."
+      },
+      {
+        "id": "john-15-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "I am the true vine, and my Father is the {0}.",
+        "blanks": [
+          "husbandman"
+        ],
+        "distractors": [
+          "shepherd",
+          "branch",
+          "builder"
+        ]
+      },
+      {
+        "id": "john-15-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "In verse 5, what does Jesus say we can do without him?",
+        "options": [
+          "Nothing",
+          "A little",
+          "All things",
+          "No good fruit"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-15-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "he is cast forth as a branch, and is withered; and men gather them, and cast them into the {0}, and they are burned.",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "field",
+          "river",
+          "pit"
+        ]
+      },
+      {
+        "id": "john-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Herein is my Father glorified, that ye bear much {0}; so shall ye be my disciples.",
+        "blanks": [
+          "fruit"
+        ],
+        "distractors": [
+          "love",
+          "bread",
+          "labour"
+        ]
+      },
+      {
+        "id": "john-15-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Joy made full",
+        "text": "Jesus ties keeping his commandments to a joy that remains. He teaches these things so that his own joy might be in his disciples and their joy might be full."
+      },
+      {
+        "id": "john-15-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Greater {0} hath no man than this, that a man lay down his life for his friends.",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "fruit",
+          "gift",
+          "power"
+        ]
+      },
+      {
+        "id": "john-15-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "The vine",
+            "right": "Jesus"
+          },
+          {
+            "left": "The husbandman",
+            "right": "The Father"
+          },
+          {
+            "left": "The branches",
+            "right": "The disciples"
+          },
+          {
+            "left": "The fruit",
+            "right": "What the branch must bear"
+          }
+        ]
+      },
+      {
+        "id": "john-15-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "According to verse 18, if the world hates the disciples, whom did it hate first?",
+        "options": [
+          "Jesus",
+          "The prophets",
+          "The Father",
+          "The Comforter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-15-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "The servant is not greater than his {0}.",
+        "blanks": [
+          "lord"
+        ],
+        "distractors": [
+          "friend",
+          "brother",
+          "master"
+        ]
+      },
+      {
+        "id": "john-15-cur-23",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "Hated without a cause",
+        "text": "Jesus quotes the law to show that the hatred he faces fulfills what was written: \"They hated me without a cause.\" The hostility against him had no just reason."
+      },
+      {
+        "id": "john-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "But when the {0} is come, whom I will send unto you from the Father",
+        "blanks": [
+          "Comforter"
+        ],
+        "distractors": [
+          "husbandman",
+          "lord",
+          "prophet"
+        ]
+      },
+      {
+        "id": "john-15-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "According to verse 27, why would the disciples also bear witness?",
+        "options": [
+          "Because they had been with Jesus from the beginning",
+          "Because they had seen the Father",
+          "Because they had kept the law",
+          "Because they had borne much fruit"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "john-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The farewell discourse continues",
+        "text": "This chapter continues Jesus' final words to the disciples before his death. He warns of coming persecution so that, when the hour comes, they will not be offended."
+      },
+      {
+        "id": "john-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What persecution does Jesus foretell for the disciples?",
+        "options": [
+          "They will be put out of the synagogues",
+          "They will be exiled from Jerusalem",
+          "They will lose their lands",
+          "They will be forbidden to pray"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "because I have said these things unto you, {0} hath filled your heart.",
+        "blanks": [
+          "sorrow"
+        ],
+        "distractors": [
+          "joy",
+          "peace",
+          "fear"
+        ]
+      },
+      {
+        "id": "john-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "for if I go not away, the {0} will not come unto you; but if I depart, I will send him unto you.",
+        "blanks": [
+          "Comforter"
+        ],
+        "distractors": [
+          "Father",
+          "prophet",
+          "Christ"
+        ]
+      },
+      {
+        "id": "john-16-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Of what will the Comforter reprove the world?",
+        "options": [
+          "Of sin, and of righteousness, and of judgment",
+          "Of the law, the temple, and the sabbath",
+          "Of faith, hope, and charity",
+          "Of life, death, and heaven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "The Comforter",
+            "right": "Will reprove the world of sin, righteousness, and judgment"
+          },
+          {
+            "left": "The prince of this world",
+            "right": "Is judged"
+          },
+          {
+            "left": "Jesus",
+            "right": "Goes to the Father so the Comforter may come"
+          }
+        ]
+      },
+      {
+        "id": "john-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "when he, the Spirit of truth, is come, he will guide you into all {0}:",
+        "blanks": [
+          "truth"
+        ],
+        "distractors": [
+          "righteousness",
+          "glory",
+          "works"
+        ]
+      },
+      {
+        "id": "john-16-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "ye shall be sorrowful, but your sorrow shall be turned into {0}.",
+        "blanks": [
+          "joy"
+        ],
+        "distractors": [
+          "peace",
+          "glory",
+          "light"
+        ]
+      },
+      {
+        "id": "john-16-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "The woman in travail",
+        "text": "Jesus likens the disciples' grief to a woman giving birth: the anguish is real, but it is forgotten in the joy of new life. So their sorrow at his leaving would turn to joy at seeing him again."
+      },
+      {
+        "id": "john-16-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "In whose name does Jesus say the disciples should ask the Father?",
+        "options": [
+          "In my name",
+          "In the name of the prophets",
+          "In the name of Moses",
+          "In the name of the angels"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-16-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "For the Father himself {0} you, because ye have loved me, and have believed that I came out from God.",
+        "blanks": [
+          "loveth"
+        ],
+        "distractors": [
+          "sendeth",
+          "judgeth",
+          "heareth"
+        ]
+      },
+      {
+        "id": "john-16-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "In the world ye shall have {0}: but be of good cheer; I have overcome the world.",
+        "blanks": [
+          "tribulation"
+        ],
+        "distractors": [
+          "sorrow",
+          "judgment",
+          "darkness"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "john-17-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The intercessory prayer",
+        "text": "John 17 is the longest recorded prayer of Jesus, offered on the eve of his death. It is called the 'intercessory prayer' because in it he intercedes for his disciples and for all who would later believe."
+      },
+      {
+        "id": "john-17-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to verse 3, what is life eternal?",
+        "options": [
+          "To know the only true God, and Jesus Christ",
+          "To keep every commandment of the law",
+          "To be glorified before the world",
+          "To never taste death"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "I have glorified thee on the earth: I have finished the {0} which thou gavest me to do.",
+        "blanks": [
+          "work"
+        ],
+        "distractors": [
+          "word",
+          "glory",
+          "truth"
+        ]
+      },
+      {
+        "id": "john-17-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "For I have given unto them the {0} which thou gavest me; and they have received them",
+        "blanks": [
+          "words"
+        ],
+        "distractors": [
+          "works",
+          "glories",
+          "truths"
+        ]
+      },
+      {
+        "id": "john-17-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "In verse 11, what does Jesus ask the Holy Father to do for the disciples?",
+        "options": [
+          "Keep them through his name, that they may be one",
+          "Take them immediately out of the world",
+          "Give them power over all flesh",
+          "Make them greater than the prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "According to verse 12, who was lost among those the Father had given Jesus?",
+        "options": [
+          "The son of perdition",
+          "None of them",
+          "One of the twelve, except Peter",
+          "The whole world"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the {0}.",
+        "blanks": [
+          "evil"
+        ],
+        "distractors": [
+          "world",
+          "sin",
+          "enemy"
+        ]
+      },
+      {
+        "id": "john-17-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Sanctify them through thy truth: thy word is {0}.",
+        "blanks": [
+          "truth"
+        ],
+        "distractors": [
+          "glory",
+          "life",
+          "light"
+        ]
+      },
+      {
+        "id": "john-17-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "\"be one\"",
+            "right": "The unity Jesus prays for among believers"
+          },
+          {
+            "left": "\"the world may believe\"",
+            "right": "The purpose of that unity"
+          },
+          {
+            "left": "\"thou hast sent me\"",
+            "right": "What the world should believe about the Father"
+          },
+          {
+            "left": "\"in me, and I in thee\"",
+            "right": "The union between the Father and the Son"
+          }
+        ]
+      },
+      {
+        "id": "john-17-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "In verse 24, since when did the Father love Jesus?",
+        "options": [
+          "Before the foundation of the world",
+          "Since his baptism",
+          "Since the last supper",
+          "Since the beginning of his ministry"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-17-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Declaring the name",
+        "text": "Jesus closes the prayer saying he has declared the Father's name and will declare it still. Throughout the prayer, the theme of the 'name' and of knowing God stands as the very heart of life eternal."
+      }
+    ],
+    "18": [
+      {
+        "id": "john-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The brook Cedron",
+        "text": "Jesus crosses the brook Cedron, a valley east of Jerusalem, to a garden (Gethsemane). The path leads toward the Mount of Olives, the setting of his agony and arrest."
+      },
+      {
+        "id": "john-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "cometh thither with lanterns and torches and {0}.",
+        "blanks": [
+          "weapons"
+        ],
+        "distractors": [
+          "ropes",
+          "lamps",
+          "swords"
+        ]
+      },
+      {
+        "id": "john-18-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "When Jesus said \"I am he,\" what did the band that came to take him do?",
+        "options": [
+          "They went backward and fell to the ground",
+          "They fled into the city",
+          "They knelt to worship him",
+          "They dropped their weapons and prayed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "smote the high priest’s servant, and cut off his right ear. The servant’s name was {0}.",
+        "blanks": [
+          "Malchus"
+        ],
+        "distractors": [
+          "Annas",
+          "Caiaphas",
+          "Barabbas"
+        ]
+      },
+      {
+        "id": "john-18-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Simon Peter",
+            "right": "Drew a sword and smote the servant"
+          },
+          {
+            "left": "Malchus",
+            "right": "Had his right ear cut off"
+          },
+          {
+            "left": "Judas",
+            "right": "Brought the band to the garden"
+          },
+          {
+            "left": "Jesus",
+            "right": "Asked: shall I not drink the cup?"
+          }
+        ]
+      },
+      {
+        "id": "john-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "According to verse 14, what counsel had Caiaphas given the Jews?",
+        "options": [
+          "That one man should die for the people",
+          "That Jesus should be released",
+          "That tribute should be paid to Caesar",
+          "That the temple should be rebuilt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Art not thou also one of this man’s {0}?",
+        "blanks": [
+          "disciples"
+        ],
+        "distractors": [
+          "servants",
+          "friends",
+          "kinsmen"
+        ]
+      },
+      {
+        "id": "john-18-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "the servants and officers stood there, who had made a fire of {0}; for it was cold",
+        "blanks": [
+          "coals"
+        ],
+        "distractors": [
+          "wood",
+          "sticks",
+          "stones"
+        ]
+      },
+      {
+        "id": "john-18-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "I taught openly",
+        "text": "Before the high priest, Jesus notes that he taught in the synagogue and the temple, whither the Jews always resort, and said nothing in secret. His ministry was public, not a hidden plot."
+      },
+      {
+        "id": "john-18-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "If I have spoken evil, bear witness of the {0}: but if well, why smitest thou me?",
+        "blanks": [
+          "evil"
+        ],
+        "distractors": [
+          "good",
+          "truth",
+          "folly"
+        ]
+      },
+      {
+        "id": "john-18-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What happened immediately after Peter denied Jesus the third time?",
+        "options": [
+          "The cock crew",
+          "The high priest seized him",
+          "Jesus rebuked him",
+          "The soldiers led him away"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "called Jesus, and said unto him, Art thou the King of the {0}?",
+        "blanks": [
+          "Jews"
+        ],
+        "distractors": [
+          "Romans",
+          "Prophets",
+          "Priests"
+        ]
+      },
+      {
+        "id": "john-18-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "What question did Pilate ask Jesus after he spoke of bearing witness to the truth?",
+        "options": [
+          "What is truth?",
+          "Whence art thou?",
+          "Who sent thee?",
+          "What hast thou done?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-18-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "Not this man, but Barabbas. Now Barabbas was a {0}.",
+        "blanks": [
+          "robber"
+        ],
+        "distractors": [
+          "priest",
+          "soldier",
+          "prophet"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "john-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The scourging before the cross",
+        "text": "The chapter opens with Pilate scourging Jesus. Roman scourging was a brutal flogging that often preceded crucifixion, and here it marks the beginning of the suffering John narrates with restraint."
+      },
+      {
+        "id": "john-19-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "How did the soldiers mock Jesus as they hailed him?",
+        "options": [
+          "Hail, King of the Jews!",
+          "Hail, Son of God!",
+          "Hail, King of Israel!",
+          "Hail, Lord of the Jews!"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And Pilate saith unto them, Behold the {0}!",
+        "blanks": [
+          "man"
+        ],
+        "distractors": [
+          "King",
+          "Son",
+          "Jew"
+        ]
+      },
+      {
+        "id": "john-19-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "by our law he ought to die, because he made himself the {0} of God.",
+        "blanks": [
+          "Son"
+        ],
+        "distractors": [
+          "King",
+          "prophet",
+          "servant"
+        ]
+      },
+      {
+        "id": "john-19-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Jesus answer Pilate about his power?",
+        "options": [
+          "Thou couldest have no power at all against me, except it were given thee from above",
+          "Thou hast no power over the Jews",
+          "Thy power cometh only from Cæsar",
+          "It is the law that gave thee power over me"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "in a place that is called the Pavement, but in the Hebrew, {0}.",
+        "blanks": [
+          "Gabbatha"
+        ],
+        "distractors": [
+          "Golgotha",
+          "Bethesda",
+          "Siloam"
+        ]
+      },
+      {
+        "id": "john-19-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What did the chief priests answer when Pilate asked, “Shall I crucify your King?”",
+        "options": [
+          "We have no king but Cæsar",
+          "Crucify our King",
+          "Release unto us Barabbas",
+          "We have no law but Cæsar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "into a place called the place of a skull, which is called in the Hebrew {0}:",
+        "blanks": [
+          "Golgotha"
+        ],
+        "distractors": [
+          "Gabbatha",
+          "Bethany",
+          "Cedron"
+        ]
+      },
+      {
+        "id": "john-19-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And the writing was, Jesus of {0} the King of the Jews.",
+        "blanks": [
+          "Nazareth"
+        ],
+        "distractors": [
+          "Galilee",
+          "Bethlehem",
+          "Judaea"
+        ]
+      },
+      {
+        "id": "john-19-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Hebrew",
+            "right": "One of the three languages the title was written in"
+          },
+          {
+            "left": "City",
+            "right": "Was nigh to the place where Jesus was crucified"
+          },
+          {
+            "left": "Title",
+            "right": "What Pilate wrote and put on the cross"
+          }
+        ]
+      },
+      {
+        "id": "john-19-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "The seamless coat",
+        "text": "Jesus' coat was “without seam, woven from the top throughout.” Rather than tear it, the soldiers cast lots for it, unknowingly fulfilling the prophecy of Psalm 22 about parting his garments."
+      },
+      {
+        "id": "john-19-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Why did the soldiers decide not to rend Jesus' coat?",
+        "options": [
+          "So they could cast lots for it, whose it should be",
+          "Because it belonged to Pilate",
+          "Because it was to be returned to Jesus' mother",
+          "Because a priest had claimed it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What did Jesus say to his mother as she stood by the cross with the disciple he loved?",
+        "options": [
+          "Woman, behold thy son!",
+          "Woman, why weepest thou?",
+          "Mother, behold thy King!",
+          "Woman, behold thy Lord!"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "When Jesus therefore had received the vinegar, he said, It is {0}:",
+        "blanks": [
+          "finished"
+        ],
+        "distractors": [
+          "begun",
+          "broken",
+          "lost"
+        ]
+      },
+      {
+        "id": "john-19-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "But one of the soldiers with a {0} pierced his side, and forthwith came there out blood and water.",
+        "blanks": [
+          "spear"
+        ],
+        "distractors": [
+          "sword",
+          "staff",
+          "reed"
+        ]
+      },
+      {
+        "id": "john-19-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Which scripture was fulfilled when they did not break Jesus' legs?",
+        "options": [
+          "A bone of him shall not be broken",
+          "They shall look on him whom they pierced",
+          "They parted my raiment among them",
+          "We have no king but Cæsar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Who besought Pilate to take away the body of Jesus?",
+        "options": [
+          "Joseph of Arimathæa",
+          "Nicodemus",
+          "Simon of Cyrene",
+          "Joseph, husband of Mary"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-19-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "and brought a mixture of {0} and aloes, about an hundred pound weight.",
+        "blanks": [
+          "myrrh"
+        ],
+        "distractors": [
+          "frankincense",
+          "spikenard",
+          "balm"
+        ]
+      },
+      {
+        "id": "john-19-mp-42",
+        "type": "match_pairs",
+        "after_verse": 42,
+        "pairs": [
+          {
+            "left": "Nicodemus",
+            "right": "Brought a mixture of myrrh and aloes"
+          },
+          {
+            "left": "Garden",
+            "right": "The place where the new sepulchre lay"
+          },
+          {
+            "left": "New sepulchre",
+            "right": "Wherein was never man yet laid"
+          }
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "john-20-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The first day of the week",
+        "text": "John records that Mary Magdalene came to the sepulchre early, while it was yet dark, on the first day of the week. This detail marks the morning of the resurrection — the reason Christians came to gather on Sundays."
+      },
+      {
+        "id": "john-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the {0}, and seeth the stone taken away from the sepulchre.",
+        "blanks": [
+          "sepulchre"
+        ],
+        "distractors": [
+          "temple",
+          "garden",
+          "mountain"
+        ]
+      },
+      {
+        "id": "john-20-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Who came first to the sepulchre?",
+        "options": [
+          "The other disciple",
+          "Simon Peter",
+          "Mary Magdalene",
+          "Thomas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And the napkin, that was about his {0}, not lying with the linen clothes, but wrapped together in a place by itself.",
+        "blanks": [
+          "head"
+        ],
+        "distractors": [
+          "hand",
+          "feet",
+          "side"
+        ]
+      },
+      {
+        "id": "john-20-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What did the other disciple do when he went into the sepulchre?",
+        "options": [
+          "He saw, and believed",
+          "He wept aloud",
+          "He fled in fear",
+          "He carried the body away"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "And seeth two angels in {0} sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.",
+        "blanks": [
+          "white"
+        ],
+        "distractors": [
+          "light",
+          "glory",
+          "linen"
+        ]
+      },
+      {
+        "id": "john-20-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "For whom did Mary mistake Jesus near the sepulchre?",
+        "options": [
+          "The gardener",
+          "An angel",
+          "Peter",
+          "A soldier"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "She turned herself, and saith unto him, {0}; which is to say, Master.",
+        "blanks": [
+          "Rabboni"
+        ],
+        "distractors": [
+          "Rabbi",
+          "Messias",
+          "Lord"
+        ]
+      },
+      {
+        "id": "john-20-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "came Jesus and stood in the midst, and saith unto them, {0} be unto you.",
+        "blanks": [
+          "Peace"
+        ],
+        "distractors": [
+          "Grace",
+          "Life",
+          "Glory"
+        ]
+      },
+      {
+        "id": "john-20-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Peace be unto you",
+            "right": "Jesus' greeting to the disciples"
+          },
+          {
+            "left": "Receive ye the Holy Ghost",
+            "right": "What Jesus said as he breathed on them"
+          },
+          {
+            "left": "Mary Magdalene",
+            "right": "The first to see the risen Lord"
+          },
+          {
+            "left": "The other disciple",
+            "right": "Outran Peter to the sepulchre"
+          }
+        ]
+      },
+      {
+        "id": "john-20-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And when he had said this, he breathed on them, and saith unto them, Receive ye the {0} Ghost:",
+        "blanks": [
+          "Holy"
+        ],
+        "distractors": [
+          "Living",
+          "Eternal",
+          "Heavenly"
+        ]
+      },
+      {
+        "id": "john-20-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "By what other name was Thomas, one of the twelve, called?",
+        "options": [
+          "Didymus",
+          "Cephas",
+          "Boanerges",
+          "Iscariot"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-20-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "My Lord and my God",
+        "text": "Thomas' confession, “My Lord and my God,” is the most direct declaration of Jesus' divinity in all of John's gospel, closing the circle opened in the very first verse: “the Word was God.”"
+      },
+      {
+        "id": "john-20-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "blessed are they that have not seen, and yet have {0}.",
+        "blanks": [
+          "believed"
+        ],
+        "distractors": [
+          "followed",
+          "heard",
+          "feared"
+        ]
+      },
+      {
+        "id": "john-20-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "But these are written, that ye might believe that Jesus is the {0}, the Son of God; and that believing ye might have life through his name.",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Lord",
+          "Master",
+          "Word"
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "john-21-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "An epilogue by the sea",
+        "text": "John 21 reads like an epilogue: after the resurrection climax of chapter 20, the gospel returns to Galilee and the sea of Tiberias — where the disciples first followed — to restore Peter and seal the beloved disciple's testimony."
+      },
+      {
+        "id": "john-21-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Which disciple is called “Didymus” when gathered with the others by the sea?",
+        "options": [
+          "Thomas",
+          "Nathanael",
+          "Simon Peter",
+          "Philip"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Cast the net on the right side of the {0}, and ye shall find.",
+        "blanks": [
+          "ship"
+        ],
+        "distractors": [
+          "shore",
+          "net",
+          "sea"
+        ]
+      },
+      {
+        "id": "john-21-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What did Simon Peter do when he heard “It is the Lord”?",
+        "options": [
+          "Cast himself into the sea",
+          "Drew the net alone",
+          "Sat still in the ship",
+          "Ran along the shore"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "drew the net to land full of great fishes, an hundred and fifty and {0}",
+        "blanks": [
+          "three"
+        ],
+        "distractors": [
+          "four",
+          "two",
+          "twelve"
+        ]
+      },
+      {
+        "id": "john-21-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Simon Peter",
+            "right": "Asked three times by Jesus, “Lovest thou me?”"
+          },
+          {
+            "left": "Thomas",
+            "right": "The disciple called Didymus"
+          },
+          {
+            "left": "Nathanael",
+            "right": "He of Cana in Galilee"
+          },
+          {
+            "left": "Sons of Zebedee",
+            "right": "Fishermen also present that morning"
+          }
+        ]
+      },
+      {
+        "id": "john-21-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "He saith unto him, Feed my {0}.",
+        "blanks": [
+          "sheep"
+        ],
+        "distractors": [
+          "lambs",
+          "flock",
+          "fishes"
+        ]
+      },
+      {
+        "id": "john-21-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Foretelling Peter's death, Jesus said that when he was old, another would do what?",
+        "options": [
+          "Gird him and carry him",
+          "Hand him the net",
+          "Follow him to the sea",
+          "Bring him bread"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "john-21-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What did Jesus answer when Peter asked about the beloved disciple?",
+        "options": [
+          "If I will that he tarry till I come, what is that to thee?",
+          "He shall never die",
+          "Follow thou him also",
+          "He shall feed the sheep"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

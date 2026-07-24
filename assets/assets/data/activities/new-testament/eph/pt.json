@@ -1,0 +1,756 @@
+{
+  "schema_version": 1,
+  "book": "eph",
+  "chapters": {
+    "1": [
+      {
+        "id": "eph-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma carta circular",
+        "text": "Muitos estudiosos creem que Efésios não foi dirigida só a Éfeso, mas que circulava entre várias igrejas da Ásia Menor, o que explica seu tom geral e abrangente."
+      },
+      {
+        "id": "eph-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Com que tipo de bênçãos Paulo diz que Deus nos abençoou em Cristo?",
+        "options": [
+          "Bênçãos materiais",
+          "Bênçãos espirituais nos lugares celestiais",
+          "Bênçãos temporais na terra",
+          "Bênçãos da lei de Moisés"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "eph-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Como nos elegeu nele antes da {0} do mundo, para que fôssemos santos e irrepreensíveis diante dele em caridade;",
+        "blanks": [
+          "fundação"
+        ],
+        "distractors": [
+          "redenção",
+          "glória",
+          "promessa"
+        ]
+      },
+      {
+        "id": "eph-1-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Adoção",
+            "right": "Tornar-se filhos de Deus por Jesus Cristo"
+          },
+          {
+            "left": "Redenção",
+            "right": "Resgate pelo sangue de Cristo"
+          },
+          {
+            "left": "Mistério",
+            "right": "A vontade de Deus dada a conhecer"
+          },
+          {
+            "left": "Plenitude dos tempos",
+            "right": "Congregar todas as coisas em Cristo"
+          }
+        ]
+      },
+      {
+        "id": "eph-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "no qual também, havendo crido, fostes selados com o {0} Santo da promessa;",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "evangelho",
+          "penhor",
+          "conselho"
+        ]
+      },
+      {
+        "id": "eph-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "O que Paulo ora para que os santos recebam de Deus?",
+        "options": [
+          "O espírito de sabedoria e de revelação",
+          "Riquezas materiais",
+          "Poder sobre os inimigos",
+          "O dom de línguas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-1-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo o versículo 20, o que Deus operou em Cristo?",
+        "options": [
+          "Ressuscitou-o dos mortos e o colocou à sua direita",
+          "Enviou-o à terra",
+          "Selou-o com o Espírito",
+          "Predestinou-o antes do mundo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-1-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "A igreja como corpo de Cristo",
+        "text": "Paulo apresenta uma imagem central de Efésios: Cristo é a cabeça e a igreja é o seu corpo, ideia que ele desenvolve ao longo de toda a carta."
+      }
+    ],
+    "2": [
+      {
+        "id": "eph-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O príncipe da autoridade do ar",
+        "text": "A expressão 'príncipe da autoridade do ar' refere-se a Satanás, retratado como aquele que influencia 'os filhos da desobediência'. Paulo contrasta esse domínio com a nova vida que os crentes recebem em Cristo."
+      },
+      {
+        "id": "eph-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo os versículos 4-7, por que Deus nos vivificou juntamente com Cristo?",
+        "options": [
+          "Por ser riquíssimo em misericórdia e pelo seu grande amor",
+          "Por causa das nossas boas obras",
+          "Porque guardamos a lei dos mandamentos",
+          "Porque éramos por natureza filhos da circuncisão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Porque pela {0} sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus.",
+        "blanks": [
+          "graça"
+        ],
+        "distractors": [
+          "lei",
+          "carne",
+          "ira"
+        ]
+      },
+      {
+        "id": "eph-2-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Vivificou",
+            "right": "Deu vida aos que estavam mortos em pecados"
+          },
+          {
+            "left": "Graça",
+            "right": "Dom de Deus pelo qual somos salvos"
+          },
+          {
+            "left": "Feitura sua",
+            "right": "Criados em Cristo para as boas obras"
+          },
+          {
+            "left": "Gentios",
+            "right": "Os que antes estavam longe de Cristo"
+          }
+        ]
+      },
+      {
+        "id": "eph-2-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Porque ele é a nossa {0}, o qual de ambos os povos fez um; e derrubando a parede de separação que estava no meio,",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "lei",
+          "carne",
+          "promessa"
+        ]
+      },
+      {
+        "id": "eph-2-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Segundo os versículos 19-20, sobre que fundamento são edificados os santos, sendo Cristo a principal pedra da esquina?",
+        "options": [
+          "Sobre os apóstolos e os profetas",
+          "Sobre a lei de Moisés",
+          "Sobre a circuncisão da carne",
+          "Sobre o curso deste mundo"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "eph-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Paulo, o prisioneiro",
+        "text": "Paulo se chama \"o prisioneiro de Jesus Cristo\". A tradição situa a escrita de Efésios durante sua prisão em Roma, por volta de 60–62 d.C."
+      },
+      {
+        "id": "eph-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "O qual noutros séculos não foi manifestado aos filhos dos homens, como agora é revelado pelo {0} aos seus santos apóstolos e profetas;",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "Pai",
+          "evangelho",
+          "mistério"
+        ]
+      },
+      {
+        "id": "eph-3-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, qual é o \"mistério\" agora revelado a respeito dos gentios?",
+        "options": [
+          "Que devem ser circuncidados",
+          "Que são co-herdeiros e do mesmo corpo em Cristo",
+          "Que serão julgados separadamente",
+          "Que receberão uma nova lei"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "eph-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "A mim, o menor de todos os santos, me foi dada esta graça de pregar entre os gentios as riquezas incompreensíveis de {0},",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Deus",
+          "Paulo",
+          "Pedro"
+        ]
+      },
+      {
+        "id": "eph-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Segundo os versículos 11–12, por meio de quê temos ousadia e acesso com confiança?",
+        "options": [
+          "Pela fé nele",
+          "Pelas obras da lei",
+          "Pelos sacrifícios",
+          "Pela linhagem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-3-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Gentios",
+            "right": "Co-herdeiros e do mesmo corpo"
+          },
+          {
+            "left": "Paulo",
+            "right": "Ministro pelo dom da graça"
+          },
+          {
+            "left": "Mistério",
+            "right": "Oculto em Deus desde o princípio"
+          },
+          {
+            "left": "Família nos céus e na terra",
+            "right": "Toma o nome do Pai"
+          }
+        ]
+      },
+      {
+        "id": "eph-3-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Largura, comprimento, altura e profundidade",
+        "text": "Paulo usa quatro dimensões — largura, comprimento, altura e profundidade — para descrever o amor de Cristo, que ele diz exceder todo o entendimento."
+      },
+      {
+        "id": "eph-3-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "E conhecer o amor de Cristo, que excede todo o entendimento, para que sejais cheios de toda a plenitude de {0}.",
+        "blanks": [
+          "Deus"
+        ],
+        "distractors": [
+          "Cristo",
+          "amor",
+          "graça"
+        ]
+      },
+      {
+        "id": "eph-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Como Paulo encerra o capítulo nos versículos 20–21?",
+        "options": [
+          "Com uma advertência aos gentios",
+          "Com uma doxologia de glória a Deus na igreja",
+          "Com uma lista de saudações",
+          "Com instruções sobre o jejum"
+        ],
+        "answer": 1
+      }
+    ],
+    "4": [
+      {
+        "id": "eph-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O preso do Senhor",
+        "text": "Paulo se chama \"o preso do Senhor\" porque escreveu Efésios durante seu encarceramento em Roma, por volta de 60–62 d.C. Ele via sua prisão como parte de seu serviço a Cristo, não como motivo de vergonha."
+      },
+      {
+        "id": "eph-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Um só Senhor, uma só {0}, um só batismo;",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "esperança",
+          "graça",
+          "paz"
+        ]
+      },
+      {
+        "id": "eph-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, como é descrito o \"um só Deus e Pai de todos\"?",
+        "options": [
+          "O qual é sobre todos, e por todos, e em todos",
+          "O qual habita somente nos céus",
+          "O qual é conhecido apenas por alguns",
+          "O qual está distante de todos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Subindo ao alto, levou cativo o cativeiro, e deu {0} aos homens.",
+        "blanks": [
+          "dons"
+        ],
+        "distractors": [
+          "bens",
+          "leis",
+          "louvores"
+        ]
+      },
+      {
+        "id": "eph-4-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Apóstolos",
+            "right": "Testemunhas especiais de Cristo"
+          },
+          {
+            "left": "Profetas",
+            "right": "Recebem e declaram a palavra de Deus"
+          },
+          {
+            "left": "Evangelistas",
+            "right": "Proclamam as boas novas"
+          },
+          {
+            "left": "Pastores e mestres",
+            "right": "Cuidam e instruem o rebanho"
+          }
+        ]
+      },
+      {
+        "id": "eph-4-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Para que fim foram dados os apóstolos, profetas e mestres, segundo o versículo 12?",
+        "options": [
+          "Para o aperfeiçoamento dos santos e a edificação do corpo de Cristo",
+          "Para acumular riquezas",
+          "Para governar as nações",
+          "Para escrever novas leis"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Para que não sejamos mais meninos inconstantes, levados em roda por todo vento de {0}",
+        "blanks": [
+          "doutrina"
+        ],
+        "distractors": [
+          "verdade",
+          "esperança",
+          "humildade"
+        ]
+      },
+      {
+        "id": "eph-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Segundo os versículos 17–19, como vivem os gentios separados de Deus?",
+        "options": [
+          "Entregaram-se à dissolução, cometendo toda impureza",
+          "Em humildade e mansidão",
+          "Guardando a unidade do Espírito",
+          "Em verdadeira justiça e santidade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-4-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "O velho e o novo homem",
+        "text": "A imagem de \"despojar-se do velho homem\" e \"vestir-se do novo homem\" compara a conversão a trocar de roupa: deixar de lado a antiga maneira de viver e revestir-se de uma nova natureza criada segundo Deus."
+      },
+      {
+        "id": "eph-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "E vos vistais do novo homem, que segundo Deus é criado em verdadeira justiça e {0}.",
+        "blanks": [
+          "santidade"
+        ],
+        "distractors": [
+          "mentira",
+          "ira",
+          "vaidade"
+        ]
+      },
+      {
+        "id": "eph-4-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Aquele que furtava, não furte mais; antes, {0}, fazendo com suas mãos o que é bom, para que tenha o que repartir com o que tiver necessidade.",
+        "blanks": [
+          "trabalhe"
+        ],
+        "distractors": [
+          "descanse",
+          "peça",
+          "durma"
+        ]
+      },
+      {
+        "id": "eph-4-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Segundo o versículo 29, que tipo de palavra deve sair da boca dos santos?",
+        "options": [
+          "A que for boa para a edificação e dê graça aos ouvintes",
+          "Qualquer palavra torpe",
+          "Palavras de amargura e ira",
+          "Apenas palavras de elogio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-4-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Antes, sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos {0} em Cristo.",
+        "blanks": [
+          "perdoou"
+        ],
+        "distractors": [
+          "chamou",
+          "selou",
+          "ensinou"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "eph-5-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Sede, pois, {0} de Deus, como filhos amados;",
+        "blanks": [
+          "imitadores"
+        ],
+        "distractors": [
+          "sábios",
+          "participantes",
+          "salvadores"
+        ]
+      },
+      {
+        "id": "eph-5-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cheiro suave",
+        "text": "A expressão \"cheiro suave\" (ou \"aroma agradável\") remete às ofertas do Antigo Testamento que subiam ao céu como sinal de algo aceito por Deus; Paulo aplica essa imagem ao sacrifício de Cristo por nós."
+      },
+      {
+        "id": "eph-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Segundo o versículo 5, o avarento é comparado a quem?",
+        "options": [
+          "A um idólatra",
+          "A um profeta",
+          "A um rei",
+          "A um anjo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Porque dantes éreis trevas, mas agora sois {0} no Senhor; andai como filhos da luz",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "amor",
+          "verdade",
+          "graça"
+        ]
+      },
+      {
+        "id": "eph-5-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Luz",
+            "right": "Torna as coisas visíveis"
+          },
+          {
+            "left": "Trevas",
+            "right": "Obras infrutíferas a serem condenadas"
+          },
+          {
+            "left": "Espírito",
+            "right": "Seu fruto é bondade, justiça e verdade"
+          }
+        ]
+      },
+      {
+        "id": "eph-5-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "E não vos embriagueis com vinho, em que há dissolução, mas enchei-vos do {0};",
+        "blanks": [
+          "Espírito"
+        ],
+        "distractors": [
+          "Senhor",
+          "amor",
+          "vinho"
+        ]
+      },
+      {
+        "id": "eph-5-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "No versículo 23, o marido é comparado a quê em relação à mulher?",
+        "options": [
+          "À cabeça",
+          "Ao corpo",
+          "Aos pés",
+          "Às mãos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-5-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Vós, maridos, amai a vossa própria mulher, como também Cristo amou a {0}, e a si mesmo se entregou por ela,",
+        "blanks": [
+          "igreja"
+        ],
+        "distractors": [
+          "lei",
+          "verdade",
+          "luz"
+        ]
+      },
+      {
+        "id": "eph-5-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Segundo o versículo 31, o homem deixará pai e mãe e se unirá à mulher, e os dois serão o quê?",
+        "options": [
+          "Uma só carne",
+          "Um só espírito",
+          "Uma só casa",
+          "Um só povo"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "eph-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O primeiro mandamento com promessa",
+        "text": "Paulo cita o quinto mandamento (honrar pai e mãe) e o chama de 'o primeiro mandamento com promessa', porque vem acompanhado da bênção de vida longa sobre a terra."
+      },
+      {
+        "id": "eph-6-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Segundo o versículo 4, como os pais devem criar os filhos?",
+        "options": [
+          "Na doutrina e admoestação do Senhor",
+          "Com riquezas e honras",
+          "Provocando-os à ira",
+          "Conforme a tradição dos homens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "eph-6-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Sabendo que cada um receberá do Senhor todo o bem que fizer, seja servo, seja {0}.",
+        "blanks": [
+          "livre"
+        ],
+        "distractors": [
+          "senhor",
+          "filho",
+          "homem"
+        ]
+      },
+      {
+        "id": "eph-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Por que devemos revestir-nos de toda a armadura de Deus?",
+        "options": [
+          "Para conquistar nações",
+          "Para estar firmes contra as astutas ciladas do diabo",
+          "Para agradar aos homens",
+          "Para obter riquezas terrenas"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "eph-6-mp-14",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Couraça",
+            "right": "Justiça"
+          },
+          {
+            "left": "Escudo",
+            "right": "Fé"
+          },
+          {
+            "left": "Capacete",
+            "right": "Salvação"
+          },
+          {
+            "left": "Espada do Espírito",
+            "right": "Palavra de Deus"
+          }
+        ]
+      },
+      {
+        "id": "eph-6-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Tomando sobretudo o escudo da {0}, com o qual podereis apagar todos os dardos inflamados do maligno.",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "justiça",
+          "salvação",
+          "verdade"
+        ]
+      },
+      {
+        "id": "eph-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Como Paulo se descreve no versículo 20?",
+        "options": [
+          "Um rei em seu trono",
+          "Um embaixador em cadeias",
+          "Um soldado livre",
+          "Um mestre da lei"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "eph-6-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Tíquico, o portador da carta",
+        "text": "Tíquico, mencionado no versículo 21, era o irmão amado que Paulo enviou para levar notícias e consolar os santos; ele também foi quem provavelmente entregou esta epístola."
+      },
+      {
+        "id": "eph-6-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Paz seja com os irmãos, e {0} com fé, da parte de Deus Pai e do Senhor Jesus Cristo.",
+        "blanks": [
+          "caridade"
+        ],
+        "distractors": [
+          "graça",
+          "verdade",
+          "salvação"
+        ]
+      }
+    ]
+  }
+}

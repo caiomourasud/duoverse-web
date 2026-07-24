@@ -1,0 +1,205 @@
+{
+ "schema_version": 1,
+ "book": "omni",
+ "chapters": {
+  "1": [
+   {
+    "id": "omni-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Uma confissão rara",
+    "text": "Ômni chama a si mesmo, com franqueza, de ‘homem iníquo’ que não guardara os mandamentos como deveria — uma autoavaliação invulgarmente honesta de um escriba, num livro que passará por cinco escritores diferentes."
+   },
+   {
+    "id": "omni-1-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "a parte mais {0} dos nefitas havia sido destruída",
+    "blanks": [
+     "iníqua"
+    ],
+    "distractors": [
+     "justa",
+     "fiel",
+     "humilde"
+    ]
+   },
+   {
+    "id": "omni-1-mc-6",
+    "after_verse": 6,
+    "type": "multiple_choice",
+    "question": "Que palavra do Senhor Amaron disse haver-se cumprido quando os nefitas iníquos foram destruídos?",
+    "options": [
+     "‘Se não guardardes os meus mandamentos, não prosperareis na terra’",
+     "‘Nunca te deixarei nem te abandonarei’",
+     "‘Minha é a vingança’",
+     "‘Pedi e recebereis’"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "eu, {0}, sou filho de Quêmis",
+    "blanks": [
+     "Abinadom"
+    ],
+    "distractors": [
+     "Amaron",
+     "Amaléqui",
+     "Ômni"
+    ]
+   },
+   {
+    "id": "omni-1-mc-12",
+    "after_verse": 12,
+    "type": "multiple_choice",
+    "question": "Avisado pelo Senhor, para onde Mosias conduziu os que quiseram ouvir?",
+    "options": [
+     "Para fora da terra de Néfi, até a terra de Zaraenla",
+     "De volta pelo mar a Jerusalém",
+     "Para a terra do norte",
+     "Para a terra dos lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "as placas de {0} que continham os registros dos judeus",
+    "blanks": [
+     "latão"
+    ],
+    "distractors": [
+     "ouro",
+     "ferro",
+     "prata"
+    ]
+   },
+   {
+    "id": "omni-1-cur-15",
+    "after_verse": 15,
+    "type": "curiosity",
+    "title": "O povo de Zaraenla",
+    "text": "Amaléqui revela que o povo de Zaraenla deixara Jerusalém quando o rei Zedequias foi levado cativo para a Babilônia (por volta de 587 a.C.) — um segundo grupo vindo de Jerusalém, mais tarde chamado de mulequitas, que havia perdido seus registros e seu idioma."
+   },
+   {
+    "id": "omni-1-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "Mosias foi proclamado seu {0}",
+    "blanks": [
+     "rei"
+    ],
+    "distractors": [
+     "juiz",
+     "profeta",
+     "sacerdote"
+    ]
+   },
+   {
+    "id": "omni-1-mc-20",
+    "after_verse": 20,
+    "type": "multiple_choice",
+    "question": "Como Mosias interpretou as gravações da grande pedra que lhe foi levada?",
+    "options": [
+     "Pelo dom e poder de Deus",
+     "Com as placas de latão",
+     "Perguntando ao povo de Zaraenla",
+     "Usando o idioma dos lamanitas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "habitara com eles pelo espaço de nove {0}",
+    "blanks": [
+     "luas"
+    ],
+    "distractors": [
+     "estrelas",
+     "anos",
+     "semanas"
+    ]
+   },
+   {
+    "id": "omni-1-cur-22",
+    "after_verse": 22,
+    "type": "curiosity",
+    "title": "Um vislumbre dos jareditas",
+    "text": "A pedra gravada falava de Coriântumr, cujos ‘primeiros pais tinham vindo da torre’ quando o Senhor confundiu a língua — a mais antiga referência aos jareditas, cuja história completa é dada depois, no livro de Éter."
+   },
+   {
+    "id": "omni-1-mc-25",
+    "after_verse": 25,
+    "type": "multiple_choice",
+    "question": "Não tendo filhos, a quem Amaléqui entregou as placas?",
+    "options": [
+     "Ao rei Benjamim, um homem justo diante do Senhor",
+     "Ao seu próprio filho mais velho",
+     "Ao escriba Quêmis",
+     "Ao povo de Zaraenla por votação"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "omni-1-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "ofertai-lhe toda a vossa {0}, como dádiva",
+    "blanks": [
+     "alma"
+    ],
+    "distractors": [
+     "vida",
+     "mente",
+     "força"
+    ]
+   },
+   {
+    "id": "omni-1-cur-30",
+    "after_verse": 30,
+    "type": "curiosity",
+    "title": "As placas menores estão repletas",
+    "text": "Amaléqui encerra observando que ‘estas placas estão repletas’ e, sem descendentes, entrega-as ao rei Benjamim. Assim se encerram as placas menores de Néfi — o livro seguinte, Palavras de Mórmon, faz a ponte para o compêndio de Mórmon."
+   },
+   {
+    "id": "omni-1-mp-30",
+    "type": "match_pairs",
+    "after_verse": 30,
+    "pairs": [
+     {
+      "left": "Ômni",
+      "right": "Lutou pelos nefitas; chamou a si mesmo de iníquo"
+     },
+     {
+      "left": "Amaron",
+      "right": "Escreveu sobre a destruição dos nefitas mais iníquos"
+     },
+     {
+      "left": "Quêmis",
+      "right": "Escreveu no mesmo livro que seu irmão"
+     },
+     {
+      "left": "Abinadom",
+      "right": "Não conhecia revelação além do que fora escrito"
+     },
+     {
+      "left": "Amaléqui",
+      "right": "Falou de Mosias e deu as placas ao rei Benjamim"
+     }
+    ]
+   }
+  ]
+ }
+}

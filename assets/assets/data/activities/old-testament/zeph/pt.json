@@ -1,0 +1,214 @@
+{
+ "schema_version": 1,
+ "book": "zeph",
+ "chapters": {
+  "1": [
+   {
+    "id": "zeph-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um profeta no reinado de Josias",
+    "text": "O versículo 1 situa a mensagem de Sofonias 'nos dias de Josias', o rei reformador de Judá — uma geração antes de Jerusalém cair diante da Babilônia, quando ainda havia tempo de voltar atrás."
+   },
+   {
+    "id": "zeph-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Sofonias 1:6, a quem o Senhor exterminará junto com os idólatras?",
+    "options": [
+     "Os que deixam de seguir ao Senhor e não o buscam",
+     "Os pobres da terra",
+     "Os mercadores estrangeiros",
+     "Somente os profetas de Baal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Sofonias 1:10, de onde haverá uma voz de clamor naquele dia?",
+    "options": [
+     "Da porta do templo",
+     "Da porta do peixe",
+     "Do palácio do rei",
+     "Da porta das ovelhas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-1-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Em Sofonias 1:12, como o Senhor esquadrinhará Jerusalém?",
+    "options": [
+     "Com uma espada",
+     "Com fogo",
+     "Com lanternas",
+     "Com um redemoinho"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zeph-1-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Nem a sua prata nem o seu {0} os poderá livrar",
+    "blanks": [
+     "ouro"
+    ],
+    "distractors": [
+     "pão",
+     "cavalos",
+     "muros"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "zeph-2-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Um refúgio para os mansos",
+    "text": "Em meio às advertências, o versículo 3 oferece esperança: os mansos que 'buscam a justiça, buscam a mansidão' poderão ser escondidos no dia da ira do Senhor — o juízo não é a única palavra."
+   },
+   {
+    "id": "zeph-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Sofonias 2:4, quais cidades são nomeadas para a assolação?",
+    "options": [
+     "Tiro e Sidom",
+     "Gaza, Ascalom, Asdode e Ecrom",
+     "Damasco e Samaria",
+     "Babilônia e Nínive"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "certamente Moabe será como {0}, e os filhos de Amom, como Gomorra",
+    "blanks": [
+     "Sodoma"
+    ],
+    "distractors": [
+     "Egito",
+     "Edom",
+     "Babilônia"
+    ]
+   },
+   {
+    "id": "zeph-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Sofonias 2:15, o que a cidade que salta de alegria dizia no seu coração?",
+    "options": [
+     "O Senhor não faz o mal",
+     "Eu sou, e não há outra além de mim",
+     "Os meus deuses me salvaram",
+     "Nenhum inimigo me alcança"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "zeph-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Como Sofonias 3:5 descreve o Senhor no meio da cidade?",
+    "options": [
+     "Ele é justo e não comete iniquidade",
+     "Ele a abandonou",
+     "Ele está calado e distante",
+     "Ele está irado sem medida"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-3-mp-4",
+    "type": "match_pairs",
+    "after_verse": 4,
+    "pairs": [
+     {
+      "left": "Os seus príncipes",
+      "right": "Leões bramantes"
+     },
+     {
+      "left": "Os seus juízes",
+      "right": "Lobos da tarde"
+     },
+     {
+      "left": "Os seus sacerdotes",
+      "right": "Profanaram o santuário"
+     }
+    ]
+   },
+   {
+    "id": "zeph-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Sofonias 3:9, o que o Senhor dará aos povos para que todos invoquem o seu nome?",
+    "options": [
+     "Um novo templo",
+     "Uma linguagem pura",
+     "Uma lei escrita",
+     "Um grande banquete"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Sofonias 3:15, o que o Senhor fez pela filha de Sião?",
+    "options": [
+     "Escondeu dela o seu rosto",
+     "Afastou os seus juízos e exterminou o seu inimigo",
+     "Entregou-a às nações",
+     "Deixou-a sem rei"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "regozijar-se-á em ti com {0}",
+    "blanks": [
+     "júbilo"
+    ],
+    "distractors": [
+     "tristeza",
+     "temor",
+     "silêncio"
+    ]
+   },
+   {
+    "id": "zeph-3-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Sofonias 3:20, o que o Senhor promete fazer do seu povo entre todos os povos da terra?",
+    "options": [
+     "Uma advertência e um provérbio",
+     "Um nome e um louvor",
+     "Um grande exército",
+     "Um remanescente calado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Deus cantando sobre o seu povo",
+    "text": "O versículo 17 traz uma das imagens mais ternas das escrituras: o Senhor 'regozijar-se-á em ti com júbilo'. Um livro de juízo termina com o próprio Deus regozijando-se sobre o remanescente restaurado."
+   }
+  ]
+ }
+}

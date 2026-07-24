@@ -1,0 +1,3059 @@
+{
+  "schema_version": 1,
+  "book": "lev",
+  "chapters": {
+    "1": [
+      {
+        "id": "lev-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A voice from the tent",
+        "text": "The book opens with the Lord calling Moses and speaking out of the tabernacle of the congregation. Unlike Sinai with its fire and thunder, here God instructs His people from the sanctuary just built in the midst of the camp."
+      },
+      {
+        "id": "lev-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "And he shall put his hand upon the {0} of the burnt offering; and it shall be accepted for him to make atonement for him.",
+        "blanks": [
+          "head"
+        ],
+        "distractors": [
+          "leg",
+          "back",
+          "tail"
+        ]
+      },
+      {
+        "id": "lev-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the Lord.",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "ground",
+          "table",
+          "doorway"
+        ]
+      },
+      {
+        "id": "lev-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "When the burnt offering is of fowls, which birds does Leviticus 1 name?",
+        "options": [
+          "Turtledoves or young pigeons",
+          "Ravens or eagles",
+          "Sparrows or quails",
+          "Doves or storks"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "lev-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "An offering without blood",
+        "text": "Unlike the burnt sacrifice of the previous chapter, the meat offering had no blood: it was fine flour, oil, and frankincense, linking the people's farm labor to their worship."
+      },
+      {
+        "id": "lev-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "his offering shall be of fine {0}; and he shall pour oil upon it",
+        "blanks": [
+          "flour"
+        ],
+        "distractors": [
+          "leaven",
+          "honey",
+          "salt"
+        ]
+      },
+      {
+        "id": "lev-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did the priest burn upon the altar from the meat offering?",
+        "options": [
+          "A memorial of it",
+          "All of the blood",
+          "The head of the animal",
+          "The fat of the inwards"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-2-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "for ye shall burn no leaven, nor any {0}, in any offering of the Lord made by fire",
+        "blanks": [
+          "honey"
+        ],
+        "distractors": [
+          "oil",
+          "salt",
+          "flour"
+        ]
+      },
+      {
+        "id": "lev-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "And every oblation of thy meat offering shalt thou season with {0}",
+        "blanks": [
+          "salt"
+        ],
+        "distractors": [
+          "oil",
+          "honey",
+          "leaven"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "lev-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "In Leviticus 3, who sprinkled the blood of the peace offering upon the altar round about?",
+        "options": [
+          "Aaron's sons the priests",
+          "The elders of Israel",
+          "The one bringing the offering",
+          "Moses alone"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-3-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "The fat belonged to the Lord",
+        "text": "In the peace offering the fat covering the inwards and the kidneys was burned on the altar as 'a sweet savour unto the Lord' — the richest portion of the animal was reserved for God rather than eaten."
+      },
+      {
+        "id": "lev-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "If he offer a {0} for his offering",
+        "blanks": [
+          "lamb"
+        ],
+        "distractors": [
+          "calf",
+          "bullock",
+          "dove"
+        ]
+      },
+      {
+        "id": "lev-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "And if his offering be a {0}, then he shall offer it before the Lord",
+        "blanks": [
+          "goat"
+        ],
+        "distractors": [
+          "lamb",
+          "heifer",
+          "pigeon"
+        ]
+      },
+      {
+        "id": "lev-3-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "that ye eat neither fat nor {0}",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "milk",
+          "honey",
+          "oil"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "lev-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sin through ignorance",
+        "text": "Every offering in this chapter addresses sins committed 'through ignorance', that is, unintentionally. The law provided a path of reconciliation even for the unintended fault."
+      },
+      {
+        "id": "lev-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "then let him bring for his sin, which he hath sinned, a young {0} without blemish unto the Lord",
+        "blanks": [
+          "bullock"
+        ],
+        "distractors": [
+          "lamb",
+          "goat",
+          "ram"
+        ]
+      },
+      {
+        "id": "lev-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In the priest's sin offering, what was burned upon the altar?",
+        "options": [
+          "The fat, the kidneys, and the caul above the liver",
+          "The skin and the head of the animal",
+          "All the flesh with the bones",
+          "The legs and the dung"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "the {0} of the congregation shall lay their hands upon the head of the bullock",
+        "blanks": [
+          "elders"
+        ],
+        "distractors": [
+          "priests",
+          "Levites",
+          "rulers"
+        ]
+      },
+      {
+        "id": "lev-4-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What was the result when the priest made an atonement for the congregation?",
+        "options": [
+          "It was forgiven them",
+          "The tabernacle was rebuilt",
+          "They were cast out of the camp",
+          "The offering was returned"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Anointed priest",
+            "right": "Young bullock without blemish"
+          },
+          {
+            "left": "Ruler",
+            "right": "Male kid of the goats"
+          },
+          {
+            "left": "Common person",
+            "right": "Female kid of the goats"
+          }
+        ]
+      },
+      {
+        "id": "lev-4-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What offering was a common person to bring for his sin?",
+        "options": [
+          "A female kid of the goats",
+          "A young bullock",
+          "Two turtledoves",
+          "A blemished ram"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "he shall lay his hand upon the {0} of the sin offering",
+        "blanks": [
+          "head"
+        ],
+        "distractors": [
+          "fat",
+          "flesh",
+          "door"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "lev-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The sin of staying silent",
+        "text": "The chapter's first case condemns a witness who hears an adjuration and stays quiet: withholding testimony is itself treated as guilt the person must bear."
+      },
+      {
+        "id": "lev-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "or the carcase of unclean {0} things",
+        "blanks": [
+          "creeping"
+        ],
+        "distractors": [
+          "clean",
+          "living",
+          "sacred"
+        ]
+      },
+      {
+        "id": "lev-5-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "the tenth part of an ephah of fine {0} for a sin offering",
+        "blanks": [
+          "flour"
+        ],
+        "distractors": [
+          "oil",
+          "blood",
+          "incense"
+        ]
+      },
+      {
+        "id": "lev-5-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "unto the Lord a {0} without blemish out of the flocks",
+        "blanks": [
+          "ram"
+        ],
+        "distractors": [
+          "bullock",
+          "calf",
+          "pigeon"
+        ]
+      },
+      {
+        "id": "lev-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "In verse 18, why does the person still need a trespass offering?",
+        "options": [
+          "He sinned in ignorance and erred without knowing, yet is guilty",
+          "He refused to confess his sin",
+          "He stole the holy things on purpose",
+          "He touched the carcase of an unclean beast"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "lev-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sinning against a neighbour is sinning against the Lord",
+        "text": "Leviticus 6 treats lying, robbery, or withholding a neighbour's deposit as a trespass against the Lord himself, requiring full restitution plus an added fifth, followed by a guilt offering."
+      },
+      {
+        "id": "lev-6-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "and lie unto his {0} in that which was delivered him to keep",
+        "blanks": [
+          "neighbour"
+        ],
+        "distractors": [
+          "brother",
+          "servant",
+          "priest"
+        ]
+      },
+      {
+        "id": "lev-6-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "This is the law of the {0} offering",
+        "blanks": [
+          "burnt"
+        ],
+        "distractors": [
+          "meat",
+          "sin",
+          "trespass"
+        ]
+      },
+      {
+        "id": "lev-6-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "The fire shall ever be burning upon the {0}",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "wood",
+          "ashes",
+          "flesh"
+        ]
+      },
+      {
+        "id": "lev-6-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "It shall be a {0} for ever in your generations",
+        "blanks": [
+          "statute"
+        ],
+        "distractors": [
+          "covenant",
+          "sacrifice",
+          "memorial"
+        ]
+      },
+      {
+        "id": "lev-6-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What does Leviticus 6 say must happen to every meat offering made for the priest himself?",
+        "options": [
+          "It shall be wholly burnt and not eaten",
+          "It shall be eaten in the holy place",
+          "It shall be given to the poor",
+          "It shall be kept until morning"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-6-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "But the earthen {0} wherein it is sodden shall be broken",
+        "blanks": [
+          "vessel"
+        ],
+        "distractors": [
+          "altar",
+          "garment",
+          "offering"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "lev-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Likewise this is the law of the {0} offering: it is most holy.",
+        "blanks": [
+          "trespass"
+        ],
+        "distractors": [
+          "burnt",
+          "peace",
+          "meat"
+        ]
+      },
+      {
+        "id": "lev-7-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "it shall be eaten in the {0} place: it is most holy.",
+        "blanks": [
+          "holy"
+        ],
+        "distractors": [
+          "secret",
+          "open",
+          "common"
+        ]
+      },
+      {
+        "id": "lev-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "What did the worshipper offer with the sacrifice of thanksgiving in verse 12?",
+        "options": [
+          "Unleavened cakes mingled with oil",
+          "Salted fish and herbs",
+          "A measure of wine",
+          "The skin of the burnt offering"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-7-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "The meat had a deadline",
+        "text": "The flesh of a thanksgiving peace offering had to be eaten the same day, with nothing left until morning; leftovers were burned, a reminder that the offering was holy and not ordinary food."
+      },
+      {
+        "id": "lev-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "But the remainder of the flesh of the sacrifice on the third day shall be {0} with fire.",
+        "blanks": [
+          "burnt"
+        ],
+        "distractors": [
+          "eaten",
+          "washed",
+          "sprinkled"
+        ]
+      },
+      {
+        "id": "lev-7-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Ye shall eat no manner of fat, of ox, or of sheep, or of {0}.",
+        "blanks": [
+          "goat"
+        ],
+        "distractors": [
+          "fowl",
+          "fish",
+          "camel"
+        ]
+      },
+      {
+        "id": "lev-7-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "According to verses 26-27, what were the Israelites forbidden to eat in any of their dwellings?",
+        "options": [
+          "Any manner of blood",
+          "Unleavened bread",
+          "The wave breast",
+          "Salt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-7-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "but the breast shall be {0}’s and his sons’.",
+        "blanks": [
+          "Aaron"
+        ],
+        "distractors": [
+          "Moses",
+          "Israel",
+          "Levi"
+        ]
+      },
+      {
+        "id": "lev-7-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Wave breast",
+            "right": "Portion given to the priest as a wave offering"
+          },
+          {
+            "left": "Heave shoulder",
+            "right": "The right shoulder set apart for the priest"
+          },
+          {
+            "left": "The fat",
+            "right": "Burnt upon the altar unto the Lord"
+          }
+        ]
+      },
+      {
+        "id": "lev-7-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Which the Lord commanded Moses in mount {0}, in the day that he commanded the children of Israel",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Horeb",
+          "Nebo",
+          "Carmel"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "lev-8-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did the Lord command Moses to take for the consecration of Aaron and his sons?",
+        "options": [
+          "The garments, the anointing oil, a bullock for sin, two rams, and a basket of unleavened bread",
+          "Gold, silver, and precious stones for the altar",
+          "Twelve oxen and twelve goats, one for each tribe of Israel",
+          "Incense, myrrh, and olive oil to burn before the veil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-8-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Washed with water",
+        "text": "Before being clothed in the sacred garments, Aaron and his sons were washed with water. This washing symbolized the purification required of those who draw near to the altar to serve as priests."
+      },
+      {
+        "id": "lev-8-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "also he put in the breastplate the {0} and the Thummim",
+        "blanks": [
+          "Urim"
+        ],
+        "distractors": [
+          "ephod",
+          "mitre",
+          "girdle"
+        ]
+      },
+      {
+        "id": "lev-8-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "On the head of which animal did Aaron and his sons lay their hands as the sin offering?",
+        "options": [
+          "The bullock",
+          "The ram for the burnt offering",
+          "The lamb",
+          "The he goat"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-8-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Moses burnt the {0}, and the pieces, and the fat",
+        "blanks": [
+          "head"
+        ],
+        "distractors": [
+          "legs",
+          "inwards",
+          "hide"
+        ]
+      },
+      {
+        "id": "lev-8-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Where did Moses put the blood of the ram of consecration on Aaron?",
+        "options": [
+          "On the tip of his right ear, the thumb of his right hand, and the great toe of his right foot",
+          "On his forehead and on both of his palms",
+          "On the hem of his robe and on his sandals",
+          "On the breastplate and on the golden plate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-8-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Sin offering",
+            "right": "The bullock"
+          },
+          {
+            "left": "Burnt offering",
+            "right": "The first ram"
+          },
+          {
+            "left": "Consecration",
+            "right": "The second ram"
+          },
+          {
+            "left": "Wave offering",
+            "right": "The bread of the basket on the fat"
+          }
+        ]
+      },
+      {
+        "id": "lev-8-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "for {0} days shall he consecrate you",
+        "blanks": [
+          "seven"
+        ],
+        "distractors": [
+          "three",
+          "forty",
+          "eight"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "lev-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The eighth day",
+        "text": "The ceremony takes place on \"the eighth day,\" right after the seven days of consecration described in the previous chapter; it was the official debut of Aaron and his sons as Israel's priests."
+      },
+      {
+        "id": "lev-9-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Take thee a young {0} for a sin offering",
+        "blanks": [
+          "calf"
+        ],
+        "distractors": [
+          "lamb",
+          "goat",
+          "ram"
+        ]
+      },
+      {
+        "id": "lev-9-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to verse 6, what does Moses promise will appear when the people do what the Lord commanded?",
+        "options": [
+          "The glory of the Lord",
+          "A pillar of cloud",
+          "A rainbow",
+          "An angel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "he dipped his {0} in the blood",
+        "blanks": [
+          "finger"
+        ],
+        "distractors": [
+          "hand",
+          "foot",
+          "staff"
+        ]
+      },
+      {
+        "id": "lev-9-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "In verse 17, the meat offering Aaron burnt on the altar was offered besides which other sacrifice?",
+        "options": [
+          "The burnt sacrifice of the morning",
+          "The evening incense",
+          "The Passover lamb",
+          "The Sabbath bread"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-9-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "there came a {0} out from before the Lord",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "smoke",
+          "wind",
+          "cloud"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "lev-10-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "and offered {0} fire before the Lord, which he commanded them not",
+        "blanks": [
+          "strange"
+        ],
+        "distractors": [
+          "holy",
+          "clean",
+          "perpetual"
+        ]
+      },
+      {
+        "id": "lev-10-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Fire from the Lord",
+        "text": "The same fire imagery runs through the scene: fire goes out from the Lord and devours Nadab and Abihu for the unauthorized offering they had kindled themselves."
+      },
+      {
+        "id": "lev-10-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "for the anointing {0} of the Lord is upon you",
+        "blanks": [
+          "oil"
+        ],
+        "distractors": [
+          "fire",
+          "bread",
+          "blood"
+        ]
+      },
+      {
+        "id": "lev-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Do not drink wine nor {0} drink, thou, nor thy sons with thee",
+        "blanks": [
+          "strong"
+        ],
+        "distractors": [
+          "holy",
+          "clean",
+          "burnt"
+        ]
+      },
+      {
+        "id": "lev-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "In verse 12, where does Moses tell Aaron and his remaining sons to eat the meat offering?",
+        "options": [
+          "Beside the altar, without leaven",
+          "Outside the camp",
+          "Inside the holy of holies",
+          "At the door of the tabernacle"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And Moses diligently sought the {0} of the sin offering",
+        "blanks": [
+          "goat"
+        ],
+        "distractors": [
+          "lamb",
+          "bullock",
+          "ram"
+        ]
+      },
+      {
+        "id": "lev-10-mp-19",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Nadab and Abihu",
+            "right": "Aaron's sons consumed by fire"
+          },
+          {
+            "left": "Eleazar and Ithamar",
+            "right": "Aaron's sons that were left"
+          },
+          {
+            "left": "Mishael and Elzaphan",
+            "right": "Carried the dead out of the camp"
+          },
+          {
+            "left": "Aaron",
+            "right": "High priest who held his peace"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "lev-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Two signs together",
+        "text": "To be clean an animal had to meet BOTH requirements at once: chew the cud AND part the hoof. That is why the camel, the coney, the hare, and the swine were excluded — each failed one of the two signs."
+      },
+      {
+        "id": "lev-11-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the {0}, among the beasts, that shall ye eat.",
+        "blanks": [
+          "cud"
+        ],
+        "distractors": [
+          "grass",
+          "grain",
+          "hay"
+        ]
+      },
+      {
+        "id": "lev-11-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is {0} to you.",
+        "blanks": [
+          "unclean"
+        ],
+        "distractors": [
+          "clean",
+          "holy",
+          "acceptable"
+        ]
+      },
+      {
+        "id": "lev-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What two signs did a water creature need to be eaten?",
+        "options": [
+          "Fins and scales",
+          "Paws and claws",
+          "Hooves and horns",
+          "Feathers and wings"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "they are an abomination: the eagle, and the ossifrage, and the {0}",
+        "blanks": [
+          "ospray"
+        ],
+        "distractors": [
+          "vulture",
+          "raven",
+          "stork"
+        ]
+      },
+      {
+        "id": "lev-11-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "All fowls that creep, going upon all four, shall be an {0} unto you.",
+        "blanks": [
+          "abomination"
+        ],
+        "distractors": [
+          "offering",
+          "ordinance",
+          "inheritance"
+        ]
+      },
+      {
+        "id": "lev-11-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Which flying creeping things could Israel eat?",
+        "options": [
+          "Those with legs above their feet to leap upon the earth, like the locust",
+          "Those that go upon the belly",
+          "All that have wings",
+          "None of them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Whoever touched the carcase of an unclean beast was unclean for how long?",
+        "options": [
+          "Until the even",
+          "For seven days",
+          "For a month",
+          "Forever"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "among the creeping things that creep upon the earth; the weasel, and the {0}, and the tortoise after his kind,",
+        "blanks": [
+          "mouse"
+        ],
+        "distractors": [
+          "camel",
+          "eagle",
+          "lamb"
+        ]
+      },
+      {
+        "id": "lev-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What was to be done with an earthen vessel an unclean thing fell into?",
+        "options": [
+          "It was to be broken",
+          "It was washed with water",
+          "It was burned on the altar",
+          "It was buried"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "Fountain or pit with water",
+            "right": "Stayed clean"
+          },
+          {
+            "left": "Earthen vessel",
+            "right": "To be broken"
+          },
+          {
+            "left": "Dry sowing seed",
+            "right": "Stayed clean"
+          },
+          {
+            "left": "Seed with water on it",
+            "right": "Became unclean"
+          }
+        ]
+      },
+      {
+        "id": "lev-11-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "ye shall therefore sanctify yourselves, and ye shall be holy; for I am {0}",
+        "blanks": [
+          "holy"
+        ],
+        "distractors": [
+          "faithful",
+          "just",
+          "eternal"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "lev-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to verse 2, for how many days would the woman be unclean after bearing a man child?",
+        "options": [
+          "Seven days",
+          "Thirty days",
+          "Two weeks",
+          "Threescore and six days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-12-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "she shall touch no hallowed thing, nor come into the {0}",
+        "blanks": [
+          "sanctuary"
+        ],
+        "distractors": [
+          "altar",
+          "tabernacle",
+          "temple"
+        ]
+      },
+      {
+        "id": "lev-12-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "she shall bring a {0} of the first year for a burnt offering",
+        "blanks": [
+          "lamb"
+        ],
+        "distractors": [
+          "pigeon",
+          "bullock",
+          "turtledove"
+        ]
+      },
+      {
+        "id": "lev-12-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "The offering of the poor",
+        "text": "Verse 8 lets a woman who could not bring a lamb offer two birds instead. This humbler offering is the one Joseph and Mary presented when they brought the infant Jesus to the temple (Luke 2:24), a sign of the family's modest means."
+      }
+    ],
+    "13": [
+      {
+        "id": "lev-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The priest as examiner",
+        "text": "Under the law of Moses it was the priest, not a physician, who inspected the skin and pronounced a person “clean” or “unclean”; the condition addressed here was first of all ritual and communal, not merely medical."
+      },
+      {
+        "id": "lev-13-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "when the hair in the plague is turned {0}, and the plague in sight be deeper than the skin",
+        "blanks": [
+          "white"
+        ],
+        "distractors": [
+          "black",
+          "yellow",
+          "red"
+        ]
+      },
+      {
+        "id": "lev-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "In Leviticus 13:11, because the man already has an old leprosy and is unclean, what does the priest NOT do?",
+        "options": [
+          "He shall not shut him up",
+          "He shall not wash his clothes",
+          "He shall not shave his head",
+          "He shall not bring him to Aaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "But when raw {0} appeareth in him, he shall be unclean.",
+        "blanks": [
+          "flesh"
+        ],
+        "distractors": [
+          "hair",
+          "skin",
+          "spot"
+        ]
+      },
+      {
+        "id": "lev-13-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "in the skin thereof, was a {0}, and is healed,",
+        "blanks": [
+          "boil"
+        ],
+        "distractors": [
+          "scab",
+          "burning",
+          "scall"
+        ]
+      },
+      {
+        "id": "lev-13-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "in the skin whereof there is a hot {0}",
+        "blanks": [
+          "burning"
+        ],
+        "distractors": [
+          "rising",
+          "boil",
+          "scall"
+        ]
+      },
+      {
+        "id": "lev-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "the priest shall pronounce him unclean: it is a dry {0}, even a leprosy upon the head or beard.",
+        "blanks": [
+          "scall"
+        ],
+        "distractors": [
+          "boil",
+          "scab",
+          "burning"
+        ]
+      },
+      {
+        "id": "lev-13-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "it is a freckled spot that groweth in the skin; he is {0}.",
+        "blanks": [
+          "clean"
+        ],
+        "distractors": [
+          "unclean",
+          "leprous",
+          "defiled"
+        ]
+      },
+      {
+        "id": "lev-13-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "And the man whose {0} is fallen off his head, he is bald; yet is he clean.",
+        "blanks": [
+          "hair"
+        ],
+        "distractors": [
+          "beard",
+          "skin",
+          "flesh"
+        ]
+      },
+      {
+        "id": "lev-13-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "he is unclean: he shall dwell alone; without the {0} shall his habitation be.",
+        "blanks": [
+          "camp"
+        ],
+        "distractors": [
+          "temple",
+          "tabernacle",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-13-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "In Leviticus 13:52, what is done with the garment that has a fretting leprosy in it?",
+        "options": [
+          "It shall be burnt in the fire",
+          "It shall be washed seven times",
+          "It shall be given to the priest",
+          "It shall be carried outside the camp"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-13-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "This is the law of the plague of {0} in a garment of woollen or linen",
+        "blanks": [
+          "leprosy"
+        ],
+        "distractors": [
+          "scall",
+          "boil",
+          "burning"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "lev-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The law of the leper",
+        "text": "Leviticus 14 does not describe a healing: the plague is already healed before the priest acts. The chapter is a ritual that readmits the cleansed person back into the community of Israel."
+      },
+      {
+        "id": "lev-14-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "two birds alive and clean, and cedar wood, and scarlet, and {0}",
+        "blanks": [
+          "hyssop"
+        ],
+        "distractors": [
+          "lamb",
+          "oil",
+          "blood"
+        ]
+      },
+      {
+        "id": "lev-14-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How many times did the priest sprinkle the one to be cleansed from leprosy?",
+        "options": [
+          "Three times",
+          "Five times",
+          "Seven times",
+          "Ten times"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "lev-14-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "on the eighth day he shall take two he {0} without blemish",
+        "blanks": [
+          "lambs"
+        ],
+        "distractors": [
+          "oxen",
+          "goats",
+          "rams"
+        ]
+      },
+      {
+        "id": "lev-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right {0}",
+        "blanks": [
+          "foot"
+        ],
+        "distractors": [
+          "hand",
+          "head",
+          "arm"
+        ]
+      },
+      {
+        "id": "lev-14-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "shall sprinkle of the oil with his finger seven times before the {0}",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "altar",
+          "priest",
+          "people"
+        ]
+      },
+      {
+        "id": "lev-14-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "After the offerings on the altar, what did the priest do for the cleansed person?",
+        "options": [
+          "Made an atonement for him",
+          "Charged a tribute",
+          "Required a fast",
+          "Marked his forehead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-14-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Where did the priest put the blood of the trespass offering on the one to be cleansed?",
+        "options": [
+          "On the right ear, thumb, and great toe",
+          "On the forehead and chest",
+          "On both hands only",
+          "On the soles of the feet"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What did the poor person offer instead of lambs?",
+        "options": [
+          "Two calves",
+          "Turtledoves or young pigeons",
+          "Wheat and wine",
+          "Gold and silver"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "lev-14-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Then the priest shall go out of the house to the door of the house, and shut up the house seven {0}",
+        "blanks": [
+          "days"
+        ],
+        "distractors": [
+          "months",
+          "years",
+          "weeks"
+        ]
+      },
+      {
+        "id": "lev-14-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "If the plague had spread in the house after replastering, what was it called?",
+        "options": [
+          "Clean",
+          "A fretting leprosy in the house",
+          "A healed plague",
+          "A holy house"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "lev-14-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "he shall take to cleanse the house two birds, and cedar wood, and scarlet, and {0}",
+        "blanks": [
+          "hyssop"
+        ],
+        "distractors": [
+          "oil",
+          "flour",
+          "incense"
+        ]
+      },
+      {
+        "id": "lev-14-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "This is the law for all manner of plague of leprosy, and {0}",
+        "blanks": [
+          "scall"
+        ],
+        "distractors": [
+          "fever",
+          "blindness",
+          "famine"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "lev-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Spoken to two men",
+        "text": "Unlike many Leviticus chapters, this one is addressed to both Moses and Aaron the high priest, because it fell to the priests to judge cleanness and to receive the purification offerings."
+      },
+      {
+        "id": "lev-15-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "bathe himself in {0}, and be unclean until the even",
+        "blanks": [
+          "water"
+        ],
+        "distractors": [
+          "oil",
+          "blood",
+          "wine"
+        ]
+      },
+      {
+        "id": "lev-15-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "After washing his clothes and bathing, how long did a person who touched the unclean man remain unclean?",
+        "options": [
+          "Until the even",
+          "Seven days",
+          "Until the eighth day",
+          "One full month"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-15-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "he shall take to him two turtledoves, or two young {0}",
+        "blanks": [
+          "pigeons"
+        ],
+        "distractors": [
+          "lambs",
+          "goats",
+          "bullocks"
+        ]
+      },
+      {
+        "id": "lev-15-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 19,
+        "template": "she shall be put apart seven {0}",
+        "blanks": [
+          "days"
+        ],
+        "distractors": [
+          "weeks",
+          "months",
+          "years"
+        ]
+      },
+      {
+        "id": "lev-15-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Sin offering",
+            "right": "One of the two birds given to the priest"
+          },
+          {
+            "left": "Burnt offering",
+            "right": "The other bird, offered in sacrifice"
+          },
+          {
+            "left": "Running water",
+            "right": "Flowing water used for cleansing"
+          },
+          {
+            "left": "Until the even",
+            "right": "Common length of uncleanness from contact"
+          }
+        ]
+      },
+      {
+        "id": "lev-15-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "when they defile my {0} that is among them",
+        "blanks": [
+          "tabernacle"
+        ],
+        "distractors": [
+          "altar",
+          "sanctuary",
+          "offering"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "lev-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The Lord above the mercy seat",
+        "text": "Aaron could not enter the holy place at all times because the Lord said He would appear 'in the cloud upon the mercy seat,' the golden cover of the ark of the covenant."
+      },
+      {
+        "id": "lev-16-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a {0} for a burnt offering.",
+        "blanks": [
+          "ram"
+        ],
+        "distractors": [
+          "bullock",
+          "goat",
+          "lamb"
+        ]
+      },
+      {
+        "id": "lev-16-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for the {0}.",
+        "blanks": [
+          "scapegoat"
+        ],
+        "distractors": [
+          "bullock",
+          "tabernacle",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-16-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "And he shall take a censer full of burning coals of fire from off the {0} before the Lord",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "veil",
+          "ark",
+          "tabernacle"
+        ]
+      },
+      {
+        "id": "lev-16-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "before the mercy seat shall he sprinkle of the blood with his finger {0} times.",
+        "blanks": [
+          "seven"
+        ],
+        "distractors": [
+          "three",
+          "twelve",
+          "forty"
+        ]
+      },
+      {
+        "id": "lev-16-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What did Aaron do when he laid both his hands on the head of the live goat?",
+        "options": [
+          "Confessed all the iniquities of the children of Israel",
+          "Anointed it with oil",
+          "Marked it with blood",
+          "Gave it a new name"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-16-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the {0}.",
+        "blanks": [
+          "wilderness"
+        ],
+        "distractors": [
+          "sanctuary",
+          "camp",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-16-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "shall one carry forth without the camp; and they shall burn in the {0} their skins, and their flesh, and their dung.",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "water",
+          "altar",
+          "wilderness"
+        ]
+      },
+      {
+        "id": "lev-16-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "It shall be a {0} of rest unto you, and ye shall afflict your souls, by a statute for ever.",
+        "blanks": [
+          "sabbath"
+        ],
+        "distractors": [
+          "feast",
+          "fast",
+          "jubilee"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "lev-17-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Why bring everything to the door?",
+        "text": "By requiring every ox, lamb, or goat to be killed at the door of the tabernacle, the law stopped the Israelites from offering private sacrifices in the open field as the surrounding nations did."
+      },
+      {
+        "id": "lev-17-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "of the house of Israel, that killeth an ox, or lamb, or {0}, in the camp",
+        "blanks": [
+          "goat"
+        ],
+        "distractors": [
+          "dove",
+          "horse",
+          "fish"
+        ]
+      },
+      {
+        "id": "lev-17-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Where were the children of Israel to bring the sacrifices they had been offering in the open field?",
+        "options": [
+          "To the door of the tabernacle of the congregation",
+          "To the top of the mountain",
+          "To the city gate",
+          "To the river bank"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-17-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And they shall no more offer their sacrifices unto {0}",
+        "blanks": [
+          "devils"
+        ],
+        "distractors": [
+          "strangers",
+          "priests",
+          "prophets"
+        ]
+      },
+      {
+        "id": "lev-17-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What does the Lord say He will do to anyone who eats blood (v. 10)?",
+        "options": [
+          "Set His face against them and cut them off",
+          "Bless them with long life",
+          "Send them into the wilderness",
+          "Forgive them once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-17-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "For the life of the flesh is in the {0}",
+        "blanks": [
+          "blood"
+        ],
+        "distractors": [
+          "heart",
+          "spirit",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-17-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "he shall even pour out the blood thereof, and cover it with {0}",
+        "blanks": [
+          "dust"
+        ],
+        "distractors": [
+          "water",
+          "salt",
+          "oil"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "lev-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "and after the doings of the land of {0}, whither I bring you",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Sinai",
+          "Israel"
+        ]
+      },
+      {
+        "id": "lev-18-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "\"He shall live in them\"",
+        "text": "Verse 5 promises that whoever keeps the Lord's statutes \"shall live in them.\" The phrase echoes throughout scripture and is quoted in the New Testament to contrast living by the law with living by faith."
+      },
+      {
+        "id": "lev-18-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to verse 6, to whom shall none of Israel approach to uncover their nakedness?",
+        "options": [
+          "To any that is near of kin to him",
+          "To any stranger in the land",
+          "To any priest of the sanctuary",
+          "To any inhabitant of Canaan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-18-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Thy father's sister",
+            "right": "Thy father's near kinswoman (aunt)"
+          },
+          {
+            "left": "Thy brother's wife",
+            "right": "Thy brother's nakedness"
+          },
+          {
+            "left": "Thy daughter in law",
+            "right": "Thy son's wife"
+          }
+        ]
+      },
+      {
+        "id": "lev-18-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "And thou shalt not let any of thy seed pass through the fire to {0}",
+        "blanks": [
+          "Molech"
+        ],
+        "distractors": [
+          "Canaan",
+          "Egypt",
+          "Sinai"
+        ]
+      },
+      {
+        "id": "lev-18-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "for in all these the {0} are defiled which I cast out before you",
+        "blanks": [
+          "nations"
+        ],
+        "distractors": [
+          "abominations",
+          "judgments",
+          "ordinances"
+        ]
+      },
+      {
+        "id": "lev-18-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What consequence does the chapter say awaits the land that practices these abominations (vv. 25, 28)?",
+        "options": [
+          "The land will vomit out its inhabitants",
+          "The land will be barren for seven years",
+          "The land will be divided among the tribes",
+          "The land will be covered by the waters"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "lev-19-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Be ye holy",
+        "text": "The refrain “Ye shall be holy: for I the Lord your God am holy” (v. 2) gives Leviticus 17–26 its scholarly name, the “Holiness Code,” because it ties the people's conduct directly to the holiness of God Himself."
+      },
+      {
+        "id": "lev-19-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Ye shall fear every man his mother, and his father, and keep my {0}",
+        "blanks": [
+          "sabbaths"
+        ],
+        "distractors": [
+          "statutes",
+          "judgments",
+          "commandments"
+        ]
+      },
+      {
+        "id": "lev-19-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "In verses 9–10, for whom was the Israelite to leave the gleanings of his field and vineyard?",
+        "options": [
+          "For the poor and stranger",
+          "For the priests of the sanctuary",
+          "For the princes of Israel",
+          "To burn as an offering"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Thou shalt not defraud thy {0}, neither rob him",
+        "blanks": [
+          "neighbour"
+        ],
+        "distractors": [
+          "brother",
+          "stranger",
+          "servant"
+        ]
+      },
+      {
+        "id": "lev-19-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "but thou shalt love thy {0} as thyself",
+        "blanks": [
+          "neighbour"
+        ],
+        "distractors": [
+          "brother",
+          "enemy",
+          "God"
+        ]
+      },
+      {
+        "id": "lev-19-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "According to verses 23–25, in what year could the fruit of a newly planted tree finally be eaten?",
+        "options": [
+          "In the fifth year",
+          "In the first year",
+          "In the third year",
+          "In the seventh year"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-19-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Do not prostitute thy {0}, to cause her to be a whore",
+        "blanks": [
+          "daughter"
+        ],
+        "distractors": [
+          "mother",
+          "sister",
+          "handmaid"
+        ]
+      },
+      {
+        "id": "lev-19-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Thou shalt rise up before the hoary head, and honour the face of the {0}",
+        "blanks": [
+          "old man"
+        ],
+        "distractors": [
+          "poor man",
+          "stranger",
+          "mighty"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "lev-20-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "giveth any of his seed unto {0}",
+        "blanks": [
+          "Molech"
+        ],
+        "distractors": [
+          "Baal",
+          "Dagon",
+          "Chemosh"
+        ]
+      },
+      {
+        "id": "lev-20-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Molech and child sacrifice",
+        "text": "Molech was a Canaanite god to whom children were offered in fire. To \"give of his seed\" meant handing one's own children over to that cult, which the Lord declares defiles his sanctuary and profanes his holy name."
+      },
+      {
+        "id": "lev-20-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "I am the Lord which {0} you",
+        "blanks": [
+          "sanctify"
+        ],
+        "distractors": [
+          "abhor",
+          "judge",
+          "scatter"
+        ]
+      },
+      {
+        "id": "lev-20-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to verse 15, what was to be done to the beast as well as to the man?",
+        "options": [
+          "The beast was to be slain",
+          "The beast was to be offered as a sacrifice",
+          "The beast was to be given to the poor",
+          "The beast was to be set free"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "In the judgments of verses 20 and 21, what consequence is named besides bearing their sin?",
+        "options": [
+          "They shall be childless",
+          "They shall be made rulers",
+          "They shall inherit double",
+          "They shall be set free"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "a land that floweth with milk and {0}",
+        "blanks": [
+          "honey"
+        ],
+        "distractors": [
+          "wine",
+          "oil",
+          "corn"
+        ]
+      },
+      {
+        "id": "lev-20-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What does verse 25 command Israel to do with beasts and fowls?",
+        "options": [
+          "Put difference between clean and unclean",
+          "Offer them all as burnt offerings",
+          "Keep them only outside the cities",
+          "Eat only the domesticated ones"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Molech",
+            "right": "Pagan god of the forbidden cult"
+          },
+          {
+            "left": "Statutes",
+            "right": "Laws Israel was to keep"
+          },
+          {
+            "left": "Holiness",
+            "right": "Being set apart unto the Lord"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "lev-21-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Limited mourning",
+        "text": "An ordinary priest could become defiled by the dead only for close kin (parents, children, brothers, an unmarried sister). The high priest (v. 11) could not do even that, not even for his own father or mother."
+      },
+      {
+        "id": "lev-21-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "They shall not make baldness upon their head, neither shall they shave off the corner of their {0}",
+        "blanks": [
+          "beard"
+        ],
+        "distractors": [
+          "flesh",
+          "head",
+          "garment"
+        ]
+      },
+      {
+        "id": "lev-21-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "she profaneth her father: she shall be burnt with {0}.",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "water",
+          "oil",
+          "shame"
+        ]
+      },
+      {
+        "id": "lev-21-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "upon whose head the anointing {0} was poured",
+        "blanks": [
+          "oil"
+        ],
+        "distractors": [
+          "blood",
+          "wine",
+          "water"
+        ]
+      },
+      {
+        "id": "lev-21-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "a blind man, or a {0}, or he that hath a flat nose",
+        "blanks": [
+          "lame"
+        ],
+        "distractors": [
+          "dwarf",
+          "leper",
+          "deaf"
+        ]
+      },
+      {
+        "id": "lev-21-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "A priest with a blemish could not go in unto the veil or come near the altar, but what was he still allowed to do?",
+        "options": [
+          "Eat the bread of his God",
+          "Offer the offerings made by fire",
+          "Put on the holy garments",
+          "Go in unto the veil"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "lev-22-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The holy name",
+        "text": "The refrain \"I am the Lord,\" repeated throughout the chapter, seals each command by reminding Israel that the holiness of the offerings reflects the holiness of God himself."
+      },
+      {
+        "id": "lev-22-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "that they separate themselves from the holy things of the children of {0}",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Egypt",
+          "Aaron",
+          "Moses"
+        ]
+      },
+      {
+        "id": "lev-22-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "According to verses 6 and 7, when could a man who had become unclean again eat of the holy things?",
+        "options": [
+          "After the sun was down, having washed his flesh with water",
+          "Immediately, without washing",
+          "Only after fasting seven days",
+          "Only on the sabbath day"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-22-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "They shall therefore keep mine {0}, lest they bear sin for it",
+        "blanks": [
+          "ordinance"
+        ],
+        "distractors": [
+          "sacrifice",
+          "offering",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-22-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But if the priest’s daughter be a {0}, or divorced, and have no child",
+        "blanks": [
+          "widow"
+        ],
+        "distractors": [
+          "stranger",
+          "leper",
+          "servant"
+        ]
+      },
+      {
+        "id": "lev-22-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Ye shall offer at your own will a male without {0}, of the beeves, of the sheep, or of the goats.",
+        "blanks": [
+          "blemish"
+        ],
+        "distractors": [
+          "issue",
+          "uncleanness",
+          "corruption"
+        ]
+      },
+      {
+        "id": "lev-22-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Animal without blemish",
+            "right": "Accepted as an offering to the Lord"
+          },
+          {
+            "left": "Blind or maimed animal",
+            "right": "Not offered to the Lord"
+          },
+          {
+            "left": "Newborn animal",
+            "right": "Seven days under the dam"
+          }
+        ]
+      },
+      {
+        "id": "lev-22-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the {0}",
+        "blanks": [
+          "dam"
+        ],
+        "distractors": [
+          "altar",
+          "fire",
+          "vow"
+        ]
+      },
+      {
+        "id": "lev-22-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "That brought you out of the land of {0}, to be your God: I am the Lord.",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Assyria",
+          "Babylon"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "lev-23-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Israel's sacred calendar",
+        "text": "Leviticus 23 gathers in one place all of Israel's yearly feasts — Passover, Unleavened Bread, Firstfruits, Pentecost, Trumpets, Atonement and Tabernacles — called 'holy convocations'."
+      },
+      {
+        "id": "lev-23-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "In the {0} day of the first month at even is the Lord ’s passover.",
+        "blanks": [
+          "fourteenth"
+        ],
+        "distractors": [
+          "fifteenth",
+          "seventh",
+          "first"
+        ]
+      },
+      {
+        "id": "lev-23-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "then ye shall bring a sheaf of the firstfruits of your harvest unto the {0}",
+        "blanks": [
+          "priest"
+        ],
+        "distractors": [
+          "altar",
+          "sanctuary",
+          "tabernacle"
+        ]
+      },
+      {
+        "id": "lev-23-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "The offering of firstfruits",
+        "text": "The first sheaf of the harvest was waved before the Lord 'on the morrow after the sabbath', a thanksgiving gesture acknowledging that the whole harvest belonged to God."
+      },
+      {
+        "id": "lev-23-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How many days were to be counted after the firstfruits offering until the new meat offering?",
+        "options": [
+          "Fifty days",
+          "Forty days",
+          "Seven days",
+          "One hundred days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-23-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with {0}",
+        "blanks": [
+          "leaven"
+        ],
+        "distractors": [
+          "oil",
+          "salt",
+          "honey"
+        ]
+      },
+      {
+        "id": "lev-23-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Passover",
+            "right": "Fourteenth day of the first month"
+          },
+          {
+            "left": "Feast of unleavened bread",
+            "right": "Seven days without leaven"
+          },
+          {
+            "left": "Day of atonement",
+            "right": "Tenth of the seventh month, afflict the soul"
+          },
+          {
+            "left": "Feast of tabernacles",
+            "right": "Fifteenth of the seventh month, dwell in booths"
+          }
+        ]
+      },
+      {
+        "id": "lev-23-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Also on the tenth day of this seventh month there shall be a day of {0}",
+        "blanks": [
+          "atonement"
+        ],
+        "distractors": [
+          "passover",
+          "harvest",
+          "convocation"
+        ]
+      },
+      {
+        "id": "lev-23-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What happened to anyone who would not afflict his soul on the day of atonement?",
+        "options": [
+          "He would be cut off from among his people",
+          "He would pay a fine of silver",
+          "He would be banished to the wilderness",
+          "He would offer a second sacrifice"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-23-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "The fifteenth day of this seventh month shall be the feast of {0} for seven days unto the Lord.",
+        "blanks": [
+          "tabernacles"
+        ],
+        "distractors": [
+          "firstfruits",
+          "trumpets",
+          "passover"
+        ]
+      },
+      {
+        "id": "lev-23-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "the boughs of goodly trees, branches of {0} trees, and the boughs of thick trees, and willows of the brook",
+        "blanks": [
+          "palm"
+        ],
+        "distractors": [
+          "olive",
+          "fig",
+          "cedar"
+        ]
+      },
+      {
+        "id": "lev-23-cur-42",
+        "type": "curiosity",
+        "after_verse": 42,
+        "title": "Why dwell in booths",
+        "text": "During the feast of tabernacles the people lived in booths for seven days to remember that God made them dwell in booths when he brought them out of Egypt."
+      },
+      {
+        "id": "lev-23-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "I made the children of Israel to dwell in booths, when I brought them out of the land of {0}",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Assyria",
+          "Babylon"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "lev-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A light that never goes out",
+        "text": "Pure beaten olive oil kept the lamps of the candlestick burning continually before the Lord, a symbol of God's constant presence among Israel."
+      },
+      {
+        "id": "lev-24-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And thou shalt take fine flour, and bake {0} cakes thereof: two tenth deals shall be in one cake.",
+        "blanks": [
+          "twelve"
+        ],
+        "distractors": [
+          "seven",
+          "three",
+          "twenty"
+        ]
+      },
+      {
+        "id": "lev-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What was the name of the mother of the man who blasphemed the name of the Lord?",
+        "options": [
+          "Shelomith",
+          "Deborah",
+          "Miriam",
+          "Rachel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-24-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation {0} him.",
+        "blanks": [
+          "stone"
+        ],
+        "distractors": [
+          "judge",
+          "bless",
+          "release"
+        ]
+      },
+      {
+        "id": "lev-24-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Eye for eye",
+            "right": "Recompense for harm to the sight"
+          },
+          {
+            "left": "Tooth for tooth",
+            "right": "Recompense for a broken tooth"
+          },
+          {
+            "left": "Beast for beast",
+            "right": "Restitution for a slain animal"
+          },
+          {
+            "left": "Breach for breach",
+            "right": "Recompense for a fracture"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "lev-25-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A sabbath for the land",
+        "text": "Just as the people rested on the seventh day, the land itself was to rest every seventh year, left unsown and unpruned — a sabbath unto the Lord."
+      },
+      {
+        "id": "lev-25-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "But in the seventh year shall be a sabbath of {0} unto the land",
+        "blanks": [
+          "rest"
+        ],
+        "distractors": [
+          "toil",
+          "harvest",
+          "tribute"
+        ]
+      },
+      {
+        "id": "lev-25-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How was the start of the year of jubilee proclaimed?",
+        "options": [
+          "By sounding the trumpet on the day of atonement",
+          "By lighting fires on the hills",
+          "By gathering the people at the temple",
+          "By sending messengers to the cities"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "and proclaim {0} throughout all the land unto all the inhabitants thereof",
+        "blanks": [
+          "liberty"
+        ],
+        "distractors": [
+          "justice",
+          "peace",
+          "mercy"
+        ]
+      },
+      {
+        "id": "lev-25-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "In the year of this jubilee ye shall return every man unto his {0}.",
+        "blanks": [
+          "possession"
+        ],
+        "distractors": [
+          "family",
+          "city",
+          "inheritance"
+        ]
+      },
+      {
+        "id": "lev-25-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Ye shall not therefore {0} one another; but thou shalt fear thy God",
+        "blanks": [
+          "oppress"
+        ],
+        "distractors": [
+          "deceive",
+          "forsake",
+          "despise"
+        ]
+      },
+      {
+        "id": "lev-25-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "And ye shall sow the eighth year, and eat yet of old {0} until the ninth year",
+        "blanks": [
+          "fruit"
+        ],
+        "distractors": [
+          "grain",
+          "bread",
+          "store"
+        ]
+      },
+      {
+        "id": "lev-25-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "According to verse 23, why could the land not be sold for ever?",
+        "options": [
+          "Because the land is the Lord's and the people are strangers and sojourners",
+          "Because the land was too small",
+          "Because it was promised to another nation",
+          "Because the soil was barren"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "and if any of his kin come to {0} it, then shall he redeem that which his brother sold.",
+        "blanks": [
+          "redeem"
+        ],
+        "distractors": [
+          "purchase",
+          "inherit",
+          "till"
+        ]
+      },
+      {
+        "id": "lev-25-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And if a man sell a dwelling house in a {0} city",
+        "blanks": [
+          "walled"
+        ],
+        "distractors": [
+          "foreign",
+          "Levite",
+          "distant"
+        ]
+      },
+      {
+        "id": "lev-25-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Notwithstanding the cities of the {0}, and the houses of the cities of their possession",
+        "blanks": [
+          "Levites"
+        ],
+        "distractors": [
+          "heathen",
+          "strangers",
+          "Egyptians"
+        ]
+      },
+      {
+        "id": "lev-25-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Take thou no {0} of him, or increase: but fear thy God",
+        "blanks": [
+          "usury"
+        ],
+        "distractors": [
+          "bread",
+          "labour",
+          "tribute"
+        ]
+      },
+      {
+        "id": "lev-25-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "to give you the land of {0}, and to be your God.",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Sinai",
+          "Moab"
+        ]
+      },
+      {
+        "id": "lev-25-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "How were the Israelites to treat a fellow Israelite who became poor and sold himself?",
+        "options": [
+          "As a hired servant, and never ruled over with rigour",
+          "As permanent family property",
+          "As a prisoner of war",
+          "As a stranger without rights"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "from the year that he was sold to him unto the year of {0}",
+        "blanks": [
+          "jubilee"
+        ],
+        "distractors": [
+          "sabbath",
+          "rest",
+          "redemption"
+        ]
+      },
+      {
+        "id": "lev-25-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "For unto me the children of Israel are {0}; they are my servants",
+        "blanks": [
+          "servants"
+        ],
+        "distractors": [
+          "children",
+          "heirs",
+          "strangers"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "lev-26-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "neither shall ye set up any image of stone in your land, to bow down unto it: for I am the {0} your God",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "God",
+          "sanctuary",
+          "covenant"
+        ]
+      },
+      {
+        "id": "lev-26-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Keeping the sabbath",
+        "text": "The chapter opens by repeating two central covenant commands — make no idols and keep the sabbaths — before listing any blessings, showing that right worship came first."
+      },
+      {
+        "id": "lev-26-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In verse 9, what does the Lord promise to do with His people if they are obedient?",
+        "options": [
+          "Multiply them and establish His covenant with them",
+          "Scatter them among the heathen",
+          "Make them few in number",
+          "Send wild beasts against them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-26-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "your God, which brought you forth out of the land of {0}, that ye should not be their bondmen",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Assyria",
+          "Babylon",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "lev-26-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "then I will punish you {0} times more for your sins",
+        "blanks": [
+          "seven"
+        ],
+        "distractors": [
+          "three",
+          "ten",
+          "four"
+        ]
+      },
+      {
+        "id": "lev-26-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "ten {0} shall bake your bread in one oven",
+        "blanks": [
+          "women"
+        ],
+        "distractors": [
+          "men",
+          "priests",
+          "servants"
+        ]
+      },
+      {
+        "id": "lev-26-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Verses 27 to 33 describe the most severe stage of judgment. What does the Lord warn He will do to Israel's cities and sanctuaries?",
+        "options": [
+          "Make the cities waste and bring the sanctuaries to desolation",
+          "Multiply the people within the cities",
+          "Give rain in due season upon the land",
+          "Establish His covenant with the people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-26-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "and the sound of a shaken {0} shall chase them",
+        "blanks": [
+          "leaf"
+        ],
+        "distractors": [
+          "sword",
+          "stone",
+          "plague"
+        ]
+      },
+      {
+        "id": "lev-26-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Then will I remember my covenant with {0}, and also my covenant with Isaac",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Moses",
+          "Abraham",
+          "Israel"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "lev-27-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Fifty shekels of silver",
+        "text": "The highest valuation in the chapter, fifty shekels of silver, is set for a male between twenty and sixty years old — the prime working years in Israel's economy."
+      },
+      {
+        "id": "lev-27-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "And if it be a female, then thy estimation shall be {0} shekels.",
+        "blanks": [
+          "thirty"
+        ],
+        "distractors": [
+          "fifty",
+          "fifteen",
+          "ten"
+        ]
+      },
+      {
+        "id": "lev-27-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "For a child from a month old until five years old, what was the male's estimation?",
+        "options": [
+          "Five shekels of silver",
+          "Fifty shekels of silver",
+          "Thirty shekels of silver",
+          "Twenty shekels of silver"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-27-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But if he will at all redeem it, then he shall add a {0} part thereof unto thy estimation.",
+        "blanks": [
+          "fifth"
+        ],
+        "distractors": [
+          "tenth",
+          "double",
+          "third"
+        ]
+      },
+      {
+        "id": "lev-27-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "But the field, when it goeth out in the jubilee, shall be holy unto the Lord, as a field {0}; the possession thereof shall be the priest’s.",
+        "blanks": [
+          "devoted"
+        ],
+        "distractors": [
+          "redeemed",
+          "forsaken",
+          "mortgaged"
+        ]
+      },
+      {
+        "id": "lev-27-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Male's estimation (20–60 years)",
+            "right": "Fifty shekels"
+          },
+          {
+            "left": "Female's estimation (20–60 years)",
+            "right": "Thirty shekels"
+          },
+          {
+            "left": "A shekel of the sanctuary",
+            "right": "Twenty gerahs"
+          },
+          {
+            "left": "Firstling of the beasts",
+            "right": "Already the Lord's"
+          }
+        ]
+      },
+      {
+        "id": "lev-27-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "These are the commandments, which the Lord commanded Moses for the children of Israel in mount {0}.",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Horeb",
+          "Nebo",
+          "Carmel"
+        ]
+      }
+    ]
+  }
+}

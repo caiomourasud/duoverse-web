@@ -1,0 +1,200 @@
+{
+ "schema_version": 1,
+ "book": "nahum",
+ "chapters": {
+  "1": [
+   {
+    "id": "nahum-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O consolo de Naum",
+    "text": "O nome Naum significa 'consolo' ou 'consolação.' Embora o seu livro troveje juízo contra Nínive, a sua mensagem era um consolo para Judá, oprimida pelo cruel império assírio."
+   },
+   {
+    "id": "nahum-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Segundo Naum 1:5, o que acontece perante a presença do Senhor?",
+    "options": [
+     "Os montes tremem e os outeiros se derretem",
+     "O mar se divide em dois",
+     "As estrelas caem do céu",
+     "O sol se detém"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "serão inteiramente consumidos como {0} seca",
+    "blanks": [
+     "palha"
+    ],
+    "distractors": [
+     "madeira",
+     "folhas",
+     "erva"
+    ]
+   },
+   {
+    "id": "nahum-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Naum 1:15, de quem são os pés vistos sobre os montes trazendo boas novas?",
+    "options": [
+     "Do que traz as boas novas, do que anuncia a paz",
+     "Do rei da Assíria",
+     "Do exército destruidor",
+     "Dos sacerdotes de Nínive"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "Bom no dia da angústia",
+    "text": "Em meio à tempestade do juízo, o versículo 7 é um oásis sereno: 'O Senhor é bom, ele serve de fortaleza no dia da angústia, e conhece os que confiam nele' — a misericórdia posta ao lado da justiça."
+   }
+  ],
+  "2": [
+   {
+    "id": "nahum-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Naum 2:4, como são descritos os carros que correm furiosamente nas ruas?",
+    "options": [
+     "Correrão como relâmpagos",
+     "Rolam em silêncio",
+     "Param imóveis de medo",
+     "Voltam para as portas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Saqueai a prata, saqueai o {0}",
+    "blanks": [
+     "ouro"
+    ],
+    "distractors": [
+     "bronze",
+     "ferro",
+     "trigo"
+    ]
+   },
+   {
+    "id": "nahum-2-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "O palácio",
+      "right": "se derreterá"
+     },
+     {
+      "left": "As portas do rio",
+      "right": "se abrirão"
+     },
+     {
+      "left": "A prata e o ouro",
+      "right": "serão saqueados"
+     }
+    ]
+   },
+   {
+    "id": "nahum-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Em Naum 2:13, o Senhor dos Exércitos declara estar contra Nínive e queimará o quê na fumaça?",
+    "options": [
+     "Os teus carros",
+     "Os teus templos",
+     "Os teus navios",
+     "Os teus campos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "O covil dos leões",
+    "text": "O versículo 11 pergunta: 'Onde está agora o covil dos leões?' Os reis assírios adornavam os seus palácios com caçadas de leões e se orgulhavam da ferocidade — por isso a imagem de Naum de um covil vazio era um escárnio afiado."
+   }
+  ],
+  "3": [
+   {
+    "id": "nahum-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A cidade ensanguentada",
+    "text": "Naum 3:1 começa com 'Ai da cidade ensanguentada!' Os próprios reis de Nínive gabavam-se em inscrições de esfolar cativos e empilhar cabeças — uma fama de terror que o profeta volta contra ela."
+   },
+   {
+    "id": "nahum-3-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Naum 3:4, a que Nínive é comparada por causa das suas seduções das nações?",
+    "options": [
+     "A uma meretriz e mestra das feitiçarias",
+     "A uma pastora mansa",
+     "A uma rainha sábia",
+     "A uma noiva fiel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Segundo Naum 3:7, o que dirão e farão todos os que virem Nínive destruída?",
+    "options": [
+     "Fugirão dela e dirão que está destruída",
+     "Reconstruirão os seus muros",
+     "Chorarão junto aos seus rios",
+     "Coroarão um novo rei"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Em Naum 3:13, o que o profeta diz que o povo no meio da cidade se tornou?",
+    "options": [
+     "Mulheres",
+     "Reis",
+     "Sacerdotes",
+     "Gigantes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Como Naum 3:19 descreve a ferida de Nínive?",
+    "options": [
+     "Não há cura para ela; é dolorosa",
+     "É facilmente atada",
+     "Sara em um dia",
+     "Não deixa cicatriz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Melhor do que Nô-Amom?",
+    "text": "Naum 3:8 pergunta se Nínive é 'melhor do que Nô-Amom' — isto é, Tebas no Egito, que os próprios assírios haviam saqueado em 663 a.C. O profeta adverte o destruidor de que chegou a sua vez."
+   }
+  ]
+ }
+}

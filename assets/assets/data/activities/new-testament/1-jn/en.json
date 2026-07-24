@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "book": "1-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "An eyewitness testimony",
+        "body": "John writes as one who personally heard, saw, and even handled the Word of life—an apostle bearing firsthand witness of the resurrected Christ."
+      },
+      {
+        "id": "1-jn-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "According to verse 4, John writes these things so that what may happen?",
+        "options": [
+          "Your joy may be full",
+          "You may become rich",
+          "You will never be tempted",
+          "The world may be condemned"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "God is {0}, and in him is no darkness at all",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "fire",
+          "glory",
+          "power"
+        ]
+      },
+      {
+        "id": "1-jn-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "According to verse 9, what happens if we confess our sins?",
+        "options": [
+          "He is faithful and just to forgive us our sins",
+          "We become as wise as the prophets",
+          "We shall not see death",
+          "Our enemies are put to shame"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "1-jn-2-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Where “antichrist” appears",
+        "body": "The word “antichrist” is found in the Bible only in the letters of John (1 and 2 John). Here John says many antichrists—those denying that Jesus is the Christ—had already come."
+      },
+      {
+        "id": "1-jn-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "we have an {0} with the Father, Jesus Christ the righteous",
+        "blanks": [
+          "advocate"
+        ],
+        "distractors": [
+          "accuser",
+          "heir",
+          "judge"
+        ]
+      },
+      {
+        "id": "1-jn-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "He that saith he is in the light, and hateth his brother, is in {0} even until now",
+        "blanks": [
+          "darkness"
+        ],
+        "distractors": [
+          "sin",
+          "bondage",
+          "death"
+        ]
+      },
+      {
+        "id": "1-jn-2-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "title": "To whom John writes (v. 12-13)",
+        "pairs": [
+          {
+            "left": "Little children",
+            "right": "your sins are forgiven"
+          },
+          {
+            "left": "Fathers",
+            "right": "ye have known him from the beginning"
+          },
+          {
+            "left": "Young men",
+            "right": "ye have overcome the wicked one"
+          }
+        ]
+      },
+      {
+        "id": "1-jn-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Which three things “in the world” does John name in verse 16?",
+        "options": [
+          "The lust of the flesh, the lust of the eyes, and the pride of life",
+          "Wealth, honour, and power",
+          "Hunger, fear, and death",
+          "Sun, moon, and stars"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "He is {0}, that denieth the Father and the Son",
+        "blanks": [
+          "antichrist"
+        ],
+        "distractors": [
+          "a deceiver",
+          "an idolater",
+          "a blasphemer"
+        ]
+      },
+      {
+        "id": "1-jn-2-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "According to verse 27, what abides in the Saints and “teacheth you of all things”?",
+        "options": [
+          "The anointing they received of him",
+          "The traditions of the elders",
+          "The writings of the prophets",
+          "Their own wisdom"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "1-jn-3-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Cain, the warning example",
+        "body": "John reaches back to Genesis for his lone Old Testament illustration: Cain, who “slew his brother” because his own works were evil—the opposite of the brotherly love John commands."
+      },
+      {
+        "id": "1-jn-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "that we should be called the {0} of God",
+        "blanks": [
+          "sons"
+        ],
+        "distractors": [
+          "servants",
+          "heirs",
+          "friends"
+        ]
+      },
+      {
+        "id": "1-jn-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "In verse 12, whom does John warn against—one who slew his brother?",
+        "options": [
+          "Cain",
+          "Esau",
+          "Judas",
+          "Saul"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-3-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Whosoever hateth his brother is a {0}",
+        "blanks": [
+          "murderer"
+        ],
+        "distractors": [
+          "liar",
+          "stranger",
+          "sinner"
+        ]
+      },
+      {
+        "id": "1-jn-3-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What is “his commandment” according to verse 23?",
+        "options": [
+          "Believe on the name of his Son Jesus Christ and love one another",
+          "Keep the feasts and offer sacrifice",
+          "Honour father and mother",
+          "Rest on the sabbath day"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-jn-4-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "“God is love”",
+        "body": "First John is the only book in scripture to state outright that “God is love” (verses 8 and 16). The whole epistle makes love the proof of knowing God."
+      },
+      {
+        "id": "1-jn-4-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "try the {0} whether they are of God",
+        "blanks": [
+          "spirits"
+        ],
+        "distractors": [
+          "prophets",
+          "signs",
+          "teachers"
+        ]
+      },
+      {
+        "id": "1-jn-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "He that loveth not knoweth not God; for God is {0}",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "light",
+          "spirit",
+          "truth"
+        ]
+      },
+      {
+        "id": "1-jn-4-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "According to verse 14, the Father sent the Son to be what?",
+        "options": [
+          "The Saviour of the world",
+          "A teacher of the law",
+          "A king over Israel",
+          "A judge of the dead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "perfect love casteth out {0}",
+        "blanks": [
+          "fear"
+        ],
+        "distractors": [
+          "doubt",
+          "darkness",
+          "sorrow"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-jn-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "The three witnesses",
+        "body": "Verses 7-8 list three witnesses “in heaven” and three “in earth.” This passage about the divine witnesses is among the most discussed in the New Testament."
+      },
+      {
+        "id": "1-jn-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "this is the victory that overcometh the world, even our {0}",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "hope",
+          "love",
+          "works"
+        ]
+      },
+      {
+        "id": "1-jn-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "In verse 8, what three “bear witness in earth”?",
+        "options": [
+          "The Spirit, the water, and the blood",
+          "Faith, hope, and charity",
+          "The law, the prophets, and the psalms",
+          "Bread, wine, and oil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "He that hath the Son hath {0}",
+        "blanks": [
+          "life"
+        ],
+        "distractors": [
+          "peace",
+          "joy",
+          "rest"
+        ]
+      },
+      {
+        "id": "1-jn-5-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Little children, keep yourselves from {0}",
+        "blanks": [
+          "idols"
+        ],
+        "distractors": [
+          "liars",
+          "strife",
+          "deceit"
+        ]
+      }
+    ]
+  }
+}

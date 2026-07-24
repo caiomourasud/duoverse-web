@@ -1,0 +1,993 @@
+{
+ "schema_version": 1,
+ "book": "moses",
+ "chapters": {
+  "1": [
+   {
+    "id": "moses-1-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Endless is my name",
+    "text": "God introduces himself to Moses not by a title of place or nation but by his own nature: \"Endless is my name,\" without beginning of days or end of years — the very theme the book will unfold."
+   },
+   {
+    "id": "moses-1-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "By what name does God declare himself to Moses (Moses 1:3)?",
+    "options": [
+     "Endless",
+     "Almighty of Sinai",
+     "The God of Abraham",
+     "The Ancient of Days"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-1-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did Moses behold when he looked (Moses 1:8)?",
+    "options": [
+     "A burning bush",
+     "The world upon which he was created",
+     "The heavenly council",
+     "A ladder to heaven"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-1-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "How does Moses answer Satan's demand to be worshipped (Moses 1:13)?",
+    "options": [
+     "He worships him in fear",
+     "He flees the mountain",
+     "He asks who Satan is, for Moses is a son of God",
+     "He offers a sacrifice"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-1-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Depart hence, {0}",
+    "blanks": [
+     "Satan"
+    ],
+    "distractors": [
+     "serpent",
+     "tempter",
+     "deceiver"
+    ]
+   },
+   {
+    "id": "moses-1-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "After Satan departs, what fills Moses (Moses 1:24)?",
+    "options": [
+     "Fear",
+     "Sorrow",
+     "Sleep",
+     "The Holy Ghost"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "moses-1-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "How does Moses describe the number of the inhabitants he beheld (Moses 1:28)?",
+    "options": [
+     "Numberless as the sand upon the sea shore",
+     "A single nation",
+     "Twelve tribes",
+     "As few as the stars"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-1-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "By whom did God create the worlds without number (Moses 1:32-33)?",
+    "options": [
+     "By the Only Begotten Son",
+     "By the angels",
+     "By Michael",
+     "By the word of Moses"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-1-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "According to Moses 1:39, what is God's work and glory?",
+    "options": [
+     "To be worshipped by all",
+     "To number the stars",
+     "To rest from his labors",
+     "To bring to pass the immortality and eternal life of man"
+    ],
+    "answer": 3
+   }
+  ],
+  "2": [
+   {
+    "id": "moses-2-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "And I, God, said",
+    "text": "Unlike Genesis 1, this account is told in the first person — \"And I, God, said\" — as the Lord narrates the creation directly to Moses."
+   },
+   {
+    "id": "moses-2-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "Let there be {0}; and there was light",
+    "blanks": [
+     "light"
+    ],
+    "distractors": [
+     "day",
+     "the sun",
+     "a firmament"
+    ]
+   },
+   {
+    "id": "moses-2-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "What did God call the firmament (Moses 2:8)?",
+    "options": [
+     "Heaven",
+     "Earth",
+     "Day",
+     "Sea"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "By the end of Moses 2:13, which day of creation has closed?",
+    "options": [
+     "The first day",
+     "The second day",
+     "The third day",
+     "The fourth day"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-2-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "In Moses 2:16, what were the two great lights made to rule?",
+    "options": [
+     "The land and the sea",
+     "The day and the night",
+     "The summer and the winter",
+     "The east and the west"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-2-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "In Moses 2:20, what did God command the waters to bring forth?",
+    "options": [
+     "Grass and herbs",
+     "Cattle and beasts",
+     "The moving creature that hath life, and fowl",
+     "Trees bearing fruit"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-2-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "In whose image did God create man (Moses 2:27)?",
+    "options": [
+     "In the image of the beasts",
+     "In the image of the angels",
+     "In an image of his own devising",
+     "In the image of the Only Begotten, male and female"
+    ],
+    "answer": 3
+   }
+  ],
+  "3": [
+   {
+    "id": "moses-3-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Created spiritually first",
+    "text": "Moses 3:5 adds a doctrine not stated in Genesis: the Lord created all things spiritually before they were naturally upon the face of the earth."
+   },
+   {
+    "id": "moses-3-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "On which day did God rest from all his work (Moses 3:2-3)?",
+    "options": [
+     "The first day",
+     "The seventh day",
+     "The sixth day",
+     "The fortieth day"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Moses 3:10, a river went out of Eden and parted into how many heads?",
+    "options": [
+     "Two",
+     "Three",
+     "Four",
+     "Seven"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "For what two purposes did God put the man in the Garden of Eden (Moses 3:15)?",
+    "options": [
+     "To rest and to sleep",
+     "To dress it and to keep it",
+     "To rule and to conquer",
+     "To build and to trade"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-3-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "I will make an {0} for him",
+    "blanks": [
+     "help meet"
+    ],
+    "distractors": [
+     "altar",
+     "offering",
+     "inheritance"
+    ]
+   },
+   {
+    "id": "moses-3-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "In Moses 3:23, why did Adam say the woman should be called Woman?",
+    "options": [
+     "Because she was taken out of man",
+     "Because she was first created",
+     "Because she named the beasts",
+     "Because she kept the garden"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "moses-4-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Why Satan fell",
+    "text": "Moses 4 explains what Genesis does not: Satan rebelled because he sought to destroy the agency of man and to take God's own honor and power for himself."
+   },
+   {
+    "id": "moses-4-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "According to Moses 4:3, why was Satan cast down?",
+    "options": [
+     "Because he sought to destroy the agency of man",
+     "Because he refused to be a son",
+     "Because he hid from God",
+     "Because he ate of the tree"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-4-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "In Moses 4:7, through whom did Satan speak to the woman?",
+    "options": [
+     "An angel",
+     "A voice from heaven",
+     "The serpent",
+     "Adam"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-4-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "In Moses 4:13, after eating, what did Adam and his wife sew together (Moses 4:13)?",
+    "options": [
+     "Coats of skins",
+     "Fig leaves",
+     "Reeds of the river",
+     "Branches of the vine"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-4-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Whom did the woman say beguiled her (Moses 4:19)?",
+    "options": [
+     "Adam",
+     "An angel",
+     "The serpent",
+     "Cain"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-4-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "and thou shalt eat the {0} of the field",
+    "blanks": [
+     "herb"
+    ],
+    "distractors": [
+     "fruit",
+     "grain",
+     "bread"
+    ]
+   },
+   {
+    "id": "moses-4-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "What did God do so man would not partake of the tree of life (Moses 4:29-31)?",
+    "options": [
+     "Sent him forth from the Garden of Eden",
+     "Set the garden on fire",
+     "Sealed him inside the garden",
+     "Turned the tree to stone"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "moses-5-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Moses 5:1, how did Adam eat his bread after being driven out?",
+    "options": [
+     "By the sweat of his brow",
+     "By the labor of angels",
+     "Without any toil",
+     "By the gift of manna"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-5-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "In Moses 5:7, of what is the sacrifice a similitude?",
+    "options": [
+     "The rest of the seventh day",
+     "The sacrifice of the Only Begotten of the Father",
+     "The fall of Adam",
+     "The gathering of Israel"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "Eve's joy in redemption",
+    "text": "In Moses 5:11 Eve rejoices that, were it not for their transgression, they never would have had seed nor known the joy of redemption — a striking view of the Fall as a step forward."
+   },
+   {
+    "id": "moses-5-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Moses 5:13, what did men begin to be as they loved Satan more than God?",
+    "options": [
+     "Wise and mighty",
+     "Rich and honored",
+     "Carnal, sensual, and devilish",
+     "Weak and afraid"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-5-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "In Moses 5:17-18, what was Abel's occupation?",
+    "options": [
+     "A tiller of the ground",
+     "A keeper of sheep",
+     "A builder of cities",
+     "A worker in brass"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "In Moses 5:24, what name would Cain be called?",
+    "options": [
+     "Master Mahan",
+     "Perdition",
+     "Enoch",
+     "Nod"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "What did Satan tell Cain to swear by (Moses 5:29)?",
+    "options": [
+     "By the temple",
+     "By the altar",
+     "By his throat",
+     "By the stars"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-5-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "In Moses 5:34, how did Cain answer the Lord's question about Abel?",
+    "options": [
+     "He confessed at once",
+     "Am I my brother's keeper?",
+     "He wept and repented",
+     "He blamed the serpent"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-mc-40",
+    "type": "multiple_choice",
+    "after_verse": 40,
+    "question": "In Moses 5:40, what did the Lord set upon Cain?",
+    "options": [
+     "A crown",
+     "A mark, lest any finding him should kill him",
+     "A chain",
+     "A garment"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-mc-45",
+    "type": "multiple_choice",
+    "after_verse": 45,
+    "question": "In Moses 5:43-44, who were Lamech's two wives?",
+    "options": [
+     "Naamah and Zillah",
+     "Adah and Naamah",
+     "Adah and Zillah",
+     "Eve and Adah"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-5-mc-50",
+    "type": "multiple_choice",
+    "after_verse": 50,
+    "question": "In Moses 5:49-50, why did Lamech slay Irad?",
+    "options": [
+     "To get gain",
+     "For the oath's sake",
+     "For his flocks",
+     "By accident"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-5-mc-54",
+    "type": "multiple_choice",
+    "after_verse": 54,
+    "question": "In Moses 5:53-54, why did Lamech's wives declare his secret abroad?",
+    "options": [
+     "They rebelled against him and had not compassion",
+     "They were commanded by an angel",
+     "They sought reward",
+     "They feared Cain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-5-mc-57",
+    "type": "multiple_choice",
+    "after_verse": 58,
+    "question": "In Moses 5:58, how did the Gospel begin to be preached from the beginning?",
+    "options": [
+     "By written law alone",
+     "By the kings of the earth",
+     "By holy angels, God's own voice, and the gift of the Holy Ghost",
+     "By the sons of Cain"
+    ],
+    "answer": 2
+   }
+  ],
+  "6": [
+   {
+    "id": "moses-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Moses 6:5, in whose language was the book of remembrance kept?",
+    "options": [
+     "The language of Adam",
+     "The language of the angels",
+     "The language of Egypt",
+     "An unknown tongue"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-6-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Moses 6:10, what name did Adam give to the son born in his own likeness?",
+    "options": [
+     "Enos",
+     "Cainan",
+     "Seth",
+     "Enoch"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-6-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Moses 6:15, who had great dominion among men in those days?",
+    "options": [
+     "The kings",
+     "Satan",
+     "The giants",
+     "The angels"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-6-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "In Moses 6:21, who did Jared teach in all the ways of God?",
+    "options": [
+     "Enos",
+     "Enoch",
+     "Cainan",
+     "Seth"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-6-cur-23",
+    "type": "curiosity",
+    "after_verse": 23,
+    "title": "Preachers of righteousness",
+    "text": "Moses 6:23 describes the fathers as preachers of righteousness who called upon all men everywhere to repent — the same message Enoch will soon carry."
+   },
+   {
+    "id": "moses-6-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "In Moses 6:25, whom did Enoch beget?",
+    "options": [
+     "Cainan",
+     "Methuselah",
+     "Jared",
+     "Lamech"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-6-fb-31",
+    "type": "fill_blank",
+    "after_verse": 31,
+    "verse": 31,
+    "template": "am but a {0}",
+    "blanks": [
+     "lad"
+    ],
+    "distractors": [
+     "priest",
+     "servant",
+     "prophet"
+    ]
+   },
+   {
+    "id": "moses-6-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "In Moses 6:35, what did the Lord tell Enoch to anoint his eyes with?",
+    "options": [
+     "Oil",
+     "Water",
+     "Clay",
+     "Ashes"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-6-mc-40",
+    "type": "multiple_choice",
+    "after_verse": 40,
+    "question": "In Moses 6:40, what was the name of the man who came to Enoch?",
+    "options": [
+     "Mahijah",
+     "Cainan",
+     "Mahalaleel",
+     "Methuselah"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-6-mc-46",
+    "type": "multiple_choice",
+    "after_verse": 46,
+    "question": "In Moses 6:46, what had they written among them?",
+    "options": [
+     "A book of remembrance",
+     "A book of the law",
+     "A song of praise",
+     "A treaty of peace"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-6-mc-51",
+    "type": "multiple_choice",
+    "after_verse": 52,
+    "question": "In Moses 6:51-52, what did the Lord tell Adam he must do to receive the gift of the Holy Ghost?",
+    "options": [
+     "Build an altar",
+     "Believe, repent, and be baptized in water",
+     "Offer a sacrifice yearly",
+     "Keep silence"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-6-mc-55",
+    "type": "multiple_choice",
+    "after_verse": 55,
+    "question": "In Moses 6:54, whose sins cannot be answered upon the heads of the children?",
+    "options": [
+     "The sins of the parents",
+     "The sins of the prophets",
+     "The sins of the kings",
+     "The sins of Cain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-6-mc-60",
+    "type": "multiple_choice",
+    "after_verse": 60,
+    "question": "In Moses 6:59-60, by what three things does the Lord teach that men must be born again?",
+    "options": [
+     "Fire, wind, and earth",
+     "Water, the Spirit, and the blood",
+     "Gold, silver, and bronze",
+     "Faith, hope, and charity"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-6-mc-65",
+    "type": "multiple_choice",
+    "after_verse": 65,
+    "question": "In Moses 6:64-65, what happened to Adam after he was laid under the water?",
+    "options": [
+     "He was made king",
+     "He was born of the Spirit and quickened in the inner man",
+     "He fell asleep",
+     "He fled from the Lord"
+    ],
+    "answer": 1
+   }
+  ],
+  "7": [
+   {
+    "id": "moses-7-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Moses 7:3, what happened to Enoch as he stood upon the mount?",
+    "options": [
+     "He was clothed upon with glory",
+     "He fell asleep",
+     "He was struck blind",
+     "He heard nothing"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-7-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "In Moses 7:8, what came upon the children of Canaan?",
+    "options": [
+     "A blessing of rain",
+     "A blackness",
+     "A crown of gold",
+     "A song of joy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-7-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Moses 7:13, what happened when Enoch spake the word of the Lord?",
+    "options": [
+     "The people laughed",
+     "The sun stood still",
+     "The earth trembled and the mountains fled",
+     "The sea dried up entirely"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-7-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "In Moses 7:19, what did Enoch call the city that he built?",
+    "options": [
+     "Enoch",
+     "Cainan",
+     "Shulon",
+     "Zion"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "moses-7-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "the power of {0} was upon all the face of the earth",
+    "blanks": [
+     "Satan"
+    ],
+    "distractors": [
+     "heaven",
+     "the Lord",
+     "the fathers"
+    ]
+   },
+   {
+    "id": "moses-7-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "In Moses 7:28-29, what astonished Enoch about the God of heaven?",
+    "options": [
+     "That he could weep",
+     "That he could not see them",
+     "That he had forgotten them",
+     "That he slept"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-7-mc-34",
+    "type": "multiple_choice",
+    "after_verse": 34,
+    "question": "In Moses 7:33-34, why is the fire of God's indignation kindled against them?",
+    "options": [
+     "Because they built no altars",
+     "Because they are without affection and hate their own blood",
+     "Because they left the land",
+     "Because they numbered the earth"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-7-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "In Moses 7:38, what has the Lord prepared for those who will perish in the floods?",
+    "options": [
+     "A crown",
+     "A feast",
+     "A prison",
+     "A city"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-7-mc-43",
+    "type": "multiple_choice",
+    "after_verse": 43,
+    "question": "In Moses 7:42-43, whom did Enoch see build an ark?",
+    "options": [
+     "Adam",
+     "Seth",
+     "Noah",
+     "Methuselah"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-7-mc-48",
+    "type": "multiple_choice",
+    "after_verse": 48,
+    "question": "In Moses 7:48, who cried out in pain because of the wickedness of her children?",
+    "options": [
+     "The city of Zion",
+     "The earth, the mother of men",
+     "The daughter of Canaan",
+     "The wife of Enoch"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-7-mc-52",
+    "type": "multiple_choice",
+    "after_verse": 52,
+    "question": "In Moses 7:50-51, what did Enoch plead the Lord would have mercy upon?",
+    "options": [
+     "Cain and his seed",
+     "Noah and his seed",
+     "The people of Canaan",
+     "The giants"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-7-mc-57",
+    "type": "multiple_choice",
+    "after_verse": 57,
+    "question": "In Moses 7:56-57, what did Enoch behold the Son of Man lifted up upon?",
+    "options": [
+     "A throne",
+     "A mountain",
+     "The cross",
+     "A chariot"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-7-mc-62",
+    "type": "multiple_choice",
+    "after_verse": 62,
+    "question": "In Moses 7:62, what shall the Holy City be called?",
+    "options": [
+     "Babylon",
+     "Salem",
+     "Nod",
+     "Zion, a New Jerusalem"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "moses-7-mc-67",
+    "type": "multiple_choice",
+    "after_verse": 69,
+    "question": "In Moses 7:69, why was Zion taken up, so that Zion was not?",
+    "options": [
+     "God received it up into his own bosom",
+     "It was hidden in the mountains",
+     "It sank into the sea",
+     "It was scattered abroad"
+    ],
+    "answer": 0
+   }
+  ],
+  "8": [
+   {
+    "id": "moses-8-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Methuselah, the long-lived",
+    "text": "Moses 8 continues the genealogy toward Noah; Methuselah, whose days would be nine hundred sixty-nine years, was not taken up with Zion so that Noah could come of his line."
+   },
+   {
+    "id": "moses-8-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "In Moses 8:2, why was Methuselah not taken up (into heaven)?",
+    "options": [
+     "That the covenants of the Lord might be fulfilled, that Noah should be of his loins",
+     "Because he rebelled",
+     "Because he was too young",
+     "Because he hid from the Lord"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-8-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "In Moses 8:9, what did Lamech say his son Noah would do?",
+    "options": [
+     "Rule over the earth",
+     "Comfort them concerning their work and toil",
+     "Build a great city",
+     "Number the stars"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "moses-8-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Moses 8:13, what were Noah and his sons called?",
+    "options": [
+     "The sons of God",
+     "The men of renown",
+     "The giants",
+     "The tillers of the ground"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "moses-8-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "In Moses 8:18, who sought to take away Noah's life?",
+    "options": [
+     "His own sons",
+     "The kings of the earth",
+     "The giants",
+     "The daughters of men"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-8-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "In Moses 8:23-24, what did Noah preach the people must do?",
+    "options": [
+     "Offer sacrifices only",
+     "Build an ark with him",
+     "Believe, repent, and be baptized in the name of Jesus Christ",
+     "Flee to the mountains"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "moses-8-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "In Moses 8:28-30, with what was the earth filled before God?",
+    "options": [
+     "Righteousness",
+     "Violence",
+     "Peace",
+     "Abundance"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

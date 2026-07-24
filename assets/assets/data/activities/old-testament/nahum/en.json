@@ -1,0 +1,200 @@
+{
+ "schema_version": 1,
+ "book": "nahum",
+ "chapters": {
+  "1": [
+   {
+    "id": "nahum-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The comfort of Nahum",
+    "text": "The name Nahum means 'comfort' or 'consolation.' Though his book thunders judgment against Nineveh, its message was a comfort to Judah, oppressed by the cruel Assyrian empire."
+   },
+   {
+    "id": "nahum-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "According to Nahum 1:5, what happens at the presence of the Lord?",
+    "options": [
+     "The mountains quake and the hills melt",
+     "The sea parts in two",
+     "The stars fall from heaven",
+     "The sun stands still"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "they shall be devoured as {0} fully dry",
+    "blanks": [
+     "stubble"
+    ],
+    "distractors": [
+     "straw",
+     "leaves",
+     "chaff"
+    ]
+   },
+   {
+    "id": "nahum-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Nahum 1:15, whose feet are seen upon the mountains bringing good tidings?",
+    "options": [
+     "Of him that bringeth good tidings, that publisheth peace",
+     "Of the king of Assyria",
+     "Of the destroying army",
+     "Of the priests of Nineveh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "Good in the day of trouble",
+    "text": "Amid the storm of judgment, verse 7 is a quiet oasis: 'The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him' — mercy set right beside justice."
+   }
+  ],
+  "2": [
+   {
+    "id": "nahum-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Nahum 2:4, how are the chariots described as they rage in the streets?",
+    "options": [
+     "They run like the lightnings",
+     "They roll silently",
+     "They stand still in fear",
+     "They turn back to the gates"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Take ye the spoil of silver, take the spoil of {0}",
+    "blanks": [
+     "gold"
+    ],
+    "distractors": [
+     "bronze",
+     "iron",
+     "grain"
+    ]
+   },
+   {
+    "id": "nahum-2-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "The palace",
+      "right": "shall be dissolved"
+     },
+     {
+      "left": "The gates of the rivers",
+      "right": "shall be opened"
+     },
+     {
+      "left": "The spoil of silver and gold",
+      "right": "shall be taken"
+     }
+    ]
+   },
+   {
+    "id": "nahum-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Nahum 2:13, the Lord of hosts declares he is against Nineveh and will burn what in the smoke?",
+    "options": [
+     "Her chariots",
+     "Her temples",
+     "Her ships",
+     "Her fields"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "The den of lions",
+    "text": "Verse 11 asks, 'Where is the dwelling of the lions?' Assyrian kings adorned their palaces with lion hunts and prided themselves on ferocity — so Nahum's image of an empty lions' den was a sharp taunt."
+   }
+  ],
+  "3": [
+   {
+    "id": "nahum-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The bloody city",
+    "text": "Nahum 3:1 opens with 'Woe to the bloody city!' Nineveh's own kings boasted in inscriptions of flaying captives and piling up heads — a reputation for terror that the prophet turns against it."
+   },
+   {
+    "id": "nahum-3-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Nahum 3:4, what is Nineveh compared to because of her seductions of the nations?",
+    "options": [
+     "A harlot and mistress of witchcrafts",
+     "A gentle shepherdess",
+     "A wise queen",
+     "A faithful bride"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "According to Nahum 3:7, what will all who look upon fallen Nineveh say and do?",
+    "options": [
+     "Flee from her and say she is laid waste",
+     "Rebuild her walls",
+     "Weep beside her rivers",
+     "Crown a new king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "In Nahum 3:13, what does the prophet say the people in the midst of the city have become?",
+    "options": [
+     "Women",
+     "Kings",
+     "Priests",
+     "Giants"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "How does Nahum 3:19 describe Nineveh's wound?",
+    "options": [
+     "There is no healing of it; it is grievous",
+     "It is easily bound up",
+     "It heals within a day",
+     "It leaves no scar"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Better than No?",
+    "text": "Nahum 3:8 asks if Nineveh is 'better than populous No' — that is, Thebes in Egypt, which the Assyrians themselves had sacked in 663 BC. The prophet warns the destroyer that its own turn has come."
+   }
+  ]
+ }
+}

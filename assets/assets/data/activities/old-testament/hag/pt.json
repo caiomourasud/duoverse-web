@@ -1,0 +1,166 @@
+{
+ "schema_version": 1,
+ "book": "hag",
+ "chapters": {
+  "1": [
+   {
+    "id": "hag-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um profeta com data",
+    "text": "Ageu é um dos livros mais precisamente datados da Bíblia: o versículo 1 fixa a sua primeira mensagem no 'ano segundo do rei Dario, no sexto mês, no primeiro dia' — por volta de 520 a.C., entre os exilados que voltaram a Judá."
+   },
+   {
+    "id": "hag-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "O que o povo dizia sobre reconstruir a casa do Senhor em Ageu 1:2?",
+    "options": [
+     "Não é vindo o tempo de edificá-la",
+     "Deveria ser edificada de imediato",
+     "Outro povo deveria edificá-la",
+     "Deveria ser edificada na Babilônia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Por causa da minha {0}, que está deserta",
+    "blanks": [
+     "casa"
+    ],
+    "distractors": [
+     "vinha",
+     "cidade",
+     "terra"
+    ]
+   },
+   {
+    "id": "hag-1-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "Semeais muito",
+      "right": "e recolheis pouco"
+     },
+     {
+      "left": "comeis",
+      "right": "porém não vos fartais"
+     },
+     {
+      "left": "bebeis",
+      "right": "porém não vos saciais"
+     }
+    ]
+   },
+   {
+    "id": "hag-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Como Zorobabel, Josué e o povo responderam à mensagem de Ageu (Ageu 1:12)?",
+    "options": [
+     "Zombaram do profeta",
+     "Fugiram para a Babilônia",
+     "Obedeceram à voz do Senhor e temeram diante dele",
+     "Exigiram um novo rei"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "hag-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que ordem o Senhor repete a Zorobabel, Josué e ao povo em Ageu 2:4?",
+    "options": [
+     "Sê forte e trabalhai, porque eu sou convosco",
+     "Deixai a terra",
+     "Oferecei mais sacrifícios",
+     "Esperai dez anos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-2-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "e virá o {0} de Todas as Nações",
+    "blanks": [
+     "Desejado"
+    ],
+    "distractors": [
+     "Rei",
+     "Tesouro",
+     "Exército"
+    ]
+   },
+   {
+    "id": "hag-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Uma glória maior prometida",
+    "text": "Embora os exilados que voltaram chorassem que o templo reconstruído parecia 'nada' diante do de Salomão, Ageu 2:9 prometeu que a glória desta última casa seria maior do que a da primeira — lido por muitos como algo além de pedra e ouro."
+   },
+   {
+    "id": "hag-2-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Quando se perguntou aos sacerdotes se carne santa na aba da veste santificava, ao toque, o pão ou o vinho, o que responderam (Ageu 2:12)?",
+    "options": [
+     "Sim",
+     "Não",
+     "Só o pão",
+     "Só o vinho"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mp-8",
+    "type": "match_pairs",
+    "after_verse": 8,
+    "pairs": [
+     {
+      "left": "Minha é",
+      "right": "a prata"
+     },
+     {
+      "left": "meu é",
+      "right": "o ouro"
+     }
+    ]
+   },
+   {
+    "id": "hag-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Com que três coisas o Senhor diz que feriu a obra das suas mãos em Ageu 2:17?",
+    "options": [
+     "Fogo, dilúvio e fome",
+     "Queimadura, ferrugem e saraiva",
+     "Gafanhotos, seca e trevas",
+     "Espada, peste e vento"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que o Senhor promete fazer de Zorobabel em Ageu 2:23?",
+    "options": [
+     "Um grande rei",
+     "Um sumo sacerdote",
+     "Como um anel de selar, pois o escolheu",
+     "Um profeta como Ageu"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

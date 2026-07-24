@@ -1,0 +1,214 @@
+{
+ "schema_version": 1,
+ "book": "zeph",
+ "chapters": {
+  "1": [
+   {
+    "id": "zeph-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A prophet in Josiah's reign",
+    "text": "Verse 1 dates Zephaniah's message to 'the days of Josiah,' the reforming king of Judah — a generation before Jerusalem fell to Babylon, while there was still time to turn back."
+   },
+   {
+    "id": "zeph-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "In Zephaniah 1:6, whom will the Lord cut off along with the idolaters?",
+    "options": [
+     "Those turned back from the Lord who have not sought him",
+     "The poor of the land",
+     "The foreign merchants",
+     "The prophets of Baal only"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Zephaniah 1:10, from where shall there be the noise of a cry in that day?",
+    "options": [
+     "From the temple gate",
+     "From the fish gate",
+     "From the king's palace",
+     "From the sheep gate"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-1-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "In Zephaniah 1:12, how will the Lord search Jerusalem?",
+    "options": [
+     "With a sword",
+     "With fire",
+     "With candles",
+     "With a whirlwind"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "zeph-1-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "Neither their silver nor their {0} shall be able to deliver them",
+    "blanks": [
+     "gold"
+    ],
+    "distractors": [
+     "bread",
+     "horses",
+     "walls"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "zeph-2-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "A refuge for the meek",
+    "text": "Amid the warnings, verse 3 offers hope: the meek who 'seek righteousness, seek meekness' may be hidden in the day of the Lord's anger — judgment is not the only word."
+   },
+   {
+    "id": "zeph-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Zephaniah 2:4, which cities are named for desolation?",
+    "options": [
+     "Tyre and Sidon",
+     "Gaza, Ashkelon, Ashdod, and Ekron",
+     "Damascus and Samaria",
+     "Babylon and Nineveh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Surely Moab shall be as {0}, and the children of Ammon as Gomorrah",
+    "blanks": [
+     "Sodom"
+    ],
+    "distractors": [
+     "Egypt",
+     "Edom",
+     "Babylon"
+    ]
+   },
+   {
+    "id": "zeph-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Zephaniah 2:15, what had the rejoicing city said in her heart?",
+    "options": [
+     "The Lord will not do evil",
+     "I am, and there is none beside me",
+     "My gods have saved me",
+     "No enemy can reach me"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "zeph-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "How does Zephaniah 3:5 describe the Lord in the midst of the city?",
+    "options": [
+     "He is just and will not do iniquity",
+     "He has forsaken her",
+     "He is silent and far off",
+     "He is angry beyond measure"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "zeph-3-mp-4",
+    "type": "match_pairs",
+    "after_verse": 4,
+    "pairs": [
+     {
+      "left": "Her princes",
+      "right": "Roaring lions"
+     },
+     {
+      "left": "Her judges",
+      "right": "Evening wolves"
+     },
+     {
+      "left": "Her priests",
+      "right": "Polluted the sanctuary"
+     }
+    ]
+   },
+   {
+    "id": "zeph-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Zephaniah 3:9, what will the Lord turn to the people so that all may call on his name?",
+    "options": [
+     "A new temple",
+     "A pure language",
+     "A written law",
+     "A great feast"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Zephaniah 3:15, what has the Lord done for the daughter of Zion?",
+    "options": [
+     "Hidden his face from her",
+     "Taken away her judgments and cast out her enemy",
+     "Handed her to the nations",
+     "Left her without a king"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "he will {0} over thee with joy",
+    "blanks": [
+     "rejoice"
+    ],
+    "distractors": [
+     "mourn",
+     "reign",
+     "watch"
+    ]
+   },
+   {
+    "id": "zeph-3-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "In Zephaniah 3:20, what does the Lord promise to make of his people among all the peoples of the earth?",
+    "options": [
+     "A warning and a byword",
+     "A name and a praise",
+     "A great army",
+     "A quiet remnant"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "zeph-3-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "God singing over his people",
+    "text": "Verse 17 gives one of the tenderest images in scripture: the Lord 'will joy over thee with singing.' A book of judgment ends with God himself rejoicing over the restored remnant."
+   }
+  ]
+ }
+}

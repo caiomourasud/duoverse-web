@@ -1,0 +1,5781 @@
+{
+  "schema_version": 1,
+  "book": "gen",
+  "chapters": {
+    "1": [
+      {
+        "id": "gen-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "In the beginning God created the {0} and the earth.",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "firmament",
+          "waters",
+          "seas"
+        ]
+      },
+      {
+        "id": "gen-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "On the second day, what did God call the firmament?",
+        "options": [
+          "Heaven",
+          "Earth",
+          "Day",
+          "Seas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And God said, Let there be {0} in the firmament of the heaven",
+        "blanks": [
+          "lights"
+        ],
+        "distractors": [
+          "waters",
+          "whales",
+          "seasons"
+        ]
+      },
+      {
+        "id": "gen-1-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "According to verse 16, what was the lesser light made to rule?",
+        "options": [
+          "The night",
+          "The day",
+          "The seas",
+          "The stars"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "And God created great {0}, and every living creature that moveth",
+        "blanks": [
+          "whales"
+        ],
+        "distractors": [
+          "fowls",
+          "cattle",
+          "beasts"
+        ]
+      },
+      {
+        "id": "gen-1-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "\"Let us make man\"",
+        "text": "In verse 26 God speaks in the plural — \"Let us make man in our image.\" Mankind is the only part of creation made in God's image, and to it is given dominion over the fish, the fowl, and the living things of the earth."
+      },
+      {
+        "id": "gen-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "So God created man in his own {0}",
+        "blanks": [
+          "image"
+        ],
+        "distractors": [
+          "spirit",
+          "dust",
+          "darkness"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "gen-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The first holy day",
+        "text": "The seventh day is the first thing the Bible calls holy: God blesses and sanctifies it long before any temple or priest exists, setting the pattern for sabbath rest."
+      },
+      {
+        "id": "gen-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And God blessed the seventh day, and {0} it: because that in it he had rested from all his work which God created and made.",
+        "blanks": [
+          "sanctified"
+        ],
+        "distractors": [
+          "divided",
+          "watered",
+          "gathered"
+        ]
+      },
+      {
+        "id": "gen-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "In Genesis 2, what did the Lord God form man from?",
+        "options": [
+          "The dust of the ground",
+          "The waters of the sea",
+          "A pillar of stone",
+          "The breath of the wind"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "the tree of life also in the midst of the garden, and the tree of knowledge of good and {0}.",
+        "blanks": [
+          "evil"
+        ],
+        "distractors": [
+          "water",
+          "light",
+          "fruit"
+        ]
+      },
+      {
+        "id": "gen-2-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Pison",
+            "right": "Compasseth the land of Havilah, where there is gold"
+          },
+          {
+            "left": "Gihon",
+            "right": "Compasseth the whole land of Ethiopia"
+          },
+          {
+            "left": "Hiddekel",
+            "right": "Goeth toward the east of Assyria"
+          },
+          {
+            "left": "Euphrates",
+            "right": "The fourth river of Eden"
+          }
+        ]
+      },
+      {
+        "id": "gen-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "for in the day that thou eatest thereof thou shalt surely {0}.",
+        "blanks": [
+          "die"
+        ],
+        "distractors": [
+          "rest",
+          "sleep",
+          "toil"
+        ]
+      },
+      {
+        "id": "gen-2-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "This is now bone of my bones, and flesh of my flesh: she shall be called {0}, because she was taken out of Man.",
+        "blanks": [
+          "Woman"
+        ],
+        "distractors": [
+          "Eve",
+          "Helper",
+          "Mother"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "gen-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to the serpent, what would happen to Adam and Eve if they ate the fruit?",
+        "options": [
+          "Their eyes would be opened and they would be as gods",
+          "They would live forever in the garden",
+          "They would receive new names",
+          "They would be cast out at once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-3-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "The first garments",
+        "text": "When they realized they were naked, Adam and Eve sewed fig leaves together, described in verse 7 as humanity's first improvised clothing."
+      },
+      {
+        "id": "gen-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "And the {0} of them both were opened",
+        "blanks": [
+          "eyes"
+        ],
+        "distractors": [
+          "ears",
+          "hands",
+          "mouths"
+        ]
+      },
+      {
+        "id": "gen-3-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "upon thy {0} shalt thou go",
+        "blanks": [
+          "belly"
+        ],
+        "distractors": [
+          "head",
+          "back",
+          "feet"
+        ]
+      },
+      {
+        "id": "gen-3-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And Adam called his wife’s name {0}",
+        "blanks": [
+          "Eve"
+        ],
+        "distractors": [
+          "Sarah",
+          "Rachel",
+          "Leah"
+        ]
+      },
+      {
+        "id": "gen-3-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did God place at the east of the garden to guard the way to the tree of life?",
+        "options": [
+          "Cherubims and a flaming sword",
+          "A high stone wall",
+          "A great flood of waters",
+          "An angel with a trumpet"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "gen-4-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And Adam knew Eve his wife; and she conceived, and bare {0}, and said, I have gotten a man from the Lord.",
+        "blanks": [
+          "Cain"
+        ],
+        "distractors": [
+          "Abel",
+          "Seth",
+          "Enoch"
+        ]
+      },
+      {
+        "id": "gen-4-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Firstlings of the flock",
+        "text": "Abel offered the firstlings of his flock and their fat — the choicest, most valuable parts. The text notes the Lord had respect to Abel's offering, an early scriptural emphasis on giving God one's best."
+      },
+      {
+        "id": "gen-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "When the Lord asks Cain where his brother is, how does Cain answer?",
+        "options": [
+          "I know not: Am I my brother's keeper?",
+          "He has gone to the land of Nod.",
+          "I sent him to till the ground.",
+          "He keepeth the sheep in the field."
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And Cain went out from the presence of the Lord, and dwelt in the land of {0}, on the east of Eden.",
+        "blanks": [
+          "Nod"
+        ],
+        "distractors": [
+          "Eden",
+          "Canaan",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-4-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And {0} took unto him two wives: the name of the one was Adah, and the name of the other Zillah.",
+        "blanks": [
+          "Lamech"
+        ],
+        "distractors": [
+          "Cain",
+          "Enoch",
+          "Jabal"
+        ]
+      },
+      {
+        "id": "gen-4-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "and he called his name {0}: then began men to call upon the name of the Lord.",
+        "blanks": [
+          "Enos"
+        ],
+        "distractors": [
+          "Seth",
+          "Abel",
+          "Jubal"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "gen-5-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The book of generations",
+        "text": "The chapter opens by calling itself \"the book of the generations of Adam.\" It is the first of several genealogies in Genesis, written to connect Adam to Noah and trace humanity's line down to the Flood."
+      },
+      {
+        "id": "gen-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to verse 5, how many years did Adam live in all?",
+        "options": [
+          "Nine hundred and thirty years",
+          "Eight hundred years",
+          "One hundred and thirty years",
+          "Five hundred years"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Which son did Seth beget, continuing the lineage?",
+        "options": [
+          "Enos",
+          "Cainan",
+          "Jared",
+          "Methuselah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "pairs": [
+          {
+            "left": "Enos",
+            "right": "begat Cainan"
+          },
+          {
+            "left": "Cainan",
+            "right": "begat Mahalaleel"
+          },
+          {
+            "left": "Adam",
+            "right": "begat Seth"
+          }
+        ]
+      },
+      {
+        "id": "gen-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Which son did Jared beget?",
+        "options": [
+          "Enoch",
+          "Mahalaleel",
+          "Lamech",
+          "Shem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "And Enoch {0} with God: and he was not; for God took him.",
+        "blanks": [
+          "walked"
+        ],
+        "distractors": [
+          "spoke",
+          "wrestled",
+          "stumbled"
+        ]
+      },
+      {
+        "id": "gen-5-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Which son did Methuselah beget?",
+        "options": [
+          "Lamech",
+          "Enoch",
+          "Cainan",
+          "Japheth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-5-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And he called his name Noah, saying, This same shall {0} us concerning our work and toil of our hands",
+        "blanks": [
+          "comfort"
+        ],
+        "distractors": [
+          "judge",
+          "accompany",
+          "abandon"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "gen-6-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "his days shall be an hundred and {0} years",
+        "blanks": [
+          "twenty"
+        ],
+        "distractors": [
+          "thirty",
+          "fifty",
+          "forty"
+        ]
+      },
+      {
+        "id": "gen-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Why did the Lord say He would destroy man from the face of the earth?",
+        "options": [
+          "It repented Him that He had made them",
+          "They had forgotten His name",
+          "They refused to build an ark",
+          "They had left the garden"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-6-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "Noah found grace",
+        "text": "Noah is described as a just man who walked with God, and he is the first person in scripture said to have found grace in the eyes of the Lord, setting him apart from the corrupt generation around him."
+      },
+      {
+        "id": "gen-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "the earth was filled with {0}",
+        "blanks": [
+          "violence"
+        ],
+        "distractors": [
+          "gladness",
+          "peace",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "gen-6-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Make thee an ark of {0} wood",
+        "blanks": [
+          "gopher"
+        ],
+        "distractors": [
+          "cedar",
+          "acacia",
+          "oak"
+        ]
+      },
+      {
+        "id": "gen-6-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "How many of every living thing was Noah to bring into the ark?",
+        "options": [
+          "Two of every sort",
+          "One of every sort",
+          "Seven of every sort",
+          "Ten of every sort"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "gen-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "for thee have I seen {0} before me in this generation",
+        "blanks": [
+          "righteous"
+        ],
+        "distractors": [
+          "wise",
+          "humble",
+          "mighty"
+        ]
+      },
+      {
+        "id": "gen-7-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Seven pairs of clean animals",
+        "text": "Unlike the general command in Genesis 6 (\"two of every sort\"), here the Lord asks for seven pairs of every clean beast and of the fowls; the surplus would later let Noah offer burnt offerings after the flood without wiping out those kinds."
+      },
+      {
+        "id": "gen-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How long did it rain upon the earth during the flood?",
+        "options": [
+          "Seven days and seven nights",
+          "Forty days and forty nights",
+          "Fifteen days and fifteen nights",
+          "A hundred and fifty days and nights"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-7-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "and the {0} shut him in",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "Noah",
+          "Shem",
+          "Japheth"
+        ]
+      },
+      {
+        "id": "gen-7-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Forty days and nights",
+            "right": "Length of the rain upon the earth"
+          },
+          {
+            "left": "Fifteen cubits",
+            "right": "Height the waters rose above the mountains"
+          },
+          {
+            "left": "A hundred and fifty days",
+            "right": "How long the waters prevailed"
+          },
+          {
+            "left": "Six hundred years",
+            "right": "Noah's age when the flood came"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "gen-8-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The mountains of Ararat",
+        "text": "The ark came to rest upon the mountains of Ararat, a mountainous region identified with present-day eastern Armenia and eastern Turkey. The text speaks of \"mountains\" in the plural, not a single peak."
+      },
+      {
+        "id": "gen-8-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "upon the mountains of {0}.",
+        "blanks": [
+          "Ararat"
+        ],
+        "distractors": [
+          "Shinar",
+          "Assyria",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did the dove bring back in her mouth, showing Noah that the waters had abated?",
+        "options": [
+          "An olive leaf",
+          "A fig branch",
+          "An ear of wheat",
+          "A palm leaf"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Noah removed the {0} of the ark, and looked",
+        "blanks": [
+          "covering"
+        ],
+        "distractors": [
+          "window",
+          "door",
+          "roof"
+        ]
+      },
+      {
+        "id": "gen-8-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And Noah builded an {0} unto the Lord",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "house",
+          "tower",
+          "tent"
+        ]
+      },
+      {
+        "id": "gen-8-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Ararat",
+            "right": "Mountains where the ark rested"
+          },
+          {
+            "left": "Dove",
+            "right": "Brought back the olive leaf"
+          },
+          {
+            "left": "Raven",
+            "right": "Bird sent first, went to and fro"
+          },
+          {
+            "left": "Altar",
+            "right": "Where Noah offered burnt offerings"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "gen-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A second beginning",
+        "text": "The blessing \"Be fruitful, and multiply, and replenish the earth\" closely echoes the blessing given to Adam and Eve in Genesis 1:28. After the flood, Noah and his sons are again charged to fill the earth, marking a fresh start for the human family."
+      },
+      {
+        "id": "gen-9-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to verses 3 and 4, what does God forbid people to eat along with the flesh?",
+        "options": [
+          "Flesh with its blood",
+          "The green herb",
+          "The fishes of the sea",
+          "The fowls of the air"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-9-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "for in the image of God made he {0}.",
+        "blanks": [
+          "man"
+        ],
+        "distractors": [
+          "beast",
+          "angel",
+          "king"
+        ]
+      },
+      {
+        "id": "gen-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "I do set my {0} in the cloud, and it shall be for a token of a covenant",
+        "blanks": [
+          "bow"
+        ],
+        "distractors": [
+          "throne",
+          "star",
+          "altar"
+        ]
+      },
+      {
+        "id": "gen-9-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "According to verses 11 to 15, what does God promise through the covenant of the rainbow?",
+        "options": [
+          "That a flood will never again destroy all flesh",
+          "That the earth will bear fruit year round",
+          "That people will live forever",
+          "That there will be no more winter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-9-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "were Shem, and Ham, and Japheth: and Ham is the father of {0}.",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Shem",
+          "Japheth",
+          "Noah"
+        ]
+      },
+      {
+        "id": "gen-9-mp-22",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Ham",
+            "right": "Saw his father's nakedness and told his brothers"
+          },
+          {
+            "left": "Shem and Japheth",
+            "right": "Covered their father without looking at him"
+          },
+          {
+            "left": "Canaan",
+            "right": "Was cursed by Noah"
+          },
+          {
+            "left": "Noah",
+            "right": "Planted a vineyard and became drunken"
+          }
+        ]
+      },
+      {
+        "id": "gen-9-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "And Noah lived after the {0} three hundred and fifty years.",
+        "blanks": [
+          "flood"
+        ],
+        "distractors": [
+          "covenant",
+          "sacrifice",
+          "garden"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "gen-10-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Whose generations are listed in this chapter?",
+        "options": [
+          "The sons of Noah",
+          "The sons of Adam",
+          "The sons of Abraham",
+          "The sons of Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-10-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And Cush begat {0}: he began to be a mighty one in the earth.",
+        "blanks": [
+          "Nimrod"
+        ],
+        "distractors": [
+          "Mizraim",
+          "Canaan",
+          "Magog"
+        ]
+      },
+      {
+        "id": "gen-10-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Nimrod the hunter",
+        "text": "Nimrod is named as the first 'mighty one in the earth' and 'a mighty hunter before the Lord.' Tradition links him to the founding of Babel and the earliest great cities of Shinar."
+      },
+      {
+        "id": "gen-10-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "went forth Asshur, and builded {0}",
+        "blanks": [
+          "Nineveh"
+        ],
+        "distractors": [
+          "Babel",
+          "Sodom",
+          "Gomorrah"
+        ]
+      },
+      {
+        "id": "gen-10-mp-15",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Japheth",
+            "right": "Gomer"
+          },
+          {
+            "left": "Ham",
+            "right": "Cush"
+          },
+          {
+            "left": "Shem",
+            "right": "Elam"
+          },
+          {
+            "left": "Cush",
+            "right": "Nimrod"
+          }
+        ]
+      },
+      {
+        "id": "gen-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "In verse 21, Shem is introduced as the father of all the children of whom?",
+        "options": [
+          "Eber",
+          "Canaan",
+          "Javan",
+          "Aram"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-10-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "the name of one was {0}; for in his days was the earth divided",
+        "blanks": [
+          "Peleg"
+        ],
+        "distractors": [
+          "Joktan",
+          "Arphaxad",
+          "Salah"
+        ]
+      },
+      {
+        "id": "gen-10-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "According to the closing verse, when were the nations divided in the earth from the sons of Noah?",
+        "options": [
+          "After the flood",
+          "Before the Creation",
+          "During the bondage in Egypt",
+          "After the exodus"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "gen-11-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Brick and slime",
+        "text": "Lacking stone on the plain of Shinar, the builders used burnt brick and slime (bitumen) for mortar — materials typical of ancient Mesopotamian construction."
+      },
+      {
+        "id": "gen-11-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "let us build us a city and a {0}, whose top may reach unto heaven",
+        "blanks": [
+          "tower"
+        ],
+        "distractors": [
+          "wall",
+          "bridge",
+          "fortress"
+        ]
+      },
+      {
+        "id": "gen-11-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Therefore is the name of it called {0}; because the Lord did there confound the language of all the earth",
+        "blanks": [
+          "Babel"
+        ],
+        "distractors": [
+          "Shinar",
+          "Canaan",
+          "Nineveh"
+        ]
+      },
+      {
+        "id": "gen-11-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Whose descendants does this genealogy after the flood follow?",
+        "options": [
+          "Shem, son of Noah",
+          "Ham, son of Noah",
+          "Japheth, son of Noah",
+          "Cain, son of Adam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-11-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What is the purpose of this list of generations in Genesis 11?",
+        "options": [
+          "To link Shem to Terah, father of Abram",
+          "To describe building the temple",
+          "To name the kings of Babylon",
+          "To list the twelve sons of Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-11-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "And Terah lived seventy years, and begat {0}, Nahor, and Haran.",
+        "blanks": [
+          "Abram"
+        ],
+        "distractors": [
+          "Lot",
+          "Shem",
+          "Arphaxad"
+        ]
+      },
+      {
+        "id": "gen-11-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Ur of the Chaldees",
+        "text": "Haran died in Ur of the Chaldees, the family's home city in southern Mesopotamia, from which they would set out toward Canaan."
+      },
+      {
+        "id": "gen-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "the name of Abram’s wife was {0}; and the name of Nahor’s wife, Milcah",
+        "blanks": [
+          "Sarai"
+        ],
+        "distractors": [
+          "Milcah",
+          "Iscah",
+          "Hagar"
+        ]
+      },
+      {
+        "id": "gen-11-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Abram",
+            "right": "Son of Terah"
+          },
+          {
+            "left": "Lot",
+            "right": "Son of Haran"
+          },
+          {
+            "left": "Sarai",
+            "right": "Abram's wife"
+          },
+          {
+            "left": "Canaan",
+            "right": "Destination land"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "gen-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A call to leave everything",
+        "text": "God asks Abram to leave three things: his country, his kindred, and his father's house. It was a complete break with the past to follow a promise he could not yet see."
+      },
+      {
+        "id": "gen-12-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "and {0} when he departed out of Haran.",
+        "blanks": [
+          "Abram was seventy and five years old"
+        ],
+        "distractors": [
+          "Abram was sixty and five years old",
+          "Abram was eighty and five years old",
+          "Abram was forty and five years old"
+        ]
+      },
+      {
+        "id": "gen-12-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "When the Lord appeared to Abram in Canaan, what did He promise to give to his seed?",
+        "options": [
+          "This land",
+          "Great riches",
+          "An army",
+          "A fortified city"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-12-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "and {0}; for the famine was grievous in the land.",
+        "blanks": [
+          "Abram went down into Egypt to sojourn there"
+        ],
+        "distractors": [
+          "Abram went down into Canaan to sojourn there",
+          "Abram went down into Haran to sojourn there",
+          "Abram went down into Sichem to sojourn there"
+        ]
+      },
+      {
+        "id": "gen-12-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Abram",
+            "right": "Patriarch called by God"
+          },
+          {
+            "left": "Sarai",
+            "right": "Abram's wife"
+          },
+          {
+            "left": "Pharaoh",
+            "right": "King of Egypt"
+          },
+          {
+            "left": "Canaan",
+            "right": "Land promised to Abram's seed"
+          }
+        ]
+      },
+      {
+        "id": "gen-12-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "And {0} because of Sarai Abram’s wife.",
+        "blanks": [
+          "the Lord plagued Pharaoh and his house with great plagues"
+        ],
+        "distractors": [
+          "the Lord plagued Abram and his house with great plagues",
+          "the Lord plagued Sarai and his house with great plagues",
+          "the Lord plagued Lot and his house with great plagues"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "gen-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Abram's wealth",
+        "text": "The text calls Abram very rich in cattle, silver, and gold. This abundance is what eventually crowded the land and forced him and Lot to part ways."
+      },
+      {
+        "id": "gen-13-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "there Abram called on the name of the {0}.",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "altar",
+          "Egypt",
+          "south"
+        ]
+      },
+      {
+        "id": "gen-13-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What reason did Abram give Lot for ending the strife between them?",
+        "options": [
+          "For we be brethren",
+          "For the land is small",
+          "For Lot was older",
+          "For the Lord commanded it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-13-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Lot lifted up his eyes, and beheld all the plain of {0}",
+        "blanks": [
+          "Jordan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Sodom",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "the men of {0} were wicked and sinners before the Lord",
+        "blanks": [
+          "Sodom"
+        ],
+        "distractors": [
+          "Canaan",
+          "Beth-el",
+          "Hebron"
+        ]
+      },
+      {
+        "id": "gen-13-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "I will make thy {0} as the dust of the earth",
+        "blanks": [
+          "seed"
+        ],
+        "distractors": [
+          "cattle",
+          "tents",
+          "silver"
+        ]
+      },
+      {
+        "id": "gen-13-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Lot",
+            "right": "Chose the plain of Jordan"
+          },
+          {
+            "left": "Abram",
+            "right": "Dwelt in the plain of Mamre"
+          },
+          {
+            "left": "Sodom",
+            "right": "City of wicked men"
+          },
+          {
+            "left": "The Lord",
+            "right": "Promised the land to Abram's seed"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "gen-14-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "All these were joined together in the vale of {0}, which is the salt sea",
+        "blanks": [
+          "Siddim"
+        ],
+        "distractors": [
+          "Seir",
+          "Bela",
+          "Zoar"
+        ]
+      },
+      {
+        "id": "gen-14-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "After winning the battle in the vale of Siddim, what did the victorious kings take from Sodom and Gomorrah?",
+        "options": [
+          "All the goods and victuals of the cities",
+          "Only the captive kings",
+          "Just the animals of the fields",
+          "The stones of the city walls"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "he armed his trained servants, born in his own house, {0}, and pursued them unto Dan",
+        "blanks": [
+          "three hundred and eighteen"
+        ],
+        "distractors": [
+          "four hundred and thirty",
+          "six hundred and sixty",
+          "one hundred and twenty"
+        ]
+      },
+      {
+        "id": "gen-14-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "The first tithe",
+        "text": "Melchizedek, king of Salem, is the first person called a priest in scripture, and Abram gives him a tithe (a tenth) of all he recovered — the oldest biblical record of that practice."
+      },
+      {
+        "id": "gen-14-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And Melchizedek king of {0} brought forth bread and wine",
+        "blanks": [
+          "Salem"
+        ],
+        "distractors": [
+          "Sodom",
+          "Gomorrah",
+          "Elam"
+        ]
+      },
+      {
+        "id": "gen-14-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Melchizedek",
+            "right": "King of Salem and priest of the most high God"
+          },
+          {
+            "left": "Lot",
+            "right": "Abram's nephew, carried captive from Sodom"
+          },
+          {
+            "left": "Chedorlaomer",
+            "right": "King of Elam who led the four kings"
+          },
+          {
+            "left": "Abram",
+            "right": "Rescued the captives and paid the tithe"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "gen-15-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Look now toward heaven, and tell the {0}, if thou be able to number them",
+        "blanks": [
+          "stars"
+        ],
+        "distractors": [
+          "clouds",
+          "waters",
+          "fowls"
+        ]
+      },
+      {
+        "id": "gen-15-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Counted for righteousness",
+        "text": "Verse 6, \"he believed in the Lord; and he counted it to him for righteousness,\" became a cornerstone text on faith, later quoted by Paul to teach that righteousness comes through belief."
+      },
+      {
+        "id": "gen-15-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "I am the Lord that brought thee out of Ur of the {0}",
+        "blanks": [
+          "Chaldees"
+        ],
+        "distractors": [
+          "Amorites",
+          "Hittites",
+          "Canaanites"
+        ]
+      },
+      {
+        "id": "gen-15-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "and they shall afflict them {0} hundred years",
+        "blanks": [
+          "four"
+        ],
+        "distractors": [
+          "two",
+          "three",
+          "five"
+        ]
+      },
+      {
+        "id": "gen-15-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "In the covenant of verse 18, to which great river does the Lord promise to extend the land given to Abram's seed?",
+        "options": [
+          "The river Euphrates",
+          "The river Jordan",
+          "The river Nile",
+          "The river Tigris"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "gen-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A maid from Egypt",
+        "text": "Hagar was an Egyptian, likely acquired during Abram's stay in Egypt. Her son Ishmael is regarded as an ancestor of many Arab peoples."
+      },
+      {
+        "id": "gen-16-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "she had an handmaid, an {0}",
+        "blanks": [
+          "Egyptian"
+        ],
+        "distractors": [
+          "Canaanite",
+          "Assyrian",
+          "Babylonian"
+        ]
+      },
+      {
+        "id": "gen-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "How long had Abram dwelt in Canaan when Sarai gave him Hagar to wife?",
+        "options": [
+          "Ten years",
+          "Forty years",
+          "Seven years",
+          "A hundred years"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-16-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "by the fountain in the way to {0}",
+        "blanks": [
+          "Shur"
+        ],
+        "distractors": [
+          "Kadesh",
+          "Bered",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-16-mp-8",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Hagar",
+            "right": "Egyptian maid who fled to the wilderness"
+          },
+          {
+            "left": "Sarai",
+            "right": "Abram's wife, who bare no children"
+          },
+          {
+            "left": "Angel of the Lord",
+            "right": "Found Hagar by the fountain"
+          }
+        ]
+      },
+      {
+        "id": "gen-16-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "According to the angel, why was Hagar's son to be named Ishmael?",
+        "options": [
+          "Because the Lord had heard her affliction",
+          "Because he would be Sarai's firstborn",
+          "Because he would be born in Egypt",
+          "Because he would inherit all the land of Canaan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-16-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "the well was called {0}",
+        "blanks": [
+          "Beer-lahai-roi"
+        ],
+        "distractors": [
+          "Kadesh",
+          "Bered",
+          "Shur"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "gen-17-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The Almighty God",
+        "text": "In verse 1 God introduces Himself to Abram as \"the Almighty God.\" In Hebrew the title is El Shaddai, which appears in the scriptures for the first time here, as God establishes His covenant with Abram."
+      },
+      {
+        "id": "gen-17-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "I am the Almighty God; walk before me, and be thou {0}.",
+        "blanks": [
+          "perfect"
+        ],
+        "distractors": [
+          "humble",
+          "faithful",
+          "righteous"
+        ]
+      },
+      {
+        "id": "gen-17-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What new name does the Lord give to Abram in verse 5?",
+        "options": [
+          "Abraham",
+          "Isaac",
+          "Ishmael",
+          "Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-17-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "all the land of {0}, for an everlasting possession",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Assyria",
+          "Babylon"
+        ]
+      },
+      {
+        "id": "gen-17-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Every man child among you shall be {0}.",
+        "blanks": [
+          "circumcised"
+        ],
+        "distractors": [
+          "blessed",
+          "anointed",
+          "consecrated"
+        ]
+      },
+      {
+        "id": "gen-17-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "thou shalt not call her name Sarai, but {0} shall her name be.",
+        "blanks": [
+          "Sarah"
+        ],
+        "distractors": [
+          "Hagar",
+          "Rebekah",
+          "Rachel"
+        ]
+      },
+      {
+        "id": "gen-17-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What is the name of the son God promises to Abraham through Sarah?",
+        "options": [
+          "Isaac",
+          "Ishmael",
+          "Jacob",
+          "Joseph"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-17-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "And Ishmael his son was {0} years old, when he was circumcised",
+        "blanks": [
+          "thirteen"
+        ],
+        "distractors": [
+          "eight",
+          "ninety",
+          "forty"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "gen-18-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Hospitality of the desert",
+        "text": "Seeing the three travelers, Abraham runs to meet them, offers water to wash their feet, and prepares a meal of a calf, butter, and milk. Such eagerness reflects the sacred hospitality of the ancient Near East, where welcoming a stranger was a duty of honor."
+      },
+      {
+        "id": "gen-18-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And the Lord appeared unto him in the plains of {0}: and he sat in the tent door in the heat of the day",
+        "blanks": [
+          "Mamre"
+        ],
+        "distractors": [
+          "Sodom",
+          "Gomorrah",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "And Abraham hastened into the tent unto {0}, and said, Make ready quickly three measures of fine meal",
+        "blanks": [
+          "Sarah"
+        ],
+        "distractors": [
+          "Hagar",
+          "Rebekah",
+          "Leah"
+        ]
+      },
+      {
+        "id": "gen-18-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Therefore Sarah {0} within herself, saying, After I am waxed old shall I have pleasure",
+        "blanks": [
+          "laughed"
+        ],
+        "distractors": [
+          "wept",
+          "rejoiced",
+          "trembled"
+        ]
+      },
+      {
+        "id": "gen-18-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What promise does the Lord reaffirm about Abraham in this passage?",
+        "options": [
+          "That he shall become a great and mighty nation, and all the nations of the earth shall be blessed in him",
+          "That he shall rule over Egypt for many years",
+          "That he shall build a city called Mamre",
+          "That he shall never know sorrow"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-18-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And the Lord said, Because the cry of Sodom and {0} is great",
+        "blanks": [
+          "Gomorrah"
+        ],
+        "distractors": [
+          "Mamre",
+          "Canaan",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-18-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Shall not the {0} of all the earth do right?",
+        "blanks": [
+          "Judge"
+        ],
+        "distractors": [
+          "King",
+          "Servant",
+          "Shepherd"
+        ]
+      },
+      {
+        "id": "gen-18-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And he said, I will not destroy it for {0}",
+        "blanks": [
+          "ten"
+        ],
+        "distractors": [
+          "twenty",
+          "thirty",
+          "forty"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "gen-19-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And there came two angels to Sodom at even; and Lot sat in the gate of {0}",
+        "blanks": [
+          "Sodom"
+        ],
+        "distractors": [
+          "Gomorrah",
+          "Zoar",
+          "Hebron"
+        ]
+      },
+      {
+        "id": "gen-19-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Sacred hospitality",
+        "text": "In the ancient Near East, welcoming and protecting a guest was a sacred duty. Lot opens his home to the angels and shields them, unlike the men of Sodom."
+      },
+      {
+        "id": "gen-19-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "According to verses 9-10, how were the angels and Lot saved when the mob pressed at the door?",
+        "options": [
+          "The men reached out and pulled Lot into the house",
+          "Lot fought off the crowd alone",
+          "Abraham arrived with soldiers",
+          "Fire fell from heaven at once"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-19-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And they smote the men that were at the door of the house with {0}, both small and great",
+        "blanks": [
+          "blindness"
+        ],
+        "distractors": [
+          "fever",
+          "thirst",
+          "fear"
+        ]
+      },
+      {
+        "id": "gen-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "For we will {0} this place, because the cry of them is waxen great before the face of the Lord",
+        "blanks": [
+          "destroy"
+        ],
+        "distractors": [
+          "bless",
+          "rebuild",
+          "inherit"
+        ]
+      },
+      {
+        "id": "gen-19-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Escape for thy life; look not behind thee, neither stay thou in all the {0}",
+        "blanks": [
+          "plain"
+        ],
+        "distractors": [
+          "mountain",
+          "city",
+          "garden"
+        ]
+      },
+      {
+        "id": "gen-19-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Behold now, this city is near to flee unto, and it is a {0} one",
+        "blanks": [
+          "little"
+        ],
+        "distractors": [
+          "great",
+          "ruined",
+          "distant"
+        ]
+      },
+      {
+        "id": "gen-19-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Therefore the name of the city was called {0}.",
+        "blanks": [
+          "Zoar"
+        ],
+        "distractors": [
+          "Sodom",
+          "Gomorrah",
+          "Babel"
+        ]
+      },
+      {
+        "id": "gen-19-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "But his wife looked back from behind him, and she became a pillar of {0}.",
+        "blanks": [
+          "salt"
+        ],
+        "distractors": [
+          "stone",
+          "clay",
+          "iron"
+        ]
+      },
+      {
+        "id": "gen-19-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "According to verse 29, why did God send Lot out of the midst of the overthrow?",
+        "options": [
+          "Because God remembered Abraham",
+          "Because Lot built an altar",
+          "Because Lot paid a ransom",
+          "Because Lot was king of Zoar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-19-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "And the younger, she also bare a son, and called his name Ben-ammi: the same is the father of the children of {0} unto this day.",
+        "blanks": [
+          "Ammon"
+        ],
+        "distractors": [
+          "Moab",
+          "Edom",
+          "Egypt"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "gen-20-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sarah as a sister, again",
+        "text": "This is the second time Abraham presents Sarah as his sister to protect himself; he had already done the same before Pharaoh in Egypt (Genesis 12). In verse 13 he explains that he had arranged this plan with Sarah for every place they would come to."
+      },
+      {
+        "id": "gen-20-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "dwelled between Kadesh and Shur, and sojourned in {0}",
+        "blanks": [
+          "Gerar"
+        ],
+        "distractors": [
+          "Sodom",
+          "Hebron",
+          "Beth-el"
+        ]
+      },
+      {
+        "id": "gen-20-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "How does God warn Abimelech about Sarah?",
+        "options": [
+          "In a dream by night",
+          "Through an angel at noon",
+          "In a pillar of fire",
+          "By the mouth of Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to verse 6, what did God say He had done for Abimelech?",
+        "options": [
+          "Withheld him from sinning and from touching Sarah",
+          "Hardened his heart against Abraham",
+          "Sent a famine upon his land",
+          "Promised him a great nation"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "restore the man his wife; for he is a {0}, and he shall pray for thee",
+        "blanks": [
+          "prophet"
+        ],
+        "distractors": [
+          "priest",
+          "king",
+          "judge"
+        ]
+      },
+      {
+        "id": "gen-20-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Why did Abraham say that Sarah was his sister?",
+        "options": [
+          "He thought there was no fear of God in that place and that they would slay him for her sake",
+          "So that Abimelech would set her free",
+          "Because he had forgotten she was his wife",
+          "Because God had commanded him to lie"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "According to verse 12, what was the true kinship between Abraham and Sarah?",
+        "options": [
+          "She was the daughter of his father, but not of his mother",
+          "They were first cousins",
+          "They had no kinship at all",
+          "She was Abraham's niece"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "I have given thy brother a thousand pieces of {0}",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "bronze",
+          "copper"
+        ]
+      },
+      {
+        "id": "gen-20-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "What happened after Abraham prayed unto God?",
+        "options": [
+          "God healed Abimelech, his wife, and his maidservants",
+          "A great storm destroyed Gerar",
+          "Abimelech was struck dead",
+          "Sarah bore a son"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-20-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Abimelech",
+            "right": "King of Gerar who took Sarah"
+          },
+          {
+            "left": "Abraham",
+            "right": "Prophet who prayed for their healing"
+          },
+          {
+            "left": "Sarah",
+            "right": "Abraham's wife, restored to her husband"
+          },
+          {
+            "left": "Gerar",
+            "right": "City where Abraham sojourned"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "gen-21-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, {0}.",
+        "blanks": [
+          "Isaac"
+        ],
+        "distractors": [
+          "Ishmael",
+          "Abimelech",
+          "Phichol"
+        ]
+      },
+      {
+        "id": "gen-21-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "A hundred years of waiting",
+        "text": "Abraham was a hundred years old when Isaac was born. The name Isaac means \"he laughs,\" recalling Sarah's laughter at the thought of bearing a son in old age."
+      },
+      {
+        "id": "gen-21-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Whom did Sarah see mocking, leading her to ask that he be cast out?",
+        "options": [
+          "The son of Hagar the Egyptian",
+          "Isaac himself",
+          "Abimelech",
+          "Phichol"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "and she departed, and wandered in the {0} of Beer-sheba.",
+        "blanks": [
+          "wilderness"
+        ],
+        "distractors": [
+          "cities",
+          "tents",
+          "rivers"
+        ]
+      },
+      {
+        "id": "gen-21-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "In the wilderness, what did God do when the lad cried?",
+        "options": [
+          "He heard the voice of the lad and his angel called to Hagar out of heaven",
+          "He sent rain upon the desert",
+          "He sent Abraham to fetch them",
+          "He carried them back to Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an {0}.",
+        "blanks": [
+          "archer"
+        ],
+        "distractors": [
+          "herdman",
+          "husbandman",
+          "Egyptian"
+        ]
+      },
+      {
+        "id": "gen-21-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Who came to Abraham saying, \"God is with thee in all that thou doest\"?",
+        "options": [
+          "Abimelech and Phichol the chief captain of his host",
+          "Hagar and Ishmael",
+          "Pharaoh and his princes",
+          "Lot and the men of Sodom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Abraham set apart as a witness before Abimelech?",
+        "options": [
+          "Seven ewe lambs of the flock",
+          "Seven bottles of water",
+          "Seven wells he had digged",
+          "Seven servants"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-21-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "Wherefore he called that place {0}; because there they sware both of them.",
+        "blanks": [
+          "Beer-sheba"
+        ],
+        "distractors": [
+          "Paran",
+          "Sodom",
+          "Canaan"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "gen-22-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "What did God do to Abraham in this account?",
+        "options": [
+          "He tested (proved) him",
+          "He punished him for sin",
+          "He gave him gold",
+          "He sent a famine"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Why Moriah?",
+        "text": "Abraham was sent to the land of Moriah; tradition links this mount to the place where Solomon would later build the temple in Jerusalem."
+      },
+      {
+        "id": "gen-22-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "I and the lad will go yonder and {0}",
+        "blanks": [
+          "worship"
+        ],
+        "distractors": [
+          "rest",
+          "hunt",
+          "sleep"
+        ]
+      },
+      {
+        "id": "gen-22-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What did Isaac ask his father on the way?",
+        "options": [
+          "Where the lamb for the offering was",
+          "Who would light the fire",
+          "When they would return home",
+          "Where the altar stood"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "a {0} caught in a thicket by his horns",
+        "blanks": [
+          "ram"
+        ],
+        "distractors": [
+          "lamb",
+          "goat",
+          "ox"
+        ]
+      },
+      {
+        "id": "gen-22-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "As what did God promise to multiply Abraham's seed?",
+        "options": [
+          "The stars of heaven and the sand of the sea",
+          "The trees of the field",
+          "The rivers of the land",
+          "The birds of the air"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-22-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What news was brought to Abraham after these things?",
+        "options": [
+          "That Milcah had borne children to his brother Nahor",
+          "That Sarah had died",
+          "That a famine had come",
+          "That Isaac had married"
+        ],
+        "answer": 0
+      }
+    ],
+    "23": [
+      {
+        "id": "gen-23-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sarah, the only matriarch whose age is recorded",
+        "text": "Sarah is the only woman in the Bible whose age at death is recorded: a hundred and twenty-seven years. Hebron, where she died, became a central place in the story of the patriarchs."
+      },
+      {
+        "id": "gen-23-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And Sarah died in Kirjath-arba; the same is {0} in the land of Canaan",
+        "blanks": [
+          "Hebron"
+        ],
+        "distractors": [
+          "Machpelah",
+          "Mamre",
+          "Shinar"
+        ]
+      },
+      {
+        "id": "gen-23-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What property did Abraham ask Ephron to give him for a buryingplace?",
+        "options": [
+          "The cave of Machpelah",
+          "The oak of Moreh",
+          "The tower of Babel",
+          "The well of Beer-sheba"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-23-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "the land is worth four hundred shekels of {0}",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "brass",
+          "iron"
+        ]
+      },
+      {
+        "id": "gen-23-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Abraham buried Sarah his wife in the cave of the field of {0} before Mamre",
+        "blanks": [
+          "Machpelah"
+        ],
+        "distractors": [
+          "Hebron",
+          "Canaan",
+          "Shinar"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "gen-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Swearing under the thigh",
+        "text": "Placing a hand 'under the thigh' was the solemn patriarchal way of taking an oath, tying the promise to one's posterity and family line."
+      },
+      {
+        "id": "gen-24-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Why did Abraham make his servant swear not to take a wife for Isaac from the Canaanites?",
+        "options": [
+          "Because the Canaanites were at war with Abraham",
+          "Because he wanted a wife from his own country and kindred",
+          "Because the Canaanite women were too poor",
+          "Because the Lord had cursed that land"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "And the servant took {0} camels of the camels of his master",
+        "blanks": [
+          "ten"
+        ],
+        "distractors": [
+          "five",
+          "seven",
+          "twenty"
+        ]
+      },
+      {
+        "id": "gen-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Where and when did the servant make his camels kneel down?",
+        "options": [
+          "Inside the city at dawn",
+          "By a well of water at the time of the evening",
+          "In the market at noon",
+          "Before the temple at night"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What sign did the servant ask for to recognize the chosen woman?",
+        "options": [
+          "That she would play the harp for him",
+          "That she would give him drink and water his camels too",
+          "That she would know Abraham's name",
+          "That she would offer him gold"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "behold, Rebekah came out, who was born to Bethuel, son of {0}",
+        "blanks": [
+          "Milcah"
+        ],
+        "distractors": [
+          "Sarah",
+          "Hagar",
+          "Keturah"
+        ]
+      },
+      {
+        "id": "gen-24-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What did Rebekah offer to do after giving the servant a drink?",
+        "options": [
+          "Lead him to her father",
+          "Draw water for his camels also",
+          "Sing him a blessing",
+          "Bring him bread"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "the man took a {0} earring of half a shekel weight",
+        "blanks": [
+          "golden"
+        ],
+        "distractors": [
+          "silver",
+          "iron",
+          "wooden"
+        ]
+      },
+      {
+        "id": "gen-24-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "I am the daughter of Bethuel the son of Milcah, which she bare unto {0}",
+        "blanks": [
+          "Nahor"
+        ],
+        "distractors": [
+          "Abraham",
+          "Isaac",
+          "Laban"
+        ]
+      },
+      {
+        "id": "gen-24-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "And Rebekah had a brother, and his name was {0}",
+        "blanks": [
+          "Laban"
+        ],
+        "distractors": [
+          "Nahor",
+          "Bethuel",
+          "Ishmael"
+        ]
+      },
+      {
+        "id": "gen-24-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What did the servant do before eating the meal set before him?",
+        "options": [
+          "He refused to eat until he had told his errand",
+          "He ate and then slept",
+          "He asked for more gold first",
+          "He demanded to see Rebekah's father"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-24-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "According to the servant, what would the Lord send before him to prosper his way?",
+        "options": [
+          "An army",
+          "His angel",
+          "A star",
+          "A dream"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "Who came forth with her pitcher just as the servant finished speaking in his heart?",
+        "options": [
+          "Sarah",
+          "Rebekah",
+          "Milcah",
+          "Hagar"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "How did Laban and Bethuel answer the servant's request?",
+        "options": [
+          "They refused to give Rebekah",
+          "They said the thing proceeded from the Lord",
+          "They demanded more gifts",
+          "They sent the servant away"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-mc-55",
+        "type": "multiple_choice",
+        "after_verse": 55,
+        "question": "What did Rebekah's brother and mother ask regarding her departure?",
+        "options": [
+          "That she abide with them a few days, at the least ten",
+          "That she leave at once",
+          "That she wait a year",
+          "That she leave the gifts behind"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-24-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "When Rebekah was asked whether she would go with the man, what did she answer?",
+        "options": [
+          "'I will not'",
+          "'I will go'",
+          "'Let me wait'",
+          "'Ask my brother'"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-24-fb-60",
+        "type": "fill_blank",
+        "after_verse": 60,
+        "verse": 60,
+        "template": "be thou the mother of {0} of millions",
+        "blanks": [
+          "thousands"
+        ],
+        "distractors": [
+          "hundreds",
+          "dozens",
+          "handfuls"
+        ]
+      },
+      {
+        "id": "gen-24-cur-63",
+        "type": "curiosity",
+        "after_verse": 63,
+        "title": "Isaac meditating in the field",
+        "text": "Verse 63 shows Isaac going out 'to meditate in the field at the eventide' when he first sees the camels — a rare glimpse of Isaac's personal devotional life."
+      },
+      {
+        "id": "gen-24-fb-67",
+        "type": "fill_blank",
+        "after_verse": 67,
+        "verse": 67,
+        "template": "And Isaac brought her into his mother {0}’s tent",
+        "blanks": [
+          "Sarah"
+        ],
+        "distractors": [
+          "Rebekah",
+          "Milcah",
+          "Hagar"
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "gen-25-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "And Abraham gave all that he had unto {0}.",
+        "blanks": [
+          "Isaac"
+        ],
+        "distractors": [
+          "Ishmael",
+          "Jacob",
+          "Esau"
+        ]
+      },
+      {
+        "id": "gen-25-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "The son of promise",
+        "text": "Though Abraham fathered other sons through Keturah and his concubines, he gave the whole inheritance to Isaac, the son of the covenant, and sent the others eastward with gifts."
+      },
+      {
+        "id": "gen-25-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "After Abraham's death, whom did God bless?",
+        "options": [
+          "Isaac",
+          "Ishmael",
+          "Esau",
+          "Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-25-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How many princes came from Ishmael, according to verse 16?",
+        "options": [
+          "Twelve",
+          "Ten",
+          "Seven",
+          "Two"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-25-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "when he took {0} to wife",
+        "blanks": [
+          "Rebekah"
+        ],
+        "distractors": [
+          "Sarah",
+          "Keturah",
+          "Hagar"
+        ]
+      },
+      {
+        "id": "gen-25-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "and the elder shall serve the {0}.",
+        "blanks": [
+          "younger"
+        ],
+        "distractors": [
+          "stronger",
+          "firstborn",
+          "servant"
+        ]
+      },
+      {
+        "id": "gen-25-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Why was Esau also called Edom?",
+        "options": [
+          "Because of the red pottage he asked Jacob for",
+          "Because he was a skillful hunter",
+          "Because he was born before Jacob",
+          "Because he was a man of the field"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-25-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "thus Esau despised his {0}.",
+        "blanks": [
+          "birthright"
+        ],
+        "distractors": [
+          "inheritance",
+          "blessing",
+          "venison"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "gen-26-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Isaac went unto Abimelech king of the {0} unto Gerar",
+        "blanks": [
+          "Philistines"
+        ],
+        "distractors": [
+          "Egyptians",
+          "Hittites",
+          "Canaanites"
+        ]
+      },
+      {
+        "id": "gen-26-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How did Isaac describe Rebekah to the men of the place, fearing they would kill him?",
+        "options": [
+          "As his sister",
+          "As his wife",
+          "As his servant",
+          "As his cousin"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-26-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "received in the same year an {0}",
+        "blanks": [
+          "hundredfold"
+        ],
+        "distractors": [
+          "thirtyfold",
+          "sixtyfold",
+          "tenfold"
+        ]
+      },
+      {
+        "id": "gen-26-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "he called the name of the well {0}",
+        "blanks": [
+          "Esek"
+        ],
+        "distractors": [
+          "Sitnah",
+          "Rehoboth",
+          "Beer-sheba"
+        ]
+      },
+      {
+        "id": "gen-26-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "The wells tell the story",
+        "text": "Isaac named the wells to record the conflict and its relief: Esek means 'contention,' Sitnah means 'enmity' or 'accusation,' and Rehoboth means 'broad places,' because at last there was room to grow in peace."
+      },
+      {
+        "id": "gen-26-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Esek",
+            "right": "Well of contention"
+          },
+          {
+            "left": "Rehoboth",
+            "right": "Well of broad room"
+          },
+          {
+            "left": "Beer-sheba",
+            "right": "Place of the altar and oath"
+          },
+          {
+            "left": "Gerar",
+            "right": "City of the Philistines"
+          }
+        ]
+      },
+      {
+        "id": "gen-26-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Why did Abimelech and his men want to make an oath and covenant with Isaac?",
+        "options": [
+          "Because they saw that the Lord was with him",
+          "Because they wanted to seize his flocks",
+          "Because he owed them tribute",
+          "Because they meant to drive him out again"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-26-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "the name of the city is {0} unto this day",
+        "blanks": [
+          "Beer-sheba"
+        ],
+        "distractors": [
+          "Gerar",
+          "Rehoboth",
+          "Sitnah"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "gen-27-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Isaac's blindness",
+        "text": "Isaac was so old that his eyes were dim and he could not see; this blindness made Jacob's deception possible."
+      },
+      {
+        "id": "gen-27-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "And make me savoury meat, such as I love, and bring it to me, that I may {0}",
+        "blanks": [
+          "eat"
+        ],
+        "distractors": [
+          "bless",
+          "hunt",
+          "die"
+        ]
+      },
+      {
+        "id": "gen-27-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Go now to the flock, and fetch me from thence two good {0} of the goats",
+        "blanks": [
+          "kids"
+        ],
+        "distractors": [
+          "lambs",
+          "calves",
+          "rams"
+        ]
+      },
+      {
+        "id": "gen-27-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Behold, Esau my brother is a {0} man, and I am a smooth man",
+        "blanks": [
+          "hairy"
+        ],
+        "distractors": [
+          "wicked",
+          "wise",
+          "blind"
+        ]
+      },
+      {
+        "id": "gen-27-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What name does Jacob use to identify himself to his father?",
+        "options": [
+          "Esau, his firstborn",
+          "Jacob, his younger son",
+          "Laban his brother",
+          "Isaac his father"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-27-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "The voice is Jacob’s voice, but the hands are the hands of {0}.",
+        "blanks": [
+          "Esau"
+        ],
+        "distractors": [
+          "Isaac",
+          "Laban",
+          "Rebekah"
+        ]
+      },
+      {
+        "id": "gen-27-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "A blessing of plenty",
+        "text": "In the blessing Isaac asks God to give Jacob the dew of heaven and the fatness of the earth, with plenty of corn and wine, signs of agricultural prosperity."
+      },
+      {
+        "id": "gen-27-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Dew of heaven",
+            "right": "Blessing of rain and fertility"
+          },
+          {
+            "left": "Fatness of the earth",
+            "right": "Rich and fertile soil"
+          },
+          {
+            "left": "Corn and wine",
+            "right": "Abundant harvest"
+          }
+        ]
+      },
+      {
+        "id": "gen-27-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "I am thy son, thy {0} Esau.",
+        "blanks": [
+          "firstborn"
+        ],
+        "distractors": [
+          "younger",
+          "servant",
+          "brother"
+        ]
+      },
+      {
+        "id": "gen-27-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "How many times does Esau say Jacob has supplanted him?",
+        "options": [
+          "Two times",
+          "One time",
+          "Three times",
+          "Seven times"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-27-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "flee thou to Laban my brother to {0};",
+        "blanks": [
+          "Haran"
+        ],
+        "distractors": [
+          "Egypt",
+          "Hebron",
+          "Beer-sheba"
+        ]
+      }
+    ],
+    "28": [
+      {
+        "id": "gen-28-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Thou shalt not take a wife of the daughters of {0}.",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Haran",
+          "Beth-el",
+          "Beer-sheba"
+        ]
+      },
+      {
+        "id": "gen-28-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "When Esau saw that the daughters of Canaan displeased his father, from which relative did he take a wife?",
+        "options": [
+          "Ishmael",
+          "Laban",
+          "Bethuel",
+          "Nebajoth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-28-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Jacob's ladder",
+        "text": "The vision of a ladder with angels ascending and descending between earth and heaven became one of the most remembered images of the Old Testament, symbolizing the connection between God and humanity."
+      },
+      {
+        "id": "gen-28-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "a ladder set up on the earth, and the top of it reached to {0}",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "mountains",
+          "valleys",
+          "clouds"
+        ]
+      },
+      {
+        "id": "gen-28-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "he called the name of that place {0}",
+        "blanks": [
+          "Beth-el"
+        ],
+        "distractors": [
+          "Haran",
+          "Beer-sheba",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-28-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Beth-el",
+            "right": "House of God"
+          },
+          {
+            "left": "Padan-aram",
+            "right": "Destination of Jacob's journey"
+          },
+          {
+            "left": "Tenth",
+            "right": "Portion Jacob vowed to give"
+          }
+        ]
+      }
+    ],
+    "29": [
+      {
+        "id": "gen-29-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The stone on the well",
+        "text": "The great stone covering the well's mouth was rolled away only when all the flocks were gathered; Jacob rolled it away alone when he saw Rachel, showing his strength and eagerness."
+      },
+      {
+        "id": "gen-29-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "My brethren, whence be ye? And they said, Of {0} are we.",
+        "blanks": [
+          "Haran"
+        ],
+        "distractors": [
+          "Canaan",
+          "Padan",
+          "Mesopotamia"
+        ]
+      },
+      {
+        "id": "gen-29-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Rachel do when she came to the well?",
+        "options": [
+          "She kept her father's sheep",
+          "She wove cloth for Laban",
+          "She drew water for the city",
+          "She served Leah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-29-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "that he was her father’s brother, and that he was {0}’s son:",
+        "blanks": [
+          "Rebekah"
+        ],
+        "distractors": [
+          "Leah",
+          "Rachel",
+          "Zilpah"
+        ]
+      },
+      {
+        "id": "gen-29-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "the name of the elder was {0}, and the name of the younger was Rachel.",
+        "blanks": [
+          "Leah"
+        ],
+        "distractors": [
+          "Zilpah",
+          "Bilhah",
+          "Rebekah"
+        ]
+      },
+      {
+        "id": "gen-29-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "I will serve thee seven years for {0} thy younger daughter.",
+        "blanks": [
+          "Rachel"
+        ],
+        "distractors": [
+          "Leah",
+          "Rebekah",
+          "Zilpah"
+        ]
+      },
+      {
+        "id": "gen-29-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Whom did Laban bring to Jacob on the night of the feast, instead of Rachel?",
+        "options": [
+          "Leah",
+          "Zilpah",
+          "Bilhah",
+          "Rebekah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-29-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "The deceiver deceived",
+        "text": "Jacob, who had deceived his father to take the firstborn's blessing, is now deceived by Laban, who gives the elder daughter in place of the younger, citing local custom."
+      },
+      {
+        "id": "gen-29-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "and he loved also Rachel more than {0},",
+        "blanks": [
+          "Leah"
+        ],
+        "distractors": [
+          "Zilpah",
+          "Bilhah",
+          "Rachel"
+        ]
+      },
+      {
+        "id": "gen-29-mp-35",
+        "type": "match_pairs",
+        "after_verse": 35,
+        "pairs": [
+          {
+            "left": "Reuben",
+            "right": "Leah's firstborn son"
+          },
+          {
+            "left": "Simeon",
+            "right": "The Lord heard that she was hated"
+          },
+          {
+            "left": "Levi",
+            "right": "Now my husband will be joined unto me"
+          },
+          {
+            "left": "Judah",
+            "right": "Now will I praise the Lord"
+          }
+        ]
+      }
+    ],
+    "30": [
+      {
+        "id": "gen-30-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Why did Rachel envy her sister Leah?",
+        "options": [
+          "Because Leah was prettier",
+          "Because she herself bare Jacob no children",
+          "Because Leah had more flocks",
+          "Because Leah was the favored wife"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-30-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Children through a handmaid",
+        "text": "By the custom of the time, a barren wife could give her maidservant to her husband and count the children as her own. So Rachel gives Bilhah to Jacob to have children by her."
+      },
+      {
+        "id": "gen-30-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name {0}.",
+        "blanks": [
+          "Dan"
+        ],
+        "distractors": [
+          "Naphtali",
+          "Gad",
+          "Asher"
+        ]
+      },
+      {
+        "id": "gen-30-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And Reuben went in the days of wheat harvest, and found {0} in the field, and brought them unto his mother Leah.",
+        "blanks": [
+          "mandrakes"
+        ],
+        "distractors": [
+          "thistles",
+          "vines",
+          "sheaves"
+        ]
+      },
+      {
+        "id": "gen-30-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "God hath given me my hire, because I have given my maiden to my husband: and she called his name {0}.",
+        "blanks": [
+          "Issachar"
+        ],
+        "distractors": [
+          "Zebulun",
+          "Asher",
+          "Gad"
+        ]
+      },
+      {
+        "id": "gen-30-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What was the name of the daughter Leah bare?",
+        "options": [
+          "Dinah",
+          "Rachel",
+          "Bilhah",
+          "Zilpah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-30-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "The birth of Joseph",
+        "text": "Joseph, Rachel's son, would later be sold by his brothers and rise to save Egypt and his own family from famine. Here Rachel already asks the Lord for another son, who would be Benjamin."
+      },
+      {
+        "id": "gen-30-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "I have learned by experience that the {0} hath blessed me for thy sake.",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "Pharaoh",
+          "angel",
+          "king"
+        ]
+      },
+      {
+        "id": "gen-30-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Which animals did Jacob ask for as his wages from the flock?",
+        "options": [
+          "The firstborn",
+          "The speckled, spotted and brown",
+          "The fattest",
+          "The white-fleeced"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-30-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "And Jacob took him rods of green poplar, and of the hazel and chestnut tree; and pilled white strakes in them, and made the {0} appear which was in the rods.",
+        "blanks": [
+          "white"
+        ],
+        "distractors": [
+          "green",
+          "dark",
+          "red"
+        ]
+      },
+      {
+        "id": "gen-30-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "How does the chapter describe Jacob's prosperity at the end?",
+        "options": [
+          "He had only camels and asses",
+          "He increased exceedingly with much cattle, servants, camels and asses",
+          "He gave all his flocks to Laban",
+          "He stayed poorer than Laban"
+        ],
+        "answer": 1
+      }
+    ],
+    "31": [
+      {
+        "id": "gen-31-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The Lord’s command",
+        "text": "It is the Lord Himself who tells Jacob to return to the land of his fathers, promising, “I will be with thee.” Jacob’s departure is not merely flight from Laban but obedience to a divine commandment."
+      },
+      {
+        "id": "gen-31-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "According to Jacob (v. 7), how many times did Laban change his wages?",
+        "options": [
+          "Ten times",
+          "Seven times",
+          "Three times",
+          "Seventy times"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And the angel of God spake unto me in a dream, saying, {0}: And I said, Here am I.",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Laban",
+          "Isaac",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "gen-31-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "I am the God of {0}, where thou anointedst the pillar, and where thou vowedst a vow unto me",
+        "blanks": [
+          "Beth-el"
+        ],
+        "distractors": [
+          "Canaan",
+          "Gilead",
+          "Padan-aram"
+        ]
+      },
+      {
+        "id": "gen-31-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "And Laban went to shear his sheep: and Rachel had stolen the {0} that were her father’s.",
+        "blanks": [
+          "images"
+        ],
+        "distractors": [
+          "cattle",
+          "camels",
+          "servants"
+        ]
+      },
+      {
+        "id": "gen-31-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Toward which mount did Jacob set his face when he fled (v. 21)?",
+        "options": [
+          "Gilead",
+          "Ararat",
+          "Seir",
+          "Moreh"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to {0} either good or bad.",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Rachel",
+          "Leah",
+          "Isaac"
+        ]
+      },
+      {
+        "id": "gen-31-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What does Laban accuse Jacob of in verse 30?",
+        "options": [
+          "Stealing his gods",
+          "Killing his flocks",
+          "Destroying his tent",
+          "Seizing his servants"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-31-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "Rachel’s ruse",
+        "text": "Rachel had hidden the images in the camel’s furniture and sat upon them; by pleading “the custom of women,” she keeps her father from making her rise so he can search. So Laban searches the whole tent and finds nothing."
+      },
+      {
+        "id": "gen-31-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "This {0} years have I been with thee; thy ewes and thy she goats have not cast their young",
+        "blanks": [
+          "twenty"
+        ],
+        "distractors": [
+          "fourteen",
+          "seven",
+          "forty"
+        ]
+      },
+      {
+        "id": "gen-31-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "I served thee fourteen years for thy two daughters, and {0} years for thy cattle",
+        "blanks": [
+          "six"
+        ],
+        "distractors": [
+          "ten",
+          "twenty",
+          "seven"
+        ]
+      },
+      {
+        "id": "gen-31-mp-47",
+        "type": "match_pairs",
+        "after_verse": 47,
+        "pairs": [
+          {
+            "left": "Galeed",
+            "right": "Name Jacob gave to the heap of stones"
+          },
+          {
+            "left": "Jegar-sahadutha",
+            "right": "Name Laban gave to the same heap"
+          },
+          {
+            "left": "Mizpah",
+            "right": "Watchtower: “The Lord watch between me and thee”"
+          }
+        ]
+      },
+      {
+        "id": "gen-31-fb-53",
+        "type": "fill_blank",
+        "after_verse": 53,
+        "verse": 53,
+        "template": "The God of Abraham, and the God of {0}, the God of their father, judge betwixt us.",
+        "blanks": [
+          "Nahor"
+        ],
+        "distractors": [
+          "Isaac",
+          "Laban",
+          "Jacob"
+        ]
+      }
+    ],
+    "32": [
+      {
+        "id": "gen-32-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Mahanaim",
+        "text": "When Jacob saw the angels of God, he named the place Mahanaim, a Hebrew name meaning 'two camps' or 'two hosts.'"
+      },
+      {
+        "id": "gen-32-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "he called the name of that place {0}.",
+        "blanks": [
+          "Mahanaim"
+        ],
+        "distractors": [
+          "Seir",
+          "Edom",
+          "Peniel"
+        ]
+      },
+      {
+        "id": "gen-32-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In his prayer, which forefathers' God did Jacob invoke?",
+        "options": [
+          "Abraham and Isaac",
+          "Adam and Noah",
+          "Isaac and Esau",
+          "Abraham and Joseph"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-32-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Deliver me, I pray thee, from the hand of my {0}, from the hand of Esau",
+        "blanks": [
+          "brother"
+        ],
+        "distractors": [
+          "father",
+          "servant",
+          "lord"
+        ]
+      },
+      {
+        "id": "gen-32-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "and his eleven sons, and passed over the ford {0}.",
+        "blanks": [
+          "Jabbok"
+        ],
+        "distractors": [
+          "Jordan",
+          "Seir",
+          "Mahanaim"
+        ]
+      },
+      {
+        "id": "gen-32-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "And Jacob was left alone; and there wrestled a {0} with him until the breaking of the day.",
+        "blanks": [
+          "man"
+        ],
+        "distractors": [
+          "beast",
+          "soldier",
+          "stranger"
+        ]
+      },
+      {
+        "id": "gen-32-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Thy name shall be called no more Jacob, but {0}: for as a prince hast thou power with God",
+        "blanks": [
+          "Israel"
+        ],
+        "distractors": [
+          "Esau",
+          "Abraham",
+          "Isaac"
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "gen-33-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "How did Jacob approach Esau when they met again?",
+        "options": [
+          "He bowed to the ground seven times",
+          "He sent an army ahead of him",
+          "He hid behind the handmaids",
+          "He fled back to Padan-aram"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "An embrace instead of revenge",
+        "text": "Esau had once vowed to kill Jacob over the stolen blessing; here he instead runs, embraces his brother and weeps with him, showing that Jacob's fear gave way to forgiveness."
+      },
+      {
+        "id": "gen-33-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "How did Jacob describe the children Esau saw with him?",
+        "options": [
+          "The children which God hath graciously given thy servant",
+          "The servants he bought in Egypt",
+          "The men of war of his army",
+          "The children of Hamor, Shechem's father"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What was Esau's first response when Jacob pressed his gift upon him?",
+        "options": [
+          "I have enough, my brother; keep that thou hast",
+          "I will take all that thou hast",
+          "Bow before me seven times more",
+          "Return with me to Padan-aram"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "until I come unto my lord unto {0}",
+        "blanks": [
+          "Seir"
+        ],
+        "distractors": [
+          "Succoth",
+          "Shechem",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-33-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Why was the place named Succoth?",
+        "options": [
+          "Jacob made booths there for his cattle",
+          "Esau built an altar there",
+          "A great battle was fought there",
+          "Jacob buried his father there"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-33-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did Jacob do when he came safely near Shechem?",
+        "options": [
+          "He erected an altar and called it El-elohe-Israel",
+          "He built a fortified city",
+          "He dug a well of water",
+          "He planted a vineyard"
+        ],
+        "answer": 0
+      }
+    ],
+    "34": [
+      {
+        "id": "gen-34-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Jacob's only named daughter",
+        "text": "Dinah is the only daughter of Jacob whose name is recorded in scripture. She was a daughter of Leah, the same wife who bore several of Jacob's sons, including Simeon and Levi, who avenge their sister in this chapter."
+      },
+      {
+        "id": "gen-34-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "And {0} the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
+        "blanks": [
+          "Dinah"
+        ],
+        "distractors": [
+          "Rachel",
+          "Rebekah",
+          "Sarah"
+        ]
+      },
+      {
+        "id": "gen-34-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Why were the sons of Jacob so wroth when they came in from the field?",
+        "options": [
+          "Because Shechem had wrought folly in Israel by lying with Jacob's daughter",
+          "Because Hamor had stolen their cattle",
+          "Because Jacob had disowned them",
+          "Because the Hivites had burned their camp"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Shechem offer Dinah's father and brothers in order to marry her?",
+        "options": [
+          "Whatever dowry and gift they asked of him",
+          "A share of his father's kingdom",
+          "Land in the country of the Hivites",
+          "His own herds and flocks"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What condition did Jacob's sons deceitfully set before giving Dinah in marriage?",
+        "options": [
+          "That every man of the city be circumcised",
+          "That they hand over all the city's cattle",
+          "That the Hivites leave the land",
+          "That they pay a dowry in gold"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "How did Hamor and Shechem persuade the men of their city to agree?",
+        "options": [
+          "By saying the family's cattle and substance would become theirs",
+          "By promising them gold from Jacob's treasury",
+          "By threatening to drive them from the city",
+          "By offering them land in Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-34-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his {0}, and came upon the city boldly",
+        "blanks": [
+          "sword"
+        ],
+        "distractors": [
+          "spear",
+          "bow",
+          "staff"
+        ]
+      },
+      {
+        "id": "gen-34-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Dinah",
+            "right": "Daughter of Jacob and Leah"
+          },
+          {
+            "left": "Shechem",
+            "right": "Son of Hamor the Hivite"
+          },
+          {
+            "left": "Simeon and Levi",
+            "right": "Brothers who avenged Dinah"
+          },
+          {
+            "left": "Hamor",
+            "right": "Father of Shechem"
+          }
+        ]
+      }
+    ],
+    "35": [
+      {
+        "id": "gen-35-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "The buried foreign gods",
+        "text": "Before going up to Beth-el to worship, Jacob had his household give up their idols and earrings; he buried them under the oak at Shechem, a gesture of purification before meeting God."
+      },
+      {
+        "id": "gen-35-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "and Jacob hid them under the oak which was by {0}",
+        "blanks": [
+          "Shechem"
+        ],
+        "distractors": [
+          "Beth-el",
+          "Hebron",
+          "Beth-lehem"
+        ]
+      },
+      {
+        "id": "gen-35-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "At Beth-el, God changes Jacob's name. What does his new name become?",
+        "options": [
+          "Israel",
+          "Benjamin",
+          "Esau",
+          "Isaac"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-35-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "and he poured a drink offering thereon, and he poured {0} thereon",
+        "blanks": [
+          "oil"
+        ],
+        "distractors": [
+          "water",
+          "blood",
+          "wine"
+        ]
+      },
+      {
+        "id": "gen-35-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "she called his name Ben-oni: but his father called him {0}",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Reuben",
+          "Joseph",
+          "Simeon"
+        ]
+      },
+      {
+        "id": "gen-35-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to the end of verse 22, how many were the sons of Jacob?",
+        "options": [
+          "Twelve",
+          "Ten",
+          "Seven",
+          "Four"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-35-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "How many years did Isaac live, according to verse 28?",
+        "options": [
+          "A hundred and fourscore",
+          "A hundred and twenty",
+          "Nine hundred and thirty",
+          "Threescore and ten"
+        ],
+        "answer": 0
+      }
+    ],
+    "36": [
+      {
+        "id": "gen-36-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Esau and Edom",
+        "text": "The name 'Edom' means 'red', recalling the red pottage for which Esau sold his birthright, and also the reddish region of Seir where his descendants settled."
+      },
+      {
+        "id": "gen-36-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Esau took his wives of the daughters of {0}",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Seir",
+          "Edom",
+          "Moab"
+        ]
+      },
+      {
+        "id": "gen-36-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Why did Esau part from his brother Jacob and go into another country?",
+        "options": [
+          "Because their riches were too great for them to dwell together",
+          "Because a war broke out between them",
+          "Because a famine struck the land of Canaan",
+          "Because God commanded them to separate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "These are the names of Esau’s sons; Eliphaz the son of Adah the wife of Esau, {0} the son of Bashemath the wife of Esau.",
+        "blanks": [
+          "Reuel"
+        ],
+        "distractors": [
+          "Teman",
+          "Amalek",
+          "Kenaz"
+        ]
+      },
+      {
+        "id": "gen-36-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "According to verse 12, who was the son Timna bare to Eliphaz?",
+        "options": [
+          "Amalek",
+          "Kenaz",
+          "Reuel",
+          "Nahath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What title is given in Genesis 36 to the chiefs who descended from Esau?",
+        "options": [
+          "Dukes",
+          "Priests",
+          "Judges",
+          "Prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "These are the sons of Seir the {0}, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,",
+        "blanks": [
+          "Horite"
+        ],
+        "distractors": [
+          "Hittite",
+          "Hivite",
+          "Edomite"
+        ]
+      },
+      {
+        "id": "gen-36-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "this was that Anah that found the mules in the wilderness, as he fed the {0} of Zibeon his father",
+        "blanks": [
+          "asses"
+        ],
+        "distractors": [
+          "camels",
+          "oxen",
+          "lambs"
+        ]
+      },
+      {
+        "id": "gen-36-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "The Horites of Seir",
+        "text": "Before Esau, mount Seir was inhabited by the Horites, a people whom Esau's descendants gradually displaced, as Deuteronomy 2 also recalls."
+      },
+      {
+        "id": "gen-36-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "The listed kings reigned in Edom 'before there reigned any king' over which people?",
+        "options": [
+          "The children of Israel",
+          "The Canaanites",
+          "The Egyptians",
+          "The Philistines"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-36-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "And Bela the son of Beor reigned in {0}",
+        "blanks": [
+          "Edom"
+        ],
+        "distractors": [
+          "Seir",
+          "Moab",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-36-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "Bela",
+            "right": "Dinhabah"
+          },
+          {
+            "left": "Hadad",
+            "right": "Avith"
+          },
+          {
+            "left": "Hadar",
+            "right": "Pau"
+          }
+        ]
+      },
+      {
+        "id": "gen-36-mc-43",
+        "type": "multiple_choice",
+        "after_verse": 43,
+        "question": "How does Genesis 36 close the list of the dukes of Edom?",
+        "options": [
+          "He is Esau the father of the Edomites",
+          "He is Jacob the father of Israel",
+          "He is Seir the Horite",
+          "He is Ishmael the son of Abraham"
+        ],
+        "answer": 0
+      }
+    ],
+    "37": [
+      {
+        "id": "gen-37-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The coat of many colours",
+        "text": "Joseph's famous coat was a long, ornamented robe, a mark of favor signaling that he would be spared the hard field labor of his brothers, which deepened their jealousy."
+      },
+      {
+        "id": "gen-37-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "and he made him a coat of many {0}.",
+        "blanks": [
+          "colours"
+        ],
+        "distractors": [
+          "skins",
+          "jewels",
+          "stones"
+        ]
+      },
+      {
+        "id": "gen-37-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In Joseph's second dream, what made obeisance to him?",
+        "options": [
+          "The sun, the moon, and eleven stars",
+          "Eleven sheaves of grain in the field",
+          "Twelve sheep from his father's flock",
+          "The clouds and the winds of heaven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Where did Israel send Joseph to check on his brethren and the flock?",
+        "options": [
+          "Shechem",
+          "Dothan",
+          "Hebron",
+          "Gilead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "for I heard them say, Let us go to {0}.",
+        "blanks": [
+          "Dothan"
+        ],
+        "distractors": [
+          "Shechem",
+          "Hebron",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-37-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What name did the brothers mockingly call Joseph when they saw him approaching?",
+        "options": [
+          "This dreamer",
+          "The shepherd",
+          "The firstborn",
+          "The stranger"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Where was the company of Ishmeelites carrying their spicery, balm, and myrrh?",
+        "options": [
+          "To Egypt",
+          "To Canaan",
+          "To Dothan",
+          "To Gilead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-37-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "and sold Joseph to the Ishmeelites for twenty pieces of {0}",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "gold",
+          "brass",
+          "iron"
+        ]
+      },
+      {
+        "id": "gen-37-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "Reuben",
+            "right": "Tried to rescue Joseph and return him to his father"
+          },
+          {
+            "left": "Judah",
+            "right": "Proposed selling Joseph to the Ishmeelites"
+          },
+          {
+            "left": "Coat of many colours",
+            "right": "Dipped in goat's blood to deceive Jacob"
+          }
+        ]
+      },
+      {
+        "id": "gen-37-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "And the Midianites sold him into Egypt unto {0}, an officer",
+        "blanks": [
+          "Potiphar"
+        ],
+        "distractors": [
+          "Joseph",
+          "Judah",
+          "Reuben"
+        ]
+      }
+    ],
+    "38": [
+      {
+        "id": "gen-38-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And Judah saw there a daughter of a certain Canaanite, whose name was {0}",
+        "blanks": [
+          "Shuah"
+        ],
+        "distractors": [
+          "Hirah",
+          "Tamar",
+          "Onan"
+        ]
+      },
+      {
+        "id": "gen-38-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Judah's three sons",
+        "text": "By the daughter of Shuah, Judah fathered three sons: Er, Onan, and Shelah. The whole drama of the chapter unfolds from this Canaanite branch of his family."
+      },
+      {
+        "id": "gen-38-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What does Judah command Onan to do for his dead brother's wife?",
+        "options": [
+          "Marry her and raise up seed to his brother",
+          "Send her back to her father's house",
+          "Offer a kid from the flock as a sacrifice",
+          "Build her a house in Timnath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-38-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "And Onan knew that the {0} should not be his",
+        "blanks": [
+          "seed"
+        ],
+        "distractors": [
+          "flock",
+          "pledge",
+          "birthright"
+        ]
+      },
+      {
+        "id": "gen-38-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Behold thy father in law goeth up to {0} to shear his sheep.",
+        "blanks": [
+          "Timnath"
+        ],
+        "distractors": [
+          "Adullam",
+          "Chezib",
+          "Canaan"
+        ]
+      },
+      {
+        "id": "gen-38-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And she said, Thy signet, and thy bracelets, and thy {0} that is in thine hand.",
+        "blanks": [
+          "staff"
+        ],
+        "distractors": [
+          "garment",
+          "kid",
+          "ring"
+        ]
+      },
+      {
+        "id": "gen-38-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "When Judah learns Tamar is with child, what does he command be done to her?",
+        "options": [
+          "Bring her forth and let her be burnt",
+          "Drive her out to the land of Adullam",
+          "Give her to Shelah to wife",
+          "Let her remain a widow at her father's house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-38-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "Pharez",
+            "right": "Twin who broke forth and came out, though his brother's hand appeared first"
+          },
+          {
+            "left": "Zarah",
+            "right": "Twin upon whose hand the midwife bound the scarlet thread"
+          },
+          {
+            "left": "Tamar",
+            "right": "Mother of the twins, Judah's daughter in law"
+          }
+        ]
+      }
+    ],
+    "39": [
+      {
+        "id": "gen-39-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "bought him of the hands of the {0}",
+        "blanks": [
+          "Ishmeelites"
+        ],
+        "distractors": [
+          "Egyptians",
+          "Midianites",
+          "Hebrews"
+        ]
+      },
+      {
+        "id": "gen-39-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The Lord was with Joseph",
+        "text": "Though a slave in a foreign land, Joseph prospered because the Lord was with him; the same phrase returns at the chapter's end, inside the prison, framing the whole story."
+      },
+      {
+        "id": "gen-39-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "When Joseph refused his master's wife, against whom did he say he would be sinning?",
+        "options": [
+          "Against God",
+          "Against Pharaoh",
+          "Against the Ishmeelites",
+          "Against his brothers"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-39-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "he left his {0} in her hand, and fled, and got him out.",
+        "blanks": [
+          "garment"
+        ],
+        "distractors": [
+          "cloak",
+          "robe",
+          "sandal"
+        ]
+      },
+      {
+        "id": "gen-39-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "The {0} servant, which thou hast brought unto us",
+        "blanks": [
+          "Hebrew"
+        ],
+        "distractors": [
+          "Egyptian",
+          "Canaanite",
+          "Syrian"
+        ]
+      },
+      {
+        "id": "gen-39-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "put him into the {0}",
+        "blanks": [
+          "prison"
+        ],
+        "distractors": [
+          "field",
+          "palace",
+          "temple"
+        ]
+      }
+    ],
+    "40": [
+      {
+        "id": "gen-40-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "The king's butler",
+        "text": "The chief butler (cupbearer) was a trusted royal official who tasted and served the king's wine: a position of high confidence, because it guarded the monarch against poisoning."
+      },
+      {
+        "id": "gen-40-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Which two servants of the king of Egypt were imprisoned with Joseph?",
+        "options": [
+          "The butler and the baker",
+          "The scribe and the soldier",
+          "The steward and the gardener",
+          "The minister and the priest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-40-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "And Pharaoh’s cup was in my hand: and I took the {0}, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.",
+        "blanks": [
+          "grapes"
+        ],
+        "distractors": [
+          "olives",
+          "dates",
+          "figs"
+        ]
+      },
+      {
+        "id": "gen-40-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy {0}: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.",
+        "blanks": [
+          "place"
+        ],
+        "distractors": [
+          "throne",
+          "kingdom",
+          "palace"
+        ]
+      },
+      {
+        "id": "gen-40-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "I also was in my dream, and, behold, I had three white {0} on my head:",
+        "blanks": [
+          "baskets"
+        ],
+        "distractors": [
+          "horses",
+          "mountains",
+          "rivers"
+        ]
+      },
+      {
+        "id": "gen-40-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "How did the chief butler treat Joseph after he was restored to his office?",
+        "options": [
+          "He did not remember him, but forgat him",
+          "He took Joseph with him to Pharaoh",
+          "He set Joseph free from prison",
+          "He gave Joseph half of his goods"
+        ],
+        "answer": 0
+      }
+    ],
+    "41": [
+      {
+        "id": "gen-41-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "at the end of two full years, that {0} dreamed",
+        "blanks": [
+          "Pharaoh"
+        ],
+        "distractors": [
+          "Joseph",
+          "Asenath",
+          "Manasseh"
+        ]
+      },
+      {
+        "id": "gen-41-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cattle rising from the Nile",
+        "text": "The seven kine rising from the river mirror real Egypt: cattle grazed the Nile's banks, and its annual flood decided whether the land saw plenty or famine. The dream speaks Egypt's own language."
+      },
+      {
+        "id": "gen-41-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "behold, seven ears of {0} came up upon one stalk",
+        "blanks": [
+          "corn"
+        ],
+        "distractors": [
+          "kine",
+          "bread",
+          "wine"
+        ]
+      },
+      {
+        "id": "gen-41-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Troubled by his dreams in the morning, whom did Pharaoh first send to call?",
+        "options": [
+          "All the magicians and wise men of Egypt",
+          "Joseph the Hebrew",
+          "The chief butler",
+          "The priests of On"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How does the chief butler describe the one who interpreted dreams in prison?",
+        "options": [
+          "A young man, an Hebrew, servant to the captain of the guard",
+          "The chief baker",
+          "A wise man of Egypt",
+          "A priest of On"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "It is not in me: {0} shall give Pharaoh an answer of peace",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Joseph",
+          "Pharaoh",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "gen-41-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "In my dream, behold, I stood upon the bank of the {0}",
+        "blanks": [
+          "river"
+        ],
+        "distractors": [
+          "sea",
+          "meadow",
+          "field"
+        ]
+      },
+      {
+        "id": "gen-41-cur-14",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Shaving to face the king",
+        "text": "Before going to Pharaoh, Joseph shaves and changes his clothes. Unlike the Hebrews, Egyptians prized a clean-shaven face; the act shows Joseph presenting himself in the manner of the Egyptian court."
+      },
+      {
+        "id": "gen-41-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "The seven good kine are seven {0}",
+        "blanks": [
+          "years"
+        ],
+        "distractors": [
+          "days",
+          "cities",
+          "rivers"
+        ]
+      },
+      {
+        "id": "gen-41-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "let Pharaoh look out a man discreet and {0}",
+        "blanks": [
+          "wise"
+        ],
+        "distractors": [
+          "strong",
+          "young",
+          "rich"
+        ]
+      },
+      {
+        "id": "gen-41-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "How does Pharaoh describe the kind of man he seeks to set over Egypt?",
+        "options": [
+          "A man in whom the Spirit of God is",
+          "A skilled magician",
+          "An older priest of On",
+          "The strongest of his servants"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "arrayed him in vestures of fine linen, and put a {0} chain about his neck",
+        "blanks": [
+          "gold"
+        ],
+        "distractors": [
+          "silver",
+          "brass",
+          "iron"
+        ]
+      },
+      {
+        "id": "gen-41-cur-42",
+        "type": "curiosity",
+        "after_verse": 43,
+        "title": "The ring, the linen, the chain",
+        "text": "Pharaoh's ring, fine linen, and gold chain were royal insignia of Egypt. By handing them to Joseph, Pharaoh made him vizier, second in the kingdom, below the throne alone."
+      },
+      {
+        "id": "gen-41-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "What name did Pharaoh give Joseph, and whom did he give him to wife?",
+        "options": [
+          "Zaphnath-paaneah; Asenath the daughter of Poti-pherah",
+          "Manasseh; Asenath the daughter of On",
+          "Ephraim; the chief butler's daughter",
+          "Zaphnath-paaneah; the captain of the guard's daughter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-41-fb-51",
+        "type": "fill_blank",
+        "after_verse": 51,
+        "verse": 51,
+        "template": "Joseph called the name of the firstborn {0}",
+        "blanks": [
+          "Manasseh"
+        ],
+        "distractors": [
+          "Ephraim",
+          "Asenath",
+          "Poti-pherah"
+        ]
+      },
+      {
+        "id": "gen-41-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "the name of the second called he {0}",
+        "blanks": [
+          "Ephraim"
+        ],
+        "distractors": [
+          "Manasseh",
+          "Zaphnath",
+          "Poti-pherah"
+        ]
+      },
+      {
+        "id": "gen-41-mc-57",
+        "type": "multiple_choice",
+        "after_verse": 57,
+        "question": "Why did all countries come into Egypt to buy of Joseph?",
+        "options": [
+          "The famine was so sore in all lands",
+          "War had broken out in Canaan",
+          "Pharaoh had summoned them",
+          "The Nile had dried up"
+        ],
+        "answer": 0
+      }
+    ],
+    "42": [
+      {
+        "id": "gen-42-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "And Joseph’s {0} brethren went down to buy corn in Egypt.",
+        "blanks": [
+          "ten"
+        ],
+        "distractors": [
+          "twelve",
+          "three",
+          "five"
+        ]
+      },
+      {
+        "id": "gen-42-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "When Joseph recognized his brothers, what did he accuse them of?",
+        "options": [
+          "Being spies come to see the nakedness of the land",
+          "Stealing corn from the storehouses",
+          "Failing to pay for their food",
+          "Fleeing from Canaan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "By the life of {0} ye shall not go forth hence, except your youngest brother come hither.",
+        "blanks": [
+          "Pharaoh"
+        ],
+        "distractors": [
+          "Joseph",
+          "Jacob",
+          "Reuben"
+        ]
+      },
+      {
+        "id": "gen-42-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "On the third day, what reason did Joseph give for letting them live if they obeyed?",
+        "options": [
+          "Because he feared God",
+          "Because he pitied their famine",
+          "Because Pharaoh had commanded it",
+          "Because they were from Canaan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "They spoke through an interpreter",
+        "text": "The brothers had no idea Joseph understood them because he spoke to them through an interpreter, hiding that he knew their language perfectly — so Joseph secretly overheard them confess their guilt over what they had done to him."
+      },
+      {
+        "id": "gen-42-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "and took from them {0}, and bound him before their eyes.",
+        "blanks": [
+          "Simeon"
+        ],
+        "distractors": [
+          "Benjamin",
+          "Reuben",
+          "Joseph"
+        ]
+      },
+      {
+        "id": "gen-42-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did the brothers find when one opened his sack on the journey home?",
+        "options": [
+          "That his money had been put back in his sack",
+          "That the corn had spoiled",
+          "That a sack of corn was missing",
+          "That Joseph had hidden gold among the corn"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "How did the brothers describe their family to the lord of Egypt?",
+        "options": [
+          "Twelve brethren, one of whom was no more, the youngest with their father",
+          "Ten sons of a poor herdsman in Canaan",
+          "Servants sent by Pharaoh himself",
+          "Strangers with no father living"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-42-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Why did Jacob refuse to let Benjamin go down to Egypt?",
+        "options": [
+          "He feared losing him, with Joseph gone and Simeon held",
+          "Benjamin was too young to travel",
+          "He distrusted the Egyptians selling corn",
+          "He wished to send Reuben instead"
+        ],
+        "answer": 0
+      }
+    ],
+    "43": [
+      {
+        "id": "gen-43-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The famine that shaped Israel",
+        "text": "The 'sore' famine here is the very one Joseph foresaw in Pharaoh's dreams: seven years of scarcity that eventually drew the whole family of Jacob to settle in Egypt."
+      },
+      {
+        "id": "gen-43-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What condition did 'the man' (Joseph) set before the brothers could see his face again?",
+        "options": [
+          "That they bring their brother with them",
+          "That they pay double for the corn",
+          "That they leave Simeon as a hostage forever",
+          "That they bring their father Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-43-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "I will be {0} for him; of my hand shalt thou require him",
+        "blanks": [
+          "surety"
+        ],
+        "distractors": [
+          "servant",
+          "witness",
+          "ransom"
+        ]
+      },
+      {
+        "id": "gen-43-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Israel tell his sons to carry down to the man as a present?",
+        "options": [
+          "Gold and silver in abundance",
+          "Balm, honey, spices, myrrh, nuts and almonds",
+          "Flocks of sheep and oxen",
+          "Fine garments and cloth"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-43-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "And the men were afraid, because they were brought into {0} house",
+        "blanks": [
+          "Joseph’s"
+        ],
+        "distractors": [
+          "Pharaoh’s",
+          "Benjamin’s",
+          "Judah’s"
+        ]
+      },
+      {
+        "id": "gen-43-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And he brought {0} out unto them",
+        "blanks": [
+          "Simeon"
+        ],
+        "distractors": [
+          "Benjamin",
+          "Judah",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gen-43-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Why did Joseph hurry into his chamber to weep?",
+        "options": [
+          "Because he feared being recognized",
+          "Because his bowels yearned upon his brother Benjamin",
+          "Because he was angry with the brothers",
+          "Because he had received bad news of his father"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "gen-43-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "but Benjamin’s mess was {0} times so much as any of theirs",
+        "blanks": [
+          "five"
+        ],
+        "distractors": [
+          "two",
+          "three",
+          "seven"
+        ]
+      }
+    ],
+    "44": [
+      {
+        "id": "gen-44-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The divining cup",
+        "text": "The silver cup hidden in Benjamin's sack was linked to hydromancy, the Egyptian practice of “reading” signs in the water of a cup; the text uses it as part of Joseph's disguise as an Egyptian official."
+      },
+      {
+        "id": "gen-44-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And put my cup, the silver cup, in the sack’s mouth of the youngest",
+        "blanks": [
+          "silver"
+        ],
+        "distractors": [
+          "golden",
+          "brazen",
+          "wooden"
+        ]
+      },
+      {
+        "id": "gen-44-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "From what land do the brothers say they brought back the money found in their sacks?",
+        "options": [
+          "Canaan",
+          "Egypt",
+          "Assyria",
+          "Babylon"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-44-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "and the cup was found in {0}’s sack",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Judah",
+          "Joseph",
+          "Reuben"
+        ]
+      },
+      {
+        "id": "gen-44-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "and let not thine anger burn against thy servant: for thou art even as {0}",
+        "blanks": [
+          "Pharaoh"
+        ],
+        "distractors": [
+          "Joseph",
+          "Judah",
+          "Jacob"
+        ]
+      },
+      {
+        "id": "gen-44-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What condition did the governor set before the brothers could see his face again?",
+        "options": [
+          "Their youngest brother must come down with them",
+          "They must pay double the money",
+          "They must bring their old father",
+          "They must leave a brother as hostage"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-44-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "ye shall bring down my gray hairs with {0} to the grave",
+        "blanks": [
+          "sorrow"
+        ],
+        "distractors": [
+          "joy",
+          "gladness",
+          "peace"
+        ]
+      },
+      {
+        "id": "gen-44-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "let thy servant abide instead of the lad a {0} to my lord",
+        "blanks": [
+          "bondman"
+        ],
+        "distractors": [
+          "friend",
+          "brother",
+          "father"
+        ]
+      }
+    ],
+    "45": [
+      {
+        "id": "gen-45-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Weeping heard in the palace",
+        "text": "Verse 2 says Joseph wept so loudly that the Egyptians and the house of Pharaoh heard him — the emotional reunion echoed all the way into Pharaoh's court."
+      },
+      {
+        "id": "gen-45-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "When Joseph revealed himself, what did he first ask his brothers?",
+        "options": [
+          "Whether his father was still alive",
+          "Why they had sold him",
+          "Where Benjamin was",
+          "How much grain they needed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-45-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "and a ruler throughout all the land of {0}",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Goshen",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gen-45-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "And the fame thereof was heard in {0}",
+        "blanks": [
+          "Pharaoh’s house"
+        ],
+        "distractors": [
+          "Joseph’s house",
+          "Jacob’s house",
+          "Benjamin’s house"
+        ]
+      },
+      {
+        "id": "gen-45-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "lade your beasts, and go, get you unto the land of {0}",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Egypt",
+          "Goshen",
+          "Israel"
+        ]
+      },
+      {
+        "id": "gen-45-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "but to {0} he gave three hundred pieces of silver",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Joseph",
+          "Pharaoh",
+          "Jacob"
+        ]
+      }
+    ],
+    "46": [
+      {
+        "id": "gen-46-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Beer-sheba, place of the altar",
+        "text": "Before leaving Canaan, Jacob stops at Beer-sheba and offers sacrifices to the God of his father Isaac. Abraham and Isaac had already called on the Lord's name there, tying Jacob's departure to the same covenant of the patriarchs."
+      },
+      {
+        "id": "gen-46-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What does God promise Jacob in the vision before he goes down to Egypt?",
+        "options": [
+          "That He will make of him a great nation there",
+          "That there will never be famine again",
+          "That he will rule over Egypt",
+          "That he will return to Canaan in seven days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "I will go down with thee into {0}; and I will also surely bring thee up again",
+        "blanks": [
+          "Egypt"
+        ],
+        "distractors": [
+          "Canaan",
+          "Beer-sheba",
+          "Goshen"
+        ]
+      },
+      {
+        "id": "gen-46-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jacob and his sons: {0}, Jacob’s firstborn.",
+        "blanks": [
+          "Reuben"
+        ],
+        "distractors": [
+          "Simeon",
+          "Levi",
+          "Judah"
+        ]
+      },
+      {
+        "id": "gen-46-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Who is traditionally credited with authoring the book of Genesis?",
+        "options": [
+          "Moses",
+          "Joshua",
+          "Abraham",
+          "Samuel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "These be the sons of {0}, which she bare unto Jacob in Padan-aram",
+        "blanks": [
+          "Leah"
+        ],
+        "distractors": [
+          "Rachel",
+          "Zilpah",
+          "Bilhah"
+        ]
+      },
+      {
+        "id": "gen-46-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "The sons of Rachel Jacob’s wife; Joseph, and {0}.",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Reuben",
+          "Levi",
+          "Judah"
+        ]
+      },
+      {
+        "id": "gen-46-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "How many souls of the house of Jacob came into Egypt, according to the chapter?",
+        "options": [
+          "Seventy",
+          "Sixty",
+          "Twelve",
+          "One hundred"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-46-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "And he sent Judah before him unto Joseph, to direct his face unto {0}",
+        "blanks": [
+          "Goshen"
+        ],
+        "distractors": [
+          "Beer-sheba",
+          "Canaan",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "gen-46-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "for every shepherd is an abomination unto the {0}.",
+        "blanks": [
+          "Egyptians"
+        ],
+        "distractors": [
+          "Canaanites",
+          "Hebrews",
+          "Assyrians"
+        ]
+      }
+    ],
+    "47": [
+      {
+        "id": "gen-47-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Five brothers before Pharaoh",
+        "text": "Joseph chose just five of his brothers to present to Pharaoh and had them declare they were shepherds, an occupation Egyptians despised, ensuring his family would be kept apart in Goshen."
+      },
+      {
+        "id": "gen-47-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "for the famine is sore in the land of {0}",
+        "blanks": [
+          "Canaan"
+        ],
+        "distractors": [
+          "Goshen",
+          "Egypt",
+          "Rameses"
+        ]
+      },
+      {
+        "id": "gen-47-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How many years did Jacob say his pilgrimage had lasted when he answered Pharaoh?",
+        "options": [
+          "An hundred and thirty years",
+          "An hundred forty and seven years",
+          "Seventeen years",
+          "Seventy years"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "And Joseph gathered up all the {0} that was found in the land of Egypt",
+        "blanks": [
+          "money"
+        ],
+        "distractors": [
+          "cattle",
+          "corn",
+          "bread"
+        ]
+      },
+      {
+        "id": "gen-47-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "For whom did Joseph buy all the land of Egypt during the famine?",
+        "options": [
+          "For Pharaoh",
+          "For his brethren",
+          "For the priests",
+          "For Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Whose land did Joseph not buy, because they had a portion assigned them of Pharaoh?",
+        "options": [
+          "The land of the priests",
+          "The land of the shepherds",
+          "The land of Goshen",
+          "The land of Canaan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What share of the increase were the people to give unto Pharaoh?",
+        "options": [
+          "The fifth part",
+          "The tenth part",
+          "The third part",
+          "The half part"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-47-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "And Jacob lived in the land of Egypt {0} years",
+        "blanks": [
+          "seventeen"
+        ],
+        "distractors": [
+          "thirty",
+          "seven",
+          "forty"
+        ]
+      },
+      {
+        "id": "gen-47-mp-30",
+        "type": "match_pairs",
+        "after_verse": 30,
+        "pairs": [
+          {
+            "left": "Goshen",
+            "right": "Region where Jacob and his sons settled"
+          },
+          {
+            "left": "Pharaoh",
+            "right": "King of Egypt who welcomed Joseph's family"
+          },
+          {
+            "left": "Jacob",
+            "right": "Joseph's father, who asked to be buried with his fathers"
+          },
+          {
+            "left": "Rameses",
+            "right": "Best part of the land given to the family"
+          }
+        ]
+      }
+    ],
+    "48": [
+      {
+        "id": "gen-48-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "his two sons, Manasseh and {0}",
+        "blanks": [
+          "Ephraim"
+        ],
+        "distractors": [
+          "Reuben",
+          "Simeon",
+          "Joseph"
+        ]
+      },
+      {
+        "id": "gen-48-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Luz and God Almighty",
+        "text": "Jacob recalls God's appearance at Luz (later called Beth-el), where he received the promise of the land of Canaan. The title 'God Almighty' renders the Hebrew 'El Shaddai'."
+      },
+      {
+        "id": "gen-48-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "{0} died by me in the land of Canaan",
+        "blanks": [
+          "Rachel"
+        ],
+        "distractors": [
+          "Leah",
+          "Rebekah",
+          "Sarah"
+        ]
+      },
+      {
+        "id": "gen-48-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "The {0} which redeemed me from all evil",
+        "blanks": [
+          "Angel"
+        ],
+        "distractors": [
+          "prophet",
+          "servant",
+          "watchman"
+        ]
+      },
+      {
+        "id": "gen-48-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "According to Jacob's blessing, what would happen with Ephraim, the younger brother?",
+        "options": [
+          "He would be greater than Manasseh",
+          "He would receive no inheritance",
+          "He would return to Canaan alone",
+          "He would serve Manasseh"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-48-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "with my sword and with my {0}",
+        "blanks": [
+          "bow"
+        ],
+        "distractors": [
+          "shield",
+          "spear",
+          "dagger"
+        ]
+      }
+    ],
+    "49": [
+      {
+        "id": "gen-49-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Blessing the twelve tribes",
+        "text": "Genesis 49 records Jacob's deathbed words in Egypt, where he blesses each of his twelve sons with a prophecy that shapes the future of the tribes of Israel."
+      },
+      {
+        "id": "gen-49-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "In verse 3, what does Jacob call Reuben?",
+        "options": [
+          "His firstborn, his might, and the beginning of his strength",
+          "A lion's whelp",
+          "A fruitful bough",
+          "A ravening wolf"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Simeon and Levi are {0}; instruments of cruelty are in their habitations.",
+        "blanks": [
+          "brethren"
+        ],
+        "distractors": [
+          "enemies",
+          "servants",
+          "shepherds"
+        ]
+      },
+      {
+        "id": "gen-49-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "{0}, thou art he whom thy brethren shall praise",
+        "blanks": [
+          "Judah"
+        ],
+        "distractors": [
+          "Reuben",
+          "Simeon",
+          "Benjamin"
+        ]
+      },
+      {
+        "id": "gen-49-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "According to verse 10, the sceptre shall not depart from Judah until whom comes?",
+        "options": [
+          "Shiloh",
+          "Abraham",
+          "Ephron",
+          "Zidon"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto {0}.",
+        "blanks": [
+          "Zidon"
+        ],
+        "distractors": [
+          "Canaan",
+          "Mamre",
+          "Machpelah"
+        ]
+      },
+      {
+        "id": "gen-49-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Animal imagery",
+        "text": "Jacob likens several tribes to animals: Judah to a lion, Issachar to a strong ass, and Dan to a serpent — images that capture each tribe's character."
+      },
+      {
+        "id": "gen-49-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "{0} shall judge his people, as one of the tribes of Israel.",
+        "blanks": [
+          "Dan"
+        ],
+        "distractors": [
+          "Gad",
+          "Asher",
+          "Naphtali"
+        ]
+      },
+      {
+        "id": "gen-49-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What does Jacob declare he waits for in verse 18?",
+        "options": [
+          "The salvation of the Lord",
+          "The death of his enemies",
+          "The land of Canaan",
+          "The return of Joseph"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "{0} is a fruitful bough, even a fruitful bough by a well",
+        "blanks": [
+          "Joseph"
+        ],
+        "distractors": [
+          "Reuben",
+          "Judah",
+          "Benjamin"
+        ]
+      },
+      {
+        "id": "gen-49-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "The stone of Israel",
+        "text": "In verse 24 Jacob calls God 'the mighty God of Jacob' and speaks of 'the shepherd, the stone of Israel' — divine titles later prophets would link to the Messiah."
+      },
+      {
+        "id": "gen-49-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "In verse 26, whose head are the blessings of Jacob said to rest upon?",
+        "options": [
+          "Joseph",
+          "Reuben",
+          "Benjamin",
+          "Judah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-49-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Benjamin shall ravin as a {0}: in the morning he shall devour the prey",
+        "blanks": [
+          "wolf"
+        ],
+        "distractors": [
+          "lion",
+          "serpent",
+          "hind"
+        ]
+      },
+      {
+        "id": "gen-49-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Who is NOT named in verse 31 as buried in the cave of Machpelah?",
+        "options": [
+          "Rachel",
+          "Abraham",
+          "Isaac",
+          "Leah"
+        ],
+        "answer": 0
+      }
+    ],
+    "50": [
+      {
+        "id": "gen-50-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "And Joseph commanded his servants the physicians to {0} his father",
+        "blanks": [
+          "embalm"
+        ],
+        "distractors": [
+          "bury",
+          "comfort",
+          "anoint"
+        ]
+      },
+      {
+        "id": "gen-50-cur-1",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Egyptian embalming",
+        "text": "Jacob was embalmed in the Egyptian manner, a mummification process that took about forty days. The seventy-day mourning by the Egyptians reflects the high honor Joseph held in Pharaoh's court."
+      },
+      {
+        "id": "gen-50-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How does the text describe the company that went up with Joseph to bury his father?",
+        "options": [
+          "A very great company",
+          "A small and quiet group",
+          "Only his brothers",
+          "Just the physicians"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "buried him in the cave of the field of {0}",
+        "blanks": [
+          "Machpelah"
+        ],
+        "distractors": [
+          "Goshen",
+          "Canaan",
+          "Mamre"
+        ]
+      },
+      {
+        "id": "gen-50-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What did Joseph's brothers fear after their father died?",
+        "options": [
+          "That Joseph would hate them and requite the evil they did",
+          "That Joseph would expel them from Goshen",
+          "That Joseph would die soon",
+          "That Pharaoh would enslave them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Fear not: for am I in the place of {0}?",
+        "blanks": [
+          "God"
+        ],
+        "distractors": [
+          "Pharaoh",
+          "Jacob",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "gen-50-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to Joseph, what did God intend the evil his brothers meant against him to accomplish?",
+        "options": [
+          "To save much people alive",
+          "To punish the brothers",
+          "To enrich Egypt",
+          "To test Jacob's faith"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "gen-50-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "and Joseph lived an hundred and ten {0}",
+        "blanks": [
+          "years"
+        ],
+        "distractors": [
+          "days",
+          "months",
+          "weeks"
+        ]
+      },
+      {
+        "id": "gen-50-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What did Joseph make the children of Israel swear to do?",
+        "options": [
+          "Carry up his bones from Egypt",
+          "Build him a tomb in Egypt",
+          "Return to Pharaoh's court",
+          "Embalm him for seventy days"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "book": "2-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La más corta de las cartas",
+        "body": "Segunda de Juan es uno de los libros más cortos de la Biblia: apenas trece versículos. Su autor se llama a sí mismo simplemente “el anciano”, entendido como el apóstol Juan."
+      },
+      {
+        "id": "2-jn-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "El anciano a la {0} elegida y a sus hijos",
+        "blanks": [
+          "señora"
+        ],
+        "distractors": [
+          "hermana",
+          "madre",
+          "hija"
+        ]
+      },
+      {
+        "id": "2-jn-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué se niegan a confesar los “muchos engañadores” (v. 7)?",
+        "options": [
+          "Que Jesucristo ha venido en carne",
+          "Que la ley de Moisés se ha cumplido",
+          "Que Juan es apóstol",
+          "Que el templo será reconstruido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-jn-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "el que persevera en la {0} de Cristo, ese sí tiene al Padre y al Hijo",
+        "blanks": [
+          "doctrina"
+        ],
+        "distractors": [
+          "ley",
+          "gracia",
+          "palabra"
+        ]
+      },
+      {
+        "id": "2-jn-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Papel y tinta",
+        "body": "Juan dice que prefiere no escribir con “papel y tinta”, sino hablar cara a cara: un vistazo de cómo circulaban las cartas entre las primeras congregaciones cristianas."
+      },
+      {
+        "id": "2-jn-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "En lugar de escribir todo con papel y tinta, ¿qué esperaba hacer Juan (v. 12)?",
+        "options": [
+          "Ir a hablar cara a cara",
+          "Enviar a otro apóstol",
+          "Esperar la venida del Señor",
+          "Convocar un concilio en Jerusalén"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "book": "3-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "3-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The shortest book",
+        "body": "By word count in the original Greek, Third John is the shortest book in the Bible. It is a private letter addressed to a single friend, Gaius."
+      },
+      {
+        "id": "3-jn-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "I have no greater {0} than to hear that my children walk in truth",
+        "blanks": [
+          "joy"
+        ],
+        "distractors": [
+          "honour",
+          "reward",
+          "peace"
+        ]
+      },
+      {
+        "id": "3-jn-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "they went forth, taking nothing of the {0}",
+        "blanks": [
+          "Gentiles"
+        ],
+        "distractors": [
+          "Romans",
+          "Jews",
+          "Greeks"
+        ]
+      },
+      {
+        "id": "3-jn-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Diotrephes the contentious",
+        "body": "Diotrephes is named only here in scripture—a local leader who “loveth to have the preeminence,” refused to receive John's messengers, and even cast out those who would."
+      },
+      {
+        "id": "3-jn-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What does John say Diotrephes loves (v. 9)?",
+        "options": [
+          "To have the preeminence among them",
+          "To give to the poor",
+          "To preach in the synagogues",
+          "To travel among the churches"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-jn-1-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "title": "Three men named in the letter",
+        "pairs": [
+          {
+            "left": "Gaius",
+            "right": "the beloved, who walks in truth"
+          },
+          {
+            "left": "Diotrephes",
+            "right": "loves to have the preeminence"
+          },
+          {
+            "left": "Demetrius",
+            "right": "hath good report of all men"
+          }
+        ]
+      }
+    ]
+  }
+}

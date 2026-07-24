@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "book": "1-tim",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-tim-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Quién escribe esta epístola y cómo llama a Timoteo?",
+        "options": [
+          "Pablo, que llama a Timoteo verdadero hijo en la fe",
+          "Pedro, que llama a Timoteo su hermano",
+          "Santiago, que llama a Timoteo su siervo",
+          "Juan, que llama a Timoteo su amado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-1-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Timoteo en Éfeso",
+        "text": "Pablo dejó a Timoteo en Éfeso para supervisar la iglesia y corregir a los falsos maestros, uno de los encargos pastorales que dan nombre a esta carta."
+      },
+      {
+        "id": "1-tim-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "La ley no es puesta",
+            "right": "para el justo"
+          },
+          {
+            "left": "La ley es puesta",
+            "right": "para los transgresores y desobedientes"
+          },
+          {
+            "left": "Pablo da gracias a",
+            "right": "Cristo Jesús, que lo fortaleció"
+          },
+          {
+            "left": "El evangelio le fue",
+            "right": "encargado a Pablo"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "que Cristo Jesús vino al mundo para salvar a los {0}, de quienes yo soy el primero.",
+        "blanks": [
+          "pecadores"
+        ],
+        "distractors": [
+          "apóstoles",
+          "profetas",
+          "maestros"
+        ]
+      },
+      {
+        "id": "1-tim-1-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Doxología al Rey eterno",
+        "text": "El versículo 17 es una doxología, una breve alabanza que describe a Dios como inmortal, invisible y único, cerrando con 'Amén'."
+      },
+      {
+        "id": "1-tim-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "pelees por ellas la buena {0},",
+        "blanks": [
+          "batalla"
+        ],
+        "distractors": [
+          "doctrina",
+          "conciencia",
+          "esperanza"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-tim-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Orar por todos",
+        "text": "Pablo pide plegarias, oraciones, peticiones y acciones de gracias por TODOS los hombres, sin excluir a nadie, ni siquiera a los gobernantes de su tiempo."
+      },
+      {
+        "id": "1-tim-2-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Porque hay un solo Dios, y un solo {0} entre Dios y los hombres, Jesucristo hombre,",
+        "blanks": [
+          "mediador"
+        ],
+        "distractors": [
+          "predicador",
+          "apóstol",
+          "maestro"
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Para qué oficio dice Pablo haber sido constituido?",
+        "options": [
+          "Predicador y apóstol, maestro de los gentiles",
+          "Rey de Éfeso",
+          "Escriba de los judíos",
+          "Sacerdote del templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Ataviarse",
+            "right": "con vestimenta decorosa"
+          },
+          {
+            "left": "Los hombres oren",
+            "right": "levantando manos santas"
+          },
+          {
+            "left": "La mujer aprenda",
+            "right": "en silencio"
+          },
+          {
+            "left": "Dios quiere",
+            "right": "que todos los hombres sean salvos"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Según el versículo 13, ¿quién fue formado primero?",
+        "options": [
+          "Adán",
+          "Eva",
+          "Cristo",
+          "Timoteo"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "1-tim-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El cargo de obispo",
+        "text": "La palabra traducida como \"obispo\" significa supervisor o superintendente. Pablo lo presenta como una \"buena obra\" digna de desear, y no como una posición de honor mundano."
+      },
+      {
+        "id": "1-tim-3-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Conviene, pues, que el obispo sea irreprensible, marido de una sola mujer, sobrio, prudente, decoroso, {0}, apto para enseñar;",
+        "blanks": [
+          "hospitalario"
+        ],
+        "distractors": [
+          "contencioso",
+          "pendenciero",
+          "codicioso"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según Pablo, ¿el cuidado de qué cosa se relaciona con saber gobernar la propia casa?",
+        "options": [
+          "La iglesia de Dios",
+          "La ciudad",
+          "El templo",
+          "La propia fortuna"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Obispo",
+            "right": "Apto para enseñar"
+          },
+          {
+            "left": "Diáconos",
+            "right": "De una sola palabra"
+          },
+          {
+            "left": "Obispo",
+            "right": "No dado al vino"
+          },
+          {
+            "left": "Diáconos",
+            "right": "No codiciosos de ganancias deshonestas"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Los diáconos sean maridos de una sola mujer, y que gobiernen bien a sus hijos y sus {0}.",
+        "blanks": [
+          "casas"
+        ],
+        "distractors": [
+          "iglesias",
+          "conciencias",
+          "mujeres"
+        ]
+      },
+      {
+        "id": "1-tim-3-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Cómo describe Pablo la iglesia del Dios viviente?",
+        "options": [
+          "Columna y apoyo de la verdad",
+          "El lazo del diablo",
+          "La gloria de los gentiles",
+          "El grado honroso de los diáconos"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-tim-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La Gran Apostasía",
+        "text": "La advertencia de Pablo de que algunos 'apostatarán de la fe' es vista por los Santos de los Últimos Días como una profecía de la Gran Apostasía, que hizo necesaria la Restauración del evangelio."
+      },
+      {
+        "id": "1-tim-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Que prohibirán {0} y mandarán abstenerse de alimentos que Dios creó",
+        "blanks": [
+          "casarse"
+        ],
+        "distractors": [
+          "ayunar",
+          "orar",
+          "trabajar"
+        ]
+      },
+      {
+        "id": "1-tim-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según el versículo 4, ¿cómo debe recibirse todo lo que Dios creó?",
+        "options": [
+          "Con acción de gracias",
+          "En secreto",
+          "Con sacrificio",
+          "Después del ayuno"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Para qué le manda Pablo a Timoteo que se ejercite?",
+        "options": [
+          "Para la piedad",
+          "Para el ejercicio corporal",
+          "Para las fábulas",
+          "Para las riquezas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "el ejercicio corporal para poco es provechoso, pero la {0} para todo aprovecha",
+        "blanks": [
+          "piedad"
+        ],
+        "distractors": [
+          "fábula",
+          "juventud",
+          "doctrina"
+        ]
+      },
+      {
+        "id": "1-tim-4-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "pairs": [
+          {
+            "left": "Ocúpate en",
+            "right": "leer, en exhortar, en enseñar"
+          },
+          {
+            "left": "No descuides",
+            "right": "el don que hay en ti"
+          },
+          {
+            "left": "Sé ejemplo",
+            "right": "de los creyentes"
+          },
+          {
+            "left": "Ninguno tenga en poco",
+            "right": "tu juventud"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-4-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Ten cuidado de ti mismo y de la {0}; persiste en ello",
+        "blanks": [
+          "doctrina"
+        ],
+        "distractors": [
+          "juventud",
+          "fábula",
+          "piedad"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-tim-5-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Cómo instruye Pablo a Timoteo a tratar al anciano?",
+        "options": [
+          "Reprendiéndolo con dureza",
+          "Exhortándole como a padre",
+          "Ignorándolo",
+          "Apartándolo de la iglesia"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Honra a las viudas que en {0} lo son.",
+        "blanks": [
+          "verdad"
+        ],
+        "distractors": [
+          "dureza",
+          "pureza",
+          "casa"
+        ]
+      },
+      {
+        "id": "1-tim-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Según el versículo 8, ¿quién ha negado la fe y es peor que un incrédulo?",
+        "options": [
+          "Quien reprende a los ancianos",
+          "Quien no provee para los suyos, mayormente los de su casa",
+          "Quien honra a las viudas",
+          "Quien gobierna su casa"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "si ha practicado la hospitalidad, si ha lavado los pies de los {0}, si ha socorrido a los afligidos",
+        "blanks": [
+          "santos"
+        ],
+        "distractors": [
+          "hijos",
+          "padres",
+          "ancianos"
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "La lista de viudas",
+        "text": "La iglesia primitiva mantenía una lista formal de viudas que recibían sustento y servían a la congregación; por eso Pablo describe las condiciones para ser puesta en la lista."
+      },
+      {
+        "id": "1-tim-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Por qué quiere Pablo que las más jóvenes se casen y gobiernen su casa?",
+        "options": [
+          "Para enriquecer a la iglesia",
+          "Para no dar al adversario ninguna ocasión de maledicencia",
+          "Para dejar la congregación",
+          "Para recibir doble honra"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-tim-5-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Los ancianos que gobiernan bien, sean tenidos por dignos de {0} honra",
+        "blanks": [
+          "doble"
+        ],
+        "distractors": [
+          "poca",
+          "ninguna",
+          "ajena"
+        ]
+      },
+      {
+        "id": "1-tim-5-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "El buey que trilla",
+            "right": "No pondrás bozal"
+          },
+          {
+            "left": "El obrero",
+            "right": "Digno es de su salario"
+          },
+          {
+            "left": "Los ancianos que gobiernan bien",
+            "right": "Dignos de doble honra"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-5-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Un poco de vino",
+        "text": "Pablo aconseja a Timoteo usar un poco de vino por causa de su estómago y sus frecuentes enfermedades, un consejo de salud común en la época dada la calidad incierta del agua."
+      },
+      {
+        "id": "1-tim-5-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué enseña el versículo 25 sobre las buenas obras?",
+        "options": [
+          "Que siempre quedan ocultas",
+          "Que son evidentes y no pueden esconderse",
+          "Que solo Dios las conoce",
+          "Que no tienen recompensa"
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "id": "1-tim-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Quién escribió esta carta y a quién va dirigida?",
+        "options": [
+          "Pablo, a Timoteo",
+          "Pedro, a Tito",
+          "Juan, a los efesios",
+          "Santiago, a las doce tribus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-tim-6-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Nada podremos sacar",
+        "text": "La idea de que nada traemos al nacer y nada llevamos al morir refleja Job 1:21 y Eclesiastés 5:15, un recordatorio de que los bienes materiales son pasajeros."
+      },
+      {
+        "id": "1-tim-6-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Porque el amor al dinero es la {0} de todos los males",
+        "blanks": [
+          "raíz"
+        ],
+        "distractors": [
+          "honra",
+          "verdad",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "1-tim-6-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "pairs": [
+          {
+            "left": "Amor al dinero",
+            "right": "Raíz de todos los males"
+          },
+          {
+            "left": "Piedad con contentamiento",
+            "right": "Gran ganancia"
+          },
+          {
+            "left": "Hombre de Dios",
+            "right": "Huye de estas cosas"
+          },
+          {
+            "left": "Buena batalla",
+            "right": "Batalla de la fe"
+          }
+        ]
+      },
+      {
+        "id": "1-tim-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "ni pongan la esperanza en la incertidumbre de las {0}, sino en el Dios vivo",
+        "blanks": [
+          "riquezas"
+        ],
+        "distractors": [
+          "palabras",
+          "obras",
+          "promesas"
+        ]
+      }
+    ]
+  }
+}

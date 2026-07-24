@@ -1,0 +1,390 @@
+{
+ "schema_version": 1,
+ "book": "song",
+ "chapters": {
+  "1": [
+   {
+    "id": "song-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Cantar de los cantares",
+    "text": "El título hebreo 'Cantar de los cantares' significa 'el mejor de los cantares'. El libro se atribuye a Salomón."
+   },
+   {
+    "id": "song-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cómo se describe la esposa a las hijas de Jerusalén?",
+    "options": [
+     "Blanca como la nieve",
+     "Morena, pero hermosa",
+     "Pálida y enferma",
+     "Cubierta de joyas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-1-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿A qué compara el amado a su amada en el capítulo 1?",
+    "options": [
+     "A una paloma herida",
+     "A las yeguas de los carros de Faraón",
+     "A un cedro del Líbano",
+     "A una torre de marfil"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-1-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "¿Cómo se describen los ojos de la amada?",
+    "options": [
+     "Como el sol",
+     "Como brasas de fuego",
+     "Como los de las palomas",
+     "Como estrellas"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "song-2-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "La rosa de Sarón",
+    "text": "La esposa se llama 'rosa de Sarón' y 'lirio de los valles' — imágenes de belleza sencilla y fresca del campo."
+   },
+   {
+    "id": "song-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cuál era la bandera del amado sobre la esposa en la sala del banquete?",
+    "options": [
+     "La gloria",
+     "El amor",
+     "La paz",
+     "La victoria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-2-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿A qué se compara el amado cuando viene saltando sobre los montes?",
+    "options": [
+     "A un león",
+     "A un águila",
+     "Al corzo o cervatillo",
+     "A un pastor"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "song-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Según el amado, ¿qué ya había pasado, señal de que era tiempo de cantar?",
+    "options": [
+     "La cosecha",
+     "El invierno",
+     "La guerra",
+     "La fiesta"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "¿Qué daña las viñas en flor y debe ser atrapado?",
+    "options": [
+     "Las zorras, las zorras pequeñas",
+     "Las langostas",
+     "Las aves del cielo",
+     "Los ladrones"
+    ],
+    "answer": 0
+   }
+  ],
+  "3": [
+   {
+    "id": "song-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "La búsqueda nocturna",
+    "text": "De noche, en su cama, la esposa busca al amado y recorre la ciudad hasta hallarlo."
+   },
+   {
+    "id": "song-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué sucedió cuando la esposa buscó al amado de noche en su cama?",
+    "options": [
+     "Lo halló allí mismo",
+     "Lo buscó, pero no lo halló",
+     "Él la despertó",
+     "Los guardas lo trajeron"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-3-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "¿Cuántos valientes rodeaban la litera de Salomón?",
+    "options": [
+     "Doce",
+     "Treinta",
+     "Sesenta",
+     "Cien"
+    ],
+    "answer": 2
+   }
+  ],
+  "4": [
+   {
+    "id": "song-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Elogio de la esposa",
+    "text": "El amado alaba la belleza de la esposa parte por parte, en un poema de admiración (un 'wasf')."
+   },
+   {
+    "id": "song-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿A qué se compara el cuello de la amada?",
+    "options": [
+     "A la torre de David",
+     "A una columna de humo",
+     "A un lirio",
+     "A un racimo de uvas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "song-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿Qué declara el amado sobre la amada en 4:7?",
+    "options": [
+     "Que es como las demás",
+     "Que es toda hermosa y no hay mancha en ella",
+     "Que debe cambiar",
+     "Que es severa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-4-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "¿A qué compara el amado a la esposa, como señal de pureza y fidelidad?",
+    "options": [
+     "Un campo abierto",
+     "Una ciudad amurallada",
+     "Un huerto cerrado y fuente sellada",
+     "Un desierto"
+    ],
+    "answer": 2
+   }
+  ],
+  "5": [
+   {
+    "id": "song-5-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Yo dormía, pero mi corazón velaba",
+    "text": "Aun dormida, el corazón de la esposa permanece despierto para la voz del amado que llama a la puerta."
+   },
+   {
+    "id": "song-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué hacía el corazón de la esposa mientras ella dormía?",
+    "options": [
+     "Descansaba",
+     "Velaba",
+     "Temía",
+     "Olvidaba"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-5-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿Cómo describe la esposa a su amado entre diez mil?",
+    "options": [
+     "Común como los demás",
+     "Blanco y rubio, el más distinguido",
+     "Fuerte pero duro",
+     "Distante y frío"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-5-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "¿Cómo concluye la esposa la descripción del amado?",
+    "options": [
+     "Que es todo él deseable",
+     "Que es inalcanzable",
+     "Que es severo",
+     "Que está ausente"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "song-6-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Yo soy de mi amado",
+    "text": "Reaparece la declaración de mutua pertenencia: 'Yo soy de mi amado, y mi amado es mío.'"
+   },
+   {
+    "id": "song-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿A qué ciudades se compara la belleza de la amada en 6:4?",
+    "options": [
+     "Babilonia y Nínive",
+     "Tirsa y Jerusalén",
+     "Sodoma y Gomorra",
+     "Damasco y Tiro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-6-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿Cuántas reinas y concubinas se mencionan, en contraste con la única paloma?",
+    "options": [
+     "Sesenta reinas y ochenta concubinas",
+     "Siete reinas y diez concubinas",
+     "Cien reinas y cien concubinas",
+     "Doce reinas y doce concubinas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "song-6-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "¿Con qué nombre se llama a la amada en 6:13?",
+    "options": [
+     "Sulamita",
+     "Débora",
+     "Rut",
+     "Ester"
+    ],
+    "answer": 0
+   }
+  ],
+  "7": [
+   {
+    "id": "song-7-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Hija del príncipe",
+    "text": "Nuevo elogio a la esposa, ahora de los pies a la cabeza, exaltando su dignidad y gracia."
+   },
+   {
+    "id": "song-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿A qué se compara el cuello de la amada en 7:4?",
+    "options": [
+     "A la torre de marfil",
+     "A un hilo de escarlata",
+     "A un rebaño de cabras",
+     "A una granada"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "song-7-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿A qué se compara la estatura de la amada en 7:7?",
+    "options": [
+     "A un cedro",
+     "A la palmera",
+     "A una torre",
+     "A una vid seca"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-7-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "¿Qué propone la esposa al amado en 7:11-12?",
+    "options": [
+     "Quedarse en la ciudad",
+     "Salir al campo e ir a las viñas",
+     "Construir una casa",
+     "Buscar a los guardas"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "song-8-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "El amor, fuerte como la muerte",
+    "text": "El capítulo final contiene la afirmación más célebre del libro sobre la fuerza del amor verdadero."
+   },
+   {
+    "id": "song-8-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En 8:5, ¿cómo sube del desierto la que viene?",
+    "options": [
+     "Sola",
+     "Recostada en su amado",
+     "Sobre un carro",
+     "Llorando"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-8-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Según 8:6, ¿el amor es fuerte como qué?",
+    "options": [
+     "Como el viento",
+     "Como la muerte",
+     "Como el león",
+     "Como el mar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "song-8-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "¿Dónde tenía Salomón una viña, entregada a guardas?",
+    "options": [
+     "En Jerusalén",
+     "En Baal-hamón",
+     "En el Líbano",
+     "En En-gadi"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

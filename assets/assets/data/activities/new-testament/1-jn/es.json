@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "book": "1-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Un testimonio ocular",
+        "body": "Juan escribe como alguien que personalmente oyó, vio y aun palpó el Verbo de vida: un apóstol que da testimonio de primera mano del Cristo resucitado."
+      },
+      {
+        "id": "1-jn-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según el versículo 4, ¿para qué escribe Juan estas cosas?",
+        "options": [
+          "Para que vuestro gozo sea completo",
+          "Para que os hagáis ricos",
+          "Para que nunca seáis tentados",
+          "Para que el mundo sea condenado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Dios es {0}, y en él no hay ningunas tinieblas",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "fuego",
+          "gloria",
+          "poder"
+        ]
+      },
+      {
+        "id": "1-jn-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según el versículo 9, ¿qué sucede si confesamos nuestros pecados?",
+        "options": [
+          "Él es fiel y justo para perdonar nuestros pecados",
+          "Llegamos a ser tan sabios como los profetas",
+          "No veremos la muerte",
+          "Nuestros enemigos son avergonzados"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "1-jn-2-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Dónde aparece “anticristo”",
+        "body": "La palabra “anticristo” se encuentra en la Biblia solo en las cartas de Juan (1 y 2 Juan). Aquí Juan dice que muchos anticristos —los que niegan que Jesús es el Cristo— ya habían surgido."
+      },
+      {
+        "id": "1-jn-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "{0} tenemos para con el Padre, a Jesucristo, el justo",
+        "blanks": [
+          "abogado"
+        ],
+        "distractors": [
+          "acusador",
+          "heredero",
+          "juez"
+        ]
+      },
+      {
+        "id": "1-jn-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "El que dice que está en la luz y aborrece a su hermano, todavía está en {0}",
+        "blanks": [
+          "tinieblas"
+        ],
+        "distractors": [
+          "pecado",
+          "esclavitud",
+          "muerte"
+        ]
+      },
+      {
+        "id": "1-jn-2-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "title": "A quién escribe Juan (v. 12-13)",
+        "pairs": [
+          {
+            "left": "Hijitos",
+            "right": "vuestros pecados os han sido perdonados"
+          },
+          {
+            "left": "Padres",
+            "right": "habéis conocido al que es desde el principio"
+          },
+          {
+            "left": "Jóvenes",
+            "right": "habéis vencido al maligno"
+          }
+        ]
+      },
+      {
+        "id": "1-jn-2-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Cuáles tres cosas “que hay en el mundo” menciona Juan en el versículo 16?",
+        "options": [
+          "La concupiscencia de la carne, la concupiscencia de los ojos y la soberbia de la vida",
+          "Riqueza, honra y poder",
+          "Hambre, miedo y muerte",
+          "Sol, luna y estrellas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "Este es el {0}: el que niega al Padre y al Hijo",
+        "blanks": [
+          "anticristo"
+        ],
+        "distractors": [
+          "engañador",
+          "idólatra",
+          "blasfemo"
+        ]
+      },
+      {
+        "id": "1-jn-2-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Según el versículo 27, ¿qué permanece en los santos y les “enseña acerca de todas las cosas”?",
+        "options": [
+          "La unción que recibieron de él",
+          "Las tradiciones de los ancianos",
+          "Los escritos de los profetas",
+          "Su propia sabiduría"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "1-jn-3-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Caín, el ejemplo de advertencia",
+        "body": "Juan recurre a Génesis para su única ilustración del Antiguo Testamento: Caín, que “mató a su hermano” porque sus obras eran malas, lo opuesto del amor fraternal que Juan manda."
+      },
+      {
+        "id": "1-jn-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "para que seamos llamados {0} de Dios",
+        "blanks": [
+          "hijos"
+        ],
+        "distractors": [
+          "siervos",
+          "herederos",
+          "amigos"
+        ]
+      },
+      {
+        "id": "1-jn-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "En el versículo 12, ¿contra quién advierte Juan, el que mató a su hermano?",
+        "options": [
+          "Caín",
+          "Esaú",
+          "Judas",
+          "Saúl"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-3-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Todo aquel que aborrece a su hermano es {0}",
+        "blanks": [
+          "homicida"
+        ],
+        "distractors": [
+          "mentiroso",
+          "extranjero",
+          "pecador"
+        ]
+      },
+      {
+        "id": "1-jn-3-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Cuál es “su mandamiento”, según el versículo 23?",
+        "options": [
+          "Creer en el nombre de su Hijo Jesucristo y amarnos unos a otros",
+          "Guardar las fiestas y ofrecer sacrificios",
+          "Honrar a padre y madre",
+          "Descansar en el día de reposo"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-jn-4-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "“Dios es amor”",
+        "body": "Primera de Juan es el único libro de las Escrituras que declara directamente que “Dios es amor” (versículos 8 y 16). Toda la epístola hace del amor la prueba de conocer a Dios."
+      },
+      {
+        "id": "1-jn-4-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "discernid entre los {0} para saber si son de Dios",
+        "blanks": [
+          "espíritus"
+        ],
+        "distractors": [
+          "profetas",
+          "señales",
+          "maestros"
+        ]
+      },
+      {
+        "id": "1-jn-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "El que no ama, no conoce a Dios, porque Dios es {0}",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "luz",
+          "espíritu",
+          "verdad"
+        ]
+      },
+      {
+        "id": "1-jn-4-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Según el versículo 14, ¿el Padre envió al Hijo para ser qué?",
+        "options": [
+          "El Salvador del mundo",
+          "Un maestro de la ley",
+          "Un rey sobre Israel",
+          "Un juez de los muertos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "el perfecto amor echa fuera el {0}",
+        "blanks": [
+          "temor"
+        ],
+        "distractors": [
+          "duda",
+          "tinieblas",
+          "tristeza"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-jn-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Los tres testigos",
+        "body": "Los versículos 7-8 enumeran tres testigos “en el cielo” y tres “en la tierra”. Este pasaje sobre los testigos divinos es uno de los más comentados del Nuevo Testamento."
+      },
+      {
+        "id": "1-jn-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "esta es la victoria que vence al mundo: nuestra {0}",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "esperanza",
+          "caridad",
+          "obra"
+        ]
+      },
+      {
+        "id": "1-jn-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "En el versículo 8, ¿cuáles tres “dan testimonio en la tierra”?",
+        "options": [
+          "El Espíritu, el agua y la sangre",
+          "Fe, esperanza y caridad",
+          "La ley, los profetas y los salmos",
+          "Pan, vino y aceite"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-jn-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "El que tiene al Hijo tiene la {0}",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "paz",
+          "alegría",
+          "gloria"
+        ]
+      },
+      {
+        "id": "1-jn-5-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Hijitos, guardaos de los {0}",
+        "blanks": [
+          "ídolos"
+        ],
+        "distractors": [
+          "mentirosos",
+          "contiendas",
+          "engaños"
+        ]
+      }
+    ]
+  }
+}

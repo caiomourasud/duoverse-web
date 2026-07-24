@@ -1,0 +1,164 @@
+{
+ "schema_version": 1,
+ "book": "w-of-m",
+ "chapters": {
+  "1": [
+   {
+    "id": "w-of-m-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "entregar en manos de mi hijo {0} los anales",
+    "blanks": [
+     "Moroni"
+    ],
+    "distractors": [
+     "Mosíah",
+     "Nefi",
+     "Alma"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "Una voz de mil años después",
+    "text": "Mormón escribe este enlace como casi testigo ocular de la destrucción de los nefitas, unos cuatro siglos después de Cristo — casi mil años tras el inicio de las planchas menores. La dirige a su hijo Moroni, que sobreviviría a toda su nación."
+   },
+   {
+    "id": "w-of-m-1-mc-3",
+    "after_verse": 3,
+    "type": "multiple_choice",
+    "question": "Mientras compendiaba las planchas de Nefi, ¿qué encontró Mormón?",
+    "options": [
+     "Planchas menores con las palabras de los profetas, de Jacob al rey Benjamín",
+     "Un mapa de la tierra prometida",
+     "La espada de Labán",
+     "Un registro de los jareditas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "Y hago esto para un {0} propósito",
+    "blanks": [
+     "sabio"
+    ],
+    "distractors": [
+     "secreto",
+     "santo",
+     "oculto"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "‘Para un sabio propósito’",
+    "text": "Mormón añade las planchas menores a su registro ‘para un sabio propósito’ que no comprende del todo, impulsado por el Espíritu. Los lectores modernos lo relacionan con la pérdida de 116 páginas del manuscrito, que el relato sobrepuesto de las planchas menores reemplazó después."
+   },
+   {
+    "id": "w-of-m-1-mc-10",
+    "after_verse": 10,
+    "type": "multiple_choice",
+    "question": "¿Qué hizo el rey Benjamín con las planchas que Amalekí le entregó?",
+    "options": [
+     "Las puso con las otras planchas transmitidas por los reyes",
+     "Las enterró en la tierra",
+     "Las envió a los lamanitas",
+     "Las fundió para aprovechar el metal"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-mc-11",
+    "after_verse": 11,
+    "type": "multiple_choice",
+    "question": "¿Por qué está seguro Mormón de que los anales serán preservados?",
+    "options": [
+     "En ellos hay grandes cosas escritas por las cuales su pueblo será juzgado en el postrer día",
+     "Están hechos de oro que no se oxida",
+     "Ningún enemigo sabe dónde están escondidos",
+     "Los reyes juraron guardarlos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "con la espada de {0}",
+    "blanks": [
+     "Labán"
+    ],
+    "distractors": [
+     "Nefi",
+     "Lehi",
+     "Mosíah"
+    ]
+   },
+   {
+    "id": "w-of-m-1-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "La espada de Labán regresa",
+    "text": "El rey Benjamín lucha ‘con la espada de Labán’ — la misma espada que Nefi tomó en Jerusalén siglos antes (1 Nefi 4), ahora transmitida con el reinado y empuñada en defensa de los nefitas."
+   },
+   {
+    "id": "w-of-m-1-mc-16",
+    "after_verse": 16,
+    "type": "multiple_choice",
+    "question": "¿Qué sucedió entre el pueblo antes de que el rey Benjamín estableciera la paz?",
+    "options": [
+     "Falsos Cristos, profetas y maestros fueron castigados por sus delitos",
+     "Los lamanitas se convirtieron en un día",
+     "Se construyó un gran templo en Zarahemla",
+     "El pueblo escogió un nuevo idioma"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "w-of-m-1-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "reinaba sobre su pueblo con {0}",
+    "blanks": [
+     "justicia"
+    ],
+    "distractors": [
+     "paz",
+     "sabiduría",
+     "misericordia"
+    ]
+   },
+   {
+    "id": "w-of-m-1-mp-18",
+    "type": "match_pairs",
+    "after_verse": 18,
+    "pairs": [
+     {
+      "left": "Mormón",
+      "right": "Compendió las planchas y escribió este libro"
+     },
+     {
+      "left": "Moroni",
+      "right": "Hijo de Mormón, que terminaría el registro"
+     },
+     {
+      "left": "Amalekí",
+      "right": "Dio las planchas menores al rey Benjamín"
+     },
+     {
+      "left": "Rey Benjamín",
+      "right": "Rey santo que restableció la paz"
+     }
+    ]
+   }
+  ]
+ }
+}

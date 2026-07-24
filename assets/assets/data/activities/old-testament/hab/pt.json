@@ -1,0 +1,255 @@
+{
+ "schema_version": 1,
+ "book": "hab",
+ "chapters": {
+  "1": [
+   {
+    "id": "hab-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um profeta que discute com Deus",
+    "text": "Habacuque é incomum entre os profetas: em vez de levar a mensagem de Deus ao povo, ele leva a queixa do povo a Deus. Todo o livro é um diálogo de perguntas difíceis e respostas divinas."
+   },
+   {
+    "id": "hab-1-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Quem o Senhor diz que suscitará (Habacuque 1:6)?",
+    "options": [
+     "Os caldeus",
+     "Os egípcios",
+     "Os assírios",
+     "Os filisteus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-1-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "nação {0} e impetuosa",
+    "blanks": [
+     "amarga"
+    ],
+    "distractors": [
+     "antiga",
+     "fiel",
+     "distante"
+    ]
+   },
+   {
+    "id": "hab-1-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Segundo Habacuque 1:11, a que o conquistador atribui erradamente o seu poder?",
+    "options": [
+     "À sua própria sabedoria",
+     "Ao seu deus",
+     "Ao seu exército",
+     "À sorte"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-1-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Habacuque 1:13, o que perturba o profeta a respeito do Senhor?",
+    "options": [
+     "Que ele se cala enquanto o ímpio devora o que é mais justo",
+     "Que ele esqueceu Judá",
+     "Que ele favorece as nações",
+     "Que ele já não fala"
+    ],
+    "answer": 0
+   }
+  ],
+  "2": [
+   {
+    "id": "hab-2-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "Em Habacuque 2:2, o que o Senhor manda o profeta fazer com a visão?",
+    "options": [
+     "Escondê-la no templo",
+     "Escrevê-la e gravá-la claramente em tábuas",
+     "Contá-la só ao rei",
+     "Calar-se a respeito dela"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "mas o justo pela sua {0} viverá",
+    "blanks": [
+     "fé"
+    ],
+    "distractors": [
+     "obra",
+     "lei",
+     "espada"
+    ]
+   },
+   {
+    "id": "hab-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Como é descrito o desejo insaciável do soberbo em Habacuque 2:5?",
+    "options": [
+     "Alarga a alma como o sepulcro, é como a morte que não se farta",
+     "Pequeno como uma semente",
+     "Frio como o inverno",
+     "Leve como o pó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "\"O justo pela sua fé viverá\"",
+    "text": "Habacuque 2:4 é uma das frases mais influentes das Escrituras: Paulo a cita em Romanos e Gálatas, e ela aparece em Hebreus. Séculos depois, ajudou a acender a Reforma Protestante."
+   },
+   {
+    "id": "hab-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Em Habacuque 2:11, o que o profeta diz que clamará contra quem edifica a cidade com sangue?",
+    "options": [
+     "A pedra da parede",
+     "O vento",
+     "Os rios",
+     "As estrelas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-2-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "O quinto \"ai\" em Habacuque 2:15 é contra aquele que faz o quê ao seu próximo?",
+    "options": [
+     "Rouba o seu campo",
+     "Dá-lhe de beber e o embebeda",
+     "Levanta falso testemunho",
+     "Retém o seu salário"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-2-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "Porém o Senhor está no seu santo {0}",
+    "blanks": [
+     "templo"
+    ],
+    "distractors": [
+     "monte",
+     "cidade",
+     "céu"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "hab-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Uma oração posta em música",
+    "text": "O capítulo 3 é intitulado \"oração do profeta Habacuque\" e traz \"Selá\" e uma nota final ao cantor-mor — sinais de que era um salmo, cantado com instrumentos de corda no culto."
+   },
+   {
+    "id": "hab-3-mc-2",
+    "type": "multiple_choice",
+    "after_verse": 2,
+    "question": "Em Habacuque 3:2, do que o profeta pede que o Senhor se lembre na sua ira?",
+    "options": [
+     "Da misericórdia",
+     "Do convênio",
+     "Dos juramentos do povo",
+     "Do templo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hab-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Segundo Habacuque 3:5, o que ia diante do Senhor quando ele vinha?",
+    "options": [
+     "Um arco-íris",
+     "A peste",
+     "Uma nuvem de incenso",
+     "Uma hoste de anjos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hab-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Habacuque 3:10, como reagem os montes ao ver o Senhor?",
+    "options": [
+     "Cantam",
+     "Derretem-se em rios",
+     "Viram-no e tremeram",
+     "Desaparecem"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "hab-3-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Tu com os teus cavalos marchaste pelo {0}",
+    "blanks": [
+     "mar"
+    ],
+    "distractors": [
+     "deserto",
+     "vale",
+     "tempestade"
+    ]
+   },
+   {
+    "id": "hab-3-mp-17",
+    "type": "match_pairs",
+    "after_verse": 17,
+    "pairs": [
+     {
+      "left": "O fruto que falta",
+      "right": "A vide"
+     },
+     {
+      "left": "A árvore que não floresce",
+      "right": "A figueira"
+     },
+     {
+      "left": "O produto que decepciona",
+      "right": "A oliveira"
+     }
+    ]
+   },
+   {
+    "id": "hab-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Em Habacuque 3:19, o Senhor Deus é a força do profeta e faz os seus pés como os de quem?",
+    "options": [
+     "Das águias",
+     "Das cervas",
+     "Do leão",
+     "Do cavalo"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

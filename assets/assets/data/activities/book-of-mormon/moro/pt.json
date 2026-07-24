@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "book": "moro",
+  "chapters": {
+    "1": [
+      {
+        "id": "moro-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O último sobrevivente",
+        "text": "Morôni achava que havia terminado ao concluir o livro de Éter, mas sobreviveu sozinho por décadas após a destruição em Cumora. Errante, evitando os lamanitas, acrescentou estes capítulos finais."
+      },
+      {
+        "id": "moro-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "O que os lamanitas faziam a todo nefita que não negasse a Cristo?",
+        "options": [
+          "Matavam-no",
+          "Escravizavam-no",
+          "Exilavam-no",
+          "Cobravam-lhe tributo"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "moro-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "As palavras de Cristo aos Doze",
+        "text": "Este capítulo preserva as palavras que Cristo disse aos doze discípulos nefitas em sua primeira aparição (3 Néfi), dando-lhes autoridade para conferir o Espírito Santo pela imposição das mãos."
+      },
+      {
+        "id": "moro-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Invocareis o Pai em meu nome, em {0} oração",
+        "blanks": [
+          "fervorosa"
+        ],
+        "distractors": [
+          "secreta",
+          "silenciosa",
+          "constante"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "moro-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A oração de ordenação",
+        "text": "Morôni registra a fórmula exata da ordenação de sacerdotes e mestres na igreja antiga — uma das poucas orações transcritas palavra por palavra nas escrituras."
+      },
+      {
+        "id": "moro-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Por que poder os discípulos ordenavam sacerdotes e mestres?",
+        "options": [
+          "Pelo poder do Espírito Santo, que neles estava",
+          "Pela espada de Labão",
+          "Pela voz do povo",
+          "Tirando a sorte"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "moro-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A oração do sacramento",
+        "text": "Esta oração sobre o pão é recitada ainda hoje, quase palavra por palavra, em cada reunião sacramental d'A Igreja de Jesus Cristo — uma das passagens mais usadas do Livro de Mórmon."
+      },
+      {
+        "id": "moro-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "para que o comam em lembrança do {0} de teu Filho",
+        "blanks": [
+          "corpo"
+        ],
+        "distractors": [
+          "sangue",
+          "nome",
+          "sacrifício"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "moro-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Do vinho à água",
+        "text": "Morôni registra a oração sobre o vinho. Hoje, por revelação posterior (D&C 27), a igreja usa água em vez de vinho, mas a oração permanece praticamente idêntica."
+      },
+      {
+        "id": "moro-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "em lembrança do {0} de teu Filho, que por eles foi derramado",
+        "blanks": [
+          "sangue"
+        ],
+        "distractors": [
+          "corpo",
+          "nome",
+          "sacrifício"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "moro-6-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que se exigia de alguém antes de ser recebido para o batismo?",
+        "options": [
+          "Coração quebrantado, espírito contrito e tomar sobre si o nome de Cristo",
+          "O pagamento do dízimo",
+          "A aprovação de um rei",
+          "Quarenta dias de jejum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-6-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "O autor e consumador da fé",
+        "text": "A igreja primitiva guardava os nomes dos membros para que fossem 'alimentados pela boa palavra de Deus' — confiando, diz Morôni, 'unicamente nos méritos de Cristo, que era o autor e o consumador de sua fé'."
+      },
+      {
+        "id": "moro-6-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "acusados perante os élderes por três {0} da igreja",
+        "blanks": [
+          "testemunhas"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "mestres",
+          "líderes"
+        ]
+      },
+      {
+        "id": "moro-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Como eram conduzidas as reuniões da igreja?",
+        "options": [
+          "Conforme a operação do Espírito, pelo poder do Espírito Santo",
+          "Por um programa escrito fixo",
+          "Pelo membro mais velho presente",
+          "Tirando a sorte"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "moro-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O sermão de Mórmon",
+        "text": "Morôni preserva um sermão que seu pai, Mórmon, pregou na sinagoga sobre fé, esperança e caridade — um dos discursos mais amados das escrituras, registrado por um filho enlutado."
+      },
+      {
+        "id": "moro-7-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "por suas {0} os conhecereis",
+        "blanks": [
+          "obras"
+        ],
+        "distractors": [
+          "palavras",
+          "intenções",
+          "riquezas"
+        ]
+      },
+      {
+        "id": "moro-7-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Uma dádiva ou oração oferecida por um homem mau, sem real intenção, lhe aproveita o quê?",
+        "options": [
+          "Nada",
+          "Grande recompensa",
+          "Crédito parcial",
+          "Uma bênção"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "De onde Mórmon diz que vêm todas as coisas boas?",
+        "options": [
+          "De Deus",
+          "Dos homens sábios",
+          "Da lei de Moisés",
+          "Do templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "O que é dado a todo homem para que possa distinguir o bem do mal?",
+        "options": [
+          "O Espírito (a luz) de Cristo",
+          "Uma lei escrita",
+          "Um anjo da guarda",
+          "A voz dos profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Por que Deus enviou anjos para ministrar aos filhos dos homens?",
+        "options": [
+          "Para manifestar a respeito da vinda de Cristo",
+          "Para punir os iníquos",
+          "Para escolher novos reis",
+          "Para dividir as terras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Mórmon pergunta se os milagres e o ministério dos anjos cessaram. Qual é sua resposta?",
+        "options": [
+          "Não — eles não cessaram",
+          "Sim, depois que Cristo ascendeu",
+          "Apenas para os gentios",
+          "Apenas até o último dia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Se tiverdes {0} em mim, tereis poder",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "esperança",
+          "caridade",
+          "paciência"
+        ]
+      },
+      {
+        "id": "moro-7-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Por meio de quê os milagres são operados e os anjos aparecem?",
+        "options": [
+          "Pela fé",
+          "Pela lei",
+          "Pelo jejum",
+          "Pelo sacrifício"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Por meio da expiação de Cristo, o que devemos esperar?",
+        "options": [
+          "Ser ressuscitados para a vida eterna",
+          "Riquezas nesta vida",
+          "Um reino terreno",
+          "Livramento de toda provação"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-7-cur-45",
+        "type": "curiosity",
+        "after_verse": 45,
+        "title": "Caridade, o puro amor de Cristo",
+        "text": "A descrição de caridade feita por Mórmon — 'sofre tudo, é bondosa, não inveja...' — é muito próxima das palavras de Paulo em 1 Coríntios 13, mas define a caridade como 'o puro amor de Cristo'."
+      },
+      {
+        "id": "moro-7-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "a caridade é o puro {0} de Cristo",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "dom",
+          "reflexo",
+          "poder"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "moro-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma carta de pai para filho",
+        "text": "Os capítulos 8 e 9 são cartas pessoais de Mórmon a seu filho Morôni, escritas em meio às guerras finais — um raro e íntimo vislumbre dos dois homens por trás do registro."
+      },
+      {
+        "id": "moro-8-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "O que é o capítulo 8?",
+        "options": [
+          "Uma carta de Mórmon a seu filho Morôni",
+          "Um salmo de louvor",
+          "Um decreto real",
+          "Um relato de guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Por que o Senhor disse que as crianças pequenas não precisam de batismo?",
+        "options": [
+          "Não são capazes de pecar; a maldição de Adão é tirada delas em Cristo",
+          "São jovens demais para entender",
+          "Os pais são batizados por elas",
+          "São batizadas no céu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "As criancinhas, porém, estão {0} em Cristo desde a fundação do mundo",
+        "blanks": [
+          "vivas"
+        ],
+        "distractors": [
+          "salvas",
+          "limpas",
+          "seguras"
+        ]
+      },
+      {
+        "id": "moro-8-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "O amor perfeito lança fora o medo",
+        "text": "Falando com ousadia contra o batismo de crianças, Mórmon diz não temer homem algum, 'porque o perfeito amor lança fora todo o medo' — ecoando as palavras de João (1 João 4:18)."
+      },
+      {
+        "id": "moro-8-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "porque o perfeito {0} lança fora todo o medo",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "zelo",
+          "perdão",
+          "poder"
+        ]
+      },
+      {
+        "id": "moro-8-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que Mórmon chama de primeiros frutos do arrependimento?",
+        "options": [
+          "O batismo",
+          "O jejum",
+          "O sacrifício",
+          "O dízimo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Mórmon temia quanto ao Espírito e aos nefitas?",
+        "options": [
+          "Que o Espírito houvesse cessado de contender com eles",
+          "Que fugissem para os lamanitas",
+          "Que tivessem esquecido os registros",
+          "Que viesse uma fome"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "moro-9-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "O que Mórmon temia quanto ao seu povo, os nefitas?",
+        "options": [
+          "Que os lamanitas os destruíssem, pois não se arrependiam",
+          "Que morressem de fome",
+          "Que fugissem pelo mar",
+          "Que perdessem os registros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Este tabernáculo de barro",
+        "text": "Mesmo em meio ao horror, Mórmon exorta o filho a continuar trabalhando 'enquanto neste tabernáculo de barro' — uma imagem viva do corpo mortal como morada frágil e passageira."
+      },
+      {
+        "id": "moro-9-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por que Mórmon exorta Morôni a continuar trabalhando, apesar da dureza do povo?",
+        "options": [
+          "Para não serem condenados e poderem descansar a alma no reino de Deus",
+          "Para vencer a guerra",
+          "Para juntar riquezas",
+          "Para serem lembrados pela história"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "era um povo civilizado e {0}",
+        "blanks": [
+          "agradável"
+        ],
+        "distractors": [
+          "próspero",
+          "pacífico",
+          "poderoso"
+        ]
+      },
+      {
+        "id": "moro-9-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "O que Mórmon confessa sobre sua própria capacidade de liderar?",
+        "options": [
+          "É apenas um homem e já não consegue impor suas ordens",
+          "Nunca perdeu uma batalha",
+          "Coroará um novo rei",
+          "Escondeu os registros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Mórmon diz que, se os nefitas perecerem, será como qual povo anterior?",
+        "options": [
+          "Os jareditas",
+          "Os egípcios",
+          "O povo de Amon",
+          "Os mulequitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-9-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "A bênção de um pai",
+        "text": "Cercado por um povo 'insensível', Mórmon confia o filho a Deus: 'sê fiel em Cristo', escreve ele, para que a esperança da glória de Cristo 'permaneça em tua mente para sempre'."
+      },
+      {
+        "id": "moro-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Sê {0} em Cristo, meu filho",
+        "blanks": [
+          "fiel"
+        ],
+        "distractors": [
+          "humilde",
+          "firme",
+          "valente"
+        ]
+      },
+      {
+        "id": "moro-9-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Como Mórmon encerra esta dolorosa carta a seu filho?",
+        "options": [
+          "Com uma bênção para que a graça de Deus e de Cristo permaneça com Morôni para sempre",
+          "Com um plano de batalha",
+          "Com uma lista dos mortos",
+          "Com uma maldição sobre os lamanitas"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "moro-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "A promessa de Morôni",
+        "text": "Os versículos 4–5 contêm a promessa mais famosa do Livro de Mórmon: perguntar a Deus com coração sincero e real intenção, e a verdade será manifestada 'pelo poder do Espírito Santo'. Milhões leem estes versículos como um convite para orar a respeito do livro."
+      },
+      {
+        "id": "moro-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "O que Morôni promete se perguntardes a Deus sobre estas coisas com coração sincero e real intenção?",
+        "options": [
+          "Deus manifestará a verdade pelo poder do Espírito Santo",
+          "Um anjo aparecerá",
+          "Prosperareis em riquezas",
+          "Um sinal será dado no céu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "podeis saber a {0} de todas as coisas",
+        "blanks": [
+          "verdade"
+        ],
+        "distractors": [
+          "origem",
+          "ordem",
+          "beleza"
+        ]
+      },
+      {
+        "id": "moro-10-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "O que Morôni exorta a respeito dos dons de Deus?",
+        "options": [
+          "Não os negueis, pois são muitos e vêm do mesmo Deus",
+          "Buscar apenas o dom de línguas",
+          "Cessaram com os apóstolos",
+          "Pertencem só aos profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Qual destes está entre os dons do Espírito que Morôni enumera?",
+        "options": [
+          "Operar grandes milagres",
+          "Mandar o sol parar",
+          "Transformar água em vinho",
+          "Andar sobre o mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Por meio de quê vêm todos os dons espirituais, dados a cada homem segundo a vontade de Deus?",
+        "options": [
+          "O Espírito de Cristo",
+          "A vontade dos reis",
+          "A observância da lei",
+          "O lançar de sortes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Morôni diz que, sem caridade, de modo algum podereis ser o quê?",
+        "options": [
+          "Salvos no reino de Deus",
+          "Líderes da igreja",
+          "Mestres da lei",
+          "Lembrados pelos homens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "o desespero vem por causa da {0}",
+        "blanks": [
+          "iniquidade"
+        ],
+        "distractors": [
+          "fraqueza",
+          "dúvida",
+          "tristeza"
+        ]
+      },
+      {
+        "id": "moro-10-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Uma voz que sai do pó",
+        "text": "Morôni diz que suas palavras falarão aos leitores futuros 'como alguém que clama dentre os mortos... como quem fala desde o pó' — cumprindo a profecia de Isaías sobre uma voz que sai do pó (Isaías 29:4)."
+      },
+      {
+        "id": "moro-10-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Morôni diz que suas palavras falarão aos leitores futuros como o quê?",
+        "options": [
+          "Como alguém que clama dentre os mortos, falando desde o pó",
+          "Como um rei em seu trono",
+          "Como o trovão do céu",
+          "Como um cântico dos anjos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "moro-10-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "vinde a Cristo, sede {0} nele",
+        "blanks": [
+          "aperfeiçoados"
+        ],
+        "distractors": [
+          "salvos",
+          "batizados",
+          "purificados"
+        ]
+      },
+      {
+        "id": "moro-10-cur-34",
+        "type": "curiosity",
+        "after_verse": 34,
+        "title": "As últimas palavras do livro",
+        "text": "Com o versículo 34, Morôni encerra todo o Livro de Mórmon, despedindo-se até encontrar o leitor 'perante o agradável tribunal do grande Jeová, o Juiz Eterno'. São as palavras finais das placas."
+      }
+    ]
+  }
+}

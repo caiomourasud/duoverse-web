@@ -1,0 +1,798 @@
+{
+  "schema_version": 1,
+  "book": "morm",
+  "chapters": {
+    "1": [
+      {
+        "id": "morm-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El libro lleva su nombre",
+        "text": "Mormón no solo compiló el registro: le dio su propio nombre. El libro que lees lleva el nombre de este profeta y general que vivió la destrucción de su pueblo."
+      },
+      {
+        "id": "morm-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿A qué edad le dijo Ammarón al joven Mormón que registrara lo que había observado sobre su pueblo?",
+        "options": [
+          "Veinticuatro",
+          "Diez",
+          "Once",
+          "Quince"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Nefitas",
+            "right": "nefitas, jacobitas, josefitas y zoramitas"
+          },
+          {
+            "left": "Lamanitas",
+            "right": "lamanitas, lemuelitas e ismaelitas"
+          },
+          {
+            "left": "Ammarón",
+            "right": "Ocultó los anales y los confió a Mormón"
+          }
+        ]
+      },
+      {
+        "id": "morm-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "empezó la guerra entre ellos en las fronteras de Zarahemla, junto a las aguas de {0}",
+        "blanks": [
+          "Sidón"
+        ],
+        "distractors": [
+          "Antum",
+          "Shim",
+          "David"
+        ]
+      },
+      {
+        "id": "morm-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué cesó entre el pueblo a causa de su iniquidad?",
+        "options": [
+          "Los milagros y las sanidades",
+          "Todas las guerras",
+          "Las cosechas",
+          "El llevar los anales"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-1-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Tesoros deleznables",
+        "text": "La tierra fue maldecida de modo que los tesoros enterrados 'se hicieron deleznables': se escurrían de las manos de quien los ocultaba. La misma maldición reaparece en otros pueblos del Libro de Mormón."
+      },
+      {
+        "id": "morm-1-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Las palabras de qué profetas se cumplieron al extenderse el mal por la tierra?",
+        "options": [
+          "Abinadí y Samuel el Lamanita",
+          "Nefi y Lehi",
+          "Alma y Amulek",
+          "Isaías y Moisés"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "morm-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Por qué el joven Mormón fue nombrado para dirigir los ejércitos nefitas?",
+        "options": [
+          "A pesar de su juventud, era de grande estatura",
+          "Era hijo del rey",
+          "Era el soldado de más edad",
+          "Era su sumo sacerdote"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "los lamanitas tenían un rey, y se llamaba {0}",
+        "blanks": [
+          "Aarón"
+        ],
+        "distractors": [
+          "Ammarón",
+          "Nefi",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "morm-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué fue en vano la esperanza de Mormón al ver el lamento del pueblo?",
+        "options": [
+          "Su pesar no era para arrepentimiento, sino el pesar de los condenados",
+          "Eran muy pocos para luchar",
+          "Los lamanitas ya habían vencido",
+          "Solo lloraban a sus muertos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Qué tomó Mormón, de acuerdo con la palabra de Ammarón?",
+        "options": [
+          "Las planchas de Nefi",
+          "La espada de Labán",
+          "La Liahona",
+          "Las planchas de bronce"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "¡Ay de mí!",
+        "text": "Mormón intercala su crónica de guerra con lamentos personales. En lugar de heroísmo, registra el dolor de dirigir a un pueblo que se niega a arrepentirse."
+      },
+      {
+        "id": "morm-2-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "El ejército de treinta mil de Mormón hizo frente a un ejército enemigo de ¿cuántos?",
+        "options": [
+          "Cincuenta mil",
+          "Cuarenta y cuatro mil",
+          "Cuarenta y dos mil",
+          "Cien mil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Cómo se dividieron las tierras por el tratado del año trescientos cincuenta?",
+        "options": [
+          "Los lamanitas tomaron la tierra del sur; los nefitas, la del norte",
+          "Los nefitas se quedaron con todo",
+          "La tierra se dividió en este y oeste",
+          "Zarahemla fue dada a los lamanitas"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "morm-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué mandó el Señor que Mormón clamara al pueblo?",
+        "options": [
+          "Arrepentíos, sed bautizados y estableced de nuevo la iglesia",
+          "Huid al norte",
+          "Rendíos a los lamanitas",
+          "Edificad un templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Tras sus victorias, ¿en qué pecado cayeron los nefitas?",
+        "options": [
+          "Jactarse de su propia fuerza y jurar venganza",
+          "Idolatría",
+          "Robo de los anales",
+          "Negarse a luchar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "'Mía es la venganza'",
+        "text": "Las palabras del Señor a Mormón — 'Mía es la venganza, y yo pagaré' — hacen eco de Deuteronomio 32:35 y son citadas por Pablo en Romanos 12:19."
+      },
+      {
+        "id": "morm-3-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Mía es la {0}, y yo pagaré",
+        "blanks": [
+          "venganza"
+        ],
+        "distractors": [
+          "misericordia",
+          "justicia",
+          "salvación"
+        ]
+      },
+      {
+        "id": "morm-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Después de negarse a llevar a su pueblo a la venganza, ¿en qué se convirtió Mormón?",
+        "options": [
+          "Un testigo pasivo, que registraba lo que veía y oía",
+          "Un cautivo de los lamanitas",
+          "Un rey",
+          "Un misionero en Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿A quién dirige Mormón su súplica de arrepentirse antes del juicio de Cristo?",
+        "options": [
+          "A todos los extremos de la tierra",
+          "Solo a los nefitas",
+          "Solo a las doce tribus",
+          "Solo a los gentiles"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "morm-4-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según Mormón, ¿quién castiga a los inicuos?",
+        "options": [
+          "Es por los inicuos que los inicuos son castigados",
+          "Solo los reyes lamanitas",
+          "Los justos",
+          "Nadie en esta vida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué ciudad atacaron los lamanitas en el año trescientos sesenta y cuatro, buscando apoderarse de ella?",
+        "options": [
+          "Teáncum",
+          "Zarahemla",
+          "Abundancia",
+          "Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Sacrificios humanos",
+        "text": "La degradación llega al extremo: los lamanitas comienzan a ofrecer a mujeres y niños nefitas en sacrificio a sus ídolos. Mormón ve en ello la señal de una sociedad sin freno moral."
+      },
+      {
+        "id": "morm-4-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Por qué atacaron los nefitas con ira sumamente grande en el año trescientos sesenta y siete?",
+        "options": [
+          "Los lamanitas habían sacrificado a sus mujeres e hijos a los ídolos",
+          "Querían más tierras",
+          "Su rey había sido muerto",
+          "Un profeta lo mandó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "empezaron a ser arrasados por ellos, así como el {0} ante el sol",
+        "blanks": [
+          "rocío"
+        ],
+        "distractors": [
+          "niebla",
+          "escarcha",
+          "nube"
+        ]
+      },
+      {
+        "id": "morm-4-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Cuando los lamanitas estaban a punto de subyugar la tierra, ¿qué hizo Mormón?",
+        "options": [
+          "Fue a la colina de Shim y recogió los anales que Ammarón había escondido",
+          "Se rindió",
+          "Huyó por el mar",
+          "Hizo un nuevo tratado"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "morm-5-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Por qué dieron los nefitas de nuevo a Mormón el mando de sus ejércitos?",
+        "options": [
+          "Lo veían como quien podía librarlos",
+          "Los sobornó",
+          "El Señor se lo mandó",
+          "Era el único soldado que quedaba"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Por qué escribió Mormón solo un breve compendio de estos sucesos?",
+        "options": [
+          "Por el mandamiento que había recibido y para no afligir demasiado a los lectores",
+          "Se le acabaron las planchas",
+          "No podía recordarlos",
+          "Los lamanitas se lo prohibieron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Con qué fin llegaría un día el registro a los judíos incrédulos?",
+        "options": [
+          "Para persuadirlos de que Jesús es el Cristo, el Hijo del Dios viviente",
+          "Para enseñarles hebreo",
+          "Para dividir sus tierras",
+          "Para iniciar una guerra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Profecía de la dispersión",
+        "text": "Aun al final, Mormón mira al futuro: este pueblo será dispersado, pero el registro saldrá a luz por medio de los gentiles para convencer a Israel de que Jesús es el Cristo."
+      },
+      {
+        "id": "morm-5-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "el barco que, sin velas ni {0}",
+        "blanks": [
+          "ancla"
+        ],
+        "distractors": [
+          "remo",
+          "timón",
+          "mástil"
+        ]
+      },
+      {
+        "id": "morm-5-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "vaya entre vosotros como {0}, y os despedace",
+        "blanks": [
+          "león"
+        ],
+        "distractors": [
+          "lobo",
+          "oso",
+          "tigre"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "morm-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿A qué tierra pidió Mormón reunir a su pueblo para la batalla final?",
+        "options": [
+          "Cumorah",
+          "Zarahemla",
+          "Desolación",
+          "Abundancia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué hizo Mormón con los anales sagrados antes de la última batalla?",
+        "options": [
+          "Los escondió en el cerro Cumorah, guardando unas pocas planchas para su hijo Moroni",
+          "Los arrojó al mar",
+          "Los entregó todos al rey lamanita",
+          "Los quemó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Cuántos del pueblo de Mormón sobrevivieron con él a la batalla de Cumorah?",
+        "options": [
+          "Veinticuatro",
+          "Diez mil",
+          "Trescientos",
+          "Ninguno"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Diez mil cada uno",
+        "text": "Mormón nombra a veintitrés comandantes, cada uno con 'sus diez mil': unos 230.000 muertos solo en este relato. La enumeración convierte la estadística en duelo personal."
+      },
+      {
+        "id": "morm-6-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Cuál es el centro del lamento de Mormón por su pueblo caído?",
+        "options": [
+          "Que se apartaron del Señor y rechazaron a Jesús, que esperaba con los brazos abiertos",
+          "Que murieron pobres",
+          "Que perdieron la guerra",
+          "Que no tenían rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Aun en medio de su duelo, ¿qué esperanza expresa Mormón respecto a los muertos?",
+        "options": [
+          "El Padre Eterno conoce su estado y obra con ellos en justicia y misericordia",
+          "Renacerán en la tierra",
+          "Escaparon de todo juicio",
+          "Atormentarán a los lamanitas"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "morm-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Las últimas palabras de Mormón",
+        "text": "Este breve capítulo es el mensaje final de Mormón, dirigido no a sus contemporáneos, sino al futuro resto de Israel que algún día leería su registro."
+      },
+      {
+        "id": "morm-7-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué dice Mormón al resto que deben abandonar?",
+        "options": [
+          "Sus armas de guerra",
+          "Sus riquezas",
+          "Sus anales",
+          "Sus tierras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-7-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "primero en el agua, y después con {0} y con el Espíritu Santo",
+        "blanks": [
+          "fuego"
+        ],
+        "distractors": [
+          "aceite",
+          "sangre",
+          "luz"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "morm-8-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Quién toma el registro al comienzo del capítulo 8?",
+        "options": [
+          "Moroni, el hijo de Mormón",
+          "Nefi",
+          "Ammarón",
+          "Helamán"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mp-1",
+        "type": "match_pairs",
+        "after_verse": 1,
+        "pairs": [
+          {
+            "left": "Mormón",
+            "right": "Padre de Moroni, que hizo el registro"
+          },
+          {
+            "left": "Moroni",
+            "right": "El hijo que termina el registro"
+          },
+          {
+            "left": "Lamanitas",
+            "right": "Persiguieron y destruyeron a los nefitas"
+          }
+        ]
+      },
+      {
+        "id": "morm-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "han pasado {0} años desde la venida de nuestro Señor y Salvador",
+        "blanks": [
+          "cuatrocientos"
+        ],
+        "distractors": [
+          "trescientos",
+          "seiscientos",
+          "quinientos"
+        ]
+      },
+      {
+        "id": "morm-8-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Los tres discípulos",
+        "text": "Moroni afirma que él y su padre vieron a los tres discípulos nefitas que, según 3 Nefi 28, no probarían la muerte: un raro puente entre ambos relatos."
+      },
+      {
+        "id": "morm-8-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué dice Moroni que las planchas 'no tienen valor' para quien las busca?",
+        "options": [
+          "El Señor prohibió que alguien las obtuviera para lucrar",
+          "Son de metal barato",
+          "Están en blanco",
+          "Son falsas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Según la escritura que Moroni cita, ¿qué pertenece solo al Señor?",
+        "options": [
+          "El juicio y la venganza",
+          "La guerra y la paz",
+          "El oro y la plata",
+          "Los reyes y los tronos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué profecías exhorta Moroni al lector a escudriñar?",
+        "options": [
+          "Las de Isaías",
+          "Las de Nefi",
+          "Las de Samuel",
+          "Las de Malaquías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Moroni prevé un día en que las iglesias y sus líderes se ensalzarían en ¿qué?",
+        "options": [
+          "En el orgullo de sus corazones",
+          "En la caridad para con los pobres",
+          "En el amor a las Escrituras",
+          "En la unidad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "por vuestro {0} seréis perdonados de vuestros pecados",
+        "blanks": [
+          "dinero"
+        ],
+        "distractors": [
+          "trabajo",
+          "ayuno",
+          "sacrificio"
+        ]
+      },
+      {
+        "id": "morm-8-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "Vio nuestros días",
+        "text": "Moroni dice que Jesús le mostró a sus lectores futuros: 'os hablo como si os hallaseis presentes'. Los versículos 26–41 describen los últimos días con notable precisión."
+      },
+      {
+        "id": "morm-8-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Moroni reprende a las iglesias futuras por amar ¿qué más que a los pobres y necesitados?",
+        "options": [
+          "El dinero, los costosos vestidos y el adorno de sus iglesias",
+          "A sus familias",
+          "Sus tierras",
+          "Su libertad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Moroni advierte que ¿qué se cierne ahora sobre los inicuos que oprimen a los pobres?",
+        "options": [
+          "La espada de la venganza",
+          "Una hambruna",
+          "Un gran diluvio",
+          "El ejército lamanita"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "morm-9-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Moroni dice que los culpables serían más desdichados morando con un Dios santo que ¿dónde?",
+        "options": [
+          "Con las almas condenadas en el infierno",
+          "En un desierto vacío",
+          "Entre los lamanitas",
+          "En una prisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué verdad acerca de Dios cita Moroni para probar que Él es un Dios de milagros?",
+        "options": [
+          "Es el mismo ayer, hoy y para siempre, sin sombra de cambio",
+          "Vive muy lejos",
+          "Solo habla a los profetas",
+          "Creó solo la tierra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Según Moroni, ¿qué vino por Adán y qué vino a causa de Cristo?",
+        "options": [
+          "Por Adán vino la caída; a causa de Cristo vino la redención",
+          "Por Adán vino la luz; por Cristo vino la ley",
+          "Por Adán vino la ley; por Cristo vino la guerra",
+          "Ambos trajeron solo juicio"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "ellos degeneran en la {0}, y se apartan de la vía correcta",
+        "blanks": [
+          "incredulidad"
+        ],
+        "distractors": [
+          "iniquidad",
+          "idolatría",
+          "ignorancia"
+        ]
+      },
+      {
+        "id": "morm-9-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué señales dijo Jesús que seguirían a los que creen?",
+        "options": [
+          "Echar fuera demonios, hablar nuevas lenguas y sanar a los enfermos",
+          "Riqueza y larga vida",
+          "Victoria en la batalla",
+          "Conocimiento de todos los idiomas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "despojaos de toda {0}",
+        "blanks": [
+          "impureza"
+        ],
+        "distractors": [
+          "iniquidad",
+          "vanidad",
+          "soberbia"
+        ]
+      },
+      {
+        "id": "morm-9-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿En qué caracteres dijo Moroni que se escribió el registro?",
+        "options": [
+          "Egipcio reformado",
+          "Hebreo",
+          "Griego",
+          "Arameo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Egipcio reformado",
+        "text": "Moroni explica que el registro se grabó en 'egipcio reformado', y que habrían escrito en hebreo de haber tenido espacio en las planchas: una rara nota sobre el idioma de los nefitas."
+      },
+      {
+        "id": "morm-9-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Cómo concluye el registro de Mormón en su último versículo?",
+        "options": [
+          "Con una oración de que Dios recuerde Su convenio con la casa de Israel",
+          "Con una lista de reyes",
+          "Con un informe de batalla",
+          "Con una genealogía"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

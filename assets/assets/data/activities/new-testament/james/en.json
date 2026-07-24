@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "book": "james",
+  "chapters": {
+    "1": [
+      {
+        "id": "james-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to James, what does the trying of your faith work?",
+        "options": [
+          "Patience",
+          "Riches",
+          "Pride",
+          "Doubt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "The First Vision verse",
+        "body": "James 1:5 — \"If any of you lack wisdom, let him ask of God\" — is the verse that inspired the young Joseph Smith to pray in 1820, leading to the First Vision."
+      },
+      {
+        "id": "james-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "If any of you lack {0}, let him ask of God, that giveth to all men liberally",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "patience",
+          "riches",
+          "joy"
+        ]
+      },
+      {
+        "id": "james-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "How is a double minded man described?",
+        "options": [
+          "Unstable in all his ways",
+          "Firm in faith",
+          "Rich in wisdom",
+          "Blessed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Blessed is the man that endureth {0}: for when he is tried, he shall receive the crown of life",
+        "blanks": [
+          "temptation"
+        ],
+        "distractors": [
+          "riches",
+          "the word",
+          "the grass"
+        ]
+      },
+      {
+        "id": "james-1-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "title": "Origin of gifts",
+        "pairs": [
+          {
+            "left": "Every good gift",
+            "right": "is from above"
+          },
+          {
+            "left": "Father of lights",
+            "right": "with whom is no variableness"
+          },
+          {
+            "left": "The word of truth",
+            "right": "begat us as firstfruits"
+          }
+        ]
+      },
+      {
+        "id": "james-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "let every man be swift to {0}, slow to speak, slow to wrath",
+        "blanks": [
+          "hear"
+        ],
+        "distractors": [
+          "run",
+          "judge",
+          "sleep"
+        ]
+      },
+      {
+        "id": "james-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "According to James, what is pure and undefiled religion?",
+        "options": [
+          "To visit the fatherless and widows and keep oneself unspotted from the world",
+          "To gather riches",
+          "To speak much about the law",
+          "To gaze in a mirror"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "james-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A gold ring and vile raiment",
+        "body": "James paints a concrete scene of worship: the rich man with a gold ring is offered a good place; the poor man, to stand or sit on the floor. Such favoritism makes believers 'judges of evil thoughts.'"
+      },
+      {
+        "id": "james-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "By making a distinction between rich and poor, what do believers become, according to verse 4?",
+        "options": [
+          "Judges of evil thoughts",
+          "Heirs of the kingdom",
+          "Servants of the law",
+          "Friends of God"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "the royal law according to the scripture, Thou shalt love thy {0} as thyself, ye do well",
+        "blanks": [
+          "neighbour"
+        ],
+        "distractors": [
+          "enemy",
+          "brother",
+          "master"
+        ]
+      },
+      {
+        "id": "james-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "According to verse 13, what rejoiceth against judgment?",
+        "options": [
+          "Mercy",
+          "The law",
+          "Faith",
+          "Works"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Even so faith, if it hath not {0}, is dead, being alone.",
+        "blanks": [
+          "works"
+        ],
+        "distractors": [
+          "words",
+          "promises",
+          "hope"
+        ]
+      },
+      {
+        "id": "james-2-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Even the devils believe",
+        "body": "Believing 'there is one God' is well, but James notes 'the devils also believe, and tremble.' Mere belief, without works, does not set the faithful apart from a devil."
+      },
+      {
+        "id": "james-2-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "title": "Justified by works",
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Offered his son Isaac upon the altar"
+          },
+          {
+            "left": "Rahab",
+            "right": "Received the messengers and sent them out another way"
+          },
+          {
+            "left": "Abraham",
+            "right": "Was called the Friend of God"
+          }
+        ]
+      },
+      {
+        "id": "james-2-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "as the body without the {0} is dead, so faith without works is dead also.",
+        "blanks": [
+          "spirit"
+        ],
+        "distractors": [
+          "blood",
+          "heart",
+          "bread"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "james-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Why few masters?",
+        "body": "James warns that those who teach receive greater responsibility and judgment, for their words sway many — so his concern over the tongue begins right in this exhortation."
+      },
+      {
+        "id": "james-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "prompt": "Complete the verse:",
+        "template": "Behold, we put {0} in the horses’ mouths, that they may obey us",
+        "blanks": [
+          "bits"
+        ],
+        "distractors": [
+          "helms",
+          "fires",
+          "fountains"
+        ]
+      },
+      {
+        "id": "james-3-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "prompt": "Match each image to what it controls or does:",
+        "pairs": [
+          {
+            "left": "Bit",
+            "right": "Guides the horse"
+          },
+          {
+            "left": "Helm",
+            "right": "Steers the ship"
+          },
+          {
+            "left": "Little fire",
+            "right": "Kindles the forest"
+          },
+          {
+            "left": "Tongue",
+            "right": "Governs the body"
+          }
+        ]
+      },
+      {
+        "id": "james-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "prompt": "Complete the verse:",
+        "template": "But the tongue can no man tame; it is an unruly evil, full of deadly {0}.",
+        "blanks": [
+          "poison"
+        ],
+        "distractors": [
+          "water",
+          "fruit",
+          "honey"
+        ]
+      },
+      {
+        "id": "james-3-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "According to James, what can one fountain NOT send forth from the same place?",
+        "options": [
+          "Sweet water and bitter",
+          "Only sweet water",
+          "Only bitter water",
+          "Blessing alone"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "prompt": "How does James describe earthly wisdom (v15)?",
+        "options": [
+          "Earthly, sensual, devilish",
+          "Pure and peaceable",
+          "Full of mercy",
+          "Without hypocrisy"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "james-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The war within",
+        "body": "James locates the source of wars and fightings not in outward circumstances but in the lusts that 'war' within a person."
+      },
+      {
+        "id": "james-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to verse 2, why do they have not?",
+        "options": [
+          "because ye ask not",
+          "because ye work not",
+          "because ye fast not",
+          "because ye believe not"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "know ye not that the friendship of the world is {0} with God?",
+        "blanks": [
+          "enmity"
+        ],
+        "distractors": [
+          "humility",
+          "grace",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "james-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Submit yourselves therefore to God. Resist the {0}, and he will flee from you.",
+        "blanks": [
+          "devil"
+        ],
+        "distractors": [
+          "world",
+          "pride",
+          "sin"
+        ]
+      },
+      {
+        "id": "james-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "According to verse 6, whom does God resist and to whom does he give grace?",
+        "options": [
+          "resists the proud, but gives grace unto the humble",
+          "resists the poor, but gives grace unto the rich",
+          "resists the humble, but gives grace unto the proud",
+          "resists the wise, but gives grace unto the foolish"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-mp-9",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Action and consequence",
+        "pairs": [
+          {
+            "left": "Draw nigh to God",
+            "right": "and he will draw nigh to you"
+          },
+          {
+            "left": "Humble yourselves in the sight of the Lord",
+            "right": "and he shall lift you up"
+          },
+          {
+            "left": "Resist the devil",
+            "right": "and he will flee from you"
+          }
+        ]
+      },
+      {
+        "id": "james-4-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Plans without God",
+        "body": "James rebukes those who plan journeys and profits with full confidence, forgetting that tomorrow is not in their hands."
+      },
+      {
+        "id": "james-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "what is your life? It is even a {0}, that appeareth for a little time, and then vanisheth away.",
+        "blanks": [
+          "vapour"
+        ],
+        "distractors": [
+          "river",
+          "mountain",
+          "treasure"
+        ]
+      },
+      {
+        "id": "james-4-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "According to verse 17, to whom is it sin?",
+        "options": [
+          "to him that knoweth to do good, and doeth it not",
+          "to him that knoweth not the law",
+          "to him that doeth good for reward",
+          "to him that erreth unknowingly"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "james-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "prompt": "According to verse 4, the cries of the defrauded labourers entered into the ears of whom?",
+        "options": [
+          "The Lord of sabaoth",
+          "The prophets",
+          "The husbandman",
+          "The elders"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "prompt": "Complete verse 6.",
+        "verse": 6,
+        "template": "Ye have condemned and killed the {0}; and he doth not resist you.",
+        "blanks": [
+          "just"
+        ],
+        "distractors": [
+          "husbandman",
+          "wicked",
+          "sinner"
+        ]
+      },
+      {
+        "id": "james-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "prompt": "Complete verse 7.",
+        "verse": 7,
+        "template": "Be patient therefore, brethren, unto the coming of the {0}.",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "husbandman",
+          "judge",
+          "prophet"
+        ]
+      },
+      {
+        "id": "james-5-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "Who is named in verse 11 as an example of one who endured affliction with patience?",
+        "options": [
+          "Job",
+          "Elias",
+          "Abraham",
+          "Moses"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "prompt": "Curiosity",
+        "body": "Verse 14 describes calling for the elders of the church to pray over the sick, anointing them with oil in the name of the Lord — an ordinance of healing still observed by the laying on of hands."
+      },
+      {
+        "id": "james-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "prompt": "According to verse 16, what should we do for one another that we may be healed?",
+        "options": [
+          "Confess our faults and pray one for another",
+          "Swear by heaven",
+          "Heap treasure for the last days",
+          "Resist the just"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "prompt": "Match each part of the example of Elias (v17-18) to its result.",
+        "pairs": [
+          {
+            "left": "Elias prayed it might not rain",
+            "right": "It rained not for three years and six months"
+          },
+          {
+            "left": "Elias prayed again",
+            "right": "The heaven gave rain"
+          },
+          {
+            "left": "After the rain",
+            "right": "The earth brought forth her fruit"
+          }
+        ]
+      }
+    ]
+  }
+}

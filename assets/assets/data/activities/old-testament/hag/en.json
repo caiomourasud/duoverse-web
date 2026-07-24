@@ -1,0 +1,166 @@
+{
+ "schema_version": 1,
+ "book": "hag",
+ "chapters": {
+  "1": [
+   {
+    "id": "hag-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A prophet with a date",
+    "text": "Haggai is one of the most precisely dated books in the Bible: verse 1 fixes his first message to 'the second year of Darius the king, in the sixth month, in the first day' — about 520 BC, among the exiles returned to Judah."
+   },
+   {
+    "id": "hag-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "What did the people say about rebuilding the Lord's house in Haggai 1:2?",
+    "options": [
+     "The time is not come to build it",
+     "It should be built at once",
+     "Another people should build it",
+     "It should be built in Babylon"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-1-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Because of mine {0} that is waste",
+    "blanks": [
+     "house"
+    ],
+    "distractors": [
+     "vineyard",
+     "city",
+     "temple"
+    ]
+   },
+   {
+    "id": "hag-1-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "Ye have sown much",
+      "right": "and bring in little"
+     },
+     {
+      "left": "ye eat",
+      "right": "but ye have not enough"
+     },
+     {
+      "left": "ye drink",
+      "right": "but ye are not filled with drink"
+     }
+    ]
+   },
+   {
+    "id": "hag-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "How did Zerubbabel, Joshua, and the people respond to Haggai's message (Haggai 1:12)?",
+    "options": [
+     "They mocked the prophet",
+     "They fled to Babylon",
+     "They obeyed the voice of the Lord and feared before him",
+     "They demanded a new king"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "hag-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "What command does the Lord repeat to Zerubbabel, Joshua, and the people in Haggai 2:4?",
+    "options": [
+     "Be strong and work, for I am with you",
+     "Depart from the land",
+     "Offer more sacrifices",
+     "Wait ten years"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "hag-2-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "the {0} of all nations shall come",
+    "blanks": [
+     "desire"
+    ],
+    "distractors": [
+     "kings",
+     "riches",
+     "armies"
+    ]
+   },
+   {
+    "id": "hag-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "A greater glory promised",
+    "text": "Though the returned exiles wept that their rebuilt temple looked like 'nothing' beside Solomon's, Haggai 2:9 promised the glory of this latter house would be greater than the former — read by many as pointing beyond stone and gold."
+   },
+   {
+    "id": "hag-2-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "When the priests were asked whether holy flesh in a garment's skirt could make bread or wine holy by touch, what did they answer (Haggai 2:12)?",
+    "options": [
+     "Yes",
+     "No",
+     "Only bread",
+     "Only wine"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mp-8",
+    "type": "match_pairs",
+    "after_verse": 8,
+    "pairs": [
+     {
+      "left": "The silver is",
+      "right": "mine"
+     },
+     {
+      "left": "the gold is",
+      "right": "mine"
+     }
+    ]
+   },
+   {
+    "id": "hag-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "With what three things does the Lord say he smote the labors of their hands in Haggai 2:17?",
+    "options": [
+     "Fire, flood, and famine",
+     "Blasting, mildew, and hail",
+     "Locusts, drought, and darkness",
+     "Sword, plague, and wind"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "hag-2-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "What does the Lord promise to make Zerubbabel in Haggai 2:23?",
+    "options": [
+     "A great king",
+     "A high priest",
+     "As a signet, for he has chosen him",
+     "A prophet like Haggai"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

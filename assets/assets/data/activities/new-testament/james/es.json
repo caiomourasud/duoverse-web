@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "book": "james",
+  "chapters": {
+    "1": [
+      {
+        "id": "james-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según Santiago, ¿qué produce la prueba de vuestra fe?",
+        "options": [
+          "Paciencia",
+          "Riquezas",
+          "Orgullo",
+          "Duda"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "El versículo de la Primera Visión",
+        "body": "Santiago 1:5 — \"si alguno de vosotros tiene falta de sabiduría, pídala a Dios\" — es el versículo que inspiró al joven José Smith a orar en 1820, lo que condujo a la Primera Visión."
+      },
+      {
+        "id": "james-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Y si alguno de vosotros tiene falta de {0}, pídala a Dios, quien da a todos abundantemente",
+        "blanks": [
+          "sabiduría"
+        ],
+        "distractors": [
+          "paciencia",
+          "riquezas",
+          "gozo"
+        ]
+      },
+      {
+        "id": "james-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Cómo se describe al hombre de doble ánimo?",
+        "options": [
+          "Inconstante en todos sus caminos",
+          "Firme en la fe",
+          "Rico en sabiduría",
+          "Bienaventurado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Bienaventurado el hombre que soporta la {0}, porque una vez que haya sido aprobado, recibirá la corona de vida",
+        "blanks": [
+          "tentación"
+        ],
+        "distractors": [
+          "riqueza",
+          "palabra",
+          "hierba"
+        ]
+      },
+      {
+        "id": "james-1-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "title": "Origen de los dones",
+        "pairs": [
+          {
+            "left": "Toda buena dádiva",
+            "right": "viene de lo alto"
+          },
+          {
+            "left": "Padre de las luces",
+            "right": "en quien no hay cambio"
+          },
+          {
+            "left": "La palabra de verdad",
+            "right": "nos hizo nacer como primicias"
+          }
+        ]
+      },
+      {
+        "id": "james-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "todo hombre sea pronto para {0}, tardo para hablar, tardo para airarse",
+        "blanks": [
+          "oír"
+        ],
+        "distractors": [
+          "correr",
+          "juzgar",
+          "dormir"
+        ]
+      },
+      {
+        "id": "james-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Según Santiago, ¿en qué consiste la religión pura y sin mácula?",
+        "options": [
+          "Visitar a los huérfanos y a las viudas y guardarse sin mancha del mundo",
+          "Acumular riquezas",
+          "Hablar mucho sobre la ley",
+          "Mirarse en un espejo"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "james-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Anillo de oro y vestido andrajoso",
+        "body": "Santiago pinta una escena concreta de culto: al rico con anillo de oro le ofrecen buen lugar; al pobre, quedarse de pie o sentarse en el suelo. Ese favoritismo hace a los creyentes 'jueces con malos pensamientos'."
+      },
+      {
+        "id": "james-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Al hacer distinción entre rico y pobre, ¿en qué vienen a ser los creyentes, según el versículo 4?",
+        "options": [
+          "Jueces con malos pensamientos",
+          "Herederos del reino",
+          "Siervos de la ley",
+          "Amigos de Dios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "cumplís vosotros la ley real, conforme a la Escritura: Amarás a tu {0} como a ti mismo, bien hacéis",
+        "blanks": [
+          "prójimo"
+        ],
+        "distractors": [
+          "enemigo",
+          "hermano",
+          "señor"
+        ]
+      },
+      {
+        "id": "james-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Según el versículo 13, ¿qué triunfa sobre el juicio?",
+        "options": [
+          "La misericordia",
+          "La ley",
+          "La fe",
+          "Las obras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Así también la fe, si no tiene {0}, es muerta en sí misma.",
+        "blanks": [
+          "obras"
+        ],
+        "distractors": [
+          "palabras",
+          "promesas",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "james-2-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "También los demonios creen",
+        "body": "Creer que 'Dios es uno' es bueno, pero Santiago recuerda que 'también los demonios creen, y tiemblan'. La mera creencia, sin obras, no distingue al fiel del demonio."
+      },
+      {
+        "id": "james-2-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "title": "Justificados por las obras",
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Ofreció a su hijo Isaac sobre el altar"
+          },
+          {
+            "left": "Rahab",
+            "right": "Recibió a los mensajeros y los envió por otro camino"
+          },
+          {
+            "left": "Abraham",
+            "right": "Fue llamado amigo de Dios"
+          }
+        ]
+      },
+      {
+        "id": "james-2-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "como el cuerpo sin el {0} está muerto, así también la fe sin obras es muerta.",
+        "blanks": [
+          "espíritu"
+        ],
+        "distractors": [
+          "sangre",
+          "corazón",
+          "pan"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "james-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "¿Por qué pocos maestros?",
+        "body": "Santiago advierte que quien enseña recibe mayor responsabilidad y juicio, pues sus palabras influyen en muchos — por eso el cuidado con la lengua comienza en esta exhortación."
+      },
+      {
+        "id": "james-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "prompt": "Completa el versículo:",
+        "template": "He aquí nosotros ponemos {0} en la boca de los caballos para que nos obedezcan",
+        "blanks": [
+          "freno"
+        ],
+        "distractors": [
+          "timón",
+          "fuego",
+          "fuente"
+        ]
+      },
+      {
+        "id": "james-3-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "prompt": "Asocia cada imagen con lo que controla o hace:",
+        "pairs": [
+          {
+            "left": "Freno",
+            "right": "Guía al caballo"
+          },
+          {
+            "left": "Timón",
+            "right": "Dirige la nave"
+          },
+          {
+            "left": "Pequeño fuego",
+            "right": "Enciende el bosque"
+          },
+          {
+            "left": "Lengua",
+            "right": "Gobierna el cuerpo"
+          }
+        ]
+      },
+      {
+        "id": "james-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "prompt": "Completa el versículo:",
+        "template": "pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado, llena de veneno {0}.",
+        "blanks": [
+          "mortal"
+        ],
+        "distractors": [
+          "dulce",
+          "amarga",
+          "salada"
+        ]
+      },
+      {
+        "id": "james-3-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "Según Santiago, ¿qué NO puede echar una fuente por la misma abertura?",
+        "options": [
+          "Agua dulce y amarga",
+          "Solo agua dulce",
+          "Solo agua amarga",
+          "Bendición sola"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "prompt": "¿Cómo describe Santiago la sabiduría terrenal (v15)?",
+        "options": [
+          "Terrenal, animal y diabólica",
+          "Pura y pacífica",
+          "Llena de misericordia",
+          "Sin hipocresía"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "james-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La guerra interior",
+        "body": "Santiago ubica el origen de las guerras y los pleitos no en circunstancias externas, sino en las concupiscencias que 'combaten' dentro de la persona."
+      },
+      {
+        "id": "james-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Según el versículo 2, ¿por qué no tienen nada?",
+        "options": [
+          "porque no pedís",
+          "porque no trabajáis",
+          "porque no ayunáis",
+          "porque no creéis"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "¿no sabéis que la amistad del mundo es {0} con Dios?",
+        "blanks": [
+          "enemistad"
+        ],
+        "distractors": [
+          "humildad",
+          "gracia",
+          "sabiduría"
+        ]
+      },
+      {
+        "id": "james-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Someteos, pues, a Dios; resistid al {0}, y huirá de vosotros.",
+        "blanks": [
+          "diablo"
+        ],
+        "distractors": [
+          "mundo",
+          "orgullo",
+          "pecado"
+        ]
+      },
+      {
+        "id": "james-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según el versículo 6, ¿a quién resiste Dios y a quién da gracia?",
+        "options": [
+          "resiste a los soberbios y da gracia a los humildes",
+          "resiste a los pobres y da gracia a los ricos",
+          "resiste a los humildes y da gracia a los soberbios",
+          "resiste a los sabios y da gracia a los necios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-mp-9",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Acción y consecuencia",
+        "pairs": [
+          {
+            "left": "Acercaos a Dios",
+            "right": "y él se acercará a vosotros"
+          },
+          {
+            "left": "Humillaos delante del Señor",
+            "right": "y él os ensalzará"
+          },
+          {
+            "left": "Resistid al diablo",
+            "right": "y huirá de vosotros"
+          }
+        ]
+      },
+      {
+        "id": "james-4-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Planes sin Dios",
+        "body": "Santiago reprende a quienes planean viajes y ganancias con plena seguridad, olvidando que el mañana no está en sus manos."
+      },
+      {
+        "id": "james-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "¿qué es vuestra vida? Ciertamente es un {0} que aparece por un poco de tiempo y luego se desvanece.",
+        "blanks": [
+          "vapor"
+        ],
+        "distractors": [
+          "río",
+          "monte",
+          "tesoro"
+        ]
+      },
+      {
+        "id": "james-4-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Según el versículo 17, ¿en quién está el pecado?",
+        "options": [
+          "en aquel que sabe hacer lo bueno y no lo hace",
+          "en aquel que no conoce la ley",
+          "en aquel que hace el bien por recompensa",
+          "en aquel que yerra sin saberlo"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "james-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "prompt": "Según el versículo 4, ¿a los oídos de quién llegaron los clamores de los obreros defraudados?",
+        "options": [
+          "Del Señor de los ejércitos",
+          "De los profetas",
+          "Del labrador",
+          "De los ancianos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "prompt": "Complete el versículo 6.",
+        "verse": 6,
+        "template": "Habéis condenado y dado muerte al {0}, sin que él os opusiese resistencia.",
+        "blanks": [
+          "justo"
+        ],
+        "distractors": [
+          "labrador",
+          "impío",
+          "pecador"
+        ]
+      },
+      {
+        "id": "james-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "prompt": "Complete el versículo 7.",
+        "verse": 7,
+        "template": "Por tanto, hermanos, tened paciencia hasta la venida del {0}.",
+        "blanks": [
+          "Señor"
+        ],
+        "distractors": [
+          "labrador",
+          "juez",
+          "profeta"
+        ]
+      },
+      {
+        "id": "james-5-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "¿Quién se menciona en el versículo 11 como ejemplo de quien sufrió aflicción con paciencia?",
+        "options": [
+          "Job",
+          "Elías",
+          "Abraham",
+          "Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "prompt": "Curiosidad",
+        "body": "El versículo 14 describe llamar a los ancianos de la iglesia para orar por el enfermo, ungiéndole con aceite en el nombre del Señor — una ordenanza de sanación aún observada mediante la imposición de manos."
+      },
+      {
+        "id": "james-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "prompt": "Según el versículo 16, ¿qué debemos hacer los unos por los otros para ser sanados?",
+        "options": [
+          "Confesar nuestras faltas y orar los unos por los otros",
+          "Jurar por el cielo",
+          "Acumular tesoros para los días finales",
+          "Resistir al justo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "prompt": "Relacione cada parte del ejemplo de Elías (v17-18) con su resultado.",
+        "pairs": [
+          {
+            "left": "Elías rogó que no lloviese",
+            "right": "No llovió durante tres años y seis meses"
+          },
+          {
+            "left": "Elías oró otra vez",
+            "right": "El cielo dio lluvia"
+          },
+          {
+            "left": "Después de la lluvia",
+            "right": "La tierra produjo su fruto"
+          }
+        ]
+      }
+    ]
+  }
+}

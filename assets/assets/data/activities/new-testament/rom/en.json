@@ -1,0 +1,1888 @@
+{
+  "schema_version": 1,
+  "book": "rom",
+  "chapters": {
+    "1": [
+      {
+        "id": "rom-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The letter to the Romans",
+        "text": "Paul wrote this letter to a church he had not yet visited, in Rome, the capital of the empire. It is the longest and most systematic of his letters, and it shaped Christian theology over the centuries."
+      },
+      {
+        "id": "rom-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How does Paul describe himself in the greeting to the Romans?",
+        "options": [
+          "A servant of Jesus Christ, called to be an apostle",
+          "A high priest of Israel",
+          "A king of the Gentiles",
+          "A scribe of the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What did Paul desire in visiting the Romans?",
+        "options": [
+          "To impart some spiritual gift to strengthen them",
+          "To receive offerings from them",
+          "To be crowned king",
+          "To found a temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "for it is the {0} of God unto salvation to every one that believeth;",
+        "blanks": [
+          "power"
+        ],
+        "distractors": [
+          "love",
+          "kingdom",
+          "judgment"
+        ]
+      },
+      {
+        "id": "rom-1-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "The just shall live by faith",
+        "text": "Verse 17 — 'the just shall live by faith', quoted from Habakkuk — is the heart of Romans and of the gospel according to Paul. Centuries later, this phrase was decisive in the life of reformers such as Martin Luther."
+      },
+      {
+        "id": "rom-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "And changed the {0} of the uncorruptible God into an image",
+        "blanks": [
+          "glory"
+        ],
+        "distractors": [
+          "law",
+          "truth",
+          "word"
+        ]
+      },
+      {
+        "id": "rom-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What did men do in exchanging the truth of God for a lie?",
+        "options": [
+          "They worshipped and served the creature more than the Creator",
+          "They built a temple to God",
+          "They kept the law of Moses",
+          "They preached to the Gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "What does Paul say of those who practice such evils, knowing God's judgment?",
+        "options": [
+          "Not only do them, but also approve those who do them",
+          "They repent at once",
+          "They hide from God",
+          "They seek pardon in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "Paul",
+            "right": "Servant and apostle, author of the letter to the Romans"
+          },
+          {
+            "left": "The gospel",
+            "right": "Power of God for the salvation of the believer"
+          },
+          {
+            "left": "The just",
+            "right": "Shall live by faith"
+          },
+          {
+            "left": "The wrath of God",
+            "right": "Revealed against the ungodliness of men"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "rom-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The judge who condemns himself",
+        "text": "Paul turns the argument against those who judge others: by condemning another's sin and doing the same, a person condemns himself. No one escapes God's judgment by thinking himself better."
+      },
+      {
+        "id": "rom-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "the goodness of God leadeth thee to {0}?",
+        "blanks": [
+          "repentance"
+        ],
+        "distractors": [
+          "judgment",
+          "punishment",
+          "ruin"
+        ]
+      },
+      {
+        "id": "rom-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What does Paul affirm about God's judgment?",
+        "options": [
+          "With God there is no respect of persons",
+          "God judges only the Gentiles",
+          "God spares the Jews",
+          "God ignores deeds"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Who are just before God, according to Paul?",
+        "options": [
+          "Not the hearers of the law, but the doers of it",
+          "Only the circumcised",
+          "Those who know the law",
+          "The priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What inconsistency does Paul point out in those who boast of teaching the law?",
+        "options": [
+          "He teaches others, but does not teach himself",
+          "He keeps the law perfectly",
+          "He despises the Gentiles",
+          "He denies circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "circumcision verily profiteth, if thou keep the {0}:",
+        "blanks": [
+          "law"
+        ],
+        "distractors": [
+          "faith",
+          "covenant",
+          "promise"
+        ]
+      },
+      {
+        "id": "rom-2-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Who is truly a Jew, according to Paul?",
+        "options": [
+          "He who is one inwardly, with circumcision of the heart",
+          "He who is one outwardly in the flesh",
+          "Whoever keeps physical circumcision",
+          "The descendant of Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "The goodness of God",
+            "right": "Leads to repentance"
+          },
+          {
+            "left": "The doers of the law",
+            "right": "Are justified, not the mere hearers"
+          },
+          {
+            "left": "Respect of persons",
+            "right": "Does not exist with God"
+          },
+          {
+            "left": "True Jew",
+            "right": "One who is so inwardly, in the heart"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "rom-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "let God be true, but every man a {0};",
+        "blanks": [
+          "liar"
+        ],
+        "distractors": [
+          "sinner",
+          "fool",
+          "servant"
+        ]
+      },
+      {
+        "id": "rom-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What slander does Paul reject, calling the condemnation of those who utter it just?",
+        "options": [
+          "Let us do evil that good may come",
+          "The law has been annulled",
+          "God does not judge",
+          "Faith suffices without God"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "There is none righteous",
+        "text": "To prove that all have sinned, Paul strings together a series of Old Testament quotations — chiefly from the Psalms and Isaiah. Together they paint a dark portrait of humanity without God."
+      },
+      {
+        "id": "rom-3-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "There is none {0}, no, not one:",
+        "blanks": [
+          "righteous"
+        ],
+        "distractors": [
+          "wise",
+          "faithful",
+          "pure"
+        ]
+      },
+      {
+        "id": "rom-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Where does Paul draw the series of quotations on the sinful condition of all?",
+        "options": [
+          "From the psalms and prophets of the Old Testament",
+          "From the law of Rome",
+          "From Greek proverbs",
+          "From his own words"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "For all have {0}, and come short of the glory of God;",
+        "blanks": [
+          "sinned"
+        ],
+        "distractors": [
+          "believed",
+          "fallen",
+          "strayed"
+        ]
+      },
+      {
+        "id": "rom-3-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Justified by grace",
+        "text": "Paul presents Christ as a propitiation, a word that evoked the sacrifice of the Day of Atonement in the temple. Justification is free: it comes by grace and by the redemption in Christ, not by the merit of the believer."
+      },
+      {
+        "id": "rom-3-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "How is a man justified, Paul concludes?",
+        "options": [
+          "By faith, without the deeds of the law",
+          "By the deeds of the law",
+          "By circumcision",
+          "By sacrifices"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "All",
+            "right": "Have sinned and come short of the glory of God"
+          },
+          {
+            "left": "Justification",
+            "right": "Free, by grace and the redemption in Christ"
+          },
+          {
+            "left": "Boasting",
+            "right": "Excluded by the law of faith"
+          },
+          {
+            "left": "God",
+            "right": "Is God of both Jews and Gentiles"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "rom-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Abraham, father of faith",
+        "text": "Paul appeals to Abraham, the great patriarch, to show that justification has always been by faith. Abraham believed before the law existed and before he was circumcised, becoming the father of all who believe, Jews and Gentiles."
+      },
+      {
+        "id": "rom-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "it was counted unto him for {0}.",
+        "blanks": [
+          "righteousness"
+        ],
+        "distractors": [
+          "grace",
+          "faith",
+          "blessing"
+        ]
+      },
+      {
+        "id": "rom-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Whom does David declare blessed?",
+        "options": [
+          "The one whose iniquities are forgiven and whose sins are covered",
+          "The one who keeps all the law",
+          "The rich and powerful",
+          "The circumcised"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Why was Abraham's faith counted as righteousness before he was circumcised?",
+        "options": [
+          "To be the father of all who believe, circumcised or not",
+          "To found Israel",
+          "Because he was a king",
+          "To receive the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "I have made thee a father of many {0},",
+        "blanks": [
+          "nations"
+        ],
+        "distractors": [
+          "tribes",
+          "cities",
+          "generations"
+        ]
+      },
+      {
+        "id": "rom-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What did Abraham not consider when believing God's promise?",
+        "options": [
+          "His own body now dead and the barren womb of Sara",
+          "The opposition of kings",
+          "The distance of the land",
+          "The poverty of his family"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Faith against hope",
+        "text": "Abraham believed the promise of a son even though he was nearly a hundred years old and Sara's womb was barren. Paul presents him as an example of one who does not waver at God's promise through unbelief, but is strengthened in faith."
+      },
+      {
+        "id": "rom-4-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Why was Abraham's faith also written for our sake, according to Paul?",
+        "options": [
+          "Because righteousness will be imputed to us who believe in him who raised Jesus",
+          "Because we must imitate his journeys",
+          "Because we inherit his wealth",
+          "Because we keep circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Believed God and it was counted to him for righteousness"
+          },
+          {
+            "left": "David",
+            "right": "Declared blessed the one forgiven without works"
+          },
+          {
+            "left": "The promise",
+            "right": "Given by the righteousness of faith, not the law"
+          },
+          {
+            "left": "Sara",
+            "right": "Had a barren womb when the promise came"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "rom-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Peace with God",
+        "text": "From here Paul describes the fruits of justification: peace with God, access to grace, and a hope that does not disappoint. Even tribulations become a reason to glory, for they produce patience, experience and hope."
+      },
+      {
+        "id": "rom-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "and experience, {0}:",
+        "blanks": [
+          "hope"
+        ],
+        "distractors": [
+          "faith",
+          "patience",
+          "glory"
+        ]
+      },
+      {
+        "id": "rom-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "while we were yet {0}, Christ died for us.",
+        "blanks": [
+          "sinners"
+        ],
+        "distractors": [
+          "enemies",
+          "weak",
+          "ungodly"
+        ]
+      },
+      {
+        "id": "rom-5-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How did sin and death enter the world, according to Paul?",
+        "options": [
+          "By one man (Adam)",
+          "By the law of Moses",
+          "By the prophets",
+          "By the Gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-5-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Adam and Christ",
+        "text": "Paul calls Adam 'the figure of him that was to come', drawing a central parallel: by one man came condemnation to all; by another, Christ, comes grace and justification. Where sin abounded, grace did much more abound."
+      },
+      {
+        "id": "rom-5-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "so by the {0} of one shall many be made righteous.",
+        "blanks": [
+          "obedience"
+        ],
+        "distractors": [
+          "faith",
+          "grace",
+          "justice"
+        ]
+      },
+      {
+        "id": "rom-5-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Justification by faith",
+            "right": "Brings peace with God"
+          },
+          {
+            "left": "Tribulation",
+            "right": "Produces patience, experience and hope"
+          },
+          {
+            "left": "Adam",
+            "right": "By him sin and death entered the world"
+          },
+          {
+            "left": "Christ",
+            "right": "By him grace and justification abounded"
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "rom-6-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Baptized into Christ's death",
+        "text": "Paul uses baptism as an image of death and resurrection: being buried in the water represents dying to sin, and rising from it, walking in newness of life. Grace is not a license to sin, but freedom from sin."
+      },
+      {
+        "id": "rom-6-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Therefore we are buried with him by {0} into death:",
+        "blanks": [
+          "baptism"
+        ],
+        "distractors": [
+          "blood",
+          "sacrifice",
+          "grace"
+        ]
+      },
+      {
+        "id": "rom-6-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What happens to the 'old man', according to Paul?",
+        "options": [
+          "He is crucified with Christ, that the body of sin might be destroyed",
+          "He is strengthened by the law",
+          "He remains a slave of the flesh",
+          "He was buried in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What does Paul ask to be presented to God?",
+        "options": [
+          "Your members as instruments of righteousness",
+          "Animal sacrifices",
+          "Offerings of silver",
+          "Circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-6-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "The wages and the gift",
+        "text": "The final verse sums up the chapter in a striking contrast: sin pays a wage, and that wage is death; but God offers a free gift, eternal life in Christ Jesus."
+      },
+      {
+        "id": "rom-6-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "For the {0} of sin is death;",
+        "blanks": [
+          "wages"
+        ],
+        "distractors": [
+          "price",
+          "fruit",
+          "end"
+        ]
+      },
+      {
+        "id": "rom-6-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Baptism",
+            "right": "Image of dying and rising with Christ"
+          },
+          {
+            "left": "The old man",
+            "right": "Crucified with Christ"
+          },
+          {
+            "left": "The wages of sin",
+            "right": "Death"
+          },
+          {
+            "left": "The gift of God",
+            "right": "Eternal life in Christ Jesus"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "rom-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The marriage analogy",
+        "text": "Paul compares the bond to the law to a marriage: just as the husband's death frees the wife, death to the law (by the body of Christ) frees the believer to belong to another — to the risen Christ himself."
+      },
+      {
+        "id": "rom-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What analogy does Paul use to explain freedom from the law?",
+        "options": [
+          "The wife is freed from the law of her husband when he dies",
+          "A servant freed from his master",
+          "A debtor who pays the debt",
+          "A king who abdicates"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "the law had said, Thou shalt not {0}.",
+        "blanks": [
+          "covet"
+        ],
+        "distractors": [
+          "kill",
+          "steal",
+          "lie"
+        ]
+      },
+      {
+        "id": "rom-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Wherefore the law is {0}, and the commandment holy,",
+        "blanks": [
+          "holy"
+        ],
+        "distractors": [
+          "good",
+          "just",
+          "perfect"
+        ]
+      },
+      {
+        "id": "rom-7-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What inner conflict does Paul describe in this chapter?",
+        "options": [
+          "He does not do the good he wills, but the evil he hates",
+          "He has forgotten God's law",
+          "He does not know sin",
+          "He lives without temptations"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What does Paul say dwells in his flesh?",
+        "options": [
+          "No good thing; the will is present, but he cannot perform the good",
+          "The fulness of the law",
+          "The Spirit of God",
+          "Perfect righteousness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "who shall deliver me from the body of this {0}?",
+        "blanks": [
+          "death"
+        ],
+        "distractors": [
+          "law",
+          "flesh",
+          "prison"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "rom-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "No condemnation",
+        "text": "Romans 8 is the high point of the letter and one of the most beloved chapters in the Bible. It opens with the great declaration that there is no condemnation for those who are in Christ, and celebrates life led by the Spirit."
+      },
+      {
+        "id": "rom-8-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "now no {0} to them which are in Christ Jesus,",
+        "blanks": [
+          "condemnation"
+        ],
+        "distractors": [
+          "hope",
+          "tribulation",
+          "law"
+        ]
+      },
+      {
+        "id": "rom-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "to be spiritually minded is life and {0}.",
+        "blanks": [
+          "peace"
+        ],
+        "distractors": [
+          "law",
+          "glory",
+          "strength"
+        ]
+      },
+      {
+        "id": "rom-8-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What happens to those who, by the Spirit, mortify the deeds of the body?",
+        "options": [
+          "He shall live",
+          "He returns to the law",
+          "He is condemned",
+          "He remains in the flesh"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "ye have received the Spirit of {0}, whereby we cry, Abba, Father.",
+        "blanks": [
+          "adoption"
+        ],
+        "distractors": [
+          "holiness",
+          "truth",
+          "prophecy"
+        ]
+      },
+      {
+        "id": "rom-8-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Abba, Father",
+        "text": "'Abba' is an Aramaic word meaning Father, intimate and affectionate in tone. Paul says the Spirit of adoption makes believers cry 'Abba, Father', witnessing that they are children of God and heirs with Christ."
+      },
+      {
+        "id": "rom-8-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What does Paul say all creation does, awaiting redemption?",
+        "options": [
+          "It groans and travails in pain together until now",
+          "It rests in peace",
+          "It has already been freed",
+          "It ignores God"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "maketh intercession for us with {0} which cannot be uttered.",
+        "blanks": [
+          "groanings"
+        ],
+        "distractors": [
+          "words",
+          "prayers",
+          "cries"
+        ]
+      },
+      {
+        "id": "rom-8-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "all things work together for {0} to them that love God,",
+        "blanks": [
+          "good"
+        ],
+        "distractors": [
+          "judgment",
+          "glory",
+          "gain"
+        ]
+      },
+      {
+        "id": "rom-8-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "What question does Paul ask to show the believer's security?",
+        "options": [
+          "If God be for us, who can be against us?",
+          "Who shall keep the law?",
+          "Who is worthy?",
+          "Who shall teach us?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "What does Paul affirm that NOTHING can do to the believer?",
+        "options": [
+          "Separate him from the love of Christ",
+          "Make him a slave of the law",
+          "Take away his inheritance",
+          "Increase his faith"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-cur-37",
+        "type": "curiosity",
+        "after_verse": 37,
+        "title": "More than conquerors",
+        "text": "Paul closes the chapter with one of the most famous passages in the Bible: we are more than conquerors through him that loved us, and nothing — neither death, nor life, nor height, nor depth — can separate us from the love of God in Christ."
+      },
+      {
+        "id": "rom-8-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "The law of the Spirit of life",
+            "right": "Frees from the law of sin and death"
+          },
+          {
+            "left": "The Spirit of adoption",
+            "right": "Makes us cry: Abba, Father"
+          },
+          {
+            "left": "Creation",
+            "right": "Groans awaiting redemption"
+          },
+          {
+            "left": "The love of God",
+            "right": "Nothing can separate us from it"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "rom-9-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Israel's privileges",
+        "text": "Paul sorrowfully lists all that belonged to Israel: the adoption, the glory, the covenants, the law, the worship and the promises. It was from this people that, according to the flesh, Christ himself would come."
+      },
+      {
+        "id": "rom-9-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What privileges does Paul list as belonging to the Israelites?",
+        "options": [
+          "The adoption, the glory, the covenants and the promises",
+          "The riches, the throne and the army",
+          "The wisdom, the strength and the fame",
+          "The prophets, the kings and the judges"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "In {0} shall thy seed be called.",
+        "blanks": [
+          "Isaac"
+        ],
+        "distractors": [
+          "Ishmael",
+          "Jacob",
+          "Esau"
+        ]
+      },
+      {
+        "id": "rom-9-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Jacob and Esau",
+        "text": "Paul recalls that God chose Jacob over Esau before they were born or had done good or evil, to show that God's purpose does not depend on works but on his election. It is one of the central texts in the debate about grace."
+      },
+      {
+        "id": "rom-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "{0} have I loved, but Esau have I hated.",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Isaac",
+          "Abraham",
+          "Ishmael"
+        ]
+      },
+      {
+        "id": "rom-9-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What does Paul conclude about God's mercy, citing Moses and Pharaoh?",
+        "options": [
+          "It depends on God, who has mercy on whom he will",
+          "It depends on human effort",
+          "It depends on the law",
+          "It depends on circumcision"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Hath not the potter power over the {0},",
+        "blanks": [
+          "clay"
+        ],
+        "distractors": [
+          "gold",
+          "iron",
+          "wheat"
+        ]
+      },
+      {
+        "id": "rom-9-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "The people who were not a people",
+        "text": "Quoting the prophet Hosea, Paul shows that God would call 'my people' those who were not his people — the Gentiles. The inclusion of the nations was already announced in the scriptures of Israel."
+      },
+      {
+        "id": "rom-9-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did Isaiah prophesy about Israel, quoted by Paul?",
+        "options": [
+          "Though they be as the sand of the sea, only the remnant shall be saved",
+          "That all will be saved",
+          "That none will be saved",
+          "That they will return from Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Behold, I lay in {0} a stumblingstone",
+        "blanks": [
+          "Sion"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Bethlehem",
+          "Judah"
+        ]
+      },
+      {
+        "id": "rom-9-mp-33",
+        "type": "match_pairs",
+        "after_verse": 33,
+        "pairs": [
+          {
+            "left": "Isaac",
+            "right": "In whom Abraham's seed would be called"
+          },
+          {
+            "left": "Jacob and Esau",
+            "right": "Chosen before birth, to show election"
+          },
+          {
+            "left": "The potter and the clay",
+            "right": "Image of God's sovereignty over man"
+          },
+          {
+            "left": "Hosea",
+            "right": "Prophet quoted about the Gentiles as God's people"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "rom-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Christ is the end of the law",
+        "text": "Israel had a zeal for God but sought its own righteousness through the works of the law. Paul declares that Christ is the end of the law: in him righteousness is reached by faith, not by the effort of keeping commandments."
+      },
+      {
+        "id": "rom-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "For {0} is the end of the law for righteousness",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Moses",
+          "Abraham",
+          "David"
+        ]
+      },
+      {
+        "id": "rom-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "if thou shalt confess with thy {0} the Lord Jesus,",
+        "blanks": [
+          "mouth"
+        ],
+        "distractors": [
+          "soul",
+          "mind",
+          "strength"
+        ]
+      },
+      {
+        "id": "rom-10-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What does Paul affirm about everyone who calls on the name of the Lord?",
+        "options": [
+          "Shall be saved",
+          "Shall be judged",
+          "Shall receive the law",
+          "Shall be circumcised"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-10-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "How beautiful are the feet",
+        "text": "To show the need for preaching, Paul quotes Isaiah: 'How beautiful are the feet of them that preach the gospel of peace.' Faith comes by hearing, and hearing by the preached word of God."
+      },
+      {
+        "id": "rom-10-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "So then {0} cometh by hearing,",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "law",
+          "grace",
+          "hope"
+        ]
+      },
+      {
+        "id": "rom-10-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did Isaiah boldly say, quoted by Paul, about the Gentiles?",
+        "options": [
+          "I was found of them that sought me not",
+          "Israel sought and found",
+          "No one sought me",
+          "The Gentiles were rejected"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-10-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Christ",
+            "right": "The end of the law for the righteousness of the believer"
+          },
+          {
+            "left": "Confess and believe",
+            "right": "With the mouth and the heart, unto salvation"
+          },
+          {
+            "left": "Call on the name of the Lord",
+            "right": "Whoever does so shall be saved"
+          },
+          {
+            "left": "Faith",
+            "right": "Comes by hearing the word of God"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "rom-11-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Elijah's seven thousand",
+        "text": "To prove that God has not cast away Israel, Paul recalls Elijah, who thought himself the only faithful one. God answered that he had reserved seven thousand who had not bowed the knee to Baal — a sign that there is always a remnant by grace."
+      },
+      {
+        "id": "rom-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "of the seed of Abraham, of the tribe of {0}.",
+        "blanks": [
+          "Benjamin"
+        ],
+        "distractors": [
+          "Judah",
+          "Levi",
+          "Ephraim"
+        ]
+      },
+      {
+        "id": "rom-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What does Paul say remains in Israel, according to the election of grace?",
+        "options": [
+          "A remnant",
+          "The tribe of Judah",
+          "The priests",
+          "The prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What effect did Israel's fall have, according to Paul?",
+        "options": [
+          "Salvation came to the Gentiles, to provoke Israel to jealousy",
+          "Israel was destroyed forever",
+          "The Gentiles were rejected",
+          "The law was annulled"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "and if the {0} be holy, so are the branches.",
+        "blanks": [
+          "root"
+        ],
+        "distractors": [
+          "tree",
+          "seed",
+          "vine"
+        ]
+      },
+      {
+        "id": "rom-11-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "The olive tree",
+        "text": "Paul compares Israel to an olive tree: some natural branches were broken off through unbelief, and the Gentiles, a wild olive, were grafted in their place. The image teaches the Gentiles not to be arrogant, for it is the root that sustains them."
+      },
+      {
+        "id": "rom-11-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "and thou, being a wild {0}, wert grafted in among them,",
+        "blanks": [
+          "olive tree"
+        ],
+        "distractors": [
+          "vine",
+          "fig tree",
+          "palm tree"
+        ]
+      },
+      {
+        "id": "rom-11-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What mystery does Paul reveal about Israel?",
+        "options": [
+          "Blindness in part happened to Israel, until the fulness of the Gentiles comes in",
+          "Israel will never be saved",
+          "The Gentiles will be rejected",
+          "The law will reign again"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "For the {0} and calling of God are without repentance.",
+        "blanks": [
+          "gifts"
+        ],
+        "distractors": [
+          "judgments",
+          "punishments",
+          "commandments"
+        ]
+      },
+      {
+        "id": "rom-11-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "The doxology",
+        "text": "After three chapters reflecting on God's plans, Paul bursts into a hymn of praise to the depth of God's wisdom: 'Of him, and through him, and to him, are all things; to whom be glory for ever.'"
+      },
+      {
+        "id": "rom-11-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "How does Paul close this section on God's plans?",
+        "options": [
+          "Of him, through him and to him are all things; to him be glory",
+          "Condemning the Gentiles",
+          "Annulling the law",
+          "Asking for offerings"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-mp-36",
+        "type": "match_pairs",
+        "after_verse": 36,
+        "pairs": [
+          {
+            "left": "Elijah",
+            "right": "Prophet for whom God reserved seven thousand faithful"
+          },
+          {
+            "left": "The remnant",
+            "right": "What remained of Israel by grace"
+          },
+          {
+            "left": "The olive tree",
+            "right": "Israel, into which the Gentiles were grafted"
+          },
+          {
+            "left": "All Israel",
+            "right": "Shall be saved, according to Paul"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "rom-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A living sacrifice",
+        "text": "Paul opens the practical part of the letter by asking believers to offer their own bodies as a 'living sacrifice'. Instead of the animal sacrifices of the temple, true worship is a whole life dedicated to God."
+      },
+      {
+        "id": "rom-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "that ye present your bodies a {0} sacrifice, holy, acceptable unto God,",
+        "blanks": [
+          "living"
+        ],
+        "distractors": [
+          "pure",
+          "perfect",
+          "eternal"
+        ]
+      },
+      {
+        "id": "rom-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What does Paul ask instead of conforming to this world?",
+        "options": [
+          "To be transformed by the renewing of the mind",
+          "To keep the law of Moses",
+          "To separate from the Gentiles",
+          "To offer animal sacrifices"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Given to hospitality",
+        "text": "Among the marks of sincere love, Paul highlights sharing with the saints in their needs and practicing hospitality. Welcoming travelers and fellow believers was essential for the first Christian communities, scattered across the empire."
+      },
+      {
+        "id": "rom-12-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What does Paul exhort believers to do with those who rejoice and those who weep?",
+        "options": [
+          "Rejoice with those who rejoice and weep with those who weep",
+          "Judge those who sin",
+          "Avoid the sorrowful",
+          "Rebuke the weak"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What is written about vengeance, according to Paul?",
+        "options": [
+          "Vengeance is mine; I will repay, saith the Lord",
+          "Avenge yourselves on your enemies",
+          "Vengeance belongs to the just man",
+          "There is no vengeance"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "but overcome evil with {0}.",
+        "blanks": [
+          "good"
+        ],
+        "distractors": [
+          "love",
+          "mercy",
+          "faith"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "rom-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Subjection to the authorities",
+        "text": "Paul teaches that every soul should be subject to the authorities, for there is no authority but of God. Written under the Roman empire, it is one of the most discussed texts on the relationship between Christians and civil power."
+      },
+      {
+        "id": "rom-13-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "What does Paul teach about the higher powers?",
+        "options": [
+          "There is no authority but of God; those that exist are ordained by him",
+          "They must always be resisted",
+          "They have no real power",
+          "They are enemies of the faith"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "for he that loveth another hath fulfilled the {0}.",
+        "blanks": [
+          "law"
+        ],
+        "distractors": [
+          "promise",
+          "covenant",
+          "grace"
+        ]
+      },
+      {
+        "id": "rom-13-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Love fulfills the law",
+        "text": "Paul sums up the commandments — not to commit adultery, kill, steal or covet — in one word: 'Thou shalt love thy neighbour as thyself.' Love works no ill to a neighbor; therefore it is the fulfilling of the law."
+      },
+      {
+        "id": "rom-13-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In what commandment does Paul sum up the whole law?",
+        "options": [
+          "Thou shalt love thy neighbour as thyself",
+          "Thou shalt have no other gods",
+          "Thou shalt keep the sabbath",
+          "Honour thy father and mother"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-13-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "and let us put on the armour of {0}.",
+        "blanks": [
+          "light"
+        ],
+        "distractors": [
+          "faith",
+          "glory",
+          "truth"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "rom-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The strong and the weak",
+        "text": "In the church at Rome there were tensions between Jewish and Gentile Christians over eating certain foods and keeping certain days. Paul asks that no one judge or despise a brother because of these differences."
+      },
+      {
+        "id": "rom-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "How should the one who eats all things and the one who eats only herbs treat each other?",
+        "options": [
+          "Not despise or judge one another, for God has received them",
+          "The strong should exclude the weak",
+          "Both should fast",
+          "The weak should be rebuked"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "For whether we live, we live unto the {0};",
+        "blanks": [
+          "Lord"
+        ],
+        "distractors": [
+          "world",
+          "flesh",
+          "neighbour"
+        ]
+      },
+      {
+        "id": "rom-14-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Why does Paul say we should not judge our brother?",
+        "options": [
+          "Because we shall all stand before the judgment seat of Christ",
+          "Because the brother is perfect",
+          "Because the law was annulled",
+          "Because no one sins"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Put no stumblingblock before a brother",
+        "text": "Instead of judging one another, Paul asks them to decide not to put a stumblingblock or occasion to fall before a brother. The freedom of the strong must not destroy the one for whom Christ died."
+      },
+      {
+        "id": "rom-14-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "For the {0} of God is not meat and drink;",
+        "blanks": [
+          "kingdom"
+        ],
+        "distractors": [
+          "love",
+          "power",
+          "way"
+        ]
+      },
+      {
+        "id": "rom-14-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "According to Paul, what is sin in relation to faith?",
+        "options": [
+          "Whatever is not of faith",
+          "Eating meat",
+          "Drinking wine",
+          "Keeping days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "The strong and the weak",
+            "right": "Should not judge each other over foods and days"
+          },
+          {
+            "left": "The judgment seat of Christ",
+            "right": "Where each will give account of himself to God"
+          },
+          {
+            "left": "The kingdom of God",
+            "right": "Righteousness, peace and joy in the Holy Ghost"
+          },
+          {
+            "left": "What is not of faith",
+            "right": "Is sin"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "rom-15-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Written for our learning",
+        "text": "Paul affirms that whatever was written in earlier times was written for our learning, so that through the patience and comfort of the scriptures we might have hope. It is one of the great statements on the value of scripture."
+      },
+      {
+        "id": "rom-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "comfort of the scriptures might have {0}.",
+        "blanks": [
+          "hope"
+        ],
+        "distractors": [
+          "faith",
+          "peace",
+          "glory"
+        ]
+      },
+      {
+        "id": "rom-15-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What does Paul exhort believers to do to one another, as Christ did?",
+        "options": [
+          "Receive one another, to the glory of God",
+          "Judge one another",
+          "Separate from the Gentiles",
+          "Compete in the law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "The root of Jesse",
+        "text": "Quoting Isaiah, Paul applies to the Gentiles the prophecy of a 'root of Jesse' who would rise to reign over the nations. Jesse was the father of David, and the prophecy pointed to the Messiah, in whom the Gentiles would trust."
+      },
+      {
+        "id": "rom-15-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "There shall be a root of {0},",
+        "blanks": [
+          "Jesse"
+        ],
+        "distractors": [
+          "David",
+          "Judah",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "rom-15-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How does Paul describe his role among the Gentiles?",
+        "options": [
+          "A minister of Jesus Christ, ministering the gospel of God",
+          "A judge of the Gentiles",
+          "A king of the Gentiles",
+          "A priest of the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "How far does Paul say he had preached the gospel of Christ?",
+        "options": [
+          "From Jerusalem and round about unto Illyricum",
+          "From Rome to Spain",
+          "Only in Judea",
+          "From Antioch to Egypt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "The plan to reach Spain",
+        "text": "Paul reveals his desire to preach where Christ had not yet been named, reaching as far as Spain — then the far west of the empire. He hoped to visit Rome on the way, but first he had to take the collection to Jerusalem."
+      },
+      {
+        "id": "rom-15-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Where did Paul plan to go, passing through Rome?",
+        "options": [
+          "To Spain",
+          "To Egypt",
+          "To Antioch",
+          "To Athens"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "for the poor saints which are at {0}.",
+        "blanks": [
+          "Jerusalem"
+        ],
+        "distractors": [
+          "Rome",
+          "Antioch",
+          "Caesarea"
+        ]
+      },
+      {
+        "id": "rom-15-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What does Paul ask the brethren of Rome regarding his trip to Jerusalem?",
+        "options": [
+          "That they strive together with him in prayers to God for him",
+          "That they send soldiers",
+          "That they follow him to Jerusalem",
+          "That they stop preaching"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-mp-33",
+        "type": "match_pairs",
+        "after_verse": 33,
+        "pairs": [
+          {
+            "left": "The scriptures",
+            "right": "Written for our learning and hope"
+          },
+          {
+            "left": "The root of Jesse",
+            "right": "Prophecy of the Messiah in whom Gentiles trust"
+          },
+          {
+            "left": "The collection",
+            "right": "Offering of the Gentiles for the saints of Jerusalem"
+          },
+          {
+            "left": "Spain",
+            "right": "Destination Paul desired to reach"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "rom-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Phebe, the letter-bearer",
+        "text": "Paul commends Phebe, a servant (deaconess) of the church at Cenchrea, the port of Corinth. It is likely that she carried the letter to the Romans to Rome, entrusted with a document that would shape all of Christian theology."
+      },
+      {
+        "id": "rom-16-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Whom does Paul commend at the start of the chapter, calling her a servant of the church at Cenchrea?",
+        "options": [
+          "Phebe",
+          "Priscilla",
+          "Mary",
+          "Junia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "The many greetings",
+        "text": "This chapter contains the largest list of personal greetings in the New Testament, with more than twenty names — many of them women, such as Priscilla, Mary and Junia, singled out by Paul as important co-workers in the work."
+      },
+      {
+        "id": "rom-16-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "How does Paul describe Andronicus and Junia?",
+        "options": [
+          "His kinsmen and fellow-prisoners, of note among the apostles",
+          "Priests of the temple",
+          "Roman magistrates",
+          "Prophets of Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "With what gesture does Paul ask the brethren to greet one another?",
+        "options": [
+          "With a holy kiss",
+          "With a handshake",
+          "With an offering",
+          "With an oath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "What does Paul ask the brethren to beware of?",
+        "options": [
+          "Those who cause divisions and offences against the doctrine learned",
+          "The poor",
+          "The Gentiles",
+          "The prophets"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "The closing doxology",
+        "text": "Paul closes the letter with a doxology to him who can establish believers according to the gospel and the revelation of the mystery, now made manifest to all nations. 'To God only wise, be glory through Jesus Christ for ever.'"
+      },
+      {
+        "id": "rom-16-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Who says he wrote the letter to the Romans at Paul's dictation?",
+        "options": [
+          "Tertius",
+          "Timothy",
+          "Gaius",
+          "Erastus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Phebe",
+            "right": "Servant of Cenchrea commended by Paul"
+          },
+          {
+            "left": "Priscilla and Aquila",
+            "right": "Co-workers who risked their lives for Paul"
+          },
+          {
+            "left": "Tertius",
+            "right": "Wrote the letter at Paul's dictation"
+          },
+          {
+            "left": "The doxology",
+            "right": "Closing in glory to the only wise God"
+          }
+        ]
+      }
+    ]
+  }
+}

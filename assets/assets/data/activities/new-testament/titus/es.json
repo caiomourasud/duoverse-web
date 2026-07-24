@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "book": "titus",
+  "chapters": {
+    "1": [
+      {
+        "id": "titus-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La esperanza de la vida eterna",
+        "text": "Pablo afirma que Dios, que no miente, prometió la vida eterna desde antes del principio de los tiempos, fundamentando la fe en una promesa anterior a la propia creación del mundo."
+      },
+      {
+        "id": "titus-1-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Quién escribió esta epístola y a quién va dirigida?",
+        "options": [
+          "Pedro, a Timoteo",
+          "Pablo, a Tito",
+          "Pablo, a los corintios",
+          "Juan, a Tito"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "titus-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Por esta causa te dejé en {0}, para que corrigieses lo que faltaba",
+        "blanks": [
+          "Creta"
+        ],
+        "distractors": [
+          "Roma",
+          "Éfeso",
+          "Jerusalén"
+        ]
+      },
+      {
+        "id": "titus-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Irreprensible",
+            "right": "Sin culpa que se le pueda acusar"
+          },
+          {
+            "left": "No soberbio",
+            "right": "Sin arrogancia"
+          },
+          {
+            "left": "No dado al vino",
+            "right": "Sobrio en la bebida"
+          },
+          {
+            "left": "No codicioso de ganancias deshonestas",
+            "right": "Sin ambición de lucro vergonzoso"
+          }
+        ]
+      },
+      {
+        "id": "titus-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "retenedor de la palabra fiel que es conforme a la {0}",
+        "blanks": [
+          "enseñanza"
+        ],
+        "distractors": [
+          "circuncisión",
+          "ganancia",
+          "hospitalidad"
+        ]
+      },
+      {
+        "id": "titus-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo describe Pablo a los habitantes de Creta, citando a un profeta de ellos mismos?",
+        "options": [
+          "Sabios y justos",
+          "Siempre mentirosos, malas bestias, glotones perezosos",
+          "Generosos y fieles",
+          "Pacientes y humildes"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "titus-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Todas las cosas son puras para los {0}",
+        "blanks": [
+          "puros"
+        ],
+        "distractors": [
+          "corrompidos",
+          "incrédulos",
+          "rebeldes"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "titus-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sana doctrina",
+        "text": "La expresión \"sana doctrina\" es característica de las Epístolas Pastorales (Tito y 1 y 2 Timoteo). La palabra para \"sana\" también significa \"saludable\", sugiriendo una enseñanza que produce una vida espiritual saludable."
+      },
+      {
+        "id": "titus-2-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "pairs": [
+          {
+            "left": "Ancianos",
+            "right": "Sobrios y sanos en la fe"
+          },
+          {
+            "left": "Ancianas",
+            "right": "Maestras de lo bueno"
+          },
+          {
+            "left": "Mujeres jóvenes",
+            "right": "Amar a sus maridos e hijos"
+          },
+          {
+            "left": "Jóvenes",
+            "right": "Sensatos"
+          }
+        ]
+      },
+      {
+        "id": "titus-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "preséntate en todo como {0} de buenas obras; en la enseñanza, mostrando integridad, seriedad,",
+        "blanks": [
+          "ejemplo"
+        ],
+        "distractors": [
+          "doctrina",
+          "siervo",
+          "amo"
+        ]
+      },
+      {
+        "id": "titus-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según el versículo 9, ¿cómo se exhorta a los esclavos a actuar?",
+        "options": [
+          "Estar sujetos a sus amos y agradarles en todo",
+          "Acumular riquezas para sí",
+          "Enseñar públicamente en la iglesia",
+          "Buscar la libertad por encima de todo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "titus-2-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "La esperanza bienaventurada",
+        "text": "La \"esperanza bienaventurada\" es el aguardar la manifestación gloriosa de Jesucristo. Este enfoque en la Segunda Venida da motivación para vivir con rectitud en el presente."
+      },
+      {
+        "id": "titus-2-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Porque la gracia de Dios que trae {0} a todos los hombres se ha manifestado,",
+        "blanks": [
+          "salvación"
+        ],
+        "distractors": [
+          "gracia",
+          "iniquidad",
+          "doctrina"
+        ]
+      },
+      {
+        "id": "titus-2-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "quien se dio a sí mismo por nosotros para redimirnos de toda {0}, y purificar para sí un pueblo propio, celoso de buenas obras.",
+        "blanks": [
+          "iniquidad"
+        ],
+        "distractors": [
+          "doctrina",
+          "salvación",
+          "paciencia"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "titus-3-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Nosotros también",
+        "text": "Pablo recuerda que los propios santos fueron en otro tiempo necios y rebeldes; su cambio no vino de su mérito, sino de la bondad de Dios."
+      },
+      {
+        "id": "titus-3-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "que estén dispuestos para toda {0} obra.",
+        "blanks": [
+          "buena"
+        ],
+        "distractors": [
+          "mala",
+          "necia",
+          "vana"
+        ]
+      },
+      {
+        "id": "titus-3-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Según el versículo 5, ¿cómo nos salvó Dios?",
+        "options": [
+          "Por obras de justicia que hicimos",
+          "Por mérito propio",
+          "Por su misericordia, por el lavamiento de la regeneración",
+          "Por guardar la ley"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "titus-3-mp-9",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Cuestiones necias y contenciones",
+            "right": "Sin provecho y vanos"
+          },
+          {
+            "left": "El hombre que causa divisiones",
+            "right": "Rechazarle tras amonestación"
+          },
+          {
+            "left": "Los que creen en Dios",
+            "right": "Ocuparse en buenas obras"
+          }
+        ]
+      },
+      {
+        "id": "titus-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿A dónde pide Pablo que Tito venga a él?",
+        "options": [
+          "Roma",
+          "Creta",
+          "Nicópolis",
+          "Éfeso"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

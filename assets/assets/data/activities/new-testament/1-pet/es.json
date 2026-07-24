@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "book": "1-pet",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-pet-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Los \"peregrinos dispersos\"",
+        "body": "Pedro escribe a cristianos esparcidos por cinco regiones de Asia Menor (la actual Turquía), tratándolos como peregrinos lejos de su hogar celestial."
+      },
+      {
+        "id": "1-pet-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según el versículo 3, ¿a qué nos ha hecho nacer de nuevo Dios?",
+        "options": [
+          "A una esperanza viva",
+          "A riquezas terrenales",
+          "Al descanso eterno del trabajo",
+          "A gobernar las naciones"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "para que la prueba de vuestra fe, mucho más preciosa que el {0}, el cual perece aunque sea probado con fuego",
+        "blanks": [
+          "oro"
+        ],
+        "distractors": [
+          "sangre",
+          "Espíritu",
+          "cordero"
+        ]
+      },
+      {
+        "id": "1-pet-1-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Los profetas indagaron",
+        "body": "Pedro enseña que los antiguos profetas, por el Espíritu de Cristo que estaba en ellos, predijeron tanto los sufrimientos de Cristo como las glorias que seguirían."
+      },
+      {
+        "id": "1-pet-1-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué mandamiento cita Pedro de las Escrituras en el versículo 16?",
+        "options": [
+          "Sed santos, porque yo soy santo",
+          "Amad a vuestros enemigos",
+          "No codiciarás",
+          "Honra a tu padre y a tu madre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Con qué NO fuimos rescatados, según el versículo 18?",
+        "options": [
+          "Con cosas corruptibles, como oro o plata",
+          "Con la sangre de Cristo",
+          "Con la palabra de Dios",
+          "Con la fe y la esperanza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "sino con la sangre preciosa de Cristo, como de un {0} sin mancha y sin contaminación",
+        "blanks": [
+          "cordero"
+        ],
+        "distractors": [
+          "profeta",
+          "ángel",
+          "siervo"
+        ]
+      },
+      {
+        "id": "1-pet-1-mp-24",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "title": "Hierba y palabra (v. 24-25)",
+        "pairs": [
+          {
+            "left": "Toda carne",
+            "right": "es como la hierba"
+          },
+          {
+            "left": "La gloria del hombre",
+            "right": "como la flor de la hierba"
+          },
+          {
+            "left": "La palabra del Señor",
+            "right": "permanece para siempre"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-pet-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La leche espiritual pura",
+        "body": "Pedro compara a los nuevos conversos con niños recién nacidos que ansían la leche: así debemos desear la palabra de Dios para crecer espiritualmente."
+      },
+      {
+        "id": "1-pet-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Acercándoos a él, {0} viva, rechazada ciertamente por los hombres, pero elegida y preciosa ante Dios,",
+        "blanks": [
+          "piedra"
+        ],
+        "distractors": [
+          "luz",
+          "roca",
+          "puerta"
+        ]
+      },
+      {
+        "id": "1-pet-2-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según la Escritura citada, ¿qué pone Dios en Sion?",
+        "options": [
+          "La principal piedra del ángulo",
+          "Un trono de oro",
+          "Un altar de sacrificio",
+          "Una torre de vigía"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "title": "Lo que son los creyentes (v9)",
+        "pairs": [
+          {
+            "left": "Linaje",
+            "right": "escogido"
+          },
+          {
+            "left": "Real",
+            "right": "sacerdocio"
+          },
+          {
+            "left": "Nación",
+            "right": "santa"
+          },
+          {
+            "left": "Pueblo",
+            "right": "adquirido"
+          }
+        ]
+      },
+      {
+        "id": "1-pet-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿A qué manda Pedro que los creyentes estén sujetos por causa del Señor?",
+        "options": [
+          "A toda autoridad humana",
+          "Solo a los ancianos de la iglesia",
+          "Solo a otros cristianos",
+          "A nadie sino a Dios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿Cuál de estos mandatos NO está en el versículo 17?",
+        "options": [
+          "Acumulad riquezas",
+          "Honrad a todos",
+          "Temed a Dios",
+          "Honrad al rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-2-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "Seguir sus pasos",
+        "body": "Pedro recuerda a los siervos que sufren injustamente que Cristo también padeció por nosotros, dejando un ejemplo para que sigamos sus pasos."
+      },
+      {
+        "id": "1-pet-2-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Él mismo llevó nuestros pecados en su cuerpo sobre el {0}, para que nosotros, estando muertos a los pecados, vivamos a la justicia.",
+        "blanks": [
+          "madero"
+        ],
+        "distractors": [
+          "altar",
+          "monte",
+          "desierto"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "1-pet-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "prompt": "Completa el versículo 4.",
+        "verse": 4,
+        "template": "en el incorruptible adorno de un espíritu agradable y {0}, que es de gran estima delante de Dios",
+        "blanks": [
+          "apacible"
+        ],
+        "distractors": [
+          "orgulloso",
+          "rebelde",
+          "inquieto"
+        ]
+      },
+      {
+        "id": "1-pet-3-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "prompt": "En el versículo 6, ¿quién es citada como ejemplo por obedecer a su marido, llamándole señor?",
+        "options": [
+          "Sara",
+          "Rebeca",
+          "Raquel",
+          "Ana"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-3-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "prompt": "Relaciona cada exhortación de los versículos 8–9 con su complemento.",
+        "pairs": [
+          [
+            "Sed todos",
+            "de un mismo sentir"
+          ],
+          [
+            "No devolviendo",
+            "mal por mal"
+          ],
+          [
+            "Sino por el contrario",
+            "bendiciendo"
+          ]
+        ]
+      },
+      {
+        "id": "1-pet-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "prompt": "Completa el versículo 13.",
+        "verse": 13,
+        "template": "¿Y quién es aquel que os podrá hacer daño, si vosotros seguís el {0}?",
+        "blanks": [
+          "bien"
+        ],
+        "distractors": [
+          "mal",
+          "mundo",
+          "engaño"
+        ]
+      },
+      {
+        "id": "1-pet-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "prompt": "En el versículo 15 (17 por conteo), los santos deben estar siempre preparados para responder sobre ¿qué?",
+        "options": [
+          "La razón de la esperanza que hay en ellos",
+          "El origen de la ley",
+          "El número de los elegidos",
+          "El fin del mundo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-3-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Predicó a los espíritus encarcelados",
+        "body": "Los versículos 18–20 enseñan que, entre Su crucifixión y resurrección, Cristo ministró a los espíritus de los muertos. Para los Santos de los Últimos Días, este pasaje fundamenta el entendimiento de la redención de los muertos y la salvación por los muertos."
+      },
+      {
+        "id": "1-pet-3-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "prompt": "En el versículo 20, ¿cuántas almas fueron salvadas por agua en los días de Noé?",
+        "options": [
+          "Ocho",
+          "Doce",
+          "Tres",
+          "Cuarenta"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-pet-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "El que ha dejado el pecado debe vivir el tiempo que le queda en la carne conforme a qué?",
+        "options": [
+          "La voluntad de Dios",
+          "Las concupiscencias de los hombres",
+          "La sabiduría de los gentiles",
+          "Los deseos de la carne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "El evangelio predicado a los muertos",
+        "body": "Este versículo apoya la doctrina restaurada de que el evangelio es predicado a los muertos en el mundo de los espíritus, para que sean juzgados en la carne según los hombres y vivan en el espíritu según Dios."
+      },
+      {
+        "id": "1-pet-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Estando cerca el fin de todas las cosas, ¿qué exhorta Pedro a hacer a los santos?",
+        "options": [
+          "Ser sobrios y velar en oración",
+          "Reunir riquezas",
+          "Huir de las ciudades",
+          "Callar ante los perseguidores"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "porque el amor cubrirá multitud de {0}",
+        "blanks": [
+          "pecados"
+        ],
+        "distractors": [
+          "dones",
+          "gentiles",
+          "aflicciones"
+        ]
+      },
+      {
+        "id": "1-pet-4-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Hospedaos los unos a los otros sin {0}.",
+        "blanks": [
+          "murmuraciones"
+        ],
+        "distractors": [
+          "idolatrías",
+          "embriagueces",
+          "concupiscencias"
+        ]
+      },
+      {
+        "id": "1-pet-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Cómo dice Pedro que cada uno debe ministrar a los otros el don que ha recibido?",
+        "options": [
+          "Como buenos administradores de las diversas manifestaciones de la gracia de Dios",
+          "Como señores sobre el rebaño",
+          "A cambio de la honra de los hombres",
+          "Solo entre los de su propia casa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-4-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Buenos administradores de la gracia de Dios",
+        "body": "Pedro enseña que cada don recibido debe servir a los demás: quien habla, hable las palabras de Dios, y quien ministra, hágalo según la fortaleza que Dios da, para que en todo sea Dios glorificado por medio de Jesucristo."
+      },
+      {
+        "id": "1-pet-4-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "instructions": "Relaciona la actitud ante la persecución con su resultado.",
+        "pairs": [
+          {
+            "left": "Ser vituperado por el nombre de Cristo",
+            "right": "Bienaventuranza y el espíritu de gloria"
+          },
+          {
+            "left": "Participar de las aflicciones de Cristo",
+            "right": "Regocijo en la revelación de su gloria"
+          },
+          {
+            "left": "Padecer como cristiano",
+            "right": "Glorificar a Dios sin vergüenza"
+          }
+        ]
+      },
+      {
+        "id": "1-pet-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Según Pedro, ¿por dónde es tiempo de que comience el juicio?",
+        "options": [
+          "Por la casa de Dios",
+          "Por los gentiles",
+          "Por los reyes de la tierra",
+          "Por la ciudad de Babilonia"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "1-pet-5-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El Príncipe de los pastores",
+        "text": "Pedro llama a Cristo el \"Príncipe de los pastores\", retomando la imagen de Jesús como el Buen Pastor que cuida la grey. Los ancianos pastorean, pero Cristo es el Pastor supremo ante quien responderán."
+      },
+      {
+        "id": "1-pet-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué recibirán los ancianos cuando aparezca el Príncipe de los pastores?",
+        "options": [
+          "La corona incorruptible de gloria",
+          "Riquezas y poder terrenal",
+          "Señorío sobre las naciones",
+          "Descanso de toda labor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "echando toda vuestra {0} sobre él, porque él tiene cuidado de vosotros.",
+        "blanks": [
+          "ansiedad"
+        ],
+        "distractors": [
+          "corona",
+          "herencia",
+          "gracia"
+        ]
+      },
+      {
+        "id": "1-pet-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Cómo describe Pedro al diablo, el adversario de los santos?",
+        "options": [
+          "Como león rugiente, buscando a quien devorar",
+          "Como lobo entre las ovejas",
+          "Como serpiente en el desierto",
+          "Como ladrón en la noche"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-pet-5-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Babilonia",
+        "text": "Muchos eruditos entienden \"Babilonia\" como un nombre cifrado para Roma, desde donde Pedro probablemente escribió. La ciudad representaba el poder mundano que oprimía a los cristianos."
+      },
+      {
+        "id": "1-pet-5-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "title": "¿Quién envía saludos?",
+        "pairs": [
+          {
+            "left": "La iglesia elegida juntamente con vosotros",
+            "right": "Que está en Babilonia"
+          },
+          {
+            "left": "Marcos",
+            "right": "Llamado por Pedro \"mi hijo\""
+          },
+          {
+            "left": "Silvano",
+            "right": "Hermano fiel por conducto de quien Pedro escribió"
+          }
+        ]
+      }
+    ]
+  }
+}

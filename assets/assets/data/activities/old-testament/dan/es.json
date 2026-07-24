@@ -1,0 +1,1068 @@
+{
+ "schema_version": 1,
+ "book": "dan",
+ "chapters": {
+  "1": [
+   {
+    "id": "dan-1-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Nombres nuevos para cautivos",
+    "text": "Los cuatro jóvenes recibieron nombres babilónicos: Daniel pasó a ser Beltsasar, Ananías a ser Sadrac, Misael a ser Mesac y Azarías a ser Abed-nego — modo común con que los conquistadores trataban de absorber a los vencidos a su cultura."
+   },
+   {
+    "id": "dan-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué señaló el rey para los jóvenes de Judá (Daniel 1:5)?",
+    "options": [
+     "Ración para cada día de la comida y del vino del rey",
+     "Un campo para cultivar",
+     "Una casa en Jerusalén",
+     "Una porción de oro y plata"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿Por qué temía el jefe de los eunucos dejar que Daniel no comiese la comida del rey (Daniel 1:10)?",
+    "options": [
+     "Temía a los otros cautivos",
+     "Temía que sus rostros lucieran peor y condenaran su propia cabeza",
+     "Temía un hambre",
+     "Temía a los magos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-1-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "y les daba {0}",
+    "blanks": [
+     "legumbres"
+    ],
+    "distractors": [
+     "pan",
+     "miel",
+     "carne"
+    ]
+   },
+   {
+    "id": "dan-1-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "¿Cuánto mejores en sabiduría halló el rey a estos cuatro que a todos los magos (Daniel 1:20)?",
+    "options": [
+     "Dos veces mejores",
+     "Cinco veces mejores",
+     "Diez veces mejores",
+     "Cien veces mejores"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "dan-2-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Un sueño que ni podían oír",
+    "text": "Nabucodonosor exigía que los sabios le dijesen el sueño mismo, no solo su significado. Protestaron que era imposible — preparando el escenario para Daniel."
+   },
+   {
+    "id": "dan-2-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "¿Con qué amenazó el rey a los sabios si no le decían el sueño (Daniel 2:5)?",
+    "options": [
+     "Con ser descuartizados y sus casas convertidas en muladares",
+     "Con ser desterrados",
+     "Con perder su salario",
+     "Con ser hechos esclavos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-2-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "¿Qué razón dieron los caldeos de que nadie podía revelar el sueño (Daniel 2:11)?",
+    "options": [
+     "El rey lo había olvidado a propósito",
+     "Solo los dioses podían, cuya morada no es con los mortales",
+     "Estaba prohibido por la ley",
+     "El sueño era un engaño"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "¿Qué pidió Daniel al rey, antes de interpretar (Daniel 2:16)?",
+    "options": [
+     "Una recompensa de oro",
+     "Que le diese tiempo",
+     "Una casa segura",
+     "Un lugar entre los magos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-2-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Según la alabanza de Daniel, ¿qué hace Dios con los reyes (Daniel 2:21)?",
+    "options": [
+     "Los esconde",
+     "Los cuenta",
+     "Quita reyes y pone reyes",
+     "Los olvida"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-2-fb-26",
+    "type": "fill_blank",
+    "after_verse": 26,
+    "verse": 26,
+    "template": "a Daniel, al cual llamaban {0}",
+    "blanks": [
+     "Beltsasar"
+    ],
+    "distractors": [
+     "Sadrac",
+     "Mesac",
+     "Abed-nego"
+    ]
+   },
+   {
+    "id": "dan-2-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "¿Qué dijo Daniel que el rey vio de pie delante de sí en el sueño (Daniel 2:31)?",
+    "options": [
+     "Una gran y terrible imagen",
+     "Un río que corría",
+     "Una zarza ardiente",
+     "Un trono de oro"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-2-mc-36",
+    "type": "multiple_choice",
+    "after_verse": 36,
+    "question": "¿Qué golpeó los pies de la imagen y los desmenuzó (Daniel 2:34)?",
+    "options": [
+     "Una piedra cortada sin mano",
+     "Un rayo",
+     "Un gran viento",
+     "Una espada"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-2-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "En el sueño, ¿de qué era la cabeza de la gran imagen (Daniel 2:32)?",
+    "options": [
+     "De plata",
+     "De bronce",
+     "De hierro",
+     "De oro fino"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-2-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "Tras la interpretación, ¿qué hizo el rey a Daniel (Daniel 2:48)?",
+    "options": [
+     "Un soldado",
+     "Un sacerdote de su dios",
+     "Gobernador de toda la provincia de Babilonia",
+     "Un siervo común"
+    ],
+    "answer": 2
+   }
+  ],
+  "3": [
+   {
+    "id": "dan-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Una estatua de oro",
+    "text": "La estatua de oro de Nabucodonosor medía 'sesenta codos' de altura y 'seis codos' de anchura — cerca de 27 metros de alto, levantada en la llanura de Dura, en Babilonia, para que todo el reino la adorase al son de la música."
+   },
+   {
+    "id": "dan-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "¿Cuál era la pena para quien no se postrara a adorar la estatua (Daniel 3:6)?",
+    "options": [
+     "Ser desterrado",
+     "Ser echado dentro de un horno de fuego ardiente",
+     "Pagar una gran multa",
+     "Ser vendido como esclavo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-3-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "¿Qué señalaba al pueblo postrarse y adorar la estatua de oro (Daniel 3:5,7)?",
+    "options": [
+     "El son de la trompeta, de la flauta, del arpa y de todo instrumento musical",
+     "Una trompeta de guerra",
+     "La orden hablada del rey",
+     "Una antorcha encendida"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-3-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "con ira y con enojo que trajesen a {0}, a Mesac y a Abed-nego",
+    "blanks": [
+     "Sadrac"
+    ],
+    "distractors": [
+     "Daniel",
+     "Arioc",
+     "Aspenaz"
+    ]
+   },
+   {
+    "id": "dan-3-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "¿Qué dijeron los tres, aun si Dios no los librara (Daniel 3:18)?",
+    "options": [
+     "Que huirían de Babilonia",
+     "Que aun así no servirían a sus dioses ni adorarían la estatua",
+     "Que adorarían en secreto",
+     "Que se postrarían una vez"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-3-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "¿Por qué se asombró Nabucodonosor, haciendo una pregunta a los de su consejo (Daniel 3:24)?",
+    "options": [
+     "Vio apagarse el horno",
+     "Recordó que solo había echado tres hombres atados al fuego",
+     "Oyó un canto",
+     "Vio la ciudad en llamas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-3-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "¿Qué hizo Nabucodonosor por Sadrac, Mesac y Abed-nego al final (Daniel 3:30)?",
+    "options": [
+     "Los engrandeció en la provincia de Babilonia",
+     "Los envió de regreso a Judá",
+     "Los hizo sacerdotes",
+     "Les dio el reino"
+    ],
+    "answer": 0
+   }
+  ],
+  "4": [
+   {
+    "id": "dan-4-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "El testimonio del propio rey",
+    "text": "El capítulo 4 es inusual: se presenta como un decreto público escrito por el propio Nabucodonosor, dirigido 'a todos los pueblos, naciones y lenguas', contando cómo el Altísimo lo humilló."
+   },
+   {
+    "id": "dan-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Por qué convocó Nabucodonosor a los sabios de Babilonia (Daniel 4:5)?",
+    "options": [
+     "Tuvo un sueño que lo espantó",
+     "Quería recompensarlos",
+     "Había empezado una guerra",
+     "Buscaba una nueva ley"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿Qué vio el rey en medio de la tierra en su visión (Daniel 4:10)?",
+    "options": [
+     "Un río",
+     "Un monte",
+     "Un árbol cuya altura era grande",
+     "Una ciudad en llamas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-4-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Mas la {0} de sus raíces dejaréis en la tierra",
+    "blanks": [
+     "cepa"
+    ],
+    "distractors": [
+     "fruto",
+     "rama",
+     "hierba"
+    ]
+   },
+   {
+    "id": "dan-4-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "¿Quién al fin pudo interpretar el sueño (Daniel 4:18-19)?",
+    "options": [
+     "Los magos",
+     "Los astrólogos",
+     "Los caldeos",
+     "Daniel, cuyo nombre era Beltsasar"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-4-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Daniel dijo que el reino del rey seguiría siendo suyo después que entendiera ¿qué (Daniel 4:26)?",
+    "options": [
+     "Que es el cielo el que gobierna",
+     "Que Babilonia era eterna",
+     "Que su ejército era fuerte",
+     "Que sus dioses eran muchos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-4-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "¿Qué jactancia estaba en la boca del rey cuando vino la voz del cielo (Daniel 4:30-31)?",
+    "options": [
+     "Que conquistaría Egipto",
+     "Que había edificado la gran Babilonia con la fuerza de su poder, para su gloria",
+     "Que viviría para siempre",
+     "Que había vencido a Judá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-4-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "¿Qué dijo Nabucodonosor al fin de los que andan con soberbia (Daniel 4:37)?",
+    "options": [
+     "Que Dios los recompensa",
+     "Que prosperan",
+     "Que Dios puede humillarlos",
+     "Que reinan para siempre"
+    ],
+    "answer": 2
+   }
+  ],
+  "5": [
+   {
+    "id": "dan-5-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Los vasos del templo profanados",
+    "text": "El gran pecado de Belsasar fue mandar traer los vasos de oro y plata que Nabucodonosor había tomado del templo de Jerusalén, para beber vino en ellos mientras alababa ídolos — convirtiendo lo sagrado en burla."
+   },
+   {
+    "id": "dan-5-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Mientras bebían de los vasos del templo, ¿a quiénes alabaron (Daniel 5:4)?",
+    "options": [
+     "A los dioses de oro, plata, bronce, hierro, madera y piedra",
+     "Al Dios de Israel",
+     "A los antepasados del rey",
+     "A los espíritus del río"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-5-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿Cómo reaccionaron el rey y sus nobles ante la mano que escribió en la pared (Daniel 5:6,9)?",
+    "options": [
+     "Se alegraron",
+     "El rey se turbó en gran manera y se demudó su rostro",
+     "La ignoraron",
+     "Huyeron de la ciudad"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-5-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "¿Por qué fue al fin traído Daniel ante Belsasar (Daniel 5:12-13)?",
+    "options": [
+     "Era un soldado",
+     "Era pariente del rey",
+     "Podía interpretar sueños y resolver dudas",
+     "Era dueño de los vasos"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-5-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "¿Qué le pasó a Nabucodonosor cuando su corazón se enalteció en orgullo (Daniel 5:20)?",
+    "options": [
+     "Fue coronado de nuevo",
+     "Se hizo más rico",
+     "Conquistó nuevas tierras",
+     "Fue depuesto del trono de su reino"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-5-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "Mene, Mene, {0}, Uparsin",
+    "blanks": [
+     "Tekel"
+    ],
+    "distractors": [
+     "Peres",
+     "Daniel",
+     "Belsasar"
+    ]
+   },
+   {
+    "id": "dan-5-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "¿Quién tomó el reino después que Belsasar fue muerto (Daniel 5:30-31)?",
+    "options": [
+     "Darío, de Media",
+     "Ciro el Persa",
+     "Nabucodonosor",
+     "Arioc"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "dan-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Dónde decidieron los rivales de Daniel que podían hallar ocasión contra él (Daniel 6:5)?",
+    "options": [
+     "En relación con la ley de su Dios",
+     "En sus cuentas",
+     "En su hablar al rey",
+     "En su trato con los soldados"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-6-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Una ley que no se podía cambiar",
+    "text": "Los conspiradores usaron 'la ley de Media y de Persia, la cual no puede ser abrogada' — una vez que el rey Darío firmó el edicto, ni él mismo podía deshacerlo, y así lo atraparon en la condena de Daniel."
+   },
+   {
+    "id": "dan-6-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Cuando Daniel supo que el documento había sido firmado, ¿qué hizo (Daniel 6:10)?",
+    "options": [
+     "Huyó de la ciudad",
+     "Se hincó de rodillas y oró tres veces al día, como solía hacer antes",
+     "Se escondió en su casa",
+     "Fue ante el rey"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-6-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "¿Cómo sorprendieron los conspiradores a Daniel violando el edicto (Daniel 6:11)?",
+    "options": [
+     "Sobornaron a sus siervos",
+     "Lo siguieron al palacio",
+     "Lo hallaron orando y rogando delante de su Dios",
+     "Interceptaron una carta"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-6-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "que fue puesta sobre la puerta del {0}",
+    "blanks": [
+     "foso"
+    ],
+    "distractors": [
+     "templo",
+     "muro",
+     "río"
+    ]
+   },
+   {
+    "id": "dan-6-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "¿Qué dijo Daniel al rey cuando fue hallado vivo (Daniel 6:21-22)?",
+    "options": [
+     "Que había sobornado a los guardias",
+     "Que los leones eran mansos",
+     "Que había escapado en la noche",
+     "Que Dios envió a su ángel y cerró la boca de los leones"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-6-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "¿Cómo le fue a Daniel después de esto, según Daniel 6:28?",
+    "options": [
+     "Fue prosperado en el reinado de Darío y en el reinado de Ciro",
+     "Volvió a Judá",
+     "Se retiró del servicio",
+     "Fue encarcelado de nuevo"
+    ],
+    "answer": 0
+   }
+  ],
+  "7": [
+   {
+    "id": "dan-7-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Bestias que suben del mar",
+    "text": "La visión nocturna de Daniel, de cuatro grandes bestias que suben del mar agitado, hace paralelo con la imagen de cuatro metales del capítulo 2: ambas retratan una sucesión de reinos terrenales, pero esta vez como fieras."
+   },
+   {
+    "id": "dan-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Cómo era la primera bestia, y qué tenía (Daniel 7:4)?",
+    "options": [
+     "Como león, y tenía alas de águila",
+     "Como oso, y tenía tres costillas",
+     "Como leopardo, y tenía cuatro alas",
+     "Como buey, y tenía cuernos de hierro"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-7-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "¿De quién era el trono como llama de fuego, con ruedas de fuego ardiente (Daniel 7:9)?",
+    "options": [
+     "Del cuerno pequeño",
+     "De la cuarta bestia",
+     "Del Anciano de Días",
+     "De Belsasar"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-7-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "el tribunal se sentó, y los {0} se abrieron",
+    "blanks": [
+     "libros"
+    ],
+    "distractors": [
+     "cielos",
+     "portones",
+     "sepulcros"
+    ]
+   },
+   {
+    "id": "dan-7-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Cuando uno como el Hijo del Hombre vino en las nubes del cielo, ¿qué le fue dado (Daniel 7:13-14)?",
+    "options": [
+     "Una espada y un escudo",
+     "Dominio, gloria y reino que no será destruido",
+     "Un rollo de juicio",
+     "Las cuatro bestias"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-7-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "¿Qué supo Daniel que representan las cuatro grandes bestias (Daniel 7:17)?",
+    "options": [
+     "Cuatro ríos",
+     "Cuatro montes",
+     "Cuatro reyes que se levantarán en la tierra",
+     "Cuatro ángeles"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-7-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "¿Qué hacía el cuerno pequeño a los santos, hasta que vino el Anciano de Días (Daniel 7:21-22)?",
+    "options": [
+     "Los protegía",
+     "Los coronaba",
+     "Los ignoraba",
+     "Hacía la guerra contra ellos, y los vencía"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-7-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "¿Cómo se sintió Daniel al fin del asunto (Daniel 7:28)?",
+    "options": [
+     "Mucho lo turbaron sus pensamientos, y su rostro se demudó",
+     "Se alegró en gran manera",
+     "Se durmió en paz",
+     "Olvidó la visión"
+    ],
+    "answer": 0
+   }
+  ],
+  "8": [
+   {
+    "id": "dan-8-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué animal vio Daniel de pie delante del río, con dos cuernos altos (Daniel 8:3)?",
+    "options": [
+     "Un carnero",
+     "Un león",
+     "Un oso",
+     "Un macho cabrío"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-8-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Un cuerno contra el ejército del cielo",
+    "text": "De los cuatro cuernos del macho cabrío surgió un 'cuerno pequeño' que se engrandeció hasta contra 'el ejército del cielo', echando por tierra parte de las estrellas — imagen vívida de un poder que se enaltece contra el pueblo de Dios y su adoración."
+   },
+   {
+    "id": "dan-8-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿De dónde venía el macho cabrío, sin tocar la tierra (Daniel 8:5)?",
+    "options": [
+     "Del norte",
+     "Del poniente",
+     "Del oriente",
+     "Del mar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-8-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "¿Quién fue llamado por nombre para hacer entender la visión a Daniel (Daniel 8:16)?",
+    "options": [
+     "Miguel",
+     "Beltsasar",
+     "Gabriel",
+     "Arioc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-8-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Según Gabriel, ¿qué representaba el peludo macho cabrío (Daniel 8:21)?",
+    "options": [
+     "El rey de Egipto",
+     "El rey de Babilonia",
+     "Los reyes de Media y Persia",
+     "El rey de Grecia"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-8-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "¿Cómo reaccionó Daniel tras la visión, en Daniel 8:27?",
+    "options": [
+     "Se debilitó, estuvo enfermo algunos días, y estaba espantado por la visión",
+     "Se alegró y festejó",
+     "Escribió un cántico",
+     "Fue a la guerra"
+    ],
+    "answer": 0
+   }
+  ],
+  "9": [
+   {
+    "id": "dan-9-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Leyendo a los profetas",
+    "text": "Daniel entendió 'por los libros' que Jeremías había predicho setenta años de desolación para Jerusalén — un caso notable de un profeta estudiando las palabras escritas de otro, y orando sobre lo que leyó."
+   },
+   {
+    "id": "dan-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué confesó Daniel que su pueblo había hecho (Daniel 9:5)?",
+    "options": [
+     "Pecado, cometido iniquidad, actuado inicuamente y sido rebeldes",
+     "Guardado todos los mandamientos",
+     "Honrado a los profetas",
+     "Edificado el templo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-9-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "¿Qué dijo Daniel que se había hecho contra Jerusalén (Daniel 9:12)?",
+    "options": [
+     "Un gran banquete",
+     "Un gran mal, cual nunca fue hecho debajo del cielo",
+     "Una coronación",
+     "Un tratado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-9-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "¿Qué pidió Daniel a Dios que hiciese resplandecer sobre su santuario desolado (Daniel 9:17)?",
+    "options": [
+     "Su rostro",
+     "Su espada",
+     "Su fuego",
+     "Su estandarte"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-9-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "¿Quién vino a Daniel para hacerle entender (Daniel 9:21-22)?",
+    "options": [
+     "Miguel",
+     "Un vigilante sin nombre",
+     "Un hijo del rey",
+     "El varón Gabriel"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-9-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "¿Cuántas semanas dijo Gabriel que están determinadas sobre el pueblo y la santa ciudad de Daniel (Daniel 9:24)?",
+    "options": [
+     "Setenta semanas",
+     "Cuarenta semanas",
+     "Doce semanas",
+     "Cien semanas"
+    ],
+    "answer": 0
+   }
+  ],
+  "10": [
+   {
+    "id": "dan-10-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Junto al gran río",
+    "text": "La visión vino cuando Daniel estaba 'a la orilla del gran río Hidekel' — el nombre hebreo del Tigris, uno de los ríos que corrían por la antigua Mesopotamia, donde vivían los cautivos."
+   },
+   {
+    "id": "dan-10-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "¿Cómo se describe al varón que Daniel vio, en Daniel 10:5-6?",
+    "options": [
+     "Vestido de lino, su rostro como un relámpago y sus ojos como antorchas de fuego",
+     "Con una corona de oro",
+     "Montado en un carro de fuego",
+     "Portando una espada y un escudo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-10-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "¿Cómo se dirigió el mensajero a Daniel (Daniel 10:11)?",
+    "options": [
+     "Oh rey de Judá",
+     "Daniel, varón muy amado",
+     "Oh siervo de Babilonia",
+     "Oh profeta del cautiverio"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-10-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "con la {0} me han sobrevenido dolores",
+    "blanks": [
+     "visión"
+    ],
+    "distractors": [
+     "hambre",
+     "batalla",
+     "jornada"
+    ]
+   },
+   {
+    "id": "dan-10-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "¿Quién es nombrado como el príncipe de Daniel, que se esfuerza con el mensajero (Daniel 10:21)?",
+    "options": [
+     "Gabriel",
+     "Ciro",
+     "El príncipe de Persia",
+     "Miguel"
+    ],
+    "answer": 3
+   }
+  ],
+  "11": [
+   {
+    "id": "dan-11-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Tres reyes, luego un cuarto",
+    "text": "El mensajero predice 'aún habrá tres reyes en Persia, y el cuarto se hará de grandes riquezas más que todos ellos', que 'incitará a todos contra el reino de Grecia' — la larga profecía del capítulo 11 traza una cadena de gobernantes con detalle notable."
+   },
+   {
+    "id": "dan-11-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "¿Qué dos rivales presenta Daniel 11:5, cuya larga guerra traza la profecía?",
+    "options": [
+     "El rey del sur y uno de sus príncipes",
+     "Egipto y Asiria",
+     "Babilonia y Media",
+     "Tiro y Sidón"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-11-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "¿Qué dice Daniel 11:10 que harán sus hijos?",
+    "options": [
+     "Harán la paz con el sur",
+     "Se airarán y reunirán multitud de grandes ejércitos",
+     "Huirán a las islas",
+     "Abandonarán la guerra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-11-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "¿Qué dice Daniel 11:16 del que vendrá contra el rey del sur?",
+    "options": [
+     "Que será derrotado",
+     "Que hará la paz",
+     "Que hará según su voluntad, y no habrá quien se le pueda enfrentar",
+     "Que volverá atrás"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-11-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "¿Quién, además de las fuerzas arrasadoras, será destruido en Daniel 11:22?",
+    "options": [
+     "El rey de Egipto",
+     "Un cobrador de tributos",
+     "Los hombres violentos del pueblo",
+     "El príncipe del convenio"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-11-fb-23",
+    "type": "fill_blank",
+    "after_verse": 23,
+    "verse": 23,
+    "template": "subirá y saldrá vencedor con poca {0}",
+    "blanks": [
+     "gente"
+    ],
+    "distractors": [
+     "alianza",
+     "riqueza",
+     "espada"
+    ]
+   },
+   {
+    "id": "dan-11-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Cuando el rey vuelve a su tierra con gran riqueza, ¿contra qué está su corazón (Daniel 11:28)?",
+    "options": [
+     "El convenio santo",
+     "Sus propios príncipes",
+     "El rey del norte",
+     "La ciudad de Babilonia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-11-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "¿Qué dice Daniel 11:33 de los sabios del pueblo?",
+    "options": [
+     "Huyen a los montes",
+     "Dan sabiduría a muchos, mas caen a espada, a fuego, en cautividad y despojo",
+     "Son hechos reyes",
+     "Se esconden en cuevas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "dan-11-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "¿Qué dice Daniel 11:36 que el rey hará contra el Dios de los dioses?",
+    "options": [
+     "Lo adorará",
+     "Le edificará un templo",
+     "Hablará cosas inauditas contra él",
+     "Le ofrecerá sacrificios"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-11-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "¿Qué dice Daniel 11:38 que el rey honrará en su lugar?",
+    "options": [
+     "El Dios de sus padres",
+     "El amor de las mujeres",
+     "Los profetas",
+     "El dios de las fortalezas"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "dan-11-mc-45",
+    "type": "multiple_choice",
+    "after_verse": 45,
+    "question": "¿Cómo dice Daniel 11:45 que ese rey finalmente terminará?",
+    "options": [
+     "Llegará a su fin y no tendrá quien le ayude",
+     "Reinará para siempre",
+     "Se arrepentirá",
+     "Huirá a las islas"
+    ],
+    "answer": 0
+   }
+  ],
+  "12": [
+   {
+    "id": "dan-12-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Una palabra clara sobre la resurrección",
+    "text": "Daniel 12:2 — 'muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza' — es una de las declaraciones más claras del Antiguo Testamento sobre la resurrección de los muertos."
+   },
+   {
+    "id": "dan-12-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "¿Qué se le mandó a Daniel hacer con las palabras, hasta el tiempo del fin (Daniel 12:4)?",
+    "options": [
+     "Cerrar las palabras y sellar el libro",
+     "Quemar el libro",
+     "Leerlo al rey",
+     "Enviarlo a Jerusalén"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "dan-12-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "¿Por cuánto tiempo juró el varón vestido de lino que sería esto (Daniel 12:7)?",
+    "options": [
+     "Setenta años",
+     "Mil años",
+     "Un tiempo, tiempos y la mitad de un tiempo",
+     "Diez días"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "dan-12-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "¿Qué se le prometió a Daniel al final del libro (Daniel 12:13)?",
+    "options": [
+     "Un reino",
+     "Grandes riquezas",
+     "Una nueva visión",
+     "Reposo, y levantarse para recibir su heredad al fin de los días"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

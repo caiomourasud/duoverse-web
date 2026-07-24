@@ -1,0 +1,1732 @@
+{
+  "schema_version": 1,
+  "book": "hel",
+  "chapters": {
+    "1": [
+      {
+        "id": "hel-1-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Tres hijos, un nombre",
+        "text": "Los tres hijos de Pahorán que se disputaron el asiento judicial se llamaban Pahorán, Paanqui y Pacumeni — el primero con el mismo nombre del padre. Su rivalidad dividió al pueblo en tres facciones y abrió el camino al primer asesinato político del libro."
+      },
+      {
+        "id": "hel-1-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Por qué surgió una grave dificultad al principio del año cuarenta?",
+        "options": [
+          "Pahorán había muerto y sus hijos se disputaban el asiento judicial",
+          "Hubo una gran hambruna",
+          "Los lamanitas atacaron",
+          "Un profeta fue muerto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "enviaron a un tal Kishkumen al asiento judicial de {0}",
+        "blanks": [
+          "Pahorán"
+        ],
+        "distractors": [
+          "Helamán",
+          "Moroníah",
+          "Pacumeni"
+        ]
+      },
+      {
+        "id": "hel-1-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Quién guiaba al ejército lamanita, siendo un disidente nefita descendiente de Zarahemla?",
+        "options": [
+          "Coriántumr",
+          "Tubalot",
+          "Kishkumen",
+          "Gadiantón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "el rey de los lamanitas, cuyo nombre era {0} hijo de Ammorón",
+        "blanks": [
+          "Tubalot"
+        ],
+        "distractors": [
+          "Ammorón",
+          "Coriántumr",
+          "Amalickíah"
+        ]
+      },
+      {
+        "id": "hel-1-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué le sucedió a Pacumeni, el juez superior, cuando Coriántumr tomó Zarahemla?",
+        "options": [
+          "Fue herido contra la muralla y murió",
+          "Huyó al norte",
+          "Fue tomado prisionero",
+          "Rindió la ciudad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-1-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "La audacia que se volvió en su contra",
+        "text": "Al marchar directo por el centro de la tierra en vez de atacar las fronteras, Coriántumr sorprendió a los nefitas y tomó Zarahemla — pero terminó cercado por todos lados por Moroníah y Lehi; su propia audacia entregó a los lamanitas en manos de los nefitas."
+      },
+      {
+        "id": "hel-1-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "entre el número de los que murieron también fue hallado {0}",
+        "blanks": [
+          "Coriántumr"
+        ],
+        "distractors": [
+          "Tubalot",
+          "Pacumeni",
+          "Moroníah"
+        ]
+      },
+      {
+        "id": "hel-1-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Cómo trató Moroníah a los lamanitas prisioneros tras reconquistar Zarahemla?",
+        "options": [
+          "Los dejó partir de la tierra en paz",
+          "Los ejecutó",
+          "Los esclavizó",
+          "Los envió al rey"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "hel-2-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿A quién eligió la voz del pueblo para ocupar el asiento judicial?",
+        "options": [
+          "Helamán, hijo de Helamán",
+          "Pacumeni",
+          "Moroníah",
+          "Gadiantón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-2-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El origen de los ladrones de Gadiantón",
+        "text": "Gadiantón, 'sumamente experto en muchas palabras' y astuto en el crimen, asumió la jefatura de la banda de Kishkumen y prometió poder a sus seguidores. De él vendría el nombre de los 'ladrones de Gadiantón', que asolarían a los nefitas por generaciones."
+      },
+      {
+        "id": "hel-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "el siervo de Helamán apuñaló a {0} en el corazón, de manera que cayó muerto sin un solo gemido",
+        "blanks": [
+          "Kishkumen"
+        ],
+        "distractors": [
+          "Gadiantón",
+          "Coriántumr",
+          "Paanqui"
+        ]
+      },
+      {
+        "id": "hel-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué advierte el anal que Gadiantón llegaría a causar?",
+        "options": [
+          "La ruina, casi la completa destrucción del pueblo de Nefi",
+          "La conversión de los lamanitas",
+          "Una gran sequía",
+          "La caída de Zarahemla ante los lamanitas"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "hel-3-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Adónde fueron los muchos que salieron de Zarahemla en el año cuarenta y seis?",
+        "options": [
+          "A la tierra del norte, para heredar la tierra",
+          "A la tierra de Nefi",
+          "Al mar del este",
+          "A Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "por tanto, construyeron casas de {0} en las cuales habitaron",
+        "blanks": [
+          "cemento"
+        ],
+        "distractors": [
+          "madera",
+          "piedra",
+          "barro"
+        ]
+      },
+      {
+        "id": "hel-3-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Casas de cemento en el norte",
+        "text": "Como había poca madera en la tierra del norte, los nefitas se volvieron expertos en el trabajo del cemento y construyeron casas y ciudades de cemento. Dejaban crecer los árboles y enviaban madera por barco — un raro detalle sobre la ingeniería y el comercio de este pueblo."
+      },
+      {
+        "id": "hel-3-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué dice Mormón que no puede incluir ni la centésima parte de los hechos de este pueblo?",
+        "options": [
+          "Los anales y la historia eran demasiado numerosos para esta obra",
+          "Los anales se habían perdido",
+          "Estaba prohibido escribirlos",
+          "Nadie sabía leer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-3-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Helamán ocupó el asiento judicial con justicia y {0}",
+        "blanks": [
+          "equidad"
+        ],
+        "distractors": [
+          "crueldad",
+          "negligencia",
+          "parcialidad"
+        ]
+      },
+      {
+        "id": "hel-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué nombres dio Helamán a sus dos hijos?",
+        "options": [
+          "Nefi y Lehi",
+          "Ammón y Aarón",
+          "Alma y Coriantón",
+          "Mosíah y Benjamín"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-3-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Qué le sucedió a la iglesia en el año cuarenta y nueve, en medio de la paz?",
+        "options": [
+          "Hubo gran prosperidad; decenas de miles fueron bautizados",
+          "La iglesia fue prohibida",
+          "Los templos fueron destruidos",
+          "Los sacerdotes huyeron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-3-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Orgullo en la iglesia",
+        "text": "El texto hace una distinción cuidadosa: el orgullo entró 'no dentro de la iglesia de Dios, sino en el corazón de aquellos que profesaban pertenecer a ella'. Ese orgullo llevó a la persecución de los hermanos más humildes."
+      },
+      {
+        "id": "hel-3-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "se volvieron más y más fuertes en su {0}, y más y más firmes en la fe de Cristo",
+        "blanks": [
+          "humildad"
+        ],
+        "distractors": [
+          "orgullo",
+          "riquezas",
+          "sabiduría"
+        ]
+      },
+      {
+        "id": "hel-3-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Qué sucedió en el año cincuenta y tres?",
+        "options": [
+          "Helamán murió y su hijo Nefi empezó a gobernar",
+          "Los lamanitas tomaron Zarahemla",
+          "Gadiantón fue capturado",
+          "Hubo un gran terremoto"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "hel-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "lograron apoderarse de la tierra de {0}",
+        "blanks": [
+          "Zarahemla"
+        ],
+        "distractors": [
+          "Abundancia",
+          "Nefi",
+          "Mulek"
+        ]
+      },
+      {
+        "id": "hel-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Adónde fueron rechazados los nefitas y los ejércitos de Moroníah?",
+        "options": [
+          "A la tierra de Abundancia",
+          "A la tierra de Nefi",
+          "Al mar del oeste",
+          "A Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-4-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "La raíz de la derrota",
+        "text": "Mormón enumera lo que causó la gran pérdida de los nefitas: orgullo, riquezas, opresión de los pobres, negar comida al hambriento y ropa al desnudo, y burlarse de lo sagrado. No fueron los lamanitas, sino su propia iniquidad lo que los debilitó."
+      },
+      {
+        "id": "hel-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué fueron abandonados los nefitas a su propia fuerza y no prosperaron?",
+        "options": [
+          "Por su gran perversidad y su jactancia de su propio poder",
+          "Porque eran pocos",
+          "Por falta de armas",
+          "Por una plaga"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-4-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué hizo Moroníah cuando vio que el pueblo se arrepintió?",
+        "options": [
+          "Los condujo a recuperar la mitad de sus tierras",
+          "Se rindió a los lamanitas",
+          "Renunció al mando",
+          "Construyó barcos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-4-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "el Espíritu del Señor no habita en templos {0}",
+        "blanks": [
+          "impuros"
+        ],
+        "distractors": [
+          "santos",
+          "puros",
+          "nuevos"
+        ]
+      },
+      {
+        "id": "hel-4-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿A qué conclusión llegaron los nefitas sobre su debilidad?",
+        "options": [
+          "Que se habían debilitado a causa de sus transgresiones, en pocos años",
+          "Que necesitaban más armas",
+          "Que debían huir al norte",
+          "Que los lamanitas eran invencibles"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "hel-5-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Nefi entregó el asiento judicial a un hombre llamado {0}",
+        "blanks": [
+          "Cezóram"
+        ],
+        "distractors": [
+          "Helamán",
+          "Pahorán",
+          "Pacumeni"
+        ]
+      },
+      {
+        "id": "hel-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Según Helamán, ¿por medio de quién puede el hombre ser salvo?",
+        "options": [
+          "Solo por la sangre expiatoria de Jesucristo",
+          "Por sus propias obras",
+          "Por la ley de Mosíah",
+          "Por los sacrificios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-5-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "es sobre la {0} de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer vuestro fundamento",
+        "blanks": [
+          "roca"
+        ],
+        "distractors": [
+          "arena",
+          "montaña",
+          "colina"
+        ]
+      },
+      {
+        "id": "hel-5-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "'Edificar sobre la roca'",
+        "text": "En el consejo que sus hijos guardaron, Helamán enseña que es sobre la roca del Redentor, Cristo, donde se debe edificar el fundamento — 'un fundamento seguro, sobre el cual, si los hombres edifican, no caerán', aunque vientos y tormentas los azoten."
+      },
+      {
+        "id": "hel-5-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "ocho mil de los lamanitas que se hallaban en la tierra de Zarahemla y sus alrededores fueron bautizados",
+        "blanks": [
+          "ocho mil"
+        ],
+        "distractors": [
+          "dos mil",
+          "mil",
+          "diez mil"
+        ]
+      },
+      {
+        "id": "hel-5-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "La misma prisión",
+        "text": "Nefi y Lehi fueron echados en la misma prisión donde, generaciones antes, los siervos del rey Limhi habían encarcelado a Ammón y sus hermanos — un eco de la historia misional de los hijos de Mosíah entre los lamanitas."
+      },
+      {
+        "id": "hel-5-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Qué les sucedió a Nefi y Lehi en la prisión cuando los lamanitas vinieron a matarlos?",
+        "options": [
+          "Fueron rodeados como por fuego, pero no se quemaron",
+          "Fueron liberados por un ángel",
+          "Escaparon de noche",
+          "Fueron apedreados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-5-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "era una voz apacible de perfecta suavidad, cual si hubiese sido un {0}, y penetraba hasta el alma misma",
+        "blanks": [
+          "susurro"
+        ],
+        "distractors": [
+          "trueno",
+          "grito",
+          "viento"
+        ]
+      },
+      {
+        "id": "hel-5-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Cuántas veces vino la voz, llamando al arrepentimiento?",
+        "options": [
+          "Tres veces",
+          "Una vez",
+          "Dos veces",
+          "Siete veces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-5-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "este hombre se llamaba {0}",
+        "blanks": [
+          "Amínadab"
+        ],
+        "distractors": [
+          "Nefi",
+          "Lehi",
+          "Amulek"
+        ]
+      },
+      {
+        "id": "hel-5-cur-39",
+        "type": "curiosity",
+        "after_verse": 39,
+        "title": "Amínadab el disidente",
+        "text": "Fue un disidente nefita llamado Amínadab quien reconoció el milagro: al ver los semblantes de Nefi y Lehi brillar como ángeles, dijo a la multitud que conversaban con los ángeles de Dios y les enseñó a clamar hasta tener fe en Cristo."
+      },
+      {
+        "id": "hel-5-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Qué dijo Amínadab que debían hacer para que se quitara la nube de tinieblas?",
+        "options": [
+          "Arrepentirse y clamar a la voz hasta tener fe en Cristo",
+          "Sacrificar un cordero",
+          "Huir de la prisión",
+          "Rendirse a los nefitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-5-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "Paz, paz a vosotros por motivo de vuestra {0} en mi Bien Amado, que era desde la fundación del mundo",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "esperanza",
+          "obediencia",
+          "caridad"
+        ]
+      },
+      {
+        "id": "hel-5-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "¿Qué hicieron los lamanitas que se convencieron tras estos milagros?",
+        "options": [
+          "Dejaron sus armas, su odio y las tradiciones de sus padres",
+          "Construyeron un templo",
+          "Eligieron un rey",
+          "Huyeron al norte"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "hel-6-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Cómo eran los lamanitas al final del año sesenta y dos?",
+        "options": [
+          "La mayoría se volvió un pueblo justo, más recto que los nefitas",
+          "Fueron todos destruidos",
+          "Eligieron un nuevo rey",
+          "Huyeron al desierto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-6-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El vuelco",
+        "text": "Por primera vez, el texto declara que la rectitud de los lamanitas excedía a la de los nefitas — una inversión de los papeles tradicionales, debido a la firmeza y constancia de los lamanitas convertidos en la fe."
+      },
+      {
+        "id": "hel-6-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "la del norte se llamaba Mulek, por el hijo de {0}",
+        "blanks": [
+          "Sedequías"
+        ],
+        "distractors": [
+          "David",
+          "Salomón",
+          "Lehi"
+        ]
+      },
+      {
+        "id": "hel-6-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué le sucedió a Cezóram en el año sesenta y seis?",
+        "options": [
+          "Fue asesinado por mano desconocida en el asiento judicial",
+          "Renunció al cargo",
+          "Fue exiliado",
+          "Se hizo profeta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-6-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Nefi y Lehi",
+            "right": "Fueron a predicar a la tierra del norte"
+          },
+          {
+            "left": "Cezóram",
+            "right": "Juez superior asesinado por mano desconocida"
+          },
+          {
+            "left": "Gadiantón",
+            "right": "Dio su nombre a la banda de ladrones y asesinos secretos"
+          }
+        ]
+      },
+      {
+        "id": "hel-6-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "son estos juramentos y pactos secretos los que {0} mandó a su hijo que nunca se divulgaran al mundo",
+        "blanks": [
+          "Alma"
+        ],
+        "distractors": [
+          "Helamán",
+          "Mosíah",
+          "Moroni"
+        ]
+      },
+      {
+        "id": "hel-6-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿De dónde vinieron los juramentos secretos inculcados en el corazón de Gadiantón?",
+        "options": [
+          "Del mismo ser que conspiró con Caín — el autor de todo pecado",
+          "De los anales confiados a Helamán",
+          "De las tradiciones de los lamanitas",
+          "De las leyes de Mosíah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-6-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "El origen de las combinaciones secretas",
+        "text": "Mormón rastrea los juramentos secretos no a los anales, sino al 'mismo ser' que indujo a Adán y Eva al fruto prohibido, conspiró con Caín contra Abel e inspiró la torre de Babel — el autor de todo pecado, que los transmite de generación en generación."
+      },
+      {
+        "id": "hel-6-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "los nefitas empezaron a degenerar en la {0}",
+        "blanks": [
+          "incredulidad"
+        ],
+        "distractors": [
+          "fe",
+          "sabiduría",
+          "rectitud"
+        ]
+      },
+      {
+        "id": "hel-6-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "¿Qué obtuvieron los ladrones de Gadiantón entre los nefitas?",
+        "options": [
+          "La administración exclusiva del gobierno, hollando a los pobres y humildes",
+          "La conversión de todos",
+          "La paz duradera",
+          "La destrucción de los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-6-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Cómo describe Mormón el estado de los nefitas al final del año sesenta y ocho?",
+        "options": [
+          "Madurando para una destrucción sempiterna",
+          "En plena paz",
+          "Más justos que nunca",
+          "A punto de convertirse"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "hel-7-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Por qué volvió Nefi de la tierra del norte a Zarahemla?",
+        "options": [
+          "La gente del norte rechazó todas sus palabras",
+          "Fue expulsado por los lamanitas",
+          "Recibió una revelación",
+          "Buscaba a su familia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-7-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Cuando los ladrones gobiernan",
+        "text": "A su regreso, Nefi halló a los ladrones de Gadiantón ocupando los asientos judiciales — condenando a los justos por su rectitud y dejando libres a los culpables por su dinero. La corrupción se había apoderado del propio gobierno."
+      },
+      {
+        "id": "hel-7-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "si hubiese vivido en los días en que mi padre Nefi primero salió de la tierra de {0}",
+        "blanks": [
+          "Jerusalén"
+        ],
+        "distractors": [
+          "Babilonia",
+          "Zarahemla",
+          "Nefi"
+        ]
+      },
+      {
+        "id": "hel-7-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "La torre en el jardín",
+        "text": "Nefi derramaba su alma a Dios sobre una torre en su jardín, junto al camino que conducía al mercado principal de Zarahemla. Los que pasaban lo vieron y reunieron multitudes — y de ese lamento público nació su sermón de advertencia."
+      },
+      {
+        "id": "hel-7-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué había subido Nefi a la torre de su jardín?",
+        "options": [
+          "Para derramar su alma a Dios, por la tristeza por las iniquidades del pueblo",
+          "Para vigilar a los enemigos",
+          "Para proclamar un decreto",
+          "Para descansar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-7-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "no queréis escuchar la voz del buen {0}",
+        "blanks": [
+          "pastor"
+        ],
+        "distractors": [
+          "rey",
+          "profeta",
+          "maestro"
+        ]
+      },
+      {
+        "id": "hel-7-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Por qué dijo Nefi que sería mejor para los lamanitas que para los nefitas?",
+        "options": [
+          "Porque los lamanitas no pecaron contra el gran conocimiento que recibieron los nefitas",
+          "Porque eran más numerosos",
+          "Porque vivían más al norte",
+          "Porque tenían más riquezas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-7-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "Y a menos que os arrepintáis, {0}; sí, aun vuestras tierras os serán arrebatadas",
+        "blanks": [
+          "pereceréis"
+        ],
+        "distractors": [
+          "prosperaréis",
+          "reinaréis",
+          "viviréis"
+        ]
+      },
+      {
+        "id": "hel-7-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "'No de mí mismo'",
+        "text": "Nefi concluye dejando claro que no profetiza de sí mismo: 'sé que son verdaderas porque el Señor Dios me las ha hecho saber; por tanto, testifico que sucederán' — una afirmación de que su mensaje venía de Dios."
+      }
+    ],
+    "8": [
+      {
+        "id": "hel-8-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Por qué se enojaron con Nefi los jueces de la banda de Gadiantón?",
+        "options": [
+          "Porque hablaba claramente de sus obras secretas de tinieblas",
+          "Porque robaba",
+          "Porque era lamanita",
+          "Porque quería ser rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-8-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Jueces en la conspiración",
+        "text": "Los que trataron de incitar al pueblo contra Nefi no eran simples opositores: eran jueces que pertenecían a la banda secreta de Gadiantón. Temiendo al pueblo, no se atrevieron a prenderlo — y Nefi aprovechó para seguir predicando."
+      },
+      {
+        "id": "hel-8-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué argumentaron algunos del pueblo en defensa de Nefi?",
+        "options": [
+          "Que era bueno y que solo un profeta podría testificar tales cosas",
+          "Que era rico",
+          "Que era pariente del juez",
+          "Que era lamanita"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-8-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "¿no habéis leído que Dios dio poder a un hombre, sí, a {0}, para herir las aguas del mar Rojo",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Abraham",
+          "Josué",
+          "Jeremías"
+        ]
+      },
+      {
+        "id": "hel-8-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "he aquí, el profeta {0} testificó osadamente; y por tal razón lo mataron",
+        "blanks": [
+          "Zenós"
+        ],
+        "distractors": [
+          "Zenoc",
+          "Ezías",
+          "Isaías"
+        ]
+      },
+      {
+        "id": "hel-8-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "¿Diréis que los hijos de Sedequías no fueron muertos, todos salvo {0}?",
+        "blanks": [
+          "Mulek"
+        ],
+        "distractors": [
+          "Nefi",
+          "Lehi",
+          "Zoram"
+        ]
+      },
+      {
+        "id": "hel-8-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué señal dio Nefi para probar que era profeta?",
+        "options": [
+          "Que hallarían al juez superior asesinado por su propio hermano",
+          "Que llovería fuego",
+          "Que la tierra temblaría",
+          "Que el sol se oscurecería"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "hel-9-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "La prueba de los cinco",
+        "text": "Cinco hombres corrieron al asiento judicial para probar a Nefi: si hallaban muerto al juez, como había dicho, creerían que era profeta. Lo hallaron exactamente así — pero el pueblo, sin saberlo, los apresó como los asesinos."
+      },
+      {
+        "id": "hel-9-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué hallaron los cinco hombres al correr al asiento judicial?",
+        "options": [
+          "Al juez superior caído a tierra en su sangre",
+          "El asiento vacío",
+          "A Nefi predicando",
+          "A los lamanitas atacando"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Por qué apresó el pueblo a los cinco hombres?",
+        "options": [
+          "Pensaron que eran los asesinos, heridos por Dios para que no huyeran",
+          "Porque eran lamanitas",
+          "Porque robaron el tesoro",
+          "Porque eran de la banda de Gadiantón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué contaron los cinco a los jueces?",
+        "options": [
+          "Que corrieron, vieron todo como Nefi testificó y fueron encarcelados",
+          "Que mataron al juez",
+          "Que no vieron nada",
+          "Que huyeron de los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Dínoslo, y reconoce tu delito; he aquí este {0}, y además, te perdonaremos la vida",
+        "blanks": [
+          "dinero"
+        ],
+        "distractors": [
+          "oro",
+          "plata",
+          "joyas"
+        ]
+      },
+      {
+        "id": "hel-9-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Cómo respondió Nefi a los jueces que lo acusaban?",
+        "options": [
+          "Los llamó insensatos y duros de cerviz y les advirtió de la destrucción",
+          "Confesó el crimen",
+          "Les ofreció oro",
+          "Huyó de la multitud"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "He aquí, os digo: Id a la casa de {0}, que es el hermano de Seezóram",
+        "blanks": [
+          "Seántum"
+        ],
+        "distractors": [
+          "Seezóram",
+          "Gadiantón",
+          "Kishkumen"
+        ]
+      },
+      {
+        "id": "hel-9-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Sangre en las faldas del manto",
+        "text": "Nefi describió de antemano cada detalle: el hermano negaría el crimen, pero al examinarlo hallarían sangre en las faldas de su manto. La señal se cumplió exactamente, y Seántum confesó el asesinato."
+      },
+      {
+        "id": "hel-9-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Cómo se cumplió la señal de Nefi en la casa de Seántum?",
+        "options": [
+          "Hallaron sangre en su manto y, con miedo, confesó el asesinato",
+          "Huyó",
+          "Acusó a Nefi",
+          "No dijo nada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "¿Cuál fue el resultado después que Seántum confesó?",
+        "options": [
+          "Los cinco y Nefi fueron puestos en libertad",
+          "Nefi fue ejecutado",
+          "El pueblo coronó un rey",
+          "Los lamanitas atacaron"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-9-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "He aquí, es un {0}; porque si no fuera un dios, no podría saber de todas las cosas",
+        "blanks": [
+          "dios"
+        ],
+        "distractors": [
+          "profeta",
+          "ángel",
+          "rey"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "hel-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Bienaventurado eres tú, {0}, por las cosas que has hecho",
+        "blanks": [
+          "Nefi"
+        ],
+        "distractors": [
+          "Lehi",
+          "Helamán",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "hel-10-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Recompensa por la perseverancia",
+        "text": "El Señor bendice a Nefi por haber declarado la palabra 'tan infatigablemente', sin temer al pueblo ni buscar su propia vida. Es esa fidelidad la que precede a la concesión de un gran poder."
+      },
+      {
+        "id": "hel-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué poder concedió el Señor a Nefi?",
+        "options": [
+          "El poder de sellar — lo que atara en la tierra sería atado en los cielos",
+          "El poder de resucitar muertos",
+          "El poder de reinar como rey",
+          "El poder de andar sobre las aguas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-10-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "El poder sellador",
+        "text": "Nefi recibió el poder de sellar: cuanto atara o desatara en la tierra sería atado o desatado en los cielos — y aun poder sobre los elementos, para herir la tierra con hambre y pestilencia. Es la primera vez que este poder se concede tan explícitamente en el Libro de Mormón."
+      },
+      {
+        "id": "hel-10-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Qué hizo Nefi al recibir la palabra del Señor?",
+        "options": [
+          "No fue a casa, sino que volvió a las multitudes para declarar la palabra",
+          "Se escondió",
+          "Fue coronado rey",
+          "Huyó al norte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "no pudieron apoderarse de él para encarcelarlo, porque el {0} lo arrebató y lo llevó de entre ellos",
+        "blanks": [
+          "Espíritu"
+        ],
+        "distractors": [
+          "ángel",
+          "viento",
+          "sueño"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "hel-11-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Más bien, ¡oh Señor!, haya {0} sobre la tierra para hacerles recordar al Señor su Dios",
+        "blanks": [
+          "hambre"
+        ],
+        "distractors": [
+          "peste",
+          "guerra",
+          "oscuridad"
+        ]
+      },
+      {
+        "id": "hel-11-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Un hambre a petición",
+        "text": "Teniendo el poder sellador, Nefi no pide la destrucción de los inicuos, sino un hambre — calculando que el sufrimiento llevaría al pueblo a acordarse de Dios y arrepentirse, en vez de seguir matándose por la espada."
+      },
+      {
+        "id": "hel-11-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué empezó a hacer el pueblo cuando estaba a punto de perecer de hambre?",
+        "options": [
+          "Acordarse del Señor y de las palabras de Nefi",
+          "Atacar a los lamanitas",
+          "Coronar un rey",
+          "Huir al norte"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Por qué clamó Nefi al Señor para que cesara el hambre?",
+        "options": [
+          "Porque el pueblo se había arrepentido y humillado",
+          "Porque él mismo tenía hambre",
+          "Porque los lamanitas vencieron",
+          "Porque el rey lo ordenó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-11-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué hizo el pueblo cuando volvió la lluvia y la tierra produjo?",
+        "options": [
+          "Se regocijó y estimó a Nefi como un gran profeta",
+          "Se olvidó de Dios",
+          "Echó fuera a Nefi",
+          "Coronó un rey"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué sucedió durante los años de paz (año setenta y siete)?",
+        "options": [
+          "La iglesia se extendió y la mayoría del pueblo, nefitas y lamanitas, pertenecía a ella",
+          "Los lamanitas atacaron",
+          "Hubo otra hambre",
+          "Nefi murió"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-11-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "buscaron todos los planes secretos de Gadiantón; y así llegaron ellos a ser los ladrones de {0}",
+        "blanks": [
+          "Gadiantón"
+        ],
+        "distractors": [
+          "Kishkumen",
+          "Coriántumr",
+          "Cezóram"
+        ]
+      },
+      {
+        "id": "hel-11-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "El renacimiento de los ladrones",
+        "text": "Aunque los ladrones de Gadiantón habían sido exterminados ante el clamor de Nefi, resurgen: disidentes y lamanitas redescubren 'todos los planes secretos de Gadiantón' y vuelven a infestar las montañas, desafiando aun a los ejércitos de nefitas y lamanitas."
+      },
+      {
+        "id": "hel-11-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "¿Qué hizo que el pueblo se acordara del Señor de nuevo?",
+        "options": [
+          "La gran calamidad traída por los ladrones a causa de su iniquidad",
+          "Una nueva hambre",
+          "La predicación de Samuel",
+          "Un terremoto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-11-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "¿Qué sucedió en el año ochenta y cinco?",
+        "options": [
+          "El pueblo se volvió más orgulloso e inicuo, madurando para la destrucción",
+          "Hubo paz total",
+          "Nefi fue muerto",
+          "Los lamanitas se convirtieron"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "hel-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La meditación de Mormón",
+        "text": "Este capítulo es una pausa autoral: Mormón interrumpe el relato para reflexionar sobre 'cuán falso e inconstante es el corazón de los hijos de los hombres', contrastando la fragilidad humana con la omnipotencia de la voz de Dios."
+      },
+      {
+        "id": "hel-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "excepto que el Señor discipline a su pueblo con muchas {0}",
+        "blanks": [
+          "aflicciones"
+        ],
+        "distractors": [
+          "bendiciones",
+          "riquezas",
+          "alegrías"
+        ]
+      },
+      {
+        "id": "hel-12-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "cuán grande es la insignificancia de los hijos de los hombres; sí, son menos aún que el {0} de la tierra",
+        "blanks": [
+          "polvo"
+        ],
+        "distractors": [
+          "arena",
+          "barro",
+          "cenizas"
+        ]
+      },
+      {
+        "id": "hel-12-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Qué poder describe Mormón, diciendo que la tierra retrocede para alargar el día?",
+        "options": [
+          "El poder de la voz de Dios",
+          "El poder de los profetas",
+          "El poder del sol",
+          "El poder de los ángeles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-12-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "'Es la tierra la que se mueve'",
+        "text": "En un detalle notable para un texto antiguo, Mormón afirma que cuando al hombre le parece que el sol se ha detenido, 'ciertamente la tierra es la que se mueve y no el sol' — describiendo el movimiento de la tierra siglos antes del debate heliocéntrico."
+      },
+      {
+        "id": "hel-12-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Según Mormón, ¿qué le sucede a un tesoro que el Señor maldice?",
+        "options": [
+          "Nadie lo encontrará jamás",
+          "Se multiplica",
+          "Se vuelve polvo",
+          "Vuelve a su dueño"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-12-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "¿Quiénes dice Mormón que serán salvos?",
+        "options": [
+          "Los que se arrepienten y escuchan la voz del Señor",
+          "Los más ricos",
+          "Los más fuertes",
+          "Los gobernantes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-12-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Los que hayan hecho el bien, tendrán vida {0}; y los que hayan hecho el mal, recibirán condenación sempiterna",
+        "blanks": [
+          "sempiterna"
+        ],
+        "distractors": [
+          "temporal",
+          "breve",
+          "mortal"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "hel-13-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "y no pasarán {0} años sin que caiga sobre ellos la espada de la justicia",
+        "blanks": [
+          "cuatrocientos"
+        ],
+        "distractors": [
+          "cien",
+          "mil",
+          "cuarenta"
+        ]
+      },
+      {
+        "id": "hel-13-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "El profeta sobre la muralla",
+        "text": "Rechazado y echado de Zarahemla, Samuel — un lamanita — no se dio por vencido: volvió y subió a la muralla de la ciudad para profetizar desde allí. Es una inversión notable, un lamanita justo predicando arrepentimiento a los nefitas inicuos."
+      },
+      {
+        "id": "hel-13-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué dijo el Señor que haría si los nefitas no se arrepentían?",
+        "options": [
+          "Quitar su palabra y su Espíritu y volver el corazón de sus hermanos contra ellos",
+          "Enviar un diluvio",
+          "Destruir a los lamanitas",
+          "Enviar un ángel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-13-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Por qué fue perdonada la gran ciudad de Zarahemla, según Samuel?",
+        "options": [
+          "Por causa de los justos que había en ella",
+          "Por sus murallas",
+          "Por sus riquezas",
+          "Por sus ejércitos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-13-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Y he aquí, vendrá una {0} sobre la tierra, dice el Señor de los Ejércitos",
+        "blanks": [
+          "maldición"
+        ],
+        "distractors": [
+          "bendición",
+          "paz",
+          "alegría"
+        ]
+      },
+      {
+        "id": "hel-13-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿De qué acusa Samuel al pueblo respecto a los profetas?",
+        "options": [
+          "De echarlos fuera, burlarse de ellos, apedrearlos y matarlos",
+          "De ignorarlos",
+          "De copiarlos",
+          "De adorarlos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-13-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Cómo trata el pueblo a un hombre que dice 'todo está bien' y habla lisonjas?",
+        "options": [
+          "Lo engrandece, le da oro y plata y lo llama profeta",
+          "Lo echa fuera",
+          "Lo apedrea",
+          "Lo ignora"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-13-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "se acerca la hora en que maldecirá vuestras riquezas, de modo que se volverán {0}",
+        "blanks": [
+          "deleznables"
+        ],
+        "distractors": [
+          "pesadas",
+          "eternas",
+          "sagradas"
+        ]
+      },
+      {
+        "id": "hel-13-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Las riquezas deleznables",
+        "text": "Samuel profetiza una maldición peculiar: por haber puesto el corazón en las riquezas, estas se volverían 'deleznables' — herramientas y espadas desaparecerían, los tesoros se escurrirían. Una imagen marcante del vacío de confiar en los bienes materiales."
+      },
+      {
+        "id": "hel-13-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "¿Cuál era el problema de los 'días de probación' del pueblo, según Samuel?",
+        "options": [
+          "Demoraron el día de la salvación hasta que fue demasiado tarde",
+          "No tenían profetas",
+          "No tenían Escrituras",
+          "Eran pocos"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "hel-14-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "porque han de pasar {0} años más y, he aquí, entonces viene el Hijo de Dios",
+        "blanks": [
+          "cinco"
+        ],
+        "distractors": [
+          "diez",
+          "tres",
+          "cuarenta"
+        ]
+      },
+      {
+        "id": "hel-14-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "La señal del nacimiento",
+        "text": "Samuel anuncia que en la noche anterior al nacimiento de Cristo habrá grandes luces en el cielo — un día, una noche y un día sin oscuridad — y aparecerá una estrella nueva. Estas señales se cumplen exactamente en 3 Nefi."
+      },
+      {
+        "id": "hel-14-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué promesa hace Samuel a los que creen en el Hijo de Dios?",
+        "options": [
+          "Tendrán vida sempiterna",
+          "Serán reyes",
+          "Serán ricos",
+          "Nunca morirán"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué dice Samuel que sucede si creemos en el nombre de Cristo?",
+        "options": [
+          "Nos arrepentimos y logramos la remisión de pecados por sus méritos",
+          "Nos hacemos profetas",
+          "Recibimos riquezas",
+          "Vencemos a los lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-14-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "redime a todo el género humano de la primera muerte, esa muerte {0}",
+        "blanks": [
+          "espiritual"
+        ],
+        "distractors": [
+          "física",
+          "temporal",
+          "eterna"
+        ]
+      },
+      {
+        "id": "hel-14-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Antes del nacimiento",
+            "right": "Un día, una noche y un día sin oscuridad"
+          },
+          {
+            "left": "En el nacimiento",
+            "right": "Aparece una estrella nueva"
+          },
+          {
+            "left": "En la muerte",
+            "right": "Tres días de tinieblas y grandes terremotos"
+          }
+        ]
+      },
+      {
+        "id": "hel-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Qué verdad enseña Samuel sobre el albedrío?",
+        "options": [
+          "Que los hombres son libres para obrar por sí mismos y escoger la vida o la muerte",
+          "Que todo está predestinado",
+          "Que solo los justos son libres",
+          "Que los reyes deciden por todos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-14-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "os ha concedido que escojáis la vida o la {0}",
+        "blanks": [
+          "muerte"
+        ],
+        "distractors": [
+          "esclavitud",
+          "destrucción",
+          "servidumbre"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "hel-15-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Por qué disciplinó el Señor al pueblo de Nefi, según Samuel?",
+        "options": [
+          "Porque los amaba, siendo ellos un pueblo escogido",
+          "Porque los odiaba",
+          "Porque eran pocos",
+          "Porque eran lamanitas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-15-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "La salvación llegó por los nefitas",
+        "text": "Samuel reconoce que la salvación llegó a los lamanitas 'por medio de la predicación de los nefitas' — y que por eso el Señor prolongó sus días. Es un lamanita recordando a los nefitas el bien que estos una vez hicieron."
+      },
+      {
+        "id": "hel-15-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "han {0} sus armas de guerra, y temen empuñarlas",
+        "blanks": [
+          "enterrado"
+        ],
+        "distractors": [
+          "empuñado",
+          "vendido",
+          "levantado"
+        ]
+      },
+      {
+        "id": "hel-15-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿A qué profeta cita Samuel sobre la restauración de los lamanitas al conocimiento de la verdad?",
+        "options": [
+          "Zenós",
+          "Isaías",
+          "Jeremías",
+          "Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-15-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "los destruiré completamente por su {0}, dice el Señor",
+        "blanks": [
+          "incredulidad"
+        ],
+        "distractors": [
+          "fe",
+          "sabiduría",
+          "humildad"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "hel-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué sucedió cuando arrojaron piedras y flechas a Samuel sobre la muralla?",
+        "options": [
+          "El Espíritu del Señor lo protegió y no pudieron herirlo",
+          "Cayó muerto",
+          "Huyó enseguida",
+          "Contraatacó"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Piedras y flechas que no acertaban",
+        "text": "Mientras Samuel profetizaba sobre la muralla, los incrédulos arrojaban piedras y flechas, pero el Espíritu del Señor lo protegía — no podían herirlo. El propio prodigio hizo que muchos más creyeran en sus palabras."
+      },
+      {
+        "id": "hel-16-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Prended a este individuo y atadlo, porque está poseído de un {0}",
+        "blanks": [
+          "diablo"
+        ],
+        "distractors": [
+          "ángel",
+          "profeta",
+          "sueño"
+        ]
+      },
+      {
+        "id": "hel-16-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué señales empezaron a cumplirse en el año noventa?",
+        "options": [
+          "Grandes señales y prodigios; ángeles se aparecieron a hombres sabios",
+          "Cayó la espada de la justicia",
+          "Los lamanitas atacaron",
+          "Nefi murió"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-16-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué argumento usaban los incrédulos contra la venida de Cristo?",
+        "options": [
+          "Que debía aparecérseles, no en una tierra lejana como Jerusalén",
+          "Que ya había venido",
+          "Que no había profecías",
+          "Que era lamanita"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "hel-16-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Y así terminó el libro de {0}, de acuerdo con los anales de Helamán y sus hijos",
+        "blanks": [
+          "Helamán"
+        ],
+        "distractors": [
+          "Nefi",
+          "Alma",
+          "Mormón"
+        ]
+      },
+      {
+        "id": "hel-16-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "El fin del libro de Helamán",
+        "text": "El libro se cierra en plena apostasía, con Satanás dominando el corazón del pueblo — pero solo faltan cinco años para el nacimiento de Cristo. Es el suspenso que abre el libro de 3 Nefi y el cumplimiento de las señales de Samuel."
+      }
+    ]
+  }
+}

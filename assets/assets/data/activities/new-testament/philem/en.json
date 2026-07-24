@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "book": "philem",
+  "chapters": {
+    "1": [
+      {
+        "id": "philem-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A church at home",
+        "text": "In earliest times Christians had no buildings of their own and met in private homes. Paul greets 'the church in thy house,' reflecting that practice."
+      },
+      {
+        "id": "philem-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Paul, a {0} of Jesus Christ, and Timothy our brother",
+        "blanks": [
+          "prisoner"
+        ],
+        "distractors": [
+          "fellowlabourer",
+          "servant",
+          "brother"
+        ]
+      },
+      {
+        "id": "philem-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Why did Paul have great joy and consolation?",
+        "options": [
+          "Because he was freed from prison",
+          "Because of Philemon's love, by which the saints were refreshed",
+          "Because he had converted all of Colossae",
+          "Because the church sent him money"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "I beseech thee for my son {0}, whom I have begotten in my bonds:",
+        "blanks": [
+          "Onesimus"
+        ],
+        "distractors": [
+          "Timothy",
+          "Epaphras",
+          "Archippus"
+        ]
+      },
+      {
+        "id": "philem-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Why did Paul send Onesimus back rather than keep him?",
+        "options": [
+          "Because Onesimus wished to leave",
+          "So that Philemon's benefit would be willing, not of necessity",
+          "Because he no longer needed help",
+          "Because the law required it"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "philem-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Not now as a {0}, but above a servant, a brother beloved",
+        "blanks": [
+          "servant"
+        ],
+        "distractors": [
+          "son",
+          "friend",
+          "stranger"
+        ]
+      },
+      {
+        "id": "philem-1-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "pairs": [
+          {
+            "left": "Onesimus",
+            "right": "Runaway slave converted by Paul"
+          },
+          {
+            "left": "Philemon",
+            "right": "Owner to whom the letter is addressed"
+          },
+          {
+            "left": "Paul",
+            "right": "Prisoner who writes the letter"
+          },
+          {
+            "left": "Timothy",
+            "right": "Brother who greets with Paul"
+          }
+        ]
+      },
+      {
+        "id": "philem-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What does Paul ask Philemon to prepare for him?",
+        "options": [
+          "A letter of recommendation",
+          "A lodging, trusting he shall be given to them",
+          "A gift for Onesimus",
+          "Clothing for prison"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

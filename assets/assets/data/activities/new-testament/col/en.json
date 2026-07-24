@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "book": "col",
+  "chapters": {
+    "1": [
+      {
+        "id": "col-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A letter from prison",
+        "text": "Paul wrote Colossians as a prisoner in Rome, around A.D. 60–62, to a church he had never personally visited."
+      },
+      {
+        "id": "col-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Who writes this letter, according to the opening verses?",
+        "options": [
+          "The Apostle Paul",
+          "Epaphras",
+          "The Apostle Peter",
+          "Timothy alone"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-1-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Paul",
+            "right": "Apostle of Jesus Christ"
+          },
+          {
+            "left": "Timotheus",
+            "right": "Our brother"
+          },
+          {
+            "left": "Epaphras",
+            "right": "Faithful minister of Christ"
+          },
+          {
+            "left": "Colosse",
+            "right": "Where the saints were"
+          }
+        ]
+      },
+      {
+        "id": "col-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "being fruitful in every good work, and increasing in the {0} of God;",
+        "blanks": [
+          "knowledge"
+        ],
+        "distractors": [
+          "fear",
+          "kingdom",
+          "power"
+        ]
+      },
+      {
+        "id": "col-1-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Who is the {0} of the invisible God, the firstborn of every creature:",
+        "blanks": [
+          "image"
+        ],
+        "distractors": [
+          "word",
+          "glory",
+          "inheritance"
+        ]
+      },
+      {
+        "id": "col-1-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "According to verse 18, of what is Christ the head?",
+        "options": [
+          "The body, the church",
+          "The angels",
+          "The law",
+          "The nations"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "to present you holy and unblameable and {0} in his sight:",
+        "blanks": [
+          "unreproveable"
+        ],
+        "distractors": [
+          "alienated",
+          "wicked",
+          "faithful"
+        ]
+      },
+      {
+        "id": "col-1-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "which is Christ in you, the hope of {0}:",
+        "blanks": [
+          "glory"
+        ],
+        "distractors": [
+          "faith",
+          "truth",
+          "light"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "col-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Laodicea, the neighboring church",
+        "text": "Paul had never personally visited the Colossians nor those at Laodicea, a nearby city in the Lycus river valley. The church was founded by Epaphras, and Paul writes from afar, as a prisoner in Rome."
+      },
+      {
+        "id": "col-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "In whom are hid all the treasures of {0} and knowledge.",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "philosophy",
+          "tradition",
+          "flesh"
+        ]
+      },
+      {
+        "id": "col-2-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What does Paul warn the Colossians against in verse 8?",
+        "options": [
+          "Philosophy and vain deceit after the tradition of men",
+          "Prayer and fasting",
+          "Reading the scriptures",
+          "Helping the poor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "For in him dwelleth all the fulness of the {0} bodily.",
+        "blanks": [
+          "Godhead"
+        ],
+        "distractors": [
+          "tradition",
+          "flesh",
+          "wisdom"
+        ]
+      },
+      {
+        "id": "col-2-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Buried with him in {0}, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.",
+        "blanks": [
+          "baptism"
+        ],
+        "distractors": [
+          "temple",
+          "wilderness",
+          "sabbath"
+        ]
+      },
+      {
+        "id": "col-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Handwriting of ordinances against us",
+            "right": "Nailed to the cross"
+          },
+          {
+            "left": "Principalities and powers",
+            "right": "Made a shew openly"
+          },
+          {
+            "left": "Meat, drink and holydays",
+            "right": "Let no man judge you"
+          }
+        ]
+      },
+      {
+        "id": "col-2-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "According to verse 17, what are the holydays, the new moon, and the sabbath days?",
+        "options": [
+          "A shadow of things to come",
+          "Eternal commandments",
+          "Inventions of the angels",
+          "Traditions of Laodicea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-2-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Rules like 'touch not; taste not; handle not' have, according to Paul, what real value?",
+        "options": [
+          "No honour against the satisfying of the flesh",
+          "They guarantee salvation",
+          "They are commandments of Christ",
+          "They replace faith"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "col-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The right hand of God",
+        "text": "To say Christ \"sitteth on the right hand of God\" was, in the ancient world, an image of supreme authority and honor: the place at the king's right belonged to the one who ruled with him."
+      },
+      {
+        "id": "col-3-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Who wrote this epistle to the Colossians?",
+        "options": [
+          "Peter",
+          "Paul",
+          "John",
+          "James"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "col-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "and covetousness, which is {0}:",
+        "blanks": [
+          "idolatry"
+        ],
+        "distractors": [
+          "fornication",
+          "uncleanness",
+          "malice"
+        ]
+      },
+      {
+        "id": "col-3-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "The old man",
+            "right": "Put off, with his deeds"
+          },
+          {
+            "left": "The new man",
+            "right": "Renewed after the image of his Creator"
+          },
+          {
+            "left": "In Christ",
+            "right": "Neither Greek nor Jew"
+          },
+          {
+            "left": "Christ",
+            "right": "All, and in all"
+          }
+        ]
+      },
+      {
+        "id": "col-3-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "put on charity, which is the bond of {0}.",
+        "blanks": [
+          "perfectness"
+        ],
+        "distractors": [
+          "holiness",
+          "righteousness",
+          "godliness"
+        ]
+      },
+      {
+        "id": "col-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How does Paul say we should teach and admonish one another?",
+        "options": [
+          "With fasting and silence",
+          "With psalms, hymns, and spiritual songs",
+          "With sacrifices",
+          "With signs and wonders"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "col-3-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Why does Paul warn fathers not to provoke their children to anger?",
+        "options": [
+          "Lest they be discouraged",
+          "So they grow rich",
+          "So they learn the law",
+          "So they keep the sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-3-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "whatsoever ye do, do it {0}, as to the Lord",
+        "blanks": [
+          "heartily"
+        ],
+        "distractors": [
+          "reluctantly",
+          "outwardly",
+          "fearfully"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "col-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "In Colossians 4:2, how does Paul tell believers to continue in prayer?",
+        "options": [
+          "Watching in the same with thanksgiving",
+          "Fasting in silence",
+          "Only at sunrise",
+          "Secretly in the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "col-4-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Speech seasoned with salt",
+        "text": "In the ancient world salt preserved food and gave it flavor. Paul uses this image for a believer's speech: let it always be with grace, knowing how to answer each person well."
+      },
+      {
+        "id": "col-4-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Walk in {0} toward them that are without, redeeming the time.",
+        "blanks": [
+          "wisdom"
+        ],
+        "distractors": [
+          "justice",
+          "prayer",
+          "grace"
+        ]
+      },
+      {
+        "id": "col-4-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Luke",
+            "right": "The beloved physician"
+          },
+          {
+            "left": "Epaphras",
+            "right": "A servant of Christ, one of you"
+          },
+          {
+            "left": "Aristarchus",
+            "right": "Paul's fellowprisoner"
+          },
+          {
+            "left": "Tychicus",
+            "right": "A beloved brother and faithful minister"
+          }
+        ]
+      },
+      {
+        "id": "col-4-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "In Colossians 4:16, what does Paul ask be done with the letter?",
+        "options": [
+          "That it be read also in the church of the Laodiceans",
+          "That it be kept secret",
+          "That it be destroyed after reading",
+          "That it be sent to Jerusalem"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

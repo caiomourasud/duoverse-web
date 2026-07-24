@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "book": "james",
+  "chapters": {
+    "1": [
+      {
+        "id": "james-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Segundo Tiago, o que a prova da vossa fé opera?",
+        "options": [
+          "A paciência",
+          "A riqueza",
+          "O orgulho",
+          "A dúvida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "O versículo da Primeira Visão",
+        "body": "Tiago 1:5 — \"se algum de vós tem falta de sabedoria, peça-a a Deus\" — foi o versículo que inspirou o jovem Joseph Smith a orar em 1820, levando à Primeira Visão."
+      },
+      {
+        "id": "james-1-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "E se algum de vós tem falta de {0}, peça-a a Deus, que a todos dá liberalmente",
+        "blanks": [
+          "sabedoria"
+        ],
+        "distractors": [
+          "paciência",
+          "riqueza",
+          "alegria"
+        ]
+      },
+      {
+        "id": "james-1-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Como é descrito o homem de ânimo dobre?",
+        "options": [
+          "Inconstante em todos os seus caminhos",
+          "Firme na fé",
+          "Rico em sabedoria",
+          "Bem-aventurado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Bem-aventurado o homem que suporta a {0}; porque, quando for posto à prova, receberá a coroa da vida",
+        "blanks": [
+          "tentação"
+        ],
+        "distractors": [
+          "riqueza",
+          "palavra",
+          "erva"
+        ]
+      },
+      {
+        "id": "james-1-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "title": "Origem dos dons",
+        "pairs": [
+          {
+            "left": "Toda boa dádiva",
+            "right": "vem do alto"
+          },
+          {
+            "left": "Pai das luzes",
+            "right": "em quem não há mudança"
+          },
+          {
+            "left": "A palavra da verdade",
+            "right": "gerou-nos como primícias"
+          }
+        ]
+      },
+      {
+        "id": "james-1-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "todo homem seja pronto para {0}, tardio para falar, tardio para se irar",
+        "blanks": [
+          "ouvir"
+        ],
+        "distractors": [
+          "correr",
+          "julgar",
+          "dormir"
+        ]
+      },
+      {
+        "id": "james-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Segundo Tiago, em que consiste a religião pura e imaculada?",
+        "options": [
+          "Visitar os órfãos e as viúvas e guardar-se imaculado do mundo",
+          "Acumular riquezas",
+          "Falar muito sobre a lei",
+          "Contemplar-se ao espelho"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "james-2-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Anel de ouro e veste sórdida",
+        "body": "Tiago retrata uma cena concreta de culto: ao rico de anel de ouro oferecem assento de honra; ao pobre, ficar em pé ou sentar-se no chão. O favoritismo torna os crentes 'juízes de maus pensamentos'."
+      },
+      {
+        "id": "james-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Ao fazer distinção entre rico e pobre, em que os crentes se tornam, segundo o versículo 4?",
+        "options": [
+          "Juízes de maus pensamentos",
+          "Herdeiros do reino",
+          "Servos da lei",
+          "Amigos de Deus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "a lei real: Amarás a teu {0} como a ti mesmo; bem fazeis.",
+        "blanks": [
+          "próximo"
+        ],
+        "distractors": [
+          "inimigo",
+          "irmão",
+          "senhor"
+        ]
+      },
+      {
+        "id": "james-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Segundo o versículo 13, o que triunfa sobre o juízo?",
+        "options": [
+          "A misericórdia",
+          "A lei",
+          "A fé",
+          "As obras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-2-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Assim também a fé, se não tiver as {0}, está morta em si mesma.",
+        "blanks": [
+          "obras"
+        ],
+        "distractors": [
+          "palavras",
+          "promessas",
+          "esperanças"
+        ]
+      },
+      {
+        "id": "james-2-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Até os demônios creem",
+        "body": "Crer que 'há um só Deus' é bom, mas Tiago lembra que 'também os demônios o creem, e estremecem'. A mera crença, sem obras, não distingue o fiel do demônio."
+      },
+      {
+        "id": "james-2-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "title": "Justificados pelas obras",
+        "pairs": [
+          {
+            "left": "Abraão",
+            "right": "Ofereceu o filho Isaque sobre o altar"
+          },
+          {
+            "left": "Raabe",
+            "right": "Recolheu os emissários e os despediu por outro caminho"
+          },
+          {
+            "left": "Abraão",
+            "right": "Foi chamado amigo de Deus"
+          }
+        ]
+      },
+      {
+        "id": "james-2-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "assim como o corpo sem o {0} está morto, assim também a fé sem as obras é morta.",
+        "blanks": [
+          "espírito"
+        ],
+        "distractors": [
+          "sangue",
+          "coração",
+          "pão"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "james-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Por que poucos mestres?",
+        "body": "Tiago alerta que quem ensina recebe maior responsabilidade e julgamento, pois suas palavras influenciam muitos — por isso o cuidado com a língua começa logo nesta exortação."
+      },
+      {
+        "id": "james-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "prompt": "Complete o versículo:",
+        "template": "Ora, nós pomos {0} na boca dos cavalos, para que nos obedeçam",
+        "blanks": [
+          "freio"
+        ],
+        "distractors": [
+          "leme",
+          "fogo",
+          "manancial"
+        ]
+      },
+      {
+        "id": "james-3-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "prompt": "Associe cada imagem ao que ela controla ou faz:",
+        "pairs": [
+          {
+            "left": "Freio",
+            "right": "Guia o cavalo"
+          },
+          {
+            "left": "Leme",
+            "right": "Dirige a nau"
+          },
+          {
+            "left": "Pequeno fogo",
+            "right": "Incendeia o bosque"
+          },
+          {
+            "left": "Língua",
+            "right": "Governa o corpo"
+          }
+        ]
+      },
+      {
+        "id": "james-3-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "prompt": "Complete o versículo:",
+        "template": "Mas nenhum homem pode domar a língua. É um mal que não se pode refrear, está cheia de peçonha {0}.",
+        "blanks": [
+          "mortal"
+        ],
+        "distractors": [
+          "doce",
+          "amargosa",
+          "salgada"
+        ]
+      },
+      {
+        "id": "james-3-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "Segundo Tiago, o que uma mesma fonte NÃO pode fazer jorrar?",
+        "options": [
+          "Água doce e água amargosa",
+          "Apenas água doce",
+          "Apenas água amargosa",
+          "Bênção sozinha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-3-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "prompt": "Como Tiago descreve a sabedoria terrena (v15)?",
+        "options": [
+          "Terrena, animal e diabólica",
+          "Pura e pacífica",
+          "Cheia de misericórdia",
+          "Sem hipocrisia"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "james-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A guerra interior",
+        "body": "Tiago localiza a origem das guerras e pelejas não em circunstâncias externas, mas nos deleites que \"guerreiam\" dentro da própria pessoa."
+      },
+      {
+        "id": "james-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo o versículo 2, por que eles nada têm?",
+        "options": [
+          "porque não pedis",
+          "porque não trabalhais",
+          "porque não jejuais",
+          "porque não creis"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "não sabeis vós que a amizade do mundo é {0} contra Deus?",
+        "blanks": [
+          "inimizade"
+        ],
+        "distractors": [
+          "humildade",
+          "graça",
+          "sabedoria"
+        ]
+      },
+      {
+        "id": "james-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Sujeitai-vos, pois, a Deus; resisti ao {0}, e ele fugirá de vós.",
+        "blanks": [
+          "diabo"
+        ],
+        "distractors": [
+          "mundo",
+          "orgulho",
+          "pecado"
+        ]
+      },
+      {
+        "id": "james-4-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, a quem Deus resiste e a quem dá graça?",
+        "options": [
+          "resiste aos soberbos e dá graça aos humildes",
+          "resiste aos pobres e dá graça aos ricos",
+          "resiste aos humildes e dá graça aos soberbos",
+          "resiste aos sábios e dá graça aos tolos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-4-mp-9",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Ação e consequência",
+        "pairs": [
+          {
+            "left": "Chegai-vos a Deus",
+            "right": "e ele se chegará a vós"
+          },
+          {
+            "left": "Humilhai-vos perante o Senhor",
+            "right": "e ele vos exaltará"
+          },
+          {
+            "left": "Resisti ao diabo",
+            "right": "e ele fugirá de vós"
+          }
+        ]
+      },
+      {
+        "id": "james-4-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Planos sem Deus",
+        "body": "Tiago repreende quem planeja viagens e lucros com plena certeza, esquecendo-se de que o amanhã não está em suas mãos."
+      },
+      {
+        "id": "james-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "o que é a vossa vida? É um {0} que aparece por um pouco, e depois se desvanece.",
+        "blanks": [
+          "vapor"
+        ],
+        "distractors": [
+          "rio",
+          "monte",
+          "tesouro"
+        ]
+      },
+      {
+        "id": "james-4-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Segundo o versículo 17, quem comete pecado?",
+        "options": [
+          "aquele que sabe fazer o bem e não o faz",
+          "aquele que não conhece a lei",
+          "aquele que faz o bem por interesse",
+          "aquele que erra sem saber"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "james-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "prompt": "Segundo o versículo 4, os clamores dos trabalhadores defraudados entraram nos ouvidos de quem?",
+        "options": [
+          "Do Senhor dos Exércitos",
+          "Dos profetas",
+          "Do lavrador",
+          "Dos anciãos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "prompt": "Complete o versículo 6.",
+        "verse": 6,
+        "template": "Condenastes e matastes o {0}; ele não vos resistiu.",
+        "blanks": [
+          "justo"
+        ],
+        "distractors": [
+          "lavrador",
+          "ímpio",
+          "pecador"
+        ]
+      },
+      {
+        "id": "james-5-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "prompt": "Complete o versículo 7.",
+        "verse": 7,
+        "template": "Sede, pois, irmãos, pacientes até a vinda do {0}.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "lavrador",
+          "juiz",
+          "profeta"
+        ]
+      },
+      {
+        "id": "james-5-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "prompt": "Quem é citado no versículo 11 como exemplo de quem suportou aflições com paciência?",
+        "options": [
+          "Jó",
+          "Elias",
+          "Abraão",
+          "Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "prompt": "Curiosidade",
+        "body": "O versículo 14 descreve a prática de chamar os anciãos da igreja para orar sobre o doente, ungindo-o com azeite em nome do Senhor — uma ordenança de cura ainda observada por imposição de mãos."
+      },
+      {
+        "id": "james-5-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "prompt": "Segundo o versículo 16, o que devemos fazer uns pelos outros para que sejamos curados?",
+        "options": [
+          "Confessar as culpas e orar uns pelos outros",
+          "Jurar pelo céu",
+          "Entesourar para os últimos dias",
+          "Resistir ao justo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "james-5-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "prompt": "Relacione cada elemento do exemplo de Elias (v17-18) ao seu resultado.",
+        "pairs": [
+          {
+            "left": "Elias orou que não chovesse",
+            "right": "Não choveu por três anos e seis meses"
+          },
+          {
+            "left": "Elias orou outra vez",
+            "right": "O céu deu chuva"
+          },
+          {
+            "left": "Depois da chuva",
+            "right": "A terra produziu o seu fruto"
+          }
+        ]
+      }
+    ]
+  }
+}

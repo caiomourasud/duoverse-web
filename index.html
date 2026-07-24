@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/duoverse-web/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <!-- Cover the whole screen (incl. safe areas) so env(safe-area-inset-*) is
+       populated; the app reads them via #safe-area-probe and insets itself. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Duoverse — estude as escrituras num caminho estilo Duolingo.">
+  <!-- Browser/PWA chrome (the "status bar") matches the app's dark background. -->
+  <meta name="theme-color" content="#131F24">
+
+  <!-- iOS "Add to Home Screen" (standalone PWA): full-screen with a translucent
+       (dark) status bar; the app insets for the notch/home indicator itself.
+       The opaque lamp icon comes from the apple-touch-icons below. -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Duoverse">
+  <link rel="apple-touch-icon" sizes="192x192" href="icons/Icon-192.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="icons/Icon-512.png">
+
+  <!-- Favicon: small legacy PNG + high-res variants so the tab icon stays crisp
+       on retina (the browser picks the best size). -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/Icon-192.png"/>
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/Icon-512.png"/>
+
+  <title>Duoverse</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    /* Dark page so the iOS safe-area strips (status bar / home indicator) match
+       the app instead of showing white. */
+    html, body { margin: 0; padding: 0; background-color: #131F24; }
+
+    /* The reading view paints its OWN text selection (a tan pill) and shows its
+       own toolbar. Under the Flutter canvas there's a hidden text input, and on
+       iOS Safari it otherwise shows the browser's native blue selection and
+       long-press callout on top — a duplicate. Hide the native selection and
+       disable the callout so only the app's UI shows. Selection/copy still work;
+       only the native highlight is made invisible. */
+    ::selection { background: transparent !important; }
+    ::-moz-selection { background: transparent !important; }
+    /* Suppress the browser's native text selection (the iOS blue highlight +
+       handles) that leaks through Flutter's hidden text input on top of the
+       app's own painted (tan) selection. The reading view drives selection
+       through Flutter gestures, not the DOM, so this hides the native visual
+       without stopping selection. */
+    html, body {
+      -webkit-touch-callout: none;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    /* Flutter sets user-select:text inline on its hidden editing element, which
+       is what iOS Safari paints the native blue selection on. Override it with
+       !important so the native highlight is suppressed; the reading view's own
+       (framework-driven) selection + tan painter keep working. */
+    input, textarea, [contenteditable] {
+      -webkit-user-select: none !important;
+      user-select: none !important;
+    }
+    /* Safe-area insets (env(safe-area-inset-*)) are read from a probe created in
+       Dart at runtime; see web_safe_area_web.dart. viewport-fit=cover (above) is
+       what makes those env values non-zero. */
+  </style>
+  <script>
+    // Keep viewport-fit=cover active. Flutter's engine can rewrite the viewport
+    // meta on startup and drop viewport-fit, which collapses env(safe-area-inset-*)
+    // to 0 and leaves the OS status bar / home indicator as reserved strips the
+    // app can't colour. Re-assert it a few times so the app paints under them —
+    // that's what lets the reading screen's own background fill the status-bar
+    // strip (exact reading-theme colour).
+    (function () {
+      function setViewport() {
+        var m = document.querySelector('meta[name="viewport"]');
+        if (!m) {
+          m = document.createElement('meta');
+          m.setAttribute('name', 'viewport');
+          document.head.appendChild(m);
+        }
+        m.setAttribute(
+          'content',
+          'width=device-width, initial-scale=1.0, viewport-fit=cover'
+        );
+      }
+      setViewport();
+      [200, 600, 1500, 3000].forEach(function (t) { setTimeout(setViewport, t); });
+    })();
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

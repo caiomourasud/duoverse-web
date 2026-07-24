@@ -1,0 +1,2380 @@
+{
+  "schema_version": 1,
+  "book": "josh",
+  "chapters": {
+    "1": [
+      {
+        "id": "josh-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "El cruce del Jordán",
+        "text": "Tras la muerte de Moisés, Josué asume el liderazgo de Israel y recibe la orden de cruzar el río Jordán para tomar posesión de la tierra prometida de Canaán."
+      },
+      {
+        "id": "josh-1-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "levántate pues ahora, y pasa este Jordán, tú y todo este pueblo",
+        "blanks": [
+          "Jordán"
+        ],
+        "distractors": [
+          "Éufrates",
+          "Líbano",
+          "Egipto"
+        ]
+      },
+      {
+        "id": "josh-1-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Esfuérzate y sé valiente, porque tú repartirás a este pueblo por heredad la tierra",
+        "blanks": [
+          "valiente"
+        ],
+        "distractors": [
+          "humilde",
+          "paciente",
+          "obediente"
+        ]
+      },
+      {
+        "id": "josh-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿A quiénes habla Josué en Josué 1:12, que ya tenían heredad al lado oriental del Jordán?",
+        "options": [
+          "A los rubenitas y gaditas, y a la media tribu de Manasés",
+          "A los sacerdotes levitas y los ancianos",
+          "A las doce tribus reunidas en Silo",
+          "A los cananeos y los heteos"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "josh-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Desde dónde envió Josué a los dos espías para reconocer la tierra y Jericó?",
+        "options": [
+          "Desde Sitim",
+          "Desde Gilgal",
+          "Desde Egipto",
+          "Desde Hesbón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "entraron en casa de una mujer ramera que se llamaba {0}, y se hospedaron allí",
+        "blanks": [
+          "Rahab"
+        ],
+        "distractors": [
+          "Débora",
+          "Sara",
+          "Ester"
+        ]
+      },
+      {
+        "id": "josh-2-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Dónde escondió Rahab a los dos espías?",
+        "options": [
+          "En el terrado, entre los manojos de lino",
+          "En un pozo del patio",
+          "Bajo el muro de la ciudad",
+          "En una cueva seca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Sé que Jehová os ha dado esta {0}, porque el temor a vosotros ha caído sobre nosotros",
+        "blanks": [
+          "tierra"
+        ],
+        "distractors": [
+          "ciudad",
+          "casa",
+          "muralla"
+        ]
+      },
+      {
+        "id": "josh-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "y que salvaréis la vida a mi padre y a mi {0}",
+        "blanks": [
+          "madre"
+        ],
+        "distractors": [
+          "hermana",
+          "hija",
+          "sierva"
+        ]
+      },
+      {
+        "id": "josh-2-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "tú atarás este cordón de {0} a la ventana por la cual nos descolgaste",
+        "blanks": [
+          "grana"
+        ],
+        "distractors": [
+          "púrpura",
+          "azul",
+          "carmesí"
+        ]
+      },
+      {
+        "id": "josh-2-cur-21",
+        "type": "curiosity",
+        "after_verse": 21,
+        "title": "El cordón de grana",
+        "text": "El cordón rojo en la ventana de Rahab señaló la casa que debía ser perdonada cuando cayó Jericó. Por su fe fue salvada con su familia y, según el Nuevo Testamento, llegó a ser antepasada del rey David."
+      },
+      {
+        "id": "josh-2-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Qué informe dieron a Josué los dos espías al regresar?",
+        "options": [
+          "Jehová había entregado la tierra y sus moradores estaban acobardados",
+          "La ciudad era demasiado fuerte para tomarla",
+          "No hallaron a nadie en la tierra",
+          "El rey de Jericó había huido"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "josh-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "En el versículo 4, ¿qué distancia debía mantener el pueblo entre sí y el arca?",
+        "options": [
+          "Como de dos mil codos",
+          "Como de cien codos",
+          "Una jornada de camino",
+          "Siete pasos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-3-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Jehová hará mañana {0} entre vosotros",
+        "blanks": [
+          "maravillas"
+        ],
+        "distractors": [
+          "tormentas",
+          "plagas",
+          "batallas"
+        ]
+      },
+      {
+        "id": "josh-3-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "En el versículo 10, ¿cómo asegura Josué al pueblo que el Dios viviente está en medio de ellos?",
+        "options": [
+          "Diciendo que Dios echará a las naciones de Canaán de delante de ellos",
+          "Mostrando una columna de fuego sobre el campamento",
+          "Edificando un altar de piedras en el desierto",
+          "Repartiendo la tierra entre las doce tribus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "ahora {0} hombres de las tribus de Israel",
+        "blanks": [
+          "doce"
+        ],
+        "distractors": [
+          "siete",
+          "treinta",
+          "cuarenta"
+        ]
+      },
+      {
+        "id": "josh-3-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "y todo Israel pasó en {0}",
+        "blanks": [
+          "seco"
+        ],
+        "distractors": [
+          "lodo",
+          "arena",
+          "agua"
+        ]
+      },
+      {
+        "id": "josh-3-cur-16",
+        "type": "curiosity",
+        "after_verse": 16,
+        "title": "Un muro de agua cerca de Adán",
+        "text": "El texto sitúa el represamiento del Jordán muy lejos, junto a la ciudad de Adán, al lado de Saretán. Las aguas que descendían al mar Salado (el mar Muerto) se detuvieron por completo, abriendo el paso derecho hacia Jericó."
+      }
+    ],
+    "4": [
+      {
+        "id": "josh-4-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Cuántos hombres manda Jehová tomar del pueblo, uno de cada tribu?",
+        "options": [
+          "Doce",
+          "Siete",
+          "Cuarenta",
+          "Tres"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "estas piedras serán un {0} conmemorativo para los hijos de Israel para siempre",
+        "blanks": [
+          "monumento"
+        ],
+        "distractors": [
+          "altar",
+          "convenio",
+          "sacrificio"
+        ]
+      },
+      {
+        "id": "josh-4-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Dos montones de piedras",
+        "text": "Josué levantó doce piedras en el mismo cauce del Jordán, donde se detuvieron los sacerdotes, además de las doce que el pueblo llevó al campamento; el texto dice que \"han estado allí hasta hoy\"."
+      },
+      {
+        "id": "josh-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "pasaron hacia la llanura de {0} delante de Jehová",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Gilgal",
+          "Siquem",
+          "Bet-el"
+        ]
+      },
+      {
+        "id": "josh-4-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Jehová engrandeció a {0} ante los ojos de todo Israel",
+        "blanks": [
+          "Josué"
+        ],
+        "distractors": [
+          "Moisés",
+          "Aarón",
+          "Caleb"
+        ]
+      },
+      {
+        "id": "josh-4-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "y acamparon en {0}, al lado oriental de Jericó",
+        "blanks": [
+          "Gilgal"
+        ],
+        "distractors": [
+          "Silo",
+          "Bet-el",
+          "Siquem"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "josh-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El corazón de los reyes desfalleció",
+        "text": "Al oír que Jehová había secado el Jordán, los reyes amorreos y cananeos perdieron todo ánimo. El temor a Israel allanó el camino para la conquista antes de cualquier batalla."
+      },
+      {
+        "id": "josh-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Hazte cuchillos {0}, y vuelve a circuncidar por segunda vez a los hijos de Israel.",
+        "blanks": [
+          "afilados"
+        ],
+        "distractors": [
+          "sagrados",
+          "antiguos",
+          "pesados"
+        ]
+      },
+      {
+        "id": "josh-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Por qué tuvo Josué que circuncidar al pueblo?",
+        "options": [
+          "La generación nacida en el desierto aún no había sido circuncidada",
+          "Los egipcios se lo habían prohibido",
+          "Era un castigo por desobedecer a Moisés",
+          "Para sanar una enfermedad del campamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-5-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "por eso el nombre de aquel lugar fue llamado {0}, hasta hoy.",
+        "blanks": [
+          "Gilgal"
+        ],
+        "distractors": [
+          "Jericó",
+          "Canaán",
+          "Gabaón"
+        ]
+      },
+      {
+        "id": "josh-5-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Qué le sucedió al maná después de que Israel comió del fruto de la tierra?",
+        "options": [
+          "Cesó y nunca más tuvieron maná",
+          "Se duplicó en cantidad",
+          "Se volvió amargo y nadie lo comía",
+          "Siguió cayendo durante todo el año"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-5-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "Quita el calzado de tus pies, porque el lugar donde estás es {0}.",
+        "blanks": [
+          "santo"
+        ],
+        "distractors": [
+          "maldito",
+          "profano",
+          "desierto"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "josh-6-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Trompetas de cuerno de carnero",
+        "text": "Las siete trompetas estaban hechas de cuerno de carnero (el shofar), instrumento que Israel usaba para convocar al pueblo y anunciar momentos sagrados, no como arma de guerra."
+      },
+      {
+        "id": "josh-6-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "al séptimo día daréis siete vueltas a la ciudad",
+        "blanks": [
+          "séptimo"
+        ],
+        "distractors": [
+          "segundo",
+          "tercer",
+          "cuarto"
+        ]
+      },
+      {
+        "id": "josh-6-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Mientras el pueblo rodeaba la ciudad, ¿qué hacían los sacerdotes continuamente?",
+        "options": [
+          "Tocaban las trompetas",
+          "Gritaban contra el muro",
+          "Cantaban salmos",
+          "Arrojaban piedras al muro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-6-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "dieron vuelta a la ciudad de la misma manera siete veces",
+        "blanks": [
+          "siete"
+        ],
+        "distractors": [
+          "tres",
+          "diez",
+          "doce"
+        ]
+      },
+      {
+        "id": "josh-6-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "solamente Rahab la ramera vivirá",
+        "blanks": [
+          "Rahab"
+        ],
+        "distractors": [
+          "Débora",
+          "Sara",
+          "Ester"
+        ]
+      },
+      {
+        "id": "josh-6-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "reedifique esta ciudad de Jericó",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Hai",
+          "Gilgal",
+          "Hebrón"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "josh-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El pecado de uno, la culpa de todos",
+        "text": "Aunque solo Acán tomó del anatema, el versículo dice que 'los hijos de Israel cometieron una infidelidad.' Israel era visto como una unidad de convenio, por lo que la falta de un individuo afectó a toda la nación delante de Dios."
+      },
+      {
+        "id": "josh-7-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "los persiguieron desde la puerta hasta {0}",
+        "blanks": [
+          "Sebarim"
+        ],
+        "distractors": [
+          "Jericó",
+          "Bet-el",
+          "Bet-avén"
+        ]
+      },
+      {
+        "id": "josh-7-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Según Jehová en el versículo 11, ¿qué había hecho mal Israel?",
+        "options": [
+          "Quebrantó el convenio, tomó del anatema, hurtó y mintió",
+          "Adoró ídolos extranjeros en el campamento",
+          "Se negó a cruzar el río Jordán",
+          "Dejó de ofrecer sacrificios ante el arca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-7-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "y fue tomada la tribu de {0}",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Benjamín",
+          "Leví",
+          "Efraín"
+        ]
+      },
+      {
+        "id": "josh-7-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "un manto {0} muy bueno, y doscientos siclos de plata",
+        "blanks": [
+          "babilónico"
+        ],
+        "distractors": [
+          "egipcio",
+          "asirio",
+          "cananeo"
+        ]
+      },
+      {
+        "id": "josh-7-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "fue llamado aquel lugar el valle de {0}",
+        "blanks": [
+          "Acor"
+        ],
+        "distractors": [
+          "Jericó",
+          "Hai",
+          "Bet-el"
+        ]
+      },
+      {
+        "id": "josh-7-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "El valle de Acor",
+        "text": "El nombre 'Acor' se asocia con la idea de turbación o desgracia, eco de la pregunta de Josué a Acán: '¿Por qué nos has turbado?'. El gran montón de piedras levantado allí servía de memorial del suceso 'hasta hoy.'"
+      }
+    ],
+    "8": [
+      {
+        "id": "josh-8-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Lo que cambió respecto a Jericó",
+        "text": "En Jericó todo era anatema; en cambio, en Hai Jehová permitió que Israel tomara para sí los despojos y las bestias, aunque la ciudad y sus moradores fueron destruidos."
+      },
+      {
+        "id": "josh-8-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "y escogió Josué {0} hombres fuertes, los cuales envió de noche.",
+        "blanks": [
+          "treinta mil"
+        ],
+        "distractors": [
+          "cinco mil",
+          "doce mil",
+          "cuarenta mil"
+        ]
+      },
+      {
+        "id": "josh-8-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "y ellos se fueron a la emboscada, y se pusieron entre {0} y Hai, al occidente de Hai.",
+        "blanks": [
+          "Bet-el"
+        ],
+        "distractors": [
+          "Jericó",
+          "Gilgal",
+          "Hebrón"
+        ]
+      },
+      {
+        "id": "josh-8-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Y tomó como {0} hombres, y los puso en emboscada entre Bet-el y Hai, al occidente de la ciudad.",
+        "blanks": [
+          "cinco mil"
+        ],
+        "distractors": [
+          "treinta mil",
+          "doce mil",
+          "cuarenta mil"
+        ]
+      },
+      {
+        "id": "josh-8-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Levanta la {0} que tienes en tu mano hacia Hai, porque yo la entregaré en tus manos.",
+        "blanks": [
+          "lanza"
+        ],
+        "distractors": [
+          "espada",
+          "trompeta",
+          "arca"
+        ]
+      },
+      {
+        "id": "josh-8-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Cuántos moradores de Hai cayeron aquel día, entre hombres y mujeres?",
+        "options": [
+          "Doce mil",
+          "Treinta mil",
+          "Cinco mil",
+          "Cuarenta mil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-8-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "Entonces Josué edificó un altar a Jehová Dios de Israel en el monte {0},",
+        "blanks": [
+          "Ebal"
+        ],
+        "distractors": [
+          "Gerizim",
+          "Hermón",
+          "Sinaí"
+        ]
+      },
+      {
+        "id": "josh-8-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "¿Frente a qué dos montes se situó Israel para la lectura de la ley?",
+        "options": [
+          "Gerizim y Ebal",
+          "Sinaí y Horeb",
+          "Hermón y Carmelo",
+          "Nebo y Pisga"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "josh-9-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Mas los moradores de {0}, cuando oyeron lo que Josué había hecho a Jericó y a Hai,",
+        "blanks": [
+          "Gabaón"
+        ],
+        "distractors": [
+          "Hesbón",
+          "Basán",
+          "Astarot"
+        ]
+      },
+      {
+        "id": "josh-9-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Un disfraz minucioso",
+        "text": "Los gabaonitas montaron toda una representación: sacos y odres rotos, sandalias recosidas y pan seco y mohoso, todo para parecer que venían de muy lejos y escapar de la prohibición de Israel de hacer alianza con los pueblos vecinos."
+      },
+      {
+        "id": "josh-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿Qué motivo dieron los embajadores a Josué para haber venido de tan lejos?",
+        "options": [
+          "Por la fama de Jehová su Dios y por lo que hizo en Egipto",
+          "Para comprar trigo durante un hambre",
+          "Para llevar tributo al rey de Egipto",
+          "Para buscar refugio de una guerra entre los amorreos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "También estos nuestros vestidos y nuestras sandalias están ya gastadas a causa de lo muy largo del {0}.",
+        "blanks": [
+          "camino"
+        ],
+        "distractors": [
+          "río",
+          "desierto",
+          "valle"
+        ]
+      },
+      {
+        "id": "josh-9-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Por qué no mataron los hijos de Israel a los gabaonitas al descubrir el engaño?",
+        "options": [
+          "Porque los príncipes les habían jurado por Jehová, el Dios de Israel",
+          "Porque los gabaonitas pagaron un gran rescate",
+          "Porque Josué temía al ejército de Gabaón",
+          "Porque Jehová había mandado perdonarlos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-9-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Dejadlos vivir, mas sean {0} y aguadores para toda la congregación,",
+        "blanks": [
+          "leñadores"
+        ],
+        "distractors": [
+          "siervos",
+          "ancianos",
+          "embajadores"
+        ]
+      },
+      {
+        "id": "josh-9-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Gabaón",
+            "right": "Ciudad que engañó a Israel con astucia"
+          },
+          {
+            "left": "Gilgal",
+            "right": "Campamento de Josué donde se hizo la alianza"
+          },
+          {
+            "left": "Jericó",
+            "right": "Ciudad ya conquistada antes de Gabaón"
+          },
+          {
+            "left": "Leñadores y aguadores",
+            "right": "Servicio impuesto a los gabaonitas"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "josh-10-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "cinco reyes de los {0}, el rey de Jerusalén",
+        "blanks": [
+          "amorreos"
+        ],
+        "distractors": [
+          "filisteos",
+          "moabitas",
+          "jebuseos"
+        ]
+      },
+      {
+        "id": "josh-10-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué le dijo Jehová a Josué antes de la batalla?",
+        "options": [
+          "No tengas temor de ellos, porque yo los he entregado en tus manos",
+          "Espera un día más antes de atacar",
+          "Regresa al campamento en Gilgal",
+          "Haz la paz con los cinco reyes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-10-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Sol, detente en {0}; y tú, luna, en el valle de Ajalón",
+        "blanks": [
+          "Gabaón"
+        ],
+        "distractors": [
+          "Maceda",
+          "Hebrón",
+          "Laquis"
+        ]
+      },
+      {
+        "id": "josh-10-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "El día en que el sol se detuvo",
+        "text": "Este capítulo registra el famoso milagro en que el sol se detuvo casi un día entero, y cita el antiguo libro de Jaser, una obra hoy perdida que la Biblia menciona solo una vez más (2 Samuel)."
+      },
+      {
+        "id": "josh-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "los cinco reyes huyeron y se escondieron en una {0} en Maceda",
+        "blanks": [
+          "cueva"
+        ],
+        "distractors": [
+          "torre",
+          "casa",
+          "ciudad"
+        ]
+      },
+      {
+        "id": "josh-10-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Acercaos y poned vuestros pies sobre los {0} de estos reyes",
+        "blanks": [
+          "cuellos"
+        ],
+        "distractors": [
+          "escudos",
+          "tronos",
+          "mantos"
+        ]
+      },
+      {
+        "id": "josh-10-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "Josué los hirió y los mató, y los hizo colgar en cinco {0}",
+        "blanks": [
+          "maderos"
+        ],
+        "distractors": [
+          "muros",
+          "carros",
+          "altares"
+        ]
+      },
+      {
+        "id": "josh-10-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "y la tomó al día {0}",
+        "blanks": [
+          "siguiente"
+        ],
+        "distractors": [
+          "santo",
+          "tercero",
+          "anterior"
+        ]
+      },
+      {
+        "id": "josh-10-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "destruyeron todo lo que allí dentro tenía {0}",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "oro",
+          "ganado",
+          "agua"
+        ]
+      },
+      {
+        "id": "josh-10-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "Y los derrotó Josué desde Cades-barnea hasta {0}",
+        "blanks": [
+          "Gaza"
+        ],
+        "distractors": [
+          "Gabaón",
+          "Gilgal",
+          "Jericó"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "josh-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Jabín de Hazor",
+        "text": "Hazor era la mayor de las ciudades-estado cananeas del norte, descrita aquí como cabeza de todos estos reinos. Su rey Jabín convoca a los demás reyes para resistir a Israel."
+      },
+      {
+        "id": "josh-11-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "y al heveo al pie del {0} en la tierra de Mizpa.",
+        "blanks": [
+          "Hermón"
+        ],
+        "distractors": [
+          "Seir",
+          "Gosén",
+          "Madón"
+        ]
+      },
+      {
+        "id": "josh-11-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Mas Jehová dijo a {0}: No tengas temor de ellos",
+        "blanks": [
+          "Josué"
+        ],
+        "distractors": [
+          "Jabín",
+          "Jobab",
+          "Moisés"
+        ]
+      },
+      {
+        "id": "josh-11-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "y tomó {0} e hirió a espada a su rey",
+        "blanks": [
+          "Hazor"
+        ],
+        "distractors": [
+          "Madón",
+          "Simrón",
+          "Acsaf"
+        ]
+      },
+      {
+        "id": "josh-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "y toda la tierra de {0}, y los valles",
+        "blanks": [
+          "Gosén"
+        ],
+        "distractors": [
+          "Seir",
+          "Líbano",
+          "Hermón"
+        ]
+      },
+      {
+        "id": "josh-11-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Josué fue y destruyó a los {0} de los montes de Hebrón",
+        "blanks": [
+          "anaceos"
+        ],
+        "distractors": [
+          "heveos",
+          "amorreos",
+          "cananeos"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "josh-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Del Arnón al Hermón",
+        "text": "El capítulo enmarca el territorio conquistado entre el arroyo Arnón, al sur, y el monte Hermón, al norte, trazando de una sola vez toda la franja tomada al oriente del Jordán."
+      },
+      {
+        "id": "josh-12-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "{0} rey de los amorreos, que habitaba en Hesbón",
+        "blanks": [
+          "Sehón"
+        ],
+        "distractors": [
+          "Og",
+          "Josué",
+          "Moisés"
+        ]
+      },
+      {
+        "id": "josh-12-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "y a la media tribu de {0}",
+        "blanks": [
+          "Manasés"
+        ],
+        "distractors": [
+          "Judá",
+          "Efraín",
+          "Benjamín"
+        ]
+      },
+      {
+        "id": "josh-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Quién dirigió a Israel en la derrota de los reyes al occidente del Jordán que enumera este capítulo?",
+        "options": [
+          "Josué",
+          "Moisés",
+          "Caleb",
+          "Gedeón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-12-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué enumera esta larga lista de versículos del capítulo?",
+        "options": [
+          "Reyes derrotados por Israel",
+          "Tribus de Israel",
+          "Ciudades de refugio",
+          "Hijos de Jacob"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-12-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "el rey de Tirsa, otro; {0} reyes en total.",
+        "blanks": [
+          "treinta y un"
+        ],
+        "distractors": [
+          "veintinueve",
+          "treinta y dos",
+          "veintiuno"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "josh-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Obra inconclusa",
+        "text": "Aun después de muchas victorias, Jehová le dice a Josué que aún quedaba 'mucha tierra' por poseer. La conquista de Canaán fue gradual, y no todo el territorio fue ocupado de inmediato."
+      },
+      {
+        "id": "josh-13-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Tú eres ya viejo, de edad avanzada, y queda aún mucha {0} por conquistar.",
+        "blanks": [
+          "tierra"
+        ],
+        "distractors": [
+          "heredad",
+          "ciudad",
+          "llanura"
+        ]
+      },
+      {
+        "id": "josh-13-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "el cual había quedado del resto de los {0}; pues Moisés los derrotó y los echó.",
+        "blanks": [
+          "refaítas"
+        ],
+        "distractors": [
+          "amorreos",
+          "sidonios",
+          "cananeos"
+        ]
+      },
+      {
+        "id": "josh-13-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "¿Por qué la tribu de Leví no recibió una heredad de tierra?",
+        "options": [
+          "Porque las ofrendas encendidas a Jehová eran su heredad",
+          "Porque ya había recibido tierra al otro lado del Jordán",
+          "Porque fue castigada por desobediencia",
+          "Porque era la tribu más pequeña"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-13-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "También los hijos de Israel mataron a espada a {0}, el adivino, hijo de Beor, entre los demás que mataron.",
+        "blanks": [
+          "Balaam"
+        ],
+        "distractors": [
+          "Sehón",
+          "Og",
+          "Evi"
+        ]
+      },
+      {
+        "id": "josh-13-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "La heredad descrita en los versículos 24 al 28 fue dada a ¿cuál tribu?",
+        "options": [
+          "Gad",
+          "Rubén",
+          "Manasés",
+          "Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-13-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Jehová Dios de Israel es la {0} de ellos, como él les había dicho.",
+        "blanks": [
+          "heredad"
+        ],
+        "distractors": [
+          "bendición",
+          "morada",
+          "promesa"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "josh-14-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Cómo se repartió la heredad de las tribus en Canaán?",
+        "options": [
+          "Por sorteo",
+          "Por compra",
+          "Por la edad de los principales",
+          "Por el tamaño de los ejércitos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-14-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Caleb hijo de Jefone cenezeo, le dijo",
+        "blanks": [
+          "Caleb"
+        ],
+        "distractors": [
+          "Eleazar",
+          "Josué",
+          "Moisés"
+        ]
+      },
+      {
+        "id": "josh-14-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Cuántos años tenía Caleb al pedir su heredad a Josué?",
+        "options": [
+          "Ochenta y cinco",
+          "Cuarenta",
+          "Setenta",
+          "Cien"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-14-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "El monte de los gigantes",
+        "text": "Caleb no pidió la tierra más fácil, sino el monte donde vivían los anaceos, un pueblo de gran estatura, confiando en que con Jehová podría echarlos."
+      },
+      {
+        "id": "josh-14-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "dio a Caleb hijo de Jefone a Hebrón por heredad",
+        "blanks": [
+          "Hebrón"
+        ],
+        "distractors": [
+          "Gilgal",
+          "Canaán",
+          "Cades-barnea"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "josh-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La primera suerte",
+        "text": "Judá fue la primera tribu en recibir su heredad al oeste del Jordán. Como descendientes del cuarto hijo de Jacob, de Judá vendría el linaje real de David y, más tarde, el propio Salvador."
+      },
+      {
+        "id": "josh-15-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Y esta fue la parte que le tocó en suerte a la tribu de los hijos de {0}, conforme a sus familias",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Rubén",
+          "Efraín",
+          "Manasés"
+        ]
+      },
+      {
+        "id": "josh-15-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Los versículos 1 al 9 describen principalmente ¿qué de Judá?",
+        "options": [
+          "Los límites de su territorio",
+          "Sus batallas",
+          "Sus reyes",
+          "Sus leyes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "esto es, Quiriat-arba, del padre de Anac, la cual es {0}.",
+        "blanks": [
+          "Hebrón"
+        ],
+        "distractors": [
+          "Jerusalén",
+          "Debir",
+          "Gilgal"
+        ]
+      },
+      {
+        "id": "josh-15-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Al que ataque a Quiriat-séfer, y la tome, yo le daré a mi hija {0} por esposa.",
+        "blanks": [
+          "Acsa"
+        ],
+        "distractors": [
+          "Rahab",
+          "Miriam",
+          "Débora"
+        ]
+      },
+      {
+        "id": "josh-15-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué pidió Acsa a su padre, Caleb, además de la tierra del sur que había recibido?",
+        "options": [
+          "Fuentes de agua",
+          "Más ganado",
+          "Una casa",
+          "Oro y plata"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Y las ciudades del extremo sur de la tribu de los hijos de Judá hacia el límite de {0} fueron",
+        "blanks": [
+          "Edom"
+        ],
+        "distractors": [
+          "Egipto",
+          "Moab",
+          "Asiria"
+        ]
+      },
+      {
+        "id": "josh-15-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Cuántas ciudades, con sus aldeas, se cuentan al final del versículo 32?",
+        "options": [
+          "Veintinueve",
+          "Catorce",
+          "Dieciséis",
+          "Nueve"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿En qué tipo de terreno estaban las ciudades listadas desde el versículo 33?",
+        "options": [
+          "En las llanuras",
+          "En las montañas",
+          "En el desierto",
+          "Junto al mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "¿Cuántas ciudades se cuentan en el versículo 41?",
+        "options": [
+          "Dieciséis",
+          "Veintinueve",
+          "Once",
+          "Seis"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "¿Qué ciudad, con sus villas y aldeas, aparece en los versículos 45 y 46?",
+        "options": [
+          "Ecrón",
+          "Hebrón",
+          "Debir",
+          "Jerusalén"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-mc-51",
+        "type": "multiple_choice",
+        "after_verse": 51,
+        "question": "¿Dónde estaban las ciudades listadas desde el versículo 48?",
+        "options": [
+          "En las montañas",
+          "En las llanuras",
+          "Junto al mar Grande",
+          "En el desierto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-15-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "y Humta, y Quiriat-arba, que es {0}, y Sior",
+        "blanks": [
+          "Hebrón"
+        ],
+        "distractors": [
+          "Debir",
+          "Baala",
+          "Jerusalén"
+        ]
+      },
+      {
+        "id": "josh-15-fb-63",
+        "type": "fill_blank",
+        "after_verse": 63,
+        "verse": 63,
+        "template": "Mas a los {0} que habitaban en Jerusalén, los hijos de Judá no pudieron expulsarlos",
+        "blanks": [
+          "jebuseos"
+        ],
+        "distractors": [
+          "edomitas",
+          "filisteos",
+          "amorreos"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "josh-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Por qué José se vuelve dos tribus",
+        "text": "Como la tribu de Leví no recibió territorio (fue apartada para el servicio sacerdotal), José ocupa dos de las doce porciones por medio de Manasés y Efraín, manteniendo el número de heredades aun sin una tribu de Leví en el mapa."
+      },
+      {
+        "id": "josh-16-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "Y le tocó en suerte a los hijos de {0} desde el Jordán de Jericó",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Efraín",
+          "Manasés",
+          "Judá"
+        ]
+      },
+      {
+        "id": "josh-16-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según el versículo 4, ¿qué hijos de José recibieron su heredad?",
+        "options": [
+          "Manasés y Efraín",
+          "Rubén y Gad",
+          "Leví y Judá",
+          "Simeón y Benjamín"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-16-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Pero no expulsaron al cananeo que habitaba en {0}",
+        "blanks": [
+          "Gezer"
+        ],
+        "distractors": [
+          "Bet-el",
+          "Jericó",
+          "Atarot"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "josh-17-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Las hijas de Zelofehad",
+        "text": "Las cinco hijas de Zelofehad — Maala, Noa, Hogla, Milca y Tirsa — ya habían acudido a Moisés (Números 27) y, al no haber herederos varones, obtuvieron el derecho a heredar tierra, un caso pionero de herencia femenina en la ley israelita."
+      },
+      {
+        "id": "josh-17-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "porque era el primogénito de {0}",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Manasés",
+          "Hefer",
+          "Maquir"
+        ]
+      },
+      {
+        "id": "josh-17-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Y el límite de Manasés iba desde {0} hasta Micmetat",
+        "blanks": [
+          "Aser"
+        ],
+        "distractors": [
+          "Siquem",
+          "Efraín",
+          "Tapúa"
+        ]
+      },
+      {
+        "id": "josh-17-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "y los moradores de {0} y sus aldeas",
+        "blanks": [
+          "Dor"
+        ],
+        "distractors": [
+          "Endor",
+          "Taanac",
+          "Meguido"
+        ]
+      },
+      {
+        "id": "josh-17-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué obstáculo citan los hijos de José para no tomar la tierra de la llanura?",
+        "options": [
+          "Los cananeos tenían carros de hierro",
+          "Los montes eran infranqueables",
+          "Faltaba agua en los valles",
+          "Otra tribu ya ocupaba la tierra"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-17-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "porque tú expulsarás al {0}, aunque tenga carros de hierro",
+        "blanks": [
+          "cananeo"
+        ],
+        "distractors": [
+          "ferezeo",
+          "amorreo",
+          "gigante"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "josh-18-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Silo, el centro de Israel",
+        "text": "Silo albergó el tabernáculo de reunión y fue el santuario principal de Israel por generaciones, hasta los días de Elí y Samuel, mucho antes de Jerusalén."
+      },
+      {
+        "id": "josh-18-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "se reunió en {0}, y asentaron allí el tabernáculo",
+        "blanks": [
+          "Silo"
+        ],
+        "distractors": [
+          "Jericó",
+          "Bet-el",
+          "Gabaón"
+        ]
+      },
+      {
+        "id": "josh-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "y yo os echaré {0} aquí delante de Jehová",
+        "blanks": [
+          "suertes"
+        ],
+        "distractors": [
+          "heredades",
+          "tribus",
+          "ciudades"
+        ]
+      },
+      {
+        "id": "josh-18-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "de la tribu de los hijos de {0}, según sus familias",
+        "blanks": [
+          "Benjamín"
+        ],
+        "distractors": [
+          "Judá",
+          "Manasés",
+          "Rubén"
+        ]
+      },
+      {
+        "id": "josh-18-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "al lado del {0} al sur",
+        "blanks": [
+          "jebuseo"
+        ],
+        "distractors": [
+          "levita",
+          "amorreo",
+          "filisteo"
+        ]
+      },
+      {
+        "id": "josh-18-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué tribu recibió como heredad la lista de ciudades descrita en esta parte del capítulo?",
+        "options": [
+          "Benjamín",
+          "Judá",
+          "José",
+          "Leví"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-18-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "y Jebús, que es {0}",
+        "blanks": [
+          "Jerusalén"
+        ],
+        "distractors": [
+          "Gibeat",
+          "Zela",
+          "Quiriat"
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "josh-19-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Simeón dentro de Judá",
+        "text": "Simeón fue la única tribu cuya heredad quedó por completo dentro del territorio de otra tribu: sus ciudades estaban en medio de la heredad de Judá, cumpliendo de modo peculiar la profecía de que Simeón sería \"esparcido en Israel\"."
+      },
+      {
+        "id": "josh-19-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿A qué tribu le tocó la segunda suerte, con ciudades como Beerseba y Molada?",
+        "options": [
+          "Simeón",
+          "Judá",
+          "Zabulón",
+          "Dan"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-19-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "por cuanto la parte de los hijos de Judá era excesiva para ellos",
+        "blanks": [
+          "Judá"
+        ],
+        "distractors": [
+          "Simeón",
+          "Zabulón",
+          "Aser"
+        ]
+      },
+      {
+        "id": "josh-19-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "La tercera suerte les tocó a los hijos de Zabulón",
+        "blanks": [
+          "Zabulón"
+        ],
+        "distractors": [
+          "Simeón",
+          "Isacar",
+          "Neftalí"
+        ]
+      },
+      {
+        "id": "josh-19-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "y abarca Catat, y Naalal, y Simrón, e Idala, y Belén; doce ciudades con sus aldeas.",
+        "blanks": [
+          "Belén"
+        ],
+        "distractors": [
+          "Sidón",
+          "Hazor",
+          "Beerseba"
+        ]
+      },
+      {
+        "id": "josh-19-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "La cuarta suerte le tocó a Isacar",
+        "blanks": [
+          "Isacar"
+        ],
+        "distractors": [
+          "Zabulón",
+          "Neftalí",
+          "Simeón"
+        ]
+      },
+      {
+        "id": "josh-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Y la quinta suerte le tocó a la tribu de los hijos de Aser",
+        "blanks": [
+          "Aser"
+        ],
+        "distractors": [
+          "Dan",
+          "Neftalí",
+          "Isacar"
+        ]
+      },
+      {
+        "id": "josh-19-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "y abarca Hebrón, y Rehob, y Hamón, y Caná, hasta la gran Sidón;",
+        "blanks": [
+          "Sidón"
+        ],
+        "distractors": [
+          "Tiro",
+          "Carmelo",
+          "Jocneam"
+        ]
+      },
+      {
+        "id": "josh-19-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "La sexta suerte les tocó a los hijos de Neftalí",
+        "blanks": [
+          "Neftalí"
+        ],
+        "distractors": [
+          "Aser",
+          "Zabulón",
+          "Dan"
+        ]
+      },
+      {
+        "id": "josh-19-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Entre las ciudades fortificadas dadas a Neftalí estaba cuál de estas, antigua cabeza de un reino cananeo?",
+        "options": [
+          "Hazor",
+          "Jericó",
+          "Silo",
+          "Gabaón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-19-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "La séptima suerte le tocó a la tribu de los hijos de Dan",
+        "blanks": [
+          "Dan"
+        ],
+        "distractors": [
+          "Aser",
+          "Neftalí",
+          "Simeón"
+        ]
+      },
+      {
+        "id": "josh-19-fb-47",
+        "type": "fill_blank",
+        "after_verse": 47,
+        "verse": 47,
+        "template": "subieron los hijos de Dan y combatieron contra Lesem, y la tomaron",
+        "blanks": [
+          "Lesem"
+        ],
+        "distractors": [
+          "Jope",
+          "Ajalón",
+          "Ecrón"
+        ]
+      },
+      {
+        "id": "josh-19-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "le dieron la ciudad que él pidió, Timnat-sera, en los montes de Efraín",
+        "blanks": [
+          "Timnat-sera"
+        ],
+        "distractors": [
+          "Silo",
+          "Hebrón",
+          "Beerseba"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "josh-20-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "de las cuales yo os hablé por medio de {0},",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Josué",
+          "Aarón",
+          "Caleb"
+        ]
+      },
+      {
+        "id": "josh-20-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Refugio del vengador de la sangre",
+        "text": "Las ciudades de refugio protegían a quien mataba sin intención del \"vengador de la sangre\", el pariente encargado de vengar una muerte. Frenaban la venganza inmediata y aseguraban un juicio antes del castigo."
+      },
+      {
+        "id": "josh-20-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Por qué la ciudad no entregaría al homicida al vengador de la sangre?",
+        "options": [
+          "Porque hirió a su prójimo sin intención y sin haber tenido enemistad con él",
+          "Porque había pagado un rescate de plata",
+          "Porque era uno de los ancianos de la ciudad",
+          "Porque el sumo sacerdote lo había perdonado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-20-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Entonces señalaron a {0} en Galilea",
+        "blanks": [
+          "Cedes"
+        ],
+        "distractors": [
+          "Siquem",
+          "Hebrón",
+          "Golán"
+        ]
+      },
+      {
+        "id": "josh-20-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Beser",
+            "right": "Tribu de Rubén"
+          },
+          {
+            "left": "Ramot en Galaad",
+            "right": "Tribu de Gad"
+          },
+          {
+            "left": "Golán en Basán",
+            "right": "Tribu de Manasés"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "josh-21-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Jehová mandó por medio de {0} que nos fuesen dadas ciudades para habitar",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Aarón",
+          "Josué",
+          "Eleazar"
+        ]
+      },
+      {
+        "id": "josh-21-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Levitas sin heredad",
+        "text": "A diferencia de las demás tribus, los levitas no recibieron un territorio continuo. En su lugar se les dieron ciudades repartidas por todo Israel, para que el servicio sacerdotal y la enseñanza de la Ley alcanzaran a cada tribu."
+      },
+      {
+        "id": "josh-21-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Y así dieron por sorteo los hijos de Israel a los levitas estas ciudades con sus campos, como {0} lo había mandado por medio de Moisés.",
+        "blanks": [
+          "Jehová"
+        ],
+        "distractors": [
+          "Josué",
+          "Eleazar",
+          "Aarón"
+        ]
+      },
+      {
+        "id": "josh-21-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Les dieron Quiriat-arba, del padre de Anac, la cual es {0}, en los montes de Judá",
+        "blanks": [
+          "Hebrón"
+        ],
+        "distractors": [
+          "Siquem",
+          "Gabaón",
+          "Silo"
+        ]
+      },
+      {
+        "id": "josh-21-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Y les dieron {0} como ciudad de refugio para los homicidas, con sus campos, en los montes de Efraín",
+        "blanks": [
+          "Siquem"
+        ],
+        "distractors": [
+          "Hebrón",
+          "Geser",
+          "Gabaón"
+        ]
+      },
+      {
+        "id": "josh-21-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "¿Cuántas ciudades recibió en total el resto de las familias de los hijos de Coat?",
+        "options": [
+          "Diez",
+          "Trece",
+          "Doce",
+          "Cuatro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-21-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Y de la tribu de Neftalí, {0} en Galilea como ciudad de refugio para los homicidas",
+        "blanks": [
+          "Cedes"
+        ],
+        "distractors": [
+          "Golán",
+          "Siquem",
+          "Ramot"
+        ]
+      },
+      {
+        "id": "josh-21-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Y de la tribu de Gad, {0} de Galaad como ciudad de refugio para los homicidas",
+        "blanks": [
+          "Ramot"
+        ],
+        "distractors": [
+          "Golán",
+          "Cedes",
+          "Siquem"
+        ]
+      },
+      {
+        "id": "josh-21-fb-41",
+        "type": "fill_blank",
+        "after_verse": 41,
+        "verse": 41,
+        "template": "Y todas las ciudades de los levitas en medio de la posesión de los hijos de Israel, fueron {0} ciudades con sus campos.",
+        "blanks": [
+          "cuarenta y ocho"
+        ],
+        "distractors": [
+          "treinta y seis",
+          "cincuenta y dos",
+          "veinticuatro"
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "josh-22-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Vosotros habéis guardado todo lo que {0}, siervo de Jehová, os mandó",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Josué",
+          "Eleazar",
+          "Finees"
+        ]
+      },
+      {
+        "id": "josh-22-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Las tribus del otro lado del Jordán",
+        "text": "Rubén, Gad y la media tribu de Manasés habían recibido sus tierras al oriente del Jordán en tiempos de Moisés, pero acordaron cruzar el río y combatir hasta que las demás tribus conquistaran Canaán antes de volver a casa."
+      },
+      {
+        "id": "josh-22-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "compartid con vuestros hermanos el {0} de vuestros enemigos",
+        "blanks": [
+          "botín"
+        ],
+        "distractors": [
+          "ganado",
+          "oro",
+          "bronce"
+        ]
+      },
+      {
+        "id": "josh-22-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "edificaron allí un {0} junto al Jordán",
+        "blanks": [
+          "altar"
+        ],
+        "distractors": [
+          "templo",
+          "tabernáculo",
+          "pozo"
+        ]
+      },
+      {
+        "id": "josh-22-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Por qué el resto de Israel creyó que las tribus del oriente habían transgredido?",
+        "options": [
+          "Habían edificado un altar, al parecer para rebelarse contra Jehová",
+          "Habían adorado a Baal",
+          "Se negaron a pelear en Jericó",
+          "Habían robado el botín"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-22-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "¿No cometió {0} hijo de Zera transgresión en el anatema",
+        "blanks": [
+          "Acán"
+        ],
+        "distractors": [
+          "Finees",
+          "Eleazar",
+          "Manasés"
+        ]
+      },
+      {
+        "id": "josh-22-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Jehová ha puesto por límite el {0} entre nosotros y vosotros",
+        "blanks": [
+          "Jordán"
+        ],
+        "distractors": [
+          "mar",
+          "monte",
+          "desierto"
+        ]
+      },
+      {
+        "id": "josh-22-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Finees",
+            "right": "Sacerdote que dirigió la delegación"
+          },
+          {
+            "left": "El altar del Jordán",
+            "right": "Un testimonio, no para holocausto"
+          },
+          {
+            "left": "Acán",
+            "right": "Ejemplo de transgresión recordado"
+          },
+          {
+            "left": "Ed",
+            "right": "Nombre dado al altar"
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "josh-23-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El sucesor de Moisés",
+        "text": "Josué condujo a Israel a la Tierra Prometida tras la muerte de Moisés; este capítulo registra uno de sus discursos finales, pronunciado cuando ya era 'viejo y entrado en años'."
+      },
+      {
+        "id": "josh-23-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según el versículo 3, ¿quién había peleado por Israel contra las naciones?",
+        "options": [
+          "Jehová su Dios",
+          "Josué solo",
+          "Los reyes de Canaán",
+          "Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-23-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "todo lo que está escrito en el libro de la ley de {0}",
+        "blanks": [
+          "Moisés"
+        ],
+        "distractors": [
+          "Abraham",
+          "Aarón",
+          "Josué"
+        ]
+      },
+      {
+        "id": "josh-23-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "y por azote para vuestros costados, y por {0} para vuestros ojos",
+        "blanks": [
+          "espinas"
+        ],
+        "distractors": [
+          "cenizas",
+          "tinieblas",
+          "lágrimas"
+        ]
+      },
+      {
+        "id": "josh-23-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "Guardar la ley de Moisés",
+            "right": "No apartarse ni a diestra ni a siniestra"
+          },
+          {
+            "left": "Aferrarse a Jehová",
+            "right": "No servir a los dioses de las naciones"
+          },
+          {
+            "left": "Traspasar el convenio",
+            "right": "El furor de Jehová se enciende"
+          }
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "josh-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Los padres idólatras de Abraham",
+        "text": "El versículo 2 revela que Taré, padre de Abraham, y los antepasados de Israel \"servían a dioses extraños\" antes del llamamiento divino, recordando que la fe del pueblo comenzó cuando Dios apartó a Abraham de una familia idólatra."
+      },
+      {
+        "id": "josh-24-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Y a Esaú le di en posesión el monte {0}",
+        "blanks": [
+          "Seir"
+        ],
+        "distractors": [
+          "Canaán",
+          "Efraín",
+          "Gaas"
+        ]
+      },
+      {
+        "id": "josh-24-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "y los egipcios persiguieron a vuestros padres hasta el mar {0} con carros de guerra y caballería",
+        "blanks": [
+          "Rojo"
+        ],
+        "distractors": [
+          "Grande",
+          "Salado",
+          "Muerto"
+        ]
+      },
+      {
+        "id": "josh-24-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "En el versículo 9, ¿qué rey de los moabitas envió a llamar a Balaam para maldecir a Israel?",
+        "options": [
+          "Balac",
+          "Zipor",
+          "Beor",
+          "Eleazar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "josh-24-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "pero yo y mi casa serviremos a {0}",
+        "blanks": [
+          "Jehová"
+        ],
+        "distractors": [
+          "Abraham",
+          "Moisés",
+          "Josué"
+        ]
+      },
+      {
+        "id": "josh-24-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "No podréis servir a Jehová, porque él es Dios santo, y Dios {0}",
+        "blanks": [
+          "celoso"
+        ],
+        "distractors": [
+          "extraño",
+          "antiguo",
+          "lejano"
+        ]
+      },
+      {
+        "id": "josh-24-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Entonces Josué hizo convenio con el pueblo aquel mismo día, y les dio estatutos y decretos en {0}",
+        "blanks": [
+          "Siquem"
+        ],
+        "distractors": [
+          "Jericó",
+          "Egipto",
+          "Canaán"
+        ]
+      },
+      {
+        "id": "josh-24-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "y tomando una gran {0}, la colocó allí debajo de una encina",
+        "blanks": [
+          "piedra"
+        ],
+        "distractors": [
+          "espada",
+          "vara",
+          "casa"
+        ]
+      },
+      {
+        "id": "josh-24-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Y enterraron en Siquem los huesos de {0} que los hijos de Israel habían traído de Egipto",
+        "blanks": [
+          "José"
+        ],
+        "distractors": [
+          "Jacob",
+          "Hamor",
+          "Eleazar"
+        ]
+      }
+    ]
+  }
+}

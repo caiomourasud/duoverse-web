@@ -1,0 +1,88 @@
+{
+ "schema_version": 1,
+ "book": "obad",
+ "chapters": {
+  "1": [
+   {
+    "id": "obad-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O livro mais curto do Antigo Testamento",
+    "text": "Obadias tem apenas 21 versículos — o livro mais breve de todo o Antigo Testamento. O seu único capítulo é uma profecia contra Edom, a nação descendente de Esaú, irmão de Jacó."
+   },
+   {
+    "id": "obad-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Segundo Obadias 1:3, o que enganou Edom?",
+    "options": [
+     "A soberba do seu coração",
+     "Um falso profeta",
+     "Um tratado estrangeiro",
+     "Uma fome na terra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "obad-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "e serás {0} para sempre",
+    "blanks": [
+     "exterminado"
+    ],
+    "distractors": [
+     "restaurado",
+     "exaltado",
+     "perdoado"
+    ]
+   },
+   {
+    "id": "obad-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Obadias 1:11, o que Edom fez enquanto estranhos levavam cativo o exército de Jerusalém?",
+    "options": [
+     "Defendeu a cidade",
+     "Estava também como um deles",
+     "Fugiu para os montes",
+     "Advertiu o povo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "obad-1-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Como Obadias 1:21 diz que o livro termina para o monte Sião e Esaú?",
+    "options": [
+     "Edom triunfa sobre Sião",
+     "Ambos são destruídos juntos",
+     "Salvadores julgam a montanha de Esaú, e o reino será do Senhor",
+     "Os dois fazem uma paz duradoura"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "obad-1-mp-21",
+    "type": "match_pairs",
+    "after_verse": 21,
+    "pairs": [
+     {
+      "left": "Edom",
+      "right": "Descendente de Esaú"
+     },
+     {
+      "left": "Monte Sião",
+      "right": "Livramento e santidade"
+     },
+     {
+      "left": "O dia do Senhor",
+      "right": "Como tu fizeste, assim se fará contigo"
+     }
+    ]
+   }
+  ]
+ }
+}

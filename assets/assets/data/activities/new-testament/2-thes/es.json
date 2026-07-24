@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "book": "2-thes",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-thes-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Quiénes son los remitentes de esta carta a la iglesia de los tesalonicenses?",
+        "options": [
+          "Pablo, Silvano y Timoteo",
+          "Pedro y Juan",
+          "Jacobo y Judas",
+          "Pablo y Bernabé"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Gloria en las persecuciones",
+        "text": "Pablo dice que se gloría de esta iglesia entre las demás congregaciones por su paciencia en la persecución. Su fidelidad bajo presión se volvió un ejemplo que él compartía con los demás santos."
+      },
+      {
+        "id": "2-thes-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "por cuanto vuestra fe va {0} mucho",
+        "blanks": [
+          "creciendo"
+        ],
+        "distractors": [
+          "padeciendo",
+          "reposando",
+          "obedeciendo"
+        ]
+      },
+      {
+        "id": "2-thes-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "cuando se manifieste el Señor Jesús desde el {0} con sus poderosos ángeles",
+        "blanks": [
+          "cielo"
+        ],
+        "distractors": [
+          "fuego",
+          "reino",
+          "templo"
+        ]
+      },
+      {
+        "id": "2-thes-1-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "A los que os atribulan",
+            "right": "tribulación en pago"
+          },
+          {
+            "left": "A vosotros, que sois atribulados",
+            "right": "reposo con nosotros"
+          },
+          {
+            "left": "El Señor Jesús manifestado del cielo",
+            "right": "en llama de fuego"
+          },
+          {
+            "left": "Los que no obedecen el evangelio",
+            "right": "retribución"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "2-thes-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Una falsa alarma",
+        "text": "Algunos santos habían sido conturbados por rumores — quizá una carta falsa atribuida a Pablo — de que el día del Señor ya estaba cerca. Pablo escribe para calmarlos y corregir el engaño."
+      },
+      {
+        "id": "2-thes-2-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué les recuerda Pablo a los santos en el versículo 5?",
+        "options": [
+          "Que ya les decía esto cuando estaba con ellos",
+          "Que debían ayunar antes de la venida",
+          "Que nunca les había enseñado esto",
+          "Que otro apóstol pronto los visitaría"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "se manifieste el hombre de pecado, el hijo de {0}",
+        "blanks": [
+          "perdición"
+        ],
+        "distractors": [
+          "iniquidad",
+          "mentira",
+          "injusticia"
+        ]
+      },
+      {
+        "id": "2-thes-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "al que el Señor matará con el {0} de su boca",
+        "blanks": [
+          "espíritu"
+        ],
+        "distractors": [
+          "poder",
+          "resplandor",
+          "engaño"
+        ]
+      },
+      {
+        "id": "2-thes-2-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Antes del día de Cristo vendrá",
+            "right": "la apostasía"
+          },
+          {
+            "left": "El Señor matará al inicuo con",
+            "right": "el espíritu de su boca"
+          },
+          {
+            "left": "Los santos deben permanecer",
+            "right": "firmes"
+          },
+          {
+            "left": "Dios escogió a los santos para",
+            "right": "la salvación"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-thes-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Orad por nosotros",
+        "text": "Aun siendo el autor de la carta, Pablo pide a los santos que oren por él, para que la palabra del Señor 'avance' y sea glorificada. Veía la oración mutua como esencial para el avance del evangelio."
+      },
+      {
+        "id": "2-thes-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Según Pablo, ¿de qué necesitaban ser librados los santos?",
+        "options": [
+          "De hombres perversos y malos",
+          "De la ley de Moisés",
+          "De la pobreza material",
+          "De los cobradores de impuestos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Pero fiel es el Señor, que os fortalecerá y guardará del {0}.",
+        "blanks": [
+          "mal"
+        ],
+        "distractors": [
+          "pan",
+          "Señor",
+          "trabajo"
+        ]
+      },
+      {
+        "id": "2-thes-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Pablo trabajaba",
+            "right": "de noche y de día"
+          },
+          {
+            "left": "Comió el pan de nadie",
+            "right": "de balde"
+          },
+          {
+            "left": "No quería ser",
+            "right": "gravoso a vosotros"
+          },
+          {
+            "left": "Se dio a sí mismo como",
+            "right": "ejemplo"
+          }
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "Que si alguno no quiere {0}, que tampoco coma.",
+        "blanks": [
+          "trabajar"
+        ],
+        "distractors": [
+          "orar",
+          "comer",
+          "obedecer"
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Pero vosotros, hermanos, no os canséis de hacer el {0}.",
+        "blanks": [
+          "bien"
+        ],
+        "distractors": [
+          "pan",
+          "mal",
+          "trabajo"
+        ]
+      },
+      {
+        "id": "2-thes-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Cómo cierra Pablo la epístola para autenticarla?",
+        "options": [
+          "Con su salutación de su propia mano",
+          "Con el sello de un apóstol",
+          "Pidiendo silencio a los santos",
+          "Citando la ley de Moisés"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

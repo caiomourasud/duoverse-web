@@ -1,0 +1,200 @@
+{
+ "schema_version": 1,
+ "book": "nahum",
+ "chapters": {
+  "1": [
+   {
+    "id": "nahum-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "El consuelo de Nahúm",
+    "text": "El nombre Nahúm significa 'consuelo' o 'consolación.' Aunque su libro truena juicio contra Nínive, su mensaje era un consuelo para Judá, oprimida por el cruel imperio asirio."
+   },
+   {
+    "id": "nahum-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Según Nahúm 1:5, ¿qué sucede ante la presencia del Señor?",
+    "options": [
+     "Los montes tiemblan y los collados se derriten",
+     "El mar se divide en dos",
+     "Las estrellas caen del cielo",
+     "El sol se detiene"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "serán consumidos como {0} completamente seco",
+    "blanks": [
+     "rastrojo"
+    ],
+    "distractors": [
+     "madera",
+     "follaje",
+     "heno"
+    ]
+   },
+   {
+    "id": "nahum-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "En Nahúm 1:15, ¿de quién son los pies vistos sobre los montes trayendo buenas nuevas?",
+    "options": [
+     "Del que trae buenas nuevas, del que anuncia la paz",
+     "Del rey de Asiria",
+     "Del ejército destructor",
+     "De los sacerdotes de Nínive"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-1-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "Bueno en el día de la angustia",
+    "text": "En medio de la tormenta del juicio, el versículo 7 es un oasis sereno: 'Jehová es bueno, fortaleza en el día de la angustia, y conoce a los que en él confían' — la misericordia puesta junto a la justicia."
+   }
+  ],
+  "2": [
+   {
+    "id": "nahum-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "En Nahúm 2:4, ¿cómo se describen los carros que se precipitan por las calles?",
+    "options": [
+     "Correrán como relámpagos",
+     "Ruedan en silencio",
+     "Se detienen inmóviles de miedo",
+     "Vuelven a las puertas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "Saquead plata, saquead {0}",
+    "blanks": [
+     "oro"
+    ],
+    "distractors": [
+     "bronce",
+     "hierro",
+     "trigo"
+    ]
+   },
+   {
+    "id": "nahum-2-mp-9",
+    "type": "match_pairs",
+    "after_verse": 9,
+    "pairs": [
+     {
+      "left": "El palacio",
+      "right": "será arrasado"
+     },
+     {
+      "left": "Las compuertas de los ríos",
+      "right": "se abrirán"
+     },
+     {
+      "left": "La plata y el oro",
+      "right": "serán saqueados"
+     }
+    ]
+   },
+   {
+    "id": "nahum-2-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "En Nahúm 2:13, Jehová de los ejércitos declara estar contra Nínive y quemará ¿qué reduciéndolo a humo?",
+    "options": [
+     "Tus carros",
+     "Tus templos",
+     "Tus naves",
+     "Tus campos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-2-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "La guarida de los leones",
+    "text": "El versículo 11 pregunta: '¿Dónde está la guarida de los leones?' Los reyes asirios adornaban sus palacios con cacerías de leones y se enorgullecían de su ferocidad — por eso la imagen de Nahúm de una guarida vacía era una burla afilada."
+   }
+  ],
+  "3": [
+   {
+    "id": "nahum-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "La ciudad sanguinaria",
+    "text": "Nahúm 3:1 comienza con '¡Ay de la ciudad sanguinaria!' Los propios reyes de Nínive se jactaban en inscripciones de desollar cautivos y apilar cabezas — una fama de terror que el profeta vuelve contra ella."
+   },
+   {
+    "id": "nahum-3-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "En Nahúm 3:4, ¿con qué se compara a Nínive por sus seducciones de las naciones?",
+    "options": [
+     "Con una ramera y maestra de brujerías",
+     "Con una pastora mansa",
+     "Con una reina sabia",
+     "Con una novia fiel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Según Nahúm 3:7, ¿qué dirán y harán todos los que vean a Nínive asolada?",
+    "options": [
+     "Se apartarán de ella y dirán que ha sido asolada",
+     "Reconstruirán sus muros",
+     "Llorarán junto a sus ríos",
+     "Coronarán a un nuevo rey"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "En Nahúm 3:13, ¿en qué dice el profeta que se ha convertido el pueblo en medio de la ciudad?",
+    "options": [
+     "En mujeres",
+     "En reyes",
+     "En sacerdotes",
+     "En gigantes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "¿Cómo describe Nahúm 3:19 la herida de Nínive?",
+    "options": [
+     "No hay curación para ella; es grave",
+     "Se venda con facilidad",
+     "Sana en un día",
+     "No deja cicatriz"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nahum-3-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "¿Mejor que Tebas?",
+    "text": "Nahúm 3:8 pregunta si Nínive es 'mejor que Tebas' — la gran ciudad de Egipto que los propios asirios habían saqueado en el 663 a.C. El profeta advierte al destructor de que le ha llegado su turno."
+   }
+  ]
+ }
+}

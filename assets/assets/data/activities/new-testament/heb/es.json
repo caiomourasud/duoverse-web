@@ -1,0 +1,1408 @@
+{
+  "schema_version": 1,
+  "book": "heb",
+  "chapters": {
+    "1": [
+      {
+        "id": "heb-1-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Por quien hizo el universo",
+        "text": "Hebreos enseña que el Padre hizo el universo por medio del Hijo, a quien constituyó heredero de todo — un tema central de la epístola sobre la exaltación de Cristo."
+      },
+      {
+        "id": "heb-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Según el versículo 1, ¿de qué manera habló Dios en otro tiempo a los padres?",
+        "options": [
+          "Por medio de los profetas",
+          "Por medio de los ángeles",
+          "Por el Hijo",
+          "Por la ley de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "quien, siendo el resplandor de su gloria, y la imagen misma de su {0}",
+        "blanks": [
+          "sustancia"
+        ],
+        "distractors": [
+          "gloria",
+          "majestad",
+          "poder"
+        ]
+      },
+      {
+        "id": "heb-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "El resplandor de su gloria",
+            "right": "El Hijo (v. 3)"
+          },
+          {
+            "left": "Espíritus y llama de fuego",
+            "right": "Los ángeles (v. 7)"
+          },
+          {
+            "left": "Tu trono, oh Dios, es por los siglos de los siglos",
+            "right": "Dicho al Hijo (v. 8)"
+          },
+          {
+            "left": "Habló a los padres en otro tiempo",
+            "right": "Los profetas (v. 1)"
+          }
+        ]
+      },
+      {
+        "id": "heb-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "¿No son todos espíritus {0}, enviados para servir a favor de los que serán herederos de la salvación?",
+        "blanks": [
+          "ministrantes"
+        ],
+        "distractors": [
+          "herederos",
+          "excelentes",
+          "primogénitos"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "heb-2-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Por quién comenzó a ser publicada la 'salvación tan grande'?",
+        "options": [
+          "Por los ángeles",
+          "Por el Señor",
+          "Por Abraham",
+          "Por los sacerdotes"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "heb-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "todas las cosas sujetaste bajo sus {0}.",
+        "blanks": [
+          "pies"
+        ],
+        "distractors": [
+          "ángeles",
+          "cielos",
+          "manos"
+        ]
+      },
+      {
+        "id": "heb-2-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Gustar la muerte por todos",
+        "text": "El capítulo enseña que Jesús, hecho 'un poco menor que los ángeles' por el padecimiento de la muerte, fue coronado de gloria para que por la gracia de Dios gustase la muerte por todos."
+      },
+      {
+        "id": "heb-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Cómo llama Jesús a los que son santificados?",
+        "options": [
+          "Siervos",
+          "Extraños",
+          "Hermanos",
+          "Ángeles"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "heb-2-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Participar de carne y sangre",
+        "text": "Por cuanto los hijos participaron de carne y sangre, Cristo también participó de lo mismo, para destruir mediante la muerte al que tenía el imperio de la muerte, a saber, al diablo."
+      },
+      {
+        "id": "heb-2-mp-16",
+        "type": "match_pairs",
+        "after_verse": 16,
+        "pairs": [
+          {
+            "left": "No auxilió a",
+            "right": "los ángeles"
+          },
+          {
+            "left": "Auxilió a",
+            "right": "la descendencia de Abraham"
+          },
+          {
+            "left": "Destruyó al que tenía",
+            "right": "el imperio de la muerte"
+          },
+          {
+            "left": "Libra a los que temen",
+            "right": "la muerte"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "heb-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Apóstol y Sumo Sacerdote",
+        "text": "Este es el único versículo del Nuevo Testamento que llama directamente a Jesús \"Apóstol\" (del griego, \"el que es enviado\"), uniéndolo al papel de Sumo Sacerdote que será el tema central de Hebreos."
+      },
+      {
+        "id": "heb-3-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "title": "Mayor gloria",
+        "question": "Según el versículo 3, ¿quién es estimado digno de mayor gloria?",
+        "options": [
+          "Cristo, más que Moisés",
+          "Moisés, más que Cristo",
+          "La casa, más que quien la edificó",
+          "Los profetas, más que los ángeles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "title": "Estimado digno",
+        "verse": 3,
+        "template": "es estimado {0} este",
+        "blanks": [
+          "digno"
+        ],
+        "distractors": [
+          "indigno",
+          "temeroso",
+          "siervo"
+        ]
+      },
+      {
+        "id": "heb-3-mp-6",
+        "type": "match_pairs",
+        "after_verse": 6,
+        "title": "Siervo e Hijo",
+        "instructions": "Relaciona a cada persona con su papel en la casa de Dios.",
+        "pairs": [
+          {
+            "left": "Moisés",
+            "right": "fiel como siervo"
+          },
+          {
+            "left": "Cristo",
+            "right": "Hijo sobre su propia casa"
+          },
+          {
+            "left": "La casa",
+            "right": "somos nosotros"
+          },
+          {
+            "left": "Dios",
+            "right": "hizo todas las cosas"
+          }
+        ]
+      },
+      {
+        "id": "heb-3-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "La provocación",
+        "text": "\"La provocación\" y \"la tentación en el desierto\" aluden a Masah y Meriba (Éxodo 17), donde Israel dudó de Dios por falta de agua; el autor cita el Salmo 95 para advertir a los lectores."
+      },
+      {
+        "id": "heb-3-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "title": "Cuarenta años",
+        "question": "¿Por cuántos años vieron los padres las obras de Dios en el desierto?",
+        "options": [
+          "Cuarenta años",
+          "Siete años",
+          "Cuatrocientos años",
+          "Doce años"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "title": "El reposo de Dios",
+        "verse": 11,
+        "template": "No entrarán en mi {0}",
+        "blanks": [
+          "reposo"
+        ],
+        "distractors": [
+          "desierto",
+          "camino",
+          "testimonio"
+        ]
+      },
+      {
+        "id": "heb-3-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "title": "Corazón malo",
+        "question": "¿De qué deben guardarse los hermanos, según el versículo 12?",
+        "options": [
+          "De un corazón malo de incredulidad",
+          "De trabajar en el día de reposo",
+          "De comer carnes impuras",
+          "De viajar por el desierto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-3-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "title": "Por qué no entraron",
+        "verse": 19,
+        "template": "Y vemos que no pudieron entrar a causa de su {0}",
+        "blanks": [
+          "incredulidad"
+        ],
+        "distractors": [
+          "humildad",
+          "obediencia",
+          "esperanza"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "heb-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Fe que aprovecha",
+        "body": "El evangelio fue predicado tanto a Israel en el desierto como a los cristianos. La diferencia, dice el autor, es que en ellos la predicación no fue acompañada de fe."
+      },
+      {
+        "id": "heb-4-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "prompt": "Según el versículo 3, ¿quiénes entran en el reposo?",
+        "options": [
+          "Los que hemos creído",
+          "Los más fuertes",
+          "Los sacerdotes",
+          "Los primeros en oír"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Si oyereis su voz hoy, no endurezcáis vuestros {0}.",
+        "blanks": [
+          "corazones"
+        ],
+        "distractors": [
+          "reposos",
+          "espíritus",
+          "caminos"
+        ]
+      },
+      {
+        "id": "heb-4-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Porque la palabra de Dios es viva y eficaz, y más cortante que toda {0} de dos filos",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "lanza",
+          "piedra",
+          "vara"
+        ]
+      },
+      {
+        "id": "heb-4-mp-15",
+        "type": "match_pairs",
+        "after_verse": 15,
+        "prompt": "Relaciona cada afirmación sobre el gran sumo sacerdote:",
+        "pairs": [
+          {
+            "left": "Quién es",
+            "right": "Jesús el Hijo de Dios"
+          },
+          {
+            "left": "Puede compadecerse",
+            "right": "de nuestras flaquezas"
+          },
+          {
+            "left": "Fue tentado en todo",
+            "right": "pero sin pecado"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "heb-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El papel del sumo sacerdote",
+        "body": "Bajo la ley de Moisés, el sumo sacerdote representaba al pueblo ante Dios, presentando ofrendas y sacrificios por los pecados."
+      },
+      {
+        "id": "heb-5-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "prompt": "Según el versículo 4, ¿quién puede tomar para sí la honra del sacerdocio?",
+        "options": [
+          "Solo el que es llamado por Dios, como lo fue Aarón",
+          "Cualquier hombre que se crea digno",
+          "El mayor de la tribu",
+          "El que ofrece más sacrificios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "prompt": "Completa el versículo:",
+        "template": "Tú eres sacerdote para siempre, según el orden de {0}.",
+        "blanks": [
+          "Melquisedec"
+        ],
+        "distractors": [
+          "Aarón",
+          "Leví",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "heb-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "prompt": "Aunque era Hijo, ¿qué aprendió Cristo por lo que padeció?",
+        "options": [
+          "La obediencia",
+          "La sabiduría",
+          "La paciencia",
+          "El temor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-5-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Autor de eterna salvación",
+        "body": "Habiendo sido perfeccionado, Cristo llegó a ser la fuente de la salvación eterna para todos los que le obedecen."
+      },
+      {
+        "id": "heb-5-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "prompt": "Relaciona cada término con su significado en el capítulo:",
+        "pairs": [
+          [
+            "Leche",
+            "Para quien es niño en la palabra de la justicia"
+          ],
+          [
+            "Alimento sólido",
+            "Para los que han alcanzado madurez"
+          ],
+          [
+            "Lentos para oír",
+            "Los lectores reprendidos por Pablo"
+          ]
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "heb-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Los fundamentos",
+        "text": "Pablo enumera los primeros principios: arrepentimiento, fe, bautismos, imposición de manos, resurrección y juicio eterno — la base sobre la cual edificar hacia la perfección."
+      },
+      {
+        "id": "heb-6-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según los versículos 4–5, ¿de qué fueron hechos partícipes los iluminados?",
+        "options": [
+          "Del Espíritu Santo",
+          "Del trono de David",
+          "De la herencia de la tierra",
+          "Del sacerdocio levítico"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-6-fb-1",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 1,
+        "template": "dejando el comienzo de la doctrina de Cristo, vamos adelante a la {0}",
+        "blanks": [
+          "perfección"
+        ],
+        "distractors": [
+          "promesa",
+          "resurrección",
+          "salvación"
+        ]
+      },
+      {
+        "id": "heb-6-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "title": "La tierra y su fin",
+        "pairs": [
+          [
+            "Tierra que produce hierba provechosa",
+            "Recibe bendición de Dios"
+          ],
+          [
+            "Tierra que produce espinos y abrojos",
+            "Es reprobada y próxima a ser maldecida"
+          ],
+          [
+            "La lluvia que cae sobre la tierra",
+            "Es bebida por ella"
+          ]
+        ]
+      },
+      {
+        "id": "heb-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "muestre la misma diligencia hasta el fin, para el pleno cumplimiento de la {0}",
+        "blanks": [
+          "esperanza"
+        ],
+        "distractors": [
+          "fe",
+          "promesa",
+          "salvación"
+        ]
+      },
+      {
+        "id": "heb-6-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "El juramento de Dios",
+        "text": "Como no podía jurar por otro mayor, Dios juró por sí mismo al hacer la promesa a Abraham, garantizando su inmutabilidad."
+      },
+      {
+        "id": "heb-6-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Por quién juró Dios al hacer la promesa a Abraham?",
+        "options": [
+          "Por sí mismo",
+          "Por los cielos",
+          "Por su trono",
+          "Por Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-6-fb-19",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 19,
+        "template": "la cual tenemos como segura y firme {0} del alma",
+        "blanks": [
+          "ancla"
+        ],
+        "distractors": [
+          "consuelo",
+          "promesa",
+          "refugio"
+        ]
+      },
+      {
+        "id": "heb-6-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Según el versículo 20, Jesús fue hecho sumo sacerdote según el orden de quién?",
+        "options": [
+          "Melquisedec",
+          "Aarón",
+          "Leví",
+          "Abraham"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "heb-7-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Rey de justicia y de paz",
+        "body": "El nombre \"Melquisedec\" significa \"Rey de justicia\", y \"Salem\" (ligado a shalom) significa \"paz\". Por eso se le llama también \"Rey de paz\"—títulos que apuntan a Cristo."
+      },
+      {
+        "id": "heb-7-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "title": "Quién es quién",
+        "prompt": "Relaciona cada figura con su descripción en este capítulo.",
+        "pairs": [
+          {
+            "left": "Melquisedec",
+            "right": "Rey de Salem y sacerdote del Dios Altísimo"
+          },
+          {
+            "left": "Abraham",
+            "right": "Dio los diezmos de todo y tenía las promesas"
+          },
+          {
+            "left": "Leví",
+            "right": "Tribu cuyos hijos reciben los diezmos según la ley"
+          }
+        ]
+      },
+      {
+        "id": "heb-7-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "title": "Sin contradicción",
+        "verse": 7,
+        "template": "Y, sin contradicción alguna, el que es {0} es bendecido por el que es mayor.",
+        "blanks": [
+          "menor"
+        ],
+        "distractors": [
+          "sacerdote",
+          "patriarca",
+          "extranjero"
+        ]
+      },
+      {
+        "id": "heb-7-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "title": "Leví y el diezmo",
+        "prompt": "¿Cómo argumenta el autor que el propio Leví pagó diezmos?",
+        "options": [
+          "En Abraham, pues aún estaba en los lomos de su padre cuando Melquisedec le salió al encuentro",
+          "Porque Leví encontró a Melquisedec en persona",
+          "Porque la ley le obligaba a pagar a Melquisedec",
+          "Porque Leví era descendiente de Melquisedec"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "title": "¿De qué tribu?",
+        "prompt": "Según el versículo 14, ¿de qué tribu nació nuestro Señor?",
+        "options": [
+          "Judá",
+          "Leví",
+          "Aarón",
+          "Benjamín"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "title": "Sacerdote para siempre",
+        "verse": 17,
+        "template": "Tú eres sacerdote para siempre, según el {0} de Melquisedec.",
+        "blanks": [
+          "orden"
+        ],
+        "distractors": [
+          "ley",
+          "tribu",
+          "promesa"
+        ]
+      },
+      {
+        "id": "heb-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Una mejor esperanza",
+        "body": "El argumento es que la ley de Moisés \"nada perfeccionó\"; preparaba el camino para algo mayor. En su lugar se introduce \"una mejor esperanza\", por la cual los fieles se acercan a Dios."
+      },
+      {
+        "id": "heb-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "title": "Fiador de un convenio mejor",
+        "prompt": "¿Qué distingue el sacerdocio de Jesús del de los antiguos sacerdotes, según los versículos 20-22?",
+        "options": [
+          "Fue hecho con juramento, haciéndolo fiador de un convenio mejor",
+          "Fue transmitido por genealogía levítica",
+          "Estaba limitado a ofrendas anuales en el altar",
+          "Fue concedido por la tribu de Aarón"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-7-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "title": "Tal sumo sacerdote",
+        "verse": 26,
+        "template": "Porque tal sumo sacerdote nos convenía: santo, sin mancha, {0}, apartado de los pecadores",
+        "blanks": [
+          "limpio"
+        ],
+        "distractors": [
+          "levítico",
+          "mortal",
+          "terrenal"
+        ]
+      },
+      {
+        "id": "heb-7-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Una sola vez",
+        "body": "A diferencia de los sumos sacerdotes que ofrecían sacrificios cada día, Cristo \"lo hizo una sola vez y para siempre, ofreciéndose a sí mismo\"—un único sacrificio suficiente para siempre."
+      }
+    ],
+    "8": [
+      {
+        "id": "heb-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A la diestra del trono",
+        "body": "Estar sentado \"a la diestra del trono de la Majestad\" indica honra suprema y autoridad; el sacerdote levítico permanecía de pie para servir, pero Cristo está sentado, señal de una obra consumada."
+      },
+      {
+        "id": "heb-8-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "prompt": "Completa el versículo:",
+        "template": "ministro del santuario y de aquel verdadero {0} que levantó el Señor, y no el hombre.",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "sacrificio",
+          "convenio",
+          "trono"
+        ]
+      },
+      {
+        "id": "heb-8-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "prompt": "¿Para qué es constituido todo sumo sacerdote?",
+        "options": [
+          "Para presentar ofrendas y sacrificios",
+          "Para juzgar a las naciones",
+          "Para escribir la ley en tablas",
+          "Para edificar el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "prompt": "Completa el versículo:",
+        "template": "él es el mediador de un mejor {0}, el cual ha sido establecido sobre mejores promesas.",
+        "blanks": [
+          "convenio"
+        ],
+        "distractors": [
+          "sacerdote",
+          "tabernáculo",
+          "sacrificio"
+        ]
+      },
+      {
+        "id": "heb-8-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "prompt": "¿Con quién establecerá el Señor el nuevo convenio?",
+        "options": [
+          "Con la casa de Israel y la casa de Judá",
+          "Solo con los sacerdotes",
+          "Con las naciones gentiles",
+          "Con la casa de David"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-8-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "La ley en el corazón",
+        "body": "En el nuevo convenio Dios promete poner sus leyes en la mente y escribirlas en el corazón, y no solo en tablas de piedra; la obediencia nace desde dentro, no de reglas externas."
+      },
+      {
+        "id": "heb-8-mp-13",
+        "type": "match_pairs",
+        "after_verse": 13,
+        "prompt": "Asocia cada elemento con su descripción:",
+        "pairs": [
+          {
+            "left": "Nuevo convenio",
+            "right": "Leyes escritas en el corazón"
+          },
+          {
+            "left": "Primer convenio",
+            "right": "Dado por viejo y cerca de desaparecer"
+          },
+          {
+            "left": "Cristo",
+            "right": "Mediador de un mejor convenio"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "type": "curiosity",
+        "id": "heb-9-cur-5",
+        "after_verse": 5,
+        "title": "El Lugar Santísimo",
+        "body": "El compartimento interior del tabernáculo albergaba el arca del convenio y estaba separado por un velo; solo el sumo sacerdote entraba allí, una vez al año, en el Día de la Expiación."
+      },
+      {
+        "type": "match_pairs",
+        "id": "heb-9-mp-4",
+        "after_verse": 4,
+        "title": "Dentro del arca del convenio",
+        "prompt": "Relaciona cada objeto sagrado con su descripción.",
+        "pairs": [
+          {
+            "left": "Urna de oro",
+            "right": "Contenía el maná"
+          },
+          {
+            "left": "Vara de Aarón",
+            "right": "Que reverdeció"
+          },
+          {
+            "left": "Tablas del convenio",
+            "right": "La ley de Dios"
+          },
+          {
+            "left": "Querubines de gloria",
+            "right": "Cubrían el propiciatorio"
+          }
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-7",
+        "after_verse": 7,
+        "title": "¿Quién entraba en la segunda parte?",
+        "prompt": "Según el versículo 7, ¿quién entraba en el Lugar Santísimo una vez al año?",
+        "options": [
+          "Solo el sumo sacerdote",
+          "Todos los sacerdotes",
+          "Cualquiera del pueblo",
+          "Los levitas"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill_blank",
+        "id": "heb-9-fb-12",
+        "after_verse": 12,
+        "title": "Eterna redención",
+        "prompt": "Completa el versículo 12.",
+        "verse": 12,
+        "template": "sino por su propia {0}, entró una vez y para siempre en el Lugar Santísimo, habiendo obtenido eterna redención.",
+        "blanks": [
+          "sangre"
+        ],
+        "distractors": [
+          "mérito",
+          "incienso",
+          "nombre"
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-15",
+        "after_verse": 15,
+        "title": "Mediador",
+        "prompt": "Según el versículo 15, ¿de qué es mediador Cristo?",
+        "options": [
+          "Del nuevo testamento",
+          "De la ley de Moisés",
+          "Del primer tabernáculo",
+          "Del Día de la Expiación"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "curiosity",
+        "id": "heb-9-cur-19",
+        "after_verse": 19,
+        "title": "La sangre del testamento",
+        "body": "Moisés selló la ley rociando sangre sobre el libro y el pueblo (Éxodo 24). Hebreos usa este rito para enseñar que sin derramamiento de sangre no hay remisión."
+      },
+      {
+        "type": "fill_blank",
+        "id": "heb-9-fb-22",
+        "after_verse": 22,
+        "title": "Sin sangre no hay remisión",
+        "prompt": "Completa el versículo 22.",
+        "verse": 22,
+        "template": "y sin derramamiento de sangre no se hace {0}.",
+        "blanks": [
+          "remisión"
+        ],
+        "distractors": [
+          "convenio",
+          "ofrenda",
+          "purificación"
+        ]
+      },
+      {
+        "type": "multiple_choice",
+        "id": "heb-9-mc-27",
+        "after_verse": 27,
+        "title": "Una sola vez",
+        "prompt": "Según el versículo 27, ¿qué está establecido para los hombres?",
+        "options": [
+          "Que mueran una sola vez, y después el juicio",
+          "Ofrecer sacrificios cada año",
+          "Entrar en el santuario con sangre",
+          "Servir en el tabernáculo"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "heb-10-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Una sombra, no la imagen",
+        "body": "La ley de Moisés era \"la sombra de las cosas buenas por venir\", no la realidad misma. Sus sacrificios repetidos señalaban hacia el único sacrificio de Cristo que aún estaba por venir."
+      },
+      {
+        "id": "heb-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según el versículo 4, ¿qué no puede suceder?",
+        "options": [
+          "Que la sangre de los toros y de los machos cabríos quite los pecados",
+          "Que los sacerdotes ofrezcan sacrificios",
+          "Que la ley tenga la sombra de las cosas buenas por venir",
+          "Que los pecados se recuerden cada año"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Quita lo primero, para establecer lo {0}.",
+        "blanks": [
+          "segundo"
+        ],
+        "distractors": [
+          "sacrificio",
+          "templo",
+          "sacerdote"
+        ]
+      },
+      {
+        "id": "heb-10-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "En esa voluntad somos santificados mediante la ofrenda del cuerpo de {0} hecha una vez y para siempre.",
+        "blanks": [
+          "Jesucristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Abraham",
+          "Melquisedec"
+        ]
+      },
+      {
+        "id": "heb-10-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Porque con una sola ofrenda hizo {0} para siempre a los santificados.",
+        "blanks": [
+          "perfectos"
+        ],
+        "distractors": [
+          "condenados",
+          "olvidados",
+          "afligidos"
+        ]
+      },
+      {
+        "id": "heb-10-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "title": "El nuevo convenio",
+        "pairs": [
+          {
+            "left": "Pondré mis leyes",
+            "right": "en sus corazones"
+          },
+          {
+            "left": "Nunca más me acordaré",
+            "right": "de sus pecados e iniquidades"
+          },
+          {
+            "left": "Donde hay remisión de los pecados",
+            "right": "no hay más ofrenda por el pecado"
+          }
+        ]
+      },
+      {
+        "id": "heb-10-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "acerquémonos con corazón sincero, en plena certidumbre de {0}",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "duda",
+          "obras",
+          "temor"
+        ]
+      },
+      {
+        "id": "heb-10-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué práctica exhorta el versículo 25 a los santos a no abandonar?",
+        "options": [
+          "El congregarnos los unos con los otros",
+          "Ofrecer sacrificios de animales",
+          "Guardar la ley de Moisés",
+          "Recordar los pecados cada año"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Según el versículo 30, ¿a quién pertenece la venganza?",
+        "options": [
+          "Al Señor",
+          "A los testigos",
+          "A los sacerdotes",
+          "A los adversarios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-10-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Hollar al Hijo de Dios",
+        "body": "Rechazar deliberadamente a Cristo después de conocer la verdad se describe como haber \"hollado al Hijo de Dios\" y tenido \"por inmunda la sangre del convenio\" — una advertencia solemne contra menospreciar tan grande don."
+      },
+      {
+        "id": "heb-10-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "porque la {0} os es necesaria, para que, habiendo hecho la voluntad de Dios, obtengáis la promesa.",
+        "blanks": [
+          "paciencia"
+        ],
+        "distractors": [
+          "riqueza",
+          "sabiduría",
+          "fuerza"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "heb-11-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El capítulo de la fe",
+        "body": "Hebreos 11 se llama tradicionalmente \"el gran capítulo de la fe\" y es el más largo de Hebreos, con 40 versículos."
+      },
+      {
+        "id": "heb-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "title": "Completa el versículo",
+        "template": "Es, pues, la fe la certeza de lo que se espera, la {0} de lo que no se ve.",
+        "blanks": [
+          "convicción"
+        ],
+        "distractors": [
+          "promesa",
+          "herencia",
+          "recompensa"
+        ]
+      },
+      {
+        "id": "heb-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "title": "Enoc",
+        "question": "Por la fe, ¿qué le sucedió a Enoc?",
+        "options": [
+          "Fue trasladado para no ver la muerte",
+          "Preparó un arca",
+          "Ofreció un sacrificio",
+          "Pasó por el mar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "title": "Noé",
+        "question": "Por la fe, habiendo sido advertido por Dios, ¿qué preparó Noé para que su casa se salvase?",
+        "options": [
+          "El arca",
+          "Una ciudad",
+          "Un altar",
+          "Un templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "title": "Completa el versículo",
+        "template": "Pero deseaban una mejor, a saber, la celestial; por lo cual Dios no se avergüenza de llamarse Dios de ellos, porque les había preparado una {0}.",
+        "blanks": [
+          "ciudad"
+        ],
+        "distractors": [
+          "promesa",
+          "herencia",
+          "morada"
+        ]
+      },
+      {
+        "id": "heb-11-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "title": "Quién hizo qué por la fe",
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Ofreció a Isaac"
+          },
+          {
+            "left": "Isaac",
+            "right": "Bendijo a Jacob y a Esaú"
+          },
+          {
+            "left": "Jacob",
+            "right": "Bendijo a los hijos de José"
+          },
+          {
+            "left": "José",
+            "right": "Dio mandamiento acerca de sus huesos"
+          }
+        ]
+      },
+      {
+        "id": "heb-11-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Moisés escogió",
+        "body": "Por la fe Moisés rehusó ser llamado hijo de la hija de Faraón, teniendo por mayores riquezas el vituperio de Cristo que los tesoros de los egipcios."
+      },
+      {
+        "id": "heb-11-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "title": "La Pascua",
+        "question": "Por la fe se celebró el rociamiento de la sangre en la Pascua, ¿para qué?",
+        "options": [
+          "Para que el que mataba a los primogénitos no los tocase",
+          "Para que cayeran los muros",
+          "Para que se secara el mar",
+          "Para condenar al mundo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-11-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "title": "Completa el versículo",
+        "template": "Por la fe cayeron los muros de {0} después de rodearlos siete días.",
+        "blanks": [
+          "Jericó"
+        ],
+        "distractors": [
+          "Jerusalén",
+          "Babilonia",
+          "Nínive"
+        ]
+      },
+      {
+        "id": "heb-11-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "title": "Vencedores por la fe",
+        "question": "Según el versículo 35, ¿qué hicieron los héroes por la fe?",
+        "options": [
+          "Taparon bocas de leones",
+          "Prepararon el arca",
+          "Pasaron el mar",
+          "Celebraron la Pascua"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "heb-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La nube de testigos",
+        "body": "La \"nube de testigos\" remite a los héroes de la fe descritos en el capítulo anterior (Hebreos 11), cuyo ejemplo nos anima a correr nuestra propia carrera con paciencia."
+      },
+      {
+        "id": "heb-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Cómo se describe a Jesús en el versículo 2?",
+        "options": [
+          "El autor y consumador de la fe",
+          "El juez de todos los vivos",
+          "Un sacerdote según el orden de Aarón",
+          "El mediador de la ley de Moisés"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Según el versículo 6, ¿por qué disciplina el Señor a una persona?",
+        "options": [
+          "Porque la ama y la recibe como hijo",
+          "Porque está airado con ella",
+          "Porque es extranjera",
+          "Porque desea abandonarla"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "pero después da fruto {0} de rectitud a los que en ella han sido ejercitados",
+        "blanks": [
+          "apacible"
+        ],
+        "distractors": [
+          "amargo",
+          "consumidor",
+          "removido"
+        ]
+      },
+      {
+        "id": "heb-12-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Qué vendió Esaú por una sola comida?",
+        "options": [
+          "Su primogenitura",
+          "Su tienda",
+          "Su rebaño",
+          "Su espada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué sucedería si aun una bestia tocaba el monte en el Sinaí?",
+        "options": [
+          "Sería apedreada o traspasada con dardo",
+          "Sería ofrecida en sacrificio",
+          "Sería entregada al sacerdote",
+          "Sería dejada en libertad"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-12-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "title": "Aquello a lo que os habéis acercado",
+        "pairs": [
+          {
+            "left": "Monte Sion",
+            "right": "la ciudad del Dios vivo"
+          },
+          {
+            "left": "Jesús",
+            "right": "el Mediador del nuevo convenio"
+          },
+          {
+            "left": "Sangre rociada",
+            "right": "habla mejor que la de Abel"
+          },
+          {
+            "left": "Dios",
+            "right": "el Juez de todos"
+          }
+        ]
+      },
+      {
+        "id": "heb-12-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "agradándole con temor y {0}",
+        "blanks": [
+          "reverencia"
+        ],
+        "distractors": [
+          "tristeza",
+          "amargura",
+          "santidad"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "heb-13-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Ángeles sin saberlo",
+        "body": "El llamado a la hospitalidad recuerda historias como la de Abraham, que acogió a visitantes celestiales sin reconocerlos al principio (Génesis 18)."
+      },
+      {
+        "id": "heb-13-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Según el versículo 5, ¿por qué podemos estar contentos con lo que tenemos?",
+        "options": [
+          "Porque él dijo: No te desampararé ni te dejaré",
+          "Porque las riquezas son pecado",
+          "Porque el hombre nada puede hacer",
+          "Porque el altar prohíbe comer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Jesucristo es el mismo ayer, y hoy y {0}.",
+        "blanks": [
+          "por los siglos"
+        ],
+        "distractors": [
+          "mañana",
+          "por un tiempo",
+          "ya no"
+        ]
+      },
+      {
+        "id": "heb-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Porque no tenemos aquí ciudad {0}, sino que buscamos la que está por venir.",
+        "blanks": [
+          "permanente"
+        ],
+        "distractors": [
+          "santa",
+          "celestial",
+          "futura"
+        ]
+      },
+      {
+        "id": "heb-13-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué sacrificio debemos ofrecer siempre a Dios, según el versículo 15?",
+        "options": [
+          "Sacrificio de alabanza",
+          "Animales en el altar",
+          "Alimentos",
+          "Ofrendas de dinero"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "heb-13-mp-19",
+        "type": "match_pairs",
+        "after_verse": 19,
+        "title": "Consejos finales",
+        "pairs": [
+          {
+            "left": "Vuestros pastores",
+            "right": "Obedeced y sujetaos"
+          },
+          {
+            "left": "Hacer el bien",
+            "right": "No os olvidéis"
+          },
+          {
+            "left": "Velan por vuestras almas",
+            "right": "Han de dar cuenta"
+          }
+        ]
+      },
+      {
+        "id": "heb-13-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "El gran pastor de las ovejas",
+        "body": "La bendición final llama a Jesús 'el gran pastor de las ovejas', vinculándolo con la imagen del pastor que da su vida por el rebaño."
+      }
+    ]
+  }
+}

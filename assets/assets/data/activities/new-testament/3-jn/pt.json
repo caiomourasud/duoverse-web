@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "book": "3-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "3-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O livro mais curto",
+        "body": "Em número de palavras no grego original, Terceira João é o livro mais curto da Bíblia. É uma carta privada dirigida a um único amigo, Gaio."
+      },
+      {
+        "id": "3-jn-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Não tenho maior {0} do que esta",
+        "blanks": [
+          "alegria"
+        ],
+        "distractors": [
+          "honra",
+          "recompensa",
+          "paz"
+        ]
+      },
+      {
+        "id": "3-jn-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Porque pelo seu nome saíram, nada recebendo dos {0}",
+        "blanks": [
+          "gentios"
+        ],
+        "distractors": [
+          "romanos",
+          "judeus",
+          "gregos"
+        ]
+      },
+      {
+        "id": "3-jn-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Diótrefes, o contencioso",
+        "body": "Diótrefes é nomeado somente aqui nas escrituras — um líder local que “procura ter primazia”, recusou-se a receber os mensageiros de João e até lançava fora os que queriam recebê-los."
+      },
+      {
+        "id": "3-jn-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que João diz que Diótrefes busca (v. 9)?",
+        "options": [
+          "Ter a primazia entre eles",
+          "Dar aos pobres",
+          "Pregar nas sinagogas",
+          "Viajar entre as igrejas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "3-jn-1-mp-12",
+        "type": "match_pairs",
+        "after_verse": 12,
+        "title": "Três homens citados na carta",
+        "pairs": [
+          {
+            "left": "Gaio",
+            "right": "o amado, que anda na verdade"
+          },
+          {
+            "left": "Diótrefes",
+            "right": "procura ter a primazia"
+          },
+          {
+            "left": "Demétrio",
+            "right": "tem bom testemunho de todos"
+          }
+        ]
+      }
+    ]
+  }
+}

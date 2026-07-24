@@ -1,0 +1,958 @@
+{
+ "schema_version": 1,
+ "book": "jacob",
+ "chapters": {
+  "1": [
+   {
+    "id": "jacob-1-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "from the time that Lehi left {0}",
+    "blanks": [
+     "Jerusalem"
+    ],
+    "distractors": [
+     "Babylon",
+     "Egypt",
+     "Nineveh"
+    ]
+   },
+   {
+    "id": "jacob-1-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "Knowing he would soon die, what did Nephi do for his people?",
+    "options": [
+     "Anointed a man to be king and ruler",
+     "Built a great temple",
+     "Divided the land among his sons",
+     "Began a new set of plates"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-1-cur-11",
+    "after_verse": 11,
+    "type": "curiosity",
+    "title": "A royal name passed down",
+    "text": "Out of love for Nephi, every later king was called ‘second Nephi, third Nephi,’ and so on—a throne name kept regardless of the ruler’s own name, much like ‘Pharaoh’ in Egypt."
+   },
+   {
+    "id": "jacob-1-mp-13",
+    "type": "match_pairs",
+    "after_verse": 13,
+    "pairs": [
+     {
+      "left": "Nephites",
+      "right": "Descendants of Nephi"
+     },
+     {
+      "left": "Jacobites",
+      "right": "Descendants of Jacob"
+     },
+     {
+      "left": "Lamanites",
+      "right": "Descendants of Laman"
+     },
+     {
+      "left": "Ishmaelites",
+      "right": "Descendants of Ishmael"
+     }
+    ]
+   },
+   {
+    "id": "jacob-1-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "such as like unto {0} of old desiring many wives and concubines",
+    "blanks": [
+     "David"
+    ],
+    "distractors": [
+     "Saul",
+     "Moses",
+     "Abraham"
+    ]
+   },
+   {
+    "id": "jacob-1-mc-18",
+    "after_verse": 18,
+    "type": "multiple_choice",
+    "question": "Who consecrated Jacob and his brother Joseph as priests and teachers?",
+    "options": [
+     "Nephi",
+     "Lehi",
+     "Laman",
+     "Sam"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-1-cur-19",
+    "after_verse": 19,
+    "type": "curiosity",
+    "title": "Answering for the people’s sins",
+    "text": "Jacob and Joseph felt that if they failed to teach the word of God, the people’s sins would rest on their own heads—their garments stained with blood unless they labored with all diligence."
+   }
+  ],
+  "2": [
+   {
+    "id": "jacob-2-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "I come up into the {0} this day that I might declare unto you the word of God",
+    "blanks": [
+     "temple"
+    ],
+    "distractors": [
+     "tabernacle",
+     "synagogue",
+     "mountain"
+    ]
+   },
+   {
+    "id": "jacob-2-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "A sermon he dreaded to give",
+    "text": "Jacob delivers this rebuke at the temple under direct commandment, grieving that he must speak so boldly before the very wives and children most wounded by the men’s sins."
+   },
+   {
+    "id": "jacob-2-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "causeth me to shrink with {0} before the presence of my Maker",
+    "blanks": [
+     "shame"
+    ],
+    "distractors": [
+     "fear",
+     "sorrow",
+     "dread"
+    ]
+   },
+   {
+    "id": "jacob-2-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "because of the costliness of your {0}",
+    "blanks": [
+     "apparel"
+    ],
+    "distractors": [
+     "dwellings",
+     "jewels",
+     "treasures"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-14",
+    "after_verse": 14,
+    "type": "multiple_choice",
+    "question": "When the Nephites grow proud over their riches, how does God respond?",
+    "options": [
+     "He condemns them and warns of swift judgments",
+     "He justifies them for their hard work",
+     "He approves if they share a little",
+     "He stays silent on the matter"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-mc-18",
+    "after_verse": 18,
+    "type": "multiple_choice",
+    "question": "What does Jacob counsel the people to seek before riches?",
+    "options": [
+     "The kingdom of God",
+     "A king to rule them",
+     "More land for an inheritance",
+     "Honor among the nations"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-mc-21",
+    "after_verse": 21,
+    "type": "multiple_choice",
+    "question": "What does Jacob teach about every person before God?",
+    "options": [
+     "Each soul is as precious in His sight as another",
+     "The rich are favored above the poor",
+     "Only the Nephites are precious to Him",
+     "The strong matter more than the weak"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-cur-23",
+    "after_verse": 23,
+    "type": "curiosity",
+    "title": "Two sins, one growing worse",
+    "text": "Jacob first reproves the people for pride in their riches, then turns to a ‘grosser crime’—seeking to justify forbidden practices by misreading the scriptures about David and Solomon."
+   },
+   {
+    "id": "jacob-2-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "Behold, {0} and Solomon truly had many wives and concubines",
+    "blanks": [
+     "David"
+    ],
+    "distractors": [
+     "Saul",
+     "Moses",
+     "Abraham"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "What does the Lord command the men concerning marriage?",
+    "options": [
+     "Each shall have but one wife and no concubines",
+     "They may have many wives like David",
+     "They must not marry at all",
+     "They may marry only outside their people"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-fb-28",
+    "type": "fill_blank",
+    "after_verse": 28,
+    "verse": 28,
+    "template": "I, the Lord God, delight in the {0} of women",
+    "blanks": [
+     "chastity"
+    ],
+    "distractors": [
+     "beauty",
+     "wisdom",
+     "strength"
+    ]
+   },
+   {
+    "id": "jacob-2-mc-34",
+    "after_verse": 34,
+    "type": "multiple_choice",
+    "question": "To whom does Jacob say these commandments were first given?",
+    "options": [
+     "Their father Lehi",
+     "King Nephi",
+     "Jacob himself",
+     "Their brother Joseph"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-2-fb-35",
+    "type": "fill_blank",
+    "after_verse": 35,
+    "verse": 35,
+    "template": "Ye have broken the hearts of your tender {0}",
+    "blanks": [
+     "wives"
+    ],
+    "distractors": [
+     "mothers",
+     "daughters",
+     "sisters"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "jacob-3-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "are more {0} than you",
+    "blanks": [
+     "righteous"
+    ],
+    "distractors": [
+     "wicked",
+     "prideful",
+     "foolish"
+    ]
+   },
+   {
+    "id": "jacob-3-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "one day they shall become a {0} people",
+    "blanks": [
+     "blessed"
+    ],
+    "distractors": [
+     "mighty",
+     "numerous",
+     "scattered"
+    ]
+   },
+   {
+    "id": "jacob-3-mc-7",
+    "after_verse": 7,
+    "type": "multiple_choice",
+    "question": "What does Jacob say about the Lamanite families?",
+    "options": [
+     "Husbands and wives love each other and their children",
+     "They had forsaken all their families",
+     "They lived without any laws",
+     "They worshiped many gods"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-3-cur-7",
+    "after_verse": 7,
+    "type": "curiosity",
+    "title": "Faithful where Nephites failed",
+    "text": "Jacob notes that the Lamanite husbands and wives loved one another and their children, keeping the one-wife commandment—making them, in this, ‘more righteous’ than the Nephites he was rebuking."
+   },
+   {
+    "id": "jacob-3-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "Not even a hundredth part",
+    "text": "Jacob says a hundredth part of his people's doings could not fit on these small plates; the wars, contentions, and reigns of kings were kept on the larger plates of Nephi instead."
+   },
+   {
+    "id": "jacob-3-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "they were made by the hand of {0}",
+    "blanks": [
+     "Nephi"
+    ],
+    "distractors": [
+     "Jacob",
+     "Lehi",
+     "Joseph"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "jacob-4-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "in offering up his son {0}",
+    "blanks": [
+     "Isaac"
+    ],
+    "distractors": [
+     "Ishmael",
+     "Jacob",
+     "Esau"
+    ]
+   },
+   {
+    "id": "jacob-4-cur-5",
+    "after_verse": 5,
+    "type": "curiosity",
+    "title": "Why they kept the law of Moses",
+    "text": "Jacob explains that they kept the law of Moses because it pointed their souls to Christ—and that Abraham's offering of Isaac was a similitude of God offering His Only Begotten Son."
+   },
+   {
+    "id": "jacob-4-mc-6",
+    "after_verse": 6,
+    "type": "multiple_choice",
+    "question": "Jacob says that by faith in Jesus' name, what would obey them?",
+    "options": [
+     "The trees, the mountains, and the waves of the sea",
+     "The sun and the moon",
+     "Kings and armies",
+     "Time itself"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-4-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "by the power of his {0} man came upon the face of the earth",
+    "blanks": [
+     "word"
+    ],
+    "distractors": [
+     "hand",
+     "will",
+     "wisdom"
+    ]
+   },
+   {
+    "id": "jacob-4-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "which blindness came by looking beyond the {0}",
+    "blanks": [
+     "mark"
+    ],
+    "distractors": [
+     "truth",
+     "law",
+     "veil"
+    ]
+   },
+   {
+    "id": "jacob-4-cur-14",
+    "after_verse": 14,
+    "type": "curiosity",
+    "title": "Looking beyond the mark",
+    "text": "Jacob says the Jews stumbled by ‘looking beyond the mark’—despising the plain truths of the gospel and craving things they could not understand, until they would reject the very stone, Christ, on which they could safely build."
+   },
+   {
+    "id": "jacob-4-mc-16",
+    "after_verse": 16,
+    "type": "multiple_choice",
+    "question": "What does Jacob say the stone the Jews reject will become?",
+    "options": [
+     "The only sure foundation on which they can build",
+     "A stumbling block forever",
+     "A wall around Jerusalem",
+     "A monument to the prophets"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "jacob-5-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "the words of the prophet {0}, which he spake unto the house of Israel",
+    "blanks": [
+     "Zenos"
+    ],
+    "distractors": [
+     "Isaiah",
+     "Zenock",
+     "Neum"
+    ]
+   },
+   {
+    "id": "jacob-5-cur-3",
+    "after_verse": 3,
+    "type": "curiosity",
+    "title": "The allegory of the olive tree",
+    "text": "Quoting the prophet Zenos, Jacob compares the house of Israel to a tame olive tree in a vineyard; its scattering, grafting, and gathering picture the Lord's long labor to save His covenant people."
+   },
+   {
+    "id": "jacob-5-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "go and pluck the branches from a {0} olive tree",
+    "blanks": [
+     "wild"
+    ],
+    "distractors": [
+     "tame",
+     "green",
+     "withered"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-14",
+    "after_verse": 14,
+    "type": "multiple_choice",
+    "question": "What did the Lord of the vineyard do with the natural branches he took?",
+    "options": [
+     "Hid them in the nethermost parts of the vineyard",
+     "Burned them in the fire",
+     "Sold them to other vineyards",
+     "Left them to wither in the sun"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "the wild branches have brought forth {0} fruit",
+    "blanks": [
+     "tame"
+    ],
+    "distractors": [
+     "bitter",
+     "wild",
+     "sour"
+    ]
+   },
+   {
+    "id": "jacob-5-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "it was the {0} spot in all the land of thy vineyard",
+    "blanks": [
+     "poorest"
+    ],
+    "distractors": [
+     "richest",
+     "largest",
+     "highest"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-27",
+    "after_verse": 27,
+    "type": "multiple_choice",
+    "question": "When the Lord wanted to pluck the unfruitful branches, what did the servant ask?",
+    "options": [
+     "To prune, dig about, and nourish it a little longer",
+     "To burn the whole tree at once",
+     "To plant a new vineyard elsewhere",
+     "To leave the vineyard forever"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-32",
+    "type": "fill_blank",
+    "after_verse": 32,
+    "verse": 32,
+    "template": "there are all kinds of {0} fruit",
+    "blanks": [
+     "bad"
+    ],
+    "distractors": [
+     "good",
+     "sweet",
+     "ripe"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-37",
+    "after_verse": 37,
+    "type": "multiple_choice",
+    "question": "Why did the grafted tree begin to bring forth evil fruit?",
+    "options": [
+     "The wild branches overran the good roots",
+     "The roots had dried up",
+     "No one watered the tree",
+     "Birds ate the good fruit"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-41",
+    "type": "fill_blank",
+    "after_verse": 41,
+    "verse": 41,
+    "template": "the Lord of the vineyard {0}, and said unto the servant",
+    "blanks": [
+     "wept"
+    ],
+    "distractors": [
+     "rejoiced",
+     "smiled",
+     "trembled"
+    ]
+   },
+   {
+    "id": "jacob-5-cur-41",
+    "after_verse": 41,
+    "type": "curiosity",
+    "title": "The Lord of the vineyard weeps",
+    "text": "Three times the master cries ‘What could I have done more for my vineyard?’—and at one point he weeps. The allegory pictures a God who labors and grieves over His people rather than abandoning them."
+   },
+   {
+    "id": "jacob-5-mc-47",
+    "after_verse": 47,
+    "type": "multiple_choice",
+    "question": "What does the Lord of the vineyard insist he did NOT do?",
+    "options": [
+     "Slacken his hand from nourishing the vineyard",
+     "Plant the trees himself",
+     "Send any servants to help",
+     "Taste the fruit of the trees"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-mp-47",
+    "type": "match_pairs",
+    "after_verse": 47,
+    "pairs": [
+     {
+      "left": "Prune",
+      "right": "Cut back a tree's branches"
+     },
+     {
+      "left": "Graft",
+      "right": "Join in a branch from another tree"
+     },
+     {
+      "left": "Dig about",
+      "right": "Loosen the soil around the roots"
+     },
+     {
+      "left": "Dung",
+      "right": "Fertilize the ground"
+     }
+    ]
+   },
+   {
+    "id": "jacob-5-fb-52",
+    "type": "fill_blank",
+    "after_verse": 52,
+    "verse": 52,
+    "template": "those branches whose fruit is most {0}",
+    "blanks": [
+     "bitter"
+    ],
+    "distractors": [
+     "sweet",
+     "ripe",
+     "tame"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-59",
+    "after_verse": 59,
+    "type": "multiple_choice",
+    "question": "Why does the Lord change the branches between the trees?",
+    "options": [
+     "That the good may overcome the evil",
+     "To make the vineyard smaller",
+     "To sell the best fruit",
+     "To punish the servant"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-mc-62",
+    "after_verse": 62,
+    "type": "multiple_choice",
+    "question": "How many more times does the Lord say he will prune his vineyard?",
+    "options": [
+     "This is the last time",
+     "Seven more times",
+     "As often as it is needed",
+     "He will never prune again"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-fb-70",
+    "type": "fill_blank",
+    "after_verse": 70,
+    "verse": 70,
+    "template": "and brought other servants; and they were {0}",
+    "blanks": [
+     "few"
+    ],
+    "distractors": [
+     "many",
+     "strong",
+     "faithful"
+    ]
+   },
+   {
+    "id": "jacob-5-mc-72",
+    "after_verse": 72,
+    "type": "multiple_choice",
+    "question": "Who labored in the vineyard alongside the servants this last time?",
+    "options": [
+     "The Lord of the vineyard himself",
+     "Only hired strangers",
+     "The wild branches",
+     "No one—they worked alone"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-5-cur-72",
+    "after_verse": 72,
+    "type": "curiosity",
+    "title": "He labors beside His servants",
+    "text": "In the final gathering the Lord of the vineyard does not merely send servants—he labors with them. The few who work with their might share His joy in the good fruit at last preserved."
+   },
+   {
+    "id": "jacob-5-mc-77",
+    "after_verse": 77,
+    "type": "multiple_choice",
+    "question": "At the end, what will the Lord do when evil fruit returns?",
+    "options": [
+     "Gather the good and bad, preserve the good, and burn the vineyard",
+     "Abandon the vineyard entirely",
+     "Graft in more wild branches",
+     "Sell the vineyard to strangers"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "jacob-6-cur-1",
+    "after_verse": 1,
+    "type": "curiosity",
+    "title": "Jacob's own prophecy",
+    "text": "Having quoted Zenos's long allegory, Jacob adds his own short prophecy: the gathering of Israel it describes—the Lord setting his hand ‘the second time’—will surely come to pass before the world is burned."
+   },
+   {
+    "id": "jacob-6-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "he remembereth the house of Israel, both roots and {0}",
+    "blanks": [
+     "branches"
+    ],
+    "distractors": [
+     "leaves",
+     "fruit",
+     "seeds"
+    ]
+   },
+   {
+    "id": "jacob-6-mc-8",
+    "after_verse": 8,
+    "type": "multiple_choice",
+    "question": "What does Jacob plead with the people not to reject?",
+    "options": [
+     "The words spoken concerning Christ and the plan of redemption",
+     "The traditions of their fathers",
+     "The reigns of their kings",
+     "The riches of the land"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-6-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "that lake of fire and {0}",
+    "blanks": [
+     "brimstone"
+    ],
+    "distractors": [
+     "darkness",
+     "smoke",
+     "torment"
+    ]
+   },
+   {
+    "id": "jacob-6-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "continue in the way which is {0}",
+    "blanks": [
+     "narrow"
+    ],
+    "distractors": [
+     "broad",
+     "long",
+     "steep"
+    ]
+   },
+   {
+    "id": "jacob-6-cur-13",
+    "after_verse": 13,
+    "type": "curiosity",
+    "title": "The pleasing bar of God",
+    "text": "Jacob ends with a phrase found only in his writings—he hopes to meet his readers at the ‘pleasing bar of God,’ the same judgment that ‘striketh the wicked with awful dread.’"
+   }
+  ],
+  "7": [
+   {
+    "id": "jacob-7-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "there came a man among the people of Nephi, whose name was {0}",
+    "blanks": [
+     "Sherem"
+    ],
+    "distractors": [
+     "Laman",
+     "Lemuel",
+     "Ishmael"
+    ]
+   },
+   {
+    "id": "jacob-7-cur-2",
+    "after_verse": 2,
+    "type": "curiosity",
+    "title": "The first named anti-Christ",
+    "text": "Sherem is the first of the Book of Mormon's named ‘anti-Christs’—a learned, persuasive man who used flattery and ‘much power of speech’ to deny that Christ would come and to lead hearts away."
+   },
+   {
+    "id": "jacob-7-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "keep not the law of {0} which is the right way",
+    "blanks": [
+     "Moses"
+    ],
+    "distractors": [
+     "Abraham",
+     "Isaac",
+     "Nephi"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-9",
+    "after_verse": 9,
+    "type": "multiple_choice",
+    "question": "How did Sherem answer when Jacob asked if he denied the Christ who should come?",
+    "options": [
+     "He claimed there is no Christ, nor ever will be",
+     "He admitted Christ would surely come",
+     "He refused to give any answer",
+     "He said he would wait and see"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "if there should be no {0} made all mankind must be lost",
+    "blanks": [
+     "atonement"
+    ],
+    "distractors": [
+     "covenant",
+     "sacrifice",
+     "offering"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-13",
+    "after_verse": 13,
+    "type": "multiple_choice",
+    "question": "What did Sherem demand of Jacob?",
+    "options": [
+     "A sign by the power of the Holy Ghost",
+     "Half of his possessions",
+     "To leave the land of Nephi",
+     "A public debate before the king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-mc-17",
+    "after_verse": 17,
+    "type": "multiple_choice",
+    "question": "After he was smitten, what did Sherem tell the multitude?",
+    "options": [
+     "He confessed Christ and that the devil had deceived him",
+     "He repeated that there is no Christ",
+     "He blamed Jacob for his sickness",
+     "He asked to be made their king"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "I have committed the unpardonable {0}",
+    "blanks": [
+     "sin"
+    ],
+    "distractors": [
+     "crime",
+     "error",
+     "wrong"
+    ]
+   },
+   {
+    "id": "jacob-7-mc-23",
+    "after_verse": 23,
+    "type": "multiple_choice",
+    "question": "After Sherem's death, what happened among the people?",
+    "options": [
+     "Peace and the love of God were restored, and they searched the scriptures",
+     "They scattered into the wilderness",
+     "They chose Sherem's followers as leaders",
+     "They abandoned the law of Moses"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "jacob-7-fb-25",
+    "type": "fill_blank",
+    "after_verse": 25,
+    "verse": 25,
+    "template": "trusting in the God and {0} of their salvation",
+    "blanks": [
+     "rock"
+    ],
+    "distractors": [
+     "shield",
+     "fortress",
+     "light"
+    ]
+   },
+   {
+    "id": "jacob-7-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "I said unto my son {0}: Take these plates",
+    "blanks": [
+     "Enos"
+    ],
+    "distractors": [
+     "Nephi",
+     "Joseph",
+     "Jarom"
+    ]
+   },
+   {
+    "id": "jacob-7-mp-27",
+    "type": "match_pairs",
+    "after_verse": 27,
+    "pairs": [
+     {
+      "left": "Sherem",
+      "right": "Denied Christ, then confessed Him before dying"
+     },
+     {
+      "left": "Jacob",
+      "right": "The prophet who confounded Sherem"
+     },
+     {
+      "left": "Enos",
+      "right": "Jacob's son, who received the plates"
+     },
+     {
+      "left": "Nephi",
+      "right": "Jacob's brother, who began the plates"
+     }
+    ]
+   },
+   {
+    "id": "jacob-7-cur-27",
+    "after_verse": 27,
+    "type": "curiosity",
+    "title": "‘Brethren, adieu’",
+    "text": "Jacob closes by handing the plates to his son Enos and bids his readers ‘adieu’—a word borrowed into English from French that means, fittingly, ‘to God.’"
+   }
+  ]
+ }
+}

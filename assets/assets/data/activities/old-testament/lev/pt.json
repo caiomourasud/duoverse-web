@@ -1,0 +1,2974 @@
+{
+  "schema_version": 1,
+  "book": "lev",
+  "chapters": {
+    "1": [
+      {
+        "id": "lev-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A voz desde a tenda",
+        "text": "O livro começa com Jeová chamando Moisés e falando de dentro da tenda da congregação. Diferente do Sinai coberto de fogo e trovões, aqui Deus instrui seu povo a partir do santuário que acabara de ser construído no meio do acampamento."
+      },
+      {
+        "id": "lev-1-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "E porá a sua mão sobre a {0} do holocausto, para que seja aceito por ele, para fazer expiação por ele.",
+        "blanks": [
+          "cabeça"
+        ],
+        "distractors": [
+          "pata",
+          "perna",
+          "cauda"
+        ]
+      },
+      {
+        "id": "lev-1-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "No holocausto descrito em Levítico 1, o que acontece com a oferta sobre o altar?",
+        "options": [
+          "É totalmente queimada como oferta de cheiro suave ao Senhor",
+          "É devolvida intacta a quem a trouxe",
+          "É repartida entre todo o povo para comer",
+          "É guardada no santuário por sete dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-1-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "E se a sua oferta ao Senhor for holocausto de aves, oferecerá a sua oferta de {0} ou de pombinhos;",
+        "blanks": [
+          "rolas"
+        ],
+        "distractors": [
+          "águias",
+          "corvos",
+          "gansos"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "lev-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma oferta sem sangue",
+        "text": "Diferente do holocausto do capítulo anterior, a oferta de manjares não tinha sangue: era de flor de farinha, azeite e incenso, ligando o trabalho agrícola do povo à adoração."
+      },
+      {
+        "id": "lev-2-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "a sua oferta será de flor de {0}, e nela deitará azeite",
+        "blanks": [
+          "farinha"
+        ],
+        "distractors": [
+          "fermento",
+          "mel",
+          "incenso"
+        ]
+      },
+      {
+        "id": "lev-2-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Na oferta de manjares, o que o sacerdote queimava sobre o altar?",
+        "options": [
+          "O seu memorial",
+          "Todo o sangue",
+          "A cabeça do animal",
+          "A gordura das entranhas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-2-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "porque de nenhum fermento, nem de {0} algum, oferecereis oferta queimada ao Senhor",
+        "blanks": [
+          "mel"
+        ],
+        "distractors": [
+          "azeite",
+          "sal",
+          "incenso"
+        ]
+      },
+      {
+        "id": "lev-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "E toda oferta dos teus manjares salgarás com {0}",
+        "blanks": [
+          "sal"
+        ],
+        "distractors": [
+          "azeite",
+          "mel",
+          "incenso"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "lev-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Em Levítico 3, quem espargia o sangue da oferta pacífica sobre o altar em redor?",
+        "options": [
+          "Os filhos de Aarão, os sacerdotes",
+          "Os anciãos do povo",
+          "O próprio ofertante",
+          "Moisés sozinho"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-3-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "A gordura pertencia a Deus",
+        "text": "No sacrifício pacífico, a gordura que cobria as entranhas e os rins era queimada sobre o altar como 'cheiro suave ao Senhor' — a parte mais rica do animal era reservada a Deus, não consumida pelos que ofereciam."
+      },
+      {
+        "id": "lev-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Se oferecer um {0} como sua oferta",
+        "blanks": [
+          "cordeiro"
+        ],
+        "distractors": [
+          "bezerro",
+          "novilho",
+          "pombo"
+        ]
+      },
+      {
+        "id": "lev-3-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Mas se a sua oferta for uma {0}, perante o Senhor a oferecerá",
+        "blanks": [
+          "cabra"
+        ],
+        "distractors": [
+          "pomba",
+          "novilha",
+          "ovelha"
+        ]
+      },
+      {
+        "id": "lev-3-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "nenhuma gordura nem {0} algum comereis",
+        "blanks": [
+          "sangue"
+        ],
+        "distractors": [
+          "leite",
+          "mel",
+          "azeite"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "lev-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Pecado inadvertido",
+        "text": "Toda a oferta deste capítulo trata de pecados cometidos 'inadvertidamente', isto é, sem intenção ou por ignorância. A lei previa um caminho de reconciliação até para a falta involuntária."
+      },
+      {
+        "id": "lev-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "oferecerá, pelo seu pecado que pecou, um {0} sem defeito ao Senhor, como oferta pelo pecado",
+        "blanks": [
+          "novilho"
+        ],
+        "distractors": [
+          "cordeiro",
+          "bode",
+          "boi"
+        ]
+      },
+      {
+        "id": "lev-4-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "No ritual da oferta pelo pecado do sacerdote, o que era queimado sobre o altar?",
+        "options": [
+          "A gordura, os rins e o redenho do fígado",
+          "O couro e a cabeça do animal",
+          "Toda a carne com os ossos",
+          "As pernas e o esterco"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "os {0} da congregação porão as suas mãos sobre a cabeça do novilho",
+        "blanks": [
+          "anciãos"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "levitas",
+          "príncipes"
+        ]
+      },
+      {
+        "id": "lev-4-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Qual era o resultado quando o sacerdote fazia expiação pela congregação?",
+        "options": [
+          "O pecado lhes era perdoado",
+          "O tabernáculo era reconstruído",
+          "Eram expulsos do acampamento",
+          "A oferta era devolvida"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "Sacerdote ungido",
+            "right": "Novilho sem defeito"
+          },
+          {
+            "left": "Príncipe",
+            "right": "Bode macho sem defeito"
+          },
+          {
+            "left": "Pessoa do povo",
+            "right": "Cabra sem defeito"
+          }
+        ]
+      },
+      {
+        "id": "lev-4-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Que oferta uma pessoa comum do povo devia trazer pelo seu pecado?",
+        "options": [
+          "Uma cabra sem defeito",
+          "Um novilho sem defeito",
+          "Duas rolas",
+          "Um carneiro com defeito"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-4-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "porá a sua mão sobre a {0} da oferta pelo pecado",
+        "blanks": [
+          "cabeça"
+        ],
+        "distractors": [
+          "gordura",
+          "carne",
+          "porta"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "lev-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O pecado de calar",
+        "text": "O primeiro caso do capítulo pune quem, sendo testemunha, ouve uma adjuração e se cala: omitir o testemunho já é tratado como culpa que a pessoa carrega sobre si."
+      },
+      {
+        "id": "lev-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "seja corpo morto de {0} imundo",
+        "blanks": [
+          "réptil"
+        ],
+        "distractors": [
+          "sacerdote",
+          "altar",
+          "santuário"
+        ]
+      },
+      {
+        "id": "lev-5-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, que animal o culpado traz como oferta pela culpa?",
+        "options": [
+          "Uma fêmea de gado miúdo, cordeira ou cabrinha",
+          "Um novilho sem defeito",
+          "Duas rolas e um pombinho",
+          "Um boi e um carneiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-5-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "a décima parte de um efa de flor de {0}",
+        "blanks": [
+          "farinha"
+        ],
+        "distractors": [
+          "azeite",
+          "incenso",
+          "sangue"
+        ]
+      },
+      {
+        "id": "lev-5-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "então trará ao Senhor, pela culpa, um {0} sem defeito, do rebanho",
+        "blanks": [
+          "carneiro"
+        ],
+        "distractors": [
+          "novilho",
+          "bezerro",
+          "pombinho"
+        ]
+      },
+      {
+        "id": "lev-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "No versículo 18, por que a pessoa precisa da oferta pela culpa, mesmo tendo pecado sem perceber?",
+        "options": [
+          "Pecou contra um mandamento sem saber, e mesmo assim é culpada",
+          "Recusou-se a confessar o pecado",
+          "Roubou as coisas sagradas de propósito",
+          "Tocou um corpo morto de fera imunda"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "lev-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Pecado contra o próximo é pecado contra o Senhor",
+        "text": "Levítico 6 ensina que enganar, roubar ou negar um depósito ao próximo é tratado como uma transgressão contra o próprio Senhor, exigindo restituição com o acréscimo de um quinto e uma oferta pela culpa."
+      },
+      {
+        "id": "lev-6-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "um {0} sem defeito, do rebanho",
+        "blanks": [
+          "carneiro"
+        ],
+        "distractors": [
+          "cordeiro",
+          "bezerro",
+          "novilho"
+        ]
+      },
+      {
+        "id": "lev-6-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Esta é a lei do {0}",
+        "blanks": [
+          "holocausto"
+        ],
+        "distractors": [
+          "sacrifício",
+          "juramento",
+          "memorial"
+        ]
+      },
+      {
+        "id": "lev-6-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "O fogo arderá {0} sobre o altar",
+        "blanks": [
+          "continuamente"
+        ],
+        "distractors": [
+          "brevemente",
+          "raramente",
+          "ocasionalmente"
+        ]
+      },
+      {
+        "id": "lev-6-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Oferta de manjares",
+            "right": "Flor de farinha com azeite, queimada ao Senhor"
+          },
+          {
+            "left": "Estatuto perpétuo",
+            "right": "Lei permanente para as gerações"
+          },
+          {
+            "left": "Oferta de Aarão",
+            "right": "A décima parte de um efa, manhã e tarde"
+          }
+        ]
+      },
+      {
+        "id": "lev-6-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "E o vaso de {0} em que for cozida será quebrado",
+        "blanks": [
+          "barro"
+        ],
+        "distractors": [
+          "bronze",
+          "ferro",
+          "pedra"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "lev-7-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "E esta é a lei da oferta pela {0}; coisa santíssima é.",
+        "blanks": [
+          "culpa"
+        ],
+        "distractors": [
+          "pecado",
+          "paz",
+          "manhã"
+        ]
+      },
+      {
+        "id": "lev-7-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, a quem pertencia a oferta pela culpa?",
+        "options": [
+          "Ao sacerdote que houver feito expiação com ela",
+          "A todo o povo de Israel",
+          "Ao primogênito de cada família",
+          "Aos levitas que guardavam o altar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-7-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O versículo 11 introduz a lei de qual sacrifício?",
+        "options": [
+          "Do sacrifício pacífico",
+          "Da oferta pela culpa",
+          "Da oferta pelo pecado",
+          "Do holocausto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-7-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "A carne tinha hora certa",
+        "text": "A carne do sacrifício pacífico oferecido em ação de graças tinha de ser comida no mesmo dia, sem sobrar nada para a manhã seguinte; sobras eram queimadas, lembrando que a oferta era santa e não comida comum."
+      },
+      {
+        "id": "lev-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E o que ainda ficar da carne do sacrifício ao terceiro dia será {0} no fogo.",
+        "blanks": [
+          "queimado"
+        ],
+        "distractors": [
+          "comido",
+          "guardado",
+          "espargido"
+        ]
+      },
+      {
+        "id": "lev-7-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Nenhuma gordura de boi, nem de carneiro, nem de {0} comereis,",
+        "blanks": [
+          "cabra"
+        ],
+        "distractors": [
+          "pomba",
+          "peixe",
+          "cavalo"
+        ]
+      },
+      {
+        "id": "lev-7-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "porém o peito será de {0} e de seus filhos.",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Moisés",
+          "Israel",
+          "Levi"
+        ]
+      },
+      {
+        "id": "lev-7-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "Peito movido",
+            "right": "Porção dada ao sacerdote como oferta movida"
+          },
+          {
+            "left": "Espádua direita",
+            "right": "Oferta alçada que cabe ao sacerdote"
+          },
+          {
+            "left": "Gordura",
+            "right": "Queimada sobre o altar ao Senhor"
+          }
+        ]
+      },
+      {
+        "id": "lev-7-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "Que o Senhor ordenou a Moisés no monte {0}, no dia em que ordenou aos filhos de Israel",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Horebe",
+          "Nebo",
+          "Carmelo"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "lev-8-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "O que o Senhor mandou Moisés tomar para a consagração de Aarão e seus filhos?",
+        "options": [
+          "As vestes, o azeite da unção, o novilho da oferta pelo pecado, dois carneiros e o cesto dos pães ázimos",
+          "Ouro, prata e pedras preciosas para o altar",
+          "Doze bois e doze cabras, um por cada tribo de Israel",
+          "Incenso, mirra e óleo de oliva para queimar diante do véu"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-8-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Lavar com água",
+        "text": "Antes de vestir as vestes sagradas, Moisés lavou Aarão e seus filhos com água. Essa lavagem simbolizava a purificação exigida de quem se aproxima do altar para servir como sacerdote."
+      },
+      {
+        "id": "lev-8-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "pôs a lâmina de ouro, a coroa da {0}, como o Senhor ordenara a Moisés",
+        "blanks": [
+          "santidade"
+        ],
+        "distractors": [
+          "unção",
+          "congregação",
+          "consagração"
+        ]
+      },
+      {
+        "id": "lev-8-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Sobre a cabeça de qual animal Aarão e seus filhos puseram as mãos como oferta pelo pecado?",
+        "options": [
+          "O novilho",
+          "O carneiro do holocausto",
+          "O cordeiro",
+          "O bode"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-8-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "o pôs sobre a ponta da orelha direita de {0}, e sobre o polegar da sua mão direita",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Moisés",
+          "Eleazar",
+          "Itamar"
+        ]
+      },
+      {
+        "id": "lev-8-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Oferta pelo pecado",
+            "right": "O novilho"
+          },
+          {
+            "left": "Holocausto",
+            "right": "O primeiro carneiro"
+          },
+          {
+            "left": "Consagração",
+            "right": "O segundo carneiro"
+          },
+          {
+            "left": "Oferta movida",
+            "right": "Os pães do cesto sobre a gordura"
+          }
+        ]
+      },
+      {
+        "id": "lev-8-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "porquanto por {0} dias ele vos consagrará",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "quarenta",
+          "oito"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "lev-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O oitavo dia",
+        "text": "A cerimônia acontece no \"dia oitavo\", logo após os sete dias de consagração descritos no capítulo anterior; era a estreia oficial de Aarão e seus filhos como sacerdotes de Israel."
+      },
+      {
+        "id": "lev-9-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Toma um {0}, para oferta pelo pecado",
+        "blanks": [
+          "bezerro"
+        ],
+        "distractors": [
+          "cordeiro",
+          "bode",
+          "carneiro"
+        ]
+      },
+      {
+        "id": "lev-9-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, o que Moisés manda Aarão fazer por si mesmo e pelo povo antes de oferecer a oferta do povo?",
+        "options": [
+          "Fazer expiação",
+          "Cantar um louvor",
+          "Construir o altar",
+          "Repartir o pão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "molhou o seu {0} no sangue",
+        "blanks": [
+          "dedo"
+        ],
+        "distractors": [
+          "braço",
+          "pé",
+          "manto"
+        ]
+      },
+      {
+        "id": "lev-9-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "os filhos de {0} lhe entregaram o sangue",
+        "blanks": [
+          "Aarão"
+        ],
+        "distractors": [
+          "Moisés",
+          "Israel",
+          "Levi"
+        ]
+      },
+      {
+        "id": "lev-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Depois de terminar as ofertas, o que Aarão faz ao levantar as mãos para o povo (v. 22)?",
+        "options": [
+          "Os abençoa",
+          "Os repreende",
+          "Os conta",
+          "Os dispersa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-9-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Porque saiu {0} de diante do Senhor",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "fumaça",
+          "vento",
+          "água"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "lev-10-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "trouxeram fogo {0} perante a face do Senhor",
+        "blanks": [
+          "estranho"
+        ],
+        "distractors": [
+          "santo",
+          "limpo",
+          "perpétuo"
+        ]
+      },
+      {
+        "id": "lev-10-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O silêncio de Aarão",
+        "text": "Diante da morte súbita de dois filhos, Aarão \"calou-se\": o texto registra que ele não contestou o julgamento do Senhor, aceitando-o em silêncio."
+      },
+      {
+        "id": "lev-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "não bebereis vinho nem bebida {0}, quando entrardes na tenda da congregação",
+        "blanks": [
+          "forte"
+        ],
+        "distractors": [
+          "movida",
+          "santa",
+          "queimada"
+        ]
+      },
+      {
+        "id": "lev-10-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Segundo os versículos 10 e 11, qual era o dever dos sacerdotes além de servir no tabernáculo?",
+        "options": [
+          "Fazer diferença entre o santo e o profano e ensinar os estatutos a Israel",
+          "Cobrar tributos das doze tribos",
+          "Julgar disputas entre os reis vizinhos",
+          "Construir as muralhas do santuário"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-10-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Por que Moisés se indignou contra Eleazar e Itamar (v. 16-17)?",
+        "options": [
+          "Não comeram a oferta pelo pecado no lugar santo, como fora ordenado",
+          "Beberam vinho dentro da tenda da congregação",
+          "Saíram do acampamento sem permissão",
+          "Rasgaram as suas vestes em sinal de luto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-10-mp-19",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Nadabe e Abiú",
+            "right": "Filhos de Aarão consumidos pelo fogo"
+          },
+          {
+            "left": "Eleazar e Itamar",
+            "right": "Filhos de Aarão que ficaram"
+          },
+          {
+            "left": "Misael e Elzafã",
+            "right": "Levaram os mortos para fora do acampamento"
+          },
+          {
+            "left": "Aarão",
+            "right": "Sumo sacerdote que se calou"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "lev-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Dois sinais juntos",
+        "text": "Para um animal ser limpo ele precisava cumprir DOIS requisitos ao mesmo tempo: ruminar E ter os cascos fendidos. Por isso o camelo, o coelho, a lebre e o porco ficavam de fora — cada um falhava em um dos dois sinais."
+      },
+      {
+        "id": "lev-11-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "o camelo, que remói mas não tem cascos fendidos; esse vos será {0}",
+        "blanks": [
+          "imundo"
+        ],
+        "distractors": [
+          "limpo",
+          "santo",
+          "aceito"
+        ]
+      },
+      {
+        "id": "lev-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Que dois sinais um animal das águas precisava ter para ser comido?",
+        "options": [
+          "Barbatanas e escamas",
+          "Patas e garras",
+          "Cascos e chifres",
+          "Penas e asas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "serão abominação: a águia, e o quebrantosso, e o {0}",
+        "blanks": [
+          "xofrango"
+        ],
+        "distractors": [
+          "milhano",
+          "abutre",
+          "morcego"
+        ]
+      },
+      {
+        "id": "lev-11-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "Todo inseto que voa, que anda sobre quatro pés, será para vós uma {0}.",
+        "blanks": [
+          "abominação"
+        ],
+        "distractors": [
+          "benção",
+          "oferta",
+          "porção"
+        ]
+      },
+      {
+        "id": "lev-11-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Entre os insetos que voam, quais Israel PODIA comer?",
+        "options": [
+          "Os que têm pernas para saltar sobre a terra, como o gafanhoto",
+          "Os que andam sobre o ventre",
+          "Todos os que têm asas",
+          "Nenhum inseto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Quem tocasse no cadáver de um animal imundo ficava imundo até quando?",
+        "options": [
+          "Até a tarde",
+          "Por sete dias",
+          "Por um mês",
+          "Para sempre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "que se arrastam sobre a terra: a doninha, e o rato, e o {0} segundo a sua espécie,",
+        "blanks": [
+          "lagarto"
+        ],
+        "distractors": [
+          "camelo",
+          "abutre",
+          "cordeiro"
+        ]
+      },
+      {
+        "id": "lev-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "O que se devia fazer com o vaso de barro em que caísse um animal imundo?",
+        "options": [
+          "Quebrá-lo",
+          "Lavá-lo com água",
+          "Queimá-lo no altar",
+          "Enterrá-lo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "Segundo os versículos 37-38, quando uma semente para semear se tornava imunda?",
+        "options": [
+          "Quando havia água sobre ela e caía um cadáver",
+          "Sempre que tocava o chão",
+          "Apenas se fosse trigo",
+          "Nunca, a semente era sempre limpa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-11-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "vós vos santificareis, e sereis santos, porque eu sou {0}",
+        "blanks": [
+          "santo"
+        ],
+        "distractors": [
+          "fiel",
+          "justo",
+          "eterno"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "lev-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Segundo o versículo 2, por quantos dias a mulher seria imunda ao dar à luz um menino?",
+        "options": [
+          "Sete dias",
+          "Trinta dias",
+          "Duas semanas",
+          "Sessenta e seis dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-12-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "nenhuma coisa santa tocará, e não virá ao {0}",
+        "blanks": [
+          "santuário"
+        ],
+        "distractors": [
+          "altar",
+          "tabernáculo",
+          "templo"
+        ]
+      },
+      {
+        "id": "lev-12-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "trará um {0} de um ano por holocausto",
+        "blanks": [
+          "cordeiro"
+        ],
+        "distractors": [
+          "pombinho",
+          "bezerro",
+          "novilho"
+        ]
+      },
+      {
+        "id": "lev-12-cur-8",
+        "type": "curiosity",
+        "after_verse": 8,
+        "title": "A oferta dos pobres",
+        "text": "O versículo 8 permite que quem não pudesse trazer um cordeiro oferecesse duas aves. Foi essa oferta mais simples que José e Maria apresentaram ao levar o menino Jesus ao templo (Lucas 2:24), sinal da humilde condição da família."
+      }
+    ],
+    "13": [
+      {
+        "id": "lev-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O sacerdote como examinador",
+        "text": "Na lei mosaica era o sacerdote, e não um médico, quem inspecionava a pele e declarava a pessoa “limpa” ou “imunda”; a condição tratada aqui era antes de tudo ritual e comunitária, não apenas clínica."
+      },
+      {
+        "id": "lev-13-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "se o pelo na praga se tornou {0}, e a praga parecer mais profunda do que a pele",
+        "blanks": [
+          "branco"
+        ],
+        "distractors": [
+          "preto",
+          "amarelo",
+          "vermelho"
+        ]
+      },
+      {
+        "id": "lev-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Em Levítico 13:11, ao reconhecer a lepra envelhecida, o que o sacerdote NÃO faz com o homem, porque ele já é imundo?",
+        "options": [
+          "Não o encerra por sete dias",
+          "Não lava as suas vestes",
+          "Não rapa a sua cabeça",
+          "Não o leva a Aarão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-13-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "Mas no dia em que aparecer nele {0} viva, será imundo.",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "mancha",
+          "praga",
+          "pele"
+        ]
+      },
+      {
+        "id": "lev-13-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Se também a carne, em cuja pele houver alguma {0}, sarar,",
+        "blanks": [
+          "úlcera"
+        ],
+        "distractors": [
+          "queimadura",
+          "inchação",
+          "chaga"
+        ]
+      },
+      {
+        "id": "lev-13-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "Ou quando na pele da carne houver {0} de fogo",
+        "blanks": [
+          "queimadura"
+        ],
+        "distractors": [
+          "mancha",
+          "inchação",
+          "úlcera"
+        ]
+      },
+      {
+        "id": "lev-13-fb-30",
+        "type": "fill_blank",
+        "after_verse": 30,
+        "verse": 30,
+        "template": "o sacerdote o declarará imundo; {0} é, lepra da cabeça ou da barba é.",
+        "blanks": [
+          "tinha"
+        ],
+        "distractors": [
+          "pústula",
+          "úlcera",
+          "queimadura"
+        ]
+      },
+      {
+        "id": "lev-13-fb-39",
+        "type": "fill_blank",
+        "after_verse": 39,
+        "verse": 39,
+        "template": "impigem branca é, que brotou na pele; {0} está.",
+        "blanks": [
+          "limpo"
+        ],
+        "distractors": [
+          "imundo",
+          "leproso",
+          "santo"
+        ]
+      },
+      {
+        "id": "lev-13-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "E quando cair o {0} da cabeça do homem, calvo é, limpo está.",
+        "blanks": [
+          "cabelo"
+        ],
+        "distractors": [
+          "pelo",
+          "manto",
+          "sangue"
+        ]
+      },
+      {
+        "id": "lev-13-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "imundo está, habitará só; a sua habitação será fora do {0}.",
+        "blanks": [
+          "acampamento"
+        ],
+        "distractors": [
+          "templo",
+          "santuário",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-13-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "Em Levítico 13:52, o que se faz com a roupa em que houver a lepra maligna?",
+        "options": [
+          "Será queimada com fogo",
+          "Será lavada sete vezes",
+          "Será dada ao sacerdote",
+          "Será levada para fora do acampamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-13-fb-59",
+        "type": "fill_blank",
+        "after_verse": 59,
+        "verse": 59,
+        "template": "Essa é a lei da praga da {0} da roupa de lã",
+        "blanks": [
+          "lepra"
+        ],
+        "distractors": [
+          "tinha",
+          "úlcera",
+          "queimadura"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "lev-14-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A lei do leproso",
+        "text": "Levítico 14 não descreve uma cura: a praga já está sarada quando o sacerdote age. O capítulo é um ritual de readmissão do que já estava curado de volta à comunidade."
+      },
+      {
+        "id": "lev-14-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "se tomem duas aves vivas e limpas, e madeira de cedro, e carmesim e {0}",
+        "blanks": [
+          "hissopo"
+        ],
+        "distractors": [
+          "cordeiro",
+          "azeite",
+          "sangue"
+        ]
+      },
+      {
+        "id": "lev-14-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Quantas vezes o sacerdote espargia sobre aquele que se purificava da lepra?",
+        "options": [
+          "Três vezes",
+          "Cinco vezes",
+          "Sete vezes",
+          "Dez vezes"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "lev-14-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "No sétimo dia, o que aquele que se purificava devia fazer com o seu pelo?",
+        "options": [
+          "Rapar todo o seu pelo",
+          "Trançar os cabelos",
+          "Deixá-lo crescer",
+          "Cobri-lo com cinzas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-14-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "E ao oitavo dia tomará dois {0} sem defeito",
+        "blanks": [
+          "cordeiros"
+        ],
+        "distractors": [
+          "bois",
+          "carneiros",
+          "bodes"
+        ]
+      },
+      {
+        "id": "lev-14-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "o porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o dedo polegar da sua mão direita, e no dedo polegar do seu pé {0}",
+        "blanks": [
+          "direito"
+        ],
+        "distractors": [
+          "esquerdo",
+          "ferido",
+          "descalço"
+        ]
+      },
+      {
+        "id": "lev-14-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "daquele azeite com o seu dedo espargirá sete vezes perante o {0}",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "altar",
+          "sacerdote",
+          "povo"
+        ]
+      },
+      {
+        "id": "lev-14-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "Depois das ofertas sobre o altar, o que o sacerdote fazia pela pessoa purificada?",
+        "options": [
+          "Fazia expiação por ele",
+          "Cobrava um tributo",
+          "Exigia um jejum",
+          "Marcava sua testa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-14-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "O que a pessoa pobre oferecia em vez dos cordeiros?",
+        "options": [
+          "Dois bezerros",
+          "Rolas ou pombinhos",
+          "Trigo e vinho",
+          "Ouro e prata"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "lev-14-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Quando tiverdes entrado na terra de {0}, que vos hei de dar por possessão",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Egito",
+          "Babilônia",
+          "Assíria"
+        ]
+      },
+      {
+        "id": "lev-14-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "o sacerdote sairá daquela casa para fora da porta da casa, e fechará a casa por sete {0}",
+        "blanks": [
+          "dias"
+        ],
+        "distractors": [
+          "meses",
+          "anos",
+          "semanas"
+        ]
+      },
+      {
+        "id": "lev-14-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "Se a praga voltasse a se estender na casa depois de rebocada, o que ela era declarada?",
+        "options": [
+          "Limpa",
+          "Lepra maligna na casa",
+          "Praga curada",
+          "Casa santa"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "lev-14-fb-49",
+        "type": "fill_blank",
+        "after_verse": 49,
+        "verse": 49,
+        "template": "Depois tomará, para purificar a casa, duas aves, e madeira de cedro, e carmesim, e {0}",
+        "blanks": [
+          "hissopo"
+        ],
+        "distractors": [
+          "azeite",
+          "farinha",
+          "incenso"
+        ]
+      },
+      {
+        "id": "lev-14-fb-54",
+        "type": "fill_blank",
+        "after_verse": 54,
+        "verse": 54,
+        "template": "Essa é a lei de toda praga da lepra, e da {0}",
+        "blanks": [
+          "tinha"
+        ],
+        "distractors": [
+          "febre",
+          "cegueira",
+          "peste"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "lev-15-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Uma fala dupla",
+        "text": "Diferente de muitos capítulos de Levítico, este é dirigido tanto a Moisés quanto a Aarão, o sumo sacerdote, porque cabia aos sacerdotes julgar a pureza e receber as ofertas de purificação."
+      },
+      {
+        "id": "lev-15-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Quem tocasse a cama do que tinha fluxo ficava impuro até quando?",
+        "options": [
+          "Até a tarde",
+          "Por sete dias",
+          "Até o dia oitavo",
+          "Por um mês"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-15-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "E o vaso de {0}, que tocar o que tem o fluxo, será quebrado",
+        "blanks": [
+          "barro"
+        ],
+        "distractors": [
+          "madeira",
+          "ferro",
+          "pedra"
+        ]
+      },
+      {
+        "id": "lev-15-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "E ao dia oitavo tomará duas {0} ou dois pombinhos",
+        "blanks": [
+          "rolas"
+        ],
+        "distractors": [
+          "ovelhas",
+          "cabras",
+          "novilhas"
+        ]
+      },
+      {
+        "id": "lev-15-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "estará sete dias na sua {0}",
+        "blanks": [
+          "menstruação"
+        ],
+        "distractors": [
+          "purificação",
+          "imundície",
+          "congregação"
+        ]
+      },
+      {
+        "id": "lev-15-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Oferta pelo pecado",
+            "right": "Uma das duas aves entregues ao sacerdote"
+          },
+          {
+            "left": "Holocausto",
+            "right": "A outra ave, oferecida em sacrifício"
+          },
+          {
+            "left": "Águas vivas",
+            "right": "Água corrente usada na purificação"
+          },
+          {
+            "left": "Até a tarde",
+            "right": "Duração comum da impureza por contato"
+          }
+        ]
+      },
+      {
+        "id": "lev-15-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "contaminando o meu {0}, que está no meio deles",
+        "blanks": [
+          "tabernáculo"
+        ],
+        "distractors": [
+          "altar",
+          "santuário",
+          "sacrifício"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "lev-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O Senhor sobre o propiciatório",
+        "text": "Aarão não podia entrar a qualquer tempo no Santo dos Santos porque o Senhor disse que apareceria 'na nuvem sobre o propiciatório', a tampa de ouro da arca da aliança."
+      },
+      {
+        "id": "lev-16-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Com isto Aarão entrará no santuário: com um novilho, para oferta pelo pecado, e um {0} para holocausto.",
+        "blanks": [
+          "carneiro"
+        ],
+        "distractors": [
+          "novilho",
+          "bode",
+          "cordeiro"
+        ]
+      },
+      {
+        "id": "lev-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Em Levítico 16, o que Aarão fazia com os dois bodes diante do Senhor?",
+        "options": [
+          "Lançava sortes sobre eles",
+          "Sacrificava ambos sobre o altar",
+          "Os enviava juntos ao deserto",
+          "Os entregava ao povo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-16-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "para fazer expiação com ele, para enviá-lo ao {0} como bode emissário.",
+        "blanks": [
+          "deserto"
+        ],
+        "distractors": [
+          "santuário",
+          "altar",
+          "acampamento"
+        ]
+      },
+      {
+        "id": "lev-16-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "e perante o propiciatório espargirá {0} vezes do sangue com o seu dedo.",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "doze",
+          "quarenta"
+        ]
+      },
+      {
+        "id": "lev-16-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Segundo o versículo 21, o que Aarão fazia ao pôr as mãos sobre a cabeça do bode vivo?",
+        "options": [
+          "Confessava todas as iniquidades dos filhos de Israel",
+          "Ungia o bode com óleo",
+          "Marcava o bode com sangue",
+          "Lhe dava um nome novo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-16-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "será levado para fora do {0}; porém as suas peles, a sua carne, e o seu esterco queimarão com fogo.",
+        "blanks": [
+          "acampamento"
+        ],
+        "distractors": [
+          "santuário",
+          "altar",
+          "deserto"
+        ]
+      },
+      {
+        "id": "lev-16-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "E isto vos será por estatuto perpétuo: no {0} mês, aos dez do mês, afligireis a vossa alma",
+        "blanks": [
+          "sétimo"
+        ],
+        "distractors": [
+          "primeiro",
+          "terceiro",
+          "décimo"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "lev-17-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Por que tudo na porta da tenda?",
+        "text": "Ao exigir que todo boi, cordeiro ou cabra fosse morto à porta da tenda da congregação, a lei impedia que os israelitas oferecessem sacrifícios isolados em campo aberto, como faziam os povos vizinhos."
+      },
+      {
+        "id": "lev-17-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Qualquer homem da casa de Israel que matar boi, ou {0}, ou cabra, no acampamento",
+        "blanks": [
+          "cordeiro"
+        ],
+        "distractors": [
+          "pombo",
+          "cavalo",
+          "peixe"
+        ]
+      },
+      {
+        "id": "lev-17-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo o versículo 7, a quem Israel não devia mais oferecer sacrifícios?",
+        "options": [
+          "Aos demônios",
+          "Aos sacerdotes",
+          "Aos estrangeiros",
+          "Aos profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-17-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Porque a vida da carne está no {0}",
+        "blanks": [
+          "sangue"
+        ],
+        "distractors": [
+          "coração",
+          "espírito",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-17-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Que prática o Senhor proíbe a Israel e ao estrangeiro no versículo 12?",
+        "options": [
+          "Comer sangue",
+          "Comer gordura",
+          "Trabalhar no sábado",
+          "Oferecer pão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-17-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "derramará o seu sangue, e o cobrirá com {0}",
+        "blanks": [
+          "pó"
+        ],
+        "distractors": [
+          "água",
+          "sal",
+          "óleo"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "lev-18-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Não fareis segundo as obras da terra do {0}, em que habitastes",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Sinai",
+          "Israel"
+        ]
+      },
+      {
+        "id": "lev-18-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "\"Viverá por eles\"",
+        "text": "O versículo 5 promete que quem cumprir os estatutos do Senhor \"viverá por eles\". A frase ecoa por toda a escritura e é citada no Novo Testamento como contraste entre viver pela lei e viver pela fé."
+      },
+      {
+        "id": "lev-18-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Segundo o versículo 6, de quem nenhum homem deveria se chegar para descobrir a sua nudez?",
+        "options": [
+          "De qualquer parenta da sua carne",
+          "De qualquer estrangeiro da terra",
+          "De qualquer sacerdote do santuário",
+          "De qualquer morador de Canaã"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-18-mp-14",
+        "type": "match_pairs",
+        "after_verse": 14,
+        "pairs": [
+          {
+            "left": "Irmã do teu pai",
+            "right": "Parenta de teu pai (tia)"
+          },
+          {
+            "left": "Mulher de teu irmão",
+            "right": "Nudez de teu irmão"
+          },
+          {
+            "left": "Tua nora",
+            "right": "Mulher de teu filho"
+          }
+        ]
+      },
+      {
+        "id": "lev-18-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "E da tua semente não darás nenhum para fazer passar pelo fogo perante {0}",
+        "blanks": [
+          "Moloque"
+        ],
+        "distractors": [
+          "Canaã",
+          "Egito",
+          "Sinai"
+        ]
+      },
+      {
+        "id": "lev-18-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "em todas essas coisas se contaminaram as {0} que eu expulso de diante da vossa face",
+        "blanks": [
+          "nações"
+        ],
+        "distractors": [
+          "abominações",
+          "habitações",
+          "gerações"
+        ]
+      },
+      {
+        "id": "lev-18-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "Que consequência o capítulo diz que aguarda a terra que pratica essas abominações (v. 25, 28)?",
+        "options": [
+          "A terra vomitará os seus moradores",
+          "A terra ficará estéril por sete anos",
+          "A terra será dividida entre as tribos",
+          "A terra será coberta pelas águas"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "lev-19-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Sede santos",
+        "text": "O refrão “Santos sereis, porque Eu… sou santo” (v. 2) dá nome ao bloco de Levítico 17–26, chamado pelos estudiosos de “código de santidade”, porque liga a conduta do povo à santidade do próprio Deus."
+      },
+      {
+        "id": "lev-19-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Cada um temerá sua mãe e seu pai, e guardará os meus {0}.",
+        "blanks": [
+          "sábados"
+        ],
+        "distractors": [
+          "altares",
+          "sacrifícios",
+          "ídolos"
+        ]
+      },
+      {
+        "id": "lev-19-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Segundo os versículos 9–10, para quem o israelita devia deixar as espigas e os bagos caídos da ceifa e da vinha?",
+        "options": [
+          "Para o pobre e para o estrangeiro",
+          "Para os sacerdotes do santuário",
+          "Para os príncipes de Israel",
+          "Para queimar como oferta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-19-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Não oprimirás o teu próximo, nem o roubarás; a paga do {0} não ficará contigo até a manhã.",
+        "blanks": [
+          "jornaleiro"
+        ],
+        "distractors": [
+          "sacerdote",
+          "estrangeiro",
+          "mexeriqueiro"
+        ]
+      },
+      {
+        "id": "lev-19-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "mas amarás o teu {0} como a ti mesmo.",
+        "blanks": [
+          "próximo"
+        ],
+        "distractors": [
+          "irmão",
+          "inimigo",
+          "Deus"
+        ]
+      },
+      {
+        "id": "lev-19-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Segundo os versículos 23–25, em que ano o fruto de uma árvore recém-plantada podia finalmente ser comido?",
+        "options": [
+          "No quinto ano",
+          "No primeiro ano",
+          "No terceiro ano",
+          "No sétimo ano"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-19-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "Não contaminarás a tua {0}, fazendo-a prostituir-se, para que a terra não se prostitua, nem se encha de maldade.",
+        "blanks": [
+          "filha"
+        ],
+        "distractors": [
+          "mãe",
+          "irmã",
+          "serva"
+        ]
+      },
+      {
+        "id": "lev-19-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Levantar-te-ás diante das cãs, e honrarás a face do {0}; e temerás o teu Deus.",
+        "blanks": [
+          "velho"
+        ],
+        "distractors": [
+          "pobre",
+          "estrangeiro",
+          "surdo"
+        ]
+      }
+    ],
+    "20": [
+      {
+        "id": "lev-20-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "der da sua semente a {0}",
+        "blanks": [
+          "Moloque"
+        ],
+        "distractors": [
+          "Baal",
+          "Dagom",
+          "Quemós"
+        ]
+      },
+      {
+        "id": "lev-20-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Moloque e o sacrifício de crianças",
+        "text": "Moloque era um deus cananeu a quem se ofereciam crianças no fogo. \"Dar da sua semente\" significa entregar os próprios filhos a esse culto, prática que o Senhor declara contaminar o santuário e profanar o seu santo nome."
+      },
+      {
+        "id": "lev-20-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Eu sou o Senhor que vos {0}",
+        "blanks": [
+          "santifica"
+        ],
+        "distractors": [
+          "abomina",
+          "extirpa",
+          "amaldiçoa"
+        ]
+      },
+      {
+        "id": "lev-20-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Segundo o versículo 15, além do homem, o que também deveria ser feito ao animal?",
+        "options": [
+          "Deveria ser morto",
+          "Deveria ser oferecido em sacrifício",
+          "Deveria ser dado aos pobres",
+          "Deveria ser levado para fora do acampamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Nos juízos deste capítulo, ser \"extirpado do meio do seu povo\" indica que a pessoa seria:",
+        "options": [
+          "Removida e cortada da comunidade de Israel",
+          "Promovida a líder do povo",
+          "Enviada como mensageira às nações",
+          "Isenta de qualquer culpa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "terra que mana leite e {0}",
+        "blanks": [
+          "mel"
+        ],
+        "distractors": [
+          "vinho",
+          "azeite",
+          "trigo"
+        ]
+      },
+      {
+        "id": "lev-20-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "O que o versículo 25 ordena a Israel quanto aos animais e às aves?",
+        "options": [
+          "Fazer diferença entre os limpos e os imundos",
+          "Oferecer todos eles em holocausto",
+          "Criá-los apenas fora das cidades",
+          "Comer somente os que fossem domesticados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-20-mp-26",
+        "type": "match_pairs",
+        "after_verse": 26,
+        "pairs": [
+          {
+            "left": "Moloque",
+            "right": "Deus pagão do culto proibido"
+          },
+          {
+            "left": "Estatutos",
+            "right": "Leis que Israel deveria guardar"
+          },
+          {
+            "left": "Santidade",
+            "right": "Ser separado para o Senhor"
+          }
+        ]
+      }
+    ],
+    "21": [
+      {
+        "id": "lev-21-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Luto restrito",
+        "text": "O sacerdote comum só podia tocar um morto para velar parentes próximos (pai, mãe, filhos, irmãos, irmã virgem). O sumo sacerdote (v. 11) nem isso podia, nem pelo próprio pai ou mãe."
+      },
+      {
+        "id": "lev-21-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Não farão calva na sua cabeça, e não raparão a ponta da sua {0}, nem farão incisões na sua carne.",
+        "blanks": [
+          "barba"
+        ],
+        "distractors": [
+          "mão",
+          "testa",
+          "carne"
+        ]
+      },
+      {
+        "id": "lev-21-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "E quando a filha de um sacerdote se profanar, prostituindo-se, profana seu pai; com {0} será queimada.",
+        "blanks": [
+          "fogo"
+        ],
+        "distractors": [
+          "espada",
+          "pedra",
+          "vergonha"
+        ]
+      },
+      {
+        "id": "lev-21-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "sobre cuja cabeça foi derramado o {0} da unção",
+        "blanks": [
+          "azeite"
+        ],
+        "distractors": [
+          "sangue",
+          "vinho",
+          "perfume"
+        ]
+      },
+      {
+        "id": "lev-21-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Segundo o versículo 14, com que tipo de mulher o sumo sacerdote devia casar-se?",
+        "options": [
+          "Uma virgem do seu próprio povo",
+          "Uma viúva",
+          "Uma mulher repudiada",
+          "Uma estrangeira"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-21-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Que tipo de homem da semente de Aarão NÃO podia chegar-se para oferecer o pão de Deus?",
+        "options": [
+          "Quem tivesse algum defeito físico",
+          "Quem fosse mais novo que trinta anos",
+          "Quem não soubesse ler a lei",
+          "Quem morasse fora do acampamento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-21-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "O sacerdote com defeito não podia entrar nem chegar-se ao altar, mas o que ainda lhe era permitido fazer?",
+        "options": [
+          "Comer do pão do seu Deus",
+          "Oferecer as ofertas queimadas",
+          "Vestir as vestes sagradas",
+          "Entrar além do véu"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "lev-22-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O nome santo",
+        "text": "O refrão \"Eu sou o Senhor\", que se repete por todo o capítulo, sela cada mandamento lembrando a Israel que a santidade das ofertas reflete a santidade do próprio Deus."
+      },
+      {
+        "id": "lev-22-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "Dize a Aarão e a seus filhos que se apartem das coisas {0} dos filhos de Israel",
+        "blanks": [
+          "santas"
+        ],
+        "distractors": [
+          "imundas",
+          "voluntárias",
+          "queimadas"
+        ]
+      },
+      {
+        "id": "lev-22-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Segundo os versículos 6 e 7, quando o homem que se tornou imundo podia voltar a comer das coisas santas?",
+        "options": [
+          "Depois de o sol se pôr, tendo banhado a sua carne",
+          "Imediatamente, sem precisar se lavar",
+          "Após sete dias de jejum",
+          "Somente no dia do sábado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-22-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Guardarão, pois, o meu {0}, para que por isso não levem pecado",
+        "blanks": [
+          "mandamento"
+        ],
+        "distractors": [
+          "sacrifício",
+          "holocausto",
+          "altar"
+        ]
+      },
+      {
+        "id": "lev-22-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Mas quando a filha do sacerdote for {0} ou repudiada, e não tiver semente",
+        "blanks": [
+          "viúva"
+        ],
+        "distractors": [
+          "estrangeira",
+          "leprosa",
+          "imunda"
+        ]
+      },
+      {
+        "id": "lev-22-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "Segundo a sua vontade, oferecerá macho sem {0}, das vacas, dos cordeiros, ou das cabras.",
+        "blanks": [
+          "defeito"
+        ],
+        "distractors": [
+          "mancha",
+          "fluxo",
+          "cadáver"
+        ]
+      },
+      {
+        "id": "lev-22-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Animal sem defeito",
+            "right": "Aceito como oferta ao Senhor"
+          },
+          {
+            "left": "Animal cego ou aleijado",
+            "right": "Não oferecido ao Senhor"
+          },
+          {
+            "left": "Filhote recém-nascido",
+            "right": "Sete dias debaixo de sua mãe"
+          }
+        ]
+      },
+      {
+        "id": "lev-22-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará debaixo de sua {0}",
+        "blanks": [
+          "mãe"
+        ],
+        "distractors": [
+          "cria",
+          "manada",
+          "tenda"
+        ]
+      },
+      {
+        "id": "lev-22-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Que vos tirei da terra do {0}, para ser vosso Deus.",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Assíria",
+          "Babilônia"
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "lev-23-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O calendário sagrado de Israel",
+        "text": "Levítico 23 reúne, num só lugar, todas as festas anuais de Israel — Páscoa, Pães Ázimos, Primícias, Pentecostes, Trombetas, Expiação e Tabernáculos — chamadas de 'santas convocações'."
+      },
+      {
+        "id": "lev-23-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "No mês primeiro, aos {0} do mês, pela tarde, é a páscoa do Senhor.",
+        "blanks": [
+          "quatorze"
+        ],
+        "distractors": [
+          "quinze",
+          "dez",
+          "vinte"
+        ]
+      },
+      {
+        "id": "lev-23-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "então trareis um molho das primícias da vossa ceifa ao {0}",
+        "blanks": [
+          "sacerdote"
+        ],
+        "distractors": [
+          "altar",
+          "santuário",
+          "tabernáculo"
+        ]
+      },
+      {
+        "id": "lev-23-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "A oferta das primícias",
+        "text": "O primeiro feixe da colheita era movido perante o Senhor 'no dia seguinte ao sábado', um gesto de gratidão que reconhecia que toda a colheita pertencia a Deus."
+      },
+      {
+        "id": "lev-23-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Quantos dias deviam ser contados após a oferta das primícias até a nova oferta de manjares?",
+        "options": [
+          "Cinquenta dias",
+          "Quarenta dias",
+          "Sete dias",
+          "Cem dias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-23-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "de duas dízimas de farinha serão, {0} se assarão",
+        "blanks": [
+          "levedados"
+        ],
+        "distractors": [
+          "ázimos",
+          "salgados",
+          "tostados"
+        ]
+      },
+      {
+        "id": "lev-23-mp-22",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Páscoa",
+            "right": "Mês primeiro, aos quatorze dias"
+          },
+          {
+            "left": "Festa dos pães ázimos",
+            "right": "Sete dias sem fermento"
+          },
+          {
+            "left": "Dia da expiação",
+            "right": "Dez do mês sétimo, afligir a alma"
+          },
+          {
+            "left": "Festa dos tabernáculos",
+            "right": "Quinze do mês sétimo, morar em tendas"
+          }
+        ]
+      },
+      {
+        "id": "lev-23-fb-27",
+        "type": "fill_blank",
+        "after_verse": 27,
+        "verse": 27,
+        "template": "Mas aos dez deste mês sétimo será o dia da {0}",
+        "blanks": [
+          "expiação"
+        ],
+        "distractors": [
+          "colheita",
+          "Páscoa",
+          "convocação"
+        ]
+      },
+      {
+        "id": "lev-23-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Aos quinze dias desse mês sétimo será a festa dos {0} ao Senhor por sete dias.",
+        "blanks": [
+          "tabernáculos"
+        ],
+        "distractors": [
+          "pães",
+          "primícias",
+          "holocaustos"
+        ]
+      },
+      {
+        "id": "lev-23-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "tomareis para vós ramos de formosas árvores, ramos de {0}, ramos de árvores frondosas, e salgueiros de ribeiras",
+        "blanks": [
+          "palmeiras"
+        ],
+        "distractors": [
+          "oliveiras",
+          "videiras",
+          "figueiras"
+        ]
+      },
+      {
+        "id": "lev-23-cur-42",
+        "type": "curiosity",
+        "after_verse": 42,
+        "title": "Por que morar em tendas",
+        "text": "Durante a festa dos tabernáculos o povo morava em cabanas por sete dias para lembrar que Deus os fez habitar em tendas ao tirá-los do Egito."
+      },
+      {
+        "id": "lev-23-fb-43",
+        "type": "fill_blank",
+        "after_verse": 43,
+        "verse": 43,
+        "template": "que eu fiz habitar os filhos de Israel em tendas, quando os tirei da terra do {0}",
+        "blanks": [
+          "Egito"
+        ],
+        "distractors": [
+          "Canaã",
+          "Assíria",
+          "Babilônia"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "lev-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A luz que nunca se apaga",
+        "text": "O azeite puro de oliveiras batidas mantinha as lâmpadas do candelabro acesas continuamente diante do Senhor, símbolo da presença constante de Deus entre Israel."
+      },
+      {
+        "id": "lev-24-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Sobre o {0} de ouro puro porá em ordem as lâmpadas perante o Senhor continuamente.",
+        "blanks": [
+          "candelabro"
+        ],
+        "distractors": [
+          "altar",
+          "véu",
+          "incenso"
+        ]
+      },
+      {
+        "id": "lev-24-fb-5",
+        "type": "fill_blank",
+        "after_verse": 5,
+        "verse": 5,
+        "template": "Também tomarás da flor de farinha, e dela assarás {0} bolos; cada bolo será de duas dízimas.",
+        "blanks": [
+          "doze"
+        ],
+        "distractors": [
+          "sete",
+          "três",
+          "vinte"
+        ]
+      },
+      {
+        "id": "lev-24-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Qual era o nome da mãe do homem que blasfemou o nome do Senhor?",
+        "options": [
+          "Selomite",
+          "Débora",
+          "Miriã",
+          "Raquel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-24-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Mas quem matar um animal, o restituirá, {0} por vida.",
+        "blanks": [
+          "vida"
+        ],
+        "distractors": [
+          "sangue",
+          "dente",
+          "alma"
+        ]
+      },
+      {
+        "id": "lev-24-mp-20",
+        "type": "match_pairs",
+        "after_verse": 20,
+        "pairs": [
+          {
+            "left": "Olho por olho",
+            "right": "Compensação por um dano à vista"
+          },
+          {
+            "left": "Dente por dente",
+            "right": "Compensação por um dente quebrado"
+          },
+          {
+            "left": "Vida por vida",
+            "right": "Restituição de um animal morto"
+          },
+          {
+            "left": "Quebradura por quebradura",
+            "right": "Compensação por uma fratura"
+          }
+        ]
+      }
+    ],
+    "25": [
+      {
+        "id": "lev-25-cur-1",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "O sábado da terra",
+        "text": "Assim como o povo descansava no sétimo dia, a própria terra deveria descansar no sétimo ano, ficando sem ser semeada nem podada — um sábado para o Senhor."
+      },
+      {
+        "id": "lev-25-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Porém, ao sétimo ano será sábado de {0} para a terra",
+        "blanks": [
+          "descanso"
+        ],
+        "distractors": [
+          "jubileu",
+          "expiação",
+          "tributo"
+        ]
+      },
+      {
+        "id": "lev-25-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Como se anunciava o início do ano do jubileu?",
+        "options": [
+          "Fazendo soar a trombeta no dia da expiação",
+          "Acendendo fogueiras nos montes",
+          "Reunindo o povo no templo",
+          "Enviando mensageiros às cidades"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "e apregoareis {0} na terra a todos os seus moradores",
+        "blanks": [
+          "liberdade"
+        ],
+        "distractors": [
+          "justiça",
+          "paz",
+          "salvação"
+        ]
+      },
+      {
+        "id": "lev-25-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Nesse ano do jubileu retornareis cada um à sua {0}.",
+        "blanks": [
+          "possessão"
+        ],
+        "distractors": [
+          "família",
+          "cidade",
+          "herança"
+        ]
+      },
+      {
+        "id": "lev-25-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Ninguém, pois, {0} o seu próximo; mas temerás o teu Deus",
+        "blanks": [
+          "oprima"
+        ],
+        "distractors": [
+          "engane",
+          "despreze",
+          "abandone"
+        ]
+      },
+      {
+        "id": "lev-25-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Segundo o versículo 23, por que a terra não podia ser vendida em perpetuidade?",
+        "options": [
+          "Porque a terra pertence ao Senhor e o povo é estrangeiro e peregrino",
+          "Porque a terra era pequena demais",
+          "Porque já fora prometida a outro povo",
+          "Porque o solo era estéril"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "então virá o seu {0}, seu parente, e resgatará o que vendeu seu irmão.",
+        "blanks": [
+          "resgatador"
+        ],
+        "distractors": [
+          "comprador",
+          "juiz",
+          "vizinho"
+        ]
+      },
+      {
+        "id": "lev-25-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "Mas no tocante às cidades dos {0}, às casas das cidades da sua possessão",
+        "blanks": [
+          "levitas"
+        ],
+        "distractors": [
+          "sacerdotes",
+          "anciãos",
+          "estrangeiros"
+        ]
+      },
+      {
+        "id": "lev-25-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "Não tomarás dele {0} nem ganho; mas temerás o teu Deus",
+        "blanks": [
+          "usura"
+        ],
+        "distractors": [
+          "roubo",
+          "dádiva",
+          "tributo"
+        ]
+      },
+      {
+        "id": "lev-25-fb-38",
+        "type": "fill_blank",
+        "after_verse": 38,
+        "verse": 38,
+        "template": "que vos tirei da terra do Egito, para vos dar a terra de {0}",
+        "blanks": [
+          "Canaã"
+        ],
+        "distractors": [
+          "Sinai",
+          "Moabe",
+          "Edom"
+        ]
+      },
+      {
+        "id": "lev-25-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Como Israel devia tratar um irmão israelita que tivesse empobrecido e se vendido?",
+        "options": [
+          "Como jornaleiro, e nunca com rigor como a um escravo",
+          "Como propriedade permanente da família",
+          "Como prisioneiro de guerra",
+          "Como estrangeiro sem direitos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-25-fb-50",
+        "type": "fill_blank",
+        "after_verse": 50,
+        "verse": 50,
+        "template": "desde o ano que se vendeu a ele até o ano do {0}",
+        "blanks": [
+          "jubileu"
+        ],
+        "distractors": [
+          "sábado",
+          "descanso",
+          "resgate"
+        ]
+      },
+      {
+        "id": "lev-25-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "Porque os filhos de Israel me são {0}; meus servos são eles",
+        "blanks": [
+          "servos"
+        ],
+        "distractors": [
+          "filhos",
+          "herdeiros",
+          "peregrinos"
+        ]
+      }
+    ],
+    "26": [
+      {
+        "id": "lev-26-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "para inclinar-vos a ela; porque eu sou o {0} vosso Deus",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Deus",
+          "santuário",
+          "convênio"
+        ]
+      },
+      {
+        "id": "lev-26-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Guardar o sábado",
+        "text": "O capítulo abre repetindo dois mandamentos centrais da aliança — não fazer ídolos e guardar os sábados — antes de listar as bênçãos, mostrando que a adoração correta vinha primeiro."
+      },
+      {
+        "id": "lev-26-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "No versículo 9, o que o Senhor promete fazer com seu povo se ele for obediente?",
+        "options": [
+          "Multiplicá-los e confirmar o seu convênio com eles",
+          "Espalhá-los entre as nações",
+          "Reduzi-los a poucos",
+          "Enviar feras do campo contra eles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-26-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "vosso Deus, que vos tirei da terra dos {0}, para que não fôsseis seus escravos",
+        "blanks": [
+          "egípcios"
+        ],
+        "distractors": [
+          "assírios",
+          "babilônios",
+          "cananeus"
+        ]
+      },
+      {
+        "id": "lev-26-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "então eu prosseguirei a castigar-vos {0} vezes mais por causa dos vossos pecados",
+        "blanks": [
+          "sete"
+        ],
+        "distractors": [
+          "três",
+          "dez",
+          "quatro"
+        ]
+      },
+      {
+        "id": "lev-26-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "Porque enviarei sobre vós a {0}, que executará a vingança do convênio",
+        "blanks": [
+          "espada"
+        ],
+        "distractors": [
+          "peste",
+          "fome",
+          "praga"
+        ]
+      },
+      {
+        "id": "lev-26-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "Os versículos 27 a 33 descrevem a fase mais severa do juízo. O que o Senhor adverte que fará às cidades e santuários de Israel?",
+        "options": [
+          "Reduzirá as cidades a deserto e assolará os santuários",
+          "Multiplicará o povo nas cidades",
+          "Dará chuvas a seu tempo sobre a terra",
+          "Confirmará o seu convênio com o povo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-26-fb-36",
+        "type": "fill_blank",
+        "after_verse": 36,
+        "verse": 36,
+        "template": "que o ruído de uma {0} movida os perseguirá",
+        "blanks": [
+          "folha"
+        ],
+        "distractors": [
+          "espada",
+          "pedra",
+          "praga"
+        ]
+      },
+      {
+        "id": "lev-26-fb-42",
+        "type": "fill_blank",
+        "after_verse": 42,
+        "verse": 42,
+        "template": "Também eu me lembrarei do meu convênio com {0}, e também do meu convênio com Isaque",
+        "blanks": [
+          "Jacó"
+        ],
+        "distractors": [
+          "Moisés",
+          "Abraão",
+          "Israel"
+        ]
+      }
+    ],
+    "27": [
+      {
+        "id": "lev-27-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Cinquenta siclos de prata",
+        "text": "A avaliação mais alta do capítulo, cinquenta siclos de prata, é a de um homem entre vinte e sessenta anos — a faixa de maior capacidade de trabalho na economia israelita."
+      },
+      {
+        "id": "lev-27-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Porém, se for mulher, a tua avaliação será de {0} siclos.",
+        "blanks": [
+          "trinta"
+        ],
+        "distractors": [
+          "cinquenta",
+          "quinze",
+          "dez"
+        ]
+      },
+      {
+        "id": "lev-27-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Para uma criança de um mês até cinco anos, qual era a avaliação de um menino (homem)?",
+        "options": [
+          "Cinco siclos de prata",
+          "Cinquenta siclos de prata",
+          "Trinta siclos de prata",
+          "Vinte siclos de prata"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "lev-27-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Porém se de alguma maneira o resgatar, então acrescentará o seu {0} além da tua avaliação.",
+        "blanks": [
+          "quinto"
+        ],
+        "distractors": [
+          "dízimo",
+          "dobro",
+          "terço"
+        ]
+      },
+      {
+        "id": "lev-27-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "um ômer de semente de {0} será avaliado por cinquenta siclos de prata.",
+        "blanks": [
+          "cevada"
+        ],
+        "distractors": [
+          "trigo",
+          "lentilhas",
+          "centeio"
+        ]
+      },
+      {
+        "id": "lev-27-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Avaliação de um homem (20–60 anos)",
+            "right": "Cinquenta siclos"
+          },
+          {
+            "left": "Avaliação de uma mulher (20–60 anos)",
+            "right": "Trinta siclos"
+          },
+          {
+            "left": "Um siclo do santuário",
+            "right": "Vinte geras"
+          },
+          {
+            "left": "Primogênito do gado",
+            "right": "Já é do Senhor"
+          }
+        ]
+      },
+      {
+        "id": "lev-27-fb-34",
+        "type": "fill_blank",
+        "after_verse": 34,
+        "verse": 34,
+        "template": "Esses são os mandamentos que o Senhor ordenou a Moisés, para os filhos de Israel, no monte {0}.",
+        "blanks": [
+          "Sinai"
+        ],
+        "distractors": [
+          "Horebe",
+          "Nebo",
+          "Carmelo"
+        ]
+      }
+    ]
+  }
+}

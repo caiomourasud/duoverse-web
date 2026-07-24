@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "book": "2-thes",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-thes-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Who are the senders of this letter to the church of the Thessalonians?",
+        "options": [
+          "Paul, Silvanus, and Timotheus",
+          "Peter and John",
+          "James and Jude",
+          "Paul and Barnabas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-1-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Glory in persecutions",
+        "text": "Paul says he glories in this church among the other congregations because of its patience under persecution. Their faithfulness under pressure became an example he shared with the other saints."
+      },
+      {
+        "id": "2-thes-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "because that your faith {0} exceedingly",
+        "blanks": [
+          "groweth"
+        ],
+        "distractors": [
+          "suffereth",
+          "resteth",
+          "obeyeth"
+        ]
+      },
+      {
+        "id": "2-thes-1-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "when the Lord Jesus shall be revealed from {0} with his mighty angels",
+        "blanks": [
+          "heaven"
+        ],
+        "distractors": [
+          "fire",
+          "kingdom",
+          "temple"
+        ]
+      },
+      {
+        "id": "2-thes-1-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Them that trouble you",
+            "right": "recompensed tribulation"
+          },
+          {
+            "left": "You who are troubled",
+            "right": "rest with us"
+          },
+          {
+            "left": "The Lord Jesus revealed from heaven",
+            "right": "in flaming fire"
+          },
+          {
+            "left": "Them that obey not the gospel",
+            "right": "vengeance"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "2-thes-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A false alarm",
+        "text": "Some saints had been shaken by rumors — perhaps a forged letter claiming to be from Paul — that the day of Christ was already at hand. Paul writes to calm them and correct the error."
+      },
+      {
+        "id": "2-thes-2-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What does Paul remind the saints of in verse 5?",
+        "options": [
+          "That he had already told them these things when he was with them",
+          "That they should fast before the coming",
+          "That he had never taught them this",
+          "That another apostle would soon visit them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-2-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "that man of sin be revealed, the son of {0}",
+        "blanks": [
+          "perdition"
+        ],
+        "distractors": [
+          "iniquity",
+          "destruction",
+          "delusion"
+        ]
+      },
+      {
+        "id": "2-thes-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "whom the Lord shall consume with the {0} of his mouth",
+        "blanks": [
+          "spirit"
+        ],
+        "distractors": [
+          "power",
+          "brightness",
+          "word"
+        ]
+      },
+      {
+        "id": "2-thes-2-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "Before the day of Christ comes",
+            "right": "a falling away"
+          },
+          {
+            "left": "The Lord shall consume the Wicked with",
+            "right": "the spirit of his mouth"
+          },
+          {
+            "left": "The saints are told to",
+            "right": "stand fast"
+          },
+          {
+            "left": "God chose the saints unto",
+            "right": "salvation"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "2-thes-3-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Pray for us",
+        "text": "Even as the letter's author, Paul asks the saints to pray for him, that the word of the Lord may 'have free course' and be glorified. He saw mutual prayer as vital to the spread of the gospel."
+      },
+      {
+        "id": "2-thes-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "According to Paul, from what did the saints need to be delivered?",
+        "options": [
+          "Unreasonable and wicked men",
+          "The law of Moses",
+          "Material poverty",
+          "The tax collectors"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-thes-3-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "But the Lord is faithful, who shall stablish you, and keep you from {0}.",
+        "blanks": [
+          "evil"
+        ],
+        "distractors": [
+          "bread",
+          "faith",
+          "labour"
+        ]
+      },
+      {
+        "id": "2-thes-3-mp-8",
+        "type": "match_pairs",
+        "after_verse": 8,
+        "pairs": [
+          {
+            "left": "Paul wrought with labour",
+            "right": "night and day"
+          },
+          {
+            "left": "Ate no man's bread",
+            "right": "for nought"
+          },
+          {
+            "left": "Would not be",
+            "right": "chargeable to you"
+          },
+          {
+            "left": "Made himself an",
+            "right": "ensample"
+          }
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "that if any would not {0}, neither should he eat.",
+        "blanks": [
+          "work"
+        ],
+        "distractors": [
+          "pray",
+          "eat",
+          "obey"
+        ]
+      },
+      {
+        "id": "2-thes-3-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But ye, brethren, be not weary in well {0}.",
+        "blanks": [
+          "doing"
+        ],
+        "distractors": [
+          "working",
+          "eating",
+          "waiting"
+        ]
+      },
+      {
+        "id": "2-thes-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "How does Paul close the epistle to authenticate it?",
+        "options": [
+          "With his salutation in his own hand",
+          "With an apostle's seal",
+          "By asking the saints for silence",
+          "By quoting the law of Moses"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1888 @@
+{
+  "schema_version": 1,
+  "book": "rom",
+  "chapters": {
+    "1": [
+      {
+        "id": "rom-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La carta a los Romanos",
+        "text": "Pablo escribió esta carta a una iglesia que aún no había visitado, en Roma, capital del imperio. Es la más extensa y sistemática de sus cartas, y moldeó la teología cristiana a lo largo de los siglos."
+      },
+      {
+        "id": "rom-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Cómo se describe Pablo en el saludo a los romanos?",
+        "options": [
+          "Siervo de Jesucristo, llamado a ser apóstol",
+          "Sumo sacerdote de Israel",
+          "Rey de los gentiles",
+          "Escriba de la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué deseaba Pablo al visitar a los romanos?",
+        "options": [
+          "Impartirles algún don espiritual para fortalecerlos",
+          "Recibir ofrendas de ellos",
+          "Ser coronado rey",
+          "Fundar un templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "porque es {0} de Dios para salvación a todo aquel que cree;",
+        "blanks": [
+          "poder"
+        ],
+        "distractors": [
+          "amor",
+          "reino",
+          "juicio"
+        ]
+      },
+      {
+        "id": "rom-1-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "El justo vivirá por la fe",
+        "text": "El versículo 17 — 'el justo vivirá por la fe', citado de Habacuc — es el corazón de Romanos y del evangelio según Pablo. Siglos después, esta frase fue decisiva en la vida de reformadores como Martín Lutero."
+      },
+      {
+        "id": "rom-1-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "y cambiaron la {0} del Dios incorruptible en semejanza",
+        "blanks": [
+          "gloria"
+        ],
+        "distractors": [
+          "ley",
+          "verdad",
+          "palabra"
+        ]
+      },
+      {
+        "id": "rom-1-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué hicieron los hombres al cambiar la verdad de Dios por la mentira?",
+        "options": [
+          "Adoraron y sirvieron a la criatura más que al Creador",
+          "Construyeron un templo a Dios",
+          "Guardaron la ley de Moisés",
+          "Predicaron a los gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "¿Qué dice Pablo de los que practican tales males, conociendo el juicio de Dios?",
+        "options": [
+          "No solo los hacen, sino que aprueban a los que los practican",
+          "Se arrepienten enseguida",
+          "Se esconden de Dios",
+          "Buscan perdón en el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-1-mp-32",
+        "type": "match_pairs",
+        "after_verse": 32,
+        "pairs": [
+          {
+            "left": "Pablo",
+            "right": "Siervo y apóstol, autor de la carta a los Romanos"
+          },
+          {
+            "left": "El evangelio",
+            "right": "Poder de Dios para la salvación del que cree"
+          },
+          {
+            "left": "El justo",
+            "right": "Vivirá por la fe"
+          },
+          {
+            "left": "La ira de Dios",
+            "right": "Revelada contra la impiedad de los hombres"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "rom-2-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El juez que se condena",
+        "text": "Pablo vuelve el argumento contra quien juzga a los demás: al condenar el pecado ajeno y practicar lo mismo, la persona se condena a sí misma. Nadie escapa del juicio de Dios por creerse mejor."
+      },
+      {
+        "id": "rom-2-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "su bondad te guía al {0}?",
+        "blanks": [
+          "arrepentimiento"
+        ],
+        "distractors": [
+          "juicio",
+          "castigo",
+          "engaño"
+        ]
+      },
+      {
+        "id": "rom-2-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué afirma Pablo sobre el juicio de Dios?",
+        "options": [
+          "Para con Dios no hay acepción de personas",
+          "Dios juzga solo a los gentiles",
+          "Dios perdona a los judíos",
+          "Dios ignora las obras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Quiénes son justos delante de Dios, según Pablo?",
+        "options": [
+          "No los oidores de la ley, sino los hacedores de ella",
+          "Solo los circuncidados",
+          "Los que conocen la ley",
+          "Los sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "¿Qué incoherencia señala Pablo en quien se jacta de enseñar la ley?",
+        "options": [
+          "Enseña a otros, pero no se enseña a sí mismo",
+          "Guarda la ley perfectamente",
+          "Desprecia a los gentiles",
+          "Niega la circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "la circuncisión en verdad aprovecha, si guardas la {0};",
+        "blanks": [
+          "ley"
+        ],
+        "distractors": [
+          "fe",
+          "alianza",
+          "promesa"
+        ]
+      },
+      {
+        "id": "rom-2-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "¿Quién es verdaderamente judío, según Pablo?",
+        "options": [
+          "El que lo es en lo interior, con la circuncisión del corazón",
+          "El que lo es exteriormente en la carne",
+          "Quien guarda la circuncisión física",
+          "El descendiente de Abraham"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-2-mp-29",
+        "type": "match_pairs",
+        "after_verse": 29,
+        "pairs": [
+          {
+            "left": "La bondad de Dios",
+            "right": "Conduce al arrepentimiento"
+          },
+          {
+            "left": "Los hacedores de la ley",
+            "right": "Son justificados, no los que solo la oyen"
+          },
+          {
+            "left": "Acepción de personas",
+            "right": "No existe delante de Dios"
+          },
+          {
+            "left": "Verdadero judío",
+            "right": "El que lo es en lo interior, en el corazón"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "rom-3-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "sea Dios veraz, y todo hombre {0}.",
+        "blanks": [
+          "mentiroso"
+        ],
+        "distractors": [
+          "pecador",
+          "impío",
+          "infiel"
+        ]
+      },
+      {
+        "id": "rom-3-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "¿Qué calumnia rechaza Pablo, llamando justa la condenación de quien la profiere?",
+        "options": [
+          "Hagamos lo malo para que venga lo bueno",
+          "La ley fue anulada",
+          "Dios no juzga",
+          "La fe basta sin Dios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "No hay justo, ni uno",
+        "text": "Para probar que todos pecaron, Pablo encadena una serie de citas del Antiguo Testamento — sobre todo de los Salmos y de Isaías. El conjunto pinta un retrato sombrío de la humanidad sin Dios."
+      },
+      {
+        "id": "rom-3-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "No hay {0}, ni aun uno;",
+        "blanks": [
+          "justo"
+        ],
+        "distractors": [
+          "sabio",
+          "fiel",
+          "puro"
+        ]
+      },
+      {
+        "id": "rom-3-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿De dónde toma Pablo la serie de citas sobre la condición pecadora de todos?",
+        "options": [
+          "De los salmos y los profetas del Antiguo Testamento",
+          "De la ley de Roma",
+          "De proverbios griegos",
+          "De sus propias palabras"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "por cuanto todos {0} y están destituidos de la gloria de Dios,",
+        "blanks": [
+          "pecaron"
+        ],
+        "distractors": [
+          "creyeron",
+          "mintieron",
+          "huyeron"
+        ]
+      },
+      {
+        "id": "rom-3-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "Justificados por la gracia",
+        "text": "Pablo presenta a Cristo como propiciación, palabra que evocaba el sacrificio del Día de la Expiación en el templo. La justificación es gratuita: viene por la gracia y por la redención en Cristo, no por el mérito del que cree."
+      },
+      {
+        "id": "rom-3-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "¿Cómo es justificado el hombre, concluye Pablo?",
+        "options": [
+          "Por la fe, sin las obras de la ley",
+          "Por las obras de la ley",
+          "Por la circuncisión",
+          "Por los sacrificios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-3-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Todos",
+            "right": "Pecaron y están destituidos de la gloria de Dios"
+          },
+          {
+            "left": "Justificación",
+            "right": "Gratuita, por la gracia y la redención en Cristo"
+          },
+          {
+            "left": "La jactancia",
+            "right": "Excluida por la ley de la fe"
+          },
+          {
+            "left": "Dios",
+            "right": "Es Dios tanto de judíos como de gentiles"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "rom-4-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Abraham, padre de la fe",
+        "text": "Pablo apela a Abraham, el gran patriarca, para mostrar que la justificación siempre fue por la fe. Abraham creyó antes de existir la ley y antes de ser circuncidado, llegando a ser padre de todos los que creen, judíos y gentiles."
+      },
+      {
+        "id": "rom-4-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "le fue contado por {0}.",
+        "blanks": [
+          "justicia"
+        ],
+        "distractors": [
+          "gracia",
+          "fe",
+          "bendición"
+        ]
+      },
+      {
+        "id": "rom-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿A quién declara David bienaventurado?",
+        "options": [
+          "Aquel cuyas iniquidades son perdonadas y cuyos pecados son cubiertos",
+          "El que guarda toda la ley",
+          "El rico y poderoso",
+          "El circuncidado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Por qué le fue contada a Abraham la fe por justicia antes de ser circuncidado?",
+        "options": [
+          "Para ser padre de todos los que creen, circuncidados o no",
+          "Para fundar Israel",
+          "Por ser rey",
+          "Para recibir la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Te he puesto por padre de muchas {0}",
+        "blanks": [
+          "naciones"
+        ],
+        "distractors": [
+          "tribus",
+          "ciudades",
+          "generaciones"
+        ]
+      },
+      {
+        "id": "rom-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué no consideró Abraham al creer la promesa de Dios?",
+        "options": [
+          "Su propio cuerpo ya muerto y el vientre estéril de Sara",
+          "La oposición de los reyes",
+          "La distancia de la tierra",
+          "La pobreza de su familia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "La fe contra esperanza",
+        "text": "Abraham creyó la promesa de un hijo aun teniendo casi cien años y siendo estéril el vientre de Sara. Pablo lo presenta como ejemplo de quien no duda de la promesa de Dios por incredulidad, sino que se fortalece en la fe."
+      },
+      {
+        "id": "rom-4-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Por qué fue escrita también por causa de nosotros la fe de Abraham, según Pablo?",
+        "options": [
+          "Porque la justicia será contada a nosotros que creemos en quien resucitó a Jesús",
+          "Porque debemos imitar sus viajes",
+          "Porque heredamos su riqueza",
+          "Porque guardamos la circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-4-mp-25",
+        "type": "match_pairs",
+        "after_verse": 25,
+        "pairs": [
+          {
+            "left": "Abraham",
+            "right": "Creyó a Dios y le fue contado por justicia"
+          },
+          {
+            "left": "David",
+            "right": "Declaró bienaventurado al perdonado sin obras"
+          },
+          {
+            "left": "La promesa",
+            "right": "Dada por la justicia de la fe, no por la ley"
+          },
+          {
+            "left": "Sara",
+            "right": "Tenía el vientre estéril cuando vino la promesa"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "rom-5-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Paz con Dios",
+        "text": "A partir de aquí Pablo describe los frutos de la justificación: paz con Dios, acceso a la gracia y una esperanza que no avergüenza. Hasta las tribulaciones se vuelven motivo de gloria, pues producen paciencia, prueba y esperanza."
+      },
+      {
+        "id": "rom-5-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "y la prueba, {0};",
+        "blanks": [
+          "esperanza"
+        ],
+        "distractors": [
+          "fe",
+          "paciencia",
+          "gloria"
+        ]
+      },
+      {
+        "id": "rom-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "siendo aún {0}, Cristo murió por nosotros.",
+        "blanks": [
+          "pecadores"
+        ],
+        "distractors": [
+          "enemigos",
+          "débiles",
+          "impíos"
+        ]
+      },
+      {
+        "id": "rom-5-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "¿Cómo entraron el pecado y la muerte en el mundo, según Pablo?",
+        "options": [
+          "Por un solo hombre (Adán)",
+          "Por la ley de Moisés",
+          "Por los profetas",
+          "Por los gentiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-5-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Adán y Cristo",
+        "text": "Pablo llama a Adán 'figura del que había de venir', trazando un paralelo central: por un hombre vino la condenación a todos; por otro, Cristo, viene la gracia y la justificación. Donde el pecado abundó, sobreabundó la gracia."
+      },
+      {
+        "id": "rom-5-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "por la {0} de uno, los muchos serán constituidos justos.",
+        "blanks": [
+          "obediencia"
+        ],
+        "distractors": [
+          "fe",
+          "gracia",
+          "justicia"
+        ]
+      },
+      {
+        "id": "rom-5-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Justificación por la fe",
+            "right": "Trae paz con Dios"
+          },
+          {
+            "left": "La tribulación",
+            "right": "Produce paciencia, prueba y esperanza"
+          },
+          {
+            "left": "Adán",
+            "right": "Por él entró el pecado y la muerte en el mundo"
+          },
+          {
+            "left": "Cristo",
+            "right": "Por él sobreabundó la gracia y la justificación"
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "rom-6-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "Bautizados en la muerte de Cristo",
+        "text": "Pablo usa el bautismo como imagen de muerte y resurrección: ser sepultado en las aguas representa morir al pecado, y salir de ellas, andar en vida nueva. La gracia no es licencia para pecar, sino liberación del pecado."
+      },
+      {
+        "id": "rom-6-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "para muerte por medio del {0},",
+        "blanks": [
+          "bautismo"
+        ],
+        "distractors": [
+          "sacrificio",
+          "perdón",
+          "sangre"
+        ]
+      },
+      {
+        "id": "rom-6-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "¿Qué le sucede al 'viejo hombre', según Pablo?",
+        "options": [
+          "Fue crucificado con Cristo, para que el cuerpo del pecado sea deshecho",
+          "Fue fortalecido por la ley",
+          "Permanece esclavo de la carne",
+          "Fue enterrado en el templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué pide Pablo que se presente a Dios?",
+        "options": [
+          "Vuestros miembros como instrumentos de justicia",
+          "Sacrificios de animales",
+          "Ofrendas de plata",
+          "La circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-6-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "La paga y la dádiva",
+        "text": "El versículo final resume el capítulo en un contraste notable: el pecado paga un salario, y ese salario es la muerte; pero Dios ofrece una dádiva gratuita, la vida eterna en Cristo Jesús."
+      },
+      {
+        "id": "rom-6-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Porque la {0} del pecado es muerte,",
+        "blanks": [
+          "paga"
+        ],
+        "distractors": [
+          "precio",
+          "fruto",
+          "fin"
+        ]
+      },
+      {
+        "id": "rom-6-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "El bautismo",
+            "right": "Imagen de morir y resucitar con Cristo"
+          },
+          {
+            "left": "El viejo hombre",
+            "right": "Crucificado con Cristo"
+          },
+          {
+            "left": "La paga del pecado",
+            "right": "La muerte"
+          },
+          {
+            "left": "La dádiva de Dios",
+            "right": "La vida eterna en Cristo Jesús"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "rom-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "La analogía del matrimonio",
+        "text": "Pablo compara el vínculo con la ley a un matrimonio: así como la muerte del marido libera a la esposa, la muerte a la ley (por el cuerpo de Cristo) libera al creyente para pertenecer a otro — al propio Cristo resucitado."
+      },
+      {
+        "id": "rom-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué analogía usa Pablo para explicar la liberación de la ley?",
+        "options": [
+          "La mujer queda libre de la ley del marido cuando él muere",
+          "Un siervo libre del señor",
+          "Un deudor que paga la deuda",
+          "Un rey que abdica"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "si la ley no dijera: No {0}.",
+        "blanks": [
+          "codiciarás"
+        ],
+        "distractors": [
+          "matarás",
+          "robarás",
+          "mentirás"
+        ]
+      },
+      {
+        "id": "rom-7-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "la ley a la verdad es {0}, y el mandamiento es santo,",
+        "blanks": [
+          "santa"
+        ],
+        "distractors": [
+          "buena",
+          "justa",
+          "perfecta"
+        ]
+      },
+      {
+        "id": "rom-7-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué conflicto interior describe Pablo en este capítulo?",
+        "options": [
+          "No hace el bien que quiere, sino el mal que aborrece",
+          "Ha olvidado la ley de Dios",
+          "No conoce el pecado",
+          "Vive sin tentaciones"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué dice Pablo que mora en su carne?",
+        "options": [
+          "Ningún bien; el querer está en él, pero no logra hacer el bien",
+          "La plenitud de la ley",
+          "El Espíritu de Dios",
+          "La justicia perfecta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-7-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "¿Quién me librará de este cuerpo de {0}?",
+        "blanks": [
+          "muerte"
+        ],
+        "distractors": [
+          "ley",
+          "carne",
+          "prisión"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "rom-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Ninguna condenación",
+        "text": "Romanos 8 es la cumbre de la carta y uno de los capítulos más amados de la Biblia. Abre con la gran declaración de que no hay condenación para los que están en Cristo, y celebra la vida guiada por el Espíritu."
+      },
+      {
+        "id": "rom-8-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "ninguna {0} hay para los que están en Cristo Jesús,",
+        "blanks": [
+          "condenación"
+        ],
+        "distractors": [
+          "esperanza",
+          "tribulación",
+          "ley"
+        ]
+      },
+      {
+        "id": "rom-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "el ánimo espiritual es vida y {0}.",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "ley",
+          "gloria",
+          "fuerza"
+        ]
+      },
+      {
+        "id": "rom-8-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué le sucede a quien, por el Espíritu, hace morir las obras del cuerpo?",
+        "options": [
+          "Vivirá",
+          "Vuelve a la ley",
+          "Es condenado",
+          "Permanece en la carne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "habéis recibido el espíritu de {0}, por el cual clamamos: ¡Abba, Padre!",
+        "blanks": [
+          "adopción"
+        ],
+        "distractors": [
+          "santidad",
+          "verdad",
+          "profecía"
+        ]
+      },
+      {
+        "id": "rom-8-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Abba, Padre",
+        "text": "'Abba' es una palabra aramea que significa Padre, de tono íntimo y afectuoso. Pablo dice que el Espíritu de adopción hace a los creyentes clamar '¡Abba, Padre!', dando testimonio de que son hijos de Dios y herederos con Cristo."
+      },
+      {
+        "id": "rom-8-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Qué dice Pablo que hace toda la creación, esperando la redención?",
+        "options": [
+          "Gime y sufre dolores de parto hasta ahora",
+          "Descansa en paz",
+          "Ya ha sido librada",
+          "Ignora a Dios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "el Espíritu mismo intercede por nosotros con {0} indecibles.",
+        "blanks": [
+          "gemidos"
+        ],
+        "distractors": [
+          "palabras",
+          "oraciones",
+          "clamores"
+        ]
+      },
+      {
+        "id": "rom-8-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "todas las cosas obrarán juntamente para su {0},",
+        "blanks": [
+          "bien"
+        ],
+        "distractors": [
+          "juicio",
+          "gloria",
+          "provecho"
+        ]
+      },
+      {
+        "id": "rom-8-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "¿Qué pregunta hace Pablo para mostrar la seguridad del creyente?",
+        "options": [
+          "Si Dios es por nosotros, ¿quién contra nosotros?",
+          "¿Quién guardará la ley?",
+          "¿Quién es digno?",
+          "¿Quién nos enseñará?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "¿Qué afirma Pablo que NADA puede hacer al creyente?",
+        "options": [
+          "Apartarlo del amor de Cristo",
+          "Hacerlo esclavo de la ley",
+          "Quitarle la herencia",
+          "Aumentar su fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-8-cur-37",
+        "type": "curiosity",
+        "after_verse": 37,
+        "title": "Más que vencedores",
+        "text": "Pablo cierra el capítulo con uno de los pasajes más célebres de la Biblia: somos más que vencedores por medio de aquel que nos amó, y nada — ni la muerte, ni la vida, ni lo alto, ni lo profundo — puede separarnos del amor de Dios en Cristo."
+      },
+      {
+        "id": "rom-8-mp-39",
+        "type": "match_pairs",
+        "after_verse": 39,
+        "pairs": [
+          {
+            "left": "La ley del Espíritu de vida",
+            "right": "Libera de la ley del pecado y de la muerte"
+          },
+          {
+            "left": "El Espíritu de adopción",
+            "right": "Hace clamar: ¡Abba, Padre!"
+          },
+          {
+            "left": "La creación",
+            "right": "Gime esperando la redención"
+          },
+          {
+            "left": "El amor de Dios",
+            "right": "Nada puede separarnos de él"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "rom-9-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "Los privilegios de Israel",
+        "text": "Pablo enumera con pesar todo lo que pertenecía a Israel: la adopción, la gloria, los convenios, la ley, el culto y las promesas. De este pueblo, según la carne, vendría el propio Cristo."
+      },
+      {
+        "id": "rom-9-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "¿Qué privilegios enumera Pablo como pertenecientes a los israelitas?",
+        "options": [
+          "La adopción, la gloria, los convenios y las promesas",
+          "Las riquezas, el trono y el ejército",
+          "La sabiduría, la fuerza y la fama",
+          "Los profetas, los reyes y los jueces"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "En {0} te será llamada descendencia.",
+        "blanks": [
+          "Isaac"
+        ],
+        "distractors": [
+          "Ismael",
+          "Jacob",
+          "Esaú"
+        ]
+      },
+      {
+        "id": "rom-9-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "Jacob y Esaú",
+        "text": "Pablo recuerda que Dios escogió a Jacob en vez de a Esaú antes de nacer y de haber hecho bien o mal, para mostrar que el propósito de Dios no depende de las obras, sino de su elección. Es uno de los textos centrales del debate sobre la gracia."
+      },
+      {
+        "id": "rom-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "A {0} amé, mas a Esaú aborrecí.",
+        "blanks": [
+          "Jacob"
+        ],
+        "distractors": [
+          "Isaac",
+          "Abraham",
+          "Ismael"
+        ]
+      },
+      {
+        "id": "rom-9-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "¿Qué concluye Pablo sobre la misericordia de Dios, citando a Moisés y a Faraón?",
+        "options": [
+          "Depende de Dios, que tiene misericordia de quien quiere",
+          "Depende del esfuerzo humano",
+          "Depende de la ley",
+          "Depende de la circuncisión"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "¿O no tiene potestad el {0} para hacer de la misma masa",
+        "blanks": [
+          "alfarero"
+        ],
+        "distractors": [
+          "rey",
+          "maestro",
+          "señor"
+        ]
+      },
+      {
+        "id": "rom-9-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "El pueblo que no era pueblo",
+        "text": "Citando al profeta Oseas, Pablo muestra que Dios llamaría 'pueblo mío' a los que no eran su pueblo — los gentiles. La inclusión de las naciones ya estaba anunciada en las Escrituras de Israel."
+      },
+      {
+        "id": "rom-9-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "¿Qué profetizó Isaías sobre Israel, citado por Pablo?",
+        "options": [
+          "Aunque sean como la arena del mar, solo el remanente será salvo",
+          "Que todos serán salvos",
+          "Que ninguno se salvará",
+          "Que volverán de Egipto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-9-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "He aquí pongo en {0} piedra de tropiezo",
+        "blanks": [
+          "Sion"
+        ],
+        "distractors": [
+          "Jerusalén",
+          "Belén",
+          "Judá"
+        ]
+      },
+      {
+        "id": "rom-9-mp-33",
+        "type": "match_pairs",
+        "after_verse": 33,
+        "pairs": [
+          {
+            "left": "Isaac",
+            "right": "En quien sería llamada la descendencia de Abraham"
+          },
+          {
+            "left": "Jacob y Esaú",
+            "right": "Escogidos antes de nacer, para mostrar la elección"
+          },
+          {
+            "left": "El alfarero y el barro",
+            "right": "Imagen de la soberanía de Dios sobre el hombre"
+          },
+          {
+            "left": "Oseas",
+            "right": "Profeta citado sobre los gentiles como pueblo de Dios"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "rom-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Cristo es el fin de la ley",
+        "text": "Israel tenía celo por Dios, pero buscaba su propia justicia por las obras de la ley. Pablo declara que Cristo es el fin de la ley: en él la justicia se alcanza por la fe, no por el esfuerzo de guardar mandamientos."
+      },
+      {
+        "id": "rom-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "Porque el fin de la ley es {0}, para justicia a todo aquel que cree.",
+        "blanks": [
+          "Cristo"
+        ],
+        "distractors": [
+          "Moisés",
+          "Abraham",
+          "David"
+        ]
+      },
+      {
+        "id": "rom-10-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Si confiesas con tu {0} al Señor Jesús,",
+        "blanks": [
+          "boca"
+        ],
+        "distractors": [
+          "alma",
+          "mente",
+          "fuerza"
+        ]
+      },
+      {
+        "id": "rom-10-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué afirma Pablo sobre todo aquel que invoca el nombre del Señor?",
+        "options": [
+          "Será salvo",
+          "Será juzgado",
+          "Recibirá la ley",
+          "Será circuncidado"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-10-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Cuán hermosos son los pies",
+        "text": "Para mostrar la necesidad de la predicación, Pablo cita a Isaías: '¡Cuán hermosos son los pies de los que anuncian el evangelio de paz!' La fe viene por el oír, y el oír por la palabra de Dios predicada."
+      },
+      {
+        "id": "rom-10-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "Así que la {0} viene por el oír,",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "ley",
+          "gracia",
+          "esperanza"
+        ]
+      },
+      {
+        "id": "rom-10-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "¿Qué se atrevió a decir Isaías, citado por Pablo, sobre los gentiles?",
+        "options": [
+          "Fui hallado por los que no me buscaban",
+          "Israel buscó y halló",
+          "Nadie me buscó",
+          "Los gentiles fueron rechazados"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-10-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Cristo",
+            "right": "El fin de la ley para la justicia del que cree"
+          },
+          {
+            "left": "Confesar y creer",
+            "right": "Con la boca y el corazón, para salvación"
+          },
+          {
+            "left": "Invocar el nombre del Señor",
+            "right": "Todo el que lo hace será salvo"
+          },
+          {
+            "left": "La fe",
+            "right": "Viene por el oír la palabra de Dios"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "rom-11-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Los siete mil de Elías",
+        "text": "Para probar que Dios no ha desechado a Israel, Pablo recuerda a Elías, que se creía el único fiel. Dios respondió que se había reservado siete mil que no doblaron la rodilla ante Baal — señal de que siempre hay un remanente por gracia."
+      },
+      {
+        "id": "rom-11-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "descendiente de Abraham, de la tribu de {0}.",
+        "blanks": [
+          "Benjamín"
+        ],
+        "distractors": [
+          "Judá",
+          "Leví",
+          "Efraín"
+        ]
+      },
+      {
+        "id": "rom-11-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "¿Qué dice Pablo que ha quedado en Israel, según la elección por gracia?",
+        "options": [
+          "Un remanente",
+          "La tribu de Judá",
+          "Los sacerdotes",
+          "Los profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué efecto tuvo la caída de Israel, según Pablo?",
+        "options": [
+          "Vino la salvación a los gentiles, para provocar a celos a Israel",
+          "Israel fue destruido para siempre",
+          "Los gentiles fueron rechazados",
+          "La ley fue anulada"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "y si la {0} es santa, también lo son las ramas.",
+        "blanks": [
+          "raíz"
+        ],
+        "distractors": [
+          "árbol",
+          "semilla",
+          "vid"
+        ]
+      },
+      {
+        "id": "rom-11-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "El olivo",
+        "text": "Pablo compara a Israel con un olivo: algunas ramas naturales fueron desgajadas por incredulidad, y los gentiles, olivo silvestre, fueron injertados en su lugar. La imagen enseña a los gentiles a no ensoberbecerse, pues es la raíz la que los sostiene."
+      },
+      {
+        "id": "rom-11-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "y tú, siendo {0} silvestre, has sido injertado en lugar de ellas",
+        "blanks": [
+          "olivo"
+        ],
+        "distractors": [
+          "vid",
+          "higuera",
+          "palmera"
+        ]
+      },
+      {
+        "id": "rom-11-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "¿Qué misterio revela Pablo sobre Israel?",
+        "options": [
+          "El endurecimiento vino en parte, hasta que entre la plenitud de los gentiles",
+          "Israel nunca será salvo",
+          "Los gentiles serán rechazados",
+          "La ley volverá a reinar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-fb-29",
+        "type": "fill_blank",
+        "after_verse": 29,
+        "verse": 29,
+        "template": "porque los {0} y el llamamiento de Dios son irrevocables.",
+        "blanks": [
+          "dones"
+        ],
+        "distractors": [
+          "juicios",
+          "castigos",
+          "mandamientos"
+        ]
+      },
+      {
+        "id": "rom-11-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "La doxología",
+        "text": "Tras tres capítulos reflexionando sobre los planes de Dios, Pablo prorrumpe en un himno de alabanza a la profundidad de la sabiduría de Dios: 'De él, y por él, y para él son todas las cosas; a él sea la gloria por los siglos.'"
+      },
+      {
+        "id": "rom-11-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "¿Cómo cierra Pablo esta sección sobre los planes de Dios?",
+        "options": [
+          "De él, por él y para él son todas las cosas; a él la gloria",
+          "Condenando a los gentiles",
+          "Anulando la ley",
+          "Pidiendo ofrendas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-11-mp-36",
+        "type": "match_pairs",
+        "after_verse": 36,
+        "pairs": [
+          {
+            "left": "Elías",
+            "right": "Profeta a quien Dios reservó siete mil fieles"
+          },
+          {
+            "left": "El remanente",
+            "right": "Lo que quedó de Israel por gracia"
+          },
+          {
+            "left": "El olivo",
+            "right": "Israel, en el que los gentiles fueron injertados"
+          },
+          {
+            "left": "Todo Israel",
+            "right": "Será salvo, según Pablo"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "rom-12-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sacrificio vivo",
+        "text": "Pablo abre la parte práctica de la carta pidiendo que los creyentes ofrezcan su propio cuerpo como 'sacrificio vivo'. En vez de los sacrificios de animales del templo, el verdadero culto es una vida entera dedicada a Dios."
+      },
+      {
+        "id": "rom-12-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "que presentéis vuestros cuerpos en sacrificio {0}, santo, agradable a Dios,",
+        "blanks": [
+          "vivo"
+        ],
+        "distractors": [
+          "puro",
+          "perfecto",
+          "eterno"
+        ]
+      },
+      {
+        "id": "rom-12-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Qué pide Pablo en lugar de conformarse a este mundo?",
+        "options": [
+          "Transformarse por la renovación del entendimiento",
+          "Guardar la ley de Moisés",
+          "Separarse de los gentiles",
+          "Ofrecer sacrificios de animales"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Dados a la hospitalidad",
+        "text": "Entre las marcas del amor sincero, Pablo destaca compartir con los santos en sus necesidades y practicar la hospitalidad. Acoger a viajeros y hermanos era esencial para las primeras comunidades cristianas, esparcidas por el imperio."
+      },
+      {
+        "id": "rom-12-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "¿Qué exhorta Pablo a hacer con los que se gozan y los que lloran?",
+        "options": [
+          "Gozarse con los que se gozan y llorar con los que lloran",
+          "Juzgar a los que pecan",
+          "Evitar a los tristes",
+          "Reprender a los débiles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Qué está escrito sobre la venganza, según Pablo?",
+        "options": [
+          "Mía es la venganza; yo pagaré, dice el Señor",
+          "Vengaos de los enemigos",
+          "La venganza es del hombre justo",
+          "No hay venganza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-12-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "sino vence el mal con el {0}.",
+        "blanks": [
+          "bien"
+        ],
+        "distractors": [
+          "amor",
+          "perdón",
+          "Espíritu"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "rom-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Sujeción a las autoridades",
+        "text": "Pablo enseña que toda alma debe sujetarse a las autoridades, pues no hay autoridad sino de Dios. Escrito bajo el imperio romano, es uno de los textos más discutidos sobre la relación entre los cristianos y el poder civil."
+      },
+      {
+        "id": "rom-13-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué enseña Pablo sobre las autoridades superiores?",
+        "options": [
+          "No hay autoridad sino de Dios; las que hay, por él son ordenadas",
+          "Deben ser siempre combatidas",
+          "No tienen poder real",
+          "Son enemigas de la fe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-13-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "porque el que ama al prójimo, ha cumplido la {0}.",
+        "blanks": [
+          "ley"
+        ],
+        "distractors": [
+          "promesa",
+          "alianza",
+          "gracia"
+        ]
+      },
+      {
+        "id": "rom-13-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "El amor cumple la ley",
+        "text": "Pablo resume los mandamientos — no adulterar, no matar, no hurtar, no codiciar — en una sola palabra: 'Amarás a tu prójimo como a ti mismo.' El amor no hace mal al prójimo; por eso es el cumplimiento de la ley."
+      },
+      {
+        "id": "rom-13-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "¿En qué mandamiento resume Pablo toda la ley?",
+        "options": [
+          "Amarás a tu prójimo como a ti mismo",
+          "No tendrás otros dioses",
+          "Guardarás el sábado",
+          "Honrarás a tu padre y a tu madre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-13-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "y vistámonos con las armas de la {0}.",
+        "blanks": [
+          "luz"
+        ],
+        "distractors": [
+          "fe",
+          "gloria",
+          "verdad"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "rom-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "El fuerte y el débil",
+        "text": "En la iglesia de Roma había tensiones entre cristianos de origen judío y gentil sobre comer ciertos alimentos y guardar ciertos días. Pablo pide que nadie juzgue ni menosprecie al hermano por esas diferencias."
+      },
+      {
+        "id": "rom-14-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "¿Cómo deben tratarse el que come de todo y el que solo come legumbres?",
+        "options": [
+          "No menospreciar ni juzgar el uno al otro, pues Dios los recibió",
+          "El fuerte debe excluir al débil",
+          "Ambos deben ayunar",
+          "El débil debe ser reprendido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Si vivimos, para el {0} vivimos;",
+        "blanks": [
+          "Señor"
+        ],
+        "distractors": [
+          "mundo",
+          "cuerpo",
+          "prójimo"
+        ]
+      },
+      {
+        "id": "rom-14-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "¿Por qué dice Pablo que no debemos juzgar al hermano?",
+        "options": [
+          "Porque todos compareceremos ante el tribunal de Cristo",
+          "Porque el hermano es perfecto",
+          "Porque la ley fue anulada",
+          "Porque nadie peca"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "No poner tropiezo al hermano",
+        "text": "En vez de juzgarse unos a otros, Pablo pide que decidan no poner tropiezo ni obstáculo al hermano. La libertad del fuerte no debe destruir a aquel por quien Cristo murió."
+      },
+      {
+        "id": "rom-14-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "porque el {0} de Dios no es comida ni bebida,",
+        "blanks": [
+          "reino"
+        ],
+        "distractors": [
+          "amor",
+          "poder",
+          "camino"
+        ]
+      },
+      {
+        "id": "rom-14-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Según Pablo, ¿qué es pecado en relación con la fe?",
+        "options": [
+          "Todo lo que no es de fe",
+          "Comer carne",
+          "Beber vino",
+          "Guardar días"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-14-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "El fuerte y el débil",
+            "right": "No deben juzgarse por comidas y días"
+          },
+          {
+            "left": "El tribunal de Cristo",
+            "right": "Donde cada uno dará cuenta de sí a Dios"
+          },
+          {
+            "left": "El reino de Dios",
+            "right": "Justicia, paz y gozo en el Espíritu Santo"
+          },
+          {
+            "left": "Lo que no es de fe",
+            "right": "Es pecado"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "rom-15-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Escritas para nuestra enseñanza",
+        "text": "Pablo afirma que todo lo que se escribió antes fue escrito para nuestra enseñanza, a fin de que por la paciencia y la consolación de las Escrituras tengamos esperanza. Es una de las grandes declaraciones sobre el valor de las Escrituras."
+      },
+      {
+        "id": "rom-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "consolación de las Escrituras, tengamos {0}.",
+        "blanks": [
+          "esperanza"
+        ],
+        "distractors": [
+          "fe",
+          "paz",
+          "gloria"
+        ]
+      },
+      {
+        "id": "rom-15-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué exhorta Pablo a hacer los unos a los otros, como Cristo hizo?",
+        "options": [
+          "Aceptarse los unos a los otros, para gloria de Dios",
+          "Juzgarse mutuamente",
+          "Separarse de los gentiles",
+          "Competir en la ley"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "La raíz de Isaí",
+        "text": "Citando a Isaías, Pablo aplica a los gentiles la profecía de una 'raíz de Isaí' que se levantaría para regir a las naciones. Isaí era el padre de David, y la profecía apuntaba al Mesías, en quien los gentiles pondrían su esperanza."
+      },
+      {
+        "id": "rom-15-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Habrá una raíz de {0},",
+        "blanks": [
+          "Isaí"
+        ],
+        "distractors": [
+          "David",
+          "Judá",
+          "Abraham"
+        ]
+      },
+      {
+        "id": "rom-15-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Cómo describe Pablo su papel entre los gentiles?",
+        "options": [
+          "Ministro de Jesucristo, ministrando el evangelio de Dios",
+          "Juez de los gentiles",
+          "Rey de los gentiles",
+          "Sacerdote del templo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "¿Hasta dónde dice Pablo que había predicado el evangelio de Cristo?",
+        "options": [
+          "Desde Jerusalén y los alrededores hasta Ilírico",
+          "De Roma a España",
+          "Solo en Judea",
+          "De Antioquía a Egipto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "El plan de ir a España",
+        "text": "Pablo revela su deseo de predicar donde Cristo aún no había sido nombrado, llegando hasta España — entonces el extremo occidente del imperio. Esperaba visitar Roma de paso, pero antes debía llevar la colecta a Jerusalén."
+      },
+      {
+        "id": "rom-15-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "¿Adónde planeaba ir Pablo, pasando por Roma?",
+        "options": [
+          "A España",
+          "A Egipto",
+          "A Antioquía",
+          "A Atenas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "los santos que están en {0}.",
+        "blanks": [
+          "Jerusalén"
+        ],
+        "distractors": [
+          "Roma",
+          "Antioquía",
+          "Cesarea"
+        ]
+      },
+      {
+        "id": "rom-15-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "¿Qué pide Pablo a los hermanos de Roma sobre su viaje a Jerusalén?",
+        "options": [
+          "Que luchen con él en oraciones por él a Dios",
+          "Que envíen soldados",
+          "Que lo sigan a Jerusalén",
+          "Que dejen de predicar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-15-mp-33",
+        "type": "match_pairs",
+        "after_verse": 33,
+        "pairs": [
+          {
+            "left": "Las Escrituras",
+            "right": "Escritas para nuestra enseñanza y esperanza"
+          },
+          {
+            "left": "La raíz de Isaí",
+            "right": "Profecía del Mesías en quien esperan los gentiles"
+          },
+          {
+            "left": "La colecta",
+            "right": "Ofrenda de los gentiles para los santos de Jerusalén"
+          },
+          {
+            "left": "España",
+            "right": "Destino que Pablo deseaba alcanzar"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "rom-16-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Febe, la portadora de la carta",
+        "text": "Pablo recomienda a Febe, sierva (diaconisa) de la iglesia de Cencrea, puerto de Corinto. Es probable que ella llevara la carta a los Romanos hasta Roma, confiada con un documento que moldearía toda la teología cristiana."
+      },
+      {
+        "id": "rom-16-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿A quién recomienda Pablo al inicio del capítulo, llamándola sierva de la iglesia de Cencrea?",
+        "options": [
+          "Febe",
+          "Priscila",
+          "María",
+          "Junias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Los muchos saludos",
+        "text": "Este capítulo trae la mayor lista de saludos personales del Nuevo Testamento, con más de veinte nombres — muchos de ellos de mujeres, como Priscila, María y Junias, destacadas por Pablo como colaboradoras importantes en la obra."
+      },
+      {
+        "id": "rom-16-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Cómo describe Pablo a Andrónico y a Junias?",
+        "options": [
+          "Sus parientes y compañeros de prisión, estimados entre los apóstoles",
+          "Sacerdotes del templo",
+          "Magistrados romanos",
+          "Profetas de Israel"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "¿Con qué gesto pide Pablo que los hermanos se saluden?",
+        "options": [
+          "Con ósculo santo",
+          "Con un apretón de manos",
+          "Con una ofrenda",
+          "Con un juramento"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "¿De qué pide Pablo que se cuiden los hermanos?",
+        "options": [
+          "De los que causan disensiones y tropiezos contra la doctrina aprendida",
+          "De los pobres",
+          "De los gentiles",
+          "De los profetas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-cur-25",
+        "type": "curiosity",
+        "after_verse": 25,
+        "title": "La doxología final",
+        "text": "Pablo cierra la carta con una doxología al que puede confirmar a los creyentes según el evangelio y la revelación del misterio, ahora manifestado a todas las naciones. 'Al único y sabio Dios, sea la gloria mediante Jesucristo para siempre.'"
+      },
+      {
+        "id": "rom-16-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "¿Quién dice haber escrito la carta a los Romanos por encargo de Pablo?",
+        "options": [
+          "Tercio",
+          "Timoteo",
+          "Gayo",
+          "Erasto"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "rom-16-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Febe",
+            "right": "Sierva de Cencrea recomendada por Pablo"
+          },
+          {
+            "left": "Priscila y Aquila",
+            "right": "Colaboradores que arriesgaron la vida por Pablo"
+          },
+          {
+            "left": "Tercio",
+            "right": "Escribió la carta por encargo de Pablo"
+          },
+          {
+            "left": "La doxología",
+            "right": "Cierre en gloria al único y sabio Dios"
+          }
+        ]
+      }
+    ]
+  }
+}

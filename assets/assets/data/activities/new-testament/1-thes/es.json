@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "book": "1-thes",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-thes-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "¿Quién era Silvano?",
+        "text": "Silvano es el mismo Silas que acompañó a Pablo en su segundo viaje misional. Esta es una de las cartas más antiguas de Pablo, escrita hacia el año 50 d.C. desde Corinto."
+      },
+      {
+        "id": "1-thes-1-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "¿Qué tres hombres envían este saludo a la iglesia de los tesalonicenses?",
+        "options": [
+          "Pablo, Silvano y Timoteo",
+          "Pablo, Pedro y Jacobo",
+          "Pablo, Bernabé y Lucas",
+          "Pedro, Juan y Jacobo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra {0}, del trabajo de amor",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "paz",
+          "gracia",
+          "ira"
+        ]
+      },
+      {
+        "id": "1-thes-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Se convirtieron de los",
+            "right": "ídolos"
+          },
+          {
+            "left": "Para servir al",
+            "right": "Dios vivo y verdadero"
+          },
+          {
+            "left": "Esperar de los cielos a",
+            "right": "su Hijo"
+          },
+          {
+            "left": "Ejemplo en",
+            "right": "Macedonia y Acaya"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "y esperar a su Hijo de los {0}, al que resucitó de los muertos",
+        "blanks": [
+          "cielos"
+        ],
+        "distractors": [
+          "montes",
+          "sepulcros",
+          "mares"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-thes-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Aflicción en Filipos",
+        "text": "Antes de llegar a Tesalónica, Pablo y Silas habían sido azotados y encarcelados en Filipos (Hechos 16). Aun así, predicaron con valentía, mostrando que la persecución no los silenció."
+      },
+      {
+        "id": "1-thes-2-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Según Pablo, ¿a quién procuraba agradar al predicar el evangelio?",
+        "options": [
+          "A los hombres",
+          "A Dios, que examina los corazones",
+          "A sí mismo",
+          "A los líderes de la ciudad"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "1-thes-2-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Antes bien, fuimos afectuosos entre vosotros como la que cría con {0} a sus hijos.",
+        "blanks": [
+          "ternura"
+        ],
+        "distractors": [
+          "temor",
+          "rigor",
+          "prisa"
+        ]
+      },
+      {
+        "id": "1-thes-2-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "pairs": [
+          {
+            "left": "Afectuosos como",
+            "right": "la que cría con ternura a sus hijos"
+          },
+          {
+            "left": "Exhortábamos como",
+            "right": "un padre a sus hijos"
+          },
+          {
+            "left": "Trabajando",
+            "right": "de noche y de día"
+          },
+          {
+            "left": "La palabra recibida",
+            "right": "no como de hombres, sino de Dios"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-2-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "la recibisteis no como palabra de hombres, sino según es en verdad, la palabra de {0}",
+        "blanks": [
+          "Dios"
+        ],
+        "distractors": [
+          "hombres",
+          "ángeles",
+          "profetas"
+        ]
+      },
+      {
+        "id": "1-thes-2-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "Según Pablo, ¿qué le impidió volver a los tesalonicenses?",
+        "options": [
+          "La distancia",
+          "Una enfermedad",
+          "Satanás",
+          "La persecución de los judíos"
+        ],
+        "answer": 2
+      }
+    ],
+    "3": [
+      {
+        "id": "1-thes-3-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Quién era Timoteo",
+        "text": "Timoteo, llamado aquí \"hermano\" y \"colaborador\" de Pablo, era un joven discípulo que llegó a ser uno de los compañeros más fieles del apóstol, a quien Pablo más tarde dirigiría dos epístolas."
+      },
+      {
+        "id": "1-thes-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "¿Por qué envió Pablo a Timoteo a los tesalonicenses?",
+        "options": [
+          "Para confirmarlos y exhortarlos en su fe",
+          "Para recoger una ofrenda",
+          "Para bautizar a nuevos miembros",
+          "Para nombrar a nuevos líderes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-3-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "Por ello, hermanos, recibimos {0} con respecto a vosotros, en medio de nuestra necesidad y aflicción, por causa de vuestra fe;",
+        "blanks": [
+          "consuelo"
+        ],
+        "distractors": [
+          "aflicción",
+          "tribulación",
+          "necesidad"
+        ]
+      },
+      {
+        "id": "1-thes-3-mp-10",
+        "type": "match_pairs",
+        "after_verse": 10,
+        "pairs": [
+          {
+            "left": "Timoteo",
+            "right": "hermano y colaborador de Pablo"
+          },
+          {
+            "left": "Buenas nuevas",
+            "right": "la fe y el amor de los tesalonicenses"
+          },
+          {
+            "left": "Orar de noche y de día",
+            "right": "para ver su rostro"
+          },
+          {
+            "left": "El tentador",
+            "right": "amenaza a la fe de los santos"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-3-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "¿Qué pide Pablo que el Señor haga por los tesalonicenses?",
+        "options": [
+          "Que los haga abundar en amor unos para con otros",
+          "Que les dé riquezas",
+          "Que los lleve pronto a Jerusalén",
+          "Que les envíe un nuevo apóstol"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "1-thes-4-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Según Pablo, ¿cuál es la voluntad de Dios para los santos?",
+        "options": [
+          "Su santificación",
+          "Su riqueza",
+          "Su fama",
+          "Su descanso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-4-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Llamados a la santificación",
+        "text": "Pablo recuerda a los santos que Dios no nos ha llamado a impureza, sino a santificación. La palabra griega traducida como 'santificación' (hagiasmós) describe el proceso de ser hecho santo y apartado para Dios."
+      },
+      {
+        "id": "1-thes-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "Así que, el que menosprecia esto, no menosprecia a {0}, sino a Dios, que también nos dio su Espíritu Santo.",
+        "blanks": [
+          "hombre"
+        ],
+        "distractors": [
+          "hermano",
+          "ángel",
+          "rey"
+        ]
+      },
+      {
+        "id": "1-thes-4-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "¿Qué consejo práctico da Pablo a los santos en el versículo 11?",
+        "options": [
+          "Tener tranquilidad y trabajar con sus manos",
+          "Viajar a Macedonia",
+          "Edificar un templo",
+          "Cobrar deudas a los hermanos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen {0}.",
+        "blanks": [
+          "esperanza"
+        ],
+        "distractors": [
+          "fe",
+          "luz",
+          "vida"
+        ]
+      },
+      {
+        "id": "1-thes-4-mp-17",
+        "type": "match_pairs",
+        "after_verse": 17,
+        "pairs": [
+          {
+            "left": "El Señor mismo",
+            "right": "descenderá del cielo con voz de mando"
+          },
+          {
+            "left": "Los muertos en Cristo",
+            "right": "resucitarán primero"
+          },
+          {
+            "left": "Los que vivamos",
+            "right": "seremos arrebatados en las nubes"
+          },
+          {
+            "left": "Y así",
+            "right": "estaremos siempre con el Señor"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-thes-5-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Como ladrón en la noche",
+        "text": "La imagen del ladrón que llega inesperadamente de noche se convirtió en una de las figuras más conocidas para describir la venida del Señor, repetida en otros pasajes del Nuevo Testamento."
+      },
+      {
+        "id": "1-thes-5-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "el día del Señor vendrá así como {0} en la noche",
+        "blanks": [
+          "ladrón"
+        ],
+        "distractors": [
+          "pastor",
+          "centinela",
+          "siervo"
+        ]
+      },
+      {
+        "id": "1-thes-5-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "habiéndonos vestido con la coraza de la fe y del {0}",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "gozo",
+          "yelmo",
+          "Espíritu"
+        ]
+      },
+      {
+        "id": "1-thes-5-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Según los versículos 12–13, ¿cómo pide Pablo que los santos traten a los que trabajan y presiden entre ellos?",
+        "options": [
+          "Que los tengan en mucha estima por causa de su obra",
+          "Que los ignoren",
+          "Que los reemplacen",
+          "Que los critiquen"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-thes-5-mp-16",
+        "type": "match_pairs",
+        "after_verse": 22,
+        "pairs": [
+          {
+            "left": "Estad siempre",
+            "right": "gozosos"
+          },
+          {
+            "left": "Orad",
+            "right": "sin cesar"
+          },
+          {
+            "left": "Dad gracias",
+            "right": "en todo"
+          },
+          {
+            "left": "No apaguéis",
+            "right": "el Espíritu"
+          }
+        ]
+      },
+      {
+        "id": "1-thes-5-fb-23",
+        "type": "fill_blank",
+        "after_verse": 23,
+        "verse": 23,
+        "template": "Y el mismo Dios de {0} os santifique por completo",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "luz",
+          "amor",
+          "gracia"
+        ]
+      }
+    ]
+  }
+}

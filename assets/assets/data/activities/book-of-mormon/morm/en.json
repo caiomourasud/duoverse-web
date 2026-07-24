@@ -1,0 +1,798 @@
+{
+  "schema_version": 1,
+  "book": "morm",
+  "chapters": {
+    "1": [
+      {
+        "id": "morm-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The book bears his name",
+        "text": "Mormon didn't just compile the record — he gave it his own name. The book you are reading is named for this prophet-general who lived through his people's destruction."
+      },
+      {
+        "id": "morm-1-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "At what age did Ammaron tell young Mormon to record what he had observed about his people?",
+        "options": [
+          "Twenty-four",
+          "Ten",
+          "Eleven",
+          "Fifteen"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-1-mp-9",
+        "type": "match_pairs",
+        "after_verse": 9,
+        "pairs": [
+          {
+            "left": "Nephites",
+            "right": "Nephites, Jacobites, Josephites, and Zoramites"
+          },
+          {
+            "left": "Lamanites",
+            "right": "Lamanites, Lemuelites, and Ishmaelites"
+          },
+          {
+            "left": "Ammaron",
+            "right": "Hid the records and entrusted them to Mormon"
+          }
+        ]
+      },
+      {
+        "id": "morm-1-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "the war began to be among them in the borders of Zarahemla, by the waters of {0}",
+        "blanks": [
+          "Sidon"
+        ],
+        "distractors": [
+          "Antum",
+          "Shim",
+          "David"
+        ]
+      },
+      {
+        "id": "morm-1-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What ceased among the people because of their iniquity?",
+        "options": [
+          "The work of miracles and healings",
+          "All warfare",
+          "The harvests",
+          "The keeping of records"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-1-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Slippery treasures",
+        "text": "The land was cursed so that buried treasures 'became slippery' — they slipped away from those who hid them. The same curse appears among other peoples in the Book of Mormon."
+      },
+      {
+        "id": "morm-1-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "Whose prophetic words were fulfilled as evil spread over the land?",
+        "options": [
+          "Abinadi and Samuel the Lamanite",
+          "Nephi and Lehi",
+          "Alma and Amulek",
+          "Isaiah and Moses"
+        ],
+        "answer": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "morm-2-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Why was the young Mormon appointed to lead the Nephite armies?",
+        "options": [
+          "Despite his youth, he was large in stature",
+          "He was the king's son",
+          "He was the oldest soldier",
+          "He was their high priest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "the Lamanites had a king, and his name was {0}",
+        "blanks": [
+          "Aaron"
+        ],
+        "distractors": [
+          "Ammaron",
+          "Nephi",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "morm-2-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Why was Mormon's hope at the people's mourning in vain?",
+        "options": [
+          "Their sorrow was not unto repentance, but the sorrowing of the damned",
+          "They were too few to fight",
+          "The Lamanites had already won",
+          "They mourned only their dead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "What did Mormon take up, according to the word of Ammaron?",
+        "options": [
+          "The plates of Nephi",
+          "The sword of Laban",
+          "The Liahona",
+          "The brass plates"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "Wo is me",
+        "text": "Mormon interrupts his war chronicle with personal laments. Instead of heroism, he records the grief of leading a people who refuse to repent."
+      },
+      {
+        "id": "morm-2-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "Mormon's army of thirty thousand stood against an enemy army of how many?",
+        "options": [
+          "Fifty thousand",
+          "Forty-four thousand",
+          "Forty-two thousand",
+          "One hundred thousand"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-2-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "How were the lands divided by the treaty of the 350th year?",
+        "options": [
+          "The Lamanites took the land southward; the Nephites the land northward",
+          "The Nephites took everything",
+          "The land was split east and west",
+          "Zarahemla was given to the Lamanites"
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "morm-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did the Lord command Mormon to cry unto the people?",
+        "options": [
+          "Repent, be baptized, and rebuild the church",
+          "Flee to the north",
+          "Surrender to the Lamanites",
+          "Build a temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "After their victories, what sin did the Nephites fall into?",
+        "options": [
+          "Boasting in their own strength and swearing to avenge themselves",
+          "Idolatry",
+          "Theft of the records",
+          "Refusing to fight"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "'Vengeance is mine'",
+        "text": "The Lord's words to Mormon — 'Vengeance is mine, and I will repay' — echo Deuteronomy 32:35 and are quoted by Paul in Romans 12:19."
+      },
+      {
+        "id": "morm-3-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "{0} is mine, and I will repay",
+        "blanks": [
+          "Vengeance"
+        ],
+        "distractors": [
+          "Mercy",
+          "Justice",
+          "Judgment"
+        ]
+      },
+      {
+        "id": "morm-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "After refusing to lead his people to vengeance, what did Mormon become?",
+        "options": [
+          "An idle witness, recording what he saw and heard",
+          "A captive of the Lamanites",
+          "A king",
+          "A missionary to Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-3-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "To whom does Mormon address his plea to repent before the judgment of Christ?",
+        "options": [
+          "All the ends of the earth",
+          "Only the Nephites",
+          "Only the twelve tribes",
+          "Only the Gentiles"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "morm-4-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "According to Mormon, who punishes the wicked?",
+        "options": [
+          "It is by the wicked that the wicked are punished",
+          "Only the Lamanite kings",
+          "The righteous",
+          "No one in this life"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Which city did the Lamanites attack in the 364th year, seeking to possess it?",
+        "options": [
+          "Teancum",
+          "Zarahemla",
+          "Bountiful",
+          "Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Human sacrifice",
+        "text": "The degradation reaches its extreme: the Lamanites begin offering Nephite women and children as sacrifices to their idols. Mormon sees in this the mark of a society with no moral restraint."
+      },
+      {
+        "id": "morm-4-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Why did the Nephites attack with exceedingly great anger in the 367th year?",
+        "options": [
+          "The Lamanites had sacrificed their women and children to idols",
+          "They wanted more land",
+          "Their king had been killed",
+          "A prophet commanded it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-4-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "began to be swept off by them even as a {0} before the sun",
+        "blanks": [
+          "dew"
+        ],
+        "distractors": [
+          "mist",
+          "frost",
+          "cloud"
+        ]
+      },
+      {
+        "id": "morm-4-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "As the Lamanites were about to overthrow the land, what did Mormon do?",
+        "options": [
+          "He went to the hill Shim and took up the records Ammaron had hidden",
+          "He surrendered",
+          "He fled across the sea",
+          "He made a new treaty"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "morm-5-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Why did the Nephites give Mormon command of their armies again?",
+        "options": [
+          "They looked on him as one who could deliver them",
+          "He bribed them",
+          "The Lord commanded them",
+          "He was the only soldier left"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why did Mormon write only a small abridgment of these events?",
+        "options": [
+          "Because of the commandment he had received, and to spare readers too great sorrow",
+          "He ran out of plates",
+          "He could not remember them",
+          "The Lamanites forbade it"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "For what purpose would the record one day go to the unbelieving Jews?",
+        "options": [
+          "To persuade them that Jesus is the Christ, the Son of the living God",
+          "To teach them Hebrew",
+          "To divide their lands",
+          "To start a war"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-5-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "Prophecy of the scattering",
+        "text": "Even at the end, Mormon looks to the future: this people will be scattered, but the record will come to light through the Gentiles to convince Israel that Jesus is the Christ."
+      },
+      {
+        "id": "morm-5-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "as a vessel is tossed about upon the waves, without sail or {0}",
+        "blanks": [
+          "anchor"
+        ],
+        "distractors": [
+          "rudder",
+          "oar",
+          "mast"
+        ]
+      },
+      {
+        "id": "morm-5-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "shall go forth among you as a {0}, and tear you in pieces",
+        "blanks": [
+          "lion"
+        ],
+        "distractors": [
+          "wolf",
+          "bear",
+          "serpent"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "morm-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "To which land did Mormon ask to gather his people for the final battle?",
+        "options": [
+          "Cumorah",
+          "Zarahemla",
+          "Desolation",
+          "Bountiful"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What did Mormon do with the sacred records before the last battle?",
+        "options": [
+          "Hid them in the hill Cumorah, keeping a few plates for his son Moroni",
+          "Buried them at sea",
+          "Gave them all to the Lamanite king",
+          "Burned them"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "How many of Mormon's people survived the battle at Cumorah with him?",
+        "options": [
+          "Twenty-four",
+          "Ten thousand",
+          "Three hundred",
+          "None"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "Ten thousand each",
+        "text": "Mormon names twenty-three commanders, each with 'his ten thousand' — roughly 230,000 dead in this account alone. The roll call turns a statistic into personal mourning."
+      },
+      {
+        "id": "morm-6-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "What is the heart of Mormon's lament over his fallen people?",
+        "options": [
+          "That they had departed from the Lord and rejected Jesus, who stood with open arms",
+          "That they died poor",
+          "That they lost the war",
+          "That they had no king"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-6-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Even amid his mourning, what hope does Mormon express for the dead?",
+        "options": [
+          "The Eternal Father knows their state and deals with them in justice and mercy",
+          "They will be reborn on earth",
+          "They escaped all judgment",
+          "They will haunt the Lamanites"
+        ],
+        "answer": 0
+      }
+    ],
+    "7": [
+      {
+        "id": "morm-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Mormon's last words",
+        "text": "This short chapter is Mormon's final message, addressed not to his contemporaries but to the future remnant of Israel who would one day read his record."
+      },
+      {
+        "id": "morm-7-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What does Mormon tell the remnant they must lay down?",
+        "options": [
+          "Their weapons of war",
+          "Their riches",
+          "Their records",
+          "Their lands"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-7-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 10,
+        "template": "first with water, then with {0} and with the Holy Ghost",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "oil",
+          "blood",
+          "light"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "morm-8-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "Who takes up the record at the start of chapter 8?",
+        "options": [
+          "Moroni, the son of Mormon",
+          "Nephi",
+          "Ammaron",
+          "Helaman"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mp-1",
+        "type": "match_pairs",
+        "after_verse": 1,
+        "pairs": [
+          {
+            "left": "Mormon",
+            "right": "Moroni's father, who made the record"
+          },
+          {
+            "left": "Moroni",
+            "right": "The son who finishes the record"
+          },
+          {
+            "left": "Lamanites",
+            "right": "Hunted and destroyed the Nephites"
+          }
+        ]
+      },
+      {
+        "id": "morm-8-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "{0} years have passed away since the coming of our Lord and Savior",
+        "blanks": [
+          "four hundred"
+        ],
+        "distractors": [
+          "three hundred",
+          "six hundred",
+          "five hundred"
+        ]
+      },
+      {
+        "id": "morm-8-cur-11",
+        "type": "curiosity",
+        "after_verse": 11,
+        "title": "The three disciples",
+        "text": "Moroni states that he and his father saw the three Nephite disciples who, according to 3 Nephi 28, would not taste death — a rare bridge between the two accounts."
+      },
+      {
+        "id": "morm-8-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Why does Moroni say the plates have 'no worth' to one who seeks them?",
+        "options": [
+          "The Lord forbade that anyone should obtain them to get gain",
+          "They are made of cheap metal",
+          "They are blank",
+          "They are forged"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to the scripture Moroni cites, what belongs to the Lord alone?",
+        "options": [
+          "Judgment and vengeance",
+          "War and peace",
+          "Gold and silver",
+          "Kings and thrones"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Whose prophecies does Moroni urge the reader to search?",
+        "options": [
+          "Isaiah's",
+          "Nephi's",
+          "Samuel's",
+          "Malachi's"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Moroni foresees a day when churches and their leaders would be lifted up in what?",
+        "options": [
+          "The pride of their hearts",
+          "Charity for the poor",
+          "Their love of scripture",
+          "Their unity"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "for your {0} you shall be forgiven of your sins",
+        "blanks": [
+          "money"
+        ],
+        "distractors": [
+          "works",
+          "fasting",
+          "sacrifice"
+        ]
+      },
+      {
+        "id": "morm-8-cur-35",
+        "type": "curiosity",
+        "after_verse": 35,
+        "title": "He saw our day",
+        "text": "Moroni says Jesus showed him his future readers: 'I speak unto you as if ye were present.' Verses 26–41 describe the latter days with striking specificity."
+      },
+      {
+        "id": "morm-8-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Moroni rebukes future churches for loving what more than the poor and needy?",
+        "options": [
+          "Money, fine apparel, and the adorning of their churches",
+          "Their families",
+          "Their lands",
+          "Their freedom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-8-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "Moroni warns that what now hangs over the wicked who oppress the poor?",
+        "options": [
+          "The sword of vengeance",
+          "A famine",
+          "A great flood",
+          "The Lamanite army"
+        ],
+        "answer": 0
+      }
+    ],
+    "9": [
+      {
+        "id": "morm-9-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Moroni says the guilty would be more miserable dwelling with a holy God than where?",
+        "options": [
+          "With the damned souls in hell",
+          "In an empty wilderness",
+          "Among the Lamanites",
+          "In prison"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What truth about God does Moroni cite to prove He is a God of miracles?",
+        "options": [
+          "He is the same yesterday, today, and forever, with no shadow of changing",
+          "He lives far away",
+          "He speaks only to prophets",
+          "He created only the earth"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "According to Moroni, what came by Adam, and what came because of Christ?",
+        "options": [
+          "By Adam came the fall; because of Christ came the redemption",
+          "By Adam came light; by Christ came law",
+          "By Adam came the law; by Christ came war",
+          "Both brought only judgment"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "because that they dwindle in {0}, and depart from the right way",
+        "blanks": [
+          "unbelief"
+        ],
+        "distractors": [
+          "wickedness",
+          "idolatry",
+          "ignorance"
+        ]
+      },
+      {
+        "id": "morm-9-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What signs did Jesus say would follow those who believe?",
+        "options": [
+          "Casting out devils, speaking new tongues, and healing the sick",
+          "Wealth and long life",
+          "Victory in battle",
+          "Knowledge of all languages"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "strip yourselves of all {0}",
+        "blanks": [
+          "uncleanness"
+        ],
+        "distractors": [
+          "wickedness",
+          "idolatry",
+          "pride"
+        ]
+      },
+      {
+        "id": "morm-9-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "In what characters did Moroni say the record was written?",
+        "options": [
+          "Reformed Egyptian",
+          "Hebrew",
+          "Greek",
+          "Aramaic"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "morm-9-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Reformed Egyptian",
+        "text": "Moroni explains the record was engraved in 'reformed Egyptian,' and that they would have written in Hebrew had the plates allowed — a rare note on the Nephites' language."
+      },
+      {
+        "id": "morm-9-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "How does Mormon's record close in its final verse?",
+        "options": [
+          "With a prayer that God remember His covenant with the house of Israel",
+          "With a list of kings",
+          "With a battle report",
+          "With a genealogy"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

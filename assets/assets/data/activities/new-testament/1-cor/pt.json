@@ -1,0 +1,1872 @@
+{
+  "schema_version": 1,
+  "book": "1-cor",
+  "chapters": {
+    "1": [
+      {
+        "id": "1-cor-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A carta aos Coríntios",
+        "text": "Paulo fundou a igreja de Corinto e escreveu-lhe esta carta para corrigir divisões e problemas que lhe haviam sido relatados. A cidade era um grande porto grego, rico e cosmopolita, mas também conhecido por sua imoralidade."
+      },
+      {
+        "id": "1-cor-1-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "A quem Paulo dirige esta carta?",
+        "options": [
+          "À igreja de Deus que está em Corinto",
+          "À igreja de Roma",
+          "Aos gálatas",
+          "À igreja de Éfeso"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "As facções de Corinto",
+        "text": "A igreja se dividia em grupos que se diziam de Paulo, de Apolo, de Cefas (Pedro) ou de Cristo. Paulo pergunta indignado: 'Está Cristo dividido?', mostrando que a unidade dos crentes está em Cristo, não em líderes humanos."
+      },
+      {
+        "id": "1-cor-1-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "Eu sou de Paulo, e eu de {0}, e eu de Cefas,",
+        "blanks": [
+          "Apolo"
+        ],
+        "distractors": [
+          "Pedro",
+          "Tiago",
+          "Barnabé"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "Para que Cristo enviou Paulo, segundo ele mesmo?",
+        "options": [
+          "Para pregar o evangelho, não para batizar",
+          "Para construir um templo",
+          "Para julgar os gentios",
+          "Para escrever a lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "a palavra da cruz é {0} para os que perecem;",
+        "blanks": [
+          "loucura"
+        ],
+        "distractors": [
+          "sabedoria",
+          "glória",
+          "justiça"
+        ]
+      },
+      {
+        "id": "1-cor-1-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "Cristo crucificado",
+        "text": "Paulo resume sua mensagem: 'pregamos a Cristo crucificado'. Para os judeus, que pediam sinais, isso era escândalo; para os gregos, que buscavam sabedoria, era loucura. Mas para os chamados, é o poder e a sabedoria de Deus."
+      },
+      {
+        "id": "1-cor-1-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "e os gregos buscam {0};",
+        "blanks": [
+          "sabedoria"
+        ],
+        "distractors": [
+          "sinais",
+          "riquezas",
+          "glória"
+        ]
+      },
+      {
+        "id": "1-cor-1-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "O que Deus escolheu para confundir os sábios e os fortes?",
+        "options": [
+          "As coisas loucas e fracas deste mundo",
+          "Os reis e os nobres",
+          "Os sábios e poderosos",
+          "Os templos e altares"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-1-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Corinto",
+            "right": "Próspero porto grego onde Paulo fundou a igreja"
+          },
+          {
+            "left": "As facções",
+            "right": "Grupos que se diziam de Paulo, Apolo, Cefas ou Cristo"
+          },
+          {
+            "left": "A palavra da cruz",
+            "right": "Loucura para os que perecem, poder de Deus para os salvos"
+          },
+          {
+            "left": "Cristo crucificado",
+            "right": "Escândalo para judeus, loucura para gregos"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "1-cor-2-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Cristo, e este crucificado",
+        "text": "Diante de uma cidade que admirava a eloquência, Paulo decidiu não saber 'coisa alguma, senão a Jesus Cristo, e este, crucificado'. Sua força não estava em palavras persuasivas, mas na demonstração do Espírito e de poder."
+      },
+      {
+        "id": "1-cor-2-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "senão a Jesus Cristo, e este, {0}.",
+        "blanks": [
+          "crucificado"
+        ],
+        "distractors": [
+          "ressuscitado",
+          "glorificado",
+          "exaltado"
+        ]
+      },
+      {
+        "id": "1-cor-2-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Por que os príncipes deste mundo não conheceram a sabedoria de Deus?",
+        "options": [
+          "Se a tivessem conhecido, não teriam crucificado o Senhor da glória",
+          "Porque ela era simples demais",
+          "Porque estava escrita na lei",
+          "Porque os profetas a esconderam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "O que o olho não viu",
+        "text": "Para falar das coisas que Deus preparou para os que o amam, Paulo cita uma passagem inspirada em Isaías: 'As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem.' Tais coisas só se conhecem pelo Espírito."
+      },
+      {
+        "id": "1-cor-2-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Por que o homem natural não compreende as coisas do Espírito de Deus?",
+        "options": [
+          "Porque elas se discernem espiritualmente",
+          "Porque são contraditórias",
+          "Porque estão ocultas na lei",
+          "Porque exigem riqueza"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-2-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Mas nós temos a {0} de Cristo.",
+        "blanks": [
+          "mente"
+        ],
+        "distractors": [
+          "fé",
+          "graça",
+          "glória"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "1-cor-3-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Que sinal de imaturidade Paulo aponta nos coríntios?",
+        "options": [
+          "Inveja, contendas e divisões, dizendo 'eu sou de Paulo'",
+          "Excesso de jejum",
+          "Negar a ressurreição",
+          "Guardar a circuncisão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-cur-6",
+        "type": "curiosity",
+        "after_verse": 6,
+        "title": "Eu plantei, Apolo regou",
+        "text": "Paulo usa a lavoura para explicar o papel dos líderes: ele plantou, Apolo regou, mas foi Deus quem deu o crescimento. Nem o que planta nem o que rega são alguma coisa, mas só Deus, que faz crescer."
+      },
+      {
+        "id": "1-cor-3-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "Apolo regou; mas Deus deu o {0}.",
+        "blanks": [
+          "crescimento"
+        ],
+        "distractors": [
+          "fruto",
+          "galardão",
+          "fundamento"
+        ]
+      },
+      {
+        "id": "1-cor-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "ninguém pode pôr outro {0}, além do que já está posto,",
+        "blanks": [
+          "fundamento"
+        ],
+        "distractors": [
+          "templo",
+          "altar",
+          "muro"
+        ]
+      },
+      {
+        "id": "1-cor-3-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "A obra provada pelo fogo",
+        "text": "Paulo diz que a obra de cada um será revelada pelo fogo no dia do juízo: o que for ouro, prata e pedras preciosas permanecerá; o que for madeira, feno e palha se queimará. A pessoa pode ser salva, mas como que através do fogo."
+      },
+      {
+        "id": "1-cor-3-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "que sois o {0} de Deus, e que o Espírito de Deus habita em vós?",
+        "blanks": [
+          "templo"
+        ],
+        "distractors": [
+          "povo",
+          "servo",
+          "rebanho"
+        ]
+      },
+      {
+        "id": "1-cor-3-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "O que Paulo diz sobre a sabedoria deste mundo?",
+        "options": [
+          "É loucura diante de Deus",
+          "É o caminho para Deus",
+          "Vem do Espírito",
+          "Salva os crentes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-3-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "Paulo e Apolo",
+            "right": "Servos: um plantou, outro regou"
+          },
+          {
+            "left": "Deus",
+            "right": "Quem dá o crescimento"
+          },
+          {
+            "left": "O fundamento",
+            "right": "Jesus Cristo, único possível"
+          },
+          {
+            "left": "Os crentes",
+            "right": "O templo de Deus, em que habita o Espírito"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "1-cor-4-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Despenseiros dos mistérios",
+        "text": "Paulo pede que os líderes sejam vistos como ministros de Cristo e despenseiros (mordomos) dos mistérios de Deus. De um despenseiro requer-se sobretudo uma coisa: que seja fiel."
+      },
+      {
+        "id": "1-cor-4-fb-2",
+        "type": "fill_blank",
+        "after_verse": 2,
+        "verse": 2,
+        "template": "requer-se dos despenseiros que cada um seja encontrado {0}.",
+        "blanks": [
+          "fiel"
+        ],
+        "distractors": [
+          "sábio",
+          "forte",
+          "justo"
+        ]
+      },
+      {
+        "id": "1-cor-4-fb-7",
+        "type": "fill_blank",
+        "after_verse": 7,
+        "verse": 7,
+        "template": "E que tens tu que não tenhas {0}?",
+        "blanks": [
+          "recebido"
+        ],
+        "distractors": [
+          "ganho",
+          "merecido",
+          "pedido"
+        ]
+      },
+      {
+        "id": "1-cor-4-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "Loucos por Cristo",
+        "text": "Com ironia, Paulo contrasta os coríntios, que se julgavam sábios, ricos e honrados, com os apóstolos, 'loucos por causa de Cristo', fracos e desprezados. Eles sofriam fome, sede e perseguição, e eram tratados como o lixo do mundo."
+      },
+      {
+        "id": "1-cor-4-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Como Paulo descreve a vida dos apóstolos?",
+        "options": [
+          "Sofrem fome, sede e perseguição, e são como o lixo do mundo",
+          "Vivem em riqueza e honra",
+          "Reinam como reis",
+          "São temidos por todos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como Paulo se descreve em relação aos coríntios?",
+        "options": [
+          "Como pai que os gerou em Cristo pelo evangelho",
+          "Como juiz severo",
+          "Como rei dos santos",
+          "Como um entre muitos aios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-4-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "o reino de Deus não consiste em palavras, mas em {0}.",
+        "blanks": [
+          "poder"
+        ],
+        "distractors": [
+          "sabedoria",
+          "lei",
+          "glória"
+        ]
+      },
+      {
+        "id": "1-cor-4-mp-21",
+        "type": "match_pairs",
+        "after_verse": 21,
+        "pairs": [
+          {
+            "left": "Despenseiros",
+            "right": "Líderes de quem se requer fidelidade"
+          },
+          {
+            "left": "O que tens",
+            "right": "Tudo foi recebido, nada é mérito próprio"
+          },
+          {
+            "left": "Os apóstolos",
+            "right": "Loucos por Cristo, espetáculo ao mundo"
+          },
+          {
+            "left": "O reino de Deus",
+            "right": "Não está em palavras, mas em poder"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "1-cor-5-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Que medida Paulo determina quanto ao que cometeu grave pecado na igreja?",
+        "options": [
+          "Entregá-lo a Satanás, para que o espírito seja salvo no dia do Senhor",
+          "Ignorar o caso",
+          "Premiá-lo",
+          "Mandá-lo a Jerusalém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-5-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Cristo, nossa páscoa",
+        "text": "A imagem do fermento vem da Páscoa judaica, em que toda casa removia o fermento antigo antes da festa. Paulo aplica isso à igreja: 'Cristo, nossa páscoa, foi sacrificado por nós', e por isso devem viver com sinceridade e verdade."
+      },
+      {
+        "id": "1-cor-5-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "um pouco de {0} faz levedar toda a massa?",
+        "blanks": [
+          "fermento"
+        ],
+        "distractors": [
+          "sal",
+          "mel",
+          "azeite"
+        ]
+      },
+      {
+        "id": "1-cor-5-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "O que Paulo manda fazer com quem persiste em grave pecado na igreja?",
+        "options": [
+          "Tirá-lo de entre eles",
+          "Honrá-lo",
+          "Ignorá-lo",
+          "Levá-lo ao templo"
+        ],
+        "answer": 0
+      }
+    ],
+    "6": [
+      {
+        "id": "1-cor-6-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Os santos julgarão o mundo",
+        "text": "Para repreender os irmãos que se processavam diante de juízes pagãos, Paulo lembra que os santos hão de julgar o mundo, e até os anjos. Se julgarão coisas tão grandes, como não poderiam resolver pequenas questões entre si?"
+      },
+      {
+        "id": "1-cor-6-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Que privilégio Paulo lembra aos santos para repreender as demandas judiciais entre eles?",
+        "options": [
+          "Que os santos hão de julgar o mundo",
+          "Que receberão riquezas",
+          "Que governarão Roma",
+          "Que serão sacerdotes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Que falta Paulo aponta no fato de irmãos se processarem?",
+        "options": [
+          "Já é uma falta; melhor seria sofrer a injustiça",
+          "Devem buscar juízes pagãos",
+          "Devem cobrar o dobro",
+          "Não há problema nenhum"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "mas haveis sido {0}, mas haveis sido santificados,",
+        "blanks": [
+          "lavados"
+        ],
+        "distractors": [
+          "chamados",
+          "escolhidos",
+          "perdoados"
+        ]
+      },
+      {
+        "id": "1-cor-6-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Para quem é o corpo, segundo Paulo?",
+        "options": [
+          "Para o Senhor, e o Senhor para o corpo",
+          "Para os alimentos",
+          "Para o mundo",
+          "Para a lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-6-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Comprados por um preço",
+        "text": "Paulo ensina que o corpo do crente é templo do Espírito Santo, e que eles não pertencem a si mesmos: foram 'comprados por um preço'. Por isso devem glorificar a Deus tanto no corpo quanto no espírito."
+      },
+      {
+        "id": "1-cor-6-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "o vosso corpo é o {0} do Espírito Santo,",
+        "blanks": [
+          "templo"
+        ],
+        "distractors": [
+          "altar",
+          "trono",
+          "servo"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "1-cor-7-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Respostas às perguntas dos coríntios",
+        "text": "A partir daqui, Paulo responde a perguntas que os próprios coríntios lhe haviam escrito, começando pelo casamento. Suas orientações refletem a convicção de que 'o tempo é curto' e o fim, próximo."
+      },
+      {
+        "id": "1-cor-7-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Por que Paulo diz que cada um deve ter o seu próprio cônjuge?",
+        "options": [
+          "Para que se evite a imoralidade",
+          "Para aumentar a igreja",
+          "Para herdar bens",
+          "Por mandamento da lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "O que Paulo aconselha aos que não conseguem conter-se?",
+        "options": [
+          "Que se casem, pois é melhor casar do que abrasar-se",
+          "Que vivam sozinhos",
+          "Que jejuem sempre",
+          "Que saiam da igreja"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Que mandamento Paulo atribui ao Senhor sobre o casamento?",
+        "options": [
+          "Que a mulher não se aparte do marido",
+          "Que ninguém se case",
+          "Que todos se separem",
+          "Que se casem só com judeus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-fb-17",
+        "type": "fill_blank",
+        "after_verse": 17,
+        "verse": 17,
+        "template": "E assim ordeno em todas as {0}.",
+        "blanks": [
+          "igrejas"
+        ],
+        "distractors": [
+          "cidades",
+          "casas",
+          "nações"
+        ]
+      },
+      {
+        "id": "1-cor-7-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "A circuncisão nada é",
+        "text": "Paulo repete um tema caro a ele: diante de Deus, ser circuncidado ou não nada importa; o que vale é a observância dos mandamentos de Deus. Cada um deve permanecer na condição em que foi chamado."
+      },
+      {
+        "id": "1-cor-7-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 19,
+        "template": "mas, sim, a observância dos {0} de Deus.",
+        "blanks": [
+          "mandamentos"
+        ],
+        "distractors": [
+          "convênios",
+          "estatutos",
+          "preceitos"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Como Paulo descreve o servo que é chamado pelo Senhor?",
+        "options": [
+          "É liberto do Senhor; e o livre é servo de Cristo",
+          "Deve fugir do seu senhor",
+          "Não pode servir a Deus",
+          "Deve comprar sua liberdade primeiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-cur-29",
+        "type": "curiosity",
+        "after_verse": 29,
+        "title": "O tempo é curto",
+        "text": "Paulo orienta os crentes a viverem como quem tem os olhos no fim: que os casados sejam como se não o fossem, e os que usam o mundo, como se dele não abusassem, porque 'a aparência deste mundo passa'."
+      },
+      {
+        "id": "1-cor-7-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "porque a aparência deste {0} passa.",
+        "blanks": [
+          "mundo"
+        ],
+        "distractors": [
+          "século",
+          "tempo",
+          "reino"
+        ]
+      },
+      {
+        "id": "1-cor-7-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "Com o que se preocupa o solteiro, segundo Paulo?",
+        "options": [
+          "Com as coisas do Senhor, de como agradar ao Senhor",
+          "Com riquezas",
+          "Com a fama",
+          "Com a lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "Por quanto tempo a mulher casada está ligada ao marido, segundo Paulo?",
+        "options": [
+          "Enquanto o marido viver",
+          "Por sete anos",
+          "Para sempre, mesmo após a morte",
+          "Até a circuncisão"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-7-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "O casamento",
+            "right": "Cada um tenha o seu cônjuge, por causa da imoralidade"
+          },
+          {
+            "left": "O dom de Deus",
+            "right": "Casar ou ficar solteiro: cada um tem o seu"
+          },
+          {
+            "left": "A circuncisão",
+            "right": "Nada é; vale guardar os mandamentos"
+          },
+          {
+            "left": "O tempo é curto",
+            "right": "Viver com os olhos no fim, pois o mundo passa"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "1-cor-8-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "As carnes sacrificadas aos ídolos",
+        "text": "Em Corinto, boa parte da carne do mercado vinha de sacrifícios feitos em templos pagãos. Os cristãos discutiam se podiam comê-la. Paulo abre o tema com um princípio: 'o conhecimento ensoberbece, mas o amor edifica'."
+      },
+      {
+        "id": "1-cor-8-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "O conhecimento ensoberbece, mas o {0} edifica.",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "saber",
+          "temor",
+          "zelo"
+        ]
+      },
+      {
+        "id": "1-cor-8-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Quantos deuses e senhores Paulo afirma que há para os cristãos?",
+        "options": [
+          "Um só Deus, o Pai, e um só Senhor, Jesus Cristo",
+          "Muitos deuses e senhores",
+          "Dois deuses iguais",
+          "Nenhum deus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Por que Paulo limita o uso da liberdade de comer o que foi sacrificado a ídolos?",
+        "options": [
+          "Para não fazer perecer o irmão fraco, por quem Cristo morreu",
+          "Porque o ídolo é real",
+          "Porque a lei proíbe",
+          "Porque os alimentos são impuros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-8-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "nunca mais comerei {0}, para que meu irmão não se escandalize.",
+        "blanks": [
+          "carne"
+        ],
+        "distractors": [
+          "pão",
+          "fruto",
+          "peixe"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "1-cor-9-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O direito do apóstolo",
+        "text": "Paulo defende seu apostolado e seus direitos, entre eles o de ser sustentado pela igreja, como os outros apóstolos. Mesmo tendo esse direito, ele preferiu pregar de graça, para não pôr obstáculo algum ao evangelho."
+      },
+      {
+        "id": "1-cor-9-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "O que Paulo pergunta para defender o seu apostolado?",
+        "options": [
+          "Não sou eu apóstolo? Não vi a Jesus Cristo, Senhor nosso?",
+          "Não sou eu rei?",
+          "Não fui eu circuncidado?",
+          "Não sou eu fariseu?"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Não atarás a boca ao {0} que trilha o grão.",
+        "blanks": [
+          "boi"
+        ],
+        "distractors": [
+          "cavalo",
+          "jumento",
+          "cordeiro"
+        ]
+      },
+      {
+        "id": "1-cor-9-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "que vivam do {0}.",
+        "blanks": [
+          "evangelho"
+        ],
+        "distractors": [
+          "templo",
+          "altar",
+          "sacrifício"
+        ]
+      },
+      {
+        "id": "1-cor-9-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "O que Paulo sente sobre a pregação do evangelho?",
+        "options": [
+          "É uma obrigação imposta: 'ai de mim, se não anunciar o evangelho!'",
+          "Faz por prazer e fama",
+          "Espera riqueza por isso",
+          "Prega só aos judeus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Tudo para todos",
+        "text": "Para ganhar o maior número, Paulo se adaptava a cada grupo: como judeu para os judeus, como fraco para os fracos. 'Fiz-me tudo para todos, para por todos os meios chegar a salvar alguns.'"
+      },
+      {
+        "id": "1-cor-9-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "Que estratégia Paulo descreve em seu ministério?",
+        "options": [
+          "Fez-se tudo para todos, para por todos os meios salvar alguns",
+          "Pregou só aos fortes",
+          "Exigiu sustento de todos",
+          "Evitou os fracos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-9-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "A corrida no estádio",
+        "text": "Paulo compara a vida cristã a uma corrida: todos correm, mas só um leva o prêmio. O atleta se disciplina por uma coroa corruptível; o cristão, por uma incorruptível. Corinto sediava os famosos Jogos Ístmicos."
+      },
+      {
+        "id": "1-cor-9-fb-25",
+        "type": "fill_blank",
+        "after_verse": 25,
+        "verse": 25,
+        "template": "para alcançar uma {0} corruptível;",
+        "blanks": [
+          "coroa"
+        ],
+        "distractors": [
+          "vitória",
+          "glória",
+          "recompensa"
+        ]
+      },
+      {
+        "id": "1-cor-9-mp-27",
+        "type": "match_pairs",
+        "after_verse": 27,
+        "pairs": [
+          {
+            "left": "Paulo",
+            "right": "Apóstolo que abriu mão de seus direitos pelo evangelho"
+          },
+          {
+            "left": "O boi que trilha",
+            "right": "Imagem da lei de que o obreiro merece sustento"
+          },
+          {
+            "left": "Tudo para todos",
+            "right": "Adaptar-se a cada um para salvar alguns"
+          },
+          {
+            "left": "A corrida",
+            "right": "Imagem da disciplina por uma coroa incorruptível"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "1-cor-10-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "A rocha era Cristo",
+        "text": "Paulo relê o êxodo: a nuvem e o mar eram como um batismo, e a água que brotou da rocha era bebida espiritual. Ele declara que 'a pedra era Cristo', presente já com Israel no deserto."
+      },
+      {
+        "id": "1-cor-10-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "e a {0} era Cristo.",
+        "blanks": [
+          "pedra"
+        ],
+        "distractors": [
+          "nuvem",
+          "água",
+          "luz"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "Por que essas histórias de Israel foram escritas, segundo Paulo?",
+        "options": [
+          "Como exemplos e advertência para nós",
+          "Para condenar os gentios",
+          "Para ensinar a lei",
+          "Como genealogia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "porém {0} é Deus, que não vos deixará tentar acima do que podeis,",
+        "blanks": [
+          "fiel"
+        ],
+        "distractors": [
+          "justo",
+          "santo",
+          "forte"
+        ]
+      },
+      {
+        "id": "1-cor-10-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "O que representam o cálice de bênção e o pão que partimos, segundo Paulo?",
+        "options": [
+          "A comunhão do sangue e do corpo de Cristo",
+          "Um sacrifício a ídolos",
+          "Apenas uma refeição",
+          "A festa da Páscoa judaica"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "O que Paulo diz ser impossível fazer ao mesmo tempo?",
+        "options": [
+          "Beber o cálice do Senhor e o cálice dos demônios",
+          "Orar e jejuar",
+          "Pregar e batizar",
+          "Comer e beber"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "Que princípio Paulo dá sobre as coisas lícitas?",
+        "options": [
+          "Todas são lícitas, mas nem todas convêm nem edificam",
+          "Tudo é proibido",
+          "Nada importa a Deus",
+          "Só o lícito edifica"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-10-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Tudo para a glória de Deus",
+        "text": "Paulo resume a questão da liberdade num princípio amplo: 'quer comais, quer bebais, ou façais qualquer outra coisa, fazei tudo para a glória de Deus', sem ser causa de tropeço para ninguém."
+      },
+      {
+        "id": "1-cor-10-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "fazei tudo para a {0} de Deus.",
+        "blanks": [
+          "glória"
+        ],
+        "distractors": [
+          "honra",
+          "obra",
+          "lei"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "1-cor-11-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "O costume do véu",
+        "text": "Paulo trata de um costume da cultura de Corinto sobre cobrir ou não a cabeça ao orar e profetizar. Mais importante que o costume é o princípio que ele afirma: no Senhor, homem e mulher dependem um do outro, e tudo procede de Deus."
+      },
+      {
+        "id": "1-cor-11-mc-1",
+        "type": "multiple_choice",
+        "after_verse": 1,
+        "question": "A quem Paulo pede que os crentes imitem?",
+        "options": [
+          "A ele mesmo, assim como ele imita a Cristo",
+          "Aos profetas",
+          "Aos anjos",
+          "Aos sábios gregos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "O que Paulo afirma sobre o homem e a mulher 'no Senhor'?",
+        "options": [
+          "Nem o homem é sem a mulher, nem a mulher sem o homem",
+          "O homem não precisa da mulher",
+          "A mulher é superior",
+          "Ambos vêm da lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "O que Paulo diz sobre o cabelo crescido da mulher?",
+        "options": [
+          "É-lhe honroso, pois o cabelo lhe foi dado em lugar de véu",
+          "É desonra",
+          "Deve ser rapado",
+          "Não importa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "O que Paulo critica nas reuniões dos coríntios?",
+        "options": [
+          "Cada um come a própria ceia, com divisões; não é a ceia do Senhor",
+          "Cantam alto demais",
+          "Pregam em línguas",
+          "Jejuam demais"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-cur-23",
+        "type": "curiosity",
+        "after_verse": 23,
+        "title": "A ceia do Senhor",
+        "text": "Os versículos 23 a 26 trazem o relato mais antigo da instituição da ceia do Senhor — escrito antes dos evangelhos. Paulo diz tê-lo recebido do próprio Senhor: o pão é o corpo, e o cálice, o novo testamento no sangue de Cristo."
+      },
+      {
+        "id": "1-cor-11-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "isto é o meu {0} que é partido por vós;",
+        "blanks": [
+          "corpo"
+        ],
+        "distractors": [
+          "sangue",
+          "pão",
+          "cálice"
+        ]
+      },
+      {
+        "id": "1-cor-11-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "O que Paulo manda que cada um faça antes de comer do pão e beber do cálice?",
+        "options": [
+          "Que se examine a si mesmo",
+          "Que jejue três dias",
+          "Que confesse ao sacerdote",
+          "Que pague uma oferta"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "O que Paulo manda fazer quando os crentes se reúnem para comer?",
+        "options": [
+          "Esperar uns pelos outros",
+          "Comer em silêncio",
+          "Trazer ofertas",
+          "Sentar por ordem de idade"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-11-mp-34",
+        "type": "match_pairs",
+        "after_verse": 34,
+        "pairs": [
+          {
+            "left": "O véu",
+            "right": "Costume cultural sobre cobrir a cabeça ao orar"
+          },
+          {
+            "left": "A ceia do Senhor",
+            "right": "Instituída por Jesus: o pão e o cálice em memória dele"
+          },
+          {
+            "left": "Examinar-se",
+            "right": "O que cada um deve fazer antes de participar"
+          },
+          {
+            "left": "Esperar uns pelos outros",
+            "right": "Como devem agir ao reunir-se para comer"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "1-cor-12-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Diversidade de dons",
+        "text": "Paulo ensina que há muitos dons — sabedoria, conhecimento, fé, cura, milagres, profecia, línguas — mas um só Espírito que os reparte a cada um como quer. A variedade serve ao bem comum, não à vaidade individual."
+      },
+      {
+        "id": "1-cor-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "ninguém pode dizer que Jesus é o {0}, senão pelo Espírito Santo.",
+        "blanks": [
+          "Senhor"
+        ],
+        "distractors": [
+          "Mestre",
+          "Rei",
+          "Profeta"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Quem reparte os diversos dons espirituais, segundo Paulo?",
+        "options": [
+          "Um só e o mesmo Espírito, como ele quer",
+          "Cada um a si mesmo",
+          "Os apóstolos",
+          "Os mais sábios"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Um corpo, muitos membros",
+        "text": "Paulo compara a igreja a um corpo: muitos membros, mas um só corpo. O pé não é menos do corpo por não ser mão, e o olho não pode dispensar a mão. Cada parte é necessária, e os membros mais fracos recebem maior honra."
+      },
+      {
+        "id": "1-cor-12-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "assim como o {0} é um, e tem muitos membros,",
+        "blanks": [
+          "corpo"
+        ],
+        "distractors": [
+          "templo",
+          "reino",
+          "povo"
+        ]
+      },
+      {
+        "id": "1-cor-12-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "O que o olho não pode dizer à mão, segundo Paulo?",
+        "options": [
+          "Não tenho necessidade de ti",
+          "Sou maior que tu",
+          "Vem comigo",
+          "Sou do corpo"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "O que acontece quando um membro do corpo padece, segundo Paulo?",
+        "options": [
+          "Todos os membros padecem com ele",
+          "Os outros não sentem",
+          "O corpo é destruído",
+          "Apenas a cabeça sofre"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Quais ofícios Deus pôs primeiro na igreja, segundo Paulo?",
+        "options": [
+          "Primeiro apóstolos, depois profetas, depois mestres",
+          "Primeiro reis e sacerdotes",
+          "Primeiro juízes",
+          "Primeiro anciãos e diáconos"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-12-cur-31",
+        "type": "curiosity",
+        "after_verse": 31,
+        "title": "Um caminho mais excelente",
+        "text": "Depois de tratar dos dons, Paulo aponta para algo maior: 'eu vos mostrarei um caminho ainda mais excelente'. Esse caminho é o amor, tema do capítulo 13, sem o qual nenhum dom tem valor."
+      },
+      {
+        "id": "1-cor-12-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "Os dons",
+            "right": "Diversos, repartidos por um só Espírito"
+          },
+          {
+            "left": "O corpo",
+            "right": "Imagem da igreja: muitos membros, um só corpo"
+          },
+          {
+            "left": "Os membros fracos",
+            "right": "Recebem maior honra"
+          },
+          {
+            "left": "O caminho mais excelente",
+            "right": "O amor, do capítulo seguinte"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "1-cor-13-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "O hino ao amor",
+        "text": "Este é um dos textos mais conhecidos da Bíblia. Paulo mostra que sem amor — caridade, do grego ágape — nada vale: nem línguas, nem profecia, nem dar tudo aos pobres. O amor é o caminho mais excelente que ele prometera mostrar."
+      },
+      {
+        "id": "1-cor-13-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "e dos anjos, e não tivesse {0}, seria como o metal que soa",
+        "blanks": [
+          "caridade"
+        ],
+        "distractors": [
+          "fé",
+          "sabedoria",
+          "esperança"
+        ]
+      },
+      {
+        "id": "1-cor-13-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Como Paulo descreve a caridade?",
+        "options": [
+          "Sofredora, benigna, não invejosa; tudo sofre e tudo suporta",
+          "Orgulhosa e forte",
+          "Rara e secreta",
+          "Severa e justa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Por espelho, em enigma",
+        "text": "Paulo diz que agora vemos 'por espelho, em enigma', mas então veremos face a face. Os espelhos antigos, de metal polido, davam imagens imperfeitas — figura do nosso conhecimento parcial nesta vida, que um dia será completo."
+      },
+      {
+        "id": "1-cor-13-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Quais três permanecem, segundo Paulo, sendo a maior a caridade?",
+        "options": [
+          "A fé, a esperança e a caridade",
+          "Fé, obras e lei",
+          "Profecia, línguas e ciência",
+          "Graça, paz e amor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-13-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "porém a maior destas é a {0}.",
+        "blanks": [
+          "caridade"
+        ],
+        "distractors": [
+          "fé",
+          "esperança",
+          "graça"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "1-cor-14-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Línguas e profecia",
+        "text": "Em Corinto, o dom de falar línguas era muito valorizado. Paulo ensina que profetizar é mais útil, porque edifica toda a igreja, enquanto quem fala em língua estranha edifica apenas a si mesmo, a não ser que haja interpretação."
+      },
+      {
+        "id": "1-cor-14-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Qual a diferença entre quem fala em línguas e quem profetiza, segundo Paulo?",
+        "options": [
+          "Quem fala em línguas edifica a si mesmo; quem profetiza edifica a igreja",
+          "Ambos edificam só a si mesmos",
+          "Profetizar é menor",
+          "Falar em línguas é proibido"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "se a {0} der sonido incerto, quem se preparará para a batalha?",
+        "blanks": [
+          "trombeta"
+        ],
+        "distractors": [
+          "flauta",
+          "cítara",
+          "harpa"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "O que Paulo aconselha a quem fala em língua estranha?",
+        "options": [
+          "Que ore para poder interpretar",
+          "Que fale mais alto",
+          "Que se cale para sempre",
+          "Que ensine a língua aos outros"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "mas também orarei com o {0};",
+        "blanks": [
+          "entendimento"
+        ],
+        "distractors": [
+          "coração",
+          "corpo",
+          "temor"
+        ]
+      },
+      {
+        "id": "1-cor-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "O que Paulo prefere na igreja, em vez de dez mil palavras em língua estranha?",
+        "options": [
+          "Cinco palavras com o entendimento, para instruir outros",
+          "Mil cânticos",
+          "Silêncio total",
+          "Profecias secretas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-cur-26",
+        "type": "curiosity",
+        "after_verse": 26,
+        "title": "Tudo para edificação",
+        "text": "Paulo regula o culto: que tudo — salmo, doutrina, língua, revelação, interpretação — seja feito para edificação. As línguas devem ser interpretadas, e os profetas falar por ordem, pois Deus é Deus de paz, não de confusão."
+      },
+      {
+        "id": "1-cor-14-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "Que princípio deve reger tudo o que se faz quando a igreja se reúne?",
+        "options": [
+          "Que tudo seja feito para edificação",
+          "Que cada um fale ao mesmo tempo",
+          "Que só falem em línguas",
+          "Que ninguém fale"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "Como Paulo regula o falar em línguas na reunião?",
+        "options": [
+          "Por dois ou três, um por vez, e que um interprete",
+          "Todos ao mesmo tempo",
+          "Só os apóstolos",
+          "Sem interpretação"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-14-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "Deus não é Deus de confusão, senão de {0},",
+        "blanks": [
+          "paz"
+        ],
+        "distractors": [
+          "ira",
+          "juízo",
+          "temor"
+        ]
+      },
+      {
+        "id": "1-cor-14-fb-40",
+        "type": "fill_blank",
+        "after_verse": 40,
+        "verse": 40,
+        "template": "Mas faça-se tudo decentemente e com {0}.",
+        "blanks": [
+          "ordem"
+        ],
+        "distractors": [
+          "alegria",
+          "poder",
+          "fé"
+        ]
+      },
+      {
+        "id": "1-cor-14-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Profetizar",
+            "right": "Edifica toda a igreja"
+          },
+          {
+            "left": "Falar em línguas",
+            "right": "Edifica a si mesmo, a não ser que se interprete"
+          },
+          {
+            "left": "A trombeta de sonido incerto",
+            "right": "Imagem de palavras ininteligíveis"
+          },
+          {
+            "left": "Deus",
+            "right": "É Deus de paz, não de confusão"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "1-cor-15-cur-3",
+        "type": "curiosity",
+        "after_verse": 3,
+        "title": "A confissão de fé mais antiga",
+        "text": "Os versículos 3 a 5 trazem uma fórmula que Paulo diz ter recebido e transmitido: Cristo morreu por nossos pecados, foi sepultado e ressuscitou ao terceiro dia, segundo as escrituras. É uma das mais antigas confissões de fé cristãs."
+      },
+      {
+        "id": "1-cor-15-fb-4",
+        "type": "fill_blank",
+        "after_verse": 4,
+        "verse": 4,
+        "template": "e que {0} ao terceiro dia, segundo as escrituras,",
+        "blanks": [
+          "ressuscitou"
+        ],
+        "distractors": [
+          "subiu",
+          "apareceu",
+          "desceu"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Como Paulo se descreve entre os apóstolos?",
+        "options": [
+          "O menor dos apóstolos, indigno por ter perseguido a igreja",
+          "O maior dos apóstolos",
+          "Igual a Cefas",
+          "Apóstolo só dos judeus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Negavam a ressurreição",
+        "text": "Alguns coríntios, influenciados pela filosofia grega, que desprezava o corpo, negavam a ressurreição dos mortos. Paulo responde que, sem ela, toda a fé seria vã, pois também Cristo não teria ressuscitado."
+      },
+      {
+        "id": "1-cor-15-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "logo é {0} a nossa pregação, e também é vã a vossa fé.",
+        "blanks": [
+          "vã"
+        ],
+        "distractors": [
+          "santa",
+          "verdadeira",
+          "firme"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "assim como todos morrem em {0}, assim também em Cristo todos serão vivificados.",
+        "blanks": [
+          "Adão"
+        ],
+        "distractors": [
+          "Moisés",
+          "Abraão",
+          "Davi"
+        ]
+      },
+      {
+        "id": "1-cor-15-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "o último inimigo que será aniquilado é a {0}.",
+        "blanks": [
+          "morte"
+        ],
+        "distractors": [
+          "lei",
+          "carne",
+          "mentira"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Que ditado Paulo cita para advertir sobre más companhias?",
+        "options": [
+          "As más conversações corrompem os bons costumes",
+          "O amor cobre os pecados",
+          "A fé sem obras é morta",
+          "Quem semeia colhe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "Com que imagem Paulo explica a ressurreição do corpo?",
+        "options": [
+          "A semente que só vivifica se primeiro morrer",
+          "O barro do oleiro",
+          "A oliveira enxertada",
+          "A casa sobre a rocha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-cur-41",
+        "type": "curiosity",
+        "after_verse": 41,
+        "title": "Glórias diferentes",
+        "text": "Para falar dos corpos ressuscitados, Paulo aponta para o céu: o sol, a lua e as estrelas têm glórias diferentes, e uma estrela difere de outra em glória. Assim também será a ressurreição dos mortos, em corpos transformados."
+      },
+      {
+        "id": "1-cor-15-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Semeia-se corpo natural, ressuscitará corpo {0}.",
+        "blanks": [
+          "espiritual"
+        ],
+        "distractors": [
+          "celestial",
+          "glorioso",
+          "imortal"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-45",
+        "type": "multiple_choice",
+        "after_verse": 45,
+        "question": "Como Paulo contrasta o primeiro e o último Adão?",
+        "options": [
+          "O primeiro Adão foi feito alma vivente; o último, espírito vivificante",
+          "Ambos eram terrenos",
+          "O primeiro veio do céu",
+          "O último foi feito alma vivente"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-fb-52",
+        "type": "fill_blank",
+        "after_verse": 52,
+        "verse": 52,
+        "template": "ao som da última {0};",
+        "blanks": [
+          "trombeta"
+        ],
+        "distractors": [
+          "voz",
+          "palavra",
+          "oração"
+        ]
+      },
+      {
+        "id": "1-cor-15-cur-55",
+        "type": "curiosity",
+        "after_verse": 55,
+        "title": "A vitória sobre a morte",
+        "text": "Paulo proclama o triunfo da ressurreição com palavras inspiradas em Oseias: 'Onde está, ó morte, o teu aguilhão?' O aguilhão da morte é o pecado, mas Deus dá a vitória por Jesus Cristo."
+      },
+      {
+        "id": "1-cor-15-fb-55",
+        "type": "fill_blank",
+        "after_verse": 55,
+        "verse": 55,
+        "template": "Onde está, ó morte, o teu {0}?",
+        "blanks": [
+          "aguilhão"
+        ],
+        "distractors": [
+          "poder",
+          "reino",
+          "trono"
+        ]
+      },
+      {
+        "id": "1-cor-15-mc-58",
+        "type": "multiple_choice",
+        "after_verse": 58,
+        "question": "Como Paulo conclui o capítulo sobre a ressurreição?",
+        "options": [
+          "Sede firmes, abundando na obra do Senhor, pois o trabalho não é vão",
+          "Comamos e bebamos",
+          "Temei a morte",
+          "Guardai a lei"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-15-mp-58",
+        "type": "match_pairs",
+        "after_verse": 58,
+        "pairs": [
+          {
+            "left": "Cristo",
+            "right": "Ressuscitou e é as primícias dos que dormem"
+          },
+          {
+            "left": "Adão",
+            "right": "Por ele veio a morte a todos os homens"
+          },
+          {
+            "left": "O último inimigo",
+            "right": "A morte, que será aniquilada"
+          },
+          {
+            "left": "O corpo ressuscitado",
+            "right": "Semeado natural, ressuscitado espiritual"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "1-cor-16-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "A coleta para os santos",
+        "text": "Paulo organiza uma coleta para a igreja pobre de Jerusalém, pedindo que cada um, no primeiro dia da semana, ponha à parte conforme prosperar. Esse projeto unia cristãos judeus e gentios numa só fraternidade."
+      },
+      {
+        "id": "1-cor-16-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "Que instrução Paulo dá sobre a coleta para os santos?",
+        "options": [
+          "No primeiro dia da semana, cada um ponha à parte conforme prosperar",
+          "Que vendam todos os bens",
+          "Que esperem ele chegar",
+          "Que só os ricos contribuam"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Onde Paulo diz que ficará até o Pentecostes?",
+        "options": [
+          "Em Éfeso",
+          "Em Corinto",
+          "Em Jerusalém",
+          "Na Macedônia"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "Estai firmes na fé",
+        "text": "Perto do fim da carta, Paulo resume tudo numa exortação vigorosa: 'Vigiai, estai firmes na fé, portai-vos varonilmente, e fortalecei-vos.' E acrescenta o princípio que governa toda a carta: 'Todas as vossas coisas sejam feitas com caridade.'"
+      },
+      {
+        "id": "1-cor-16-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Vigiai, estai firmes na {0}, portai-vos varonilmente,",
+        "blanks": [
+          "fé"
+        ],
+        "distractors": [
+          "graça",
+          "lei",
+          "verdade"
+        ]
+      },
+      {
+        "id": "1-cor-16-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Como Paulo descreve a família de Estéfanas?",
+        "options": [
+          "As primícias da Acaia, dedicada ao ministério dos santos",
+          "Profetas de Corinto",
+          "Os fundadores da igreja de Roma",
+          "Anciãos de Jerusalém"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "Maranata",
+        "text": "Paulo encerra com uma palavra aramaica, 'Maranata', que significa 'Vem, Senhor nosso' (ou 'O Senhor vem'). É um eco da oração das primeiras comunidades cristãs, que aguardavam ansiosas a volta de Cristo."
+      },
+      {
+        "id": "1-cor-16-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Como Paulo encerra a carta?",
+        "options": [
+          "Com uma saudação de sua própria mão e sua bênção de graça e amor",
+          "Com uma maldição aos gentios",
+          "Com uma lista de leis",
+          "Com um pedido de dinheiro"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "1-cor-16-mp-24",
+        "type": "match_pairs",
+        "after_verse": 24,
+        "pairs": [
+          {
+            "left": "A coleta",
+            "right": "Oferta para a igreja pobre de Jerusalém"
+          },
+          {
+            "left": "Éfeso",
+            "right": "Onde Paulo ficaria até o Pentecostes"
+          },
+          {
+            "left": "Estéfanas",
+            "right": "Família que foi as primícias da Acaia"
+          },
+          {
+            "left": "Maranata",
+            "right": "Vem, Senhor nosso"
+          }
+        ]
+      }
+    ]
+  }
+}

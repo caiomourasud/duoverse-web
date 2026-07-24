@@ -1,0 +1,271 @@
+{
+ "schema_version": 1,
+ "book": "mal",
+ "chapters": {
+  "1": [
+   {
+    "id": "mal-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O último livro do Antigo Testamento",
+    "text": "'Malaquias' significa 'meu mensageiro'. O seu livro encerra o Antigo Testamento, e depois dele vêm cerca de quatro séculos de silêncio profético antes de o Novo Testamento começar."
+   },
+   {
+    "id": "mal-1-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Malaquias 1:2-3, a quem o Senhor diz que amou, e a quem odiou?",
+    "options": [
+     "Amou Jacó e odiou Esaú",
+     "Amou Esaú e odiou Jacó",
+     "Amou os dois igualmente",
+     "Não amou nenhum"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "mal-1-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Malaquias 1:8, que tipo de animais os sacerdotes ofereciam em sacrifício?",
+    "options": [
+     "O primogênito e o melhor",
+     "O cego, o coxo e o enfermo",
+     "Apenas rolas e pombas",
+     "Bezerros cevados"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-1-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "porque eu sou grande {0}",
+    "blanks": [
+     "Rei"
+    ],
+    "distractors": [
+     "sacerdote",
+     "profeta",
+     "pastor"
+    ]
+   },
+   {
+    "id": "mal-1-cur-11",
+    "type": "curiosity",
+    "after_verse": 11,
+    "title": "Um nome grande entre as nações",
+    "text": "O versículo 11 declara que desde o nascente do sol até o poente o nome do Senhor será grande 'entre as nações' — uma promessa marcante de que o seu culto alcançaria além de Israel."
+   }
+  ],
+  "2": [
+   {
+    "id": "mal-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Segundo Malaquias 2:4-5, com quem o Senhor fez um convênio de vida e paz?",
+    "options": [
+     "Abraão",
+     "Davi",
+     "Levi",
+     "Moisés"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "mal-2-fb-7",
+    "type": "fill_blank",
+    "after_verse": 7,
+    "verse": 7,
+    "template": "porque ele é o {0} do Senhor dos Exércitos",
+    "blanks": [
+     "mensageiro"
+    ],
+    "distractors": [
+     "servo",
+     "sacerdote",
+     "profeta"
+    ]
+   },
+   {
+    "id": "mal-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Malaquias 2:10 faz uma pergunta para repreender a deslealdade do povo. Qual é?",
+    "options": [
+     "Quem achará uma mulher virtuosa?",
+     "Não temos nós todos um mesmo Pai? Não nos criou um mesmo Deus?",
+     "Até quando coxeareis entre dois pensamentos?",
+     "Onde estavas quando eu fundava a terra?"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-2-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "O Senhor odeia o repúdio",
+    "text": "O versículo 16 diz que o Senhor 'odeia o repúdio' — isto é, o divórcio injusto. Malaquias trata o casamento como um convênio, ligando a fidelidade ao cônjuge à fidelidade a Deus."
+   },
+   {
+    "id": "mal-2-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Malaquias 2:17, como o povo enfadou o Senhor?",
+    "options": [
+     "Oferecendo sacrifícios demais",
+     "Jejuando com frequência demais",
+     "Dizendo que quem faz o mal é bom aos olhos dele",
+     "Guardando silêncio"
+    ],
+    "answer": 2
+   }
+  ],
+  "3": [
+   {
+    "id": "mal-3-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Preparará o caminho diante de mim",
+    "text": "O versículo 1 — 'Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim' — é citado nos Evangelhos e aplicado a João Batista, que preparou o caminho para o Senhor."
+   },
+   {
+    "id": "mal-3-mc-3",
+    "type": "multiple_choice",
+    "after_verse": 3,
+    "question": "Em Malaquias 3:2-3, o Senhor que vem é comparado ao fogo do ourives que purifica a quem?",
+    "options": [
+     "Os reis de Judá",
+     "Os filhos de Levi",
+     "As nações",
+     "Os profetas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Malaquias 3:6, o que o Senhor diz de si mesmo, de modo que os filhos de Jacó não são consumidos?",
+    "options": [
+     "'Sou misericordioso acima de tudo'",
+     "'Eu, o Senhor, não mudo'",
+     "'Sou tardio em irar-me'",
+     "'Sou um Deus zeloso'"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "Nos {0} e nas ofertas",
+    "blanks": [
+     "dízimos"
+    ],
+    "distractors": [
+     "orações",
+     "votos",
+     "sacrifícios"
+    ]
+   },
+   {
+    "id": "mal-3-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Malaquias 3:10, o que o Senhor promete se o povo trouxer todos os dízimos à casa do tesouro?",
+    "options": [
+     "Enviar chuva a seu tempo",
+     "Abrir as janelas do céu e derramar uma bênção",
+     "Conceder-lhes longa vida",
+     "Subjugar os seus inimigos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Segundo Malaquias 3:12, como todas as nações chamarão o povo obediente?",
+    "options": [
+     "Um sacerdócio santo",
+     "Bem-aventurados, uma terra deleitosa",
+     "Poderosos na batalha",
+     "A semente de Abraão"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "mal-3-mp-16",
+    "type": "match_pairs",
+    "after_verse": 16,
+    "pairs": [
+     {
+      "left": "O mensageiro do convênio",
+      "right": "prepara o caminho (v. 1)"
+     },
+     {
+      "left": "O fogo do ourives",
+      "right": "purifica os filhos de Levi (v. 3)"
+     },
+     {
+      "left": "As janelas do céu",
+      "right": "abertas aos que dizimam (v. 10)"
+     }
+    ]
+   },
+   {
+    "id": "mal-3-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Malaquias 3:18 diz que o povo voltará e verá a diferença entre quem?",
+    "options": [
+     "Ricos e pobres",
+     "Sacerdote e levita",
+     "Judeu e gentio",
+     "O justo e o ímpio"
+    ],
+    "answer": 3
+   }
+  ],
+  "4": [
+   {
+    "id": "mal-4-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "O sol da justiça",
+    "text": "O versículo 2 promete que aos que temem o nome do Senhor nascerá 'o sol da justiça', trazendo 'cura debaixo das suas asas' — uma das imagens de esperança mais luminosas do Antigo Testamento."
+   },
+   {
+    "id": "mal-4-fb-5",
+    "type": "fill_blank",
+    "after_verse": 5,
+    "verse": 5,
+    "template": "eu vos envio o profeta {0}",
+    "blanks": [
+     "Elias"
+    ],
+    "distractors": [
+     "Moisés",
+     "Isaías",
+     "Eliseu"
+    ]
+   },
+   {
+    "id": "mal-4-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Segundo Malaquias 4:6, o que o profeta fará antes do grande e terrível dia do Senhor?",
+    "options": [
+     "Reconstruir o templo",
+     "Converter o coração dos pais aos filhos, e o dos filhos aos pais",
+     "Reunir as tribos dispersas",
+     "Ungir um novo rei"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}
