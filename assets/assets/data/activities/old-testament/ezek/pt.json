@@ -1,0 +1,4037 @@
+{
+ "schema_version": 1,
+ "book": "ezek",
+ "chapters": {
+  "1": [
+   {
+    "id": "ezek-1-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "Ezequiel, o sacerdote, filho de {0}",
+    "blanks": [
+     "Buzi"
+    ],
+    "distractors": [
+     "Buz",
+     "Bani",
+     "Beor"
+    ]
+   },
+   {
+    "id": "ezek-1-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Onde estava Ezequiel quando os céus se abriram e ele viu visões de Deus (Ezequiel 1:1)?",
+    "options": [
+     "No meio da congregação, no átrio do templo",
+     "No meio dos exilados, junto ao rio Quebar",
+     "Na corte do rei Nabucodonosor, na Babilônia",
+     "Junto ao altar, dentro do santuário"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quantos rostos e asas tinha cada um dos quatro seres viventes (Ezequiel 1:6)?",
+    "options": [
+     "Dois rostos e duas asas",
+     "Quatro rostos e quatro asas",
+     "Um rosto e seis asas",
+     "Três rostos e quatro asas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Ezequiel 1:10, os quatro rostos de cada ser eram o rosto de homem, de leão, de boi e de quê?",
+    "options": [
+     "De águia",
+     "De serpente",
+     "De cavalo",
+     "De carneiro"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-1-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "O que havia junto aos seres viventes sobre a terra em Ezequiel 1:15-16?",
+    "options": [
+     "Uma coluna de nuvem e fogo que cobria todo o acampamento de Israel",
+     "Uma roda, como se estivesse uma roda no meio de outra roda",
+     "Um altar de bronze cercado por chamas de fogo ardente ao redor",
+     "Um cajado de madeira fincado firmemente no chão"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-1-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Rodas cheias de olhos",
+    "text": "As rodas são descritas com aros 'tão altos que metiam medo' e 'cheios de olhos ao redor' — imagem da presença de Deus que tudo vê e se move livremente em todas as direções, mesmo entre cativos longe do templo."
+   },
+   {
+    "id": "ezek-1-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Em Ezequiel 1:24 o ruído das asas dos seres era como o quê?",
+    "options": [
+     "O som de um vento forte varrendo por todo o deserto",
+     "O estrondo de carros de guerra correndo à batalha",
+     "O ruído de muitas águas, como a voz do Onipotente",
+     "O som de trombetas ecoando ao longe no vale"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-1-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Ao ver o aspecto da semelhança da glória do Senhor (Ezequiel 1:28), o que Ezequiel fez?",
+    "options": [
+     "Cantou de alegria",
+     "Escondeu-se numa caverna",
+     "Caiu sobre o seu rosto",
+     "Correu para Jerusalém"
+    ],
+    "answer": 2
+   }
+  ],
+  "2": [
+   {
+    "id": "ezek-2-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Com que título o Senhor se dirige repetidamente a Ezequiel, a partir de Ezequiel 2:1?",
+    "options": [
+     "Filho do homem",
+     "Servo do Senhor",
+     "Profeta de Judá",
+     "Homem de Deus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-2-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Enviado a uma casa rebelde",
+    "text": "Deus adverte que Israel pode não ouvir, mas envia Ezequiel mesmo assim, 'quer ouçam quer deixem de ouvir' — a tarefa do profeta é a fidelidade, não o sucesso garantido."
+   },
+   {
+    "id": "ezek-2-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "estavam escritas lamentações, e suspiros, e {0}",
+    "blanks": [
+     "ais"
+    ],
+    "distractors": [
+     "alegrias",
+     "louvores",
+     "leis"
+    ]
+   },
+   {
+    "id": "ezek-2-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "O que estava escrito no rolo de livro mostrado a Ezequiel (Ezequiel 2:10)?",
+    "options": [
+     "Promessas de restauração e paz duradoura",
+     "Lamentações, e suspiros, e ais",
+     "Bênçãos e promessas de grande prosperidade",
+     "Os nomes das doze tribos de Israel"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "ezek-3-fb-3",
+    "type": "fill_blank",
+    "after_verse": 3,
+    "verse": 3,
+    "template": "e era na minha boca doce como o {0}",
+    "blanks": [
+     "mel"
+    ],
+    "distractors": [
+     "fogo",
+     "vinagre",
+     "pão"
+    ]
+   },
+   {
+    "id": "ezek-3-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Quando Ezequiel comeu o rolo que o Senhor lhe deu, qual foi o sabor (Ezequiel 3:3)?",
+    "options": [
+     "Insosso, sem nenhum sabor",
+     "Doce como o mel",
+     "Salgado como água do mar",
+     "Picante como pimenta"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "A quem Ezequiel é enviado para falar em Ezequiel 3:4-5?",
+    "options": [
+     "A um povo de estranha fala e língua difícil",
+     "À casa de Israel",
+     "Aos reis da Babilônia",
+     "Aos sacerdotes do Egito"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Que função o Senhor dá a Ezequiel sobre a casa de Israel em Ezequiel 3:17?",
+    "options": [
+     "Juiz",
+     "Atalaia",
+     "Rei",
+     "Escriba"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-3-cur-15",
+    "type": "curiosity",
+    "after_verse": 15,
+    "title": "Sete dias pasmado",
+    "text": "Antes de poder falar, Ezequiel sentou-se entre os cativos em Tel-Abibe 'pasmado' por sete dias — assoberbado pelo que vira, até que a palavra do Senhor lhe veio outra vez."
+   },
+   {
+    "id": "ezek-3-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Para onde o Senhor mandou Ezequiel ir para falar com ele em Ezequiel 3:22?",
+    "options": [
+     "Para o vale",
+     "Para o alto do monte",
+     "Para o templo",
+     "Para o outro lado do rio"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-3-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Segundo Ezequiel 3:26, o que aconteceria à língua de Ezequiel?",
+    "options": [
+     "Seria enviada para pregar diante das nações estranhas",
+     "Pegaria ao paladar, e ele ficaria mudo",
+     "Falaria continuamente para repreender a casa rebelde",
+     "Seria fortalecida para clamar em alta voz nas ruas"
+    ],
+    "answer": 1
+   }
+  ],
+  "4": [
+   {
+    "id": "ezek-4-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "filho do homem, toma um {0}",
+    "blanks": [
+     "tijolo"
+    ],
+    "distractors": [
+     "espada",
+     "rolo",
+     "harpa"
+    ]
+   },
+   {
+    "id": "ezek-4-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que cidade Ezequiel foi mandado gravar no tijolo em Ezequiel 4:1?",
+    "options": [
+     "Babilônia",
+     "Jerusalém",
+     "Nínive",
+     "Samaria"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Quantos dias Ezequiel deveria deitar-se sobre o lado esquerdo, levando a maldade de Israel (Ezequiel 4:5)?",
+    "options": [
+     "Duzentos e noventa e cinco dias",
+     "Trezentos e sessenta dias",
+     "Trezentos e noventa dias",
+     "Cento e vinte e cinco dias"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-4-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "Um dia para cada ano",
+    "text": "O Senhor diz a Ezequiel: 'um dia te dei para cada ano' (4:6) — os dias deitado de cada lado representam os anos da culpa de Israel e de Judá, tornando o seu corpo um calendário vivo do juízo."
+   },
+   {
+    "id": "ezek-4-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Como Ezequiel deveria medir a comida que comia durante o sinal (Ezequiel 4:10)?",
+    "options": [
+     "Por peso, vinte siclos a cada dia",
+     "Por medida, dez côvados de água ao dia",
+     "Somente pela manhã e ao entardecer",
+     "Sem nenhuma restrição de peso"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-4-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Por que o povo de Jerusalém comeria pão por peso e beberia água por medida (Ezequiel 4:16-17)?",
+    "options": [
+     "Para que se cumprisse uma antiga aliança feita com os reis vizinhos antes do cativeiro",
+     "Porque o Senhor quebraria o sustento de pão, e eles se consumiriam nas suas maldades",
+     "Porque um profeta estrangeiro havia amaldiçoado a cidade e todos os seus habitantes que viviam dentro dos muros",
+     "Para que o povo aprendesse a cultivar novas plantações durante o próximo inverno"
+    ],
+    "answer": 1
+   }
+  ],
+  "5": [
+   {
+    "id": "ezek-5-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "uma navalha de {0}",
+    "blanks": [
+     "barbeiro"
+    ],
+    "distractors": [
+     "soldado",
+     "sacerdote",
+     "pastor"
+    ]
+   },
+   {
+    "id": "ezek-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que ato-sinal o Senhor mandou Ezequiel realizar com uma faca afiada em Ezequiel 5:1?",
+    "options": [
+     "Construir um grande altar de pedras diante de todo o povo",
+     "Rapar a cabeça e a barba e depois repartir os cabelos",
+     "Cavar um grande poço profundo no meio da cidade sitiada",
+     "Sacrificar um cordeiro sobre um altar de pedra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-5-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Por que o Senhor diz que não poupará Jerusalém em Ezequiel 5:11?",
+    "options": [
+     "Porque ela profanou o seu santuário com coisas detestáveis e abominações",
+     "Porque ela era pequena demais para resistir aos exércitos das nações vizinhas",
+     "Por causa de uma grande fome que assolou toda a terra durante muitos anos",
+     "Porque confiou nas alianças com o Egito em vez de confiar no Senhor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-5-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Posta no meio das nações",
+    "text": "O Senhor diz de Jerusalém: 'Esta é Jerusalém, eu a pus no meio das nações' (5:5). Escolhida para ser exemplo de justiça aos povos ao redor, ela, ao contrário, os superou em maldade."
+   },
+   {
+    "id": "ezek-5-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Quais juízos o Senhor diz que enviará sobre Jerusalém em Ezequiel 5:12,17?",
+    "options": [
+     "Terremoto, trovões, granizo e fogo do céu",
+     "Fome, feras, peste, sangue e a espada",
+     "Escuridão, gafanhotos, rãs e sangue nos rios",
+     "Peste, fome e chuva de fogo do céu"
+    ],
+    "answer": 1
+   }
+  ],
+  "6": [
+   {
+    "id": "ezek-6-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Contra o que o Senhor manda Ezequiel dirigir o rosto e profetizar em Ezequiel 6:2-3?",
+    "options": [
+     "Os montes de Israel",
+     "Os navios de Tiro",
+     "Os rios do Egito",
+     "Os muros da Babilônia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-6-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Contra os altos",
+    "text": "Os 'altos' (6:3) eram santuários nos montes onde Israel oferecia aos ídolos. Ao voltar o juízo contra os próprios montes, o Senhor atinge o coração da idolatria da nação."
+   },
+   {
+    "id": "ezek-6-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "O que o Senhor disse que o remanescente que escapasse faria entre as nações (Ezequiel 6:9-10)?",
+    "options": [
+     "Esquecer-se totalmente do Senhor e adorar novos ídolos das nações",
+     "Lembrar-se do Senhor e ter nojo de si mesmos por suas abominações",
+     "Guerrear contra a Babilônia para recuperar sua liberdade e terra prometida",
+     "Construir templos aos ídolos que trouxeram das nações"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Por quais três coisas Ezequiel 6:11-12 diz que a casa de Israel cairá?",
+    "options": [
+     "Pela guerra, pela praga e pela destruição total",
+     "Pela espada, pela fome e pela peste",
+     "Pela fome, pela peste e pela ruína das cidades",
+     "Pela peste e pela guerra somente"
+    ],
+    "answer": 1
+   }
+  ],
+  "7": [
+   {
+    "id": "ezek-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que única palavra o Senhor declara repetidamente ter vindo sobre a terra de Israel em Ezequiel 7:2-3?",
+    "options": [
+     "O fim",
+     "A aurora",
+     "A colheita",
+     "A festa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-7-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Um fim, não apenas um cerco",
+    "text": "Os capítulos anteriores advertiam sobre o cerco; aqui a mensagem se intensifica para um acerto final — 'Vem o fim, o fim vem sobre os quatro cantos da terra' (7:2). Chegou o dia do furor do Senhor para Israel."
+   },
+   {
+    "id": "ezek-7-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 7:10, o que se diz ter florescido e reverdecido quando vem o dia?",
+    "options": [
+     "A ira e a vingança",
+     "A vara e a soberba",
+     "A violência e o terror",
+     "A raiz e o fruto"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-7-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Segundo Ezequiel 7:15, onde estão a espada, a peste e a fome?",
+    "options": [
+     "Dentro a espada, e fora a peste e a fome",
+     "Fora a espada, e dentro a peste e a fome",
+     "A espada e a peste estão dentro, e a fome fora",
+     "Somente fora da cidade haverá espada"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-7-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Em mãos de quem o Senhor entregará a terra por presa e despojo em Ezequiel 7:21?",
+    "options": [
+     "Dos sacerdotes e dos príncipes de Judá",
+     "Dos exércitos do Egito e da grande Assíria",
+     "Dos estrangeiros e dos ímpios da terra",
+     "Dos anjos destruidores do Senhor"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-7-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Segundo Ezequiel 7:26, quando o povo buscar uma visão do profeta, o que faltará?",
+    "options": [
+     "A palavra do profeta e a bênção dos grandes reis",
+     "A lei do sacerdote e o conselho dos anciãos",
+     "A visão do vidente e o conselho dos escribas",
+     "O pão do padeiro e o vinho do lavrador"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "ezek-8-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Para que cidade Ezequiel foi levado nas visões de Deus em Ezequiel 8:3?",
+    "options": [
+     "Babilônia",
+     "Jerusalém",
+     "Betel",
+     "Tiro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "A imagem dos ciúmes",
+    "text": "À porta do templo, Ezequiel vê 'o assento da imagem dos ciúmes, que provoca ciúmes' (8:3) — um ídolo erguido na própria casa de Deus, o primeiro de uma sequência de abominações crescentes dentro do santuário."
+   },
+   {
+    "id": "ezek-8-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quando Ezequiel cavou na parede, como o Senhor lhe disse em Ezequiel 8:7-8, o que ele encontrou?",
+    "options": [
+     "Um tesouro enterrado",
+     "Uma porta",
+     "Uma fonte escondida",
+     "Um rolo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Quantos homens dos anciãos de Israel estavam com incensários diante dos ídolos, e quem estava entre eles (Ezequiel 8:11)?",
+    "options": [
+     "Cinquenta homens, com Ezequias, filho de Hilquias",
+     "Setenta homens, com Jaazanias, filho de Safã",
+     "Trinta e cinco homens, com Baruque, filho de Nerias",
+     "Doze homens, com Coré, filho de Levi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-8-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Como o Senhor diz que responderá a essas abominações em Ezequiel 8:18?",
+    "options": [
+     "Enviará anjos consoladores; ouvirá suas orações e lhes dará descanso imediato",
+     "Usará de furor; o seu olho não poupará, e ainda que clamem, não os ouvirá",
+     "Adiará o castigo por muitos anos e enviará profetas para chamá-los ao arrependimento",
+     "Perdoará imediatamente e restaurará logo a glória do templo"
+    ],
+    "answer": 1
+   }
+  ],
+  "9": [
+   {
+    "id": "ezek-9-fb-2",
+    "type": "fill_blank",
+    "after_verse": 2,
+    "verse": 2,
+    "template": "entre eles um homem vestido de {0}",
+    "blanks": [
+     "linho"
+    ],
+    "distractors": [
+     "ouro",
+     "escarlata",
+     "lã"
+    ]
+   },
+   {
+    "id": "ezek-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "O que o homem vestido de linho foi mandado pôr na testa de certos homens em Ezequiel 9:4?",
+    "options": [
+     "Uma coroa de ouro, sobre os que guardavam fielmente a lei",
+     "Um sinal, sobre os que suspiram e gemem pelas abominações",
+     "Um óleo sagrado, sobre os sacerdotes que serviam no altar",
+     "Uma marca vermelha, sobre os anciãos que julgavam o povo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-9-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "Começai pelo meu santuário",
+    "text": "O Senhor manda que os feridores poupem os que têm o sinal, mas que 'começai pelo meu santuário' (9:6) — o juízo começa pela própria casa de Deus e seus líderes corrompidos antes de alcançar a cidade."
+   },
+   {
+    "id": "ezek-9-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "O que o homem vestido de linho relatou ao retornar em Ezequiel 9:11?",
+    "options": [
+     "Que a cidade inteira já havia sido reconstruída",
+     "Que tinha feito como lhe fora ordenado",
+     "Que todos os ímpios haviam fugido para longe",
+     "Que o povo se arrependera de coração"
+    ],
+    "answer": 1
+   }
+  ],
+  "10": [
+   {
+    "id": "ezek-10-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Com o que o Senhor mandou o homem vestido de linho encher as mãos e espalhar sobre a cidade (Ezequiel 10:2)?",
+    "options": [
+     "Sementes espalhadas sobre os altares do templo",
+     "Brasas acesas dentre os querubins",
+     "Água pura recolhida do rio Quebar",
+     "Incenso puro do altar dourado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-10-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "A glória deixa o umbral",
+    "text": "Em 10:4 'levantou-se a glória do Senhor de sobre o querubim para o umbral da casa' — um passo na lenta e triste partida da presença de Deus do templo antes da sua destruição."
+   },
+   {
+    "id": "ezek-10-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Como as rodas são descritas em Ezequiel 10:9-10?",
+    "options": [
+     "Como quatro rodas separadas, cada uma virada para um lado diferente",
+     "Como uma roda no meio de outra roda, todas de uma mesma semelhança",
+     "Como grandes rodas de pedra, imóveis e bem presas para sempre ao chão",
+     "Como pequenas rodas de madeira, todas escondidas na parede"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-10-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Quais quatro rostos tinha cada querubim, segundo Ezequiel 10:14?",
+    "options": [
+     "De querubim, de homem, de leão e de águia",
+     "De cordeiro, de boi, de pomba e de serpente",
+     "De homem, de cavalo, de carneiro e de peixe",
+     "De leão, de urso, de leopardo e de bode"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-10-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Como Ezequiel identifica os querubins em Ezequiel 10:15,20?",
+    "options": [
+     "Anjos que nunca havia visto antes daquele grande dia",
+     "Os seres viventes que vira junto ao rio Quebar",
+     "Os serafins que serviam diante do trono celestial",
+     "Estátuas antigas do lugar santo do templo"
+    ],
+    "answer": 1
+   }
+  ],
+  "11": [
+   {
+    "id": "ezek-11-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que provérbio diziam os príncipes do povo em Ezequiel 11:3?",
+    "options": [
+     "Esta cidade é a caldeira, e nós a carne",
+     "Este povo é a videira, e nós os seus cachos",
+     "Esta terra é o grande forno, e nós o pão",
+     "Este muro é a fortaleza, e nós as pedras"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-11-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Líderes nomeados",
+    "text": "Ezequiel nomeia os príncipes à porta — Jaazanias, filho de Azur, e Pelatias, filho de Benaia (11:1) — líderes concretos responsabilizados pelo mau conselho dado na cidade."
+   },
+   {
+    "id": "ezek-11-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "O que o Senhor disse que aconteceria aos que confiavam na 'caldeira' em Ezequiel 11:8-10?",
+    "options": [
+     "Seriam coroados como príncipes e receberiam a bênção de Israel",
+     "Traria sobre eles a espada e os julgaria nos confins de Israel",
+     "Prosperariam nas ruas e ficariam livres de qualquer julgamento",
+     "Fugiriam em segurança para o Egito com todos os seus bens"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Ezequiel 11:15, o que os habitantes de Jerusalém haviam dito aos irmãos de Ezequiel no exílio?",
+    "options": [
+     "Voltai já para dentro da cidade; o Senhor já perdoou todos os pecados",
+     "Apartai-vos para longe do Senhor; esta terra se nos deu em possessão",
+     "Trazei-nos ouro e muita prata fina da Babilônia para o templo do Senhor",
+     "Orai sempre pelo nosso rei e pela paz eterna da cidade"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Que coisa nova o Senhor promete dar em Ezequiel 11:19?",
+    "options": [
+     "Um novo templo de ouro puríssimo, erguido no meio de Jerusalém, para durar por todas as gerações",
+     "Um só coração e novo espírito, tirando o coração de pedra e dando um coração de carne",
+     "Um novo rei da linhagem de Davi, que reinaria para sempre sobre todas as nações da terra",
+     "Uma nova lei escrita em tábuas de pedra, dada a todo o povo de Israel"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-11-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Para onde foi a glória do Senhor e o que Ezequiel então fez (Ezequiel 11:23-25)?",
+    "options": [
+     "Encheu todo o templo de grande glória, e ele cantou louvores diante de todo o povo ali reunido",
+     "Alçou-se da cidade ao monte a oriente, e ele falou aos cativos tudo o que o Senhor lhe mostrara",
+     "Voltou novamente ao monte Sinai, e ele dormiu profundamente por sete longos e cansativos dias inteiros",
+     "Desapareceu de repente, e ele chorou em silêncio durante toda a noite escura"
+    ],
+    "answer": 1
+   }
+  ],
+  "12": [
+   {
+    "id": "ezek-12-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que ato-sinal o Senhor manda Ezequiel realizar em Ezequiel 12:3-5?",
+    "options": [
+     "Rapar a cabeça e a barba, repartir os cabelos em três partes e queimar uma delas",
+     "Preparar bagagem de exílio, cavar a parede e sair como quem vai para o cativeiro",
+     "Deitar-se sobre o lado esquerdo, diante de todo o povo, durante muitos dias seguidos",
+     "Erguer um estandarte sobre o monte e tocar a trombeta ao amanhecer"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Olhos que não veem",
+    "text": "O Senhor descreve Israel como casa rebelde 'que tem olhos para ver e não vê, e tem ouvidos para ouvir e não ouve' (12:2) — por isso Ezequiel deve encenar a sua mensagem à vista de todos, para romper a cegueira deles."
+   },
+   {
+    "id": "ezek-12-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "A quem se refere o 'peso' (a profecia) de Ezequiel 12:10?",
+    "options": [
+     "Ao príncipe em Jerusalém e a toda a casa de Israel",
+     "Aos anciãos rebeldes que habitavam na terra de Moabe",
+     "Ao rei de Tiro e aos seus mercadores das ilhas do mar",
+     "Aos falsos profetas que habitavam em Samaria"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-12-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "O que o Senhor diz que o povo saberá quando os dispersar entre as nações (Ezequiel 12:15)?",
+    "options": [
+     "Que os profetas eram falsos",
+     "Que eu sou o Senhor",
+     "Que a Babilônia é poderosa",
+     "Que a terra está amaldiçoada"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-fb-18",
+    "type": "fill_blank",
+    "after_verse": 18,
+    "verse": 18,
+    "template": "o teu pão comerás com tremor, e a tua água beberás com {0}",
+    "blanks": [
+     "estremecimento"
+    ],
+    "distractors": [
+     "alegria",
+     "cânticos",
+     "riso"
+    ]
+   },
+   {
+    "id": "ezek-12-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Com o que Ezequiel foi mandado comer o seu pão e beber a sua água em Ezequiel 12:18?",
+    "options": [
+     "Com cânticos de louvor e grande alegria",
+     "Com tremor, estremecimento e receio",
+     "Em silêncio absoluto, sem olhar para ninguém",
+     "De joelhos, voltado para o templo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-12-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Como o Senhor responde ao dito de que 'perecerá toda a visão' em Ezequiel 12:23,25,28?",
+    "options": [
+     "Explica que as visões eram apenas para os dias antigos e já não se aplicam mais",
+     "Declara que nenhuma das suas palavras será adiada, mas se cumprirá sem demora",
+     "Promete revelar novas visões somente depois que Jerusalém for totalmente reconstruída",
+     "Ordena que os profetas guardem silêncio até o tempo do novo rei"
+    ],
+    "answer": 1
+   }
+  ],
+  "13": [
+   {
+    "id": "ezek-13-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Raposas entre as ruínas",
+    "text": "O versículo 4 compara os falsos profetas de Israel a \"raposas nos desertos\" — animais que se entocam em muros quebrados em vez de repará-los, uma acusação viva contra líderes que exploram a ruína em vez de remediá-la."
+   },
+   {
+    "id": "ezek-13-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 13:5, o que os falsos profetas deixaram de fazer?",
+    "options": [
+     "Subir às brechas e tapar o muro para a casa de Israel",
+     "Advertir o povo dos seus pecados e chamá-lo ao arrepentimento verdadeiro",
+     "Interceder diante do Senhor pelos cativos levados para a Babilônia",
+     "Reedificar o templo destruído pelos exércitos caldeus"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-13-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Que mensagem falsa os profetas haviam dado ao povo, segundo Ezequiel 13:10?",
+    "options": [
+     "Segurança para sempre em toda a terra",
+     "Paz, não havendo paz",
+     "Grande vitória sobre o exército da Babilônia",
+     "Bênçãos sem medida"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-13-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "Dize aos que a rebocam com argamassa {0}",
+    "blanks": [
+     "não temperada"
+    ],
+    "distractors": [
+     "dourada",
+     "fresca",
+     "branca"
+    ]
+   },
+   {
+    "id": "ezek-13-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Em Ezequiel 13:16, o que esses profetas de Israel viam para Jerusalém?",
+    "options": [
+     "Visões de grande prosperidade futura para o povo",
+     "Um libertador enviado pelo Senhor contra os caldeus",
+     "Visão de paz, não havendo paz",
+     "Sinais de bênção divina"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-13-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que o Senhor promete em Ezequiel 13:23 quanto ao poder dos falsos profetas?",
+    "options": [
+     "Serão restaurados à congregação e honrados como líderes",
+     "Receberão maior poder para profetizar em nome do Senhor",
+     "Serão enviados para profetizar entre as nações",
+     "Não verão mais a vaidade, nem farão adivinhação"
+    ],
+    "answer": 3
+   }
+  ],
+  "14": [
+   {
+    "id": "ezek-14-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Por que os anciãos que vêm a Ezequiel não recebem verdadeira resposta do Senhor (Ezequiel 14:3-4)?",
+    "options": [
+     "Levantaram os seus ídolos no seu coração",
+     "Recusaram-se a jejuar antes de vir à presença do profeta",
+     "Ainda guardavam aliança secreta com o rei do Egito",
+     "Duvidavam da autoridade profética de Ezequiel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-14-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Segundo Ezequiel 14:6, o que o Senhor ordena à casa de Israel que faça?",
+    "options": [
+     "Reunir-se em jejum solene diante do templo destruído",
+     "Converter-se e desviar-se dos seus ídolos",
+     "Enviar mensageiros para fazer aliança com os caldeus",
+     "Guardar silêncio até que a ira passasse"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-14-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Quais três homens justos Ezequiel 14:14 nomeia, que só livrariam a própria alma?",
+    "options": [
+     "Abraão, Isaque e Jacó",
+     "Moisés, Arão e Samuel",
+     "Noé, Daniel e Jó",
+     "Elias, Eliseu e Isaías"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-14-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Quais são os \"quatro severos juízos\" do Senhor contra Jerusalém em Ezequiel 14:21?",
+    "options": [
+     "O cativeiro, a lepra, a traição e o exílio forçado",
+     "A guerra civil, a escravidão, o fogo e o granizo destruidor",
+     "As trevas, o silêncio e a confusão total",
+     "A espada, a fome, as feras selvagens e a peste"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-14-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "Daniel entre os antigos",
+    "text": "Ao nomear Daniel ao lado de Noé e Jó como símbolo de justiça (v. 14), Ezequiel — um contemporâneo — trata Daniel, então jovem exilado na Babilônia, como já famoso pela sua integridade."
+   }
+  ],
+  "15": [
+   {
+    "id": "ezek-15-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "A madeira inútil da videira",
+    "text": "Diferente do carvalho ou do cedro, a madeira da videira é torta e mole demais para construir; só vale pelo fruto. A pergunta do Senhor no versículo 2 prepara todo o argumento: uma videira sem fruto não serve senão para o fogo."
+   },
+   {
+    "id": "ezek-15-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Ezequiel 15:4, o que acontece com a madeira da videira depois de lançada ao fogo?",
+    "options": [
+     "A madeira se transforma em cinzas que fertilizam a terra da videira",
+     "O fogo consome ambas as extremidades e o meio fica queimado",
+     "Ela é cuidadosamente guardada para servir de lenha no altar do templo",
+     "Torna-se resistente e serve para construir portas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-15-fb-8",
+    "type": "fill_blank",
+    "after_verse": 8,
+    "verse": 8,
+    "template": "E tornarei a terra em {0}",
+    "blanks": [
+     "assolação"
+    ],
+    "distractors": [
+     "fertilidade",
+     "santidade",
+     "planície"
+    ]
+   }
+  ],
+  "16": [
+   {
+    "id": "ezek-16-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Na alegoria de Ezequiel 16:6, o que o Senhor diz ao recém-nascido abandonado?",
+    "options": [
+     "Vive",
+     "Foge",
+     "Cala-te",
+     "Levanta-te e anda"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "E te vesti de bordadura, e te calcei de pelo de {0}",
+    "blanks": [
+     "texugo"
+    ],
+    "distractors": [
+     "leão",
+     "cordeiro",
+     "boi"
+    ]
+   },
+   {
+    "id": "ezek-16-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Segundo Ezequiel 16:14, o que fez sair a fama de Jerusalém entre as nações?",
+    "options": [
+     "A sua aliança secreta com os reis do Egito e da Assíria",
+     "A sua formosura, tornada perfeita pela glória do Senhor",
+     "O ouro e a prata trazidos como tributo das nações vizinhas",
+     "As grandes vitórias militares contra os filisteus"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Quem Ezequiel 16:3 nomeia como o pai e a mãe simbólicos de Jerusalém?",
+    "options": [
+     "Um egípcio e uma moabita",
+     "Um babilônio e uma filisteia",
+     "Um amorreu e uma heteia",
+     "Um assírio e uma cananeia"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-16-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Em Ezequiel 16:27, à vontade de quem o Senhor entregou Jerusalém quando ela se desviou?",
+    "options": [
+     "Das filhas dos moabitas e amonitas",
+     "Dos reis vizinhos de Israel",
+     "Dos exércitos do Egito",
+     "Das filhas dos filisteus"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-16-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Esquecer o dia do resgate",
+    "text": "A acusação repetida (v. 22) é que Jerusalém \"não te lembraste dos dias da tua mocidade\" — o coração da alegoria é a ingratidão: esquecer Aquele que a resgatou e a adornou."
+   },
+   {
+    "id": "ezek-16-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Em Ezequiel 16:32, a que se compara a infiel Jerusalém?",
+    "options": [
+     "A uma serva que abandona o seu senhor para seguir estrangeiros",
+     "A uma mulher que, em lugar de seu marido, recebe os estranhos",
+     "A uma esposa infiel que recebe presentes em vez de amor ao marido",
+     "A um servo infiel que troca de senhores por dinheiro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "Como Ezequiel 16:35 chama Jerusalém ao convocá-la a ouvir a palavra do Senhor?",
+    "options": [
+     "Ó meretriz",
+     "Ó filha",
+     "Ó cidade",
+     "Ó Sião"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-mc-39",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "Segundo Ezequiel 16:38, como o Senhor julgará Jerusalém?",
+    "options": [
+     "Como são julgados severamente os reis rebeldes contra o Senhor",
+     "Como são julgadas as adúlteras e as que derramam sangue",
+     "Como são punidos os sacerdotes que profanam o santuário",
+     "Como se julgam severamente os falsos profetas de Israel"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-16-mc-44",
+    "type": "multiple_choice",
+    "after_verse": 44,
+    "question": "Que provérbio Ezequiel 16:44 diz que será usado contra Jerusalém?",
+    "options": [
+     "Um profeta não tem honra em sua terra",
+     "A soberba precede a queda",
+     "Tal mãe, tal filha",
+     "Os pais comeram uvas verdes"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-16-mc-50",
+    "type": "multiple_choice",
+    "after_verse": 50,
+    "question": "Em Ezequiel 16:46, quem são nomeadas como a irmã maior e a irmã menor de Jerusalém?",
+    "options": [
+     "Babilônia e Tiro",
+     "Nínive e Damasco",
+     "Egito e Edom",
+     "Samaria e Sodoma"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-16-fb-51",
+    "type": "fill_blank",
+    "after_verse": 51,
+    "verse": 51,
+    "template": "Também Samaria não cometeu a metade de teus {0}",
+    "blanks": [
+     "pecados"
+    ],
+    "distractors": [
+     "campos",
+     "festas",
+     "cânticos"
+    ]
+   },
+   {
+    "id": "ezek-16-mc-57",
+    "type": "multiple_choice",
+    "after_verse": 57,
+    "question": "Em Ezequiel 16:49, o que o Senhor aponta como a maldade de Sodoma?",
+    "options": [
+     "Soberba, fartura de pão e abundância de ociosidade",
+     "Idolatria, derramamento de sangue e opressão dos pobres",
+     "Adultério, falso testemunho e adoração de ídolos estrangeiros",
+     "Violência, roubo e derramamento de sangue inocente"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-16-mc-63",
+    "type": "multiple_choice",
+    "after_verse": 63,
+    "question": "Apesar do juízo, o que o Senhor promete em Ezequiel 16:60?",
+    "options": [
+     "Lembrar-se do seu convênio e estabelecer um convênio eterno",
+     "Levantar um novo templo em Jerusalém para toda a eternidade",
+     "Enviar exércitos poderosos para logo restaurar o reino de Judá",
+     "Perdoar imediatamente todas as maldades de Jerusalém"
+    ],
+    "answer": 0
+   }
+  ],
+  "17": [
+   {
+    "id": "ezek-17-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "No enigma de Ezequiel 17:3, o que a grande águia leva do Líbano?",
+    "options": [
+     "O mais alto ramo do cedro",
+     "A raiz mais funda da videira",
+     "O tronco inteiro do cedro do Líbano",
+     "Os ramos baixos da oliveira"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-17-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "No que se tornou a semente da terra depois de plantada, em Ezequiel 17:6?",
+    "options": [
+     "Um cedro alto e frondoso plantado no monte",
+     "Uma videira larga, de pouca altura",
+     "Uma árvore frutífera de grande altura e sombra",
+     "Um campo extenso de trigo maduro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-17-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "porventura, tocando-lhe vento {0}, de todo não se secará",
+    "blanks": [
+     "oriental"
+    ],
+    "distractors": [
+     "ocidental",
+     "noturno",
+     "ardente"
+    ]
+   },
+   {
+    "id": "ezek-17-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Como Ezequiel 17:12 interpreta o enigma da primeira águia?",
+    "options": [
+     "O faraó do Egito enviando seus exércitos para socorrer Judá contra os inimigos",
+     "O rei da Assíria invadindo completamente o reino do norte e levando o povo cativo",
+     "O rei da Babilônia vindo a Jerusalém e tomando o seu rei e os seus príncipes",
+     "O sumo sacerdote profanando totalmente o templo com sacrifícios pagãos"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-17-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Segundo Ezequiel 17:15, contra quem a videira-rei se rebelou ao enviar mensageiros ao Egito?",
+    "options": [
+     "Contra a Assíria",
+     "Contra os filisteus",
+     "Contra os filhos de Amom",
+     "Contra o rei da Babilônia"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-17-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "O tenro renovo no monte alto",
+    "text": "Após todo o juízo, o versículo 22 vira esperançoso: o próprio Senhor cortará um tenro renovo do topo do cedro alto e o plantará num monte alto e sublime — há muito lido como promessa messiânica de que o Senhor levantará o reino que escolher."
+   },
+   {
+    "id": "ezek-17-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "O que o Senhor declara fazer em Ezequiel 17:24, para que todas as árvores do campo o saibam?",
+    "options": [
+     "Abaixa a árvore alta e alça a árvore baixa",
+     "Seca a árvore verde e reverdece a árvore seca",
+     "Planta cedros novos em todos os montes de Israel",
+     "Envia fogo sobre as árvores do campo"
+    ],
+    "answer": 0
+   }
+  ],
+  "18": [
+   {
+    "id": "ezek-18-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "a alma que {0}, essa morrerá",
+    "blanks": [
+     "pecar"
+    ],
+    "distractors": [
+     "viver",
+     "falar",
+     "vagar"
+    ]
+   },
+   {
+    "id": "ezek-18-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Do homem justo que guarda os estatutos do Senhor, o que declara Ezequiel 18:9?",
+    "options": [
+     "Certamente viverá",
+     "Será feito rei",
+     "Será rico",
+     "Nunca terá tristeza"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Em Ezequiel 18:13, o que se diz do filho violento que faz todas essas abominações?",
+    "options": [
+     "Será perdoado rapidamente se seu pai intercede por ele",
+     "Certamente morrerá; o seu sangue será sobre ele",
+     "Viverá eternamente por causa da justiça do seu pai",
+     "Será feito sacerdote no templo do Senhor"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-18-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Segundo Ezequiel 18:17, o filho justo morre pela maldade do seu pai ímpio?",
+    "options": [
+     "Sim, ele carrega toda a culpa de seu pai",
+     "Morrerá junto com o pai por causa da maldade",
+     "Não morrerá por ela; certamente viverá",
+     "Apenas se ele também pecar gravemente"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-18-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Que provérbio o Senhor proíbe Israel de usar, em Ezequiel 18:2-3?",
+    "options": [
+     "O filho carrega a iniquidade do pai, e o pai carrega a iniquidade do filho",
+     "Quem planta a vinha do vizinho colherá as uvas amargas de seus filhos",
+     "O justo cai sete vezes, mas o Senhor sempre o levanta",
+     "Os pais comeram uvas verdes, e os dentes dos filhos se embotaram"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-18-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Em Ezequiel 18:21, o que acontece ao ímpio que se desvia de todos os seus pecados?",
+    "options": [
+     "Certamente viverá; não morrerá",
+     "Ainda assim morrerá pelos pecados antigos",
+     "Deve oferecer sacrifícios antes de ser perdoado",
+     "Será condenado ao exílio eterno"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Que queixa Israel levanta em Ezequiel 18:25, à qual o Senhor responde?",
+    "options": [
+     "O caminho do Senhor não é direito",
+     "O Senhor já não escuta as nossas orações",
+     "Os pecados dos pais recaem sobre os filhos",
+     "Deus abandonou o seu povo escolhido"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-18-cur-31",
+    "type": "curiosity",
+    "after_verse": 31,
+    "title": "Um coração novo e um espírito novo",
+    "text": "A súplica do versículo 31 — \"fazei-vos um coração novo e um espírito novo\" — antecipa a promessa de Ezequiel 36 de trocar o coração de pedra por um de carne; aqui, é apresentada como algo a que o povo é exortado."
+   },
+   {
+    "id": "ezek-18-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Como Ezequiel 18:32 descreve o desejo do Senhor para com aquele que morre?",
+    "options": [
+     "Deleita-se grandemente no juízo dos ímpios",
+     "Não tem prazer na morte do que morre",
+     "Permanece indiferente diante do sofrimento humano",
+     "Alegra-se muito no castigo dos rebeldes"
+    ],
+    "answer": 1
+   }
+  ],
+  "19": [
+   {
+    "id": "ezek-19-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Na lamentação de Ezequiel 19:2, a que se compara a mãe dos príncipes?",
+    "options": [
+     "A uma leoa deitada entre leões",
+     "A uma águia que paira sobre os rochedos altos",
+     "A uma videira frondosa plantada junto às águas",
+     "A uma ovelha mansa entre o rebanho disperso"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-19-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "O que aconteceu ao primeiro leãozinho, segundo Ezequiel 19:4?",
+    "options": [
+     "Foi capturado pelos exércitos vizinhos e conduzido à terra da Assíria",
+     "Foi apanhado na cova delas e levado com ganchos ao Egito",
+     "Foi ferido de morte em batalha e sepultado nas montanhas de Israel",
+     "Fugiu para o deserto e viveu escondido entre as rochas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-19-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "Esta é a {0}, e servirá de lamentação",
+    "blanks": [
+     "lamentação"
+    ],
+    "distractors": [
+     "bênção",
+     "promessa",
+     "parábola"
+    ]
+   },
+   {
+    "id": "ezek-19-cur-14",
+    "type": "curiosity",
+    "after_verse": 14,
+    "title": "De leões a uma videira seca",
+    "text": "O poema muda de figura no meio: os príncipes são primeiro leõezinhos apanhados pelas nações, depois uma videira frutífera arrancada e secada pelo vento oriental — uma dupla imagem da casa real decaída de Judá."
+   }
+  ],
+  "20": [
+   {
+    "id": "ezek-20-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Ezequiel 20:6, como o Senhor descreve a terra à qual jurou levar Israel?",
+    "options": [
+     "Que mana leite e mel, a glória de todas as terras",
+     "Uma terra seca e árida, sem água nem sombra alguma",
+     "Uma terra de grandes cidades fortificadas e muros altos",
+     "Um vale estreito cercado de rochas escarpadas"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "O que o Senhor deu a Israel no deserto, pelo qual o homem viveria, em Ezequiel 20:11?",
+    "options": [
+     "Uma aliança escrita em tábuas de pedra",
+     "Os seus estatutos e juízos",
+     "Um novo nome e uma nova linhagem",
+     "Água da rocha no deserto"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-20-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "e {0} os meus sábados",
+    "blanks": [
+     "profanaram"
+    ],
+    "distractors": [
+     "honraram",
+     "guardaram",
+     "abençoaram"
+    ]
+   },
+   {
+    "id": "ezek-20-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Segundo Ezequiel 20:21, o que os filhos fizeram, como os seus pais?",
+    "options": [
+     "Construíram altares estrangeiros nos montes sagrados",
+     "Ofereceram os seus filhos primogênitos aos ídolos",
+     "Rebelaram-se e profanaram os sábados",
+     "Esqueceram os juízos dados no deserto"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-20-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Em Ezequiel 20:27, de que outra maneira o Senhor diz que os pais de Israel o haviam blasfemado?",
+    "options": [
+     "Cometendo uma transgressão contra ele",
+     "Erguendo altares pagãos sobre cada colina alta",
+     "Sacrificando seus filhos ao deus estrangeiro Moloque",
+     "Recusando guardar as festas solenes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Em Ezequiel 20:32, o que Israel disse na sua mente, que de modo algum sucederá?",
+    "options": [
+     "Seremos como as nações, servindo ao madeiro e à pedra",
+     "Voltaremos ao Egito e serviremos novamente aos seus deuses",
+     "Seremos exaltados acima de todas as nações da terra inteira",
+     "Não seremos mais afligidos pelos nossos inimigos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-mc-37",
+    "type": "multiple_choice",
+    "after_verse": 37,
+    "question": "O que o Senhor diz que fará em Ezequiel 20:37 ao reunir o seu povo?",
+    "options": [
+     "Fará passar debaixo da vara e os fará entrar no vínculo do convênio",
+     "Enviará seus anjos para reunir as tribos dispersas por todas as nações da terra",
+     "Levantará um novo rei para governar com poder sobre todo o povo de Israel",
+     "Fará chover fogo sobre todas as cidades rebeldes de Judá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-20-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Por causa do meu nome",
+    "text": "No versículo 9 o Senhor diz que agiu \"por causa do meu nome\" — um refrão que se repete ao longo do capítulo — poupando o rebelde Israel não porque o merecesse, mas para que o seu nome não fosse profanado entre as nações."
+   },
+   {
+    "id": "ezek-20-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "O que Israel saberá quando o Senhor os trouxer à terra de Israel, em Ezequiel 20:42?",
+    "options": [
+     "Que os profetas falharam",
+     "Que eu sou o Senhor",
+     "Que as nações são mais fortes",
+     "Que o convênio está quebrado"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-20-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "O que Ezequiel se queixa de que o povo diz dele, em Ezequiel 20:49?",
+    "options": [
+     "Porventura não fala este por parábolas?",
+     "Não é ele apenas um sonhador de sonhos vãos?",
+     "Não é este um profeta enviado para nos amedrontar?",
+     "Não busca ele apenas fama entre o povo?"
+    ],
+    "answer": 0
+   }
+  ],
+  "21": [
+   {
+    "id": "ezek-21-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 21:3, o que o Senhor diz que tirará contra a terra de Israel?",
+    "options": [
+     "A sua espada da bainha",
+     "Um forte vento do oriente sobre a cidade",
+     "As pragas do Egito contra o seu povo",
+     "Fogo do céu sobre Jerusalém"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-21-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "para a pôr na mão do {0}",
+    "blanks": [
+     "matador"
+    ],
+    "distractors": [
+     "rei",
+     "sacerdote",
+     "mercador"
+    ]
+   },
+   {
+    "id": "ezek-21-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Ezequiel 21:12, contra quem virá a espada, de modo que o profeta deve bater na coxa?",
+    "options": [
+     "Os exércitos estrangeiros acampados nas planícies vizinhas",
+     "Os sacerdotes e levitas que serviam no templo",
+     "O povo do Senhor e todos os príncipes de Israel",
+     "Somente os habitantes das cidades fortificadas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-21-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Como o rei da Babilônia usa de adivinhação na encruzilhada, em Ezequiel 21:21?",
+    "options": [
+     "Lança sortes com varas, observa as nuvens e escuta as vozes do vento",
+     "Examina as estrelas, interpreta os sonhos e queima incenso aos ídolos",
+     "Lança os dados sagrados e observa as sombras da lua",
+     "Aguça as flechas, consulta os terafins e atenta para o fígado"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-21-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "O que se ordena ao ímpio príncipe de Israel em Ezequiel 21:26?",
+    "options": [
+     "Tirar o diadema e levantar a coroa",
+     "Reunir todo o povo diante do templo sagrado",
+     "Enviar mensageiros de paz ao rei da Babilônia",
+     "Vestir-se de saco e cinza publicamente"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-21-cur-27",
+    "type": "curiosity",
+    "after_verse": 27,
+    "title": "Até que venha aquele a quem pertence de direito",
+    "text": "O triplo \"ao revés, ao revés, ao revés porei aquela coroa\" (v. 27) termina com \"até que venha aquele a quem pertence de direito\" — há muito lido como promessa messiânica de que o trono um dia repousaria no seu legítimo Rei."
+   },
+   {
+    "id": "ezek-21-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Contra qual povo o oráculo da espada de Ezequiel 21:28 também se volta?",
+    "options": [
+     "Os filhos de Amom",
+     "Os filhos de Sidom",
+     "Os filhos da Assíria",
+     "Os arameus do norte"
+    ],
+    "answer": 0
+   }
+  ],
+  "22": [
+   {
+    "id": "ezek-22-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Que título o Senhor dá repetidamente a Jerusalém em Ezequiel 22:2-3?",
+    "options": [
+     "A cidade sanguinária",
+     "A cidade santa",
+     "A cidade de refúgio",
+     "A cidade real"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-22-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Segundo Ezequiel 22:6, quem estavam em Jerusalém, cada um conforme o seu poder, para derramar sangue?",
+    "options": [
+     "Os príncipes de Israel",
+     "Os exércitos estrangeiros",
+     "Os mercadores",
+     "Os pastores"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-22-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Segundo Ezequiel 22:7, como o órfão e a viúva eram tratados em Jerusalém?",
+    "options": [
+     "Eram honrados",
+     "Eram oprimidos",
+     "Eram enriquecidos",
+     "Eram coroados"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-22-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "O que o Senhor diz que fará a Jerusalém em Ezequiel 22:15?",
+    "options": [
+     "Reconstruí-la e fortalecer os seus muros contra os inimigos",
+     "Purificá-la imediatamente e perdoar todos os seus pecados",
+     "Espalhá-la entre as nações e dispersá-la pelas terras",
+     "Coroá-la rainha sobre todas as nações vizinhas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-22-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "A que Ezequiel 22:18 compara a casa de Israel?",
+    "options": [
+     "Vasos de ouro para o templo",
+     "Sementes lançadas em boa terra",
+     "Pedras vivas do templo",
+     "Escórias de prata no forno"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-22-mc-24",
+    "type": "multiple_choice",
+    "after_verse": 24,
+    "question": "Como o Senhor descreve a terra em Ezequiel 22:24?",
+    "options": [
+     "Uma terra abençoada com leite e mel, cheia de fartura e de chuva em todo o tempo",
+     "Uma terra que não está purificada, e que não tem chuva no dia da indignação",
+     "Um jardim regado pelo Senhor, cheio de árvores frutíferas e fontes de água viva",
+     "Uma vinha murada e cuidadosamente protegida contra todo mal e inimigo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-22-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Quem o Senhor buscou em Ezequiel 22:30, para estar na brecha, mas não achou?",
+    "options": [
+     "Um sacerdote que oferecesse sacrifícios pelos pecados do povo",
+     "Um rei que governasse com justiça e defendesse a cidade",
+     "Um profeta que anunciasse a palavra do Senhor",
+     "Um homem que tapasse o muro e estivesse na brecha"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-22-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "Israel como a escória",
+    "text": "O versículo 18 torna Israel a escória sem valor que resta quando a prata é refinada — bronze, estanho, ferro e chumbo. O cerco vindouro é retratado como um forno destinado a fundir a cidade e queimar essa escória."
+   }
+  ],
+  "23": [
+   {
+    "id": "ezek-23-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Na alegoria de Ezequiel 23:4, quais são os nomes das duas irmãs, e que cidades elas representam?",
+    "options": [
+     "Oolá é Samaria, e Oolibá é Jerusalém",
+     "Oolá é Jerusalém, e Oolibá é Samaria",
+     "Oolá é Babilônia, e Oolibá é Tiro",
+     "Oolá é Sodoma, e Oolibá é Egito"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Segundo Ezequiel 23:11, como a irmã mais nova Oolibá se comparou à sua irmã?",
+    "options": [
+     "Manteve-se fiel aos mandamentos do Senhor durante toda a vida",
+     "Corrompeu-se mais nos seus atos do que a irmã",
+     "Arrependeu-se sinceramente de todas as suas prostituições passadas",
+     "Fugiu da terra antes que o juízo viesse"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "De que imagens, pintadas na parede, Oolibá se enamorou, em Ezequiel 23:14?",
+    "options": [
+     "Dos egípcios",
+     "Dos filisteus",
+     "Dos caldeus",
+     "Dos edomitas"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-23-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "O que aconteceu depois que a alma do Senhor se apartou de Oolibá, em Ezequiel 23:18?",
+    "options": [
+     "Foi restaurada ao favor do Senhor e recebeu grande e abundante bênção",
+     "Foi louvada pelas nações por causa da sua fidelidade e virtude",
+     "Foi coroada como rainha sobre todas as suas irmãs",
+     "A sua alma se apartou, como já se tinha apartado de sua irmã"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-23-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Duas irmãs, um só aviso",
+    "text": "Os nomes Oolá (\"sua própria tenda\") e Oolibá (\"a minha tenda está nela\") sugerem o tema: Samaria ergueu os seus próprios santuários, enquanto Jerusalém abrigava o verdadeiro santuário do Senhor — mas ambas foram infiéis."
+   },
+   {
+    "id": "ezek-23-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Quais nações o Senhor diz que suscitará contra Oolibá, em Ezequiel 23:22-23?",
+    "options": [
+     "Os babilônios, os caldeus e os assírios",
+     "Os egípcios, os moabitas e também os amonitas",
+     "Os edomitas, os filisteus e os fenícios",
+     "Os gregos e os romanos do ocidente"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "O que o Senhor diz que porá contra Oolibá em Ezequiel 23:25?",
+    "options": [
+     "A sua misericórdia",
+     "O seu zelo",
+     "O seu silêncio",
+     "A sua bênção"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-30",
+    "type": "multiple_choice",
+    "after_verse": 30,
+    "question": "Segundo Ezequiel 23:30, por que estas coisas lhe são feitas?",
+    "options": [
+     "Por causa de uma grande fome que assolou toda a terra de Judá naqueles dias",
+     "Por ter quebrado publicamente um tratado firmado com os reis vizinhos há muito tempo",
+     "Porque se prostituiu após os gentios e se contaminou com os seus ídolos",
+     "Por ter esquecido a festa da colheita instituída pelos antepassados"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-23-mc-35",
+    "type": "multiple_choice",
+    "after_verse": 35,
+    "question": "De que o Senhor acusa Oolibá em Ezequiel 23:35?",
+    "options": [
+     "De o ter honrado com sacrifícios diante de todos os povos",
+     "De lhe ter edificado um altar suntuoso no meio da cidade",
+     "De ter guardado fielmente os seus santos sábados",
+     "De o ter esquecido e o ter lançado para trás das costas"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-23-mc-41",
+    "type": "multiple_choice",
+    "after_verse": 41,
+    "question": "O que Oolibá pôs sobre a mesa preparada diante de si, em Ezequiel 23:41?",
+    "options": [
+     "O incenso e o óleo do Senhor",
+     "Pão e vinho oferecidos aos ídolos",
+     "Ouro e prata roubados do templo",
+     "Fruto e grão da colheita nova"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-23-mc-42",
+    "type": "multiple_choice",
+    "after_verse": 42,
+    "question": "Segundo Ezequiel 23:42, o que os homens vindos do deserto puseram nas mãos e cabeças das irmãs?",
+    "options": [
+     "Cadeias e grilhões de ferro pesado",
+     "Braceletes e coroas de esplendor",
+     "Véus e faixas bordadas de ouro fino",
+     "Anéis e selos de autoridade real"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-23-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "O que as irmãs saberão depois do seu juízo, segundo Ezequiel 23:49?",
+    "options": [
+     "Que os profetas falharam",
+     "Que eu sou o Senhor Deus",
+     "Que as nações são poderosas",
+     "Que o templo se foi"
+    ],
+    "answer": 1
+   }
+  ],
+  "24": [
+   {
+    "id": "ezek-24-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que objeto o Senhor ordena que Ezequiel ponha ao fogo como parábola, em Ezequiel 24:3?",
+    "options": [
+     "Uma panela",
+     "Uma lâmpada",
+     "Um altar",
+     "Um tear"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Como o Senhor de novo chama Jerusalém ao anunciar a grande fogueira, em Ezequiel 24:9?",
+    "options": [
+     "A cidade sanguinária",
+     "A cidade fiel",
+     "A cidade escolhida",
+     "A cidade pacífica"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-cur-6",
+    "type": "curiosity",
+    "after_verse": 6,
+    "title": "A panela cuja escuma não sai",
+    "text": "A panela fervente (vv. 3-6) é Jerusalém: a sua \"escuma\" — a corrupção entranhada — gruda mesmo enquanto o conteúdo ferve, de modo que o Senhor por fim manda pôr a panela vazia sobre as brasas para queimar a imundície."
+   },
+   {
+    "id": "ezek-24-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "Amontoa muita lenha, acende o fogo, consome a {0}",
+    "blanks": [
+     "carne"
+    ],
+    "distractors": [
+     "pedra",
+     "espada",
+     "veste"
+    ]
+   },
+   {
+    "id": "ezek-24-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "O que o Senhor diz a Ezequiel que tirará dele \"de um golpe\", em Ezequiel 24:16?",
+    "options": [
+     "A sua casa e todos os seus bens",
+     "O seu ofício sacerdotal no templo",
+     "O seu rebanho de ovelhas",
+     "O desejo dos seus olhos"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "ezek-24-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Como o povo devia reagir à aflição vindoura, seguindo o sinal de Ezequiel, em Ezequiel 24:23?",
+    "options": [
+     "Não lamentariam nem chorariam, mas definhariam nas suas maldades",
+     "Jejuariam quarenta dias e quarenta noites em sinal de arrependimento",
+     "Se alegrariam abertamente e celebrariam com música, dança e grande festa",
+     "Reconstruiriam de imediato os muros derrubados da cidade"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-24-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "O que o Senhor promete sobre a boca de Ezequiel em Ezequiel 24:27?",
+    "options": [
+     "Ficará fechada para sempre como sinal de luto perpétuo",
+     "Abrir-se-á, e ele não mais ficará mudo",
+     "Só cantará hinos de louvor diante de todo o povo",
+     "Só falará por enigmas e parábolas obscuras"
+    ],
+    "answer": 1
+   }
+  ],
+  "25": [
+   {
+    "id": "ezek-25-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Um refrão de reconhecimento",
+    "text": "Estes oráculos contra as nações voltam sempre a um só propósito: 'saberão que eu sou o Senhor'. Até o juízo sobre os inimigos de Israel serve para revelar quem Deus é."
+   },
+   {
+    "id": "ezek-25-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 25:3, contra o que disseram 'Ha! ha!' os filhos de Amom?",
+    "options": [
+     "O santuário do Senhor, a terra de Israel e a casa de Judá",
+     "Os reis da Babilônia e os seus poderosos exércitos invasores",
+     "Os mercadores de Tiro e toda a sua grande riqueza comercial",
+     "A sabedoria do Egito e os seus muitos ídolos antigos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-25-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 25:8, quais dois são citados dizendo que a casa de Judá é 'como todas as nações'?",
+    "options": [
+     "Tiro e Sidom",
+     "Egito e Etiópia",
+     "Moabe e Seir",
+     "Babilônia e Pérsia"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-25-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Segundo Ezequiel 25:15, por que se pronuncia juízo sobre os filisteus?",
+    "options": [
+     "Por construírem ídolos de pedra e adorarem deuses estrangeiros no templo sagrado",
+     "Porque usaram de vingança, com desprezo de coração, por perpétua inimizade",
+     "Por recusarem pagar tributo ao rei e se rebelarem contra a sua justa autoridade",
+     "Por adorarem o mar e os seus deuses das profundezas escuras"
+    ],
+    "answer": 1
+   }
+  ],
+  "26": [
+   {
+    "id": "ezek-26-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Ezequiel 26:3, o Senhor diz que fará subir muitas nações contra Tiro como o quê?",
+    "options": [
+     "Como uma nuvem de gafanhotos sobre a terra",
+     "Como se o mar fizesse subir as suas ondas",
+     "Como um vento tempestuoso vindo do deserto",
+     "Como um fogo devorador na floresta"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-26-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Quem Ezequiel 26:7 nomeia como o rei que o Senhor trará contra Tiro desde o norte?",
+    "options": [
+     "Assurbanipal, o grande rei da Assíria",
+     "Nectanebo, o faraó rebelde do Egito",
+     "Nabucodonosor, rei de Babilônia",
+     "Belsazar, rei dos caldeus"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-26-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "E farei de ti uma {0} descalvada",
+    "blanks": [
+     "penha"
+    ],
+    "distractors": [
+     "torre",
+     "muralha",
+     "montanha"
+    ]
+   },
+   {
+    "id": "ezek-26-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "O que o Senhor declara sobre Tiro em Ezequiel 26:21?",
+    "options": [
+     "Será reconstruída ainda maior do que antes",
+     "Continuará a dominar todos os mares do mundo",
+     "Será buscada, mas nunca mais será achada",
+     "Será poupada por causa da sua riqueza"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-26-cur-5",
+    "type": "curiosity",
+    "after_verse": 5,
+    "title": "Um lugar para estender redes",
+    "text": "O oráculo diz que Tiro se tornará 'no meio do mar um enxugadouro das redes' — a orgulhosa cidade mercantil reduzida a uma penha descalvada onde os pescadores secam as suas redes."
+   }
+  ],
+  "27": [
+   {
+    "id": "ezek-27-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 27:3, que gabo Tiro faz de si mesma?",
+    "options": [
+     "Eu sou a porta do céu",
+     "Eu sou perfeita em formosura",
+     "Eu sou a senhora dos reis",
+     "Eu sou a força dos mares"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Ezequiel 27:8, os moradores de Sidom e de Arvade serviram a Tiro como o quê?",
+    "options": [
+     "Seus sacerdotes",
+     "Seus juízes",
+     "Seus remeiros",
+     "Seus construtores"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-27-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Ezequiel 27:12, qual era o comércio de Társis com Tiro?",
+    "options": [
+     "Prata, ferro, estanho e chumbo",
+     "Ouro, marfim, ébano e madeira preciosa",
+     "Trigo, mel, azeite e bálsamo aromático",
+     "Cavalos, cavaleiros e mulos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-27-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "Dedã negociava contigo com panos {0} para carros",
+    "blanks": [
+     "preciosos"
+    ],
+    "distractors": [
+     "bordados",
+     "azuis",
+     "brancos"
+    ]
+   },
+   {
+    "id": "ezek-27-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Como Ezequiel 27:25 descreve Tiro no auge do seu comércio?",
+    "options": [
+     "Abandonada e completamente vazia no meio das ruínas",
+     "Cheia, e muito glorificada no meio dos mares",
+     "Escondida entre os montes distantes do norte",
+     "Temida por ninguém entre as nações vizinhas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "O que quebrou Tiro no meio dos mares, segundo Ezequiel 27:26?",
+    "options": [
+     "Um grande fogo",
+     "O vento oriental",
+     "Um terremoto",
+     "Uma cheia dos rios"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-27-mc-36",
+    "type": "multiple_choice",
+    "after_verse": 36,
+    "question": "Como reagem os mercadores dentre os povos à queda de Tiro em Ezequiel 27:36?",
+    "options": [
+     "Reconstroem-na",
+     "Cantam por ela",
+     "Assobiam sobre ela",
+     "Resgatam-na"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-27-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "O navio das nações",
+    "text": "O capítulo inteiro é uma metáfora estendida: Tiro é retratada como um grande navio mercante, com madeira, velas, remos e tripulação trazidos de muitas terras — construído à perfeição, mas fadado a afundar."
+   }
+  ],
+  "28": [
+   {
+    "id": "ezek-28-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Que pretensão orgulhosa faz o príncipe de Tiro em Ezequiel 28:2?",
+    "options": [
+     "Eu sou Deus, na cadeira de Deus me assento",
+     "Eu sou o mais sábio de todos os homens da terra",
+     "Eu sou o senhor absoluto de todos os mares",
+     "Eu sou o legítimo herdeiro do Éden"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-28-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "Em Ezequiel 28:3, o príncipe de Tiro é, com ironia, chamado mais sábio do que quem?",
+    "options": [
+     "Salomão",
+     "Daniel",
+     "Jó",
+     "Moisés"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-28-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Na lamentação de Ezequiel 28:12, como é descrito o rei de Tiro?",
+    "options": [
+     "Cheio de sabedoria e perfeito em formosura",
+     "Um valente caçador poderoso diante do Senhor Deus",
+     "Um homem de guerra experimentado em batalhas",
+     "Um guardador de vinhas e seus rebanhos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-28-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Segundo Ezequiel 28:15, o rei de Tiro foi perfeito nos seus caminhos até que se achou nele o quê?",
+    "options": [
+     "Idolatria",
+     "Covardia",
+     "Iniquidade",
+     "Pobreza"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-28-fb-22",
+    "type": "fill_blank",
+    "after_verse": 22,
+    "verse": 22,
+    "template": "Eis-me contra ti, ó {0}",
+    "blanks": [
+     "Sidom"
+    ],
+    "distractors": [
+     "Tiro",
+     "Egito",
+     "Edom"
+    ]
+   },
+   {
+    "id": "ezek-28-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "O que o Senhor promete a Israel em Ezequiel 28:26?",
+    "options": [
+     "Andarão quarenta anos errantes pelo deserto sem descanso",
+     "Habitarão seguros, edificarão casas e plantarão vinhas",
+     "Servirão às nações vizinhas como escravos por muitos anos",
+     "Navegarão os mares em busca de novas terras"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-28-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Um eco do Éden",
+    "text": "Diz-se que o rei de Tiro estivera 'no Éden, jardim de Deus', ornado de pedras preciosas, um 'querubim ungido' — linguagem tão cósmica que há muito é lida como descrevendo também a queda de Lúcifer."
+   }
+  ],
+  "29": [
+   {
+    "id": "ezek-29-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "O grande dragão do Nilo",
+    "text": "Faraó é chamado 'o grande dragão, que pousa no meio dos seus rios', gabando-se: 'o meu rio é meu'. Toda a riqueza do Egito vinha do Nilo, e o Senhor fere a própria fonte do seu orgulho."
+   },
+   {
+    "id": "ezek-29-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Segundo Ezequiel 29:6, o que o Egito tinha sido para a casa de Israel?",
+    "options": [
+     "Um bordão de cana",
+     "Um escudo de bronze",
+     "Uma torre de refúgio",
+     "Uma fonte de água"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-29-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Até onde Ezequiel 29:10 diz que a terra do Egito será tornada em assoladas solidões?",
+    "options": [
+     "De mar a mar, desde o Egito até as terras de Canaã",
+     "Desde a torre de Sevene até os confins da Etiópia",
+     "De Mênfis até as distantes cidades do delta do Nilo",
+     "Do deserto do Sinai até o delta fértil todo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-29-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Em Ezequiel 29:14, para qual terra os egípcios serão trazidos de volta, para serem um reino humilde?",
+    "options": [
+     "Canaã",
+     "Patros",
+     "Assíria",
+     "Társis"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-29-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Em Ezequiel 29:18-19, o Senhor dá a terra do Egito a Nabucodonosor como paga pelo trabalho do seu exército contra quem?",
+    "options": [
+     "Jerusalém",
+     "Sidom",
+     "Tiro",
+     "Babilônia"
+    ],
+    "answer": 2
+   }
+  ],
+  "30": [
+   {
+    "id": "ezek-30-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "O que Ezequiel 30:3 anuncia estar perto?",
+    "options": [
+     "A festa da colheita no outono próximo",
+     "O dia do Senhor, dia nublado",
+     "O retorno do cativeiro depois de longos anos",
+     "A vinda de um rei poderoso"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Quando o Egito saberá que o Senhor é Deus, segundo Ezequiel 30:8?",
+    "options": [
+     "Quando o Nilo subir sete vezes acima das suas margens habituais de modo extraordinário",
+     "Quando ele puser fogo no Egito e forem quebrados todos os que lhe davam auxílio",
+     "Quando os seus templos antigos forem totalmente reconstruídos em toda a sua glória antiga",
+     "Quando as chuvas finalmente voltarem a cair sobre toda a terra do Egito"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Por mão de quem o Senhor fará cessar a multidão do Egito (Ezequiel 30:10)?",
+    "options": [
+     "Do próprio Faraó e de seus generais egípcios",
+     "De Ciro, rei da Pérsia e também da Média",
+     "De Nabucodonosor, rei de Babilônia",
+     "Dos exércitos aliados dos filisteus"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-30-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "E porei {0} no Egito",
+    "blanks": [
+     "fogo"
+    ],
+    "distractors": [
+     "fome",
+     "trevas",
+     "espada"
+    ]
+   },
+   {
+    "id": "ezek-30-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "O que o Senhor diz que fez a Faraó em Ezequiel 30:21?",
+    "options": [
+     "Quebrou o seu braço",
+     "Coroou o seu filho",
+     "Fechou a sua boca",
+     "Queimou a sua frota"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-30-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Que resultado recorrente Ezequiel 30:26 dá para a dispersão dos egípcios?",
+    "options": [
+     "Que Faraó se arrependa de seus pecados antigos",
+     "Que saberão que eu sou o Senhor",
+     "Que a Babilônia descanse de todas as guerras",
+     "Que Israel se alegre com sua vitória"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-30-cur-13",
+    "type": "curiosity",
+    "after_verse": 13,
+    "title": "Cidades pelo nome",
+    "text": "Este oráculo é incomum por nomear tantas cidades do Egito — Mênfis, Zoã, Nô, Sim, Pi-Besete, Tafnes — frisando que o juízo tocaria toda a terra, não só Faraó."
+   }
+  ],
+  "31": [
+   {
+    "id": "ezek-31-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "A que Ezequiel 31:3 compara a Assíria (a quem Faraó é semelhante)?",
+    "options": [
+     "Um leão feroz solto no meio do deserto",
+     "Um cedro no Líbano, de ramos formosos",
+     "Um rio caudaloso que vem desde o oriente",
+     "Uma torre de pedra muito alta e forte"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-31-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "{0} o fiz com a multidão dos seus ramos",
+    "blanks": [
+     "Formoso"
+    ],
+    "distractors": [
+     "Alto",
+     "Rico",
+     "Sábio"
+    ]
+   },
+   {
+    "id": "ezek-31-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Em Ezequiel 31:10-11, por que o grande cedro foi entregue na mão da mais poderosa das nações?",
+    "options": [
+     "Porque as suas raízes secaram por falta de água",
+     "Porque o seu coração se exalçou na sua altura",
+     "Porque um grande fogo veio e o consumiu todo inteiro",
+     "Porque as aves do céu o abandonaram por completo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-31-mc-18",
+    "type": "multiple_choice",
+    "after_verse": 18,
+    "question": "Ao fim de Ezequiel 31:18, quem a alegoria do cedro declara que ele é?",
+    "options": [
+     "O rei da Babilônia e seu exército",
+     "Somente o rei da Assíria e sua corte",
+     "Faraó e toda a sua multidão",
+     "O príncipe de Tiro e seus mercadores"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-31-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "Invejado pelas árvores do Éden",
+    "text": "Tão glorioso era o cedro que 'todas as árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele' — mas a altura foi a sua ruína, parábola de que o orgulho precede a destruição."
+   }
+  ],
+  "32": [
+   {
+    "id": "ezek-32-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 32:2, a que Faraó é comparado ao turvar as águas?",
+    "options": [
+     "A um filho de leão entre as nações e a um dragão nos mares",
+     "A uma águia poderosa entre as nações e a um touro dos rios",
+     "A um leão feroz sobre as montanhas e a uma serpente do mar",
+     "A um touro selvagem que pisoteia as águas do Nilo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-32-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "O que Ezequiel 32:7-8 diz que o Senhor fará aos céus quando extinguir Faraó?",
+    "options": [
+     "Abri-los em uma luz resplandecente sobre toda a terra",
+     "Cobri-los e enegrecer as suas estrelas",
+     "Envolvê-los em uma nuvem de fumaça e trevas espessas",
+     "Fazer chover fogo e enxofre sobre as suas águas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-32-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "De quem é a espada que Ezequiel 32:11 diz que virá sobre o Egito?",
+    "options": [
+     "A espada dos exércitos de Assur",
+     "A espada do príncipe de Tiro",
+     "A espada do rei de Babilônia",
+     "A espada do povo de Moabe"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-32-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "à {0} está entregue",
+    "blanks": [
+     "espada"
+    ],
+    "distractors": [
+     "cova",
+     "morte",
+     "rede"
+    ]
+   },
+   {
+    "id": "ezek-32-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Qual nação caída Ezequiel 32:22 nomeia como já jazendo na cova, com os seus sepulcros ao redor?",
+    "options": [
+     "Assur",
+     "Moabe",
+     "Tiro",
+     "Pérsia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-32-mc-32",
+    "type": "multiple_choice",
+    "after_verse": 32,
+    "question": "Onde Ezequiel 32:32 diz que Faraó será finalmente posto?",
+    "options": [
+     "No fundo do abismo, entre os príncipes de Assur e Elão",
+     "Sobre os montes de Israel, junto aos seus antigos inimigos",
+     "No meio dos incircuncisos, com os transpassados à espada",
+     "No deserto do Egito, longe de todo o seu povo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-32-cur-18",
+    "type": "curiosity",
+    "after_verse": 18,
+    "title": "Uma descida à cova",
+    "text": "A segunda lamentação leva Faraó ao mundo dos mortos, onde encontra os impérios outrora grandes — Assur, Elão, Meseque e Tubal, Edom — já jazendo transpassados. Até os mais poderosos têm o mesmo fim."
+   }
+  ],
+  "33": [
+   {
+    "id": "ezek-33-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Segundo Ezequiel 33:6, se o atalaia vê a espada e não toca a trombeta, o que acontece?",
+    "options": [
+     "O povo inteiro será destruído junto com o atalaia",
+     "O sangue do morto será demandado da mão do atalaia",
+     "A cidade será poupada por causa do silêncio do atalaia",
+     "O atalaia será recompensado pela sua vigilância"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "não tenho prazer na {0} do ímpio",
+    "blanks": [
+     "morte"
+    ],
+    "distractors": [
+     "pecado",
+     "ruína",
+     "vergonha"
+    ]
+   },
+   {
+    "id": "ezek-33-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Em Ezequiel 33:14-15, o que o ímpio deve fazer para certamente viver?",
+    "options": [
+     "Oferecer um sacrifício de expiação e jejuar diante do Senhor por sete dias",
+     "Converter-se do seu pecado, restituir o penhor e praticar juízo e justiça",
+     "Fugir para as cidades de refúgio e ali permanecer até a morte do sumo sacerdote",
+     "Pagar um resgate de prata aos sacerdotes do templo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Que queixa fazem os filhos de Israel em Ezequiel 33:17?",
+    "options": [
+     "Não é reto o caminho do Senhor",
+     "Os profetas mentem sobre o futuro de Israel",
+     "A terra prometida já não pertence a eles",
+     "Deus esqueceu o seu povo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-33-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Que notícia trouxe o que escapou de Jerusalém em Ezequiel 33:21?",
+    "options": [
+     "O templo está restaurado",
+     "O rei voltou",
+     "Já tomada foi a cidade",
+     "O cativeiro acabou"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-33-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Em Ezequiel 33:24, o que alegam os moradores dos lugares desertos, citando o patriarca Abraão?",
+    "options": [
+     "Abraão era um só, e possuiu esta terra; porém nós somos muitos",
+     "Abraão comprou esta terra dos cananeus com prata e ouro, e por isso ela nos pertence",
+     "Abraão dividiu esta terra entre seus servos antes de partir para o Egito, e a herdamos deles",
+     "Abraão conquistou esta terra em batalha contra os reis do oriente"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-33-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "Como Ezequiel 33:32 diz que o povo trata as palavras do profeta?",
+    "options": [
+     "Como um oráculo terrível que os enche de temor e tremor",
+     "Como uma canção de amores que ouvem mas não põem por obra",
+     "Como uma lei sagrada que guardam com todo o coração",
+     "Como palavras vãs que logo esquecem por completo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-33-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "O atalaia reposto",
+    "text": "Ezequiel é de novo nomeado 'atalaia sobre a casa de Israel' (ecoando o capítulo 3). Se avisar fielmente, salva a própria alma, dê ou não ouvidos o povo — o dever acima do resultado."
+   }
+  ],
+  "34": [
+   {
+    "id": "ezek-34-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 34:2, qual é o ai pronunciado sobre os pastores de Israel?",
+    "options": [
+     "Vendem o rebanho aos estrangeiros por prata e ouro",
+     "Apascentam-se a si mesmos e não as ovelhas",
+     "Abandonam o templo e adoram deuses estranhos",
+     "Recusam-se a pagar os dízimos ao Senhor"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "O que o Senhor declara que ele mesmo fará em Ezequiel 34:11?",
+    "options": [
+     "Procurar as minhas ovelhas e buscá-las",
+     "Nomear setenta novos pastores sobre elas",
+     "Destruir todo o rebanho por causa do pecado",
+     "Deixá-las espalhadas pelos montes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-34-fb-17",
+    "type": "fill_blank",
+    "after_verse": 17,
+    "verse": 17,
+    "template": "eu julgarei entre ovelhas e {0}",
+    "blanks": [
+     "ovelhas"
+    ],
+    "distractors": [
+     "pastores",
+     "carneiros",
+     "nações"
+    ]
+   },
+   {
+    "id": "ezek-34-mc-22",
+    "type": "multiple_choice",
+    "after_verse": 22,
+    "question": "Em Ezequiel 34:22, o que o Senhor promete fazer pelo seu rebanho?",
+    "options": [
+     "Vender o seu rebanho ao mais forte dos pastores estrangeiros",
+     "Livrar o seu rebanho, para que não sirva mais de presa",
+     "Espalhar ainda mais o rebanho pelas nações vizinhas",
+     "Deixar o rebanho às feras do campo para sempre"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Quem o Senhor promete levantar como um só pastor sobre o rebanho em Ezequiel 34:23?",
+    "options": [
+     "Seu servo Moisés",
+     "Seu servo Davi",
+     "O profeta Ezequiel",
+     "Um príncipe do Egito"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Como Ezequiel 34:31 encerra o capítulo do pastor?",
+    "options": [
+     "Anunciando que as nações vizinhas seriam reduzidas a assolação perpétua e nunca mais habitadas",
+     "Declarando 'vós, ó ovelhas minhas... homens sois; porém eu sou o vosso Deus'",
+     "Prometendo que os pastores infiéis seriam entregues à espada por causa da sua traição",
+     "Ordenando que o rebanho fosse disperso entre as nações vizinhas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-34-cur-16",
+    "type": "curiosity",
+    "after_verse": 16,
+    "title": "O pastor que busca a perdida",
+    "text": "'A perdida buscarei, e a desgarrada tornarei a trazer' (v. 16) — esta imagem de Deus como o pastor que vai atrás da ovelha que se desvia ecoa na parábola de Jesus da ovelha perdida."
+   }
+  ],
+  "35": [
+   {
+    "id": "ezek-35-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Contra o que Ezequiel 35:2-3 dirige o rosto do profeta?",
+    "options": [
+     "O monte Seir",
+     "O monte Sião",
+     "O monte Carmelo",
+     "O monte Sinai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-35-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Segundo Ezequiel 35:5, em que consiste a ofensa de Seir?",
+    "options": [
+     "Uma aliança rompida com Jacó e a usurpação da bênção da primogenitura entre irmãos",
+     "Uma inimizade perpétua e o derramar do sangue de Israel na sua calamidade",
+     "Uma cobiça antiga pela terra prometida e o desprezo pelo pacto do Senhor com Israel",
+     "Um orgulho profundo pela força dos seus montes e fortalezas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-35-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "em assolação serás tomado, ó monte {0}",
+    "blanks": [
+     "Seir"
+    ],
+    "distractors": [
+     "Sião",
+     "Israel",
+     "Edom"
+    ]
+   },
+   {
+    "id": "ezek-35-cur-10",
+    "type": "curiosity",
+    "after_verse": 10,
+    "title": "Cobiçar a terra alheia",
+    "text": "O pecado mais profundo de Seir (v. 10) foi a ganância: 'Os dois povos e as duas terras serão minhas'. A terra já era do Senhor — 'sendo que o Senhor se achava ali' — e a pretensão era uma afronta ao próprio Deus."
+   }
+  ],
+  "36": [
+   {
+    "id": "ezek-36-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "A quem o profeta é mandado falar no início de Ezequiel 36 (vv. 1-4)?",
+    "options": [
+     "Aos rios da Babilônia",
+     "Aos montes de Israel",
+     "Aos reis do oriente",
+     "Aos sacerdotes do templo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "O que o Senhor promete aos montes de Israel em Ezequiel 36:8-10?",
+    "options": [
+     "Serão totalmente entregues aos gentios e ficarão desolados para sempre jamais",
+     "Produzirão o seu ramo, serão lavrados e semeados, e habitados de novo",
+     "Permanecerão estéreis e assolados, sem homens nem animais habitando ali",
+     "Serão nivelados e transformados em deserto árido para sempre"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Ezequiel 36:13-14, que acusação contra a terra o Senhor diz que cessará?",
+    "options": [
+     "Que é maldita e não pode produzir fruto algum",
+     "Que devora os homens e desfilha os seus povos",
+     "Que está cheia de idolatria e derramamento de sangue",
+     "Que já não tem cidades nem habitantes"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Segundo Ezequiel 36:20, o que Israel fez ao chegar entre as nações?",
+    "options": [
+     "Adoraram os ídolos das nações estrangeiras",
+     "Profanaram o santo nome do Senhor",
+     "Renegaram a aliança que fizeram com o Senhor",
+     "Esqueceram os mandamentos de Deus"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-fb-21",
+    "type": "fill_blank",
+    "after_verse": 21,
+    "verse": 21,
+    "template": "Porém os poupei por causa do meu santo {0}",
+    "blanks": [
+     "nome"
+    ],
+    "distractors": [
+     "povo",
+     "monte",
+     "templo"
+    ]
+   },
+   {
+    "id": "ezek-36-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "O que o Senhor promete dar em Ezequiel 36:26?",
+    "options": [
+     "Uma nova aliança de paz para reunir as tribos dispersas de Israel",
+     "Um coração novo e um espírito novo, tirando o coração de pedra",
+     "Um novo templo santo para receber a glória do Senhor no meio do povo",
+     "Uma nova terra fértil para o povo que retorna do cativeiro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Depois de purificado, como Ezequiel 36:31 diz que Israel responderá?",
+    "options": [
+     "Sentirão orgulho de si mesmos por suas grandes conquistas e vitórias",
+     "Terão nojo de si mesmos pelas suas maldades e abominações",
+     "Exigirão que o Senhor lhes dê mais terras e riquezas ainda maiores",
+     "Louvar-se-ão diante de todo o povo por sua justiça"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-36-mc-38",
+    "type": "multiple_choice",
+    "after_verse": 38,
+    "question": "A que Ezequiel 36:38 compara as cidades desertas repovoadas?",
+    "options": [
+     "Ao rebanho santo, como o rebanho de Jerusalém nas suas solenidades",
+     "Às ricas vinhas do monte Carmelo, cheias de uvas no tempo da colheita",
+     "Aos rebanhos de Basã pastando nas ricas e verdejantes pastagens da terra",
+     "Aos campos de trigo dourado, maduros prontos para a colheita"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-36-cur-22",
+    "type": "curiosity",
+    "after_verse": 22,
+    "title": "Não por causa de vós",
+    "text": "O Senhor frisa que a restauração 'não é por vossa causa, ó casa de Israel, porém pelo meu santo nome' — uma afirmação marcante de que a graça flui do próprio caráter de Deus, e não do mérito de Israel."
+   }
+  ],
+  "37": [
+   {
+    "id": "ezek-37-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Onde a mão do Senhor pôs Ezequiel em Ezequiel 37:1?",
+    "options": [
+     "No meio de um vale cheio de ossos",
+     "Junto às margens do rio Quebar, entre os exilados",
+     "Dentro do templo destruído em Jerusalém",
+     "No cume de um monte muito alto"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-37-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 37, no que se tornaram os ossos depois que o espírito entrou neles?",
+    "options": [
+     "Uma multidão de homens mortos novamente",
+     "Um vale seco e vazio, sem vida alguma",
+     "Um exército grande em extremo",
+     "Uma nuvem de poeira no ar"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-37-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "porei em vós o meu {0}",
+    "blanks": [
+     "espírito"
+    ],
+    "distractors": [
+     "nome",
+     "convênio",
+     "santuário"
+    ]
+   },
+   {
+    "id": "ezek-37-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Em Ezequiel 37:16, o que Ezequiel é mandado escrever nos dois pedaços de madeira?",
+    "options": [
+     "Os nomes dos reis",
+     "Por Judá e por José",
+     "Os dez mandamentos",
+     "Os termos da terra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-37-cur-17",
+    "type": "curiosity",
+    "after_verse": 17,
+    "title": "Duas varas feitas uma só",
+    "text": "As duas varas unidas na mão de Ezequiel — uma por Judá, outra por José — retratam a reunião de um Israel dividido num só povo, sinal de reunificação e restauração."
+   },
+   {
+    "id": "ezek-37-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Ezequiel 37:19, diz-se que a vara de José está na mão de quem?",
+    "options": [
+     "Efraim",
+     "Manassés",
+     "Levi",
+     "Benjamim"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-37-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Segundo Ezequiel 37:21, o que o Senhor fará com os filhos de Israel?",
+    "options": [
+     "Deixá-los dispersos entre todas as nações da terra",
+     "Congregá-los e levá-los à sua terra",
+     "Entregá-los novamente ao poder da Babilônia",
+     "Fazê-los servos de Gogue para sempre"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-37-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Em Ezequiel 37:24, quem é dito rei e um só pastor sobre eles?",
+    "options": [
+     "Ezequias, o rei justo",
+     "Josias, o rei reformador",
+     "Davi, meu servo",
+     "Um novo profeta"
+    ],
+    "answer": 2
+   }
+  ],
+  "38": [
+   {
+    "id": "ezek-38-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Em Ezequiel 38:2, contra quem Ezequiel é mandado dirigir o rosto?",
+    "options": [
+     "Assíria, terra de Assur",
+     "Edom, a terra de Seir e Teman",
+     "Gogue, terra de Magogue",
+     "Moabe e os filhos de Amom"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-38-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "Gogue e Magogue",
+    "text": "Gogue, da terra de Magogue, tornou-se um símbolo duradouro das nações hostis reunidas contra o povo de Deus; o livro do Apocalipse, no Novo Testamento, mais tarde toma emprestados os nomes para um conflito final."
+   },
+   {
+    "id": "ezek-38-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Segundo Ezequiel 38:11-12, por que Gogue planeja atacar a terra?",
+    "options": [
+     "Para tomar despojo e presa de um povo que habita seguro",
+     "Para vingar-se da destruição do templo e da cidade de Jerusalém",
+     "Para cumprir uma antiga aliança com os reis do oriente distante",
+     "Para estabelecer o seu próprio reino sobre a terra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-38-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Em Ezequiel 38:15, de que direção Gogue virá contra Israel?",
+    "options": [
+     "Das terras do sul distante",
+     "Dos lados do norte",
+     "Do meio do grande mar",
+     "Do lado do leste"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-38-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que o Senhor declara que fará a si mesmo em Ezequiel 38:23?",
+    "options": [
+     "Esconder o seu rosto e abandonar para sempre o seu povo escolhido",
+     "Engrandecer-se e santificar-se, e ser conhecido por muitas nações",
+     "Arrepender-se da sua ira e restaurar a paz entre as nações para sempre",
+     "Humilhar-se diante de Gogue e de todo o seu exército"
+    ],
+    "answer": 1
+   }
+  ],
+  "39": [
+   {
+    "id": "ezek-39-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Segundo Ezequiel 39:4, onde cairão Gogue e as suas tropas?",
+    "options": [
+     "Nos montes de Israel",
+     "No deserto do Egito",
+     "Junto ao rio Quebar",
+     "Nas ruas da Babilônia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-39-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Em Ezequiel 39:9, por quantos anos o povo queimará as armas com fogo?",
+    "options": [
+     "Quarenta anos",
+     "Três anos",
+     "Sete anos",
+     "Doze anos"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-39-cur-12",
+    "type": "curiosity",
+    "after_verse": 12,
+    "title": "Sete meses sepultando",
+    "text": "Tão grande será a queda da multidão de Gogue que Israel levará sete meses sepultando os mortos para purificar a terra, e o lugar do enterro será chamado o vale da multidão de Gogue."
+   },
+   {
+    "id": "ezek-39-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Em Ezequiel 39:11, que nome se dá ao lugar onde Gogue é sepultado?",
+    "options": [
+     "O vale da multidão de Gogue",
+     "O vale dos guerreiros vencidos",
+     "O vale das nações derrotadas",
+     "O vale do rio Eufrates"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-39-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "também o nome da cidade será {0}",
+    "blanks": [
+     "Hamona"
+    ],
+    "distractors": [
+     "Betel",
+     "Sião",
+     "Babel"
+    ]
+   },
+   {
+    "id": "ezek-39-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Segundo Ezequiel 39:23, por que a casa de Israel foi levada em cativeiro?",
+    "options": [
+     "Por causa de uma grande fome que assolou toda a terra de Israel e Judá",
+     "Por causa da sua iniquidade, porque se rebelaram contra o Senhor",
+     "Porque se aliaram com as nações vizinhas contra a vontade do Senhor",
+     "Porque se recusaram a pagar tributo ao rei da Babilônia"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-39-mc-29",
+    "type": "multiple_choice",
+    "after_verse": 29,
+    "question": "O que o Senhor promete derramar sobre a casa de Israel em Ezequiel 39:29?",
+    "options": [
+     "A sua bênção total",
+     "O seu Espírito",
+     "O seu juízo final",
+     "Uma grande chuva"
+    ],
+    "answer": 1
+   }
+  ],
+  "40": [
+   {
+    "id": "ezek-40-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "O homem com a cana de medir",
+    "text": "Ezequiel vê um homem cuja aparência era como a do bronze, segurando um cordel de linho e uma cana de medir; ao longo dos capítulos 40-42 esse guia mede cada parte do novo templo diante dos olhos de Ezequiel."
+   },
+   {
+    "id": "ezek-40-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 40:3, o que o homem de aparência como a do bronze tinha na mão?",
+    "options": [
+     "Um livro de leis e um bastão de julgamento",
+     "Um cordel de linho e uma cana de medir",
+     "Uma balança de pesar e um punhado de incenso",
+     "Uma tocha acesa e um martelo de bronze"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 40:6, para que direção dava a porta a que o homem veio?",
+    "options": [
+     "Para o oriente",
+     "Para o ocidente",
+     "Para o norte",
+     "Para o sul"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-40-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "Segundo Ezequiel 40:16, o que havia esculpido nos pilares da porta?",
+    "options": [
+     "Leões",
+     "Palmeiras",
+     "Bois",
+     "Águias"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "O que era repetidamente feito às portas e átrios ao longo de Ezequiel 40?",
+    "options": [
+     "Eram queimados",
+     "Eram medidos",
+     "Eram pintados",
+     "Eram derrubados"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-fb-27",
+    "type": "fill_blank",
+    "after_verse": 27,
+    "verse": 27,
+    "template": "mediu de porta a porta, para o caminho do sul, cem {0}",
+    "blanks": [
+     "côvados"
+    ],
+    "distractors": [
+     "cidades",
+     "pedras",
+     "anos"
+    ]
+   },
+   {
+    "id": "ezek-40-mc-33",
+    "type": "multiple_choice",
+    "after_verse": 33,
+    "question": "Em Ezequiel 40, por qual unidade as portas e os átrios são medidos?",
+    "options": [
+     "Estádios",
+     "Côvados",
+     "Milhas",
+     "Palmos"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-40-mc-39",
+    "type": "multiple_choice",
+    "after_verse": 39,
+    "question": "Segundo Ezequiel 40:39, o que estava no vestíbulo da porta, de cada lado?",
+    "options": [
+     "Duas mesas para nelas matar as ofertas",
+     "Dois altares de pedra para os holocaustos",
+     "Dois candeeiros de ouro para iluminar o átrio",
+     "Duas bacias para lavar as mãos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-40-mc-44",
+    "type": "multiple_choice",
+    "after_verse": 44,
+    "question": "Em Ezequiel 40:44, de quem eram as câmaras junto à porta interior?",
+    "options": [
+     "Dos reis",
+     "Dos mercadores",
+     "Dos cantores",
+     "Dos estrangeiros"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-40-mc-49",
+    "type": "multiple_choice",
+    "after_verse": 49,
+    "question": "Segundo Ezequiel 40:49, como se chegava ao vestíbulo?",
+    "options": [
+     "Por uma ponte estreita de madeira sobre o fosso",
+     "Por degraus, pelos quais se subia",
+     "Por uma passagem subterrânea escondida",
+     "Por uma escada em forma de espiral"
+    ],
+    "answer": 1
+   }
+  ],
+  "41": [
+   {
+    "id": "ezek-41-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Ezequiel 41:4, como o homem chamou a sala interior que mediu?",
+    "options": [
+     "O átrio das mulheres",
+     "O lugar santíssimo",
+     "O vestíbulo",
+     "O tesouro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "Medindo o próprio templo",
+    "text": "Tendo medido as portas e os átrios exteriores, o guia volta-se agora para o templo propriamente dito — os seus pilares, as entradas e a sala interior chamada o lugar santíssimo."
+   },
+   {
+    "id": "ezek-41-mc-8",
+    "type": "multiple_choice",
+    "after_verse": 8,
+    "question": "Segundo Ezequiel 41:5-8, o que cercava a casa por todos os lados?",
+    "options": [
+     "Um fosso de água",
+     "Câmaras laterais",
+     "Apenas uma fileira de colunas",
+     "Um campo aberto"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "Para que direção dava a dianteira do templo e do lugar separado em Ezequiel 41:14?",
+    "options": [
+     "O ocidente",
+     "O norte",
+     "O oriente",
+     "O sul"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-41-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Em Ezequiel 41:18-19, quais duas figuras foram esculpidas alternadamente nas paredes?",
+    "options": [
+     "Leões e touros alados",
+     "Querubins e palmeiras",
+     "Serafins e rosas do campo",
+     "Grifos e videiras"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-41-fb-19",
+    "type": "fill_blank",
+    "after_verse": 19,
+    "verse": 19,
+    "template": "um rosto de {0} olhava para a palmeira de um lado",
+    "blanks": [
+     "homem"
+    ],
+    "distractors": [
+     "rei",
+     "cordeiro",
+     "menino"
+    ]
+   },
+   {
+    "id": "ezek-41-mc-26",
+    "type": "multiple_choice",
+    "after_verse": 26,
+    "question": "Segundo Ezequiel 41:25-26, o que foi esculpido nas portas do templo, como nas paredes?",
+    "options": [
+     "Querubins e palmeiras",
+     "Serpentes e coroas de ouro",
+     "Estrelas e crescentes de lua",
+     "Leões e cordeiros"
+    ],
+    "answer": 0
+   }
+  ],
+  "42": [
+   {
+    "id": "ezek-42-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "As câmaras dos sacerdotes",
+    "text": "Depois de medir o templo, o guia de Ezequiel passa às câmaras dos sacerdotes junto ao 'lugar separado' — o espaço aberto que apartava o santuário sagrado do restante do átrio."
+   },
+   {
+    "id": "ezek-42-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 42:5, por que as câmaras de cima eram mais estreitas do que as de baixo?",
+    "options": [
+     "As galerias lhes tomavam mais espaço",
+     "Os operários usaram menos pedra na construção",
+     "Foram reservadas apenas para os cantores do templo",
+     "O muro externo era mais fino ali"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-42-mc-6",
+    "type": "multiple_choice",
+    "after_verse": 6,
+    "question": "Segundo Ezequiel 42:3-6, em quantos andares as câmaras eram construídas?",
+    "options": [
+     "Um",
+     "Dois",
+     "Três",
+     "Sete"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "ezek-42-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "Em Ezequiel 42:13, o que o homem diz que são as câmaras do norte e do sul?",
+    "options": [
+     "Câmaras santas, onde os sacerdotes comem as coisas santíssimas",
+     "Depósitos comuns onde os servos guardavam as ferramentas do templo",
+     "Aposentos reais, destinados à hospedagem do príncipe e sua corte",
+     "Estábulos onde ficavam os animais para o sacrifício"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-42-fb-20",
+    "type": "fill_blank",
+    "after_verse": 20,
+    "verse": 20,
+    "template": "para fazer separação entre o {0} e o profano",
+    "blanks": [
+     "santo"
+    ],
+    "distractors": [
+     "palácio",
+     "mercado",
+     "vinhedo"
+    ]
+   }
+  ],
+  "43": [
+   {
+    "id": "ezek-43-cur-2",
+    "type": "curiosity",
+    "after_verse": 2,
+    "title": "A glória retorna",
+    "text": "Anos antes, Ezequiel vira a glória de Deus deixar o templo de Jerusalém. Agora a glória do Deus de Israel volta pela porta oriental, com voz como a de muitas águas, e enche a casa de novo."
+   },
+   {
+    "id": "ezek-43-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 43:2-5, por qual caminho a glória do Deus de Israel entrou no templo?",
+    "options": [
+     "Pelo caminho do ocidente",
+     "Pelo caminho do oriente",
+     "Descendo do céu",
+     "Subindo do mar"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-mc-11",
+    "type": "multiple_choice",
+    "after_verse": 11,
+    "question": "Em Ezequiel 43:7, como o Senhor chama o templo?",
+    "options": [
+     "Um mero edifício de pedra sem qualquer santidade",
+     "O lugar do meu trono, onde habitarei para sempre",
+     "Um lugar apenas de passagem para os sacerdotes somente",
+     "Uma casa comum entre as outras da cidade"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-fb-16",
+    "type": "fill_blank",
+    "after_verse": 16,
+    "verse": 16,
+    "template": "doze côvados de comprimento, e doze de largura, {0} nos quatro lados",
+    "blanks": [
+     "quadrado"
+    ],
+    "distractors": [
+     "redondo",
+     "oco",
+     "aberto"
+    ]
+   },
+   {
+    "id": "ezek-43-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Segundo Ezequiel 43:18-21, para que serviria o altar?",
+    "options": [
+     "Para queimar incenso e guardar ali as vestes sagradas",
+     "Para oferecer holocaustos e aspergir sangue sobre ele",
+     "Para servir de mesa às ofertas de manjares do povo inteiro",
+     "Para acender as lâmpadas do santuário todas as noites"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-43-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "Em Ezequiel 43:27, o que o Senhor promete depois de o altar ser consagrado?",
+    "options": [
+     "Que se deleitará no povo e o aceitará",
+     "Que enviará mais profetas para os avisar",
+     "Que destruirá totalmente o altar profanado",
+     "Que abandonará mais uma vez o templo"
+    ],
+    "answer": 0
+   }
+  ],
+  "44": [
+   {
+    "id": "ezek-44-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 44:2, por que a porta oriental do santuário deve permanecer fechada?",
+    "options": [
+     "Porque os sacerdotes a selaram por causa da profanação",
+     "Porque o Senhor Deus de Israel entrou por ela",
+     "Porque estava reservada apenas para o dia da consagração",
+     "Porque conduzia diretamente ao altar do sacrifício"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-cur-3",
+    "type": "curiosity",
+    "after_verse": 3,
+    "title": "Uma porta para o príncipe",
+    "text": "Embora a porta oriental fique fechada, o versículo 3 faz uma exceção: o príncipe pode assentar-se nela para comer o pão diante do Senhor, entrando e saindo pelo vestíbulo daquela porta."
+   },
+   {
+    "id": "ezek-44-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Ezequiel 44:10, o que levarão sobre si os levitas que andaram errantes atrás dos ídolos?",
+    "options": [
+     "Uma porção dobrada",
+     "A sua iniquidade",
+     "O sacerdócio",
+     "Uma coroa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Em Ezequiel 44:15, quais sacerdotes podem chegar-se para servir ao Senhor?",
+    "options": [
+     "Os filhos de Zadoque",
+     "Os filhos de Corá",
+     "Os filhos de Eli",
+     "Qualquer um do povo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-44-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Segundo Ezequiel 44:17-18, o que os sacerdotes devem vestir ao ministrar no átrio interior?",
+    "options": [
+     "Vestiduras de lã",
+     "Vestiduras de linho",
+     "Vestiduras de peles",
+     "Vestiduras de ouro"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-fb-23",
+    "type": "fill_blank",
+    "after_verse": 23,
+    "verse": 23,
+    "template": "ensinarão a diferença entre o {0} e o profano",
+    "blanks": [
+     "santo"
+    ],
+    "distractors": [
+     "rico",
+     "sábio",
+     "forte"
+    ]
+   },
+   {
+    "id": "ezek-44-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Segundo Ezequiel 44:21, o que nenhum sacerdote deve fazer ao entrar no átrio interior?",
+    "options": [
+     "Falar em voz alta",
+     "Beber vinho",
+     "Assentar-se",
+     "Portar uma espada"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-44-mc-31",
+    "type": "multiple_choice",
+    "after_verse": 31,
+    "question": "Em Ezequiel 44:28, o que o Senhor diz que será a herança dos sacerdotes?",
+    "options": [
+     "Uma parte de terra igual à dos príncipes de Israel",
+     "Metade dos despojos tomados dos inimigos vencidos",
+     "O próprio Senhor ('eu serei a sua herança')",
+     "Uma pensão anual paga pelo tesouro real"
+    ],
+    "answer": 2
+   }
+  ],
+  "45": [
+   {
+    "id": "ezek-45-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Ezequiel 45:1-4, o lugar santo da terra é separado para quem e para quê?",
+    "options": [
+     "Para os mercadores e o seu comércio",
+     "Para os sacerdotes e o santuário",
+     "Para o exército e os seus acampamentos",
+     "Para os estrangeiros"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-45-fb-9",
+    "type": "fill_blank",
+    "after_verse": 9,
+    "verse": 9,
+    "template": "afastai a violência e a {0}",
+    "blanks": [
+     "assolação"
+    ],
+    "distractors": [
+     "chuva",
+     "colheita",
+     "fronteira"
+    ]
+   },
+   {
+    "id": "ezek-45-cur-10",
+    "type": "curiosity",
+    "after_verse": 10,
+    "title": "Balanças justas",
+    "text": "Logo depois de mandar os príncipes afastarem a violência e a assolação, o Senhor exige 'balanças justas, e efa justo, e bato justo' — pesos e medidas honestos no comércio do dia a dia."
+   },
+   {
+    "id": "ezek-45-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Ezequiel 45:9, o que o Senhor manda os príncipes de Israel fazerem?",
+    "options": [
+     "Afastar a violência e a assolação, e praticar juízo e justiça",
+     "Edificar palácios luxuosos e multiplicar cavalos de guerra para si",
+     "Tomar posse das terras dos pobres e oprimir as viúvas e órfãos",
+     "Multiplicar exércitos e fortalezas para si mesmos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "ezek-45-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "Em Ezequiel 45:18, no primeiro dia do primeiro mês, o que se deve fazer?",
+    "options": [
+     "Reunir todo o povo e proclamar um jejum solene",
+     "Tomar um bezerro e purificar o santuário",
+     "Oferecer um cordeiro jovem e queimar incenso no altar",
+     "Consagrar os sacerdotes ao ofício"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-45-mc-25",
+    "type": "multiple_choice",
+    "after_verse": 25,
+    "question": "Segundo Ezequiel 45:21, que festa se deve guardar no primeiro mês, no dia quatorze?",
+    "options": [
+     "A festa dos tabernáculos",
+     "O dia da expiação",
+     "A páscoa",
+     "A festa das trombetas"
+    ],
+    "answer": 2
+   }
+  ],
+  "46": [
+   {
+    "id": "ezek-46-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 46:1, quando a porta oriental do átrio interior deve ser aberta?",
+    "options": [
+     "Somente durante as festas anuais do templo",
+     "No sábado e na lua nova",
+     "Nos dias de trabalho e nas assembleias solenes",
+     "No dia da purificação anual"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Entrar por uma porta, sair por outra",
+    "text": "O versículo 9 estabelece uma regra de ordem para as solenidades: quem entra pela porta do norte deve sair pela do sul, e quem entra pela do sul sai pela do norte — ninguém volta pelo caminho por onde entrou."
+   },
+   {
+    "id": "ezek-46-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Segundo Ezequiel 46:9, nas solenidades, como o adorador deve sair do templo?",
+    "options": [
+     "Pela porta do norte, independente de onde entrou",
+     "Pela porta oposta àquela por onde entrou",
+     "Permanecendo dentro do átrio até o anoitecer",
+     "Sempre pela porta oriental somente"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-mc-12",
+    "type": "multiple_choice",
+    "after_verse": 12,
+    "question": "Em Ezequiel 46:10, onde está o príncipe quando o povo entra e sai?",
+    "options": [
+     "Fora do muro",
+     "No meio deles",
+     "Sobre o altar",
+     "Nas câmaras santas"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Segundo Ezequiel 46:16-17, um presente que o príncipe dá a um servo retorna ao príncipe em que ano?",
+    "options": [
+     "O ano do jubileu",
+     "O ano da liberdade",
+     "O sétimo ano",
+     "O ano da colheita"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-46-fb-24",
+    "type": "fill_blank",
+    "after_verse": 24,
+    "verse": 24,
+    "template": "onde os {0} da casa cozerão o sacrifício do povo",
+    "blanks": [
+     "ministros"
+    ],
+    "distractors": [
+     "inimigos",
+     "estrangeiros",
+     "mercadores"
+    ]
+   }
+  ],
+  "47": [
+   {
+    "id": "ezek-47-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "O rio que sai do templo",
+    "text": "De debaixo do umbral do templo brotam águas que crescem cada vez mais fundas — um rio que cura e dá vida. A imagem ecoa de novo em Apocalipse 22, onde um rio de água viva flui do trono de Deus."
+   },
+   {
+    "id": "ezek-47-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "Em Ezequiel 47:3-4, à medida que o homem media, como subiam as águas?",
+    "options": [
+     "Pelos joelhos, depois pelas costas, depois cobrindo toda a cabeça",
+     "Pelos artelhos, depois pelos joelhos, depois pelos lombos",
+     "Pelos tornozelos apenas, sem nunca subir mais alto que isso",
+     "Diminuindo aos poucos até secarem completamente"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "Em Ezequiel 47:5, no que as águas se tornaram?",
+    "options": [
+     "Um mar de água salgada e muito amarga",
+     "Um ribeiro que não se podia passar",
+     "Uma fonte que logo se esgotou por completo",
+     "Um lago raso e bem tranquilo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "Segundo Ezequiel 47:9, o que acontece por onde quer que o ribeiro chega?",
+    "options": [
+     "A terra é queimada",
+     "Tudo viverá",
+     "As águas se tornam amargas",
+     "Começa uma fome"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 47:10, quem estará em pé junto ao ribeiro, desde En-Gedi até En-Eglaim?",
+    "options": [
+     "Soldados",
+     "Pescadores",
+     "Reis",
+     "Pastores"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-fb-13",
+    "type": "fill_blank",
+    "after_verse": 13,
+    "verse": 13,
+    "template": "tomareis a terra em herança, segundo as doze {0} de Israel",
+    "blanks": [
+     "tribos"
+    ],
+    "distractors": [
+     "cidades",
+     "reis",
+     "rios"
+    ]
+   },
+   {
+    "id": "ezek-47-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "Segundo Ezequiel 47:15-17, os termos que estão sendo descritos demarcam o quê?",
+    "options": [
+     "As cidades de refúgio para os fugitivos",
+     "A terra a ser herdada",
+     "Os limites do acampamento no deserto",
+     "O caminho até Jope"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-47-mc-23",
+    "type": "multiple_choice",
+    "after_verse": 23,
+    "question": "Em Ezequiel 47:22-23, o que o Senhor diz sobre os estrangeiros que peregrinam em Israel?",
+    "options": [
+     "Deverão retornar para sempre à sua própria terra natal",
+     "Terão herança entre as tribos de Israel",
+     "Serão contados apenas como servos dos sacerdotes",
+     "Não poderão possuir terra alguma em Israel"
+    ],
+    "answer": 1
+   }
+  ],
+  "48": [
+   {
+    "id": "ezek-48-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "O que está sendo dividido entre as tribos nomeadas ao longo de Ezequiel 48?",
+    "options": [
+     "As armas capturadas na batalha final",
+     "A terra, em porções para cada tribo",
+     "Os tesouros trazidos das nações vizinhas",
+     "As oferendas novas do santuário"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "Em Ezequiel 48:10, a oferta santa é separada para quem, com o santuário no meio dela?",
+    "options": [
+     "Os mercadores",
+     "Os sacerdotes",
+     "Os estrangeiros",
+     "Os reis"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "Segundo Ezequiel 48:15, as cinco mil que restaram servem de lugar comum para quê?",
+    "options": [
+     "O exército permanente do próprio príncipe reinante",
+     "A cidade, para habitação e arrabaldes",
+     "Os mercadores estrangeiros e todos os seus bens pessoais",
+     "Um cemitério especial para os sacerdotes"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-19",
+    "type": "multiple_choice",
+    "after_verse": 19,
+    "question": "Em Ezequiel 48:19, os que servem a cidade devem ser de onde?",
+    "options": [
+     "Somente da tribo sacerdotal de Levi",
+     "De todas as tribos de Israel",
+     "Apenas dos filhos do príncipe reinante",
+     "Somente dos estrangeiros"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-mc-21",
+    "type": "multiple_choice",
+    "after_verse": 21,
+    "question": "Segundo Ezequiel 48:21, onde é posto o santuário da casa, na porção do príncipe?",
+    "options": [
+     "Fora da terra",
+     "No meio dela",
+     "Na costa do mar",
+     "Só no termo do norte"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-cur-20",
+    "type": "curiosity",
+    "after_verse": 20,
+    "title": "O santuário no centro",
+    "text": "Na repartição da terra, o santuário é posto no meio da oferta santa — um retrato deliberado da presença de Deus bem no centro da nação restaurada."
+   },
+   {
+    "id": "ezek-48-mc-28",
+    "type": "multiple_choice",
+    "after_verse": 28,
+    "question": "Ao longo de Ezequiel 48:23-28, o que é dado a cada uma das tribos restantes (Benjamim, Simeão e outras)?",
+    "options": [
+     "Uma cidade",
+     "Uma porção da terra",
+     "Uma parte das ofertas",
+     "Apenas uma porta"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "ezek-48-fb-35",
+    "type": "fill_blank",
+    "after_verse": 35,
+    "verse": 35,
+    "template": "o nome da cidade desde aquele dia será: O {0} está ali",
+    "blanks": [
+     "Senhor"
+    ],
+    "distractors": [
+     "rei",
+     "templo",
+     "trono"
+    ]
+   }
+  ]
+ }
+}

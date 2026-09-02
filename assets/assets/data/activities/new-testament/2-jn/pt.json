@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "book": "2-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "A mais curta das cartas",
+        "body": "Segunda João é um dos livros mais curtos da Bíblia — apenas treze versículos. Seu autor se chama simplesmente “o ancião”, entendido como o Apóstolo João."
+      },
+      {
+        "id": "2-jn-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "O ancião à {0} eleita, e a seus filhos",
+        "blanks": [
+          "senhora"
+        ],
+        "distractors": [
+          "irmã",
+          "mãe",
+          "filha"
+        ]
+      },
+      {
+        "id": "2-jn-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "O que os “muitos enganadores” se recusam a confessar (v. 7)?",
+        "options": [
+          "Que Jesus Cristo veio em carne",
+          "Que a lei de Moisés foi cumprida",
+          "Que João é apóstolo",
+          "Que o templo será reconstruído"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-jn-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "quem persevera na {0} de Cristo, esse tem tanto o Pai como o Filho",
+        "blanks": [
+          "doutrina"
+        ],
+        "distractors": [
+          "lei",
+          "graça",
+          "palavra"
+        ]
+      },
+      {
+        "id": "2-jn-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Papel e tinta",
+        "body": "João diz que prefere não escrever com “papel e tinta”, mas falar face a face — um vislumbre de como as cartas circulavam entre as primeiras congregações cristãs."
+      },
+      {
+        "id": "2-jn-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Em vez de escrever tudo com papel e tinta, o que João esperava fazer (v. 12)?",
+        "options": [
+          "Ir falar face a face",
+          "Enviar outro apóstolo",
+          "Esperar a vinda do Senhor",
+          "Convocar um concílio em Jerusalém"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

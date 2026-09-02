@@ -1,0 +1,2091 @@
+{
+  "plan_id": "book-of-mormon-cfm",
+  "schema_version": 1,
+  "type": "scripture-reading",
+  "schedule_type": "dated",
+  "scripture": "bofm",
+  "total_nodes": 239,
+  "total_units": 52,
+  "total_sections": 12,
+  "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/bofm",
+  "name_key": "plan.book-of-mormon-cfm.name",
+  "subtitle_key": "plan.book-of-mormon-cfm.subtitle",
+  "source_key": "plan.book-of-mormon-cfm.source",
+  "sections": [
+    {
+      "id": 1,
+      "slug": "january",
+      "name_key": "plan.book-of-mormon-cfm.section.january.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.january.subtitle",
+      "units": [
+        {
+          "id": 1,
+          "date_start": "2024-01-01",
+          "date_end": "2024-01-07",
+          "title_key": "plan.book-of-mormon-cfm.unit.1.title",
+          "ref_range": [],
+          "nodes": []
+        },
+        {
+          "id": 2,
+          "date_start": "2024-01-08",
+          "date_end": "2024-01-14",
+          "title_key": "plan.book-of-mormon-cfm.unit.2.title",
+          "ref_range": [
+            {
+              "book": "1-ne",
+              "from_ch": 1,
+              "to_ch": 5
+            }
+          ],
+          "nodes": [
+            {
+              "id": 1,
+              "book": "1-ne",
+              "ch": 1
+            },
+            {
+              "id": 2,
+              "book": "1-ne",
+              "ch": 2
+            },
+            {
+              "id": 3,
+              "book": "1-ne",
+              "ch": 3
+            },
+            {
+              "id": 4,
+              "book": "1-ne",
+              "ch": 4
+            },
+            {
+              "id": 5,
+              "book": "1-ne",
+              "ch": 5
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "date_start": "2024-01-15",
+          "date_end": "2024-01-21",
+          "title_key": "plan.book-of-mormon-cfm.unit.3.title",
+          "ref_range": [
+            {
+              "book": "1-ne",
+              "from_ch": 6,
+              "to_ch": 10
+            }
+          ],
+          "nodes": [
+            {
+              "id": 6,
+              "book": "1-ne",
+              "ch": 6
+            },
+            {
+              "id": 7,
+              "book": "1-ne",
+              "ch": 7
+            },
+            {
+              "id": 8,
+              "book": "1-ne",
+              "ch": 8
+            },
+            {
+              "id": 9,
+              "book": "1-ne",
+              "ch": 9
+            },
+            {
+              "id": 10,
+              "book": "1-ne",
+              "ch": 10
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "date_start": "2024-01-22",
+          "date_end": "2024-01-28",
+          "title_key": "plan.book-of-mormon-cfm.unit.4.title",
+          "ref_range": [
+            {
+              "book": "1-ne",
+              "from_ch": 11,
+              "to_ch": 15
+            }
+          ],
+          "nodes": [
+            {
+              "id": 11,
+              "book": "1-ne",
+              "ch": 11
+            },
+            {
+              "id": 12,
+              "book": "1-ne",
+              "ch": 12
+            },
+            {
+              "id": 13,
+              "book": "1-ne",
+              "ch": 13
+            },
+            {
+              "id": 14,
+              "book": "1-ne",
+              "ch": 14
+            },
+            {
+              "id": 15,
+              "book": "1-ne",
+              "ch": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "february",
+      "name_key": "plan.book-of-mormon-cfm.section.february.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.february.subtitle",
+      "units": [
+        {
+          "id": 5,
+          "date_start": "2024-01-29",
+          "date_end": "2024-02-04",
+          "title_key": "plan.book-of-mormon-cfm.unit.5.title",
+          "ref_range": [
+            {
+              "book": "1-ne",
+              "from_ch": 16,
+              "to_ch": 22
+            }
+          ],
+          "nodes": [
+            {
+              "id": 16,
+              "book": "1-ne",
+              "ch": 16
+            },
+            {
+              "id": 17,
+              "book": "1-ne",
+              "ch": 17
+            },
+            {
+              "id": 18,
+              "book": "1-ne",
+              "ch": 18
+            },
+            {
+              "id": 19,
+              "book": "1-ne",
+              "ch": 19
+            },
+            {
+              "id": 20,
+              "book": "1-ne",
+              "ch": 20
+            },
+            {
+              "id": 21,
+              "book": "1-ne",
+              "ch": 21
+            },
+            {
+              "id": 22,
+              "book": "1-ne",
+              "ch": 22
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "date_start": "2024-02-05",
+          "date_end": "2024-02-11",
+          "title_key": "plan.book-of-mormon-cfm.unit.6.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 1,
+              "to_ch": 2
+            }
+          ],
+          "nodes": [
+            {
+              "id": 23,
+              "book": "2-ne",
+              "ch": 1
+            },
+            {
+              "id": 24,
+              "book": "2-ne",
+              "ch": 2
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "date_start": "2024-02-12",
+          "date_end": "2024-02-18",
+          "title_key": "plan.book-of-mormon-cfm.unit.7.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 3,
+              "to_ch": 5
+            }
+          ],
+          "nodes": [
+            {
+              "id": 25,
+              "book": "2-ne",
+              "ch": 3
+            },
+            {
+              "id": 26,
+              "book": "2-ne",
+              "ch": 4
+            },
+            {
+              "id": 27,
+              "book": "2-ne",
+              "ch": 5
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "date_start": "2024-02-19",
+          "date_end": "2024-02-25",
+          "title_key": "plan.book-of-mormon-cfm.unit.8.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 6,
+              "to_ch": 10
+            }
+          ],
+          "nodes": [
+            {
+              "id": 28,
+              "book": "2-ne",
+              "ch": 6
+            },
+            {
+              "id": 29,
+              "book": "2-ne",
+              "ch": 7
+            },
+            {
+              "id": 30,
+              "book": "2-ne",
+              "ch": 8
+            },
+            {
+              "id": 31,
+              "book": "2-ne",
+              "ch": 9
+            },
+            {
+              "id": 32,
+              "book": "2-ne",
+              "ch": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "march",
+      "name_key": "plan.book-of-mormon-cfm.section.march.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.march.subtitle",
+      "units": [
+        {
+          "id": 9,
+          "date_start": "2024-02-26",
+          "date_end": "2024-03-03",
+          "title_key": "plan.book-of-mormon-cfm.unit.9.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 11,
+              "to_ch": 19
+            }
+          ],
+          "nodes": [
+            {
+              "id": 33,
+              "book": "2-ne",
+              "ch": 11
+            },
+            {
+              "id": 34,
+              "book": "2-ne",
+              "ch": 12
+            },
+            {
+              "id": 35,
+              "book": "2-ne",
+              "ch": 13
+            },
+            {
+              "id": 36,
+              "book": "2-ne",
+              "ch": 14
+            },
+            {
+              "id": 37,
+              "book": "2-ne",
+              "ch": 15
+            },
+            {
+              "id": 38,
+              "book": "2-ne",
+              "ch": 16
+            },
+            {
+              "id": 39,
+              "book": "2-ne",
+              "ch": 17
+            },
+            {
+              "id": 40,
+              "book": "2-ne",
+              "ch": 18
+            },
+            {
+              "id": 41,
+              "book": "2-ne",
+              "ch": 19
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "date_start": "2024-03-04",
+          "date_end": "2024-03-10",
+          "title_key": "plan.book-of-mormon-cfm.unit.10.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 20,
+              "to_ch": 25
+            }
+          ],
+          "nodes": [
+            {
+              "id": 42,
+              "book": "2-ne",
+              "ch": 20
+            },
+            {
+              "id": 43,
+              "book": "2-ne",
+              "ch": 21
+            },
+            {
+              "id": 44,
+              "book": "2-ne",
+              "ch": 22
+            },
+            {
+              "id": 45,
+              "book": "2-ne",
+              "ch": 23
+            },
+            {
+              "id": 46,
+              "book": "2-ne",
+              "ch": 24
+            },
+            {
+              "id": 47,
+              "book": "2-ne",
+              "ch": 25
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "date_start": "2024-03-11",
+          "date_end": "2024-03-17",
+          "title_key": "plan.book-of-mormon-cfm.unit.11.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 26,
+              "to_ch": 30
+            }
+          ],
+          "nodes": [
+            {
+              "id": 48,
+              "book": "2-ne",
+              "ch": 26
+            },
+            {
+              "id": 49,
+              "book": "2-ne",
+              "ch": 27
+            },
+            {
+              "id": 50,
+              "book": "2-ne",
+              "ch": 28
+            },
+            {
+              "id": 51,
+              "book": "2-ne",
+              "ch": 29
+            },
+            {
+              "id": 52,
+              "book": "2-ne",
+              "ch": 30
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "date_start": "2024-03-18",
+          "date_end": "2024-03-24",
+          "title_key": "plan.book-of-mormon-cfm.unit.12.title",
+          "ref_range": [
+            {
+              "book": "2-ne",
+              "from_ch": 31,
+              "to_ch": 33
+            }
+          ],
+          "nodes": [
+            {
+              "id": 53,
+              "book": "2-ne",
+              "ch": 31
+            },
+            {
+              "id": 54,
+              "book": "2-ne",
+              "ch": 32
+            },
+            {
+              "id": 55,
+              "book": "2-ne",
+              "ch": 33
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "date_start": "2024-03-25",
+          "date_end": "2024-03-31",
+          "title_key": "plan.book-of-mormon-cfm.unit.13.title",
+          "ref_range": [],
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "april",
+      "name_key": "plan.book-of-mormon-cfm.section.april.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.april.subtitle",
+      "units": [
+        {
+          "id": 14,
+          "date_start": "2024-04-01",
+          "date_end": "2024-04-07",
+          "title_key": "plan.book-of-mormon-cfm.unit.14.title",
+          "ref_range": [
+            {
+              "book": "jacob",
+              "from_ch": 1,
+              "to_ch": 4
+            }
+          ],
+          "nodes": [
+            {
+              "id": 56,
+              "book": "jacob",
+              "ch": 1
+            },
+            {
+              "id": 57,
+              "book": "jacob",
+              "ch": 2
+            },
+            {
+              "id": 58,
+              "book": "jacob",
+              "ch": 3
+            },
+            {
+              "id": 59,
+              "book": "jacob",
+              "ch": 4
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "date_start": "2024-04-08",
+          "date_end": "2024-04-14",
+          "title_key": "plan.book-of-mormon-cfm.unit.15.title",
+          "ref_range": [
+            {
+              "book": "jacob",
+              "from_ch": 5,
+              "to_ch": 7
+            }
+          ],
+          "nodes": [
+            {
+              "id": 60,
+              "book": "jacob",
+              "ch": 5
+            },
+            {
+              "id": 61,
+              "book": "jacob",
+              "ch": 6
+            },
+            {
+              "id": 62,
+              "book": "jacob",
+              "ch": 7
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "date_start": "2024-04-15",
+          "date_end": "2024-04-21",
+          "title_key": "plan.book-of-mormon-cfm.unit.16.title",
+          "ref_range": [
+            {
+              "book": "enos",
+              "from_ch": 1,
+              "to_ch": 1
+            },
+            {
+              "book": "jarom",
+              "from_ch": 1,
+              "to_ch": 1
+            },
+            {
+              "book": "omni",
+              "from_ch": 1,
+              "to_ch": 1
+            },
+            {
+              "book": "w-of-m",
+              "from_ch": 1,
+              "to_ch": 1
+            }
+          ],
+          "nodes": [
+            {
+              "id": 63,
+              "book": "enos",
+              "ch": 1
+            },
+            {
+              "id": 64,
+              "book": "jarom",
+              "ch": 1
+            },
+            {
+              "id": 65,
+              "book": "omni",
+              "ch": 1
+            },
+            {
+              "id": 66,
+              "book": "w-of-m",
+              "ch": 1
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "date_start": "2024-04-22",
+          "date_end": "2024-04-28",
+          "title_key": "plan.book-of-mormon-cfm.unit.17.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 1,
+              "to_ch": 3
+            }
+          ],
+          "nodes": [
+            {
+              "id": 67,
+              "book": "mosiah",
+              "ch": 1
+            },
+            {
+              "id": 68,
+              "book": "mosiah",
+              "ch": 2
+            },
+            {
+              "id": 69,
+              "book": "mosiah",
+              "ch": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "may",
+      "name_key": "plan.book-of-mormon-cfm.section.may.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.may.subtitle",
+      "units": [
+        {
+          "id": 18,
+          "date_start": "2024-04-29",
+          "date_end": "2024-05-05",
+          "title_key": "plan.book-of-mormon-cfm.unit.18.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 4,
+              "to_ch": 6
+            }
+          ],
+          "nodes": [
+            {
+              "id": 70,
+              "book": "mosiah",
+              "ch": 4
+            },
+            {
+              "id": 71,
+              "book": "mosiah",
+              "ch": 5
+            },
+            {
+              "id": 72,
+              "book": "mosiah",
+              "ch": 6
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "date_start": "2024-05-06",
+          "date_end": "2024-05-12",
+          "title_key": "plan.book-of-mormon-cfm.unit.19.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 7,
+              "to_ch": 10
+            }
+          ],
+          "nodes": [
+            {
+              "id": 73,
+              "book": "mosiah",
+              "ch": 7
+            },
+            {
+              "id": 74,
+              "book": "mosiah",
+              "ch": 8
+            },
+            {
+              "id": 75,
+              "book": "mosiah",
+              "ch": 9
+            },
+            {
+              "id": 76,
+              "book": "mosiah",
+              "ch": 10
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "date_start": "2024-05-13",
+          "date_end": "2024-05-19",
+          "title_key": "plan.book-of-mormon-cfm.unit.20.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 11,
+              "to_ch": 17
+            }
+          ],
+          "nodes": [
+            {
+              "id": 77,
+              "book": "mosiah",
+              "ch": 11
+            },
+            {
+              "id": 78,
+              "book": "mosiah",
+              "ch": 12
+            },
+            {
+              "id": 79,
+              "book": "mosiah",
+              "ch": 13
+            },
+            {
+              "id": 80,
+              "book": "mosiah",
+              "ch": 14
+            },
+            {
+              "id": 81,
+              "book": "mosiah",
+              "ch": 15
+            },
+            {
+              "id": 82,
+              "book": "mosiah",
+              "ch": 16
+            },
+            {
+              "id": 83,
+              "book": "mosiah",
+              "ch": 17
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "date_start": "2024-05-20",
+          "date_end": "2024-05-26",
+          "title_key": "plan.book-of-mormon-cfm.unit.21.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 18,
+              "to_ch": 24
+            }
+          ],
+          "nodes": [
+            {
+              "id": 84,
+              "book": "mosiah",
+              "ch": 18
+            },
+            {
+              "id": 85,
+              "book": "mosiah",
+              "ch": 19
+            },
+            {
+              "id": 86,
+              "book": "mosiah",
+              "ch": 20
+            },
+            {
+              "id": 87,
+              "book": "mosiah",
+              "ch": 21
+            },
+            {
+              "id": 88,
+              "book": "mosiah",
+              "ch": 22
+            },
+            {
+              "id": 89,
+              "book": "mosiah",
+              "ch": 23
+            },
+            {
+              "id": 90,
+              "book": "mosiah",
+              "ch": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "june",
+      "name_key": "plan.book-of-mormon-cfm.section.june.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.june.subtitle",
+      "units": [
+        {
+          "id": 22,
+          "date_start": "2024-05-27",
+          "date_end": "2024-06-02",
+          "title_key": "plan.book-of-mormon-cfm.unit.22.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 25,
+              "to_ch": 28
+            }
+          ],
+          "nodes": [
+            {
+              "id": 91,
+              "book": "mosiah",
+              "ch": 25
+            },
+            {
+              "id": 92,
+              "book": "mosiah",
+              "ch": 26
+            },
+            {
+              "id": 93,
+              "book": "mosiah",
+              "ch": 27
+            },
+            {
+              "id": 94,
+              "book": "mosiah",
+              "ch": 28
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "date_start": "2024-06-03",
+          "date_end": "2024-06-09",
+          "title_key": "plan.book-of-mormon-cfm.unit.23.title",
+          "ref_range": [
+            {
+              "book": "mosiah",
+              "from_ch": 29,
+              "to_ch": 29
+            },
+            {
+              "book": "alma",
+              "from_ch": 1,
+              "to_ch": 4
+            }
+          ],
+          "nodes": [
+            {
+              "id": 95,
+              "book": "mosiah",
+              "ch": 29
+            },
+            {
+              "id": 96,
+              "book": "alma",
+              "ch": 1
+            },
+            {
+              "id": 97,
+              "book": "alma",
+              "ch": 2
+            },
+            {
+              "id": 98,
+              "book": "alma",
+              "ch": 3
+            },
+            {
+              "id": 99,
+              "book": "alma",
+              "ch": 4
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "date_start": "2024-06-10",
+          "date_end": "2024-06-16",
+          "title_key": "plan.book-of-mormon-cfm.unit.24.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 5,
+              "to_ch": 7
+            }
+          ],
+          "nodes": [
+            {
+              "id": 100,
+              "book": "alma",
+              "ch": 5
+            },
+            {
+              "id": 101,
+              "book": "alma",
+              "ch": 6
+            },
+            {
+              "id": 102,
+              "book": "alma",
+              "ch": 7
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "date_start": "2024-06-17",
+          "date_end": "2024-06-23",
+          "title_key": "plan.book-of-mormon-cfm.unit.25.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 8,
+              "to_ch": 12
+            }
+          ],
+          "nodes": [
+            {
+              "id": 103,
+              "book": "alma",
+              "ch": 8
+            },
+            {
+              "id": 104,
+              "book": "alma",
+              "ch": 9
+            },
+            {
+              "id": 105,
+              "book": "alma",
+              "ch": 10
+            },
+            {
+              "id": 106,
+              "book": "alma",
+              "ch": 11
+            },
+            {
+              "id": 107,
+              "book": "alma",
+              "ch": 12
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "date_start": "2024-06-24",
+          "date_end": "2024-06-30",
+          "title_key": "plan.book-of-mormon-cfm.unit.26.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 13,
+              "to_ch": 16
+            }
+          ],
+          "nodes": [
+            {
+              "id": 108,
+              "book": "alma",
+              "ch": 13
+            },
+            {
+              "id": 109,
+              "book": "alma",
+              "ch": 14
+            },
+            {
+              "id": 110,
+              "book": "alma",
+              "ch": 15
+            },
+            {
+              "id": 111,
+              "book": "alma",
+              "ch": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "july",
+      "name_key": "plan.book-of-mormon-cfm.section.july.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.july.subtitle",
+      "units": [
+        {
+          "id": 27,
+          "date_start": "2024-07-01",
+          "date_end": "2024-07-07",
+          "title_key": "plan.book-of-mormon-cfm.unit.27.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 17,
+              "to_ch": 22
+            }
+          ],
+          "nodes": [
+            {
+              "id": 112,
+              "book": "alma",
+              "ch": 17
+            },
+            {
+              "id": 113,
+              "book": "alma",
+              "ch": 18
+            },
+            {
+              "id": 114,
+              "book": "alma",
+              "ch": 19
+            },
+            {
+              "id": 115,
+              "book": "alma",
+              "ch": 20
+            },
+            {
+              "id": 116,
+              "book": "alma",
+              "ch": 21
+            },
+            {
+              "id": 117,
+              "book": "alma",
+              "ch": 22
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "date_start": "2024-07-08",
+          "date_end": "2024-07-14",
+          "title_key": "plan.book-of-mormon-cfm.unit.28.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 23,
+              "to_ch": 29
+            }
+          ],
+          "nodes": [
+            {
+              "id": 118,
+              "book": "alma",
+              "ch": 23
+            },
+            {
+              "id": 119,
+              "book": "alma",
+              "ch": 24
+            },
+            {
+              "id": 120,
+              "book": "alma",
+              "ch": 25
+            },
+            {
+              "id": 121,
+              "book": "alma",
+              "ch": 26
+            },
+            {
+              "id": 122,
+              "book": "alma",
+              "ch": 27
+            },
+            {
+              "id": 123,
+              "book": "alma",
+              "ch": 28
+            },
+            {
+              "id": 124,
+              "book": "alma",
+              "ch": 29
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "date_start": "2024-07-15",
+          "date_end": "2024-07-21",
+          "title_key": "plan.book-of-mormon-cfm.unit.29.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 30,
+              "to_ch": 31
+            }
+          ],
+          "nodes": [
+            {
+              "id": 125,
+              "book": "alma",
+              "ch": 30
+            },
+            {
+              "id": 126,
+              "book": "alma",
+              "ch": 31
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "date_start": "2024-07-22",
+          "date_end": "2024-07-28",
+          "title_key": "plan.book-of-mormon-cfm.unit.30.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 32,
+              "to_ch": 35
+            }
+          ],
+          "nodes": [
+            {
+              "id": 127,
+              "book": "alma",
+              "ch": 32
+            },
+            {
+              "id": 128,
+              "book": "alma",
+              "ch": 33
+            },
+            {
+              "id": 129,
+              "book": "alma",
+              "ch": 34
+            },
+            {
+              "id": 130,
+              "book": "alma",
+              "ch": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "august",
+      "name_key": "plan.book-of-mormon-cfm.section.august.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.august.subtitle",
+      "units": [
+        {
+          "id": 31,
+          "date_start": "2024-07-29",
+          "date_end": "2024-08-04",
+          "title_key": "plan.book-of-mormon-cfm.unit.31.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 36,
+              "to_ch": 38
+            }
+          ],
+          "nodes": [
+            {
+              "id": 131,
+              "book": "alma",
+              "ch": 36
+            },
+            {
+              "id": 132,
+              "book": "alma",
+              "ch": 37
+            },
+            {
+              "id": 133,
+              "book": "alma",
+              "ch": 38
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "date_start": "2024-08-05",
+          "date_end": "2024-08-11",
+          "title_key": "plan.book-of-mormon-cfm.unit.32.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 39,
+              "to_ch": 42
+            }
+          ],
+          "nodes": [
+            {
+              "id": 134,
+              "book": "alma",
+              "ch": 39
+            },
+            {
+              "id": 135,
+              "book": "alma",
+              "ch": 40
+            },
+            {
+              "id": 136,
+              "book": "alma",
+              "ch": 41
+            },
+            {
+              "id": 137,
+              "book": "alma",
+              "ch": 42
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "date_start": "2024-08-12",
+          "date_end": "2024-08-18",
+          "title_key": "plan.book-of-mormon-cfm.unit.33.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 43,
+              "to_ch": 52
+            }
+          ],
+          "nodes": [
+            {
+              "id": 138,
+              "book": "alma",
+              "ch": 43
+            },
+            {
+              "id": 139,
+              "book": "alma",
+              "ch": 44
+            },
+            {
+              "id": 140,
+              "book": "alma",
+              "ch": 45
+            },
+            {
+              "id": 141,
+              "book": "alma",
+              "ch": 46
+            },
+            {
+              "id": 142,
+              "book": "alma",
+              "ch": 47
+            },
+            {
+              "id": 143,
+              "book": "alma",
+              "ch": 48
+            },
+            {
+              "id": 144,
+              "book": "alma",
+              "ch": 49
+            },
+            {
+              "id": 145,
+              "book": "alma",
+              "ch": 50
+            },
+            {
+              "id": 146,
+              "book": "alma",
+              "ch": 51
+            },
+            {
+              "id": 147,
+              "book": "alma",
+              "ch": 52
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "date_start": "2024-08-19",
+          "date_end": "2024-08-25",
+          "title_key": "plan.book-of-mormon-cfm.unit.34.title",
+          "ref_range": [
+            {
+              "book": "alma",
+              "from_ch": 53,
+              "to_ch": 63
+            }
+          ],
+          "nodes": [
+            {
+              "id": 148,
+              "book": "alma",
+              "ch": 53
+            },
+            {
+              "id": 149,
+              "book": "alma",
+              "ch": 54
+            },
+            {
+              "id": 150,
+              "book": "alma",
+              "ch": 55
+            },
+            {
+              "id": 151,
+              "book": "alma",
+              "ch": 56
+            },
+            {
+              "id": 152,
+              "book": "alma",
+              "ch": 57
+            },
+            {
+              "id": 153,
+              "book": "alma",
+              "ch": 58
+            },
+            {
+              "id": 154,
+              "book": "alma",
+              "ch": 59
+            },
+            {
+              "id": 155,
+              "book": "alma",
+              "ch": 60
+            },
+            {
+              "id": 156,
+              "book": "alma",
+              "ch": 61
+            },
+            {
+              "id": 157,
+              "book": "alma",
+              "ch": 62
+            },
+            {
+              "id": 158,
+              "book": "alma",
+              "ch": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "september",
+      "name_key": "plan.book-of-mormon-cfm.section.september.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.september.subtitle",
+      "units": [
+        {
+          "id": 35,
+          "date_start": "2024-08-26",
+          "date_end": "2024-09-01",
+          "title_key": "plan.book-of-mormon-cfm.unit.35.title",
+          "ref_range": [
+            {
+              "book": "hel",
+              "from_ch": 1,
+              "to_ch": 6
+            }
+          ],
+          "nodes": [
+            {
+              "id": 159,
+              "book": "hel",
+              "ch": 1
+            },
+            {
+              "id": 160,
+              "book": "hel",
+              "ch": 2
+            },
+            {
+              "id": 161,
+              "book": "hel",
+              "ch": 3
+            },
+            {
+              "id": 162,
+              "book": "hel",
+              "ch": 4
+            },
+            {
+              "id": 163,
+              "book": "hel",
+              "ch": 5
+            },
+            {
+              "id": 164,
+              "book": "hel",
+              "ch": 6
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "date_start": "2024-09-02",
+          "date_end": "2024-09-08",
+          "title_key": "plan.book-of-mormon-cfm.unit.36.title",
+          "ref_range": [
+            {
+              "book": "hel",
+              "from_ch": 7,
+              "to_ch": 12
+            }
+          ],
+          "nodes": [
+            {
+              "id": 165,
+              "book": "hel",
+              "ch": 7
+            },
+            {
+              "id": 166,
+              "book": "hel",
+              "ch": 8
+            },
+            {
+              "id": 167,
+              "book": "hel",
+              "ch": 9
+            },
+            {
+              "id": 168,
+              "book": "hel",
+              "ch": 10
+            },
+            {
+              "id": 169,
+              "book": "hel",
+              "ch": 11
+            },
+            {
+              "id": 170,
+              "book": "hel",
+              "ch": 12
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "date_start": "2024-09-09",
+          "date_end": "2024-09-15",
+          "title_key": "plan.book-of-mormon-cfm.unit.37.title",
+          "ref_range": [
+            {
+              "book": "hel",
+              "from_ch": 13,
+              "to_ch": 16
+            }
+          ],
+          "nodes": [
+            {
+              "id": 171,
+              "book": "hel",
+              "ch": 13
+            },
+            {
+              "id": 172,
+              "book": "hel",
+              "ch": 14
+            },
+            {
+              "id": 173,
+              "book": "hel",
+              "ch": 15
+            },
+            {
+              "id": 174,
+              "book": "hel",
+              "ch": 16
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "date_start": "2024-09-16",
+          "date_end": "2024-09-22",
+          "title_key": "plan.book-of-mormon-cfm.unit.38.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 1,
+              "to_ch": 7
+            }
+          ],
+          "nodes": [
+            {
+              "id": 175,
+              "book": "3-ne",
+              "ch": 1
+            },
+            {
+              "id": 176,
+              "book": "3-ne",
+              "ch": 2
+            },
+            {
+              "id": 177,
+              "book": "3-ne",
+              "ch": 3
+            },
+            {
+              "id": 178,
+              "book": "3-ne",
+              "ch": 4
+            },
+            {
+              "id": 179,
+              "book": "3-ne",
+              "ch": 5
+            },
+            {
+              "id": 180,
+              "book": "3-ne",
+              "ch": 6
+            },
+            {
+              "id": 181,
+              "book": "3-ne",
+              "ch": 7
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "date_start": "2024-09-23",
+          "date_end": "2024-09-29",
+          "title_key": "plan.book-of-mormon-cfm.unit.39.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 8,
+              "to_ch": 11
+            }
+          ],
+          "nodes": [
+            {
+              "id": 182,
+              "book": "3-ne",
+              "ch": 8
+            },
+            {
+              "id": 183,
+              "book": "3-ne",
+              "ch": 9
+            },
+            {
+              "id": 184,
+              "book": "3-ne",
+              "ch": 10
+            },
+            {
+              "id": 185,
+              "book": "3-ne",
+              "ch": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "october",
+      "name_key": "plan.book-of-mormon-cfm.section.october.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.october.subtitle",
+      "units": [
+        {
+          "id": 40,
+          "date_start": "2024-09-30",
+          "date_end": "2024-10-06",
+          "title_key": "plan.book-of-mormon-cfm.unit.40.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 12,
+              "to_ch": 16
+            }
+          ],
+          "nodes": [
+            {
+              "id": 186,
+              "book": "3-ne",
+              "ch": 12
+            },
+            {
+              "id": 187,
+              "book": "3-ne",
+              "ch": 13
+            },
+            {
+              "id": 188,
+              "book": "3-ne",
+              "ch": 14
+            },
+            {
+              "id": 189,
+              "book": "3-ne",
+              "ch": 15
+            },
+            {
+              "id": 190,
+              "book": "3-ne",
+              "ch": 16
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "date_start": "2024-10-07",
+          "date_end": "2024-10-13",
+          "title_key": "plan.book-of-mormon-cfm.unit.41.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 17,
+              "to_ch": 19
+            }
+          ],
+          "nodes": [
+            {
+              "id": 191,
+              "book": "3-ne",
+              "ch": 17
+            },
+            {
+              "id": 192,
+              "book": "3-ne",
+              "ch": 18
+            },
+            {
+              "id": 193,
+              "book": "3-ne",
+              "ch": 19
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "date_start": "2024-10-14",
+          "date_end": "2024-10-20",
+          "title_key": "plan.book-of-mormon-cfm.unit.42.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 20,
+              "to_ch": 26
+            }
+          ],
+          "nodes": [
+            {
+              "id": 194,
+              "book": "3-ne",
+              "ch": 20
+            },
+            {
+              "id": 195,
+              "book": "3-ne",
+              "ch": 21
+            },
+            {
+              "id": 196,
+              "book": "3-ne",
+              "ch": 22
+            },
+            {
+              "id": 197,
+              "book": "3-ne",
+              "ch": 23
+            },
+            {
+              "id": 198,
+              "book": "3-ne",
+              "ch": 24
+            },
+            {
+              "id": 199,
+              "book": "3-ne",
+              "ch": 25
+            },
+            {
+              "id": 200,
+              "book": "3-ne",
+              "ch": 26
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "date_start": "2024-10-21",
+          "date_end": "2024-10-27",
+          "title_key": "plan.book-of-mormon-cfm.unit.43.title",
+          "ref_range": [
+            {
+              "book": "3-ne",
+              "from_ch": 27,
+              "to_ch": 30
+            },
+            {
+              "book": "4-ne",
+              "from_ch": 1,
+              "to_ch": 1
+            }
+          ],
+          "nodes": [
+            {
+              "id": 201,
+              "book": "3-ne",
+              "ch": 27
+            },
+            {
+              "id": 202,
+              "book": "3-ne",
+              "ch": 28
+            },
+            {
+              "id": 203,
+              "book": "3-ne",
+              "ch": 29
+            },
+            {
+              "id": 204,
+              "book": "3-ne",
+              "ch": 30
+            },
+            {
+              "id": 205,
+              "book": "4-ne",
+              "ch": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "november",
+      "name_key": "plan.book-of-mormon-cfm.section.november.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.november.subtitle",
+      "units": [
+        {
+          "id": 44,
+          "date_start": "2024-10-28",
+          "date_end": "2024-11-03",
+          "title_key": "plan.book-of-mormon-cfm.unit.44.title",
+          "ref_range": [
+            {
+              "book": "morm",
+              "from_ch": 1,
+              "to_ch": 6
+            }
+          ],
+          "nodes": [
+            {
+              "id": 206,
+              "book": "morm",
+              "ch": 1
+            },
+            {
+              "id": 207,
+              "book": "morm",
+              "ch": 2
+            },
+            {
+              "id": 208,
+              "book": "morm",
+              "ch": 3
+            },
+            {
+              "id": 209,
+              "book": "morm",
+              "ch": 4
+            },
+            {
+              "id": 210,
+              "book": "morm",
+              "ch": 5
+            },
+            {
+              "id": 211,
+              "book": "morm",
+              "ch": 6
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "date_start": "2024-11-04",
+          "date_end": "2024-11-10",
+          "title_key": "plan.book-of-mormon-cfm.unit.45.title",
+          "ref_range": [
+            {
+              "book": "morm",
+              "from_ch": 7,
+              "to_ch": 9
+            }
+          ],
+          "nodes": [
+            {
+              "id": 212,
+              "book": "morm",
+              "ch": 7
+            },
+            {
+              "id": 213,
+              "book": "morm",
+              "ch": 8
+            },
+            {
+              "id": 214,
+              "book": "morm",
+              "ch": 9
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "date_start": "2024-11-11",
+          "date_end": "2024-11-17",
+          "title_key": "plan.book-of-mormon-cfm.unit.46.title",
+          "ref_range": [
+            {
+              "book": "ether",
+              "from_ch": 1,
+              "to_ch": 5
+            }
+          ],
+          "nodes": [
+            {
+              "id": 215,
+              "book": "ether",
+              "ch": 1
+            },
+            {
+              "id": 216,
+              "book": "ether",
+              "ch": 2
+            },
+            {
+              "id": 217,
+              "book": "ether",
+              "ch": 3
+            },
+            {
+              "id": 218,
+              "book": "ether",
+              "ch": 4
+            },
+            {
+              "id": 219,
+              "book": "ether",
+              "ch": 5
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "date_start": "2024-11-18",
+          "date_end": "2024-11-24",
+          "title_key": "plan.book-of-mormon-cfm.unit.47.title",
+          "ref_range": [
+            {
+              "book": "ether",
+              "from_ch": 6,
+              "to_ch": 11
+            }
+          ],
+          "nodes": [
+            {
+              "id": 220,
+              "book": "ether",
+              "ch": 6
+            },
+            {
+              "id": 221,
+              "book": "ether",
+              "ch": 7
+            },
+            {
+              "id": 222,
+              "book": "ether",
+              "ch": 8
+            },
+            {
+              "id": 223,
+              "book": "ether",
+              "ch": 9
+            },
+            {
+              "id": 224,
+              "book": "ether",
+              "ch": 10
+            },
+            {
+              "id": 225,
+              "book": "ether",
+              "ch": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "december",
+      "name_key": "plan.book-of-mormon-cfm.section.december.name",
+      "subtitle_key": "plan.book-of-mormon-cfm.section.december.subtitle",
+      "units": [
+        {
+          "id": 48,
+          "date_start": "2024-11-25",
+          "date_end": "2024-12-01",
+          "title_key": "plan.book-of-mormon-cfm.unit.48.title",
+          "ref_range": [
+            {
+              "book": "ether",
+              "from_ch": 12,
+              "to_ch": 15
+            }
+          ],
+          "nodes": [
+            {
+              "id": 226,
+              "book": "ether",
+              "ch": 12
+            },
+            {
+              "id": 227,
+              "book": "ether",
+              "ch": 13
+            },
+            {
+              "id": 228,
+              "book": "ether",
+              "ch": 14
+            },
+            {
+              "id": 229,
+              "book": "ether",
+              "ch": 15
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "date_start": "2024-12-02",
+          "date_end": "2024-12-08",
+          "title_key": "plan.book-of-mormon-cfm.unit.49.title",
+          "ref_range": [
+            {
+              "book": "moro",
+              "from_ch": 1,
+              "to_ch": 6
+            }
+          ],
+          "nodes": [
+            {
+              "id": 230,
+              "book": "moro",
+              "ch": 1
+            },
+            {
+              "id": 231,
+              "book": "moro",
+              "ch": 2
+            },
+            {
+              "id": 232,
+              "book": "moro",
+              "ch": 3
+            },
+            {
+              "id": 233,
+              "book": "moro",
+              "ch": 4
+            },
+            {
+              "id": 234,
+              "book": "moro",
+              "ch": 5
+            },
+            {
+              "id": 235,
+              "book": "moro",
+              "ch": 6
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "date_start": "2024-12-09",
+          "date_end": "2024-12-15",
+          "title_key": "plan.book-of-mormon-cfm.unit.50.title",
+          "ref_range": [
+            {
+              "book": "moro",
+              "from_ch": 7,
+              "to_ch": 9
+            }
+          ],
+          "nodes": [
+            {
+              "id": 236,
+              "book": "moro",
+              "ch": 7
+            },
+            {
+              "id": 237,
+              "book": "moro",
+              "ch": 8
+            },
+            {
+              "id": 238,
+              "book": "moro",
+              "ch": 9
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "date_start": "2024-12-16",
+          "date_end": "2024-12-22",
+          "title_key": "plan.book-of-mormon-cfm.unit.51.title",
+          "ref_range": [
+            {
+              "book": "moro",
+              "from_ch": 10,
+              "to_ch": 10
+            }
+          ],
+          "nodes": [
+            {
+              "id": 239,
+              "book": "moro",
+              "ch": 10
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "date_start": "2024-12-23",
+          "date_end": "2024-12-29",
+          "title_key": "plan.book-of-mormon-cfm.unit.52.title",
+          "ref_range": [],
+          "nodes": []
+        }
+      ]
+    }
+  ]
+}

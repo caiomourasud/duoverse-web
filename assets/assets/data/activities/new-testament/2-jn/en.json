@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "book": "2-jn",
+  "chapters": {
+    "1": [
+      {
+        "id": "2-jn-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "The shortest of letters",
+        "body": "Second John is among the shortest books in the Bible—just thirteen verses. Its author calls himself simply “the elder,” understood to be the Apostle John."
+      },
+      {
+        "id": "2-jn-1-fb-1",
+        "type": "fill_blank",
+        "after_verse": 1,
+        "verse": 1,
+        "template": "The elder unto the elect {0} and her children",
+        "blanks": [
+          "lady"
+        ],
+        "distractors": [
+          "sister",
+          "mother",
+          "daughter"
+        ]
+      },
+      {
+        "id": "2-jn-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What do the “many deceivers” refuse to confess (v. 7)?",
+        "options": [
+          "That Jesus Christ is come in the flesh",
+          "That the law of Moses is fulfilled",
+          "That John is an apostle",
+          "That the temple will be rebuilt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "2-jn-1-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "He that abideth in the {0} of Christ, he hath both the Father and the Son",
+        "blanks": [
+          "doctrine"
+        ],
+        "distractors": [
+          "law",
+          "gospel",
+          "name"
+        ]
+      },
+      {
+        "id": "2-jn-1-cur-12",
+        "type": "curiosity",
+        "after_verse": 12,
+        "title": "Paper and ink",
+        "body": "John says he would rather not write with “paper and ink” but speak face to face—a glimpse of how letters were carried between early Christian congregations."
+      },
+      {
+        "id": "2-jn-1-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "Rather than writing everything with paper and ink, what did John hope to do (v. 12)?",
+        "options": [
+          "Come and speak face to face",
+          "Send another apostle",
+          "Wait for the Lord's return",
+          "Call a council at Jerusalem"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

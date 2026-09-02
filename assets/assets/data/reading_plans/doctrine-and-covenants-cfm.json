@@ -1,0 +1,1572 @@
+{
+ "plan_id": "doctrine-and-covenants-cfm",
+ "schema_version": 1,
+ "type": "scripture-reading",
+ "schedule_type": "dated",
+ "scripture": "dc",
+ "total_nodes": 140,
+ "total_units": 52,
+ "total_sections": 13,
+ "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc",
+ "name_key": "plan.doctrine-and-covenants-cfm.name",
+ "subtitle_key": "plan.doctrine-and-covenants-cfm.subtitle",
+ "source_key": "plan.doctrine-and-covenants-cfm.source",
+ "sections": [
+  {
+   "id": 1,
+   "slug": "2024-12",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2024-12.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2024-12.subtitle",
+   "units": [
+    {
+     "id": 1,
+     "date_start": "2024-12-30",
+     "date_end": "2025-01-05",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.1.title",
+     "ref_range": [],
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "2025-01",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-01.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-01.subtitle",
+   "units": [
+    {
+     "id": 2,
+     "date_start": "2025-01-06",
+     "date_end": "2025-01-12",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.2.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 1,
+       "book": "dc",
+       "ch": 1
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "date_start": "2025-01-13",
+     "date_end": "2025-01-19",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.3.title",
+     "ref_range": [
+      {
+       "book": "js-h",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 2,
+       "book": "js-h",
+       "ch": 1
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "date_start": "2025-01-20",
+     "date_end": "2025-01-26",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.4.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 2,
+       "to_ch": 2
+      }
+     ],
+     "nodes": [
+      {
+       "id": 3,
+       "book": "dc",
+       "ch": 2
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "date_start": "2025-01-27",
+     "date_end": "2025-02-02",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.5.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 3,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 4,
+       "book": "dc",
+       "ch": 3
+      },
+      {
+       "id": 5,
+       "book": "dc",
+       "ch": 4
+      },
+      {
+       "id": 6,
+       "book": "dc",
+       "ch": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "2025-02",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-02.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-02.subtitle",
+   "units": [
+    {
+     "id": 6,
+     "date_start": "2025-02-03",
+     "date_end": "2025-02-09",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.6.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 6,
+       "to_ch": 9
+      }
+     ],
+     "nodes": [
+      {
+       "id": 7,
+       "book": "dc",
+       "ch": 6
+      },
+      {
+       "id": 8,
+       "book": "dc",
+       "ch": 7
+      },
+      {
+       "id": 9,
+       "book": "dc",
+       "ch": 8
+      },
+      {
+       "id": 10,
+       "book": "dc",
+       "ch": 9
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "date_start": "2025-02-10",
+     "date_end": "2025-02-16",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.7.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 10,
+       "to_ch": 11
+      }
+     ],
+     "nodes": [
+      {
+       "id": 11,
+       "book": "dc",
+       "ch": 10
+      },
+      {
+       "id": 12,
+       "book": "dc",
+       "ch": 11
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "date_start": "2025-02-17",
+     "date_end": "2025-02-23",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.8.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 12,
+       "to_ch": 17
+      }
+     ],
+     "nodes": [
+      {
+       "id": 13,
+       "book": "dc",
+       "ch": 12
+      },
+      {
+       "id": 14,
+       "book": "dc",
+       "ch": 13
+      },
+      {
+       "id": 15,
+       "book": "dc",
+       "ch": 14
+      },
+      {
+       "id": 16,
+       "book": "dc",
+       "ch": 15
+      },
+      {
+       "id": 17,
+       "book": "dc",
+       "ch": 16
+      },
+      {
+       "id": 18,
+       "book": "dc",
+       "ch": 17
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "date_start": "2025-02-24",
+     "date_end": "2025-03-02",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.9.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 18,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 19,
+       "book": "dc",
+       "ch": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "2025-03",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-03.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-03.subtitle",
+   "units": [
+    {
+     "id": 10,
+     "date_start": "2025-03-03",
+     "date_end": "2025-03-09",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.10.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 19,
+       "to_ch": 19
+      }
+     ],
+     "nodes": [
+      {
+       "id": 20,
+       "book": "dc",
+       "ch": 19
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "date_start": "2025-03-10",
+     "date_end": "2025-03-16",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.11.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 20,
+       "to_ch": 22
+      }
+     ],
+     "nodes": [
+      {
+       "id": 21,
+       "book": "dc",
+       "ch": 20
+      },
+      {
+       "id": 22,
+       "book": "dc",
+       "ch": 21
+      },
+      {
+       "id": 23,
+       "book": "dc",
+       "ch": 22
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "date_start": "2025-03-17",
+     "date_end": "2025-03-23",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.12.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 23,
+       "to_ch": 26
+      }
+     ],
+     "nodes": [
+      {
+       "id": 24,
+       "book": "dc",
+       "ch": 23
+      },
+      {
+       "id": 25,
+       "book": "dc",
+       "ch": 24
+      },
+      {
+       "id": 26,
+       "book": "dc",
+       "ch": 25
+      },
+      {
+       "id": 27,
+       "book": "dc",
+       "ch": 26
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "date_start": "2025-03-24",
+     "date_end": "2025-03-30",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.13.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 27,
+       "to_ch": 28
+      }
+     ],
+     "nodes": [
+      {
+       "id": 28,
+       "book": "dc",
+       "ch": 27
+      },
+      {
+       "id": 29,
+       "book": "dc",
+       "ch": 28
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "date_start": "2025-03-31",
+     "date_end": "2025-04-06",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.14.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 29,
+       "to_ch": 29
+      }
+     ],
+     "nodes": [
+      {
+       "id": 30,
+       "book": "dc",
+       "ch": 29
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "2025-04",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-04.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-04.subtitle",
+   "units": [
+    {
+     "id": 15,
+     "date_start": "2025-04-07",
+     "date_end": "2025-04-13",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.15.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 30,
+       "to_ch": 36
+      }
+     ],
+     "nodes": [
+      {
+       "id": 31,
+       "book": "dc",
+       "ch": 30
+      },
+      {
+       "id": 32,
+       "book": "dc",
+       "ch": 31
+      },
+      {
+       "id": 33,
+       "book": "dc",
+       "ch": 32
+      },
+      {
+       "id": 34,
+       "book": "dc",
+       "ch": 33
+      },
+      {
+       "id": 35,
+       "book": "dc",
+       "ch": 34
+      },
+      {
+       "id": 36,
+       "book": "dc",
+       "ch": 35
+      },
+      {
+       "id": 37,
+       "book": "dc",
+       "ch": 36
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "date_start": "2025-04-14",
+     "date_end": "2025-04-20",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.16.title",
+     "ref_range": [],
+     "nodes": []
+    },
+    {
+     "id": 17,
+     "date_start": "2025-04-21",
+     "date_end": "2025-04-27",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.17.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 37,
+       "to_ch": 40
+      }
+     ],
+     "nodes": [
+      {
+       "id": 38,
+       "book": "dc",
+       "ch": 37
+      },
+      {
+       "id": 39,
+       "book": "dc",
+       "ch": 38
+      },
+      {
+       "id": 40,
+       "book": "dc",
+       "ch": 39
+      },
+      {
+       "id": 41,
+       "book": "dc",
+       "ch": 40
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "date_start": "2025-04-28",
+     "date_end": "2025-05-04",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.18.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 41,
+       "to_ch": 44
+      }
+     ],
+     "nodes": [
+      {
+       "id": 42,
+       "book": "dc",
+       "ch": 41
+      },
+      {
+       "id": 43,
+       "book": "dc",
+       "ch": 42
+      },
+      {
+       "id": 44,
+       "book": "dc",
+       "ch": 43
+      },
+      {
+       "id": 45,
+       "book": "dc",
+       "ch": 44
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "slug": "2025-05",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-05.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-05.subtitle",
+   "units": [
+    {
+     "id": 19,
+     "date_start": "2025-05-05",
+     "date_end": "2025-05-11",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.19.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 45,
+       "to_ch": 45
+      }
+     ],
+     "nodes": [
+      {
+       "id": 46,
+       "book": "dc",
+       "ch": 45
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "date_start": "2025-05-12",
+     "date_end": "2025-05-18",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.20.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 46,
+       "to_ch": 48
+      }
+     ],
+     "nodes": [
+      {
+       "id": 47,
+       "book": "dc",
+       "ch": 46
+      },
+      {
+       "id": 48,
+       "book": "dc",
+       "ch": 47
+      },
+      {
+       "id": 49,
+       "book": "dc",
+       "ch": 48
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "date_start": "2025-05-19",
+     "date_end": "2025-05-25",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.21.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 49,
+       "to_ch": 50
+      }
+     ],
+     "nodes": [
+      {
+       "id": 50,
+       "book": "dc",
+       "ch": 49
+      },
+      {
+       "id": 51,
+       "book": "dc",
+       "ch": 50
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "date_start": "2025-05-26",
+     "date_end": "2025-06-01",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.22.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 51,
+       "to_ch": 57
+      }
+     ],
+     "nodes": [
+      {
+       "id": 52,
+       "book": "dc",
+       "ch": 51
+      },
+      {
+       "id": 53,
+       "book": "dc",
+       "ch": 52
+      },
+      {
+       "id": 54,
+       "book": "dc",
+       "ch": 53
+      },
+      {
+       "id": 55,
+       "book": "dc",
+       "ch": 54
+      },
+      {
+       "id": 56,
+       "book": "dc",
+       "ch": 55
+      },
+      {
+       "id": 57,
+       "book": "dc",
+       "ch": 56
+      },
+      {
+       "id": 58,
+       "book": "dc",
+       "ch": 57
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "slug": "2025-06",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-06.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-06.subtitle",
+   "units": [
+    {
+     "id": 23,
+     "date_start": "2025-06-02",
+     "date_end": "2025-06-08",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.23.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 58,
+       "to_ch": 59
+      }
+     ],
+     "nodes": [
+      {
+       "id": 59,
+       "book": "dc",
+       "ch": 58
+      },
+      {
+       "id": 60,
+       "book": "dc",
+       "ch": 59
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "date_start": "2025-06-09",
+     "date_end": "2025-06-15",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.24.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 60,
+       "to_ch": 63
+      }
+     ],
+     "nodes": [
+      {
+       "id": 61,
+       "book": "dc",
+       "ch": 60
+      },
+      {
+       "id": 62,
+       "book": "dc",
+       "ch": 61
+      },
+      {
+       "id": 63,
+       "book": "dc",
+       "ch": 62
+      },
+      {
+       "id": 64,
+       "book": "dc",
+       "ch": 63
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "date_start": "2025-06-16",
+     "date_end": "2025-06-22",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.25.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 64,
+       "to_ch": 66
+      }
+     ],
+     "nodes": [
+      {
+       "id": 65,
+       "book": "dc",
+       "ch": 64
+      },
+      {
+       "id": 66,
+       "book": "dc",
+       "ch": 65
+      },
+      {
+       "id": 67,
+       "book": "dc",
+       "ch": 66
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "date_start": "2025-06-23",
+     "date_end": "2025-06-29",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.26.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 67,
+       "to_ch": 70
+      }
+     ],
+     "nodes": [
+      {
+       "id": 68,
+       "book": "dc",
+       "ch": 67
+      },
+      {
+       "id": 69,
+       "book": "dc",
+       "ch": 68
+      },
+      {
+       "id": 70,
+       "book": "dc",
+       "ch": 69
+      },
+      {
+       "id": 71,
+       "book": "dc",
+       "ch": 70
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "date_start": "2025-06-30",
+     "date_end": "2025-07-06",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.27.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 71,
+       "to_ch": 75
+      }
+     ],
+     "nodes": [
+      {
+       "id": 72,
+       "book": "dc",
+       "ch": 71
+      },
+      {
+       "id": 73,
+       "book": "dc",
+       "ch": 72
+      },
+      {
+       "id": 74,
+       "book": "dc",
+       "ch": 73
+      },
+      {
+       "id": 75,
+       "book": "dc",
+       "ch": 74
+      },
+      {
+       "id": 76,
+       "book": "dc",
+       "ch": 75
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "slug": "2025-07",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-07.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-07.subtitle",
+   "units": [
+    {
+     "id": 28,
+     "date_start": "2025-07-07",
+     "date_end": "2025-07-13",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.28.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 76,
+       "to_ch": 76
+      }
+     ],
+     "nodes": [
+      {
+       "id": 77,
+       "book": "dc",
+       "ch": 76
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "date_start": "2025-07-14",
+     "date_end": "2025-07-20",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.29.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 77,
+       "to_ch": 80
+      }
+     ],
+     "nodes": [
+      {
+       "id": 78,
+       "book": "dc",
+       "ch": 77
+      },
+      {
+       "id": 79,
+       "book": "dc",
+       "ch": 78
+      },
+      {
+       "id": 80,
+       "book": "dc",
+       "ch": 79
+      },
+      {
+       "id": 81,
+       "book": "dc",
+       "ch": 80
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "date_start": "2025-07-21",
+     "date_end": "2025-07-27",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.30.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 81,
+       "to_ch": 83
+      }
+     ],
+     "nodes": [
+      {
+       "id": 82,
+       "book": "dc",
+       "ch": 81
+      },
+      {
+       "id": 83,
+       "book": "dc",
+       "ch": 82
+      },
+      {
+       "id": 84,
+       "book": "dc",
+       "ch": 83
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "date_start": "2025-07-28",
+     "date_end": "2025-08-03",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.31.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 84,
+       "to_ch": 84
+      }
+     ],
+     "nodes": [
+      {
+       "id": 85,
+       "book": "dc",
+       "ch": 84
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "slug": "2025-08",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-08.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-08.subtitle",
+   "units": [
+    {
+     "id": 32,
+     "date_start": "2025-08-04",
+     "date_end": "2025-08-10",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.32.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 85,
+       "to_ch": 87
+      }
+     ],
+     "nodes": [
+      {
+       "id": 86,
+       "book": "dc",
+       "ch": 85
+      },
+      {
+       "id": 87,
+       "book": "dc",
+       "ch": 86
+      },
+      {
+       "id": 88,
+       "book": "dc",
+       "ch": 87
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "date_start": "2025-08-11",
+     "date_end": "2025-08-17",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.33.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 88,
+       "to_ch": 88
+      }
+     ],
+     "nodes": [
+      {
+       "id": 89,
+       "book": "dc",
+       "ch": 88
+      }
+     ]
+    },
+    {
+     "id": 34,
+     "date_start": "2025-08-18",
+     "date_end": "2025-08-24",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.34.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 89,
+       "to_ch": 92
+      }
+     ],
+     "nodes": [
+      {
+       "id": 90,
+       "book": "dc",
+       "ch": 89
+      },
+      {
+       "id": 91,
+       "book": "dc",
+       "ch": 90
+      },
+      {
+       "id": 92,
+       "book": "dc",
+       "ch": 91
+      },
+      {
+       "id": 93,
+       "book": "dc",
+       "ch": 92
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "date_start": "2025-08-25",
+     "date_end": "2025-08-31",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.35.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 93,
+       "to_ch": 93
+      }
+     ],
+     "nodes": [
+      {
+       "id": 94,
+       "book": "dc",
+       "ch": 93
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "slug": "2025-09",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-09.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-09.subtitle",
+   "units": [
+    {
+     "id": 36,
+     "date_start": "2025-09-01",
+     "date_end": "2025-09-07",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.36.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 94,
+       "to_ch": 97
+      }
+     ],
+     "nodes": [
+      {
+       "id": 95,
+       "book": "dc",
+       "ch": 94
+      },
+      {
+       "id": 96,
+       "book": "dc",
+       "ch": 95
+      },
+      {
+       "id": 97,
+       "book": "dc",
+       "ch": 96
+      },
+      {
+       "id": 98,
+       "book": "dc",
+       "ch": 97
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "date_start": "2025-09-08",
+     "date_end": "2025-09-14",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.37.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 98,
+       "to_ch": 101
+      }
+     ],
+     "nodes": [
+      {
+       "id": 99,
+       "book": "dc",
+       "ch": 98
+      },
+      {
+       "id": 100,
+       "book": "dc",
+       "ch": 99
+      },
+      {
+       "id": 101,
+       "book": "dc",
+       "ch": 100
+      },
+      {
+       "id": 102,
+       "book": "dc",
+       "ch": 101
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "date_start": "2025-09-15",
+     "date_end": "2025-09-21",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.38.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 102,
+       "to_ch": 105
+      }
+     ],
+     "nodes": [
+      {
+       "id": 103,
+       "book": "dc",
+       "ch": 102
+      },
+      {
+       "id": 104,
+       "book": "dc",
+       "ch": 103
+      },
+      {
+       "id": 105,
+       "book": "dc",
+       "ch": 104
+      },
+      {
+       "id": 106,
+       "book": "dc",
+       "ch": 105
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "date_start": "2025-09-22",
+     "date_end": "2025-09-28",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.39.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 106,
+       "to_ch": 108
+      }
+     ],
+     "nodes": [
+      {
+       "id": 107,
+       "book": "dc",
+       "ch": 106
+      },
+      {
+       "id": 108,
+       "book": "dc",
+       "ch": 107
+      },
+      {
+       "id": 109,
+       "book": "dc",
+       "ch": 108
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "date_start": "2025-09-29",
+     "date_end": "2025-10-05",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.40.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 109,
+       "to_ch": 110
+      }
+     ],
+     "nodes": [
+      {
+       "id": 110,
+       "book": "dc",
+       "ch": 109
+      },
+      {
+       "id": 111,
+       "book": "dc",
+       "ch": 110
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "slug": "2025-10",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-10.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-10.subtitle",
+   "units": [
+    {
+     "id": 41,
+     "date_start": "2025-10-06",
+     "date_end": "2025-10-12",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.41.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 111,
+       "to_ch": 114
+      }
+     ],
+     "nodes": [
+      {
+       "id": 112,
+       "book": "dc",
+       "ch": 111
+      },
+      {
+       "id": 113,
+       "book": "dc",
+       "ch": 112
+      },
+      {
+       "id": 114,
+       "book": "dc",
+       "ch": 113
+      },
+      {
+       "id": 115,
+       "book": "dc",
+       "ch": 114
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "date_start": "2025-10-13",
+     "date_end": "2025-10-19",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.42.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 115,
+       "to_ch": 120
+      }
+     ],
+     "nodes": [
+      {
+       "id": 116,
+       "book": "dc",
+       "ch": 115
+      },
+      {
+       "id": 117,
+       "book": "dc",
+       "ch": 116
+      },
+      {
+       "id": 118,
+       "book": "dc",
+       "ch": 117
+      },
+      {
+       "id": 119,
+       "book": "dc",
+       "ch": 118
+      },
+      {
+       "id": 120,
+       "book": "dc",
+       "ch": 119
+      },
+      {
+       "id": 121,
+       "book": "dc",
+       "ch": 120
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "date_start": "2025-10-20",
+     "date_end": "2025-10-26",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.43.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 121,
+       "to_ch": 123
+      }
+     ],
+     "nodes": [
+      {
+       "id": 122,
+       "book": "dc",
+       "ch": 121
+      },
+      {
+       "id": 123,
+       "book": "dc",
+       "ch": 122
+      },
+      {
+       "id": 124,
+       "book": "dc",
+       "ch": 123
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "date_start": "2025-10-27",
+     "date_end": "2025-11-02",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.44.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 124,
+       "to_ch": 124
+      }
+     ],
+     "nodes": [
+      {
+       "id": 125,
+       "book": "dc",
+       "ch": 124
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "slug": "2025-11",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-11.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-11.subtitle",
+   "units": [
+    {
+     "id": 45,
+     "date_start": "2025-11-03",
+     "date_end": "2025-11-09",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.45.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 125,
+       "to_ch": 128
+      }
+     ],
+     "nodes": [
+      {
+       "id": 126,
+       "book": "dc",
+       "ch": 125
+      },
+      {
+       "id": 127,
+       "book": "dc",
+       "ch": 126
+      },
+      {
+       "id": 128,
+       "book": "dc",
+       "ch": 127
+      },
+      {
+       "id": 129,
+       "book": "dc",
+       "ch": 128
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "date_start": "2025-11-10",
+     "date_end": "2025-11-16",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.46.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 129,
+       "to_ch": 132
+      }
+     ],
+     "nodes": [
+      {
+       "id": 130,
+       "book": "dc",
+       "ch": 129
+      },
+      {
+       "id": 131,
+       "book": "dc",
+       "ch": 130
+      },
+      {
+       "id": 132,
+       "book": "dc",
+       "ch": 131
+      },
+      {
+       "id": 133,
+       "book": "dc",
+       "ch": 132
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "date_start": "2025-11-17",
+     "date_end": "2025-11-23",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.47.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 133,
+       "to_ch": 134
+      }
+     ],
+     "nodes": [
+      {
+       "id": 134,
+       "book": "dc",
+       "ch": 133
+      },
+      {
+       "id": 135,
+       "book": "dc",
+       "ch": 134
+      }
+     ]
+    },
+    {
+     "id": 48,
+     "date_start": "2025-11-24",
+     "date_end": "2025-11-30",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.48.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 135,
+       "to_ch": 136
+      }
+     ],
+     "nodes": [
+      {
+       "id": 136,
+       "book": "dc",
+       "ch": 135
+      },
+      {
+       "id": 137,
+       "book": "dc",
+       "ch": 136
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "slug": "2025-12",
+   "name_key": "plan.doctrine-and-covenants-cfm.section.2025-12.name",
+   "subtitle_key": "plan.doctrine-and-covenants-cfm.section.2025-12.subtitle",
+   "units": [
+    {
+     "id": 49,
+     "date_start": "2025-12-01",
+     "date_end": "2025-12-07",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.49.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 137,
+       "to_ch": 138
+      }
+     ],
+     "nodes": [
+      {
+       "id": 138,
+       "book": "dc",
+       "ch": 137
+      },
+      {
+       "id": 139,
+       "book": "dc",
+       "ch": 138
+      }
+     ]
+    },
+    {
+     "id": 50,
+     "date_start": "2025-12-08",
+     "date_end": "2025-12-14",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.50.title",
+     "ref_range": [
+      {
+       "book": "a-of-f",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 140,
+       "book": "a-of-f",
+       "ch": 1
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "date_start": "2025-12-15",
+     "date_end": "2025-12-21",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.51.title",
+     "ref_range": [],
+     "nodes": []
+    },
+    {
+     "id": 52,
+     "date_start": "2025-12-22",
+     "date_end": "2025-12-28",
+     "title_key": "plan.doctrine-and-covenants-cfm.unit.52.title",
+     "ref_range": [],
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}
