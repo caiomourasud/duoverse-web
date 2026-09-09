@@ -1,0 +1,599 @@
+{
+  "plan_id": "new-testament-cfm",
+  "schema_version": 1,
+  "type": "scripture-reading",
+  "schedule_type": "dated",
+  "scripture": "nt",
+  "total_nodes": 261,
+  "total_units": 53,
+  "total_sections": 12,
+  "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/nt",
+  "name_key": "plan.nt-cfm.name",
+  "subtitle_key": "plan.nt-cfm.subtitle",
+  "source_key": "plan.nt-cfm.source",
+  "sections": [
+    {
+      "id": 1,
+      "slug": "january",
+      "name_key": "plan.nt-cfm.section.january.name",
+      "subtitle_key": "plan.nt-cfm.section.january.subtitle",
+      "units": [
+        {
+          "id": 1, "date_start": "2022-12-26", "date_end": "2023-01-01",
+          "title_key": "plan.nt-cfm.unit.1.title",
+          "ref_range": [],
+          "nodes": []
+        },
+        {
+          "id": 2, "date_start": "2023-01-02", "date_end": "2023-01-08",
+          "title_key": "plan.nt-cfm.unit.2.title",
+          "ref_range": [{"book":"matt","from_ch":1,"to_ch":1},{"book":"luke","from_ch":1,"to_ch":1}],
+          "nodes": [
+            {"id":1,"book":"matt","ch":1},
+            {"id":2,"book":"luke","ch":1}
+          ]
+        },
+        {
+          "id": 3, "date_start": "2023-01-09", "date_end": "2023-01-15",
+          "title_key": "plan.nt-cfm.unit.3.title",
+          "ref_range": [{"book":"matt","from_ch":2,"to_ch":2},{"book":"luke","from_ch":2,"to_ch":2}],
+          "nodes": [
+            {"id":3,"book":"matt","ch":2},
+            {"id":4,"book":"luke","ch":2}
+          ]
+        },
+        {
+          "id": 4, "date_start": "2023-01-16", "date_end": "2023-01-22",
+          "title_key": "plan.nt-cfm.unit.4.title",
+          "ref_range": [{"book":"john","from_ch":1,"to_ch":1}],
+          "nodes": [
+            {"id":5,"book":"john","ch":1}
+          ]
+        },
+        {
+          "id": 5, "date_start": "2023-01-23", "date_end": "2023-01-29",
+          "title_key": "plan.nt-cfm.unit.5.title",
+          "ref_range": [{"book":"matt","from_ch":3,"to_ch":3},{"book":"mark","from_ch":1,"to_ch":1},{"book":"luke","from_ch":3,"to_ch":3}],
+          "nodes": [
+            {"id":6,"book":"matt","ch":3},
+            {"id":7,"book":"mark","ch":1},
+            {"id":8,"book":"luke","ch":3}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "february",
+      "name_key": "plan.nt-cfm.section.february.name",
+      "subtitle_key": "plan.nt-cfm.section.february.subtitle",
+      "units": [
+        {
+          "id": 6, "date_start": "2023-01-30", "date_end": "2023-02-05",
+          "title_key": "plan.nt-cfm.unit.6.title",
+          "ref_range": [{"book":"matt","from_ch":4,"to_ch":4},{"book":"luke","from_ch":4,"to_ch":5}],
+          "nodes": [
+            {"id":9,"book":"matt","ch":4},
+            {"id":10,"book":"luke","ch":4},
+            {"id":11,"book":"luke","ch":5}
+          ]
+        },
+        {
+          "id": 7, "date_start": "2023-02-06", "date_end": "2023-02-12",
+          "title_key": "plan.nt-cfm.unit.7.title",
+          "ref_range": [{"book":"john","from_ch":2,"to_ch":4}],
+          "nodes": [
+            {"id":12,"book":"john","ch":2},
+            {"id":13,"book":"john","ch":3},
+            {"id":14,"book":"john","ch":4}
+          ]
+        },
+        {
+          "id": 8, "date_start": "2023-02-13", "date_end": "2023-02-19",
+          "title_key": "plan.nt-cfm.unit.8.title",
+          "ref_range": [{"book":"matt","from_ch":5,"to_ch":5},{"book":"luke","from_ch":6,"to_ch":6}],
+          "nodes": [
+            {"id":15,"book":"matt","ch":5},
+            {"id":16,"book":"luke","ch":6}
+          ]
+        },
+        {
+          "id": 9, "date_start": "2023-02-20", "date_end": "2023-02-26",
+          "title_key": "plan.nt-cfm.unit.9.title",
+          "ref_range": [{"book":"matt","from_ch":6,"to_ch":7}],
+          "nodes": [
+            {"id":17,"book":"matt","ch":6},
+            {"id":18,"book":"matt","ch":7}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "march",
+      "name_key": "plan.nt-cfm.section.march.name",
+      "subtitle_key": "plan.nt-cfm.section.march.subtitle",
+      "units": [
+        {
+          "id": 10, "date_start": "2023-02-27", "date_end": "2023-03-05",
+          "title_key": "plan.nt-cfm.unit.10.title",
+          "ref_range": [{"book":"matt","from_ch":8,"to_ch":8},{"book":"mark","from_ch":2,"to_ch":4},{"book":"luke","from_ch":7,"to_ch":7}],
+          "nodes": [
+            {"id":19,"book":"matt","ch":8},
+            {"id":20,"book":"mark","ch":2},
+            {"id":21,"book":"mark","ch":3},
+            {"id":22,"book":"mark","ch":4},
+            {"id":23,"book":"luke","ch":7}
+          ]
+        },
+        {
+          "id": 11, "date_start": "2023-03-06", "date_end": "2023-03-12",
+          "title_key": "plan.nt-cfm.unit.11.title",
+          "ref_range": [{"book":"matt","from_ch":9,"to_ch":10},{"book":"mark","from_ch":5,"to_ch":5},{"book":"luke","from_ch":9,"to_ch":9}],
+          "nodes": [
+            {"id":24,"book":"matt","ch":9},
+            {"id":25,"book":"matt","ch":10},
+            {"id":26,"book":"mark","ch":5},
+            {"id":27,"book":"luke","ch":9}
+          ]
+        },
+        {
+          "id": 12, "date_start": "2023-03-13", "date_end": "2023-03-19",
+          "title_key": "plan.nt-cfm.unit.12.title",
+          "ref_range": [{"book":"matt","from_ch":11,"to_ch":12},{"book":"luke","from_ch":11,"to_ch":11}],
+          "nodes": [
+            {"id":28,"book":"matt","ch":11},
+            {"id":29,"book":"matt","ch":12},
+            {"id":30,"book":"luke","ch":11}
+          ]
+        },
+        {
+          "id": 13, "date_start": "2023-03-20", "date_end": "2023-03-26",
+          "title_key": "plan.nt-cfm.unit.13.title",
+          "ref_range": [{"book":"matt","from_ch":13,"to_ch":13},{"book":"luke","from_ch":8,"to_ch":8},{"book":"luke","from_ch":13,"to_ch":13}],
+          "nodes": [
+            {"id":31,"book":"matt","ch":13},
+            {"id":32,"book":"luke","ch":8},
+            {"id":33,"book":"luke","ch":13}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "april",
+      "name_key": "plan.nt-cfm.section.april.name",
+      "subtitle_key": "plan.nt-cfm.section.april.subtitle",
+      "units": [
+        {
+          "id": 14, "date_start": "2023-03-27", "date_end": "2023-04-02",
+          "title_key": "plan.nt-cfm.unit.14.title",
+          "ref_range": [{"book":"matt","from_ch":14,"to_ch":14},{"book":"mark","from_ch":6,"to_ch":6},{"book":"john","from_ch":5,"to_ch":6}],
+          "nodes": [
+            {"id":34,"book":"matt","ch":14},
+            {"id":35,"book":"mark","ch":6},
+            {"id":36,"book":"john","ch":5},
+            {"id":37,"book":"john","ch":6}
+          ]
+        },
+        {
+          "id": 15, "date_start": "2023-04-03", "date_end": "2023-04-09",
+          "title_key": "plan.nt-cfm.unit.15.title",
+          "ref_range": [],
+          "nodes": []
+        },
+        {
+          "id": 16, "date_start": "2023-04-10", "date_end": "2023-04-16",
+          "title_key": "plan.nt-cfm.unit.16.title",
+          "ref_range": [{"book":"matt","from_ch":15,"to_ch":17},{"book":"mark","from_ch":7,"to_ch":9}],
+          "nodes": [
+            {"id":38,"book":"matt","ch":15},{"id":39,"book":"matt","ch":16},{"id":40,"book":"matt","ch":17},
+            {"id":41,"book":"mark","ch":7},{"id":42,"book":"mark","ch":8},{"id":43,"book":"mark","ch":9}
+          ]
+        },
+        {
+          "id": 17, "date_start": "2023-04-17", "date_end": "2023-04-23",
+          "title_key": "plan.nt-cfm.unit.17.title",
+          "ref_range": [{"book":"matt","from_ch":18,"to_ch":18},{"book":"luke","from_ch":10,"to_ch":10}],
+          "nodes": [
+            {"id":44,"book":"matt","ch":18},
+            {"id":45,"book":"luke","ch":10}
+          ]
+        },
+        {
+          "id": 18, "date_start": "2023-04-24", "date_end": "2023-04-30",
+          "title_key": "plan.nt-cfm.unit.18.title",
+          "ref_range": [{"book":"john","from_ch":7,"to_ch":10}],
+          "nodes": [
+            {"id":46,"book":"john","ch":7},{"id":47,"book":"john","ch":8},
+            {"id":48,"book":"john","ch":9},{"id":49,"book":"john","ch":10}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "may",
+      "name_key": "plan.nt-cfm.section.may.name",
+      "subtitle_key": "plan.nt-cfm.section.may.subtitle",
+      "units": [
+        {
+          "id": 19, "date_start": "2023-05-01", "date_end": "2023-05-07",
+          "title_key": "plan.nt-cfm.unit.19.title",
+          "ref_range": [{"book":"luke","from_ch":12,"to_ch":17},{"book":"john","from_ch":11,"to_ch":11}],
+          "nodes": [
+            {"id":50,"book":"luke","ch":12},{"id":51,"book":"luke","ch":13},{"id":52,"book":"luke","ch":14},
+            {"id":53,"book":"luke","ch":15},{"id":54,"book":"luke","ch":16},{"id":55,"book":"luke","ch":17},
+            {"id":56,"book":"john","ch":11}
+          ]
+        },
+        {
+          "id": 20, "date_start": "2023-05-08", "date_end": "2023-05-14",
+          "title_key": "plan.nt-cfm.unit.20.title",
+          "ref_range": [{"book":"matt","from_ch":19,"to_ch":20},{"book":"mark","from_ch":10,"to_ch":10},{"book":"luke","from_ch":18,"to_ch":18}],
+          "nodes": [
+            {"id":57,"book":"matt","ch":19},{"id":58,"book":"matt","ch":20},
+            {"id":59,"book":"mark","ch":10},{"id":60,"book":"luke","ch":18}
+          ]
+        },
+        {
+          "id": 21, "date_start": "2023-05-15", "date_end": "2023-05-21",
+          "title_key": "plan.nt-cfm.unit.21.title",
+          "ref_range": [{"book":"matt","from_ch":21,"to_ch":23},{"book":"mark","from_ch":11,"to_ch":11},{"book":"luke","from_ch":19,"to_ch":20},{"book":"john","from_ch":12,"to_ch":12}],
+          "nodes": [
+            {"id":61,"book":"matt","ch":21},{"id":62,"book":"matt","ch":22},{"id":63,"book":"matt","ch":23},
+            {"id":64,"book":"mark","ch":11},{"id":65,"book":"luke","ch":19},{"id":66,"book":"luke","ch":20},
+            {"id":67,"book":"john","ch":12}
+          ]
+        },
+        {
+          "id": 22, "date_start": "2023-05-22", "date_end": "2023-05-28",
+          "title_key": "plan.nt-cfm.unit.22.title",
+          "ref_range": [{"book":"matt","from_ch":24,"to_ch":25},{"book":"mark","from_ch":12,"to_ch":13},{"book":"luke","from_ch":21,"to_ch":21}],
+          "nodes": [
+            {"id":68,"book":"matt","ch":24},{"id":69,"book":"matt","ch":25},
+            {"id":70,"book":"mark","ch":12},{"id":71,"book":"mark","ch":13},{"id":72,"book":"luke","ch":21}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "june",
+      "name_key": "plan.nt-cfm.section.june.name",
+      "subtitle_key": "plan.nt-cfm.section.june.subtitle",
+      "units": [
+        {
+          "id": 23, "date_start": "2023-05-29", "date_end": "2023-06-04",
+          "title_key": "plan.nt-cfm.unit.23.title",
+          "ref_range": [{"book":"matt","from_ch":26,"to_ch":26},{"book":"mark","from_ch":14,"to_ch":14},{"book":"john","from_ch":13,"to_ch":13}],
+          "nodes": [
+            {"id":73,"book":"matt","ch":26},{"id":74,"book":"mark","ch":14},{"id":75,"book":"john","ch":13}
+          ]
+        },
+        {
+          "id": 24, "date_start": "2023-06-05", "date_end": "2023-06-11",
+          "title_key": "plan.nt-cfm.unit.24.title",
+          "ref_range": [{"book":"john","from_ch":14,"to_ch":17}],
+          "nodes": [
+            {"id":76,"book":"john","ch":14},{"id":77,"book":"john","ch":15},
+            {"id":78,"book":"john","ch":16},{"id":79,"book":"john","ch":17}
+          ]
+        },
+        {
+          "id": 25, "date_start": "2023-06-12", "date_end": "2023-06-18",
+          "title_key": "plan.nt-cfm.unit.25.title",
+          "ref_range": [{"book":"luke","from_ch":22,"to_ch":22},{"book":"john","from_ch":18,"to_ch":18}],
+          "nodes": [
+            {"id":80,"book":"luke","ch":22},{"id":81,"book":"john","ch":18}
+          ]
+        },
+        {
+          "id": 26, "date_start": "2023-06-19", "date_end": "2023-06-25",
+          "title_key": "plan.nt-cfm.unit.26.title",
+          "ref_range": [{"book":"matt","from_ch":27,"to_ch":27},{"book":"mark","from_ch":15,"to_ch":15},{"book":"luke","from_ch":23,"to_ch":23},{"book":"john","from_ch":19,"to_ch":19}],
+          "nodes": [
+            {"id":82,"book":"matt","ch":27},{"id":83,"book":"mark","ch":15},
+            {"id":84,"book":"luke","ch":23},{"id":85,"book":"john","ch":19}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "july",
+      "name_key": "plan.nt-cfm.section.july.name",
+      "subtitle_key": "plan.nt-cfm.section.july.subtitle",
+      "units": [
+        {
+          "id": 27, "date_start": "2023-06-26", "date_end": "2023-07-02",
+          "title_key": "plan.nt-cfm.unit.27.title",
+          "ref_range": [{"book":"matt","from_ch":28,"to_ch":28},{"book":"mark","from_ch":16,"to_ch":16},{"book":"luke","from_ch":24,"to_ch":24},{"book":"john","from_ch":20,"to_ch":21}],
+          "nodes": [
+            {"id":86,"book":"matt","ch":28},{"id":87,"book":"mark","ch":16},
+            {"id":88,"book":"luke","ch":24},{"id":89,"book":"john","ch":20},{"id":90,"book":"john","ch":21}
+          ]
+        },
+        {
+          "id": 28, "date_start": "2023-07-03", "date_end": "2023-07-09",
+          "title_key": "plan.nt-cfm.unit.28.title",
+          "ref_range": [{"book":"acts","from_ch":1,"to_ch":5}],
+          "nodes": [
+            {"id":91,"book":"acts","ch":1},{"id":92,"book":"acts","ch":2},{"id":93,"book":"acts","ch":3},
+            {"id":94,"book":"acts","ch":4},{"id":95,"book":"acts","ch":5}
+          ]
+        },
+        {
+          "id": 29, "date_start": "2023-07-10", "date_end": "2023-07-16",
+          "title_key": "plan.nt-cfm.unit.29.title",
+          "ref_range": [{"book":"acts","from_ch":6,"to_ch":9}],
+          "nodes": [
+            {"id":96,"book":"acts","ch":6},{"id":97,"book":"acts","ch":7},
+            {"id":98,"book":"acts","ch":8},{"id":99,"book":"acts","ch":9}
+          ]
+        },
+        {
+          "id": 30, "date_start": "2023-07-17", "date_end": "2023-07-23",
+          "title_key": "plan.nt-cfm.unit.30.title",
+          "ref_range": [{"book":"acts","from_ch":10,"to_ch":15}],
+          "nodes": [
+            {"id":100,"book":"acts","ch":10},{"id":101,"book":"acts","ch":11},{"id":102,"book":"acts","ch":12},
+            {"id":103,"book":"acts","ch":13},{"id":104,"book":"acts","ch":14},{"id":105,"book":"acts","ch":15}
+          ]
+        },
+        {
+          "id": 31, "date_start": "2023-07-24", "date_end": "2023-07-30",
+          "title_key": "plan.nt-cfm.unit.31.title",
+          "ref_range": [{"book":"acts","from_ch":16,"to_ch":21}],
+          "nodes": [
+            {"id":106,"book":"acts","ch":16},{"id":107,"book":"acts","ch":17},{"id":108,"book":"acts","ch":18},
+            {"id":109,"book":"acts","ch":19},{"id":110,"book":"acts","ch":20},{"id":111,"book":"acts","ch":21}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "august",
+      "name_key": "plan.nt-cfm.section.august.name",
+      "subtitle_key": "plan.nt-cfm.section.august.subtitle",
+      "units": [
+        {
+          "id": 32, "date_start": "2023-07-31", "date_end": "2023-08-06",
+          "title_key": "plan.nt-cfm.unit.32.title",
+          "ref_range": [{"book":"acts","from_ch":22,"to_ch":28}],
+          "nodes": [
+            {"id":112,"book":"acts","ch":22},{"id":113,"book":"acts","ch":23},{"id":114,"book":"acts","ch":24},
+            {"id":115,"book":"acts","ch":25},{"id":116,"book":"acts","ch":26},{"id":117,"book":"acts","ch":27},{"id":118,"book":"acts","ch":28}
+          ]
+        },
+        {
+          "id": 33, "date_start": "2023-08-07", "date_end": "2023-08-13",
+          "title_key": "plan.nt-cfm.unit.33.title",
+          "ref_range": [{"book":"rom","from_ch":1,"to_ch":6}],
+          "nodes": [
+            {"id":119,"book":"rom","ch":1},{"id":120,"book":"rom","ch":2},{"id":121,"book":"rom","ch":3},
+            {"id":122,"book":"rom","ch":4},{"id":123,"book":"rom","ch":5},{"id":124,"book":"rom","ch":6}
+          ]
+        },
+        {
+          "id": 34, "date_start": "2023-08-14", "date_end": "2023-08-20",
+          "title_key": "plan.nt-cfm.unit.34.title",
+          "ref_range": [{"book":"rom","from_ch":7,"to_ch":16}],
+          "nodes": [
+            {"id":125,"book":"rom","ch":7},{"id":126,"book":"rom","ch":8},{"id":127,"book":"rom","ch":9},
+            {"id":128,"book":"rom","ch":10},{"id":129,"book":"rom","ch":11},{"id":130,"book":"rom","ch":12},
+            {"id":131,"book":"rom","ch":13},{"id":132,"book":"rom","ch":14},{"id":133,"book":"rom","ch":15},{"id":134,"book":"rom","ch":16}
+          ]
+        },
+        {
+          "id": 35, "date_start": "2023-08-21", "date_end": "2023-08-27",
+          "title_key": "plan.nt-cfm.unit.35.title",
+          "ref_range": [{"book":"1-cor","from_ch":1,"to_ch":7}],
+          "nodes": [
+            {"id":135,"book":"1-cor","ch":1},{"id":136,"book":"1-cor","ch":2},{"id":137,"book":"1-cor","ch":3},
+            {"id":138,"book":"1-cor","ch":4},{"id":139,"book":"1-cor","ch":5},{"id":140,"book":"1-cor","ch":6},{"id":141,"book":"1-cor","ch":7}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "september",
+      "name_key": "plan.nt-cfm.section.september.name",
+      "subtitle_key": "plan.nt-cfm.section.september.subtitle",
+      "units": [
+        {
+          "id": 36, "date_start": "2023-08-28", "date_end": "2023-09-03",
+          "title_key": "plan.nt-cfm.unit.36.title",
+          "ref_range": [{"book":"1-cor","from_ch":8,"to_ch":13}],
+          "nodes": [
+            {"id":142,"book":"1-cor","ch":8},{"id":143,"book":"1-cor","ch":9},{"id":144,"book":"1-cor","ch":10},
+            {"id":145,"book":"1-cor","ch":11},{"id":146,"book":"1-cor","ch":12},{"id":147,"book":"1-cor","ch":13}
+          ]
+        },
+        {
+          "id": 37, "date_start": "2023-09-04", "date_end": "2023-09-10",
+          "title_key": "plan.nt-cfm.unit.37.title",
+          "ref_range": [{"book":"1-cor","from_ch":14,"to_ch":16}],
+          "nodes": [
+            {"id":148,"book":"1-cor","ch":14},{"id":149,"book":"1-cor","ch":15},{"id":150,"book":"1-cor","ch":16}
+          ]
+        },
+        {
+          "id": 38, "date_start": "2023-09-11", "date_end": "2023-09-17",
+          "title_key": "plan.nt-cfm.unit.38.title",
+          "ref_range": [{"book":"2-cor","from_ch":1,"to_ch":7}],
+          "nodes": [
+            {"id":151,"book":"2-cor","ch":1},{"id":152,"book":"2-cor","ch":2},{"id":153,"book":"2-cor","ch":3},
+            {"id":154,"book":"2-cor","ch":4},{"id":155,"book":"2-cor","ch":5},{"id":156,"book":"2-cor","ch":6},{"id":157,"book":"2-cor","ch":7}
+          ]
+        },
+        {
+          "id": 39, "date_start": "2023-09-18", "date_end": "2023-09-24",
+          "title_key": "plan.nt-cfm.unit.39.title",
+          "ref_range": [{"book":"2-cor","from_ch":8,"to_ch":13}],
+          "nodes": [
+            {"id":158,"book":"2-cor","ch":8},{"id":159,"book":"2-cor","ch":9},{"id":160,"book":"2-cor","ch":10},
+            {"id":161,"book":"2-cor","ch":11},{"id":162,"book":"2-cor","ch":12},{"id":163,"book":"2-cor","ch":13}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "october",
+      "name_key": "plan.nt-cfm.section.october.name",
+      "subtitle_key": "plan.nt-cfm.section.october.subtitle",
+      "units": [
+        {
+          "id": 40, "date_start": "2023-09-25", "date_end": "2023-10-01",
+          "title_key": "plan.nt-cfm.unit.40.title",
+          "ref_range": [{"book":"gal","from_ch":1,"to_ch":6}],
+          "nodes": [
+            {"id":164,"book":"gal","ch":1},{"id":165,"book":"gal","ch":2},{"id":166,"book":"gal","ch":3},
+            {"id":167,"book":"gal","ch":4},{"id":168,"book":"gal","ch":5},{"id":169,"book":"gal","ch":6}
+          ]
+        },
+        {
+          "id": 41, "date_start": "2023-10-02", "date_end": "2023-10-08",
+          "title_key": "plan.nt-cfm.unit.41.title",
+          "ref_range": [{"book":"eph","from_ch":1,"to_ch":6}],
+          "nodes": [
+            {"id":170,"book":"eph","ch":1},{"id":171,"book":"eph","ch":2},{"id":172,"book":"eph","ch":3},
+            {"id":173,"book":"eph","ch":4},{"id":174,"book":"eph","ch":5},{"id":175,"book":"eph","ch":6}
+          ]
+        },
+        {
+          "id": 42, "date_start": "2023-10-09", "date_end": "2023-10-15",
+          "title_key": "plan.nt-cfm.unit.42.title",
+          "ref_range": [{"book":"philip","from_ch":1,"to_ch":4},{"book":"col","from_ch":1,"to_ch":4}],
+          "nodes": [
+            {"id":176,"book":"philip","ch":1},{"id":177,"book":"philip","ch":2},{"id":178,"book":"philip","ch":3},{"id":179,"book":"philip","ch":4},
+            {"id":180,"book":"col","ch":1},{"id":181,"book":"col","ch":2},{"id":182,"book":"col","ch":3},{"id":183,"book":"col","ch":4}
+          ]
+        },
+        {
+          "id": 43, "date_start": "2023-10-16", "date_end": "2023-10-22",
+          "title_key": "plan.nt-cfm.unit.43.title",
+          "ref_range": [{"book":"1-thes","from_ch":1,"to_ch":5},{"book":"2-thes","from_ch":1,"to_ch":3}],
+          "nodes": [
+            {"id":184,"book":"1-thes","ch":1},{"id":185,"book":"1-thes","ch":2},{"id":186,"book":"1-thes","ch":3},
+            {"id":187,"book":"1-thes","ch":4},{"id":188,"book":"1-thes","ch":5},
+            {"id":189,"book":"2-thes","ch":1},{"id":190,"book":"2-thes","ch":2},{"id":191,"book":"2-thes","ch":3}
+          ]
+        },
+        {
+          "id": 44, "date_start": "2023-10-23", "date_end": "2023-10-29",
+          "title_key": "plan.nt-cfm.unit.44.title",
+          "ref_range": [{"book":"1-tim","from_ch":1,"to_ch":6},{"book":"2-tim","from_ch":1,"to_ch":4},{"book":"titus","from_ch":1,"to_ch":3},{"book":"philem","from_ch":1,"to_ch":1}],
+          "nodes": [
+            {"id":192,"book":"1-tim","ch":1},{"id":193,"book":"1-tim","ch":2},{"id":194,"book":"1-tim","ch":3},
+            {"id":195,"book":"1-tim","ch":4},{"id":196,"book":"1-tim","ch":5},{"id":197,"book":"1-tim","ch":6},
+            {"id":198,"book":"2-tim","ch":1},{"id":199,"book":"2-tim","ch":2},{"id":200,"book":"2-tim","ch":3},{"id":201,"book":"2-tim","ch":4},
+            {"id":202,"book":"titus","ch":1},{"id":203,"book":"titus","ch":2},{"id":204,"book":"titus","ch":3},
+            {"id":205,"book":"philem","ch":1}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "november",
+      "name_key": "plan.nt-cfm.section.november.name",
+      "subtitle_key": "plan.nt-cfm.section.november.subtitle",
+      "units": [
+        {
+          "id": 45, "date_start": "2023-10-30", "date_end": "2023-11-05",
+          "title_key": "plan.nt-cfm.unit.45.title",
+          "ref_range": [{"book":"heb","from_ch":1,"to_ch":6}],
+          "nodes": [
+            {"id":206,"book":"heb","ch":1},{"id":207,"book":"heb","ch":2},{"id":208,"book":"heb","ch":3},
+            {"id":209,"book":"heb","ch":4},{"id":210,"book":"heb","ch":5},{"id":211,"book":"heb","ch":6}
+          ]
+        },
+        {
+          "id": 46, "date_start": "2023-11-06", "date_end": "2023-11-12",
+          "title_key": "plan.nt-cfm.unit.46.title",
+          "ref_range": [{"book":"heb","from_ch":7,"to_ch":13}],
+          "nodes": [
+            {"id":212,"book":"heb","ch":7},{"id":213,"book":"heb","ch":8},{"id":214,"book":"heb","ch":9},
+            {"id":215,"book":"heb","ch":10},{"id":216,"book":"heb","ch":11},{"id":217,"book":"heb","ch":12},{"id":218,"book":"heb","ch":13}
+          ]
+        },
+        {
+          "id": 47, "date_start": "2023-11-13", "date_end": "2023-11-19",
+          "title_key": "plan.nt-cfm.unit.47.title",
+          "ref_range": [{"book":"james","from_ch":1,"to_ch":5}],
+          "nodes": [
+            {"id":219,"book":"james","ch":1},{"id":220,"book":"james","ch":2},{"id":221,"book":"james","ch":3},
+            {"id":222,"book":"james","ch":4},{"id":223,"book":"james","ch":5}
+          ]
+        },
+        {
+          "id": 48, "date_start": "2023-11-20", "date_end": "2023-11-26",
+          "title_key": "plan.nt-cfm.unit.48.title",
+          "ref_range": [{"book":"1-pet","from_ch":1,"to_ch":5},{"book":"2-pet","from_ch":1,"to_ch":3}],
+          "nodes": [
+            {"id":224,"book":"1-pet","ch":1},{"id":225,"book":"1-pet","ch":2},{"id":226,"book":"1-pet","ch":3},
+            {"id":227,"book":"1-pet","ch":4},{"id":228,"book":"1-pet","ch":5},
+            {"id":229,"book":"2-pet","ch":1},{"id":230,"book":"2-pet","ch":2},{"id":231,"book":"2-pet","ch":3}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "december",
+      "name_key": "plan.nt-cfm.section.december.name",
+      "subtitle_key": "plan.nt-cfm.section.december.subtitle",
+      "units": [
+        {
+          "id": 49, "date_start": "2023-11-27", "date_end": "2023-12-03",
+          "title_key": "plan.nt-cfm.unit.49.title",
+          "ref_range": [{"book":"1-jn","from_ch":1,"to_ch":5},{"book":"2-jn","from_ch":1,"to_ch":1},{"book":"3-jn","from_ch":1,"to_ch":1},{"book":"jude","from_ch":1,"to_ch":1}],
+          "nodes": [
+            {"id":232,"book":"1-jn","ch":1},{"id":233,"book":"1-jn","ch":2},{"id":234,"book":"1-jn","ch":3},
+            {"id":235,"book":"1-jn","ch":4},{"id":236,"book":"1-jn","ch":5},
+            {"id":237,"book":"2-jn","ch":1},{"id":238,"book":"3-jn","ch":1},{"id":239,"book":"jude","ch":1}
+          ]
+        },
+        {
+          "id": 50, "date_start": "2023-12-04", "date_end": "2023-12-10",
+          "title_key": "plan.nt-cfm.unit.50.title",
+          "ref_range": [{"book":"rev","from_ch":1,"to_ch":5}],
+          "nodes": [
+            {"id":240,"book":"rev","ch":1},{"id":241,"book":"rev","ch":2},{"id":242,"book":"rev","ch":3},
+            {"id":243,"book":"rev","ch":4},{"id":244,"book":"rev","ch":5}
+          ]
+        },
+        {
+          "id": 51, "date_start": "2023-12-11", "date_end": "2023-12-17",
+          "title_key": "plan.nt-cfm.unit.51.title",
+          "ref_range": [{"book":"rev","from_ch":6,"to_ch":14}],
+          "nodes": [
+            {"id":245,"book":"rev","ch":6},{"id":246,"book":"rev","ch":7},{"id":247,"book":"rev","ch":8},
+            {"id":248,"book":"rev","ch":9},{"id":249,"book":"rev","ch":10},{"id":250,"book":"rev","ch":11},
+            {"id":251,"book":"rev","ch":12},{"id":252,"book":"rev","ch":13},{"id":253,"book":"rev","ch":14}
+          ]
+        },
+        {
+          "id": 52, "date_start": "2023-12-18", "date_end": "2023-12-24",
+          "title_key": "plan.nt-cfm.unit.52.title",
+          "ref_range": [],
+          "nodes": []
+        },
+        {
+          "id": 53, "date_start": "2023-12-25", "date_end": "2023-12-31",
+          "title_key": "plan.nt-cfm.unit.53.title",
+          "ref_range": [{"book":"rev","from_ch":15,"to_ch":22}],
+          "nodes": [
+            {"id":254,"book":"rev","ch":15},{"id":255,"book":"rev","ch":16},{"id":256,"book":"rev","ch":17},
+            {"id":257,"book":"rev","ch":18},{"id":258,"book":"rev","ch":19},{"id":259,"book":"rev","ch":20},
+            {"id":260,"book":"rev","ch":21},{"id":261,"book":"rev","ch":22}
+          ]
+        }
+      ]
+    }
+  ]
+}

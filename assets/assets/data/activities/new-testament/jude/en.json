@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "book": "jude",
+  "chapters": {
+    "1": [
+      {
+        "id": "jude-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Jude, brother of James",
+        "body": "The author introduces himself as “the servant of Jesus Christ, and brother of James”—traditionally identified as a brother of the Lord. His one-chapter letter urges believers to “contend for the faith.”"
+      },
+      {
+        "id": "jude-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "earnestly contend for the {0} which was once delivered unto the saints",
+        "blanks": [
+          "faith"
+        ],
+        "distractors": [
+          "gospel",
+          "truth",
+          "law"
+        ]
+      },
+      {
+        "id": "jude-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "Which cities does Jude cite as an example, “suffering the vengeance of eternal fire” (v. 7)?",
+        "options": [
+          "Sodom and Gomorrha",
+          "Nineveh and Tyre",
+          "Babylon and Egypt",
+          "Jericho and Ai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Michael and the body of Moses",
+        "body": "Jude alone in the Bible records that Michael the archangel “disputed about the body of Moses” with the devil, saying only, “The Lord rebuke thee.”"
+      },
+      {
+        "id": "jude-1-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Three who went astray (v. 11)",
+        "pairs": [
+          {
+            "left": "Cain",
+            "right": "whose way they have gone"
+          },
+          {
+            "left": "Balaam",
+            "right": "whose error they ran after for reward"
+          },
+          {
+            "left": "Core",
+            "right": "in whose gainsaying they perished"
+          }
+        ]
+      },
+      {
+        "id": "jude-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "wandering {0}, to whom is reserved the blackness of darkness",
+        "blanks": [
+          "stars"
+        ],
+        "distractors": [
+          "clouds",
+          "waves",
+          "winds"
+        ]
+      },
+      {
+        "id": "jude-1-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "The prophecy of Enoch",
+        "body": "Jude is the only New Testament book to quote a prophecy of Enoch, “the seventh from Adam,” foretelling that the Lord would come “with ten thousands of his saints” to execute judgment."
+      },
+      {
+        "id": "jude-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "According to verse 14, who “prophesied” of these ungodly men, being “the seventh from Adam”?",
+        "options": [
+          "Enoch",
+          "Noah",
+          "Moses",
+          "Elijah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Keep yourselves in the {0} of God, looking for the mercy of our Lord Jesus Christ",
+        "blanks": [
+          "love"
+        ],
+        "distractors": [
+          "fear",
+          "grace",
+          "peace"
+        ]
+      }
+    ]
+  }
+}

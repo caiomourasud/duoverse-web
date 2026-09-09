@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "book": "jude",
+  "chapters": {
+    "1": [
+      {
+        "id": "jude-1-cur-1",
+        "type": "curiosity",
+        "after_verse": 1,
+        "title": "Judas, hermano de Jacobo",
+        "body": "El autor se presenta como “siervo de Jesucristo y hermano de Jacobo”, tradicionalmente identificado como hermano del Señor. Su carta de un solo capítulo insta a los creyentes a “luchar por la fe”."
+      },
+      {
+        "id": "jude-1-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "luchéis enérgicamente por la {0} que se ha dado a los santos",
+        "blanks": [
+          "fe"
+        ],
+        "distractors": [
+          "verdad",
+          "gracia",
+          "ley"
+        ]
+      },
+      {
+        "id": "jude-1-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "¿Qué ciudades cita Judas como ejemplo, al “sufrir el juicio del fuego eterno” (v. 7)?",
+        "options": [
+          "Sodoma y Gomorra",
+          "Nínive y Tiro",
+          "Babilonia y Egipto",
+          "Jericó y Hai"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "Miguel y el cuerpo de Moisés",
+        "body": "Solo Judas, en la Biblia, registra que el arcángel Miguel “disputaba con el diablo por el cuerpo de Moisés”, diciendo solamente: “El Señor te reprenda”."
+      },
+      {
+        "id": "jude-1-mp-11",
+        "type": "match_pairs",
+        "after_verse": 11,
+        "title": "Tres que se extraviaron (v. 11)",
+        "pairs": [
+          {
+            "left": "Caín",
+            "right": "cuyo camino han seguido"
+          },
+          {
+            "left": "Balaam",
+            "right": "en cuyo error se lanzaron por lucro"
+          },
+          {
+            "left": "Coré",
+            "right": "en cuya rebelión perecieron"
+          }
+        ]
+      },
+      {
+        "id": "jude-1-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "{0} errantes, para las cuales está reservada eternamente la oscuridad de las tinieblas",
+        "blanks": [
+          "estrellas"
+        ],
+        "distractors": [
+          "nubes",
+          "ondas",
+          "vientos"
+        ]
+      },
+      {
+        "id": "jude-1-cur-14",
+        "type": "curiosity",
+        "after_verse": 14,
+        "title": "La profecía de Enoc",
+        "body": "Judas es el único libro del Nuevo Testamento que cita una profecía de Enoc, “séptimo desde Adán”, que predijo que el Señor vendría “con sus muchos millares de santos” para hacer juicio."
+      },
+      {
+        "id": "jude-1-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "Según el versículo 14, ¿quién “profetizó” acerca de estos impíos, siendo “séptimo desde Adán”?",
+        "options": [
+          "Enoc",
+          "Noé",
+          "Moisés",
+          "Elías"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "jude-1-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "conservaos en el {0} de Dios, esperando la misericordia de nuestro Señor Jesucristo",
+        "blanks": [
+          "amor"
+        ],
+        "distractors": [
+          "temor",
+          "favor",
+          "poder"
+        ]
+      }
+    ]
+  }
+}

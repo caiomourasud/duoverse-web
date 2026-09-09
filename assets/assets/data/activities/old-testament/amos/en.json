@@ -1,0 +1,548 @@
+{
+ "schema_version": 1,
+ "book": "amos",
+ "chapters": {
+  "1": [
+   {
+    "id": "amos-1-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "A shepherd, not a courtier",
+    "text": "Amos was 'among the herdmen of Tekoa' — a working man from the Judean hills, not a court prophet. His words are dated 'two years before the earthquake,' a quake still remembered generations later."
+   },
+   {
+    "id": "amos-1-fb-4",
+    "type": "fill_blank",
+    "after_verse": 4,
+    "verse": 4,
+    "template": "But I will send a fire into the house of {0}",
+    "blanks": [
+     "Hazael"
+    ],
+    "distractors": [
+     "Ben-hadad",
+     "Damascus",
+     "Gilead"
+    ]
+   },
+   {
+    "id": "amos-1-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In Amos 1:9, why is judgment pronounced against Tyre?",
+    "options": [
+     "They delivered up the whole captivity to Edom, and remembered not the brotherly covenant",
+     "They broke the covenant of peace and sold their own people to foreign enemies",
+     "They waged war against their kinsmen and destroyed the cities of Israel without mercy",
+     "They offered sacrifices to the idols of Baal upon the high mountains"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-1-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "In Amos 1:13, what is charged against the children of Ammon?",
+    "options": [
+     "They put out the eyes of the elders of Gilead in a time of complete peace",
+     "They ripped up the women with child of Gilead, to enlarge their border",
+     "They burned the priests of Judah alive inside their very own sacred temple",
+     "They sold the orphans of Israel as slaves to the traders"
+    ],
+    "answer": 1
+   }
+  ],
+  "2": [
+   {
+    "id": "amos-2-mc-4",
+    "type": "multiple_choice",
+    "after_verse": 4,
+    "question": "In Amos 2:4, why is judgment pronounced against Judah?",
+    "options": [
+     "They worshipped the idols of neighboring nations and forsook the temple",
+     "They despised the law of the Lord and have not kept his commandments",
+     "They made a league with the Philistines against their own people",
+     "They set up strange altars upon the sacred mountains of Judah"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-2-fb-6",
+    "type": "fill_blank",
+    "after_verse": 6,
+    "verse": 6,
+    "template": "they sold the righteous for silver, and the poor for a pair of {0}",
+    "blanks": [
+     "shoes"
+    ],
+    "distractors": [
+     "oxen",
+     "coins",
+     "fields"
+    ]
+   },
+   {
+    "id": "amos-2-cur-9",
+    "type": "curiosity",
+    "after_verse": 9,
+    "title": "Tall as the cedars",
+    "text": "Verse 9 recalls how the Lord destroyed the Amorite before Israel — 'whose height was like the height of the cedars, and he was strong as the oaks' — a reminder that Israel's land was a gift, not an achievement."
+   },
+   {
+    "id": "amos-2-mc-16",
+    "type": "multiple_choice",
+    "after_verse": 16,
+    "question": "According to Amos 2:11, whom did the Lord raise up from among Israel's sons and young men?",
+    "options": [
+     "Kings and judges",
+     "Prophets and Nazarites",
+     "Priests and scribes",
+     "Warriors and captains"
+    ],
+    "answer": 1
+   }
+  ],
+  "3": [
+   {
+    "id": "amos-3-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Amos 3:3, what rhetorical question opens the chain of images?",
+    "options": [
+     "Can two walk together, except they be agreed?",
+     "Shall the horses run upon the rock without stumbling on the way?",
+     "Can the river return to its springs without any man seeing it?",
+     "Shall the shepherd sleep while the wolf devours the flock?"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-3-cur-7",
+    "type": "curiosity",
+    "after_verse": 7,
+    "title": "God reveals his secret",
+    "text": "Amos 3:7 — 'the Lord God will do nothing, but he revealeth his secret unto his servants the prophets' — is one of the Bible's clearest statements that God works through prophets."
+   },
+   {
+    "id": "amos-3-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "For they know not to do {0}",
+    "blanks": [
+     "right"
+    ],
+    "distractors": [
+     "good",
+     "evil",
+     "wrong"
+    ]
+   },
+   {
+    "id": "amos-3-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "According to Amos 3:15, which houses will the Lord smite?",
+    "options": [
+     "The walls of Samaria together with the fortified towers of Bethel",
+     "The winter house with the summer house, and the houses of ivory",
+     "The altars of Gilgal along with the palaces of Damascus",
+     "The royal storehouses and the temples of the strange gods"
+    ],
+    "answer": 1
+   }
+  ],
+  "4": [
+   {
+    "id": "amos-4-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "Hear this word, ye {0} of Bashan",
+    "blanks": [
+     "kine"
+    ],
+    "distractors": [
+     "bulls",
+     "sheep",
+     "goats"
+    ]
+   },
+   {
+    "id": "amos-4-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Amos 4:4, to which two places does the Lord ironically say 'come and transgress'?",
+    "options": [
+     "Zion and Jerusalem",
+     "Beth-el and Gilgal",
+     "Samaria and Damascus",
+     "Tyre and Sidon"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-4-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "What refrain closes each of the Lord's chastisements in Amos 4?",
+    "options": [
+     "Seek ye me always and ye shall find rest",
+     "Yet have ye not returned unto me",
+     "Return unto me and ye shall be blessed",
+     "Keep my commandments and ye shall live"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-4-mc-13",
+    "type": "multiple_choice",
+    "after_verse": 13,
+    "question": "How does Amos 4:13 describe the God of hosts?",
+    "options": [
+     "He that formeth the mountains, and createth the wind, and declareth unto man what is his thought",
+     "He that reigns only over the high mountains of Samaria and completely ignores the distant nations",
+     "He that dwells only in the highest heavens and never comes down to speak directly with the men of the earth",
+     "He that punishes only the proud kings and always spares the common and humble people"
+    ],
+    "answer": 0
+   }
+  ],
+  "5": [
+   {
+    "id": "amos-5-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Amos 5:4, what does the Lord tell the house of Israel?",
+    "options": [
+     "Seek ye me, and ye shall live",
+     "Weep and mourn bitterly before my presence",
+     "Return now unto Bethel and worship there",
+     "Keep silence in my temple"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-cur-8",
+    "type": "curiosity",
+    "after_verse": 8,
+    "title": "The maker of the constellations",
+    "text": "Amos 5:8 names the Lord as the one who 'maketh the seven stars and Orion' — pointing Israel from their idols to the God who set the very constellations in the sky."
+   },
+   {
+    "id": "amos-5-mc-9",
+    "type": "multiple_choice",
+    "after_verse": 9,
+    "question": "In Amos 5:8, what does the Lord do with the waters of the sea?",
+    "options": [
+     "He calls for them and pours them out upon the face of the earth",
+     "He gathers them together into one place so that the dry land appears",
+     "He divides them in half so that the people may cross over in safety",
+     "He turns them to blood because of the sin of the people"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-fb-10",
+    "type": "fill_blank",
+    "after_verse": 10,
+    "verse": 10,
+    "template": "They hate him that rebuketh in the {0}",
+    "blanks": [
+     "gate"
+    ],
+    "distractors": [
+     "temple",
+     "field",
+     "market"
+    ]
+   },
+   {
+    "id": "amos-5-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "According to Amos 5:14, what are the people to seek that they may live?",
+    "options": [
+     "Good, and not evil",
+     "Wealth and honor",
+     "Kings and armies",
+     "Signs and wonders"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-5-fb-15",
+    "type": "fill_blank",
+    "after_verse": 15,
+    "verse": 15,
+    "template": "Hate the evil, and love the good, and establish {0} in the gate",
+    "blanks": [
+     "judgment"
+    ],
+    "distractors": [
+     "peace",
+     "worship",
+     "order"
+    ]
+   },
+   {
+    "id": "amos-5-mc-20",
+    "type": "multiple_choice",
+    "after_verse": 20,
+    "question": "According to Amos 5:18-20, what will the day of the Lord be for those who desire it?",
+    "options": [
+     "Light and gladness",
+     "Darkness, and not light",
+     "Rest and feasting",
+     "Victory over the nations"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-5-mc-27",
+    "type": "multiple_choice",
+    "after_verse": 27,
+    "question": "In Amos 5:24, what does the Lord say should run down as waters?",
+    "options": [
+     "Judgment",
+     "Blood",
+     "Oil",
+     "Wine"
+    ],
+    "answer": 0
+   }
+  ],
+  "6": [
+   {
+    "id": "amos-6-cur-4",
+    "type": "curiosity",
+    "after_verse": 4,
+    "title": "Beds of ivory",
+    "text": "Verse 4 pictures the elite lying 'upon beds of ivory' and eating lambs and calves — archaeology at Samaria has uncovered ivory inlays that match this indictment of luxury."
+   },
+   {
+    "id": "amos-6-mc-7",
+    "type": "multiple_choice",
+    "after_verse": 7,
+    "question": "In Amos 6:6, why is woe pronounced on those who drink wine in bowls?",
+    "options": [
+     "They are not grieved for the affliction of Joseph",
+     "They worship the idols of Bashan instead of the Lord",
+     "They refuse to hear the words of the prophets",
+     "They sell the poor for a pair of shoes"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-6-fb-12",
+    "type": "fill_blank",
+    "after_verse": 12,
+    "verse": 12,
+    "template": "for ye have turned judgment into {0}",
+    "blanks": [
+     "gall"
+    ],
+    "distractors": [
+     "water",
+     "song",
+     "silver"
+    ]
+   },
+   {
+    "id": "amos-6-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "According to Amos 6:14, what will the Lord raise up against the house of Israel?",
+    "options": [
+     "A drought that shall consume the rivers and the springs",
+     "A nation to afflict them from the entering in of Hemath",
+     "An earthquake that shall shake the foundations of the cities",
+     "A cloud of locusts over all the land"
+    ],
+    "answer": 1
+   }
+  ],
+  "7": [
+   {
+    "id": "amos-7-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "The prophet who argued back",
+    "text": "In chapter 7 Amos does not merely deliver judgment — he intercedes. Twice he pleads 'O Lord God, forgive... by whom shall Jacob arise? for he is small,' and twice the Lord relents."
+   },
+   {
+    "id": "amos-7-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In the first two visions of Amos 7, what does Amos plead about Jacob?",
+    "options": [
+     "That Jacob will be utterly destroyed because of sin",
+     "By whom shall Jacob arise? for he is small",
+     "That the Lord will show no mercy to Jacob",
+     "That Jacob will turn to another god"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-7-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "In the third vision, what does the Lord hold in his hand upon the wall (Amos 7:7)?",
+    "options": [
+     "A weighing scale",
+     "A plumbline",
+     "A shepherd's staff",
+     "A wax seal"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-7-fb-14",
+    "type": "fill_blank",
+    "after_verse": 14,
+    "verse": 14,
+    "template": "I was no prophet, neither was I a prophet’s son; but I was an {0}",
+    "blanks": [
+     "herdman"
+    ],
+    "distractors": [
+     "elder",
+     "officer",
+     "artisan"
+    ]
+   },
+   {
+    "id": "amos-7-mc-17",
+    "type": "multiple_choice",
+    "after_verse": 17,
+    "question": "How does the priest Amaziah try to silence Amos (Amos 7:12-13)?",
+    "options": [
+     "By ordering the king's soldiers to seize him at once and accuse him of treason",
+     "By telling him to flee to Judah and prophesy not at Beth-el, the king's chapel",
+     "By threatening him with death if he continued to prophesy against King Jeroboam",
+     "By forbidding him to speak before the people anywhere in Israel"
+    ],
+    "answer": 1
+   }
+  ],
+  "8": [
+   {
+    "id": "amos-8-fb-1",
+    "type": "fill_blank",
+    "after_verse": 1,
+    "verse": 1,
+    "template": "and behold a {0} of summer fruit",
+    "blanks": [
+     "basket"
+    ],
+    "distractors": [
+     "measure",
+     "vine",
+     "field"
+    ]
+   },
+   {
+    "id": "amos-8-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Amos 8:5, how do the greedy merchants cheat the poor?",
+    "options": [
+     "Making the ephah small, and the shekel great, and falsifying the balances",
+     "Mixing chaff together with the wheat and selling it as pure grain to the needy",
+     "Demanding forced labor from the poor in exchange for a small handful of grain",
+     "Hiding the good wheat and selling only the inferior grade of grain"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-8-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Amos 8:10, what will the Lord turn the people's feasts into?",
+    "options": [
+     "Silence",
+     "Mourning",
+     "Rejoicing",
+     "Fasting"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-8-mc-14",
+    "type": "multiple_choice",
+    "after_verse": 14,
+    "question": "In Amos 8:11, what kind of famine does the Lord promise to send?",
+    "options": [
+     "A famine of hearing the sacred temple songs",
+     "A famine of hearing the words of the Lord",
+     "A famine of great visions and prophetic dreams",
+     "A famine of wheat, new wine, and oil"
+    ],
+    "answer": 1
+   }
+  ],
+  "9": [
+   {
+    "id": "amos-9-mc-5",
+    "type": "multiple_choice",
+    "after_verse": 5,
+    "question": "In Amos 9:2-3, what does the Lord say about escaping his judgment?",
+    "options": [
+     "No hiding place — not hell, heaven, Carmel, nor the bottom of the sea — will deliver them",
+     "Only those who take refuge in the temple at Jerusalem will find protection from the judgment",
+     "Those who repent before the day of the Lord will be spared from total destruction and ruin",
+     "Only the priests of Beth-el will be spared from the coming final judgment"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "amos-9-cur-1",
+    "type": "curiosity",
+    "after_verse": 1,
+    "title": "No place to hide",
+    "text": "The fifth and final vision opens with the Lord standing upon the altar. Its poetry — 'though they climb up to heaven, thence will I bring them down' — echoes the reach later sung in Psalm 139."
+   },
+   {
+    "id": "amos-9-mc-10",
+    "type": "multiple_choice",
+    "after_verse": 10,
+    "question": "According to Amos 9:8, what does the Lord promise about the house of Jacob?",
+    "options": [
+     "He will utterly destroy it",
+     "He will not utterly destroy it",
+     "He will scatter it forever",
+     "He will forget it"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "amos-9-fb-11",
+    "type": "fill_blank",
+    "after_verse": 11,
+    "verse": 11,
+    "template": "will I raise up the tabernacle of {0} that is fallen",
+    "blanks": [
+     "David"
+    ],
+    "distractors": [
+     "Jacob",
+     "Joseph",
+     "Israel"
+    ]
+   },
+   {
+    "id": "amos-9-mc-15",
+    "type": "multiple_choice",
+    "after_verse": 15,
+    "question": "How does the book of Amos close, in Amos 9:14-15?",
+    "options": [
+     "With the utter and complete destruction of all the tribes of Israel because of idolatry",
+     "With a promise to bring again the captivity of Israel and plant them upon their land",
+     "With a call for Israel to turn and abandon the idols of the many neighboring nations",
+     "With the announcement of yet another period of captivity for Israel"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

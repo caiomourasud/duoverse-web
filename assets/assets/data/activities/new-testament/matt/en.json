@@ -1,0 +1,3268 @@
+{
+  "schema_version": 1,
+  "book": "matt",
+  "chapters": {
+    "1": [
+      {
+        "id": "matt-1-mc-author",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Who wrote the Gospel of Matthew, and what was his occupation before following Jesus?",
+        "options": [
+          "Matthew, a tax collector",
+          "Mark, a fisherman from the Sea of Galilee",
+          "Luke, a physician trained in Antioch",
+          "Peter, a priest of the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-mc-audience",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "To whom did Matthew chiefly write his gospel?",
+        "options": [
+          "To the Jews, showing that Jesus is the promised Messiah",
+          "To the Gentiles, to reveal the mysteries of God's kingdom",
+          "To the Samaritans, explaining the traditions of the patriarchs",
+          "To the Romans, to justify the power of the empire"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-mc-genealogy",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Why does Matthew open with Jesus’ genealogy from Abraham and David?",
+        "options": [
+          "To show that Jesus is the promised heir, descended from David and Abraham",
+          "To record the priestly lineage responsible for offering sacrifices in the temple",
+          "To confirm Zerubbabel’s right to the royal throne after the exile in Babylon",
+          "To list the patriarchs who led the people during the captivity"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-1-cur-17",
+        "after_verse": 17,
+        "type": "curiosity",
+        "title": "Three times fourteen",
+        "text": "Matthew arranges the genealogy in three sets of fourteen generations: from Abraham to David, from David to the captivity in Babylon, and from the captivity to Christ."
+      },
+      {
+        "id": "matt-1-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "¶ Now the birth of Jesus {0} was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Messiah",
+          "Emmanuel",
+          "Nazarene"
+        ]
+      },
+      {
+        "id": "matt-1-fb-21",
+        "after_verse": 21,
+        "type": "fill_blank",
+        "verse": 21,
+        "template": "thou shalt call his name {0}: for he shall save his people from their sins",
+        "blanks": [
+          "Jesus"
+        ],
+        "distractors": [
+          "Emmanuel",
+          "John",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-1-mp-23",
+        "after_verse": 23,
+        "type": "match_pairs",
+        "pairs": [
+          {
+            "left": "Emmanuel",
+            "right": "God with us"
+          },
+          {
+            "left": "Jesus",
+            "right": "He shall save his people"
+          },
+          {
+            "left": "Christ",
+            "right": "the Anointed"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "matt-2-cur-2",
+        "after_verse": 2,
+        "type": "curiosity",
+        "title": "The wise men and the star",
+        "text": "Scripture does not say how many wise men there were, nor call them kings; the tradition of “three” comes from the three gifts. They came from the east following a star."
+      },
+      {
+        "id": "matt-2-fb-2",
+        "after_verse": 2,
+        "type": "fill_blank",
+        "verse": 2,
+        "template": "for we have seen his {0} in the east, and are come to worship him",
+        "blanks": [
+          "star"
+        ],
+        "distractors": [
+          "light",
+          "glory",
+          "cloud"
+        ]
+      },
+      {
+        "id": "matt-2-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "And he sent them to {0}, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.",
+        "blanks": [
+          "Bethlehem"
+        ],
+        "distractors": [
+          "Nazareth",
+          "Jerusalem",
+          "Galilee"
+        ]
+      },
+      {
+        "id": "matt-2-mc-11",
+        "after_verse": 11,
+        "type": "multiple_choice",
+        "question": "What gifts did the wise men offer the child Jesus?",
+        "options": [
+          "Gold, frankincense, and myrrh",
+          "Silver, silk, and rare spices",
+          "Wine, olive oil, and loaves of wheat bread",
+          "Jewels and royal garments"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-2-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, {0} weeping for her children, and would not be comforted, because they are not.",
+        "blanks": [
+          "Rachel"
+        ],
+        "distractors": [
+          "Sara",
+          "Rebekah",
+          "Leah"
+        ]
+      },
+      {
+        "id": "matt-2-fb-22",
+        "type": "fill_blank",
+        "after_verse": 22,
+        "verse": 22,
+        "template": "But when he heard that {0} did reign in Judæa in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+        "blanks": [
+          "Archelaus"
+        ],
+        "distractors": [
+          "Herod",
+          "Pilate",
+          "Caesar"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "matt-3-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did John the Baptist preach in the wilderness?",
+        "options": [
+          "Repent, for the kingdom of heaven is at hand",
+          "That the Messiah would come riding a white horse",
+          "That the Roman empire would be destroyed by fire from heaven",
+          "That sinners would be spared from judgment"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-3-cur-4",
+        "type": "curiosity",
+        "after_verse": 4,
+        "title": "Clothed in camel’s hair",
+        "text": "John’s clothing of camel’s hair and leather girdle, and his diet of locusts and wild honey, echo the prophet Elijah, who dressed in much the same way."
+      },
+      {
+        "id": "matt-3-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "God is able of these stones to raise up children unto {0}",
+        "blanks": [
+          "Abraham"
+        ],
+        "distractors": [
+          "Isaac",
+          "Jacob",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-3-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "he shall baptize you with the Holy Ghost, and with {0}",
+        "blanks": [
+          "fire"
+        ],
+        "distractors": [
+          "water",
+          "light",
+          "oil"
+        ]
+      },
+      {
+        "id": "matt-3-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What happened when Jesus was baptized?",
+        "options": [
+          "The heavens opened and the Spirit descended like a dove",
+          "A great earthquake tore the veil of the temple in Jerusalem",
+          "A loud voice from heaven announced the destruction of the temple",
+          "A great star shone brightly over the Jordan River"
+        ],
+        "answer": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "matt-4-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "Forty days",
+        "text": "The fast of forty days and forty nights echoes Moses’ forty days on the mount and Israel’s forty years in the wilderness."
+      },
+      {
+        "id": "matt-4-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "How did Jesus answer the tempter who told him to make bread from stones?",
+        "options": [
+          "Man shall not live by bread alone, but by every word of God",
+          "That he would worship Satan in exchange for all the kingdoms of the world",
+          "That the angels would bear him up if he cast himself down from the holy temple",
+          "That the bread would be multiplied for all the people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-4-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "sheweth him all the {0} of the world, and the glory of them",
+        "blanks": [
+          "kingdoms"
+        ],
+        "distractors": [
+          "treasures",
+          "armies",
+          "peoples"
+        ]
+      },
+      {
+        "id": "matt-4-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "he came and dwelt in {0}, which is upon the sea coast",
+        "blanks": [
+          "Capernaum"
+        ],
+        "distractors": [
+          "Jerusalem",
+          "Bethlehem",
+          "Bethany"
+        ]
+      },
+      {
+        "id": "matt-4-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What did Jesus promise Simon Peter and Andrew when he called them?",
+        "options": [
+          "To make them fishers of men",
+          "Riches and power",
+          "A place of honor in the temple",
+          "Healing from all diseases"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-4-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What did Jesus do as he went about all Galilee?",
+        "options": [
+          "Taught in the synagogues, preached the gospel, and healed sickness",
+          "Recorded the names of families for the imperial census of ancient Rome",
+          "Rebuilt the ancient altars destroyed in the towns of the Galilee region",
+          "Appointed new priests to serve in the local temples nearby"
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": "matt-5-mp-5",
+        "type": "match_pairs",
+        "after_verse": 5,
+        "pairs": [
+          {
+            "left": "The poor in spirit",
+            "right": "the kingdom of heaven"
+          },
+          {
+            "left": "They that mourn",
+            "right": "shall be comforted"
+          },
+          {
+            "left": "The meek",
+            "right": "shall inherit the earth"
+          }
+        ]
+      },
+      {
+        "id": "matt-5-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "According to the Beatitude, what shall the pure in heart receive?",
+        "options": [
+          "They shall see God",
+          "They shall inherit the earth",
+          "They shall be comforted",
+          "They shall obtain mercy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "Ye are the {0} of the earth",
+        "blanks": [
+          "salt"
+        ],
+        "distractors": [
+          "light",
+          "leaven",
+          "seed"
+        ]
+      },
+      {
+        "id": "matt-5-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "What did Jesus say about the law and the prophets?",
+        "options": [
+          "He came not to destroy them, but to fulfil them",
+          "He came to abolish them and write an entirely new law",
+          "He came to rewrite them according to the Pharisees",
+          "He came to hide them from the common people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-cur-22",
+        "type": "curiosity",
+        "after_verse": 22,
+        "title": "“Raca” and the council",
+        "text": "“Raca” was an Aramaic term of contempt, roughly “worthless one.” Jesus teaches that even anger and insult toward a brother are accountable to God."
+      },
+      {
+        "id": "matt-5-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did Jesus say to do before offering your gift at the altar, if your brother has aught against you?",
+        "options": [
+          "First be reconciled to your brother",
+          "Double the offering before going to the altar",
+          "Wait for the priest to settle the matter",
+          "Offer it twice over in silence"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What did Jesus teach about looking on a woman to lust after her?",
+        "options": [
+          "That one has already committed adultery in the heart",
+          "That it is only a harmless thought, without any guilt before God",
+          "That one must pay a fine to the priest of the temple",
+          "That fasting for seven days afterward is enough"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-34",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "neither by {0}; for it is the city of the great King",
+        "blanks": [
+          "Jerusalem"
+        ],
+        "distractors": [
+          "Bethlehem",
+          "Samaria",
+          "Nazareth"
+        ]
+      },
+      {
+        "id": "matt-5-mc-39",
+        "type": "multiple_choice",
+        "after_verse": 39,
+        "question": "In answer to “an eye for an eye,” what did Jesus teach?",
+        "options": [
+          "To resist not evil and turn the other cheek",
+          "To always repay double to whoever does harm",
+          "To sue the offender before the town's judges",
+          "To ignore every offense in complete silence"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-5-fb-44",
+        "type": "fill_blank",
+        "after_verse": 44,
+        "verse": 44,
+        "template": "Love your {0}, bless them that curse you",
+        "blanks": [
+          "enemies"
+        ],
+        "distractors": [
+          "friends",
+          "brethren",
+          "neighbours"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "matt-6-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "How did Jesus teach to give alms?",
+        "options": [
+          "In secret, without sounding a trumpet before you",
+          "Publicly, in the marketplace, with great fanfare",
+          "Only in the presence of the priests of the sacred temple",
+          "Only on the most solemn of feast days"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-fb-11",
+        "type": "fill_blank",
+        "after_verse": 11,
+        "verse": 11,
+        "template": "Give us this day our daily {0}",
+        "blanks": [
+          "bread"
+        ],
+        "distractors": [
+          "wine",
+          "manna",
+          "food"
+        ]
+      },
+      {
+        "id": "matt-6-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "“For thine is the kingdom”",
+        "text": "The Lord’s Prayer closes with a doxology — “for thine is the kingdom, and the power, and the glory” — acknowledging that all belongs to God."
+      },
+      {
+        "id": "matt-6-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "How did Jesus teach to fast?",
+        "options": [
+          "In secret, anointing the head and washing the face",
+          "With a sad and disfigured countenance before everyone",
+          "By announcing the fast in the streets for all to hear",
+          "Only in a collective fast of the congregation"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-mp-18",
+        "type": "match_pairs",
+        "after_verse": 18,
+        "pairs": [
+          {
+            "left": "Alms",
+            "right": "let not thy left hand know what thy right hand doeth"
+          },
+          {
+            "left": "Prayer",
+            "right": "enter into thy closet and shut thy door"
+          },
+          {
+            "left": "Fasting",
+            "right": "anoint thine head and wash thy face"
+          }
+        ]
+      },
+      {
+        "id": "matt-6-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "there will your {0} be also",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "spirit",
+          "soul",
+          "desire"
+        ]
+      },
+      {
+        "id": "matt-6-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "God or mammon",
+        "text": "“Mammon” is an Aramaic word for wealth, here personified as a rival master. Jesus says no one can serve two masters."
+      },
+      {
+        "id": "matt-6-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What example did Jesus give to teach not to worry?",
+        "options": [
+          "The fowls of the air, which sow not nor reap, and God feeds them",
+          "The ants that wisely store food throughout the whole long summer",
+          "The fish of the great sea, swimming freely in the deepest waters",
+          "The flocks in the green pasture, which the shepherds feed"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-6-fb-33",
+        "type": "fill_blank",
+        "after_verse": 33,
+        "verse": 33,
+        "template": "But seek ye first the {0} of God, and his righteousness",
+        "blanks": [
+          "kingdom"
+        ],
+        "distractors": [
+          "temple",
+          "throne",
+          "people"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "matt-7-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Jesus teach about seeing others’ faults?",
+        "options": [
+          "First cast the beam out of your own eye",
+          "Publicly denounce the sins of one's neighbor",
+          "Ignore completely the faults of any person",
+          "Judge others with very great strictness"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-mp-7",
+        "type": "match_pairs",
+        "after_verse": 7,
+        "pairs": [
+          {
+            "left": "Ask",
+            "right": "it shall be given you"
+          },
+          {
+            "left": "Seek",
+            "right": "ye shall find"
+          },
+          {
+            "left": "Knock",
+            "right": "it shall be opened"
+          }
+        ]
+      },
+      {
+        "id": "matt-7-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "What is the Golden Rule taught by Jesus?",
+        "options": [
+          "Do to others what you would have them do to you",
+          "Seek revenge against whoever has offended you badly",
+          "Do to others only what is convenient for you always",
+          "Love only those who already love you first"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-cur-13",
+        "type": "curiosity",
+        "after_verse": 13,
+        "title": "The strait gate",
+        "text": "Jesus contrasts two ways: the broad road many follow to destruction, and the narrow one few find, which leads to life."
+      },
+      {
+        "id": "matt-7-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "but inwardly they are ravening {0}",
+        "blanks": [
+          "wolves"
+        ],
+        "distractors": [
+          "foxes",
+          "serpents",
+          "dogs"
+        ]
+      },
+      {
+        "id": "matt-7-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "According to Jesus, how are false prophets known?",
+        "options": [
+          "By their fruits",
+          "By their clothing",
+          "By their words",
+          "By their origin"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Who shall enter the kingdom of heaven, according to Jesus?",
+        "options": [
+          "The one who does the Father’s will, not who merely says 'Lord, Lord'",
+          "Whoever performs the greatest miracles and casts out many devils in his name",
+          "Whoever preaches in many cities and is known throughout all the land of Israel",
+          "Whoever fasts and prays publicly before all the people of the land"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-7-fb-26",
+        "type": "fill_blank",
+        "after_verse": 26,
+        "verse": 26,
+        "template": "which built his house upon the {0}",
+        "blanks": [
+          "sand"
+        ],
+        "distractors": [
+          "rock",
+          "stone",
+          "clay"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "matt-8-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "his {0} was cleansed",
+        "blanks": [
+          "leprosy"
+        ],
+        "distractors": [
+          "fever",
+          "blindness",
+          "palsy"
+        ]
+      },
+      {
+        "id": "matt-8-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Why did Jesus marvel at the centurion?",
+        "options": [
+          "For his great faith, greater than any found in Israel",
+          "For his strict obedience to the religious laws of the Jews",
+          "For having built a large synagogue for the local people",
+          "For his very great courage before his enemies"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "Whom did Jesus heal of a fever when he came into Peter’s house?",
+        "options": [
+          "Peter’s wife’s mother",
+          "Peter's sister-in-law",
+          "Peter's neighbor woman",
+          "The mother of James"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did Jesus answer the scribe who promised to follow him anywhere?",
+        "options": [
+          "The foxes have holes, but the Son of man has nowhere to lay his head",
+          "That he first sell all his goods and give them to the poor and needy in the city",
+          "That he pray seven days in the wilderness before becoming his faithful and obedient disciple",
+          "That he seek his father's blessing before departing from there"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "Isaiah’s prophecy",
+        "text": "Matthew sees in Jesus’ healings the fulfillment of Isaiah: 'Himself took our infirmities, and bare our sicknesses.'"
+      },
+      {
+        "id": "matt-8-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "there arose a great {0} in the sea",
+        "blanks": [
+          "tempest"
+        ],
+        "distractors": [
+          "calm",
+          "mist",
+          "current"
+        ]
+      },
+      {
+        "id": "matt-8-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What made dangerous the road where Jesus met the two demoniacs?",
+        "options": [
+          "They were so fierce that no man could pass that way",
+          "There was a fierce storm that prevented any crossing",
+          "Roman soldiers watched and forbade the passage of strangers",
+          "It was a steep and extremely dangerous cliff"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-8-fb-32",
+        "type": "fill_blank",
+        "after_verse": 32,
+        "verse": 32,
+        "template": "the whole herd of {0} ran violently down a steep place",
+        "blanks": [
+          "swine"
+        ],
+        "distractors": [
+          "sheep",
+          "goats",
+          "oxen"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "matt-9-mc-2",
+        "type": "multiple_choice",
+        "after_verse": 2,
+        "question": "What did Jesus say first to the paralytic, before healing him?",
+        "options": [
+          "Thy sins be forgiven thee",
+          "Go and never return to this place",
+          "Thy prayers have been heard in heaven",
+          "Fear not, all shall be well"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "he saw a man, named {0}, sitting at the receipt of custom",
+        "blanks": [
+          "Matthew"
+        ],
+        "distractors": [
+          "Peter",
+          "James",
+          "Philip"
+        ]
+      },
+      {
+        "id": "matt-9-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "I will have mercy, and not {0}",
+        "blanks": [
+          "sacrifice"
+        ],
+        "distractors": [
+          "judgment",
+          "punishment",
+          "fear"
+        ]
+      },
+      {
+        "id": "matt-9-cur-17",
+        "type": "curiosity",
+        "after_verse": 17,
+        "title": "New wine in new bottles",
+        "text": "Jesus uses the new cloth and new wine to show that his gospel does not fit old forms: it needs new bottles to be preserved."
+      },
+      {
+        "id": "matt-9-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did the woman who had an issue of blood for twelve years do?",
+        "options": [
+          "She touched the hem of Jesus’ garment, believing she would be healed",
+          "She cried out loudly asking Jesus to touch her immediately before everyone there",
+          "She washed Jesus' feet with her tears in front of everyone present there",
+          "She asked the disciples to pray for her right there at that very moment"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did Jesus say about the girl everyone thought was dead?",
+        "options": [
+          "She is not dead, but sleepeth",
+          "There is no more hope left at all",
+          "Wait three days and then I will return",
+          "Take her quickly to the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What did Jesus say to the two blind men before opening their eyes?",
+        "options": [
+          "According to your faith be it unto you",
+          "Go and wash your eyes in the pool of Siloam",
+          "Have faith enough to move mountains before you",
+          "Go and show yourselves to the priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-9-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "What did Jesus say on seeing the multitudes weary, like sheep without a shepherd?",
+        "options": [
+          "The harvest is great, but the labourers are few",
+          "The end of all things is near and shall come soon",
+          "Return immediately to your own houses right now",
+          "Seek first the kingdom of God and his righteousness"
+        ],
+        "answer": 0
+      }
+    ],
+    "10": [
+      {
+        "id": "matt-10-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The twelve apostles",
+        "text": "Matthew lists the twelve by name — among them two pairs of brothers (Peter and Andrew, James and John) and Matthew the publican himself."
+      },
+      {
+        "id": "matt-10-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "Which apostle is identified as the one who would betray Jesus?",
+        "options": [
+          "Judas Iscariot",
+          "James, son of Alphaeus",
+          "James, son of Zebedee",
+          "Matthew the publican"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What did Jesus command the apostles to preach?",
+        "options": [
+          "The kingdom of heaven is at hand",
+          "That baptism would replace the old law",
+          "That fasting would bring the liberation of Israel",
+          "That Herod would be deposed from the throne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What did Jesus tell the apostles NOT to take on their journey?",
+        "options": [
+          "Gold, silver, brass, nor two coats",
+          "Servants, pack animals, and tents for camping",
+          "Books of the law, maps, and provisions for the days",
+          "Copper coins and festive garments"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "be ye therefore wise as {0}, and harmless as doves",
+        "blanks": [
+          "serpents"
+        ],
+        "distractors": [
+          "foxes",
+          "eagles",
+          "ants"
+        ]
+      },
+      {
+        "id": "matt-10-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "According to Jesus, who shall be saved amid persecution?",
+        "options": [
+          "He that endureth to the end",
+          "He that abandons the faith in the face of danger",
+          "He that denies Christ before men",
+          "He that flees into the desert"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "Whom did Jesus say to fear, rather than those who kill the body?",
+        "options": [
+          "Him who is able to destroy both soul and body",
+          "Those who persecute the disciples through the cities",
+          "Those who deliver believers to the governors and kings",
+          "The council that judges the transgressors"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "What did Jesus promise to whoever confesses him before men?",
+        "options": [
+          "To confess him also before the Father in heaven",
+          "To give him a throne beside the twelve thrones of Israel",
+          "To deliver him from all persecution in this life and the next",
+          "A place of honor among the twelve chosen apostles"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "What did Jesus say is required of whoever would be worthy of him?",
+        "options": [
+          "To love him above father, mother, and children, and take up the cross",
+          "To sell all of his possessions and distribute them among the poor of the city",
+          "To fast and pray constantly before the sacred temple every single day",
+          "To make a pilgrimage to Jerusalem every year of his life"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-10-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What did Jesus say about whoever receives his disciples?",
+        "options": [
+          "Whoever receives them receives him and him who sent him",
+          "Whoever rejects them will receive punishment on the day of judgment",
+          "Whoever despises them will be excluded from the kingdom of heaven",
+          "Will receive a double reward from the heavens above"
+        ],
+        "answer": 0
+      }
+    ],
+    "11": [
+      {
+        "id": "matt-11-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "What did John the Baptist send his disciples to ask Jesus?",
+        "options": [
+          "Whether he was the one who should come, or if they should look for another",
+          "When he would be freed from prison and would return to preach again in Israel",
+          "Whether he should continue baptizing or hand over that mission to someone else",
+          "Who would be greatest in the kingdom of heaven when he came"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "How did Jesus describe John the Baptist to the multitudes?",
+        "options": [
+          "More than a prophet; the greatest born of women",
+          "Just an ordinary man dressed in simple clothes of the common people",
+          "A king in soft clothing who lived in the houses of governors",
+          "A reed shaken by the wind in the desert of Judea"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-cur-10",
+        "type": "curiosity",
+        "after_verse": 10,
+        "title": "The messenger",
+        "text": "Jesus applies to John the prophecy of Malachi about the messenger sent ahead to prepare the way of the Lord."
+      },
+      {
+        "id": "matt-11-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "this is {0}, which was for to come",
+        "blanks": [
+          "Elias"
+        ],
+        "distractors": [
+          "Moses",
+          "Isaiah",
+          "Jeremias"
+        ]
+      },
+      {
+        "id": "matt-11-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "To what did Jesus compare that generation, pleased neither with John nor with him?",
+        "options": [
+          "To children in the market who neither dance nor mourn",
+          "To lost sheep that wander without a shepherd through the hills",
+          "To unfaithful servants who hide their lord's talents",
+          "To trees without fruit that will be cut down and cast into the fire"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "Why did Jesus rebuke Chorazin and Bethsaida?",
+        "options": [
+          "Because they did not repent, despite the mighty works done in them",
+          "Because they worshipped foreign idols brought in by the occupying Romans",
+          "Because they rejected John the Baptist's words before all the people",
+          "Because they collected unjust taxes from the poor of the region"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-11-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What invitation did Jesus give to the weary and heavy laden?",
+        "options": [
+          "Come unto me, and I will give you rest",
+          "Go to the temple to pray and fast for seven whole days",
+          "Fast forty days and forty nights in the wilderness",
+          "Wait for the coming of Elias before the great day"
+        ],
+        "answer": 0
+      }
+    ],
+    "12": [
+      {
+        "id": "matt-12-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "Have ye not read what {0} did, when he was an hungred",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Solomon",
+          "Moses",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "matt-12-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "How did Jesus declare himself in regard to the sabbath?",
+        "options": [
+          "Lord of the sabbath",
+          "Servant of the law",
+          "Judge of the temple",
+          "Keeper of the sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "What example did Jesus give to show it is lawful to do good on the sabbath?",
+        "options": [
+          "Rescuing a sheep fallen into a pit on the sabbath",
+          "Lifting a stone fallen upon the road on the sabbath",
+          "Seeking a lost calf fallen into a pit during the night",
+          "Pulling an ox stuck in the mud on the sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "The chosen servant",
+        "text": "Matthew quotes Isaiah 42 to present Jesus as the chosen, beloved servant who will declare judgment to the Gentiles without striving or crying out."
+      },
+      {
+        "id": "matt-12-fb-18",
+        "type": "fill_blank",
+        "after_verse": 18,
+        "verse": 18,
+        "template": "Behold my {0}, whom I have chosen",
+        "blanks": [
+          "servant"
+        ],
+        "distractors": [
+          "son",
+          "prophet",
+          "messenger"
+        ]
+      },
+      {
+        "id": "matt-12-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "How did the prophet describe the meekness of the chosen servant?",
+        "options": [
+          "A bruised reed he will not break, nor quench the smoking flax",
+          "He will cry aloud in the streets so that all peoples may hear him",
+          "He will gather great armies to conquer the Romans by force of arms",
+          "He will reign with a scepter of iron over all the nations"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "Of what did the Pharisees accuse Jesus when they saw him cast out devils?",
+        "options": [
+          "Casting them out by Beelzebub, prince of the devils",
+          "Of possessing an unclean spirit dwelling inside him",
+          "Of deceiving the people with false signs from Egypt",
+          "Of being possessed by an unclean and lying spirit"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Jesus say proved the kingdom of God had come?",
+        "options": [
+          "Casting out devils by the Spirit of God",
+          "Raising Lazarus from the dead on that very day",
+          "Turning water into wine at the wedding in Cana",
+          "Calming the storm on the sea of Galilee"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "What sin did Jesus say would not be forgiven, neither in this world nor the next?",
+        "options": [
+          "Blasphemy against the Holy Ghost",
+          "Unbelief in the face of miracles",
+          "Publicly rejecting the promised Messiah",
+          "Profaning the holy sabbath"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-36",
+        "type": "multiple_choice",
+        "after_verse": 36,
+        "question": "What did Jesus say about the words we speak?",
+        "options": [
+          "For every idle word men shall give account in the day of judgment",
+          "That they will be forgiven if we ask for them with all our sincerity",
+          "That they will be judged only by the chief priests of the temple",
+          "That they must only be spoken inside the holy temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What sign did Jesus give, comparing himself to the prophet Jonas?",
+        "options": [
+          "Three days and nights in the heart of the earth, as Jonas in the whale",
+          "A great rainbow remaining over Jerusalem for three whole days and nights",
+          "Fire falling from heaven on the temple for three days and three nights unending",
+          "A bright star appearing over Bethlehem throughout the night"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What did Jesus say happens when the unclean spirit returns to the empty, swept house?",
+        "options": [
+          "It brings seven worse spirits, and the last state is worse than the first",
+          "Finds the house full of other spirits even weaker than itself dwelling there",
+          "Flees to the desert and never returns to that empty and swept house again",
+          "Remains completely silent forever and troubles no one anymore"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-12-mc-48",
+        "type": "multiple_choice",
+        "after_verse": 48,
+        "question": "Whom did Jesus call his mother and his brethren?",
+        "options": [
+          "Those who do the will of his Father in heaven",
+          "Only his blood relatives and direct descendants",
+          "The twelve apostles chosen to preach the eternal gospel",
+          "The chief priests of the temple at Jerusalem"
+        ],
+        "answer": 0
+      }
+    ],
+    "13": [
+      {
+        "id": "matt-13-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "In the parable of the sower, what happened to the seed that fell by the way side?",
+        "options": [
+          "The fowls came and devoured it",
+          "It grew quickly and brought forth abundant fruit",
+          "It was gathered by a farmer before sunset",
+          "It lay buried and sprouted the following season"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-11",
+        "type": "multiple_choice",
+        "after_verse": 11,
+        "question": "Why did Jesus say he spoke to the people in parables?",
+        "options": [
+          "Because to the disciples it was given to know the mysteries of the kingdom, but not to them",
+          "Because he wanted to confuse the religious leaders who sought to accuse him before the people",
+          "Because parables were considered easier to translate into other languages spoken in that region",
+          "Because it fulfilled an ancient custom kept by the teachers of the Jewish law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "What did Jesus say about the disciples’ eyes and ears?",
+        "options": [
+          "Blessed, for they see and hear what prophets desired to see",
+          "That they would soon see great signs in heaven before the Son of man's coming",
+          "That they would be taken to high places to receive greater revelations",
+          "That they were not yet ready to understand the mysteries"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mp-23",
+        "type": "match_pairs",
+        "after_verse": 23,
+        "pairs": [
+          {
+            "left": "By the way side",
+            "right": "The wicked one catches away what was sown"
+          },
+          {
+            "left": "Stony places",
+            "right": "Receives with joy, but has no root"
+          },
+          {
+            "left": "Among thorns",
+            "right": "Cares and riches choke the word"
+          },
+          {
+            "left": "Good ground",
+            "right": "Hears, understands, and bears fruit"
+          }
+        ]
+      },
+      {
+        "id": "matt-13-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "In the parable of the tares, what did the enemy do while men slept?",
+        "options": [
+          "Sowed tares among the wheat",
+          "Cut down the good wheat before harvest",
+          "Poisoned the well near the field",
+          "Scattered stones over the soil"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 31,
+        "template": "is like to a grain of {0} seed, which a man took",
+        "blanks": [
+          "mustard"
+        ],
+        "distractors": [
+          "wheat",
+          "barley",
+          "rye"
+        ]
+      },
+      {
+        "id": "matt-13-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "In the explanation of the parable of the tares, what does the field represent?",
+        "options": [
+          "The world",
+          "The church",
+          "Israel",
+          "The temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What did the man do when he found the treasure hid in the field?",
+        "options": [
+          "Sold all that he had and bought that field",
+          "Told his neighbors about the treasure before buying the field",
+          "Left the treasure in the field and told the landowner",
+          "Kept the treasure in his own house"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-fb-46",
+        "type": "fill_blank",
+        "after_verse": 46,
+        "verse": 46,
+        "template": "when he had found one {0} of great price",
+        "blanks": [
+          "pearl"
+        ],
+        "distractors": [
+          "jewel",
+          "coin",
+          "relic"
+        ]
+      },
+      {
+        "id": "matt-13-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "In the parable of the net, what will the angels do at the end of the world?",
+        "options": [
+          "Sever the wicked from among the just",
+          "Gather all the good fish into one ship",
+          "Return the wicked fish to the depths of the sea",
+          "Count the fish gathered in the net"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "To what did Jesus compare the scribe instructed unto the kingdom of heaven?",
+        "options": [
+          "A householder who brings out of his treasure things new and old",
+          "A merchant who travels through many lands seeking good pearls",
+          "A faithful servant who manages his master's goods with wisdom",
+          "A judge who judges the causes of the people with wisdom"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-13-cur-55",
+        "type": "curiosity",
+        "after_verse": 55,
+        "title": "The brethren of Jesus",
+        "text": "The people of Nazareth name Jesus’ brethren — James, Joses, Simon, and Judas — and mention his sisters too, showing him as part of a family they knew."
+      },
+      {
+        "id": "matt-13-mc-57",
+        "type": "multiple_choice",
+        "after_verse": 57,
+        "question": "Why did Jesus not do many mighty works in his own country?",
+        "options": [
+          "Because of their unbelief",
+          "Because the inhabitants demanded greater signs first",
+          "Because his own disciples doubted him there",
+          "Because there was not enough time"
+        ],
+        "answer": 0
+      }
+    ],
+    "14": [
+      {
+        "id": "matt-14-fb-3",
+        "type": "fill_blank",
+        "after_verse": 3,
+        "verse": 3,
+        "template": "in prison for {0}’ sake",
+        "blanks": [
+          "Herodias"
+        ],
+        "distractors": [
+          "Salome",
+          "Mary",
+          "Elisabeth"
+        ]
+      },
+      {
+        "id": "matt-14-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "What did the daughter of Herodias ask of Herod, instructed by her mother?",
+        "options": [
+          "The head of John the Baptist on a charger",
+          "The promise that she would be made queen",
+          "A place of honor beside King Herod",
+          "Great riches and fine royal garments"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What did Jesus do when he heard of John the Baptist’s death?",
+        "options": [
+          "He withdrew by ship into a desert place",
+          "Gathered his disciples to plan vengeance against Herod",
+          "Sent messengers to comfort John's family",
+          "Ordered public fasting and prayer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "With how much did Jesus feed about five thousand men?",
+        "options": [
+          "Five loaves and two fishes",
+          "Seven loaves and a few fishes",
+          "Twelve loaves and two fishes",
+          "Two loaves and five fishes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "What did Jesus do in the fourth watch of the night, going to the disciples?",
+        "options": [
+          "He walked on the sea",
+          "He calmed the storm with a word",
+          "He appeared in a cloud",
+          "He sent an angel to the ship"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "Twelve baskets",
+        "text": "After five thousand men ate and were filled, twelve baskets full of fragments remained — more than there had been at the start."
+      },
+      {
+        "id": "matt-14-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What happened to Peter as he walked on the water to go to Jesus?",
+        "options": [
+          "He feared the wind and began to sink",
+          "Walked calmly until he reached Jesus without difficulty",
+          "Ran back quickly into the ship in fear",
+          "Shouted with joy for walking on the water"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-14-mc-34",
+        "type": "multiple_choice",
+        "after_verse": 34,
+        "question": "What did those in the ship say after the wind ceased?",
+        "options": [
+          "Of a truth thou art the Son of God",
+          "This is one of the prophets risen from the dead",
+          "We must keep this secret from the other disciples",
+          "He is greater than all the prophets"
+        ],
+        "answer": 0
+      }
+    ],
+    "15": [
+      {
+        "id": "matt-15-mc-4",
+        "type": "multiple_choice",
+        "after_verse": 4,
+        "question": "By what did Jesus say the Pharisees made the commandment of God of none effect?",
+        "options": [
+          "By their tradition",
+          "By the law of Moses",
+          "By fasting",
+          "By sacrifices"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-cur-5",
+        "type": "curiosity",
+        "after_verse": 5,
+        "title": "“It is a gift”",
+        "text": "Some declared their goods “a gift” (corban) to escape the duty of supporting father and mother — using a religious tradition to dodge a commandment."
+      },
+      {
+        "id": "matt-15-fb-8",
+        "type": "fill_blank",
+        "after_verse": 8,
+        "verse": 8,
+        "template": "but their {0} is far from me",
+        "blanks": [
+          "heart"
+        ],
+        "distractors": [
+          "spirit",
+          "mind",
+          "desire"
+        ]
+      },
+      {
+        "id": "matt-15-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "How did Jesus describe the Pharisees who were offended at his teaching?",
+        "options": [
+          "Blind leaders of the blind, who shall fall into the ditch",
+          "Whited sepulchres, full of dead men's bones on the inside",
+          "Fierce wolves disguised as teachers of the Mosaic law and tradition",
+          "Wise teachers of the law, full of honor among the people"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "According to Jesus, what truly defiles a man?",
+        "options": [
+          "What comes out of the mouth, for it proceeds from the heart",
+          "Contact with Gentiles and Samaritan people during their journeys",
+          "Breaking the fast before the hour appointed by religious tradition",
+          "The use of ceremonially unclean vessels during the meal"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What did the disciples ask Jesus concerning the Canaanite woman?",
+        "options": [
+          "To send her away, for she cried after them",
+          "That he tell them why he did not answer her",
+          "To send her back to her own distant country",
+          "To ask what was the girl's father's name"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What did the Canaanite woman answer when Jesus spoke of the children’s bread and the dogs?",
+        "options": [
+          "That even the dogs eat the crumbs from their masters’ table",
+          "That the children should eat first, then the hungry little dogs",
+          "That she preferred to go home alone rather than trouble the Master further",
+          "That she was a Gentile and so did not deserve to receive the miracle"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "Why did Jesus have compassion on the multitude before feeding the four thousand?",
+        "options": [
+          "Because they had been with him three days with nothing to eat",
+          "Because they had traveled a great distance and were weary from the journey",
+          "Because many among them were sick and gravely weakened by illness",
+          "Because they constantly asked for a sign from heaven to believe"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-15-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "How many baskets of fragments were left after feeding the four thousand?",
+        "options": [
+          "Seven",
+          "Twelve",
+          "Three",
+          "Ten"
+        ],
+        "answer": 0
+      }
+    ],
+    "16": [
+      {
+        "id": "matt-16-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Jesus answer the Pharisees and Sadducees who sought a sign from heaven?",
+        "options": [
+          "You can discern the sky, but not the signs of the times",
+          "That he would give them the sign of the prophet Elias immediately",
+          "That no generation would ever receive any sign from heaven",
+          "To return the next day to receive a final answer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-8",
+        "type": "multiple_choice",
+        "after_verse": 8,
+        "question": "Why did the disciples think Jesus spoke of leaven because they had brought no bread?",
+        "options": [
+          "They did not understand he meant the doctrine of the Pharisees",
+          "They thought he was angry because they had forgotten the bread",
+          "They thought it was a stern rebuke for not buying more bread earlier",
+          "They thought they should go back to the city to buy bread"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What did Jesus ask the disciples at Caesarea Philippi?",
+        "options": [
+          "Whom men said the Son of man was",
+          "Whether they were willing to leave all for him",
+          "How many times to forgive a sinning brother",
+          "Whether the disciples feared the storm"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "Thou art the {0}, the Son of the living God",
+        "blanks": [
+          "Christ"
+        ],
+        "distractors": [
+          "Master",
+          "Prophet",
+          "King"
+        ]
+      },
+      {
+        "id": "matt-16-cur-18",
+        "type": "curiosity",
+        "after_verse": 18,
+        "title": "Peter and the rock",
+        "text": "The name Peter means “rock.” Jesus plays on this when he says, “thou art Peter, and upon this rock I will build my church.”"
+      },
+      {
+        "id": "matt-16-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What did Jesus say to Peter when he rebuked him for speaking of his death?",
+        "options": [
+          "Get thee behind me, Satan",
+          "Thou knowest not what thou sayest, Peter",
+          "Be not troubled for my sake, Peter",
+          "This shall not happen, Peter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-16-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "What did Jesus say about whoever would save his own life?",
+        "options": [
+          "Whoever would save it shall lose it; whoever loses it for his sake shall find it",
+          "That whoever sought riches instead of the eternal kingdom of God would lose his life",
+          "That he would gain great honor among men but eternally lose his own precious soul",
+          "That he should deny himself completely and serve the poor to be saved"
+        ],
+        "answer": 0
+      }
+    ],
+    "17": [
+      {
+        "id": "matt-17-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "Who appeared talking with Jesus when he was transfigured on the mount?",
+        "options": [
+          "Moses and Elias",
+          "Abraham and David",
+          "Elias and John",
+          "Moses and Isaiah"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What did the disciples do when they heard the voice out of the cloud?",
+        "options": [
+          "They fell on their face, sore afraid",
+          "They ran far away, terrified by the brightness",
+          "They stayed silent, gazing at the shining cloud",
+          "They knelt before Moses and Elias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "To whom was Jesus referring when he said that “Elias is come already”?",
+        "options": [
+          "To John the Baptist",
+          "To the prophet Isaiah",
+          "To one of the scribes",
+          "To Herod the king"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-fb-20",
+        "type": "fill_blank",
+        "after_verse": 20,
+        "verse": 20,
+        "template": "If ye have faith as a grain of {0} seed",
+        "blanks": [
+          "mustard"
+        ],
+        "distractors": [
+          "wheat",
+          "barley",
+          "sand"
+        ]
+      },
+      {
+        "id": "matt-17-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "How did Jesus tell Peter to pay the temple tribute?",
+        "options": [
+          "By taking a coin from the mouth of the first fish he caught",
+          "By borrowing the needed coin from one of the disciples present",
+          "By selling part of his own fishing net to gather the amount",
+          "By asking the collectors for a little more time"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-17-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "The coin in the fish",
+        "text": "Jesus tells Peter he will find in a fish’s mouth a piece of money — a coin worth exactly the tribute for two people, enough for both him and Peter."
+      }
+    ],
+    "18": [
+      {
+        "id": "matt-18-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "According to Jesus, who is the greatest in the kingdom of heaven?",
+        "options": [
+          "Whoever humbles himself as a little child",
+          "Whoever keeps all the commandments of the law",
+          "Whoever has the most authority among the apostles",
+          "Whoever fasts and prays more than the others"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-fb-6",
+        "type": "fill_blank",
+        "after_verse": 6,
+        "verse": 6,
+        "template": "that a {0} were hanged about his neck",
+        "blanks": [
+          "millstone"
+        ],
+        "distractors": [
+          "stone",
+          "anchor",
+          "weight"
+        ]
+      },
+      {
+        "id": "matt-18-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Jesus say about that which causes you to sin (hand, foot, or eye)?",
+        "options": [
+          "It is better to enter life without it than to be cast into the fire",
+          "That it must be carefully guarded so as not to offend God",
+          "That it will be restored in the celestial kingdom when forgiven",
+          "That it must be purified by fasting and prayer"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "In the parable of the lost sheep, what does the shepherd of the hundred sheep do?",
+        "options": [
+          "Leaves the ninety and nine and seeks the one that strayed",
+          "Gathers the whole flock and returns immediately to the fold",
+          "Calls the other shepherds to help him search for the sheep",
+          "Counts the sheep and waits until the morning"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "What did Jesus promise about two or three gathered in his name?",
+        "options": [
+          "There am I in the midst of them",
+          "They will receive power over evil spirits",
+          "They will be taken to paradise immediately",
+          "They will have visions of angels"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "How many times did Jesus say we should forgive our brother?",
+        "options": [
+          "Until seventy times seven",
+          "Until forty-nine times total",
+          "Only up to three times each",
+          "Until twenty-one times"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "In the parable, how much did the servant whom the king forgave owe him?",
+        "options": [
+          "Ten thousand talents",
+          "A hundred pence",
+          "A thousand coins",
+          "Seven talents"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-mc-29",
+        "type": "multiple_choice",
+        "after_verse": 29,
+        "question": "What did the forgiven servant do when he found a fellowservant who owed him a hundred pence?",
+        "options": [
+          "He seized him and cast him into prison until he should pay",
+          "He took him before the king so he could decide the punishment",
+          "He demanded that he labor as a slave until the debt was repaid",
+          "He threatened him and sent him away without punishment"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-18-cur-28",
+        "type": "curiosity",
+        "after_verse": 28,
+        "title": "Ten thousand talents",
+        "text": "The forgiven debt — ten thousand talents — was an unpayable fortune, while the hundred pence the servant demanded was a trifle: the contrast measures God’s forgiveness."
+      },
+      {
+        "id": "matt-18-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What did the lord do when he learned the servant had no compassion on his fellowservant?",
+        "options": [
+          "Delivered him to the tormentors until he should pay all",
+          "He called all the other servants to testify against him",
+          "He ordered that everything he still possessed be sold",
+          "He cast him out of his presence forever more"
+        ],
+        "answer": 0
+      }
+    ],
+    "19": [
+      {
+        "id": "matt-19-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "What did Jesus teach about marriage?",
+        "options": [
+          "What God hath joined together, let not man put asunder",
+          "A man may set aside his marriage whenever his wife displeases him",
+          "Whoever marries the divorced woman is free from any sin before God",
+          "Marriage is a tradition that can be annulled by the priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "Why did Moses allow a writing of divorcement, according to Jesus?",
+        "options": [
+          "Because of the hardness of their hearts",
+          "Because God had so commanded from the beginning",
+          "To please the Pharisees",
+          "Because marriage was not sacred"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "What did Jesus say as he blessed the little children?",
+        "options": [
+          "Suffer the little children to come unto me, for of such is the kingdom of heaven",
+          "That the little children should first be instructed by the priests before coming to him",
+          "That the parents should wait until their children were old enough to believe for themselves",
+          "That only the children of the disciples could receive his blessing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-mc-21",
+        "type": "multiple_choice",
+        "after_verse": 21,
+        "question": "What did Jesus tell the rich young man who wished to be perfect?",
+        "options": [
+          "Sell what thou hast, give to the poor, and follow me",
+          "Keep only the commandments thou hast known since youth",
+          "Marry and raise a large family throughout Israel",
+          "Double the offerings thou givest at the temple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-19-fb-24",
+        "type": "fill_blank",
+        "after_verse": 24,
+        "verse": 24,
+        "template": "for a camel to go through the eye of a {0}",
+        "blanks": [
+          "needle"
+        ],
+        "distractors": [
+          "hook",
+          "rope",
+          "ring"
+        ]
+      },
+      {
+        "id": "matt-19-cur-24",
+        "type": "curiosity",
+        "after_verse": 24,
+        "title": "The eye of a needle",
+        "text": "The image of the camel and the needle — the largest local animal and the smallest known opening — was a deliberate exaggeration to show how hard it is to trust in riches instead of God."
+      },
+      {
+        "id": "matt-19-mc-28",
+        "type": "multiple_choice",
+        "after_verse": 28,
+        "question": "What did Jesus promise those who had followed him?",
+        "options": [
+          "To sit on twelve thrones, judging the twelve tribes of Israel",
+          "A place of great prominence in the earthly government of Jerusalem",
+          "Untold riches and power over every nation and people of the earth",
+          "Never to hunger or thirst again for their whole life"
+        ],
+        "answer": 0
+      }
+    ],
+    "20": [
+      {
+        "id": "matt-20-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "To what did Jesus compare the kingdom of heaven in this parable?",
+        "options": [
+          "A householder who hires labourers for his vineyard",
+          "A king who marches to war against another distant kingdom",
+          "A fisherman who casts his net into a stormy and dangerous sea",
+          "A shepherd of sheep lost high in the mountains"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-mc-12",
+        "type": "multiple_choice",
+        "after_verse": 12,
+        "question": "How much did each labourer receive, whether hired first or last?",
+        "options": [
+          "A penny (a denarius)",
+          "Ten silver pence (denarii)",
+          "Only half a penny in wages",
+          "Ten silver talents"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The denarius",
+        "text": "A penny (denarius) was a full day’s wage. That is why paying the same to those who worked only an hour sounded scandalous — which is exactly the point of the parable about grace."
+      },
+      {
+        "id": "matt-20-fb-16",
+        "type": "fill_blank",
+        "after_verse": 16,
+        "verse": 16,
+        "template": "So the last shall be first, and the first {0}",
+        "blanks": [
+          "last"
+        ],
+        "distractors": [
+          "least",
+          "servants",
+          "greatest"
+        ]
+      },
+      {
+        "id": "matt-20-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "What did the mother of Zebedee’s sons ask of Jesus?",
+        "options": [
+          "That her two sons might sit on his right and left hand in the kingdom",
+          "That he heal her two sons of a serious and long-lasting illness they suffered",
+          "That he forgive the great debt the Pharisees repeatedly kept demanding",
+          "That he teach them to pray just as John the Baptist had taught"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-20-fb-28",
+        "type": "fill_blank",
+        "after_verse": 28,
+        "verse": 28,
+        "template": "but to minister, and to give his life a {0} for many",
+        "blanks": [
+          "ransom"
+        ],
+        "distractors": [
+          "offering",
+          "tribute",
+          "witness"
+        ]
+      },
+      {
+        "id": "matt-20-mc-33",
+        "type": "multiple_choice",
+        "after_verse": 33,
+        "question": "What did the two blind men near Jericho ask of Jesus?",
+        "options": [
+          "That their eyes might be opened",
+          "That they be taken up to Jerusalem",
+          "That they receive silver for their journey",
+          "That they be healed of leprosy"
+        ],
+        "answer": 0
+      }
+    ],
+    "21": [
+      {
+        "id": "matt-21-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "How did the prophet say the King would come to the daughter of Sion?",
+        "options": [
+          "Meek, and sitting upon an ass and a colt",
+          "Mighty, surrounded by heavenly hosts and trumpets",
+          "Clothed in royal purple, upon a white war horse",
+          "Crowned with gold, seated upon a golden throne"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-fb-9",
+        "type": "fill_blank",
+        "after_verse": 9,
+        "verse": 9,
+        "template": "Hosanna to the Son of {0}",
+        "blanks": [
+          "David"
+        ],
+        "distractors": [
+          "Abraham",
+          "Moses",
+          "Solomon"
+        ]
+      },
+      {
+        "id": "matt-21-cur-9",
+        "type": "curiosity",
+        "after_verse": 9,
+        "title": "What \"Hosanna\" means",
+        "text": "\"Hosanna\" comes from Hebrew and means \"save us now.\" The crowd greeted Jesus with words from Psalm 118, hailing him as the promised King."
+      },
+      {
+        "id": "matt-21-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "As he cleansed the temple, what did Jesus say they had made it?",
+        "options": [
+          "A den of thieves",
+          "A house of feasting",
+          "A cattle market",
+          "A fortress"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-16",
+        "type": "multiple_choice",
+        "after_verse": 16,
+        "question": "Who cried \"Hosanna to the Son of David\" in the temple, displeasing the priests?",
+        "options": [
+          "The children",
+          "The Roman soldiers",
+          "The Pharisees",
+          "The merchants"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-19",
+        "type": "multiple_choice",
+        "after_verse": 19,
+        "question": "What happened to the fig tree Jesus found with only leaves?",
+        "options": [
+          "It withered away at once",
+          "It bore fruit at once",
+          "It grew up to heaven",
+          "It caught fire"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-24",
+        "type": "multiple_choice",
+        "after_verse": 24,
+        "question": "How did Jesus respond to those who questioned his authority?",
+        "options": [
+          "He asked them whence the baptism of John was",
+          "He demanded that witnesses be brought to confirm his authority",
+          "He showed them a sign from heaven to prove who he was",
+          "He remained completely silent and answered nothing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "In the parable of the two sons, which one did the will of his father?",
+        "options": [
+          "The one who said \"I will not,\" but afterward repented and went",
+          "The one who said \"yes, sir\" twice, but never actually went to work",
+          "Neither of them, for both disobeyed their father in the end that day",
+          "Both of them flatly refused entirely to go and work"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "In the parable, what did the husbandmen do to the servants the owner sent?",
+        "options": [
+          "They beat one, killed another, and stoned another",
+          "They seized them and handed them over to the Roman authorities",
+          "They drove them out of the vineyard without causing any injury",
+          "They gave them a share of the vineyard's harvest"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What did the husbandmen do when the owner sent his own son?",
+        "options": [
+          "They killed him to seize the inheritance",
+          "They asked forgiveness and returned everything",
+          "They gladly handed over the inheritance to him",
+          "They fled and drove him from the vineyard"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-21-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "To what did Jesus liken himself by quoting \"the stone which the builders rejected\"?",
+        "options": [
+          "The head of the corner (chief cornerstone)",
+          "A shepherd who diligently seeks the one lost sheep",
+          "A husbandman who faithfully sows the good seed",
+          "A righteous judge who judges with justice"
+        ],
+        "answer": 0
+      }
+    ],
+    "22": [
+      {
+        "id": "matt-22-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "In the parable of the wedding, how did the first guests respond?",
+        "options": [
+          "They made light of it and went to their own affairs",
+          "They came hastily and brought many gifts to the king",
+          "They refused and warned the king's soldiers at once",
+          "They accepted the invitation with great joy"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "Whom did the servants gather to furnish the wedding?",
+        "options": [
+          "All they found, both bad and good",
+          "Only the religious leaders of the city and region",
+          "Only the king's distant relatives",
+          "Only the first guests who accepted"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-fb-14",
+        "type": "fill_blank",
+        "after_verse": 14,
+        "verse": 14,
+        "template": "For many are called, but few are {0}",
+        "blanks": [
+          "chosen"
+        ],
+        "distractors": [
+          "saved",
+          "worthy",
+          "righteous"
+        ]
+      },
+      {
+        "id": "matt-22-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 21,
+        "template": "Render therefore unto {0} the things which are Cæsar’s",
+        "blanks": [
+          "Cæsar"
+        ],
+        "distractors": [
+          "Herod",
+          "Pilate",
+          "David"
+        ]
+      },
+      {
+        "id": "matt-22-cur-20",
+        "type": "curiosity",
+        "after_verse": 20,
+        "title": "The tribute coin",
+        "text": "The tribute penny bore the image and title of the Roman emperor. By asking for the coin, Jesus showed that those questioning him already used Cæsar’s money."
+      },
+      {
+        "id": "matt-22-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "What case did the Sadducees present to deny the resurrection?",
+        "options": [
+          "Seven brothers who, one after another, had the same wife",
+          "A man who had a hundred sons and all of them died without offspring",
+          "Two kings who fiercely disputed the same land by inheritance",
+          "A poor blind widow who lost two coins of silver"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-32",
+        "type": "multiple_choice",
+        "after_verse": 32,
+        "question": "How did Jesus prove the resurrection against the Sadducees?",
+        "options": [
+          "God is the God of Abraham, Isaac, and Jacob — of the living, not the dead",
+          "By citing the ancient sacred law of divorce that Moses gave in the desert of Sinai",
+          "By the exact number of the righteous who would be resurrected on the last great day of judgment",
+          "By the parable of the wicked husbandmen and the leased vineyard"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mc-38",
+        "type": "multiple_choice",
+        "after_verse": 38,
+        "question": "According to Jesus, which is the first and great commandment?",
+        "options": [
+          "To love God with all thy heart, soul, and mind",
+          "To keep the sabbath and all the solemn feasts of the law",
+          "To honour father and mother above all other things",
+          "Thou shalt not kill, steal, or ever lie"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-22-mp-40",
+        "type": "match_pairs",
+        "after_verse": 40,
+        "pairs": [
+          {
+            "left": "Pharisees and Herodians",
+            "right": "tribute unto Cæsar"
+          },
+          {
+            "left": "Sadducees",
+            "right": "the resurrection of the dead"
+          },
+          {
+            "left": "A lawyer",
+            "right": "the great commandment"
+          }
+        ]
+      }
+    ],
+    "23": [
+      {
+        "id": "matt-23-mc-3",
+        "type": "multiple_choice",
+        "after_verse": 3,
+        "question": "What did Jesus criticize in the scribes and Pharisees who sat in Moses’ seat?",
+        "options": [
+          "They say, but do not",
+          "They fast excessively to be seen",
+          "They do not know the law of Moses well",
+          "They avoid the synagogue"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-7",
+        "type": "multiple_choice",
+        "after_verse": 7,
+        "question": "What greeting did the scribes and Pharisees love to be called by men?",
+        "options": [
+          "To be called Rabbi",
+          "To be called servants",
+          "To be called sinners",
+          "To be called strangers"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-fb-12",
+        "type": "fill_blank",
+        "after_verse": 12,
+        "verse": 12,
+        "template": "and he that shall humble himself shall be {0}",
+        "blanks": [
+          "exalted"
+        ],
+        "distractors": [
+          "abased",
+          "judged",
+          "forgotten"
+        ]
+      },
+      {
+        "id": "matt-23-mc-17",
+        "type": "multiple_choice",
+        "after_verse": 17,
+        "question": "In the woe about oaths, what did Jesus say was greater?",
+        "options": [
+          "The temple, which sanctifies the gold",
+          "The gold, which sanctifies the temple",
+          "The altar, which sanctifies the temple",
+          "The gift, which sanctifies the altar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "They tithed mint, anise, and cummin, but omitted the weightier matters of the law — which?",
+        "options": [
+          "Judgment, mercy, and faith",
+          "Fasting, prayer, and generous alms",
+          "The sabbath and the annual feasts",
+          "The temple and the sacred altar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "To what did Jesus compare the hypocritical scribes and Pharisees?",
+        "options": [
+          "Whited sepulchres, fair outside and full of bones within",
+          "Trees without fruit that will be cut down and cast immediately into the fire",
+          "Houses built on sand that cannot withstand the fierce storm",
+          "Wolves that disguise themselves in innocent sheep's clothing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-cur-27",
+        "type": "curiosity",
+        "after_verse": 27,
+        "title": "Whited sepulchres",
+        "text": "Before Passover, tombs were whitewashed so pilgrims would not touch them by mistake and become ceremonially unclean. Jesus uses that familiar image: fair without, unclean within."
+      },
+      {
+        "id": "matt-23-mc-31",
+        "type": "multiple_choice",
+        "after_verse": 31,
+        "question": "Of what did Jesus say the Pharisees were witnesses against themselves?",
+        "options": [
+          "That they were children of them who killed the prophets",
+          "That they faithfully kept the whole law of Moses perfectly",
+          "That they fasted publicly and excessively before the people",
+          "That they built the temple with great splendor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-23-fb-37",
+        "type": "fill_blank",
+        "after_verse": 37,
+        "verse": 37,
+        "template": "even as a {0} gathereth her chickens under her wings",
+        "blanks": [
+          "hen"
+        ],
+        "distractors": [
+          "dove",
+          "eagle",
+          "sparrow"
+        ]
+      }
+    ],
+    "24": [
+      {
+        "id": "matt-24-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What was Jesus’ first warning about the last days?",
+        "options": [
+          "That no man deceive them, for many would come in his name",
+          "That they should sell all they had and give it to the poor",
+          "That they flee to the mountains before the tribulation came",
+          "That they quickly rebuild a new temple in Jerusalem"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "What did Jesus say about wars and rumours of wars?",
+        "options": [
+          "Not to be troubled, for the end was not yet",
+          "That these wars were a sign the final judgment had already begun",
+          "That the war against the Church would not cease until the Lord's coming",
+          "That the faithful should abandon their homes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-cur-2",
+        "type": "curiosity",
+        "after_verse": 2,
+        "title": "The temple destroyed",
+        "text": "Jesus said not one stone of the temple would be left upon another. In A.D. 70, about forty years later, the Romans destroyed Jerusalem and the temple, literally fulfilling the prophecy."
+      },
+      {
+        "id": "matt-24-fb-13",
+        "type": "fill_blank",
+        "after_verse": 13,
+        "verse": 13,
+        "template": "But he that shall endure unto the end, the same shall be {0}",
+        "blanks": [
+          "saved"
+        ],
+        "distractors": [
+          "judged",
+          "called",
+          "tried"
+        ]
+      },
+      {
+        "id": "matt-24-fb-15",
+        "type": "fill_blank",
+        "after_verse": 15,
+        "verse": 15,
+        "template": "spoken of by {0} the prophet",
+        "blanks": [
+          "Daniel"
+        ],
+        "distractors": [
+          "Isaiah",
+          "Jeremias",
+          "Ezekiel"
+        ]
+      },
+      {
+        "id": "matt-24-mc-22",
+        "type": "multiple_choice",
+        "after_verse": 22,
+        "question": "For whose sake would those days of great tribulation be shortened?",
+        "options": [
+          "For the elect’s sake",
+          "For the rich’s sake",
+          "For the priests’ sake",
+          "For Jerusalem’s sake"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-27",
+        "type": "multiple_choice",
+        "after_verse": 27,
+        "question": "To what did Jesus compare the coming of the Son of man?",
+        "options": [
+          "The lightning that comes from the east and shines to the west",
+          "A thief who comes by surprise during the long dark night unseen",
+          "A river that dries up completely during the whole hot summer season",
+          "A hidden seed that grows quietly in the soft ground"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mp-31",
+        "type": "match_pairs",
+        "after_verse": 31,
+        "pairs": [
+          {
+            "left": "The sun",
+            "right": "shall be darkened"
+          },
+          {
+            "left": "The moon",
+            "right": "shall not give her light"
+          },
+          {
+            "left": "The stars",
+            "right": "shall fall from heaven"
+          }
+        ]
+      },
+      {
+        "id": "matt-24-fb-35",
+        "type": "fill_blank",
+        "after_verse": 35,
+        "verse": 35,
+        "template": "but my words shall not pass {0}",
+        "blanks": [
+          "away"
+        ],
+        "distractors": [
+          "off",
+          "out",
+          "by"
+        ]
+      },
+      {
+        "id": "matt-24-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "What image did Jesus use for the separation at his coming?",
+        "options": [
+          "Two in the field: one taken, the other left",
+          "Two boats at sea, one saved and the other lost",
+          "Two cities at war, one destroyed and the other spared",
+          "Two kings on a throne fighting for power"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "What counsel did Jesus give because the Son of man comes at an unexpected hour?",
+        "options": [
+          "Be ye also ready",
+          "Lay up riches",
+          "Build walls",
+          "Sleep at ease"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-24-mc-49",
+        "type": "multiple_choice",
+        "after_verse": 49,
+        "question": "What distinguishes the faithful servant from the evil servant in the closing parable?",
+        "options": [
+          "The faithful tends the household; the evil beats his fellows and gets drunk",
+          "The faithful always obeys; the evil servant ignores his lord's strict commands",
+          "The faithful gives all to his own lord; the evil hides the goods for himself",
+          "The faithful works quietly; the evil boasts before everyone"
+        ],
+        "answer": 0
+      }
+    ],
+    "25": [
+      {
+        "id": "matt-25-cur-15",
+        "type": "curiosity",
+        "after_verse": 15,
+        "title": "How much was a talent worth?",
+        "text": "A “talent” was a unit of weight; in silver it equalled many years of a laborer’s wages. The servant who buried “one” talent still hid a small fortune."
+      },
+      {
+        "id": "matt-25-mc-6",
+        "type": "multiple_choice",
+        "after_verse": 6,
+        "question": "How many of the ten virgins were wise?",
+        "options": [
+          "Five",
+          "Ten",
+          "Three",
+          "Seven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "What lesson did Jesus draw from the ten virgins?",
+        "options": [
+          "Watch, for ye know neither the day nor the hour",
+          "Sell all that ye have to buy more oil for the lamps",
+          "Fast for forty days before the wedding day arrives",
+          "Rebuild the temple before the bridegroom comes"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-18",
+        "type": "multiple_choice",
+        "after_verse": 18,
+        "question": "How many talents did the third servant receive?",
+        "options": [
+          "One",
+          "Five",
+          "Two",
+          "Ten"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-23",
+        "type": "multiple_choice",
+        "after_verse": 23,
+        "question": "What did the lord say to the servants who doubled their talents?",
+        "options": [
+          "“Well done, thou good and faithful servant”",
+          "“I know thee not, depart quickly away from me”",
+          "“Depart from me, I never knew thee at any time”",
+          "“Get thee behind me, wicked Satan”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "What did the slothful servant do with his talent?",
+        "options": [
+          "He hid it in the earth",
+          "He gave it to the exchangers",
+          "He bought a field",
+          "He gave it to the poor"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mp-36",
+        "type": "match_pairs",
+        "after_verse": 36,
+        "pairs": [
+          {
+            "left": "I was hungry",
+            "right": "Ye gave me meat"
+          },
+          {
+            "left": "I was thirsty",
+            "right": "Ye gave me drink"
+          },
+          {
+            "left": "I was a stranger",
+            "right": "Ye took me in"
+          },
+          {
+            "left": "I was naked",
+            "right": "Ye clothed me"
+          }
+        ]
+      },
+      {
+        "id": "matt-25-mc-40",
+        "type": "multiple_choice",
+        "after_verse": 40,
+        "question": "Serving “one of the least of these,” the King said, is as if done to whom?",
+        "options": [
+          "Unto himself",
+          "Unto the angels",
+          "Unto the prophets",
+          "Unto the priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-25-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "Where do the righteous go, according to verse 46?",
+        "options": [
+          "Into life eternal",
+          "Into everlasting punishment",
+          "Into everlasting fire",
+          "Into outer darkness"
+        ],
+        "answer": 0
+      }
+    ],
+    "26": [
+      {
+        "id": "matt-26-cur-7",
+        "type": "curiosity",
+        "after_verse": 7,
+        "title": "Gethsemane: the “oil press”",
+        "text": "The name Gethsemane means “oil press.” It was an olive garden on the Mount of Olives where olives were crushed for oil—a fitting image of what Jesus suffered there."
+      },
+      {
+        "id": "matt-26-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "In whose palace did the leaders gather to plot against Jesus?",
+        "options": [
+          "Caiaphas",
+          "Annas",
+          "Herod",
+          "Pilate"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-9",
+        "type": "multiple_choice",
+        "after_verse": 9,
+        "question": "In whose house was Jesus anointed at Bethany?",
+        "options": [
+          "Simon the leper",
+          "Lazarus the risen",
+          "Matthew the publican",
+          "Zacchaeus the collector"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-13",
+        "type": "multiple_choice",
+        "after_verse": 13,
+        "question": "Why did Jesus say the woman poured the ointment on him?",
+        "options": [
+          "To prepare him for his burial",
+          "To crown him publicly as the new king",
+          "To heal him of a serious old illness",
+          "To honor the sabbath with an offering"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-fb-19",
+        "type": "fill_blank",
+        "after_verse": 19,
+        "verse": 15,
+        "template": "they covenanted with him for {0} pieces of silver",
+        "blanks": [
+          "thirty"
+        ],
+        "distractors": [
+          "twenty",
+          "forty",
+          "fifty"
+        ]
+      },
+      {
+        "id": "matt-26-mc-25",
+        "type": "multiple_choice",
+        "after_verse": 25,
+        "question": "How did Jesus indicate at the table who would betray him?",
+        "options": [
+          "“He that dippeth his hand with me in the dish”",
+          "“He that sitteth at the right hand of the master”",
+          "“He that first leaveth this crowded room in haste”",
+          "“The youngest among all the disciples here”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-30",
+        "type": "multiple_choice",
+        "after_verse": 30,
+        "question": "At the Last Supper, what did Jesus say the bread represented?",
+        "options": [
+          "His body",
+          "His blood",
+          "The new covenant",
+          "The passover"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-35",
+        "type": "multiple_choice",
+        "after_verse": 35,
+        "question": "How many times did Jesus say Peter would deny him?",
+        "options": [
+          "Three",
+          "Once",
+          "Twice",
+          "Seven"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-41",
+        "type": "multiple_choice",
+        "after_verse": 41,
+        "question": "To what place did Jesus go to pray in agony?",
+        "options": [
+          "Gethsemane",
+          "Golgotha",
+          "Bethany",
+          "Galilee"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-46",
+        "type": "multiple_choice",
+        "after_verse": 46,
+        "question": "How many times did Jesus pray in Gethsemane?",
+        "options": [
+          "Three times",
+          "Once",
+          "Twice",
+          "Seven times"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-52",
+        "type": "multiple_choice",
+        "after_verse": 52,
+        "question": "What sign did Judas arrange to identify Jesus?",
+        "options": [
+          "A kiss",
+          "A handshake",
+          "A wave",
+          "A shout"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-fb-56",
+        "type": "fill_blank",
+        "after_verse": 56,
+        "verse": 53,
+        "template": "more than {0} legions of angels",
+        "blanks": [
+          "twelve"
+        ],
+        "distractors": [
+          "ten",
+          "seven",
+          "seventy"
+        ]
+      },
+      {
+        "id": "matt-26-mc-61",
+        "type": "multiple_choice",
+        "after_verse": 61,
+        "question": "What did the false witnesses accuse Jesus of?",
+        "options": [
+          "Of saying he could destroy the temple and rebuild it in three days",
+          "Of publicly denying the authority of the sacred law and the prophets",
+          "Of secretly stealing the temple treasury during the passover night",
+          "Of denying Caesar and stirring the people to armed revolt"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "What did the council decide Jesus was?",
+        "options": [
+          "Guilty of death",
+          "A dangerous blasphemer",
+          "A false teacher of Israel",
+          "A traitor to Rome"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-71",
+        "type": "multiple_choice",
+        "after_verse": 71,
+        "question": "What did Peter do when accused of being with Jesus?",
+        "options": [
+          "He denied it",
+          "He fled to Galilee",
+          "He confessed",
+          "He drew his sword"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-26-mc-75",
+        "type": "multiple_choice",
+        "after_verse": 75,
+        "question": "What happened immediately after Peter’s third denial?",
+        "options": [
+          "The cock crew",
+          "An earthquake came",
+          "The veil tore",
+          "Jesus appeared"
+        ],
+        "answer": 0
+      }
+    ],
+    "27": [
+      {
+        "id": "matt-27-cur-33",
+        "type": "curiosity",
+        "after_verse": 33,
+        "title": "Golgotha, the “place of a skull”",
+        "text": "“Golgotha” is Aramaic for “place of a skull” (Calvary in Latin). It was a place of execution outside the walls of Jerusalem."
+      },
+      {
+        "id": "matt-27-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "What did Judas do after seeing Jesus condemned?",
+        "options": [
+          "He hanged himself",
+          "He fled Jerusalem",
+          "He begged Jesus’ pardon",
+          "He denied knowing him"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-10",
+        "type": "multiple_choice",
+        "after_verse": 10,
+        "question": "What was bought with the thirty pieces of silver?",
+        "options": [
+          "The potter’s field",
+          "A vineyard",
+          "A new tomb",
+          "A house in Bethany"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-14",
+        "type": "multiple_choice",
+        "after_verse": 14,
+        "question": "How did Jesus respond to the many accusations before Pilate?",
+        "options": [
+          "He answered nothing",
+          "He denied everything",
+          "He accused the priests",
+          "He asked for a defender"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-fb-21",
+        "type": "fill_blank",
+        "after_verse": 21,
+        "verse": 16,
+        "template": "a notable prisoner, called {0}",
+        "blanks": [
+          "Barabbas"
+        ],
+        "distractors": [
+          "Caiaphas",
+          "Lazarus",
+          "Judas"
+        ]
+      },
+      {
+        "id": "matt-27-mc-26",
+        "type": "multiple_choice",
+        "after_verse": 26,
+        "question": "What did Pilate do to declare himself innocent of Jesus’ blood?",
+        "options": [
+          "He washed his hands before the multitude",
+          "He released Jesus immediately without trial",
+          "He rent his clothes before all the people",
+          "He wrote a letter explaining everything to Caesar"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-fb-31",
+        "type": "fill_blank",
+        "after_verse": 31,
+        "verse": 29,
+        "template": "a crown of {0}",
+        "blanks": [
+          "thorns"
+        ],
+        "distractors": [
+          "gold",
+          "silver",
+          "laurel"
+        ]
+      },
+      {
+        "id": "matt-27-mc-37",
+        "type": "multiple_choice",
+        "after_verse": 37,
+        "question": "Who was compelled to carry Jesus’ cross?",
+        "options": [
+          "Simon of Cyrene",
+          "Simon Peter",
+          "Joseph of Arimathea",
+          "Barabbas"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-44",
+        "type": "multiple_choice",
+        "after_verse": 44,
+        "question": "Who were crucified with Jesus, one on each side?",
+        "options": [
+          "Two thieves",
+          "Two soldiers",
+          "Two disciples",
+          "Two priests"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-50",
+        "type": "multiple_choice",
+        "after_verse": 50,
+        "question": "What did Jesus cry with a loud voice about the ninth hour?",
+        "options": [
+          "“My God, my God, why hast thou forsaken me?”",
+          "“Father, forgive them, for they know not what they do”",
+          "“It is now finished, the prophecy fulfilled”",
+          "“Into thy hands I now commend my spirit forever”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-54",
+        "type": "multiple_choice",
+        "after_verse": 54,
+        "question": "What did the centurion say when he saw the earthquake?",
+        "options": [
+          "“Truly this was the Son of God”",
+          "“I know not this man, I never saw him”",
+          "“I am innocent of his blood, I wash my hands”",
+          "“He will rise on the third day as he promised”"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-61",
+        "type": "multiple_choice",
+        "after_verse": 61,
+        "question": "Who asked Pilate for Jesus’ body and buried it?",
+        "options": [
+          "Joseph of Arimathea",
+          "Nicodemus",
+          "Simon Peter",
+          "Joseph the carpenter"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-27-mc-66",
+        "type": "multiple_choice",
+        "after_verse": 66,
+        "question": "What did the chief priests ask Pilate to do after the burial?",
+        "options": [
+          "Set a guard and seal the tomb",
+          "Release Barabbas before the feast ended",
+          "Return the body to Joseph of Arimathea",
+          "Crucify the remaining disciples"
+        ],
+        "answer": 0
+      }
+    ],
+    "28": [
+      {
+        "id": "matt-28-cur-19",
+        "type": "curiosity",
+        "after_verse": 19,
+        "title": "The “Great Commission”",
+        "text": "Verses 19–20 are called the “Great Commission”: Jesus’ charge to take the gospel to all nations. It is the only place in Matthew that names the Father, the Son, and the Holy Ghost together."
+      },
+      {
+        "id": "matt-28-mc-5",
+        "type": "multiple_choice",
+        "after_verse": 5,
+        "question": "Who rolled back the stone from the door of the tomb?",
+        "options": [
+          "An angel of the Lord",
+          "One of the Roman guards",
+          "The chief priests and elders",
+          "John, the beloved disciple"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-28-fb-10",
+        "type": "fill_blank",
+        "after_verse": 10,
+        "verse": 6,
+        "template": "for he is {0}, as he said",
+        "blanks": [
+          "risen"
+        ],
+        "distractors": [
+          "departed",
+          "asleep",
+          "gone"
+        ]
+      },
+      {
+        "id": "matt-28-mc-15",
+        "type": "multiple_choice",
+        "after_verse": 15,
+        "question": "What story were the soldiers paid to tell?",
+        "options": [
+          "That the disciples stole the body by night",
+          "That the body was carried away by angels to heaven",
+          "That the priests hid the body in another place",
+          "That Jesus had never truly been dead"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "matt-28-mc-20",
+        "type": "multiple_choice",
+        "after_verse": 20,
+        "question": "In whose name did Jesus command to baptize all nations?",
+        "options": [
+          "The Father, the Son, and the Holy Ghost",
+          "Only in the name of the Father and the angels of heaven",
+          "In the name of Moses and the ancient prophets",
+          "In the name of the twelve chosen apostles"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}
