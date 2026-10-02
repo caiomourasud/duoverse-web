@@ -1,0 +1,6818 @@
+{
+ "plan_id": "old-testament-sequential",
+ "schema_version": 1,
+ "type": "scripture-reading",
+ "scripture": "ot",
+ "total_nodes": 929,
+ "total_units": 142,
+ "total_sections": 39,
+ "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/ot",
+ "name_key": "plan.old-testament-sequential.name",
+ "subtitle_key": "plan.old-testament-sequential.subtitle",
+ "source_key": "plan.old-testament-sequential.source",
+ "sections": [
+  {
+   "id": 1,
+   "slug": "genesis",
+   "primary_book": "gen",
+   "subtitle_key": "plan.old-testament-sequential.section.genesis.subtitle",
+   "units": [
+    {
+     "id": 1,
+     "title_key": "plan.old-testament-sequential.unit.1.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 1,
+       "book": "gen",
+       "ch": 1
+      },
+      {
+       "id": 2,
+       "book": "gen",
+       "ch": 2
+      },
+      {
+       "id": 3,
+       "book": "gen",
+       "ch": 3
+      },
+      {
+       "id": 4,
+       "book": "gen",
+       "ch": 4
+      },
+      {
+       "id": 5,
+       "book": "gen",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "title_key": "plan.old-testament-sequential.unit.2.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 6,
+       "to_ch": 11
+      }
+     ],
+     "nodes": [
+      {
+       "id": 6,
+       "book": "gen",
+       "ch": 6
+      },
+      {
+       "id": 7,
+       "book": "gen",
+       "ch": 7
+      },
+      {
+       "id": 8,
+       "book": "gen",
+       "ch": 8
+      },
+      {
+       "id": 9,
+       "book": "gen",
+       "ch": 9
+      },
+      {
+       "id": 10,
+       "book": "gen",
+       "ch": 10
+      },
+      {
+       "id": 11,
+       "book": "gen",
+       "ch": 11
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "title_key": "plan.old-testament-sequential.unit.3.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 12,
+       "to_ch": 17
+      }
+     ],
+     "nodes": [
+      {
+       "id": 12,
+       "book": "gen",
+       "ch": 12
+      },
+      {
+       "id": 13,
+       "book": "gen",
+       "ch": 13
+      },
+      {
+       "id": 14,
+       "book": "gen",
+       "ch": 14
+      },
+      {
+       "id": 15,
+       "book": "gen",
+       "ch": 15
+      },
+      {
+       "id": 16,
+       "book": "gen",
+       "ch": 16
+      },
+      {
+       "id": 17,
+       "book": "gen",
+       "ch": 17
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "title_key": "plan.old-testament-sequential.unit.4.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 18,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 18,
+       "book": "gen",
+       "ch": 18
+      },
+      {
+       "id": 19,
+       "book": "gen",
+       "ch": 19
+      },
+      {
+       "id": 20,
+       "book": "gen",
+       "ch": 20
+      },
+      {
+       "id": 21,
+       "book": "gen",
+       "ch": 21
+      },
+      {
+       "id": 22,
+       "book": "gen",
+       "ch": 22
+      },
+      {
+       "id": 23,
+       "book": "gen",
+       "ch": 23
+      },
+      {
+       "id": 24,
+       "book": "gen",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "title_key": "plan.old-testament-sequential.unit.5.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 25,
+       "to_ch": 31
+      }
+     ],
+     "nodes": [
+      {
+       "id": 25,
+       "book": "gen",
+       "ch": 25
+      },
+      {
+       "id": 26,
+       "book": "gen",
+       "ch": 26
+      },
+      {
+       "id": 27,
+       "book": "gen",
+       "ch": 27
+      },
+      {
+       "id": 28,
+       "book": "gen",
+       "ch": 28
+      },
+      {
+       "id": 29,
+       "book": "gen",
+       "ch": 29
+      },
+      {
+       "id": 30,
+       "book": "gen",
+       "ch": 30
+      },
+      {
+       "id": 31,
+       "book": "gen",
+       "ch": 31
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "title_key": "plan.old-testament-sequential.unit.6.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 32,
+       "to_ch": 37
+      }
+     ],
+     "nodes": [
+      {
+       "id": 32,
+       "book": "gen",
+       "ch": 32
+      },
+      {
+       "id": 33,
+       "book": "gen",
+       "ch": 33
+      },
+      {
+       "id": 34,
+       "book": "gen",
+       "ch": 34
+      },
+      {
+       "id": 35,
+       "book": "gen",
+       "ch": 35
+      },
+      {
+       "id": 36,
+       "book": "gen",
+       "ch": 36
+      },
+      {
+       "id": 37,
+       "book": "gen",
+       "ch": 37
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "title_key": "plan.old-testament-sequential.unit.7.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 38,
+       "to_ch": 43
+      }
+     ],
+     "nodes": [
+      {
+       "id": 38,
+       "book": "gen",
+       "ch": 38
+      },
+      {
+       "id": 39,
+       "book": "gen",
+       "ch": 39
+      },
+      {
+       "id": 40,
+       "book": "gen",
+       "ch": 40
+      },
+      {
+       "id": 41,
+       "book": "gen",
+       "ch": 41
+      },
+      {
+       "id": 42,
+       "book": "gen",
+       "ch": 42
+      },
+      {
+       "id": 43,
+       "book": "gen",
+       "ch": 43
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "title_key": "plan.old-testament-sequential.unit.8.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 44,
+       "to_ch": 50
+      }
+     ],
+     "nodes": [
+      {
+       "id": 44,
+       "book": "gen",
+       "ch": 44
+      },
+      {
+       "id": 45,
+       "book": "gen",
+       "ch": 45
+      },
+      {
+       "id": 46,
+       "book": "gen",
+       "ch": 46
+      },
+      {
+       "id": 47,
+       "book": "gen",
+       "ch": 47
+      },
+      {
+       "id": 48,
+       "book": "gen",
+       "ch": 48
+      },
+      {
+       "id": 49,
+       "book": "gen",
+       "ch": 49
+      },
+      {
+       "id": 50,
+       "book": "gen",
+       "ch": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "exodus",
+   "primary_book": "ex",
+   "subtitle_key": "plan.old-testament-sequential.section.exodus.subtitle",
+   "units": [
+    {
+     "id": 9,
+     "title_key": "plan.old-testament-sequential.unit.9.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 51,
+       "book": "ex",
+       "ch": 1
+      },
+      {
+       "id": 52,
+       "book": "ex",
+       "ch": 2
+      },
+      {
+       "id": 53,
+       "book": "ex",
+       "ch": 3
+      },
+      {
+       "id": 54,
+       "book": "ex",
+       "ch": 4
+      },
+      {
+       "id": 55,
+       "book": "ex",
+       "ch": 5
+      },
+      {
+       "id": 56,
+       "book": "ex",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "title_key": "plan.old-testament-sequential.unit.10.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 57,
+       "book": "ex",
+       "ch": 7
+      },
+      {
+       "id": 58,
+       "book": "ex",
+       "ch": 8
+      },
+      {
+       "id": 59,
+       "book": "ex",
+       "ch": 9
+      },
+      {
+       "id": 60,
+       "book": "ex",
+       "ch": 10
+      },
+      {
+       "id": 61,
+       "book": "ex",
+       "ch": 11
+      },
+      {
+       "id": 62,
+       "book": "ex",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "title_key": "plan.old-testament-sequential.unit.11.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 13,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 63,
+       "book": "ex",
+       "ch": 13
+      },
+      {
+       "id": 64,
+       "book": "ex",
+       "ch": 14
+      },
+      {
+       "id": 65,
+       "book": "ex",
+       "ch": 15
+      },
+      {
+       "id": 66,
+       "book": "ex",
+       "ch": 16
+      },
+      {
+       "id": 67,
+       "book": "ex",
+       "ch": 17
+      },
+      {
+       "id": 68,
+       "book": "ex",
+       "ch": 18
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "title_key": "plan.old-testament-sequential.unit.12.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 19,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 69,
+       "book": "ex",
+       "ch": 19
+      },
+      {
+       "id": 70,
+       "book": "ex",
+       "ch": 20
+      },
+      {
+       "id": 71,
+       "book": "ex",
+       "ch": 21
+      },
+      {
+       "id": 72,
+       "book": "ex",
+       "ch": 22
+      },
+      {
+       "id": 73,
+       "book": "ex",
+       "ch": 23
+      },
+      {
+       "id": 74,
+       "book": "ex",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "title_key": "plan.old-testament-sequential.unit.13.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 25,
+       "to_ch": 31
+      }
+     ],
+     "nodes": [
+      {
+       "id": 75,
+       "book": "ex",
+       "ch": 25
+      },
+      {
+       "id": 76,
+       "book": "ex",
+       "ch": 26
+      },
+      {
+       "id": 77,
+       "book": "ex",
+       "ch": 27
+      },
+      {
+       "id": 78,
+       "book": "ex",
+       "ch": 28
+      },
+      {
+       "id": 79,
+       "book": "ex",
+       "ch": 29
+      },
+      {
+       "id": 80,
+       "book": "ex",
+       "ch": 30
+      },
+      {
+       "id": 81,
+       "book": "ex",
+       "ch": 31
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "title_key": "plan.old-testament-sequential.unit.14.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 32,
+       "to_ch": 34
+      }
+     ],
+     "nodes": [
+      {
+       "id": 82,
+       "book": "ex",
+       "ch": 32
+      },
+      {
+       "id": 83,
+       "book": "ex",
+       "ch": 33
+      },
+      {
+       "id": 84,
+       "book": "ex",
+       "ch": 34
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "title_key": "plan.old-testament-sequential.unit.15.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 35,
+       "to_ch": 40
+      }
+     ],
+     "nodes": [
+      {
+       "id": 85,
+       "book": "ex",
+       "ch": 35
+      },
+      {
+       "id": 86,
+       "book": "ex",
+       "ch": 36
+      },
+      {
+       "id": 87,
+       "book": "ex",
+       "ch": 37
+      },
+      {
+       "id": 88,
+       "book": "ex",
+       "ch": 38
+      },
+      {
+       "id": 89,
+       "book": "ex",
+       "ch": 39
+      },
+      {
+       "id": 90,
+       "book": "ex",
+       "ch": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "leviticus",
+   "primary_book": "lev",
+   "subtitle_key": "plan.old-testament-sequential.section.leviticus.subtitle",
+   "units": [
+    {
+     "id": 16,
+     "title_key": "plan.old-testament-sequential.unit.16.title",
+     "ref_range": [
+      {
+       "book": "lev",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 91,
+       "book": "lev",
+       "ch": 1
+      },
+      {
+       "id": 92,
+       "book": "lev",
+       "ch": 2
+      },
+      {
+       "id": 93,
+       "book": "lev",
+       "ch": 3
+      },
+      {
+       "id": 94,
+       "book": "lev",
+       "ch": 4
+      },
+      {
+       "id": 95,
+       "book": "lev",
+       "ch": 5
+      },
+      {
+       "id": 96,
+       "book": "lev",
+       "ch": 6
+      },
+      {
+       "id": 97,
+       "book": "lev",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "title_key": "plan.old-testament-sequential.unit.17.title",
+     "ref_range": [
+      {
+       "book": "lev",
+       "from_ch": 8,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 98,
+       "book": "lev",
+       "ch": 8
+      },
+      {
+       "id": 99,
+       "book": "lev",
+       "ch": 9
+      },
+      {
+       "id": 100,
+       "book": "lev",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "title_key": "plan.old-testament-sequential.unit.18.title",
+     "ref_range": [
+      {
+       "book": "lev",
+       "from_ch": 11,
+       "to_ch": 15
+      }
+     ],
+     "nodes": [
+      {
+       "id": 101,
+       "book": "lev",
+       "ch": 11
+      },
+      {
+       "id": 102,
+       "book": "lev",
+       "ch": 12
+      },
+      {
+       "id": 103,
+       "book": "lev",
+       "ch": 13
+      },
+      {
+       "id": 104,
+       "book": "lev",
+       "ch": 14
+      },
+      {
+       "id": 105,
+       "book": "lev",
+       "ch": 15
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "title_key": "plan.old-testament-sequential.unit.19.title",
+     "ref_range": [
+      {
+       "book": "lev",
+       "from_ch": 16,
+       "to_ch": 22
+      }
+     ],
+     "nodes": [
+      {
+       "id": 106,
+       "book": "lev",
+       "ch": 16
+      },
+      {
+       "id": 107,
+       "book": "lev",
+       "ch": 17
+      },
+      {
+       "id": 108,
+       "book": "lev",
+       "ch": 18
+      },
+      {
+       "id": 109,
+       "book": "lev",
+       "ch": 19
+      },
+      {
+       "id": 110,
+       "book": "lev",
+       "ch": 20
+      },
+      {
+       "id": 111,
+       "book": "lev",
+       "ch": 21
+      },
+      {
+       "id": 112,
+       "book": "lev",
+       "ch": 22
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "title_key": "plan.old-testament-sequential.unit.20.title",
+     "ref_range": [
+      {
+       "book": "lev",
+       "from_ch": 23,
+       "to_ch": 27
+      }
+     ],
+     "nodes": [
+      {
+       "id": 113,
+       "book": "lev",
+       "ch": 23
+      },
+      {
+       "id": 114,
+       "book": "lev",
+       "ch": 24
+      },
+      {
+       "id": 115,
+       "book": "lev",
+       "ch": 25
+      },
+      {
+       "id": 116,
+       "book": "lev",
+       "ch": 26
+      },
+      {
+       "id": 117,
+       "book": "lev",
+       "ch": 27
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "numbers",
+   "primary_book": "num",
+   "subtitle_key": "plan.old-testament-sequential.section.numbers.subtitle",
+   "units": [
+    {
+     "id": 21,
+     "title_key": "plan.old-testament-sequential.unit.21.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 118,
+       "book": "num",
+       "ch": 1
+      },
+      {
+       "id": 119,
+       "book": "num",
+       "ch": 2
+      },
+      {
+       "id": 120,
+       "book": "num",
+       "ch": 3
+      },
+      {
+       "id": 121,
+       "book": "num",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "title_key": "plan.old-testament-sequential.unit.22.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 5,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 122,
+       "book": "num",
+       "ch": 5
+      },
+      {
+       "id": 123,
+       "book": "num",
+       "ch": 6
+      },
+      {
+       "id": 124,
+       "book": "num",
+       "ch": 7
+      },
+      {
+       "id": 125,
+       "book": "num",
+       "ch": 8
+      },
+      {
+       "id": 126,
+       "book": "num",
+       "ch": 9
+      },
+      {
+       "id": 127,
+       "book": "num",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "title_key": "plan.old-testament-sequential.unit.23.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 11,
+       "to_ch": 14
+      }
+     ],
+     "nodes": [
+      {
+       "id": 128,
+       "book": "num",
+       "ch": 11
+      },
+      {
+       "id": 129,
+       "book": "num",
+       "ch": 12
+      },
+      {
+       "id": 130,
+       "book": "num",
+       "ch": 13
+      },
+      {
+       "id": 131,
+       "book": "num",
+       "ch": 14
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "title_key": "plan.old-testament-sequential.unit.24.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 15,
+       "to_ch": 19
+      }
+     ],
+     "nodes": [
+      {
+       "id": 132,
+       "book": "num",
+       "ch": 15
+      },
+      {
+       "id": 133,
+       "book": "num",
+       "ch": 16
+      },
+      {
+       "id": 134,
+       "book": "num",
+       "ch": 17
+      },
+      {
+       "id": 135,
+       "book": "num",
+       "ch": 18
+      },
+      {
+       "id": 136,
+       "book": "num",
+       "ch": 19
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "title_key": "plan.old-testament-sequential.unit.25.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 20,
+       "to_ch": 25
+      }
+     ],
+     "nodes": [
+      {
+       "id": 137,
+       "book": "num",
+       "ch": 20
+      },
+      {
+       "id": 138,
+       "book": "num",
+       "ch": 21
+      },
+      {
+       "id": 139,
+       "book": "num",
+       "ch": 22
+      },
+      {
+       "id": 140,
+       "book": "num",
+       "ch": 23
+      },
+      {
+       "id": 141,
+       "book": "num",
+       "ch": 24
+      },
+      {
+       "id": 142,
+       "book": "num",
+       "ch": 25
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "title_key": "plan.old-testament-sequential.unit.26.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 26,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 143,
+       "book": "num",
+       "ch": 26
+      },
+      {
+       "id": 144,
+       "book": "num",
+       "ch": 27
+      },
+      {
+       "id": 145,
+       "book": "num",
+       "ch": 28
+      },
+      {
+       "id": 146,
+       "book": "num",
+       "ch": 29
+      },
+      {
+       "id": 147,
+       "book": "num",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "title_key": "plan.old-testament-sequential.unit.27.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 31,
+       "to_ch": 36
+      }
+     ],
+     "nodes": [
+      {
+       "id": 148,
+       "book": "num",
+       "ch": 31
+      },
+      {
+       "id": 149,
+       "book": "num",
+       "ch": 32
+      },
+      {
+       "id": 150,
+       "book": "num",
+       "ch": 33
+      },
+      {
+       "id": 151,
+       "book": "num",
+       "ch": 34
+      },
+      {
+       "id": 152,
+       "book": "num",
+       "ch": 35
+      },
+      {
+       "id": 153,
+       "book": "num",
+       "ch": 36
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "deuteronomy",
+   "primary_book": "deut",
+   "subtitle_key": "plan.old-testament-sequential.section.deuteronomy.subtitle",
+   "units": [
+    {
+     "id": 28,
+     "title_key": "plan.old-testament-sequential.unit.28.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 154,
+       "book": "deut",
+       "ch": 1
+      },
+      {
+       "id": 155,
+       "book": "deut",
+       "ch": 2
+      },
+      {
+       "id": 156,
+       "book": "deut",
+       "ch": 3
+      },
+      {
+       "id": 157,
+       "book": "deut",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "title_key": "plan.old-testament-sequential.unit.29.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 5,
+       "to_ch": 11
+      }
+     ],
+     "nodes": [
+      {
+       "id": 158,
+       "book": "deut",
+       "ch": 5
+      },
+      {
+       "id": 159,
+       "book": "deut",
+       "ch": 6
+      },
+      {
+       "id": 160,
+       "book": "deut",
+       "ch": 7
+      },
+      {
+       "id": 161,
+       "book": "deut",
+       "ch": 8
+      },
+      {
+       "id": 162,
+       "book": "deut",
+       "ch": 9
+      },
+      {
+       "id": 163,
+       "book": "deut",
+       "ch": 10
+      },
+      {
+       "id": 164,
+       "book": "deut",
+       "ch": 11
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "title_key": "plan.old-testament-sequential.unit.30.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 12,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 165,
+       "book": "deut",
+       "ch": 12
+      },
+      {
+       "id": 166,
+       "book": "deut",
+       "ch": 13
+      },
+      {
+       "id": 167,
+       "book": "deut",
+       "ch": 14
+      },
+      {
+       "id": 168,
+       "book": "deut",
+       "ch": 15
+      },
+      {
+       "id": 169,
+       "book": "deut",
+       "ch": 16
+      },
+      {
+       "id": 170,
+       "book": "deut",
+       "ch": 17
+      },
+      {
+       "id": 171,
+       "book": "deut",
+       "ch": 18
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "title_key": "plan.old-testament-sequential.unit.31.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 19,
+       "to_ch": 26
+      }
+     ],
+     "nodes": [
+      {
+       "id": 172,
+       "book": "deut",
+       "ch": 19
+      },
+      {
+       "id": 173,
+       "book": "deut",
+       "ch": 20
+      },
+      {
+       "id": 174,
+       "book": "deut",
+       "ch": 21
+      },
+      {
+       "id": 175,
+       "book": "deut",
+       "ch": 22
+      },
+      {
+       "id": 176,
+       "book": "deut",
+       "ch": 23
+      },
+      {
+       "id": 177,
+       "book": "deut",
+       "ch": 24
+      },
+      {
+       "id": 178,
+       "book": "deut",
+       "ch": 25
+      },
+      {
+       "id": 179,
+       "book": "deut",
+       "ch": 26
+      }
+     ]
+    },
+    {
+     "id": 32,
+     "title_key": "plan.old-testament-sequential.unit.32.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 27,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 180,
+       "book": "deut",
+       "ch": 27
+      },
+      {
+       "id": 181,
+       "book": "deut",
+       "ch": 28
+      },
+      {
+       "id": 182,
+       "book": "deut",
+       "ch": 29
+      },
+      {
+       "id": 183,
+       "book": "deut",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "title_key": "plan.old-testament-sequential.unit.33.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 31,
+       "to_ch": 34
+      }
+     ],
+     "nodes": [
+      {
+       "id": 184,
+       "book": "deut",
+       "ch": 31
+      },
+      {
+       "id": 185,
+       "book": "deut",
+       "ch": 32
+      },
+      {
+       "id": 186,
+       "book": "deut",
+       "ch": 33
+      },
+      {
+       "id": 187,
+       "book": "deut",
+       "ch": 34
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "slug": "joshua",
+   "primary_book": "josh",
+   "subtitle_key": "plan.old-testament-sequential.section.joshua.subtitle",
+   "units": [
+    {
+     "id": 34,
+     "title_key": "plan.old-testament-sequential.unit.34.title",
+     "ref_range": [
+      {
+       "book": "josh",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 188,
+       "book": "josh",
+       "ch": 1
+      },
+      {
+       "id": 189,
+       "book": "josh",
+       "ch": 2
+      },
+      {
+       "id": 190,
+       "book": "josh",
+       "ch": 3
+      },
+      {
+       "id": 191,
+       "book": "josh",
+       "ch": 4
+      },
+      {
+       "id": 192,
+       "book": "josh",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "title_key": "plan.old-testament-sequential.unit.35.title",
+     "ref_range": [
+      {
+       "book": "josh",
+       "from_ch": 6,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 193,
+       "book": "josh",
+       "ch": 6
+      },
+      {
+       "id": 194,
+       "book": "josh",
+       "ch": 7
+      },
+      {
+       "id": 195,
+       "book": "josh",
+       "ch": 8
+      },
+      {
+       "id": 196,
+       "book": "josh",
+       "ch": 9
+      },
+      {
+       "id": 197,
+       "book": "josh",
+       "ch": 10
+      },
+      {
+       "id": 198,
+       "book": "josh",
+       "ch": 11
+      },
+      {
+       "id": 199,
+       "book": "josh",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "title_key": "plan.old-testament-sequential.unit.36.title",
+     "ref_range": [
+      {
+       "book": "josh",
+       "from_ch": 13,
+       "to_ch": 21
+      }
+     ],
+     "nodes": [
+      {
+       "id": 200,
+       "book": "josh",
+       "ch": 13
+      },
+      {
+       "id": 201,
+       "book": "josh",
+       "ch": 14
+      },
+      {
+       "id": 202,
+       "book": "josh",
+       "ch": 15
+      },
+      {
+       "id": 203,
+       "book": "josh",
+       "ch": 16
+      },
+      {
+       "id": 204,
+       "book": "josh",
+       "ch": 17
+      },
+      {
+       "id": 205,
+       "book": "josh",
+       "ch": 18
+      },
+      {
+       "id": 206,
+       "book": "josh",
+       "ch": 19
+      },
+      {
+       "id": 207,
+       "book": "josh",
+       "ch": 20
+      },
+      {
+       "id": 208,
+       "book": "josh",
+       "ch": 21
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "title_key": "plan.old-testament-sequential.unit.37.title",
+     "ref_range": [
+      {
+       "book": "josh",
+       "from_ch": 22,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 209,
+       "book": "josh",
+       "ch": 22
+      },
+      {
+       "id": 210,
+       "book": "josh",
+       "ch": 23
+      },
+      {
+       "id": 211,
+       "book": "josh",
+       "ch": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "slug": "judges",
+   "primary_book": "judg",
+   "subtitle_key": "plan.old-testament-sequential.section.judges.subtitle",
+   "units": [
+    {
+     "id": 38,
+     "title_key": "plan.old-testament-sequential.unit.38.title",
+     "ref_range": [
+      {
+       "book": "judg",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 212,
+       "book": "judg",
+       "ch": 1
+      },
+      {
+       "id": 213,
+       "book": "judg",
+       "ch": 2
+      },
+      {
+       "id": 214,
+       "book": "judg",
+       "ch": 3
+      },
+      {
+       "id": 215,
+       "book": "judg",
+       "ch": 4
+      },
+      {
+       "id": 216,
+       "book": "judg",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "title_key": "plan.old-testament-sequential.unit.39.title",
+     "ref_range": [
+      {
+       "book": "judg",
+       "from_ch": 6,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 217,
+       "book": "judg",
+       "ch": 6
+      },
+      {
+       "id": 218,
+       "book": "judg",
+       "ch": 7
+      },
+      {
+       "id": 219,
+       "book": "judg",
+       "ch": 8
+      },
+      {
+       "id": 220,
+       "book": "judg",
+       "ch": 9
+      },
+      {
+       "id": 221,
+       "book": "judg",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "title_key": "plan.old-testament-sequential.unit.40.title",
+     "ref_range": [
+      {
+       "book": "judg",
+       "from_ch": 11,
+       "to_ch": 16
+      }
+     ],
+     "nodes": [
+      {
+       "id": 222,
+       "book": "judg",
+       "ch": 11
+      },
+      {
+       "id": 223,
+       "book": "judg",
+       "ch": 12
+      },
+      {
+       "id": 224,
+       "book": "judg",
+       "ch": 13
+      },
+      {
+       "id": 225,
+       "book": "judg",
+       "ch": 14
+      },
+      {
+       "id": 226,
+       "book": "judg",
+       "ch": 15
+      },
+      {
+       "id": 227,
+       "book": "judg",
+       "ch": 16
+      }
+     ]
+    },
+    {
+     "id": 41,
+     "title_key": "plan.old-testament-sequential.unit.41.title",
+     "ref_range": [
+      {
+       "book": "judg",
+       "from_ch": 17,
+       "to_ch": 21
+      }
+     ],
+     "nodes": [
+      {
+       "id": 228,
+       "book": "judg",
+       "ch": 17
+      },
+      {
+       "id": 229,
+       "book": "judg",
+       "ch": 18
+      },
+      {
+       "id": 230,
+       "book": "judg",
+       "ch": 19
+      },
+      {
+       "id": 231,
+       "book": "judg",
+       "ch": 20
+      },
+      {
+       "id": 232,
+       "book": "judg",
+       "ch": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "slug": "ruth",
+   "primary_book": "ruth",
+   "subtitle_key": "plan.old-testament-sequential.section.ruth.subtitle",
+   "units": [
+    {
+     "id": 42,
+     "title_key": "plan.old-testament-sequential.unit.42.title",
+     "ref_range": [
+      {
+       "book": "ruth",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 233,
+       "book": "ruth",
+       "ch": 1
+      },
+      {
+       "id": 234,
+       "book": "ruth",
+       "ch": 2
+      },
+      {
+       "id": 235,
+       "book": "ruth",
+       "ch": 3
+      },
+      {
+       "id": 236,
+       "book": "ruth",
+       "ch": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "slug": "1-samuel",
+   "primary_book": "1-sam",
+   "subtitle_key": "plan.old-testament-sequential.section.1-samuel.subtitle",
+   "units": [
+    {
+     "id": 43,
+     "title_key": "plan.old-testament-sequential.unit.43.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 237,
+       "book": "1-sam",
+       "ch": 1
+      },
+      {
+       "id": 238,
+       "book": "1-sam",
+       "ch": 2
+      },
+      {
+       "id": 239,
+       "book": "1-sam",
+       "ch": 3
+      },
+      {
+       "id": 240,
+       "book": "1-sam",
+       "ch": 4
+      },
+      {
+       "id": 241,
+       "book": "1-sam",
+       "ch": 5
+      },
+      {
+       "id": 242,
+       "book": "1-sam",
+       "ch": 6
+      },
+      {
+       "id": 243,
+       "book": "1-sam",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "title_key": "plan.old-testament-sequential.unit.44.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 8,
+       "to_ch": 15
+      }
+     ],
+     "nodes": [
+      {
+       "id": 244,
+       "book": "1-sam",
+       "ch": 8
+      },
+      {
+       "id": 245,
+       "book": "1-sam",
+       "ch": 9
+      },
+      {
+       "id": 246,
+       "book": "1-sam",
+       "ch": 10
+      },
+      {
+       "id": 247,
+       "book": "1-sam",
+       "ch": 11
+      },
+      {
+       "id": 248,
+       "book": "1-sam",
+       "ch": 12
+      },
+      {
+       "id": 249,
+       "book": "1-sam",
+       "ch": 13
+      },
+      {
+       "id": 250,
+       "book": "1-sam",
+       "ch": 14
+      },
+      {
+       "id": 251,
+       "book": "1-sam",
+       "ch": 15
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "title_key": "plan.old-testament-sequential.unit.45.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 16,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 252,
+       "book": "1-sam",
+       "ch": 16
+      },
+      {
+       "id": 253,
+       "book": "1-sam",
+       "ch": 17
+      },
+      {
+       "id": 254,
+       "book": "1-sam",
+       "ch": 18
+      },
+      {
+       "id": 255,
+       "book": "1-sam",
+       "ch": 19
+      },
+      {
+       "id": 256,
+       "book": "1-sam",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "title_key": "plan.old-testament-sequential.unit.46.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 21,
+       "to_ch": 26
+      }
+     ],
+     "nodes": [
+      {
+       "id": 257,
+       "book": "1-sam",
+       "ch": 21
+      },
+      {
+       "id": 258,
+       "book": "1-sam",
+       "ch": 22
+      },
+      {
+       "id": 259,
+       "book": "1-sam",
+       "ch": 23
+      },
+      {
+       "id": 260,
+       "book": "1-sam",
+       "ch": 24
+      },
+      {
+       "id": 261,
+       "book": "1-sam",
+       "ch": 25
+      },
+      {
+       "id": 262,
+       "book": "1-sam",
+       "ch": 26
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "title_key": "plan.old-testament-sequential.unit.47.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 27,
+       "to_ch": 31
+      }
+     ],
+     "nodes": [
+      {
+       "id": 263,
+       "book": "1-sam",
+       "ch": 27
+      },
+      {
+       "id": 264,
+       "book": "1-sam",
+       "ch": 28
+      },
+      {
+       "id": 265,
+       "book": "1-sam",
+       "ch": 29
+      },
+      {
+       "id": 266,
+       "book": "1-sam",
+       "ch": 30
+      },
+      {
+       "id": 267,
+       "book": "1-sam",
+       "ch": 31
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "slug": "2-samuel",
+   "primary_book": "2-sam",
+   "subtitle_key": "plan.old-testament-sequential.section.2-samuel.subtitle",
+   "units": [
+    {
+     "id": 48,
+     "title_key": "plan.old-testament-sequential.unit.48.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 268,
+       "book": "2-sam",
+       "ch": 1
+      },
+      {
+       "id": 269,
+       "book": "2-sam",
+       "ch": 2
+      },
+      {
+       "id": 270,
+       "book": "2-sam",
+       "ch": 3
+      },
+      {
+       "id": 271,
+       "book": "2-sam",
+       "ch": 4
+      },
+      {
+       "id": 272,
+       "book": "2-sam",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 49,
+     "title_key": "plan.old-testament-sequential.unit.49.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 6,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 273,
+       "book": "2-sam",
+       "ch": 6
+      },
+      {
+       "id": 274,
+       "book": "2-sam",
+       "ch": 7
+      },
+      {
+       "id": 275,
+       "book": "2-sam",
+       "ch": 8
+      },
+      {
+       "id": 276,
+       "book": "2-sam",
+       "ch": 9
+      },
+      {
+       "id": 277,
+       "book": "2-sam",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 50,
+     "title_key": "plan.old-testament-sequential.unit.50.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 11,
+       "to_ch": 15
+      }
+     ],
+     "nodes": [
+      {
+       "id": 278,
+       "book": "2-sam",
+       "ch": 11
+      },
+      {
+       "id": 279,
+       "book": "2-sam",
+       "ch": 12
+      },
+      {
+       "id": 280,
+       "book": "2-sam",
+       "ch": 13
+      },
+      {
+       "id": 281,
+       "book": "2-sam",
+       "ch": 14
+      },
+      {
+       "id": 282,
+       "book": "2-sam",
+       "ch": 15
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "title_key": "plan.old-testament-sequential.unit.51.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 16,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 283,
+       "book": "2-sam",
+       "ch": 16
+      },
+      {
+       "id": 284,
+       "book": "2-sam",
+       "ch": 17
+      },
+      {
+       "id": 285,
+       "book": "2-sam",
+       "ch": 18
+      },
+      {
+       "id": 286,
+       "book": "2-sam",
+       "ch": 19
+      },
+      {
+       "id": 287,
+       "book": "2-sam",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "title_key": "plan.old-testament-sequential.unit.52.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 21,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 288,
+       "book": "2-sam",
+       "ch": 21
+      },
+      {
+       "id": 289,
+       "book": "2-sam",
+       "ch": 22
+      },
+      {
+       "id": 290,
+       "book": "2-sam",
+       "ch": 23
+      },
+      {
+       "id": 291,
+       "book": "2-sam",
+       "ch": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "slug": "1-kings",
+   "primary_book": "1-kgs",
+   "subtitle_key": "plan.old-testament-sequential.section.1-kings.subtitle",
+   "units": [
+    {
+     "id": 53,
+     "title_key": "plan.old-testament-sequential.unit.53.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 292,
+       "book": "1-kgs",
+       "ch": 1
+      },
+      {
+       "id": 293,
+       "book": "1-kgs",
+       "ch": 2
+      },
+      {
+       "id": 294,
+       "book": "1-kgs",
+       "ch": 3
+      },
+      {
+       "id": 295,
+       "book": "1-kgs",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 54,
+     "title_key": "plan.old-testament-sequential.unit.54.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 5,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 296,
+       "book": "1-kgs",
+       "ch": 5
+      },
+      {
+       "id": 297,
+       "book": "1-kgs",
+       "ch": 6
+      },
+      {
+       "id": 298,
+       "book": "1-kgs",
+       "ch": 7
+      },
+      {
+       "id": 299,
+       "book": "1-kgs",
+       "ch": 8
+      }
+     ]
+    },
+    {
+     "id": 55,
+     "title_key": "plan.old-testament-sequential.unit.55.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 9,
+       "to_ch": 11
+      }
+     ],
+     "nodes": [
+      {
+       "id": 300,
+       "book": "1-kgs",
+       "ch": 9
+      },
+      {
+       "id": 301,
+       "book": "1-kgs",
+       "ch": 10
+      },
+      {
+       "id": 302,
+       "book": "1-kgs",
+       "ch": 11
+      }
+     ]
+    },
+    {
+     "id": 56,
+     "title_key": "plan.old-testament-sequential.unit.56.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 12,
+       "to_ch": 16
+      }
+     ],
+     "nodes": [
+      {
+       "id": 303,
+       "book": "1-kgs",
+       "ch": 12
+      },
+      {
+       "id": 304,
+       "book": "1-kgs",
+       "ch": 13
+      },
+      {
+       "id": 305,
+       "book": "1-kgs",
+       "ch": 14
+      },
+      {
+       "id": 306,
+       "book": "1-kgs",
+       "ch": 15
+      },
+      {
+       "id": 307,
+       "book": "1-kgs",
+       "ch": 16
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "title_key": "plan.old-testament-sequential.unit.57.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 17,
+       "to_ch": 22
+      }
+     ],
+     "nodes": [
+      {
+       "id": 308,
+       "book": "1-kgs",
+       "ch": 17
+      },
+      {
+       "id": 309,
+       "book": "1-kgs",
+       "ch": 18
+      },
+      {
+       "id": 310,
+       "book": "1-kgs",
+       "ch": 19
+      },
+      {
+       "id": 311,
+       "book": "1-kgs",
+       "ch": 20
+      },
+      {
+       "id": 312,
+       "book": "1-kgs",
+       "ch": 21
+      },
+      {
+       "id": 313,
+       "book": "1-kgs",
+       "ch": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "slug": "2-kings",
+   "primary_book": "2-kgs",
+   "subtitle_key": "plan.old-testament-sequential.section.2-kings.subtitle",
+   "units": [
+    {
+     "id": 58,
+     "title_key": "plan.old-testament-sequential.unit.58.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 314,
+       "book": "2-kgs",
+       "ch": 1
+      },
+      {
+       "id": 315,
+       "book": "2-kgs",
+       "ch": 2
+      },
+      {
+       "id": 316,
+       "book": "2-kgs",
+       "ch": 3
+      },
+      {
+       "id": 317,
+       "book": "2-kgs",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 59,
+     "title_key": "plan.old-testament-sequential.unit.59.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 5,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 318,
+       "book": "2-kgs",
+       "ch": 5
+      },
+      {
+       "id": 319,
+       "book": "2-kgs",
+       "ch": 6
+      },
+      {
+       "id": 320,
+       "book": "2-kgs",
+       "ch": 7
+      },
+      {
+       "id": 321,
+       "book": "2-kgs",
+       "ch": 8
+      }
+     ]
+    },
+    {
+     "id": 60,
+     "title_key": "plan.old-testament-sequential.unit.60.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 9,
+       "to_ch": 13
+      }
+     ],
+     "nodes": [
+      {
+       "id": 322,
+       "book": "2-kgs",
+       "ch": 9
+      },
+      {
+       "id": 323,
+       "book": "2-kgs",
+       "ch": 10
+      },
+      {
+       "id": 324,
+       "book": "2-kgs",
+       "ch": 11
+      },
+      {
+       "id": 325,
+       "book": "2-kgs",
+       "ch": 12
+      },
+      {
+       "id": 326,
+       "book": "2-kgs",
+       "ch": 13
+      }
+     ]
+    },
+    {
+     "id": 61,
+     "title_key": "plan.old-testament-sequential.unit.61.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 14,
+       "to_ch": 17
+      }
+     ],
+     "nodes": [
+      {
+       "id": 327,
+       "book": "2-kgs",
+       "ch": 14
+      },
+      {
+       "id": 328,
+       "book": "2-kgs",
+       "ch": 15
+      },
+      {
+       "id": 329,
+       "book": "2-kgs",
+       "ch": 16
+      },
+      {
+       "id": 330,
+       "book": "2-kgs",
+       "ch": 17
+      }
+     ]
+    },
+    {
+     "id": 62,
+     "title_key": "plan.old-testament-sequential.unit.62.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 18,
+       "to_ch": 21
+      }
+     ],
+     "nodes": [
+      {
+       "id": 331,
+       "book": "2-kgs",
+       "ch": 18
+      },
+      {
+       "id": 332,
+       "book": "2-kgs",
+       "ch": 19
+      },
+      {
+       "id": 333,
+       "book": "2-kgs",
+       "ch": 20
+      },
+      {
+       "id": 334,
+       "book": "2-kgs",
+       "ch": 21
+      }
+     ]
+    },
+    {
+     "id": 63,
+     "title_key": "plan.old-testament-sequential.unit.63.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 22,
+       "to_ch": 25
+      }
+     ],
+     "nodes": [
+      {
+       "id": 335,
+       "book": "2-kgs",
+       "ch": 22
+      },
+      {
+       "id": 336,
+       "book": "2-kgs",
+       "ch": 23
+      },
+      {
+       "id": 337,
+       "book": "2-kgs",
+       "ch": 24
+      },
+      {
+       "id": 338,
+       "book": "2-kgs",
+       "ch": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "slug": "1-chronicles",
+   "primary_book": "1-chr",
+   "subtitle_key": "plan.old-testament-sequential.section.1-chronicles.subtitle",
+   "units": [
+    {
+     "id": 64,
+     "title_key": "plan.old-testament-sequential.unit.64.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 339,
+       "book": "1-chr",
+       "ch": 1
+      },
+      {
+       "id": 340,
+       "book": "1-chr",
+       "ch": 2
+      },
+      {
+       "id": 341,
+       "book": "1-chr",
+       "ch": 3
+      },
+      {
+       "id": 342,
+       "book": "1-chr",
+       "ch": 4
+      },
+      {
+       "id": 343,
+       "book": "1-chr",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 65,
+     "title_key": "plan.old-testament-sequential.unit.65.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 6,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 344,
+       "book": "1-chr",
+       "ch": 6
+      },
+      {
+       "id": 345,
+       "book": "1-chr",
+       "ch": 7
+      },
+      {
+       "id": 346,
+       "book": "1-chr",
+       "ch": 8
+      },
+      {
+       "id": 347,
+       "book": "1-chr",
+       "ch": 9
+      },
+      {
+       "id": 348,
+       "book": "1-chr",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 66,
+     "title_key": "plan.old-testament-sequential.unit.66.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 11,
+       "to_ch": 15
+      }
+     ],
+     "nodes": [
+      {
+       "id": 349,
+       "book": "1-chr",
+       "ch": 11
+      },
+      {
+       "id": 350,
+       "book": "1-chr",
+       "ch": 12
+      },
+      {
+       "id": 351,
+       "book": "1-chr",
+       "ch": 13
+      },
+      {
+       "id": 352,
+       "book": "1-chr",
+       "ch": 14
+      },
+      {
+       "id": 353,
+       "book": "1-chr",
+       "ch": 15
+      }
+     ]
+    },
+    {
+     "id": 67,
+     "title_key": "plan.old-testament-sequential.unit.67.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 16,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 354,
+       "book": "1-chr",
+       "ch": 16
+      },
+      {
+       "id": 355,
+       "book": "1-chr",
+       "ch": 17
+      },
+      {
+       "id": 356,
+       "book": "1-chr",
+       "ch": 18
+      },
+      {
+       "id": 357,
+       "book": "1-chr",
+       "ch": 19
+      },
+      {
+       "id": 358,
+       "book": "1-chr",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 68,
+     "title_key": "plan.old-testament-sequential.unit.68.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 21,
+       "to_ch": 25
+      }
+     ],
+     "nodes": [
+      {
+       "id": 359,
+       "book": "1-chr",
+       "ch": 21
+      },
+      {
+       "id": 360,
+       "book": "1-chr",
+       "ch": 22
+      },
+      {
+       "id": 361,
+       "book": "1-chr",
+       "ch": 23
+      },
+      {
+       "id": 362,
+       "book": "1-chr",
+       "ch": 24
+      },
+      {
+       "id": 363,
+       "book": "1-chr",
+       "ch": 25
+      }
+     ]
+    },
+    {
+     "id": 69,
+     "title_key": "plan.old-testament-sequential.unit.69.title",
+     "ref_range": [
+      {
+       "book": "1-chr",
+       "from_ch": 26,
+       "to_ch": 29
+      }
+     ],
+     "nodes": [
+      {
+       "id": 364,
+       "book": "1-chr",
+       "ch": 26
+      },
+      {
+       "id": 365,
+       "book": "1-chr",
+       "ch": 27
+      },
+      {
+       "id": 366,
+       "book": "1-chr",
+       "ch": 28
+      },
+      {
+       "id": 367,
+       "book": "1-chr",
+       "ch": 29
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "slug": "2-chronicles",
+   "primary_book": "2-chr",
+   "subtitle_key": "plan.old-testament-sequential.section.2-chronicles.subtitle",
+   "units": [
+    {
+     "id": 70,
+     "title_key": "plan.old-testament-sequential.unit.70.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 368,
+       "book": "2-chr",
+       "ch": 1
+      },
+      {
+       "id": 369,
+       "book": "2-chr",
+       "ch": 2
+      },
+      {
+       "id": 370,
+       "book": "2-chr",
+       "ch": 3
+      },
+      {
+       "id": 371,
+       "book": "2-chr",
+       "ch": 4
+      },
+      {
+       "id": 372,
+       "book": "2-chr",
+       "ch": 5
+      },
+      {
+       "id": 373,
+       "book": "2-chr",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 71,
+     "title_key": "plan.old-testament-sequential.unit.71.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 374,
+       "book": "2-chr",
+       "ch": 7
+      },
+      {
+       "id": 375,
+       "book": "2-chr",
+       "ch": 8
+      },
+      {
+       "id": 376,
+       "book": "2-chr",
+       "ch": 9
+      },
+      {
+       "id": 377,
+       "book": "2-chr",
+       "ch": 10
+      },
+      {
+       "id": 378,
+       "book": "2-chr",
+       "ch": 11
+      },
+      {
+       "id": 379,
+       "book": "2-chr",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 72,
+     "title_key": "plan.old-testament-sequential.unit.72.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 13,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 380,
+       "book": "2-chr",
+       "ch": 13
+      },
+      {
+       "id": 381,
+       "book": "2-chr",
+       "ch": 14
+      },
+      {
+       "id": 382,
+       "book": "2-chr",
+       "ch": 15
+      },
+      {
+       "id": 383,
+       "book": "2-chr",
+       "ch": 16
+      },
+      {
+       "id": 384,
+       "book": "2-chr",
+       "ch": 17
+      },
+      {
+       "id": 385,
+       "book": "2-chr",
+       "ch": 18
+      }
+     ]
+    },
+    {
+     "id": 73,
+     "title_key": "plan.old-testament-sequential.unit.73.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 19,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 386,
+       "book": "2-chr",
+       "ch": 19
+      },
+      {
+       "id": 387,
+       "book": "2-chr",
+       "ch": 20
+      },
+      {
+       "id": 388,
+       "book": "2-chr",
+       "ch": 21
+      },
+      {
+       "id": 389,
+       "book": "2-chr",
+       "ch": 22
+      },
+      {
+       "id": 390,
+       "book": "2-chr",
+       "ch": 23
+      },
+      {
+       "id": 391,
+       "book": "2-chr",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 74,
+     "title_key": "plan.old-testament-sequential.unit.74.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 25,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 392,
+       "book": "2-chr",
+       "ch": 25
+      },
+      {
+       "id": 393,
+       "book": "2-chr",
+       "ch": 26
+      },
+      {
+       "id": 394,
+       "book": "2-chr",
+       "ch": 27
+      },
+      {
+       "id": 395,
+       "book": "2-chr",
+       "ch": 28
+      },
+      {
+       "id": 396,
+       "book": "2-chr",
+       "ch": 29
+      },
+      {
+       "id": 397,
+       "book": "2-chr",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 75,
+     "title_key": "plan.old-testament-sequential.unit.75.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 31,
+       "to_ch": 36
+      }
+     ],
+     "nodes": [
+      {
+       "id": 398,
+       "book": "2-chr",
+       "ch": 31
+      },
+      {
+       "id": 399,
+       "book": "2-chr",
+       "ch": 32
+      },
+      {
+       "id": 400,
+       "book": "2-chr",
+       "ch": 33
+      },
+      {
+       "id": 401,
+       "book": "2-chr",
+       "ch": 34
+      },
+      {
+       "id": 402,
+       "book": "2-chr",
+       "ch": 35
+      },
+      {
+       "id": 403,
+       "book": "2-chr",
+       "ch": 36
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "slug": "ezra",
+   "primary_book": "ezra",
+   "subtitle_key": "plan.old-testament-sequential.section.ezra.subtitle",
+   "units": [
+    {
+     "id": 76,
+     "title_key": "plan.old-testament-sequential.unit.76.title",
+     "ref_range": [
+      {
+       "book": "ezra",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 404,
+       "book": "ezra",
+       "ch": 1
+      },
+      {
+       "id": 405,
+       "book": "ezra",
+       "ch": 2
+      },
+      {
+       "id": 406,
+       "book": "ezra",
+       "ch": 3
+      },
+      {
+       "id": 407,
+       "book": "ezra",
+       "ch": 4
+      },
+      {
+       "id": 408,
+       "book": "ezra",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 77,
+     "title_key": "plan.old-testament-sequential.unit.77.title",
+     "ref_range": [
+      {
+       "book": "ezra",
+       "from_ch": 6,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 409,
+       "book": "ezra",
+       "ch": 6
+      },
+      {
+       "id": 410,
+       "book": "ezra",
+       "ch": 7
+      },
+      {
+       "id": 411,
+       "book": "ezra",
+       "ch": 8
+      },
+      {
+       "id": 412,
+       "book": "ezra",
+       "ch": 9
+      },
+      {
+       "id": 413,
+       "book": "ezra",
+       "ch": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "slug": "nehemiah",
+   "primary_book": "neh",
+   "subtitle_key": "plan.old-testament-sequential.section.nehemiah.subtitle",
+   "units": [
+    {
+     "id": 78,
+     "title_key": "plan.old-testament-sequential.unit.78.title",
+     "ref_range": [
+      {
+       "book": "neh",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 414,
+       "book": "neh",
+       "ch": 1
+      },
+      {
+       "id": 415,
+       "book": "neh",
+       "ch": 2
+      },
+      {
+       "id": 416,
+       "book": "neh",
+       "ch": 3
+      },
+      {
+       "id": 417,
+       "book": "neh",
+       "ch": 4
+      },
+      {
+       "id": 418,
+       "book": "neh",
+       "ch": 5
+      },
+      {
+       "id": 419,
+       "book": "neh",
+       "ch": 6
+      },
+      {
+       "id": 420,
+       "book": "neh",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 79,
+     "title_key": "plan.old-testament-sequential.unit.79.title",
+     "ref_range": [
+      {
+       "book": "neh",
+       "from_ch": 8,
+       "to_ch": 13
+      }
+     ],
+     "nodes": [
+      {
+       "id": 421,
+       "book": "neh",
+       "ch": 8
+      },
+      {
+       "id": 422,
+       "book": "neh",
+       "ch": 9
+      },
+      {
+       "id": 423,
+       "book": "neh",
+       "ch": 10
+      },
+      {
+       "id": 424,
+       "book": "neh",
+       "ch": 11
+      },
+      {
+       "id": 425,
+       "book": "neh",
+       "ch": 12
+      },
+      {
+       "id": 426,
+       "book": "neh",
+       "ch": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "slug": "esther",
+   "primary_book": "esth",
+   "subtitle_key": "plan.old-testament-sequential.section.esther.subtitle",
+   "units": [
+    {
+     "id": 80,
+     "title_key": "plan.old-testament-sequential.unit.80.title",
+     "ref_range": [
+      {
+       "book": "esth",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 427,
+       "book": "esth",
+       "ch": 1
+      },
+      {
+       "id": 428,
+       "book": "esth",
+       "ch": 2
+      },
+      {
+       "id": 429,
+       "book": "esth",
+       "ch": 3
+      },
+      {
+       "id": 430,
+       "book": "esth",
+       "ch": 4
+      },
+      {
+       "id": 431,
+       "book": "esth",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 81,
+     "title_key": "plan.old-testament-sequential.unit.81.title",
+     "ref_range": [
+      {
+       "book": "esth",
+       "from_ch": 6,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 432,
+       "book": "esth",
+       "ch": 6
+      },
+      {
+       "id": 433,
+       "book": "esth",
+       "ch": 7
+      },
+      {
+       "id": 434,
+       "book": "esth",
+       "ch": 8
+      },
+      {
+       "id": 435,
+       "book": "esth",
+       "ch": 9
+      },
+      {
+       "id": 436,
+       "book": "esth",
+       "ch": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "slug": "job",
+   "primary_book": "job",
+   "subtitle_key": "plan.old-testament-sequential.section.job.subtitle",
+   "units": [
+    {
+     "id": 82,
+     "title_key": "plan.old-testament-sequential.unit.82.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 437,
+       "book": "job",
+       "ch": 1
+      },
+      {
+       "id": 438,
+       "book": "job",
+       "ch": 2
+      },
+      {
+       "id": 439,
+       "book": "job",
+       "ch": 3
+      },
+      {
+       "id": 440,
+       "book": "job",
+       "ch": 4
+      },
+      {
+       "id": 441,
+       "book": "job",
+       "ch": 5
+      },
+      {
+       "id": 442,
+       "book": "job",
+       "ch": 6
+      },
+      {
+       "id": 443,
+       "book": "job",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "title_key": "plan.old-testament-sequential.unit.83.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 8,
+       "to_ch": 14
+      }
+     ],
+     "nodes": [
+      {
+       "id": 444,
+       "book": "job",
+       "ch": 8
+      },
+      {
+       "id": 445,
+       "book": "job",
+       "ch": 9
+      },
+      {
+       "id": 446,
+       "book": "job",
+       "ch": 10
+      },
+      {
+       "id": 447,
+       "book": "job",
+       "ch": 11
+      },
+      {
+       "id": 448,
+       "book": "job",
+       "ch": 12
+      },
+      {
+       "id": 449,
+       "book": "job",
+       "ch": 13
+      },
+      {
+       "id": 450,
+       "book": "job",
+       "ch": 14
+      }
+     ]
+    },
+    {
+     "id": 84,
+     "title_key": "plan.old-testament-sequential.unit.84.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 15,
+       "to_ch": 21
+      }
+     ],
+     "nodes": [
+      {
+       "id": 451,
+       "book": "job",
+       "ch": 15
+      },
+      {
+       "id": 452,
+       "book": "job",
+       "ch": 16
+      },
+      {
+       "id": 453,
+       "book": "job",
+       "ch": 17
+      },
+      {
+       "id": 454,
+       "book": "job",
+       "ch": 18
+      },
+      {
+       "id": 455,
+       "book": "job",
+       "ch": 19
+      },
+      {
+       "id": 456,
+       "book": "job",
+       "ch": 20
+      },
+      {
+       "id": 457,
+       "book": "job",
+       "ch": 21
+      }
+     ]
+    },
+    {
+     "id": 85,
+     "title_key": "plan.old-testament-sequential.unit.85.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 22,
+       "to_ch": 28
+      }
+     ],
+     "nodes": [
+      {
+       "id": 458,
+       "book": "job",
+       "ch": 22
+      },
+      {
+       "id": 459,
+       "book": "job",
+       "ch": 23
+      },
+      {
+       "id": 460,
+       "book": "job",
+       "ch": 24
+      },
+      {
+       "id": 461,
+       "book": "job",
+       "ch": 25
+      },
+      {
+       "id": 462,
+       "book": "job",
+       "ch": 26
+      },
+      {
+       "id": 463,
+       "book": "job",
+       "ch": 27
+      },
+      {
+       "id": 464,
+       "book": "job",
+       "ch": 28
+      }
+     ]
+    },
+    {
+     "id": 86,
+     "title_key": "plan.old-testament-sequential.unit.86.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 29,
+       "to_ch": 35
+      }
+     ],
+     "nodes": [
+      {
+       "id": 465,
+       "book": "job",
+       "ch": 29
+      },
+      {
+       "id": 466,
+       "book": "job",
+       "ch": 30
+      },
+      {
+       "id": 467,
+       "book": "job",
+       "ch": 31
+      },
+      {
+       "id": 468,
+       "book": "job",
+       "ch": 32
+      },
+      {
+       "id": 469,
+       "book": "job",
+       "ch": 33
+      },
+      {
+       "id": 470,
+       "book": "job",
+       "ch": 34
+      },
+      {
+       "id": 471,
+       "book": "job",
+       "ch": 35
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "title_key": "plan.old-testament-sequential.unit.87.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 36,
+       "to_ch": 42
+      }
+     ],
+     "nodes": [
+      {
+       "id": 472,
+       "book": "job",
+       "ch": 36
+      },
+      {
+       "id": 473,
+       "book": "job",
+       "ch": 37
+      },
+      {
+       "id": 474,
+       "book": "job",
+       "ch": 38
+      },
+      {
+       "id": 475,
+       "book": "job",
+       "ch": 39
+      },
+      {
+       "id": 476,
+       "book": "job",
+       "ch": 40
+      },
+      {
+       "id": 477,
+       "book": "job",
+       "ch": 41
+      },
+      {
+       "id": 478,
+       "book": "job",
+       "ch": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "slug": "psalms",
+   "primary_book": "ps",
+   "subtitle_key": "plan.old-testament-sequential.section.psalms.subtitle",
+   "units": [
+    {
+     "id": 88,
+     "title_key": "plan.old-testament-sequential.unit.88.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 1,
+       "to_ch": 41
+      }
+     ],
+     "nodes": [
+      {
+       "id": 479,
+       "book": "ps",
+       "ch": 1
+      },
+      {
+       "id": 480,
+       "book": "ps",
+       "ch": 2
+      },
+      {
+       "id": 481,
+       "book": "ps",
+       "ch": 3
+      },
+      {
+       "id": 482,
+       "book": "ps",
+       "ch": 4
+      },
+      {
+       "id": 483,
+       "book": "ps",
+       "ch": 5
+      },
+      {
+       "id": 484,
+       "book": "ps",
+       "ch": 6
+      },
+      {
+       "id": 485,
+       "book": "ps",
+       "ch": 7
+      },
+      {
+       "id": 486,
+       "book": "ps",
+       "ch": 8
+      },
+      {
+       "id": 487,
+       "book": "ps",
+       "ch": 9
+      },
+      {
+       "id": 488,
+       "book": "ps",
+       "ch": 10
+      },
+      {
+       "id": 489,
+       "book": "ps",
+       "ch": 11
+      },
+      {
+       "id": 490,
+       "book": "ps",
+       "ch": 12
+      },
+      {
+       "id": 491,
+       "book": "ps",
+       "ch": 13
+      },
+      {
+       "id": 492,
+       "book": "ps",
+       "ch": 14
+      },
+      {
+       "id": 493,
+       "book": "ps",
+       "ch": 15
+      },
+      {
+       "id": 494,
+       "book": "ps",
+       "ch": 16
+      },
+      {
+       "id": 495,
+       "book": "ps",
+       "ch": 17
+      },
+      {
+       "id": 496,
+       "book": "ps",
+       "ch": 18
+      },
+      {
+       "id": 497,
+       "book": "ps",
+       "ch": 19
+      },
+      {
+       "id": 498,
+       "book": "ps",
+       "ch": 20
+      },
+      {
+       "id": 499,
+       "book": "ps",
+       "ch": 21
+      },
+      {
+       "id": 500,
+       "book": "ps",
+       "ch": 22
+      },
+      {
+       "id": 501,
+       "book": "ps",
+       "ch": 23
+      },
+      {
+       "id": 502,
+       "book": "ps",
+       "ch": 24
+      },
+      {
+       "id": 503,
+       "book": "ps",
+       "ch": 25
+      },
+      {
+       "id": 504,
+       "book": "ps",
+       "ch": 26
+      },
+      {
+       "id": 505,
+       "book": "ps",
+       "ch": 27
+      },
+      {
+       "id": 506,
+       "book": "ps",
+       "ch": 28
+      },
+      {
+       "id": 507,
+       "book": "ps",
+       "ch": 29
+      },
+      {
+       "id": 508,
+       "book": "ps",
+       "ch": 30
+      },
+      {
+       "id": 509,
+       "book": "ps",
+       "ch": 31
+      },
+      {
+       "id": 510,
+       "book": "ps",
+       "ch": 32
+      },
+      {
+       "id": 511,
+       "book": "ps",
+       "ch": 33
+      },
+      {
+       "id": 512,
+       "book": "ps",
+       "ch": 34
+      },
+      {
+       "id": 513,
+       "book": "ps",
+       "ch": 35
+      },
+      {
+       "id": 514,
+       "book": "ps",
+       "ch": 36
+      },
+      {
+       "id": 515,
+       "book": "ps",
+       "ch": 37
+      },
+      {
+       "id": 516,
+       "book": "ps",
+       "ch": 38
+      },
+      {
+       "id": 517,
+       "book": "ps",
+       "ch": 39
+      },
+      {
+       "id": 518,
+       "book": "ps",
+       "ch": 40
+      },
+      {
+       "id": 519,
+       "book": "ps",
+       "ch": 41
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "title_key": "plan.old-testament-sequential.unit.89.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 42,
+       "to_ch": 72
+      }
+     ],
+     "nodes": [
+      {
+       "id": 520,
+       "book": "ps",
+       "ch": 42
+      },
+      {
+       "id": 521,
+       "book": "ps",
+       "ch": 43
+      },
+      {
+       "id": 522,
+       "book": "ps",
+       "ch": 44
+      },
+      {
+       "id": 523,
+       "book": "ps",
+       "ch": 45
+      },
+      {
+       "id": 524,
+       "book": "ps",
+       "ch": 46
+      },
+      {
+       "id": 525,
+       "book": "ps",
+       "ch": 47
+      },
+      {
+       "id": 526,
+       "book": "ps",
+       "ch": 48
+      },
+      {
+       "id": 527,
+       "book": "ps",
+       "ch": 49
+      },
+      {
+       "id": 528,
+       "book": "ps",
+       "ch": 50
+      },
+      {
+       "id": 529,
+       "book": "ps",
+       "ch": 51
+      },
+      {
+       "id": 530,
+       "book": "ps",
+       "ch": 52
+      },
+      {
+       "id": 531,
+       "book": "ps",
+       "ch": 53
+      },
+      {
+       "id": 532,
+       "book": "ps",
+       "ch": 54
+      },
+      {
+       "id": 533,
+       "book": "ps",
+       "ch": 55
+      },
+      {
+       "id": 534,
+       "book": "ps",
+       "ch": 56
+      },
+      {
+       "id": 535,
+       "book": "ps",
+       "ch": 57
+      },
+      {
+       "id": 536,
+       "book": "ps",
+       "ch": 58
+      },
+      {
+       "id": 537,
+       "book": "ps",
+       "ch": 59
+      },
+      {
+       "id": 538,
+       "book": "ps",
+       "ch": 60
+      },
+      {
+       "id": 539,
+       "book": "ps",
+       "ch": 61
+      },
+      {
+       "id": 540,
+       "book": "ps",
+       "ch": 62
+      },
+      {
+       "id": 541,
+       "book": "ps",
+       "ch": 63
+      },
+      {
+       "id": 542,
+       "book": "ps",
+       "ch": 64
+      },
+      {
+       "id": 543,
+       "book": "ps",
+       "ch": 65
+      },
+      {
+       "id": 544,
+       "book": "ps",
+       "ch": 66
+      },
+      {
+       "id": 545,
+       "book": "ps",
+       "ch": 67
+      },
+      {
+       "id": 546,
+       "book": "ps",
+       "ch": 68
+      },
+      {
+       "id": 547,
+       "book": "ps",
+       "ch": 69
+      },
+      {
+       "id": 548,
+       "book": "ps",
+       "ch": 70
+      },
+      {
+       "id": 549,
+       "book": "ps",
+       "ch": 71
+      },
+      {
+       "id": 550,
+       "book": "ps",
+       "ch": 72
+      }
+     ]
+    },
+    {
+     "id": 90,
+     "title_key": "plan.old-testament-sequential.unit.90.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 73,
+       "to_ch": 89
+      }
+     ],
+     "nodes": [
+      {
+       "id": 551,
+       "book": "ps",
+       "ch": 73
+      },
+      {
+       "id": 552,
+       "book": "ps",
+       "ch": 74
+      },
+      {
+       "id": 553,
+       "book": "ps",
+       "ch": 75
+      },
+      {
+       "id": 554,
+       "book": "ps",
+       "ch": 76
+      },
+      {
+       "id": 555,
+       "book": "ps",
+       "ch": 77
+      },
+      {
+       "id": 556,
+       "book": "ps",
+       "ch": 78
+      },
+      {
+       "id": 557,
+       "book": "ps",
+       "ch": 79
+      },
+      {
+       "id": 558,
+       "book": "ps",
+       "ch": 80
+      },
+      {
+       "id": 559,
+       "book": "ps",
+       "ch": 81
+      },
+      {
+       "id": 560,
+       "book": "ps",
+       "ch": 82
+      },
+      {
+       "id": 561,
+       "book": "ps",
+       "ch": 83
+      },
+      {
+       "id": 562,
+       "book": "ps",
+       "ch": 84
+      },
+      {
+       "id": 563,
+       "book": "ps",
+       "ch": 85
+      },
+      {
+       "id": 564,
+       "book": "ps",
+       "ch": 86
+      },
+      {
+       "id": 565,
+       "book": "ps",
+       "ch": 87
+      },
+      {
+       "id": 566,
+       "book": "ps",
+       "ch": 88
+      },
+      {
+       "id": 567,
+       "book": "ps",
+       "ch": 89
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "title_key": "plan.old-testament-sequential.unit.91.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 90,
+       "to_ch": 106
+      }
+     ],
+     "nodes": [
+      {
+       "id": 568,
+       "book": "ps",
+       "ch": 90
+      },
+      {
+       "id": 569,
+       "book": "ps",
+       "ch": 91
+      },
+      {
+       "id": 570,
+       "book": "ps",
+       "ch": 92
+      },
+      {
+       "id": 571,
+       "book": "ps",
+       "ch": 93
+      },
+      {
+       "id": 572,
+       "book": "ps",
+       "ch": 94
+      },
+      {
+       "id": 573,
+       "book": "ps",
+       "ch": 95
+      },
+      {
+       "id": 574,
+       "book": "ps",
+       "ch": 96
+      },
+      {
+       "id": 575,
+       "book": "ps",
+       "ch": 97
+      },
+      {
+       "id": 576,
+       "book": "ps",
+       "ch": 98
+      },
+      {
+       "id": 577,
+       "book": "ps",
+       "ch": 99
+      },
+      {
+       "id": 578,
+       "book": "ps",
+       "ch": 100
+      },
+      {
+       "id": 579,
+       "book": "ps",
+       "ch": 101
+      },
+      {
+       "id": 580,
+       "book": "ps",
+       "ch": 102
+      },
+      {
+       "id": 581,
+       "book": "ps",
+       "ch": 103
+      },
+      {
+       "id": 582,
+       "book": "ps",
+       "ch": 104
+      },
+      {
+       "id": 583,
+       "book": "ps",
+       "ch": 105
+      },
+      {
+       "id": 584,
+       "book": "ps",
+       "ch": 106
+      }
+     ]
+    },
+    {
+     "id": 92,
+     "title_key": "plan.old-testament-sequential.unit.92.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 107,
+       "to_ch": 150
+      }
+     ],
+     "nodes": [
+      {
+       "id": 585,
+       "book": "ps",
+       "ch": 107
+      },
+      {
+       "id": 586,
+       "book": "ps",
+       "ch": 108
+      },
+      {
+       "id": 587,
+       "book": "ps",
+       "ch": 109
+      },
+      {
+       "id": 588,
+       "book": "ps",
+       "ch": 110
+      },
+      {
+       "id": 589,
+       "book": "ps",
+       "ch": 111
+      },
+      {
+       "id": 590,
+       "book": "ps",
+       "ch": 112
+      },
+      {
+       "id": 591,
+       "book": "ps",
+       "ch": 113
+      },
+      {
+       "id": 592,
+       "book": "ps",
+       "ch": 114
+      },
+      {
+       "id": 593,
+       "book": "ps",
+       "ch": 115
+      },
+      {
+       "id": 594,
+       "book": "ps",
+       "ch": 116
+      },
+      {
+       "id": 595,
+       "book": "ps",
+       "ch": 117
+      },
+      {
+       "id": 596,
+       "book": "ps",
+       "ch": 118
+      },
+      {
+       "id": 597,
+       "book": "ps",
+       "ch": 119
+      },
+      {
+       "id": 598,
+       "book": "ps",
+       "ch": 120
+      },
+      {
+       "id": 599,
+       "book": "ps",
+       "ch": 121
+      },
+      {
+       "id": 600,
+       "book": "ps",
+       "ch": 122
+      },
+      {
+       "id": 601,
+       "book": "ps",
+       "ch": 123
+      },
+      {
+       "id": 602,
+       "book": "ps",
+       "ch": 124
+      },
+      {
+       "id": 603,
+       "book": "ps",
+       "ch": 125
+      },
+      {
+       "id": 604,
+       "book": "ps",
+       "ch": 126
+      },
+      {
+       "id": 605,
+       "book": "ps",
+       "ch": 127
+      },
+      {
+       "id": 606,
+       "book": "ps",
+       "ch": 128
+      },
+      {
+       "id": 607,
+       "book": "ps",
+       "ch": 129
+      },
+      {
+       "id": 608,
+       "book": "ps",
+       "ch": 130
+      },
+      {
+       "id": 609,
+       "book": "ps",
+       "ch": 131
+      },
+      {
+       "id": 610,
+       "book": "ps",
+       "ch": 132
+      },
+      {
+       "id": 611,
+       "book": "ps",
+       "ch": 133
+      },
+      {
+       "id": 612,
+       "book": "ps",
+       "ch": 134
+      },
+      {
+       "id": 613,
+       "book": "ps",
+       "ch": 135
+      },
+      {
+       "id": 614,
+       "book": "ps",
+       "ch": 136
+      },
+      {
+       "id": 615,
+       "book": "ps",
+       "ch": 137
+      },
+      {
+       "id": 616,
+       "book": "ps",
+       "ch": 138
+      },
+      {
+       "id": 617,
+       "book": "ps",
+       "ch": 139
+      },
+      {
+       "id": 618,
+       "book": "ps",
+       "ch": 140
+      },
+      {
+       "id": 619,
+       "book": "ps",
+       "ch": 141
+      },
+      {
+       "id": 620,
+       "book": "ps",
+       "ch": 142
+      },
+      {
+       "id": 621,
+       "book": "ps",
+       "ch": 143
+      },
+      {
+       "id": 622,
+       "book": "ps",
+       "ch": 144
+      },
+      {
+       "id": 623,
+       "book": "ps",
+       "ch": 145
+      },
+      {
+       "id": 624,
+       "book": "ps",
+       "ch": 146
+      },
+      {
+       "id": 625,
+       "book": "ps",
+       "ch": 147
+      },
+      {
+       "id": 626,
+       "book": "ps",
+       "ch": 148
+      },
+      {
+       "id": 627,
+       "book": "ps",
+       "ch": 149
+      },
+      {
+       "id": 628,
+       "book": "ps",
+       "ch": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "slug": "proverbs",
+   "primary_book": "prov",
+   "subtitle_key": "plan.old-testament-sequential.section.proverbs.subtitle",
+   "units": [
+    {
+     "id": 93,
+     "title_key": "plan.old-testament-sequential.unit.93.title",
+     "ref_range": [
+      {
+       "book": "prov",
+       "from_ch": 1,
+       "to_ch": 9
+      }
+     ],
+     "nodes": [
+      {
+       "id": 629,
+       "book": "prov",
+       "ch": 1
+      },
+      {
+       "id": 630,
+       "book": "prov",
+       "ch": 2
+      },
+      {
+       "id": 631,
+       "book": "prov",
+       "ch": 3
+      },
+      {
+       "id": 632,
+       "book": "prov",
+       "ch": 4
+      },
+      {
+       "id": 633,
+       "book": "prov",
+       "ch": 5
+      },
+      {
+       "id": 634,
+       "book": "prov",
+       "ch": 6
+      },
+      {
+       "id": 635,
+       "book": "prov",
+       "ch": 7
+      },
+      {
+       "id": 636,
+       "book": "prov",
+       "ch": 8
+      },
+      {
+       "id": 637,
+       "book": "prov",
+       "ch": 9
+      }
+     ]
+    },
+    {
+     "id": 94,
+     "title_key": "plan.old-testament-sequential.unit.94.title",
+     "ref_range": [
+      {
+       "book": "prov",
+       "from_ch": 10,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 638,
+       "book": "prov",
+       "ch": 10
+      },
+      {
+       "id": 639,
+       "book": "prov",
+       "ch": 11
+      },
+      {
+       "id": 640,
+       "book": "prov",
+       "ch": 12
+      },
+      {
+       "id": 641,
+       "book": "prov",
+       "ch": 13
+      },
+      {
+       "id": 642,
+       "book": "prov",
+       "ch": 14
+      },
+      {
+       "id": 643,
+       "book": "prov",
+       "ch": 15
+      },
+      {
+       "id": 644,
+       "book": "prov",
+       "ch": 16
+      },
+      {
+       "id": 645,
+       "book": "prov",
+       "ch": 17
+      },
+      {
+       "id": 646,
+       "book": "prov",
+       "ch": 18
+      },
+      {
+       "id": 647,
+       "book": "prov",
+       "ch": 19
+      },
+      {
+       "id": 648,
+       "book": "prov",
+       "ch": 20
+      },
+      {
+       "id": 649,
+       "book": "prov",
+       "ch": 21
+      },
+      {
+       "id": 650,
+       "book": "prov",
+       "ch": 22
+      },
+      {
+       "id": 651,
+       "book": "prov",
+       "ch": 23
+      },
+      {
+       "id": 652,
+       "book": "prov",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 95,
+     "title_key": "plan.old-testament-sequential.unit.95.title",
+     "ref_range": [
+      {
+       "book": "prov",
+       "from_ch": 25,
+       "to_ch": 31
+      }
+     ],
+     "nodes": [
+      {
+       "id": 653,
+       "book": "prov",
+       "ch": 25
+      },
+      {
+       "id": 654,
+       "book": "prov",
+       "ch": 26
+      },
+      {
+       "id": 655,
+       "book": "prov",
+       "ch": 27
+      },
+      {
+       "id": 656,
+       "book": "prov",
+       "ch": 28
+      },
+      {
+       "id": 657,
+       "book": "prov",
+       "ch": 29
+      },
+      {
+       "id": 658,
+       "book": "prov",
+       "ch": 30
+      },
+      {
+       "id": 659,
+       "book": "prov",
+       "ch": 31
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "slug": "ecclesiastes",
+   "primary_book": "eccl",
+   "subtitle_key": "plan.old-testament-sequential.section.ecclesiastes.subtitle",
+   "units": [
+    {
+     "id": 96,
+     "title_key": "plan.old-testament-sequential.unit.96.title",
+     "ref_range": [
+      {
+       "book": "eccl",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 660,
+       "book": "eccl",
+       "ch": 1
+      },
+      {
+       "id": 661,
+       "book": "eccl",
+       "ch": 2
+      },
+      {
+       "id": 662,
+       "book": "eccl",
+       "ch": 3
+      },
+      {
+       "id": 663,
+       "book": "eccl",
+       "ch": 4
+      },
+      {
+       "id": 664,
+       "book": "eccl",
+       "ch": 5
+      },
+      {
+       "id": 665,
+       "book": "eccl",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 97,
+     "title_key": "plan.old-testament-sequential.unit.97.title",
+     "ref_range": [
+      {
+       "book": "eccl",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 666,
+       "book": "eccl",
+       "ch": 7
+      },
+      {
+       "id": 667,
+       "book": "eccl",
+       "ch": 8
+      },
+      {
+       "id": 668,
+       "book": "eccl",
+       "ch": 9
+      },
+      {
+       "id": 669,
+       "book": "eccl",
+       "ch": 10
+      },
+      {
+       "id": 670,
+       "book": "eccl",
+       "ch": 11
+      },
+      {
+       "id": 671,
+       "book": "eccl",
+       "ch": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "slug": "song-of-solomon",
+   "primary_book": "song",
+   "subtitle_key": "plan.old-testament-sequential.section.song-of-solomon.subtitle",
+   "units": [
+    {
+     "id": 98,
+     "title_key": "plan.old-testament-sequential.unit.98.title",
+     "ref_range": [
+      {
+       "book": "song",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 672,
+       "book": "song",
+       "ch": 1
+      },
+      {
+       "id": 673,
+       "book": "song",
+       "ch": 2
+      },
+      {
+       "id": 674,
+       "book": "song",
+       "ch": 3
+      },
+      {
+       "id": 675,
+       "book": "song",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 99,
+     "title_key": "plan.old-testament-sequential.unit.99.title",
+     "ref_range": [
+      {
+       "book": "song",
+       "from_ch": 5,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 676,
+       "book": "song",
+       "ch": 5
+      },
+      {
+       "id": 677,
+       "book": "song",
+       "ch": 6
+      },
+      {
+       "id": 678,
+       "book": "song",
+       "ch": 7
+      },
+      {
+       "id": 679,
+       "book": "song",
+       "ch": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "slug": "isaiah",
+   "primary_book": "isa",
+   "subtitle_key": "plan.old-testament-sequential.section.isaiah.subtitle",
+   "units": [
+    {
+     "id": 100,
+     "title_key": "plan.old-testament-sequential.unit.100.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 680,
+       "book": "isa",
+       "ch": 1
+      },
+      {
+       "id": 681,
+       "book": "isa",
+       "ch": 2
+      },
+      {
+       "id": 682,
+       "book": "isa",
+       "ch": 3
+      },
+      {
+       "id": 683,
+       "book": "isa",
+       "ch": 4
+      },
+      {
+       "id": 684,
+       "book": "isa",
+       "ch": 5
+      },
+      {
+       "id": 685,
+       "book": "isa",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 101,
+     "title_key": "plan.old-testament-sequential.unit.101.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 686,
+       "book": "isa",
+       "ch": 7
+      },
+      {
+       "id": 687,
+       "book": "isa",
+       "ch": 8
+      },
+      {
+       "id": 688,
+       "book": "isa",
+       "ch": 9
+      },
+      {
+       "id": 689,
+       "book": "isa",
+       "ch": 10
+      },
+      {
+       "id": 690,
+       "book": "isa",
+       "ch": 11
+      },
+      {
+       "id": 691,
+       "book": "isa",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 102,
+     "title_key": "plan.old-testament-sequential.unit.102.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 13,
+       "to_ch": 23
+      }
+     ],
+     "nodes": [
+      {
+       "id": 692,
+       "book": "isa",
+       "ch": 13
+      },
+      {
+       "id": 693,
+       "book": "isa",
+       "ch": 14
+      },
+      {
+       "id": 694,
+       "book": "isa",
+       "ch": 15
+      },
+      {
+       "id": 695,
+       "book": "isa",
+       "ch": 16
+      },
+      {
+       "id": 696,
+       "book": "isa",
+       "ch": 17
+      },
+      {
+       "id": 697,
+       "book": "isa",
+       "ch": 18
+      },
+      {
+       "id": 698,
+       "book": "isa",
+       "ch": 19
+      },
+      {
+       "id": 699,
+       "book": "isa",
+       "ch": 20
+      },
+      {
+       "id": 700,
+       "book": "isa",
+       "ch": 21
+      },
+      {
+       "id": 701,
+       "book": "isa",
+       "ch": 22
+      },
+      {
+       "id": 702,
+       "book": "isa",
+       "ch": 23
+      }
+     ]
+    },
+    {
+     "id": 103,
+     "title_key": "plan.old-testament-sequential.unit.103.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 24,
+       "to_ch": 27
+      }
+     ],
+     "nodes": [
+      {
+       "id": 703,
+       "book": "isa",
+       "ch": 24
+      },
+      {
+       "id": 704,
+       "book": "isa",
+       "ch": 25
+      },
+      {
+       "id": 705,
+       "book": "isa",
+       "ch": 26
+      },
+      {
+       "id": 706,
+       "book": "isa",
+       "ch": 27
+      }
+     ]
+    },
+    {
+     "id": 104,
+     "title_key": "plan.old-testament-sequential.unit.104.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 28,
+       "to_ch": 35
+      }
+     ],
+     "nodes": [
+      {
+       "id": 707,
+       "book": "isa",
+       "ch": 28
+      },
+      {
+       "id": 708,
+       "book": "isa",
+       "ch": 29
+      },
+      {
+       "id": 709,
+       "book": "isa",
+       "ch": 30
+      },
+      {
+       "id": 710,
+       "book": "isa",
+       "ch": 31
+      },
+      {
+       "id": 711,
+       "book": "isa",
+       "ch": 32
+      },
+      {
+       "id": 712,
+       "book": "isa",
+       "ch": 33
+      },
+      {
+       "id": 713,
+       "book": "isa",
+       "ch": 34
+      },
+      {
+       "id": 714,
+       "book": "isa",
+       "ch": 35
+      }
+     ]
+    },
+    {
+     "id": 105,
+     "title_key": "plan.old-testament-sequential.unit.105.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 36,
+       "to_ch": 39
+      }
+     ],
+     "nodes": [
+      {
+       "id": 715,
+       "book": "isa",
+       "ch": 36
+      },
+      {
+       "id": 716,
+       "book": "isa",
+       "ch": 37
+      },
+      {
+       "id": 717,
+       "book": "isa",
+       "ch": 38
+      },
+      {
+       "id": 718,
+       "book": "isa",
+       "ch": 39
+      }
+     ]
+    },
+    {
+     "id": 106,
+     "title_key": "plan.old-testament-sequential.unit.106.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 40,
+       "to_ch": 48
+      }
+     ],
+     "nodes": [
+      {
+       "id": 719,
+       "book": "isa",
+       "ch": 40
+      },
+      {
+       "id": 720,
+       "book": "isa",
+       "ch": 41
+      },
+      {
+       "id": 721,
+       "book": "isa",
+       "ch": 42
+      },
+      {
+       "id": 722,
+       "book": "isa",
+       "ch": 43
+      },
+      {
+       "id": 723,
+       "book": "isa",
+       "ch": 44
+      },
+      {
+       "id": 724,
+       "book": "isa",
+       "ch": 45
+      },
+      {
+       "id": 725,
+       "book": "isa",
+       "ch": 46
+      },
+      {
+       "id": 726,
+       "book": "isa",
+       "ch": 47
+      },
+      {
+       "id": 727,
+       "book": "isa",
+       "ch": 48
+      }
+     ]
+    },
+    {
+     "id": 107,
+     "title_key": "plan.old-testament-sequential.unit.107.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 49,
+       "to_ch": 57
+      }
+     ],
+     "nodes": [
+      {
+       "id": 728,
+       "book": "isa",
+       "ch": 49
+      },
+      {
+       "id": 729,
+       "book": "isa",
+       "ch": 50
+      },
+      {
+       "id": 730,
+       "book": "isa",
+       "ch": 51
+      },
+      {
+       "id": 731,
+       "book": "isa",
+       "ch": 52
+      },
+      {
+       "id": 732,
+       "book": "isa",
+       "ch": 53
+      },
+      {
+       "id": 733,
+       "book": "isa",
+       "ch": 54
+      },
+      {
+       "id": 734,
+       "book": "isa",
+       "ch": 55
+      },
+      {
+       "id": 735,
+       "book": "isa",
+       "ch": 56
+      },
+      {
+       "id": 736,
+       "book": "isa",
+       "ch": 57
+      }
+     ]
+    },
+    {
+     "id": 108,
+     "title_key": "plan.old-testament-sequential.unit.108.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 58,
+       "to_ch": 66
+      }
+     ],
+     "nodes": [
+      {
+       "id": 737,
+       "book": "isa",
+       "ch": 58
+      },
+      {
+       "id": 738,
+       "book": "isa",
+       "ch": 59
+      },
+      {
+       "id": 739,
+       "book": "isa",
+       "ch": 60
+      },
+      {
+       "id": 740,
+       "book": "isa",
+       "ch": 61
+      },
+      {
+       "id": 741,
+       "book": "isa",
+       "ch": 62
+      },
+      {
+       "id": 742,
+       "book": "isa",
+       "ch": 63
+      },
+      {
+       "id": 743,
+       "book": "isa",
+       "ch": 64
+      },
+      {
+       "id": 744,
+       "book": "isa",
+       "ch": 65
+      },
+      {
+       "id": 745,
+       "book": "isa",
+       "ch": 66
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "slug": "jeremiah",
+   "primary_book": "jer",
+   "subtitle_key": "plan.old-testament-sequential.section.jeremiah.subtitle",
+   "units": [
+    {
+     "id": 109,
+     "title_key": "plan.old-testament-sequential.unit.109.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 746,
+       "book": "jer",
+       "ch": 1
+      },
+      {
+       "id": 747,
+       "book": "jer",
+       "ch": 2
+      },
+      {
+       "id": 748,
+       "book": "jer",
+       "ch": 3
+      },
+      {
+       "id": 749,
+       "book": "jer",
+       "ch": 4
+      },
+      {
+       "id": 750,
+       "book": "jer",
+       "ch": 5
+      },
+      {
+       "id": 751,
+       "book": "jer",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 110,
+     "title_key": "plan.old-testament-sequential.unit.110.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 752,
+       "book": "jer",
+       "ch": 7
+      },
+      {
+       "id": 753,
+       "book": "jer",
+       "ch": 8
+      },
+      {
+       "id": 754,
+       "book": "jer",
+       "ch": 9
+      },
+      {
+       "id": 755,
+       "book": "jer",
+       "ch": 10
+      },
+      {
+       "id": 756,
+       "book": "jer",
+       "ch": 11
+      },
+      {
+       "id": 757,
+       "book": "jer",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 111,
+     "title_key": "plan.old-testament-sequential.unit.111.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 13,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 758,
+       "book": "jer",
+       "ch": 13
+      },
+      {
+       "id": 759,
+       "book": "jer",
+       "ch": 14
+      },
+      {
+       "id": 760,
+       "book": "jer",
+       "ch": 15
+      },
+      {
+       "id": 761,
+       "book": "jer",
+       "ch": 16
+      },
+      {
+       "id": 762,
+       "book": "jer",
+       "ch": 17
+      },
+      {
+       "id": 763,
+       "book": "jer",
+       "ch": 18
+      },
+      {
+       "id": 764,
+       "book": "jer",
+       "ch": 19
+      },
+      {
+       "id": 765,
+       "book": "jer",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 112,
+     "title_key": "plan.old-testament-sequential.unit.112.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 21,
+       "to_ch": 29
+      }
+     ],
+     "nodes": [
+      {
+       "id": 766,
+       "book": "jer",
+       "ch": 21
+      },
+      {
+       "id": 767,
+       "book": "jer",
+       "ch": 22
+      },
+      {
+       "id": 768,
+       "book": "jer",
+       "ch": 23
+      },
+      {
+       "id": 769,
+       "book": "jer",
+       "ch": 24
+      },
+      {
+       "id": 770,
+       "book": "jer",
+       "ch": 25
+      },
+      {
+       "id": 771,
+       "book": "jer",
+       "ch": 26
+      },
+      {
+       "id": 772,
+       "book": "jer",
+       "ch": 27
+      },
+      {
+       "id": 773,
+       "book": "jer",
+       "ch": 28
+      },
+      {
+       "id": 774,
+       "book": "jer",
+       "ch": 29
+      }
+     ]
+    },
+    {
+     "id": 113,
+     "title_key": "plan.old-testament-sequential.unit.113.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 30,
+       "to_ch": 33
+      }
+     ],
+     "nodes": [
+      {
+       "id": 775,
+       "book": "jer",
+       "ch": 30
+      },
+      {
+       "id": 776,
+       "book": "jer",
+       "ch": 31
+      },
+      {
+       "id": 777,
+       "book": "jer",
+       "ch": 32
+      },
+      {
+       "id": 778,
+       "book": "jer",
+       "ch": 33
+      }
+     ]
+    },
+    {
+     "id": 114,
+     "title_key": "plan.old-testament-sequential.unit.114.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 34,
+       "to_ch": 39
+      }
+     ],
+     "nodes": [
+      {
+       "id": 779,
+       "book": "jer",
+       "ch": 34
+      },
+      {
+       "id": 780,
+       "book": "jer",
+       "ch": 35
+      },
+      {
+       "id": 781,
+       "book": "jer",
+       "ch": 36
+      },
+      {
+       "id": 782,
+       "book": "jer",
+       "ch": 37
+      },
+      {
+       "id": 783,
+       "book": "jer",
+       "ch": 38
+      },
+      {
+       "id": 784,
+       "book": "jer",
+       "ch": 39
+      }
+     ]
+    },
+    {
+     "id": 115,
+     "title_key": "plan.old-testament-sequential.unit.115.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 40,
+       "to_ch": 45
+      }
+     ],
+     "nodes": [
+      {
+       "id": 785,
+       "book": "jer",
+       "ch": 40
+      },
+      {
+       "id": 786,
+       "book": "jer",
+       "ch": 41
+      },
+      {
+       "id": 787,
+       "book": "jer",
+       "ch": 42
+      },
+      {
+       "id": 788,
+       "book": "jer",
+       "ch": 43
+      },
+      {
+       "id": 789,
+       "book": "jer",
+       "ch": 44
+      },
+      {
+       "id": 790,
+       "book": "jer",
+       "ch": 45
+      }
+     ]
+    },
+    {
+     "id": 116,
+     "title_key": "plan.old-testament-sequential.unit.116.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 46,
+       "to_ch": 52
+      }
+     ],
+     "nodes": [
+      {
+       "id": 791,
+       "book": "jer",
+       "ch": 46
+      },
+      {
+       "id": 792,
+       "book": "jer",
+       "ch": 47
+      },
+      {
+       "id": 793,
+       "book": "jer",
+       "ch": 48
+      },
+      {
+       "id": 794,
+       "book": "jer",
+       "ch": 49
+      },
+      {
+       "id": 795,
+       "book": "jer",
+       "ch": 50
+      },
+      {
+       "id": 796,
+       "book": "jer",
+       "ch": 51
+      },
+      {
+       "id": 797,
+       "book": "jer",
+       "ch": 52
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "slug": "lamentations",
+   "primary_book": "lam",
+   "subtitle_key": "plan.old-testament-sequential.section.lamentations.subtitle",
+   "units": [
+    {
+     "id": 117,
+     "title_key": "plan.old-testament-sequential.unit.117.title",
+     "ref_range": [
+      {
+       "book": "lam",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 798,
+       "book": "lam",
+       "ch": 1
+      },
+      {
+       "id": 799,
+       "book": "lam",
+       "ch": 2
+      },
+      {
+       "id": 800,
+       "book": "lam",
+       "ch": 3
+      },
+      {
+       "id": 801,
+       "book": "lam",
+       "ch": 4
+      },
+      {
+       "id": 802,
+       "book": "lam",
+       "ch": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "slug": "ezekiel",
+   "primary_book": "ezek",
+   "subtitle_key": "plan.old-testament-sequential.section.ezekiel.subtitle",
+   "units": [
+    {
+     "id": 118,
+     "title_key": "plan.old-testament-sequential.unit.118.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 803,
+       "book": "ezek",
+       "ch": 1
+      },
+      {
+       "id": 804,
+       "book": "ezek",
+       "ch": 2
+      },
+      {
+       "id": 805,
+       "book": "ezek",
+       "ch": 3
+      },
+      {
+       "id": 806,
+       "book": "ezek",
+       "ch": 4
+      },
+      {
+       "id": 807,
+       "book": "ezek",
+       "ch": 5
+      },
+      {
+       "id": 808,
+       "book": "ezek",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "title_key": "plan.old-testament-sequential.unit.119.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 809,
+       "book": "ezek",
+       "ch": 7
+      },
+      {
+       "id": 810,
+       "book": "ezek",
+       "ch": 8
+      },
+      {
+       "id": 811,
+       "book": "ezek",
+       "ch": 9
+      },
+      {
+       "id": 812,
+       "book": "ezek",
+       "ch": 10
+      },
+      {
+       "id": 813,
+       "book": "ezek",
+       "ch": 11
+      },
+      {
+       "id": 814,
+       "book": "ezek",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 120,
+     "title_key": "plan.old-testament-sequential.unit.120.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 13,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 815,
+       "book": "ezek",
+       "ch": 13
+      },
+      {
+       "id": 816,
+       "book": "ezek",
+       "ch": 14
+      },
+      {
+       "id": 817,
+       "book": "ezek",
+       "ch": 15
+      },
+      {
+       "id": 818,
+       "book": "ezek",
+       "ch": 16
+      },
+      {
+       "id": 819,
+       "book": "ezek",
+       "ch": 17
+      },
+      {
+       "id": 820,
+       "book": "ezek",
+       "ch": 18
+      }
+     ]
+    },
+    {
+     "id": 121,
+     "title_key": "plan.old-testament-sequential.unit.121.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 19,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 821,
+       "book": "ezek",
+       "ch": 19
+      },
+      {
+       "id": 822,
+       "book": "ezek",
+       "ch": 20
+      },
+      {
+       "id": 823,
+       "book": "ezek",
+       "ch": 21
+      },
+      {
+       "id": 824,
+       "book": "ezek",
+       "ch": 22
+      },
+      {
+       "id": 825,
+       "book": "ezek",
+       "ch": 23
+      },
+      {
+       "id": 826,
+       "book": "ezek",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 122,
+     "title_key": "plan.old-testament-sequential.unit.122.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 25,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 827,
+       "book": "ezek",
+       "ch": 25
+      },
+      {
+       "id": 828,
+       "book": "ezek",
+       "ch": 26
+      },
+      {
+       "id": 829,
+       "book": "ezek",
+       "ch": 27
+      },
+      {
+       "id": 830,
+       "book": "ezek",
+       "ch": 28
+      },
+      {
+       "id": 831,
+       "book": "ezek",
+       "ch": 29
+      },
+      {
+       "id": 832,
+       "book": "ezek",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 123,
+     "title_key": "plan.old-testament-sequential.unit.123.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 31,
+       "to_ch": 36
+      }
+     ],
+     "nodes": [
+      {
+       "id": 833,
+       "book": "ezek",
+       "ch": 31
+      },
+      {
+       "id": 834,
+       "book": "ezek",
+       "ch": 32
+      },
+      {
+       "id": 835,
+       "book": "ezek",
+       "ch": 33
+      },
+      {
+       "id": 836,
+       "book": "ezek",
+       "ch": 34
+      },
+      {
+       "id": 837,
+       "book": "ezek",
+       "ch": 35
+      },
+      {
+       "id": 838,
+       "book": "ezek",
+       "ch": 36
+      }
+     ]
+    },
+    {
+     "id": 124,
+     "title_key": "plan.old-testament-sequential.unit.124.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 37,
+       "to_ch": 42
+      }
+     ],
+     "nodes": [
+      {
+       "id": 839,
+       "book": "ezek",
+       "ch": 37
+      },
+      {
+       "id": 840,
+       "book": "ezek",
+       "ch": 38
+      },
+      {
+       "id": 841,
+       "book": "ezek",
+       "ch": 39
+      },
+      {
+       "id": 842,
+       "book": "ezek",
+       "ch": 40
+      },
+      {
+       "id": 843,
+       "book": "ezek",
+       "ch": 41
+      },
+      {
+       "id": 844,
+       "book": "ezek",
+       "ch": 42
+      }
+     ]
+    },
+    {
+     "id": 125,
+     "title_key": "plan.old-testament-sequential.unit.125.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 43,
+       "to_ch": 48
+      }
+     ],
+     "nodes": [
+      {
+       "id": 845,
+       "book": "ezek",
+       "ch": 43
+      },
+      {
+       "id": 846,
+       "book": "ezek",
+       "ch": 44
+      },
+      {
+       "id": 847,
+       "book": "ezek",
+       "ch": 45
+      },
+      {
+       "id": 848,
+       "book": "ezek",
+       "ch": 46
+      },
+      {
+       "id": 849,
+       "book": "ezek",
+       "ch": 47
+      },
+      {
+       "id": 850,
+       "book": "ezek",
+       "ch": 48
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "slug": "daniel",
+   "primary_book": "dan",
+   "subtitle_key": "plan.old-testament-sequential.section.daniel.subtitle",
+   "units": [
+    {
+     "id": 126,
+     "title_key": "plan.old-testament-sequential.unit.126.title",
+     "ref_range": [
+      {
+       "book": "dan",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 851,
+       "book": "dan",
+       "ch": 1
+      },
+      {
+       "id": 852,
+       "book": "dan",
+       "ch": 2
+      },
+      {
+       "id": 853,
+       "book": "dan",
+       "ch": 3
+      },
+      {
+       "id": 854,
+       "book": "dan",
+       "ch": 4
+      },
+      {
+       "id": 855,
+       "book": "dan",
+       "ch": 5
+      },
+      {
+       "id": 856,
+       "book": "dan",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 127,
+     "title_key": "plan.old-testament-sequential.unit.127.title",
+     "ref_range": [
+      {
+       "book": "dan",
+       "from_ch": 7,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 857,
+       "book": "dan",
+       "ch": 7
+      },
+      {
+       "id": 858,
+       "book": "dan",
+       "ch": 8
+      },
+      {
+       "id": 859,
+       "book": "dan",
+       "ch": 9
+      },
+      {
+       "id": 860,
+       "book": "dan",
+       "ch": 10
+      },
+      {
+       "id": 861,
+       "book": "dan",
+       "ch": 11
+      },
+      {
+       "id": 862,
+       "book": "dan",
+       "ch": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "slug": "hosea",
+   "primary_book": "hosea",
+   "subtitle_key": "plan.old-testament-sequential.section.hosea.subtitle",
+   "units": [
+    {
+     "id": 128,
+     "title_key": "plan.old-testament-sequential.unit.128.title",
+     "ref_range": [
+      {
+       "book": "hosea",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 863,
+       "book": "hosea",
+       "ch": 1
+      },
+      {
+       "id": 864,
+       "book": "hosea",
+       "ch": 2
+      },
+      {
+       "id": 865,
+       "book": "hosea",
+       "ch": 3
+      },
+      {
+       "id": 866,
+       "book": "hosea",
+       "ch": 4
+      },
+      {
+       "id": 867,
+       "book": "hosea",
+       "ch": 5
+      },
+      {
+       "id": 868,
+       "book": "hosea",
+       "ch": 6
+      },
+      {
+       "id": 869,
+       "book": "hosea",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 129,
+     "title_key": "plan.old-testament-sequential.unit.129.title",
+     "ref_range": [
+      {
+       "book": "hosea",
+       "from_ch": 8,
+       "to_ch": 14
+      }
+     ],
+     "nodes": [
+      {
+       "id": 870,
+       "book": "hosea",
+       "ch": 8
+      },
+      {
+       "id": 871,
+       "book": "hosea",
+       "ch": 9
+      },
+      {
+       "id": 872,
+       "book": "hosea",
+       "ch": 10
+      },
+      {
+       "id": 873,
+       "book": "hosea",
+       "ch": 11
+      },
+      {
+       "id": 874,
+       "book": "hosea",
+       "ch": 12
+      },
+      {
+       "id": 875,
+       "book": "hosea",
+       "ch": 13
+      },
+      {
+       "id": 876,
+       "book": "hosea",
+       "ch": 14
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "slug": "joel",
+   "primary_book": "joel",
+   "subtitle_key": "plan.old-testament-sequential.section.joel.subtitle",
+   "units": [
+    {
+     "id": 130,
+     "title_key": "plan.old-testament-sequential.unit.130.title",
+     "ref_range": [
+      {
+       "book": "joel",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 877,
+       "book": "joel",
+       "ch": 1
+      },
+      {
+       "id": 878,
+       "book": "joel",
+       "ch": 2
+      },
+      {
+       "id": 879,
+       "book": "joel",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "slug": "amos",
+   "primary_book": "amos",
+   "subtitle_key": "plan.old-testament-sequential.section.amos.subtitle",
+   "units": [
+    {
+     "id": 131,
+     "title_key": "plan.old-testament-sequential.unit.131.title",
+     "ref_range": [
+      {
+       "book": "amos",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 880,
+       "book": "amos",
+       "ch": 1
+      },
+      {
+       "id": 881,
+       "book": "amos",
+       "ch": 2
+      },
+      {
+       "id": 882,
+       "book": "amos",
+       "ch": 3
+      },
+      {
+       "id": 883,
+       "book": "amos",
+       "ch": 4
+      },
+      {
+       "id": 884,
+       "book": "amos",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "title_key": "plan.old-testament-sequential.unit.132.title",
+     "ref_range": [
+      {
+       "book": "amos",
+       "from_ch": 6,
+       "to_ch": 9
+      }
+     ],
+     "nodes": [
+      {
+       "id": 885,
+       "book": "amos",
+       "ch": 6
+      },
+      {
+       "id": 886,
+       "book": "amos",
+       "ch": 7
+      },
+      {
+       "id": 887,
+       "book": "amos",
+       "ch": 8
+      },
+      {
+       "id": 888,
+       "book": "amos",
+       "ch": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "slug": "obad",
+   "primary_book": "obad",
+   "subtitle_key": "plan.old-testament-sequential.section.obad.subtitle",
+   "units": [
+    {
+     "id": 133,
+     "title_key": "plan.old-testament-sequential.unit.133.title",
+     "ref_range": [
+      {
+       "book": "obad",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 889,
+       "book": "obad",
+       "ch": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "slug": "jonah",
+   "primary_book": "jonah",
+   "subtitle_key": "plan.old-testament-sequential.section.jonah.subtitle",
+   "units": [
+    {
+     "id": 134,
+     "title_key": "plan.old-testament-sequential.unit.134.title",
+     "ref_range": [
+      {
+       "book": "jonah",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 890,
+       "book": "jonah",
+       "ch": 1
+      },
+      {
+       "id": 891,
+       "book": "jonah",
+       "ch": 2
+      },
+      {
+       "id": 892,
+       "book": "jonah",
+       "ch": 3
+      },
+      {
+       "id": 893,
+       "book": "jonah",
+       "ch": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "slug": "micah",
+   "primary_book": "micah",
+   "subtitle_key": "plan.old-testament-sequential.section.micah.subtitle",
+   "units": [
+    {
+     "id": 135,
+     "title_key": "plan.old-testament-sequential.unit.135.title",
+     "ref_range": [
+      {
+       "book": "micah",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 894,
+       "book": "micah",
+       "ch": 1
+      },
+      {
+       "id": 895,
+       "book": "micah",
+       "ch": 2
+      },
+      {
+       "id": 896,
+       "book": "micah",
+       "ch": 3
+      },
+      {
+       "id": 897,
+       "book": "micah",
+       "ch": 4
+      },
+      {
+       "id": 898,
+       "book": "micah",
+       "ch": 5
+      },
+      {
+       "id": 899,
+       "book": "micah",
+       "ch": 6
+      },
+      {
+       "id": 900,
+       "book": "micah",
+       "ch": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "slug": "nahum",
+   "primary_book": "nahum",
+   "subtitle_key": "plan.old-testament-sequential.section.nahum.subtitle",
+   "units": [
+    {
+     "id": 136,
+     "title_key": "plan.old-testament-sequential.unit.136.title",
+     "ref_range": [
+      {
+       "book": "nahum",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 901,
+       "book": "nahum",
+       "ch": 1
+      },
+      {
+       "id": 902,
+       "book": "nahum",
+       "ch": 2
+      },
+      {
+       "id": 903,
+       "book": "nahum",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "slug": "hab",
+   "primary_book": "hab",
+   "subtitle_key": "plan.old-testament-sequential.section.hab.subtitle",
+   "units": [
+    {
+     "id": 137,
+     "title_key": "plan.old-testament-sequential.unit.137.title",
+     "ref_range": [
+      {
+       "book": "hab",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 904,
+       "book": "hab",
+       "ch": 1
+      },
+      {
+       "id": 905,
+       "book": "hab",
+       "ch": 2
+      },
+      {
+       "id": 906,
+       "book": "hab",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "slug": "zeph",
+   "primary_book": "zeph",
+   "subtitle_key": "plan.old-testament-sequential.section.zeph.subtitle",
+   "units": [
+    {
+     "id": 138,
+     "title_key": "plan.old-testament-sequential.unit.138.title",
+     "ref_range": [
+      {
+       "book": "zeph",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 907,
+       "book": "zeph",
+       "ch": 1
+      },
+      {
+       "id": 908,
+       "book": "zeph",
+       "ch": 2
+      },
+      {
+       "id": 909,
+       "book": "zeph",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "slug": "hag",
+   "primary_book": "hag",
+   "subtitle_key": "plan.old-testament-sequential.section.hag.subtitle",
+   "units": [
+    {
+     "id": 139,
+     "title_key": "plan.old-testament-sequential.unit.139.title",
+     "ref_range": [
+      {
+       "book": "hag",
+       "from_ch": 1,
+       "to_ch": 2
+      }
+     ],
+     "nodes": [
+      {
+       "id": 910,
+       "book": "hag",
+       "ch": 1
+      },
+      {
+       "id": 911,
+       "book": "hag",
+       "ch": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "slug": "zech",
+   "primary_book": "zech",
+   "subtitle_key": "plan.old-testament-sequential.section.zech.subtitle",
+   "units": [
+    {
+     "id": 140,
+     "title_key": "plan.old-testament-sequential.unit.140.title",
+     "ref_range": [
+      {
+       "book": "zech",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 912,
+       "book": "zech",
+       "ch": 1
+      },
+      {
+       "id": 913,
+       "book": "zech",
+       "ch": 2
+      },
+      {
+       "id": 914,
+       "book": "zech",
+       "ch": 3
+      },
+      {
+       "id": 915,
+       "book": "zech",
+       "ch": 4
+      },
+      {
+       "id": 916,
+       "book": "zech",
+       "ch": 5
+      },
+      {
+       "id": 917,
+       "book": "zech",
+       "ch": 6
+      },
+      {
+       "id": 918,
+       "book": "zech",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 141,
+     "title_key": "plan.old-testament-sequential.unit.141.title",
+     "ref_range": [
+      {
+       "book": "zech",
+       "from_ch": 8,
+       "to_ch": 14
+      }
+     ],
+     "nodes": [
+      {
+       "id": 919,
+       "book": "zech",
+       "ch": 8
+      },
+      {
+       "id": 920,
+       "book": "zech",
+       "ch": 9
+      },
+      {
+       "id": 921,
+       "book": "zech",
+       "ch": 10
+      },
+      {
+       "id": 922,
+       "book": "zech",
+       "ch": 11
+      },
+      {
+       "id": 923,
+       "book": "zech",
+       "ch": 12
+      },
+      {
+       "id": 924,
+       "book": "zech",
+       "ch": 13
+      },
+      {
+       "id": 925,
+       "book": "zech",
+       "ch": 14
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "slug": "mal",
+   "primary_book": "mal",
+   "subtitle_key": "plan.old-testament-sequential.section.mal.subtitle",
+   "units": [
+    {
+     "id": 142,
+     "title_key": "plan.old-testament-sequential.unit.142.title",
+     "ref_range": [
+      {
+       "book": "mal",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 926,
+       "book": "mal",
+       "ch": 1
+      },
+      {
+       "id": 927,
+       "book": "mal",
+       "ch": 2
+      },
+      {
+       "id": 928,
+       "book": "mal",
+       "ch": 3
+      },
+      {
+       "id": 929,
+       "book": "mal",
+       "ch": 4
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

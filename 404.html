@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/duoverse-web/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <!-- `viewport-fit=cover` asks for the whole screen, so the app draws under the
+       clock instead of iOS keeping that strip and painting it itself. It is also
+       what gives `env(safe-area-inset-top)` a height, which is where
+       phone_frame's PhoneSafeArea takes the top inset from — no inset is written
+       in Dart. Flutter's engine replaces this meta on boot; the MutationObserver
+       at the bottom of the body puts `cover` back. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Duoverse — estude as escrituras num caminho estilo Duolingo.">
+  <!-- Browser/PWA chrome colour, before Flutter boots; once it has,
+       web_page_theme takes over with a single meta and drives it per screen
+       (the reading session locks it to its paper colour). On an installed iOS
+       PWA it no longer paints the clock's strip — `black-translucent` below
+       hands that strip to the app — but it still drives Android Chrome, the
+       desktop toolbar and Safari's own bar. -->
+  <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#131F24" media="(prefers-color-scheme: dark)">
+
+  <!-- iOS "Add to Home Screen" (standalone PWA). `black-translucent` is the pair
+       of `viewport-fit=cover`: with both, the strip the clock and the battery
+       live in becomes the app's — its own background runs up under them and
+       there is no band of another colour to match, and iOS draws the clock over
+       it. Alone, without `cover`, this is what paints the strip black. With
+       `default` iOS keeps the strip and paints it the `theme-color` meta, which
+       it reads once at launch and never again — so a user-switchable theme is
+       stuck with whichever colour it opened with.
+       The opaque lamp icon comes from the apple-touch-icons below. -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Duoverse">
+  <link rel="apple-touch-icon" sizes="192x192" href="icons/Icon-192.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="icons/Icon-512.png">
+
+  <!-- Favicon: small legacy PNG + high-res variants so the tab icon stays crisp
+       on retina (the browser picks the best size). -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/Icon-192.png"/>
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/Icon-512.png"/>
+
+  <title>Duoverse</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    /* The page behind the Flutter view, until Dart sets it per screen. Matches
+       the app's background so the strips around the view never flash white.
+
+       `100vh`, NOT `100%`: under `cover`, `100%` does not count the area behind
+       the status bar, so the document comes out shorter than the screen and a
+       band of background is left along the bottom. And do not add
+       `env(safe-area-inset-top)` on top of it — `100vh` is already the whole
+       screen, and the extra overshoots, pushing anything anchored to the bottom
+       (the nav bar) off the edge. */
+    html, body { margin: 0; padding: 0; height: 100vh; background-color: #131F24; }
+    @media (prefers-color-scheme: light) {
+      html, body { background-color: #FFFFFF; }
+    }
+
+    /* Hosts the Flutter view, at the document's own height, so the engine
+       measures THIS element (through its ResizeObserver) rather than
+       `documentElement.clientHeight` — which under `cover` leaves out the top
+       safe area and hands the app a viewport shorter than the screen. */
+    #flutter-host { position: fixed; top: 0; left: 0; right: 0; height: 100vh; }
+
+    /* The reading view paints its OWN text selection (a tan pill) and shows its
+       own toolbar. Under the Flutter canvas there's a hidden text input, and on
+       iOS Safari it otherwise shows the browser's native blue selection and
+       long-press callout on top — a duplicate. Hide the native selection and
+       disable the callout so only the app's UI shows. Selection/copy still work;
+       only the native highlight is made invisible. */
+    ::selection { background: transparent !important; }
+    ::-moz-selection { background: transparent !important; }
+    /* Suppress the browser's native text selection (the iOS blue highlight +
+       handles) that leaks through Flutter's hidden text input on top of the
+       app's own painted (tan) selection. The reading view drives selection
+       through Flutter gestures, not the DOM, so this hides the native visual
+       without stopping selection. */
+    html, body {
+      -webkit-touch-callout: none;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    /* Flutter sets user-select:text inline on its hidden editing element, which
+       is what iOS Safari paints the native blue selection on. Override it with
+       !important so the native highlight is suppressed; the reading view's own
+       (framework-driven) selection + tan painter keep working. */
+    input, textarea, [contenteditable] {
+      -webkit-user-select: none !important;
+      user-select: none !important;
+    }
+  </style>
+</head>
+<body>
+  <!--
+    Kills any service worker a previous deploy left behind, and the caches with
+    it. The build ships without one (`--pwa-strategy=none`, see
+    docs/web-deploy.md), because Flutter's worker serves the cached index.html
+    for a whole extra load after a deploy: a fix can be published and verified
+    on the server and still not be what the phone is running. This is for the
+    copies installed while there still was a worker — the app they are holding
+    cannot fetch itself.
+  -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function (all) {
+        all.forEach(function (one) { one.unregister(); });
+      });
+    }
+    if (window.caches) {
+      caches.keys().then(function (names) {
+        names.forEach(function (name) { caches.delete(name); });
+      });
+    }
+  </script>
+
+  <script>
+    /* Flutter's engine removes every viewport meta on the page and writes its
+       own, which has no `viewport-fit` — and it measures the page right after,
+       during initialization, so putting it back from Dart is too late. This
+       puts `cover` back the moment the engine's meta appears. */
+    new MutationObserver(function () {
+      var m = document.querySelector('meta[name="viewport"]');
+      if (m && m.content.indexOf('viewport-fit') === -1) {
+        m.content += ', viewport-fit=cover';
+      }
+    }).observe(document.head, {childList: true, subtree: true, attributes: true});
+  </script>
+
+  <div id="flutter-host"></div>
+  <!--
+    Inlines web/flutter_bootstrap.js, which is templated so the loader is handed
+    `#flutter-host` above. Not a `<script src>`: the host element has to exist
+    and the load call has to name it, and inlining keeps the two together.
+  -->
+  <script>// Flutter's bootstrap, templated so the engine is given a host element of our
+// own instead of taking over the whole document.
+//
+// The two tokens below are substituted at build time; index.html then inlines
+// this whole file through its own flutter_bootstrap_js token, which is why the
+// page has no `<script src="flutter_bootstrap.js">`.
+(()=>{var _={blink:!0,gecko:!1,webkit:!1,unknown:!1},K=()=>navigator.vendor==="Google Inc."||navigator.userAgent.includes("Edg/")?"blink":navigator.vendor==="Apple Computer, Inc."?"webkit":navigator.vendor===""&&navigator.userAgent.includes("Firefox")?"gecko":"unknown",C=K(),R=()=>typeof ImageDecoder>"u"?!1:C==="blink",B=()=>typeof Intl.v8BreakIterator<"u"&&typeof Intl.Segmenter<"u",z=()=>{let i=[0,97,115,109,1,0,0,0,1,5,1,95,1,120,0];return WebAssembly.validate(new Uint8Array(i))},M=()=>{let i=document.createElement("canvas");return i.width=1,i.height=1,i.getContext("webgl2")!=null?2:i.getContext("webgl")!=null?1:-1},D=()=>window.chrome&&chrome.runtime&&chrome.runtime.id,w={browserEngine:C,hasImageCodecs:R(),hasChromiumBreakIterators:B(),supportsWasmGC:z(),crossOriginIsolated:window.crossOriginIsolated,webGLVersion:M(),isChromeExtension:D()};function c(...i){return new URL(I(...i),document.baseURI).toString()}function I(...i){return i.filter(e=>!!e).map((e,n)=>n===0?S(e):F(S(e))).filter(e=>e.length).join("/")}function F(i){let e=0;for(;e<i.length&&i.charAt(e)==="/";)e++;return i.substring(e)}function S(i){let e=i.length;for(;e>0&&i.charAt(e-1)==="/";)e--;return i.substring(0,e)}function E(i,e){return i.canvasKitBaseUrl?i.canvasKitBaseUrl:e.engineRevision&&!e.useLocalCanvasKit?I("https://www.gstatic.com/flutter-canvaskit",e.engineRevision):"canvaskit"}var v=class{constructor(){this._scriptLoaded=!1}setTrustedTypesPolicy(e){this._ttPolicy=e}async loadEntrypoint(e){let{entrypointUrl:n=c("main.dart.js"),onEntrypointLoaded:t,nonce:r}=e||{};return this._loadJSEntrypoint(n,t,r)}async load(e,n,t,r,a){a??=l=>{l.initializeEngine(t).then(u=>u.runApp())};let{entrypointBaseUrl:s}=t,{entryPointBaseUrl:o}=t;if(!s&&o&&(console.warn("[deprecated] `entryPointBaseUrl` is deprecated and will be removed in a future release. Use `entrypointBaseUrl` instead."),s=o),e.compileTarget==="dart2wasm")return this._loadWasmEntrypoint(e,n,s,a);{let l=e.mainJsPath??"main.dart.js",u=c(s,l);return this._loadJSEntrypoint(u,a,r)}}didCreateEngineInitializer(e){typeof this._didCreateEngineInitializerResolve=="function"&&(this._didCreateEngineInitializerResolve(e),this._didCreateEngineInitializerResolve=null,delete _flutter.loader.didCreateEngineInitializer),typeof this._onEntrypointLoaded=="function"&&this._onEntrypointLoaded(e)}_loadJSEntrypoint(e,n,t){let r=typeof n=="function";if(!this._scriptLoaded){this._scriptLoaded=!0;let a=this._createScriptTag(e,t);if(r)console.debug("Injecting <script> tag. Using callback."),this._onEntrypointLoaded=n,document.head.append(a);else return new Promise((s,o)=>{console.debug("Injecting <script> tag. Using Promises. Use the callback approach instead!"),this._didCreateEngineInitializerResolve=s,a.addEventListener("error",o),document.head.append(a)})}}async _loadWasmEntrypoint(e,n,t,r){if(!this._scriptLoaded){this._scriptLoaded=!0,this._onEntrypointLoaded=r;let{mainWasmPath:a,jsSupportRuntimePath:s}=e,o=c(t,a),l=c(t,s);this._ttPolicy!=null&&(l=this._ttPolicy.createScriptURL(l));let d=(await import(l)).compileStreaming(fetch(o)),p;e.renderer==="skwasm"?p=(async()=>{let h=await n.skwasm;return window._flutter_skwasmInstance=h,{skwasm:h.wasmExports,skwasmWrapper:h,ffi:{memory:h.wasmMemory}}})():p=Promise.resolve({}),await(await(await d).instantiate(await p,{loadDynamicModule:async(h,j)=>{let A=fetch(c(t,h)),L=c(t,j);this._ttPolicy!=null&&(L=this._ttPolicy.createScriptURL(L));let x=import(L);return[await A,await x]}})).invokeMain()}}_createScriptTag(e,n){let t=document.createElement("script");t.type="application/javascript",n&&(t.nonce=n);let r=e;return this._ttPolicy!=null&&(r=this._ttPolicy.createScriptURL(e)),t.src=r,t}};async function T(i,e,n){if(e<0)return i;let t,r=new Promise((a,s)=>{t=setTimeout(()=>{s(new Error(`${n} took more than ${e}ms to resolve. Moving on.`,{cause:T}))},e)});return Promise.race([i,r]).finally(()=>{clearTimeout(t)})}var g=class{setTrustedTypesPolicy(e){this._ttPolicy=e}loadServiceWorker(e){if(!e||!("serviceWorker"in navigator))return Promise.resolve();let n=()=>{console.warn(`Loading the service worker using Flutter bootstrap is deprecated and will stop working in a future release.
+For more details, see: https://github.com/flutter/flutter/issues/156910`)},t=()=>{let{serviceWorkerVersion:r,serviceWorkerUrl:a=c(`flutter_service_worker.js?v=${r}`),timeoutMillis:s=4e3}=e,o=a;this._ttPolicy!=null&&(o=this._ttPolicy.createScriptURL(o));let l=navigator.serviceWorker.register(o).then(u=>this._getNewServiceWorker(u,r)).then(this._waitForServiceWorkerActivation);return T(l,s,"prepareServiceWorker")};return e.serviceWorkerUrl!=null?(n(),t()):navigator.serviceWorker.getRegistration().then(r=>r?t():Promise.resolve())}async _getNewServiceWorker(e,n){if(!e.active&&(e.installing||e.waiting))return console.debug("Installing/Activating first service worker."),e.installing||e.waiting;if(e.active.scriptURL.endsWith(n))return console.debug("Loading from existing service worker."),e.active;{let t=await e.update();return console.debug("Updating service worker."),t.installing||t.waiting||t.active}}async _waitForServiceWorkerActivation(e){if(!e||e.state==="activated")if(e){console.debug("Service worker already active.");return}else throw new Error("Cannot activate a null service worker!");return new Promise((n,t)=>{e.addEventListener("statechange",()=>{e.state==="activated"&&(console.debug("Activated new service worker."),n())})})}};var y=class{constructor(e,n="flutter-js"){let t=e||[/\.js$/,/\.mjs$/];window.trustedTypes&&(this.policy=trustedTypes.createPolicy(n,{createScriptURL:function(r){if(r.startsWith("blob:"))return r;let a=new URL(r,window.location),s=a.pathname.split("/").pop();if(t.some(l=>l.test(s)))return a.toString();console.error("URL rejected by TrustedTypes policy",n,":",r,"(download prevented)")}}))}};var k=i=>{let e=WebAssembly.compileStreaming(fetch(i));return(n,t)=>((async()=>{let r=await e,a=await WebAssembly.instantiate(r,n);t(a,r)})(),{})};var U=(i,e,n,t)=>(window.flutterCanvasKitLoaded=(async()=>{if(window.flutterCanvasKit)return window.flutterCanvasKit;let r=n.hasChromiumBreakIterators&&n.hasImageCodecs;if(!r&&e.canvasKitVariant=="chromium")throw"Chromium CanvasKit variant specifically requested, but unsupported in this browser";let a=r&&e.canvasKitVariant!=="full",s=t;e.canvasKitVariant=="experimentalWebParagraph"?s=c(s,"experimental_webparagraph"):a&&(s=c(s,"chromium"));let o=c(s,"canvaskit.js");i.flutterTT.policy&&(o=i.flutterTT.policy.createScriptURL(o));let l=k(c(s,"canvaskit.wasm")),u=await import(o);return window.flutterCanvasKit=await u.default({instantiateWasm:l}),window.flutterCanvasKit})(),window.flutterCanvasKitLoaded);var W=async(i,e,n,t)=>{let a=!n.hasImageCodecs||!n.hasChromiumBreakIterators?"skwasm_heavy":e.enableWimp?"wimp":"skwasm",s=c(t,`${a}.js`),o=s;i.flutterTT.policy&&(o=i.flutterTT.policy.createScriptURL(o));let l=k(c(t,`${a}.wasm`));return await(await import(o)).default({skwasmSingleThreaded:e.enableWimp||!n.crossOriginIsolated||n.isChromeExtension||e.forceSingleThreadedSkwasm,instantiateWasm:l,locateFile:(d,p)=>d.endsWith(".ww.js")?URL.createObjectURL(new Blob([`
+"use strict";
+
+let eventListener;
+eventListener = (message) => {
+    const pendingMessages = [];
+    const data = message.data;
+    data["instantiateWasm"] = (info,receiveInstance) => {
+        const instance = new WebAssembly.Instance(data["wasm"], info);
+        return receiveInstance(instance, data["wasm"])
+    };
+    import(data.js).then(async (skwasm) => {
+        await skwasm.default(data);
+
+        removeEventListener("message", eventListener);
+        for (const message of pendingMessages) {
+            dispatchEvent(message);
+        }
+    });
+    removeEventListener("message", eventListener);
+    eventListener = (message) => {
+
+        pendingMessages.push(message);
+    };
+
+    addEventListener("message", eventListener);
+};
+addEventListener("message", eventListener);
+`],{type:"application/javascript"})):c(t,d),mainScriptUrlOrBlob:s})};var P=w.supportsWasmGC,G=P&&w.webGLVersion>0,b=class{async loadEntrypoint(e){let{serviceWorker:n,...t}=e||{},r=new y,a=new g;a.setTrustedTypesPolicy(r.policy),await a.loadServiceWorker(n).catch(o=>{console.warn("Exception while loading service worker:",o)});let s=new v;return s.setTrustedTypesPolicy(r.policy),this.didCreateEngineInitializer=s.didCreateEngineInitializer.bind(s),s.loadEntrypoint(t)}async load({serviceWorkerSettings:e,onEntrypointLoaded:n,nonce:t,config:r}={}){r??={};let a=_flutter.buildConfig;if(!a)throw"FlutterLoader.load requires _flutter.buildConfig to be set";let s=r.wasmAllowList?.[w.browserEngine]??_[w.browserEngine],o=m=>{switch(m){case"skwasm":return G&&s;default:return!0}},l=m=>m.compileTarget==="dart2wasm"&&!P||r.renderer&&r.renderer!=m.renderer?!1:o(m.renderer),u=a.builds.find(l);if(!u)throw"FlutterLoader could not find a build compatible with configuration and environment.";let d={};d.flutterTT=new y,e&&(d.serviceWorkerLoader=new g,d.serviceWorkerLoader.setTrustedTypesPolicy(d.flutterTT.policy),await d.serviceWorkerLoader.loadServiceWorker(e).catch(m=>{console.warn("Exception while loading service worker:",m)}));let p=E(r,a);u.renderer==="canvaskit"?d.canvasKit=U(d,r,w,p):u.renderer==="skwasm"&&(d.skwasm=W(d,r,w,p));let f=new v;return f.setTrustedTypesPolicy(d.flutterTT.policy),this.didCreateEngineInitializer=f.didCreateEngineInitializer.bind(f),f.load(u,d,r,t,n)}};window._flutter||(window._flutter={});window._flutter.loader||(window._flutter.loader=new b);})();
+//# sourceMappingURL=flutter.js.map
+
+if (!window._flutter) {
+  window._flutter = {};
+}
+_flutter.buildConfig = {"engineRevision":"425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+
+
+// A host of our own, so the engine measures THIS element (through its
+// ResizeObserver) rather than `documentElement.clientHeight` — which, under
+// `viewport-fit=cover`, leaves out the strip behind the status bar and hands the
+// app a viewport shorter than the screen.
+//
+// No `serviceWorkerSettings`: the build ships without a worker
+// (`--pwa-strategy=none`), because a cached index.html is served for a whole
+// extra load after a deploy.
+_flutter.loader.load({
+  config: {hostElement: document.querySelector('#flutter-host')},
+});
+</script>
+</body>
+</html>
