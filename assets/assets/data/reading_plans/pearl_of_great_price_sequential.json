@@ -1,0 +1,213 @@
+{
+ "plan_id": "pearl-of-great-price-sequential",
+ "schema_version": 1,
+ "type": "scripture-reading",
+ "scripture": "pgp",
+ "total_nodes": 16,
+ "total_units": 6,
+ "total_sections": 5,
+ "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/pgp",
+ "name_key": "plan.pearl-of-great-price-sequential.name",
+ "subtitle_key": "plan.pearl-of-great-price-sequential.subtitle",
+ "source_key": "plan.pearl-of-great-price-sequential.source",
+ "sections": [
+  {
+   "id": 1,
+   "slug": "moses",
+   "primary_book": "moses",
+   "subtitle_key": "plan.pearl-of-great-price-sequential.section.moses.subtitle",
+   "units": [
+    {
+     "id": 1,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.1.title",
+     "ref_range": [
+      {
+       "book": "moses",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 1,
+       "book": "moses",
+       "ch": 1
+      },
+      {
+       "id": 2,
+       "book": "moses",
+       "ch": 2
+      },
+      {
+       "id": 3,
+       "book": "moses",
+       "ch": 3
+      },
+      {
+       "id": 4,
+       "book": "moses",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.2.title",
+     "ref_range": [
+      {
+       "book": "moses",
+       "from_ch": 5,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 5,
+       "book": "moses",
+       "ch": 5
+      },
+      {
+       "id": 6,
+       "book": "moses",
+       "ch": 6
+      },
+      {
+       "id": 7,
+       "book": "moses",
+       "ch": 7
+      },
+      {
+       "id": 8,
+       "book": "moses",
+       "ch": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "abraham",
+   "primary_book": "abr",
+   "subtitle_key": "plan.pearl-of-great-price-sequential.section.abraham.subtitle",
+   "units": [
+    {
+     "id": 3,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.3.title",
+     "ref_range": [
+      {
+       "book": "abr",
+       "from_ch": 1,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 9,
+       "book": "abr",
+       "ch": 1
+      },
+      {
+       "id": 10,
+       "book": "abr",
+       "ch": 2
+      },
+      {
+       "id": 11,
+       "book": "abr",
+       "ch": 3
+      },
+      {
+       "id": 12,
+       "book": "abr",
+       "ch": 4
+      },
+      {
+       "id": 13,
+       "book": "abr",
+       "ch": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "joseph-smith-matthew",
+   "primary_book": "js-m",
+   "subtitle_key": "plan.pearl-of-great-price-sequential.section.joseph-smith-matthew.subtitle",
+   "units": [
+    {
+     "id": 4,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.4.title",
+     "ref_range": [
+      {
+       "book": "js-m",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 14,
+       "book": "js-m",
+       "ch": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "joseph-smith-history",
+   "primary_book": "js-h",
+   "subtitle_key": "plan.pearl-of-great-price-sequential.section.joseph-smith-history.subtitle",
+   "units": [
+    {
+     "id": 5,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.5.title",
+     "ref_range": [
+      {
+       "book": "js-h",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 15,
+       "book": "js-h",
+       "ch": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "articles-of-faith",
+   "primary_book": "a-of-f",
+   "subtitle_key": "plan.pearl-of-great-price-sequential.section.articles-of-faith.subtitle",
+   "units": [
+    {
+     "id": 6,
+     "title_key": "plan.pearl-of-great-price-sequential.unit.6.title",
+     "ref_range": [
+      {
+       "book": "a-of-f",
+       "from_ch": 1,
+       "to_ch": 1
+      }
+     ],
+     "nodes": [
+      {
+       "id": 16,
+       "book": "a-of-f",
+       "ch": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "version": 2,
+  "supported_locales": [
+    "pt",
+    "en",
+    "es"
+  ],
+  "default_locale": "pt",
+  "templates": [
+    {
+      "id": "streak_1",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Sua ofensiva está esperando 🔥",
+        "en": "Your streak is waiting 🔥",
+        "es": "Tu racha te espera 🔥"
+      },
+      "body": {
+        "pt": "Não deixe a chama apagar — leia um capítulo hoje.",
+        "en": "Don't let the flame go out — read a chapter today.",
+        "es": "No dejes que la llama se apague: lee un capítulo hoy."
+      }
+    },
+    {
+      "id": "streak_2",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Faltou a leitura de hoje 📖",
+        "en": "Today's reading is still open 📖",
+        "es": "Falta la lectura de hoy 📖"
+      },
+      "body": {
+        "pt": "Um capítulo agora mantém sua sequência viva. Bora?",
+        "en": "One chapter now keeps your streak alive. Ready?",
+        "es": "Un capítulo ahora mantiene tu racha viva. ¿Vamos?"
+      }
+    },
+    {
+      "id": "streak_3",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Mantenha o ritmo ✨",
+        "en": "Keep the rhythm ✨",
+        "es": "Mantén el ritmo ✨"
+      },
+      "body": {
+        "pt": "Você está indo tão bem. Que tal a leitura de hoje?",
+        "en": "You're doing so well. How about today's reading?",
+        "es": "Lo estás haciendo muy bien. ¿Y la lectura de hoy?"
+      }
+    },
+    {
+      "id": "streak_4",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Hora da ofensiva ⚡",
+        "en": "Streak time ⚡",
+        "es": "Hora de la racha ⚡"
+      },
+      "body": {
+        "pt": "Poucos minutos de leitura e o dia está garantido.",
+        "en": "A few minutes of reading and the day is secured.",
+        "es": "Unos minutos de lectura y el día está asegurado."
+      }
+    },
+    {
+      "id": "streak_5",
+      "type": "streakReminder",
+      "title": {
+        "pt": "A escritura te chama hoje",
+        "en": "Scripture is calling today",
+        "es": "La escritura te llama hoy"
+      },
+      "body": {
+        "pt": "Reserve um instante para ler e fortalecer seu hábito.",
+        "en": "Take a moment to read and strengthen your habit.",
+        "es": "Tómate un momento para leer y fortalecer tu hábito."
+      }
+    },
+    {
+      "id": "streak_6",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Ainda dá tempo de hoje ⏳",
+        "en": "There's still time today ⏳",
+        "es": "Aún hay tiempo hoy ⏳"
+      },
+      "body": {
+        "pt": "Sua ofensiva agradece um capítulo antes de dormir.",
+        "en": "Your streak would love a chapter before bed.",
+        "es": "Tu racha agradecerá un capítulo antes de dormir."
+      }
+    },
+    {
+      "id": "streak_7",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Não quebre a corrente 🔗",
+        "en": "Don't break the chain 🔗",
+        "es": "No rompas la cadena 🔗"
+      },
+      "body": {
+        "pt": "Cada dia conta. Faça a leitura de hoje agora.",
+        "en": "Every day counts. Do today's reading now.",
+        "es": "Cada día cuenta. Haz la lectura de hoy ahora."
+      }
+    },
+    {
+      "id": "streak_8",
+      "type": "streakReminder",
+      "title": {
+        "pt": "Um passo por dia 🌱",
+        "en": "One step a day 🌱",
+        "es": "Un paso al día 🌱"
+      },
+      "body": {
+        "pt": "Sua leitura diária está te esperando na trilha.",
+        "en": "Your daily reading is waiting on the path.",
+        "es": "Tu lectura diaria te espera en la ruta."
+      }
+    },
+    {
+      "id": "mark_1",
+      "type": "markReminder",
+      "title": {
+        "pt": "Grife um versículo hoje ✍️",
+        "en": "Mark a verse today ✍️",
+        "es": "Marca un versículo hoy ✍️"
+      },
+      "body": {
+        "pt": "Achou algo marcante? Destaque e guarde para sempre.",
+        "en": "Found something striking? Highlight it and keep it forever.",
+        "es": "¿Encontraste algo especial? Resáltalo y guárdalo para siempre."
+      }
+    },
+    {
+      "id": "mark_2",
+      "type": "markReminder",
+      "title": {
+        "pt": "Que tal marcar uma escritura?",
+        "en": "How about marking a scripture?",
+        "es": "¿Qué tal marcar una escritura?"
+      },
+      "body": {
+        "pt": "Suas escrituras favoritas ficam salvas para reler depois.",
+        "en": "Your favorite scriptures stay saved to reread later.",
+        "es": "Tus escrituras favoritas quedan guardadas para releer luego."
+      }
+    },
+    {
+      "id": "mark_3",
+      "type": "markReminder",
+      "title": {
+        "pt": "Um trecho que tocou você? 💛",
+        "en": "A passage that moved you? 💛",
+        "es": "¿Un pasaje que te tocó? 💛"
+      },
+      "body": {
+        "pt": "Grife enquanto lê e crie sua coleção de versículos.",
+        "en": "Mark it as you read and build your verse collection.",
+        "es": "Marca mientras lees y crea tu colección de versículos."
+      }
+    },
+    {
+      "id": "mark_4",
+      "type": "markReminder",
+      "title": {
+        "pt": "Destaque o que importa",
+        "en": "Highlight what matters",
+        "es": "Resalta lo que importa"
+      },
+      "body": {
+        "pt": "Marcar versículos ajuda a lembrar e a compartilhar depois.",
+        "en": "Marking verses helps you remember and share them later.",
+        "es": "Marcar versículos ayuda a recordarlos y compartirlos después."
+      }
+    },
+    {
+      "id": "mark_5",
+      "type": "markReminder",
+      "title": {
+        "pt": "Sua coleção de versículos cresce 🌟",
+        "en": "Grow your verse collection 🌟",
+        "es": "Haz crecer tu colección 🌟"
+      },
+      "body": {
+        "pt": "Marque uma escritura hoje e volte a ela quando quiser.",
+        "en": "Mark a scripture today and return to it anytime.",
+        "es": "Marca una escritura hoy y vuelve a ella cuando quieras."
+      }
+    },
+    {
+      "id": "share_1",
+      "type": "shareReminder",
+      "title": {
+        "pt": "Ilumine o dia de alguém ✨",
+        "en": "Brighten someone's day ✨",
+        "es": "Alegra el día de alguien ✨"
+      },
+      "body": {
+        "pt": "Compartilhe uma escritura com quem você ama.",
+        "en": "Share a scripture with someone you love.",
+        "es": "Comparte una escritura con quien amas."
+      }
+    },
+    {
+      "id": "share_2",
+      "type": "shareReminder",
+      "title": {
+        "pt": "Crie um card lindo 🎨",
+        "en": "Create a beautiful card 🎨",
+        "es": "Crea una tarjeta hermosa 🎨"
+      },
+      "body": {
+        "pt": "Monte um card com seu versículo do dia e compartilhe.",
+        "en": "Make a card with your verse of the day and share it.",
+        "es": "Arma una tarjeta con tu versículo del día y compártela."
+      }
+    },
+    {
+      "id": "share_3",
+      "type": "shareReminder",
+      "title": {
+        "pt": "Espalhe uma boa mensagem 🕊️",
+        "en": "Spread a good message 🕊️",
+        "es": "Comparte un buen mensaje 🕊️"
+      },
+      "body": {
+        "pt": "Uma escritura compartilhada pode tocar muitos corações.",
+        "en": "A shared scripture can touch many hearts.",
+        "es": "Una escritura compartida puede tocar muchos corazones."
+      }
+    },
+    {
+      "id": "share_4",
+      "type": "shareReminder",
+      "title": {
+        "pt": "Compartilhou hoje? 💬",
+        "en": "Shared anything today? 💬",
+        "es": "¿Compartiste hoy? 💬"
+      },
+      "body": {
+        "pt": "Escolha um versículo marcante e mande para um amigo.",
+        "en": "Pick a striking verse and send it to a friend.",
+        "es": "Elige un versículo especial y envíalo a un amigo."
+      }
+    },
+    {
+      "id": "share_5",
+      "type": "shareReminder",
+      "title": {
+        "pt": "Seu versículo, seu estilo 🖌️",
+        "en": "Your verse, your style 🖌️",
+        "es": "Tu versículo, tu estilo 🖌️"
+      },
+      "body": {
+        "pt": "Personalize um card de escritura e compartilhe nas redes.",
+        "en": "Customize a scripture card and share it on social.",
+        "es": "Personaliza una tarjeta y compártela en tus redes."
+      }
+    },
+    {
+      "id": "comeback_1",
+      "type": "comeBackReminder",
+      "title": {
+        "pt": "Sentimos sua falta 💙",
+        "en": "We miss you 💙",
+        "es": "Te extrañamos 💙"
+      },
+      "body": {
+        "pt": "Suas escrituras estão te esperando. Volte quando puder.",
+        "en": "Your scriptures are waiting for you. Come back anytime.",
+        "es": "Tus escrituras te esperan. Vuelve cuando quieras."
+      }
+    },
+    {
+      "id": "comeback_2",
+      "type": "comeBackReminder",
+      "title": {
+        "pt": "Que tal retomar a leitura? 📖",
+        "en": "Ready to pick reading back up? 📖",
+        "es": "¿Listo para retomar la lectura? 📖"
+      },
+      "body": {
+        "pt": "Um capítulo é o suficiente para recomeçar hoje.",
+        "en": "One chapter is enough to start again today.",
+        "es": "Un capítulo basta para volver a empezar hoy."
+      }
+    },
+    {
+      "id": "comeback_3",
+      "type": "comeBackReminder",
+      "title": {
+        "pt": "Sua trilha continua aqui 🛤️",
+        "en": "Your path is still here 🛤️",
+        "es": "Tu ruta sigue aquí 🛤️"
+      },
+      "body": {
+        "pt": "Recomece de onde parou — sem pressa, no seu ritmo.",
+        "en": "Continue where you left off — no rush, at your pace.",
+        "es": "Continúa donde lo dejaste, sin prisa, a tu ritmo."
+      }
+    },
+    {
+      "id": "milestone_generic",
+      "type": "streakMilestone",
+      "title": {
+        "pt": "{n} dias de ofensiva! 🎉",
+        "en": "{n}-day streak! 🎉",
+        "es": "¡{n} días de racha! 🎉"
+      },
+      "body": {
+        "pt": "Que constância incrível. Continue construindo esse hábito!",
+        "en": "What amazing consistency. Keep building that habit!",
+        "es": "¡Qué constancia increíble. Sigue construyendo ese hábito!"
+      }
+    },
+    {
+      "id": "milestone_alt",
+      "type": "streakMilestone",
+      "title": {
+        "pt": "Marca de {n} dias alcançada! 🔥",
+        "en": "{n}-day milestone reached! 🔥",
+        "es": "¡Hito de {n} días alcanzado! 🔥"
+      },
+      "body": {
+        "pt": "Sua dedicação à escritura está dando frutos. Parabéns!",
+        "en": "Your dedication to scripture is paying off. Congrats!",
+        "es": "Tu dedicación a la escritura da frutos. ¡Felicidades!"
+      }
+    },
+    {
+      "id": "record_1",
+      "type": "recordBeaten",
+      "title": {
+        "pt": "Novo recorde pessoal! 🏆",
+        "en": "New personal record! 🏆",
+        "es": "¡Nuevo récord personal! 🏆"
+      },
+      "body": {
+        "pt": "{n} dias seguidos — sua maior ofensiva até agora!",
+        "en": "{n} days in a row — your longest streak yet!",
+        "es": "¡{n} días seguidos: tu racha más larga hasta ahora!"
+      }
+    },
+    {
+      "id": "plan_1",
+      "type": "planCompleted",
+      "title": {
+        "pt": "Plano concluído! 🎊",
+        "en": "Plan completed! 🎊",
+        "es": "¡Plan completado! 🎊"
+      },
+      "body": {
+        "pt": "Você terminou esta leitura. Que jornada maravilhosa!",
+        "en": "You finished this reading. What a wonderful journey!",
+        "es": "Terminaste esta lectura. ¡Qué viaje maravilloso!"
+      }
+    },
+    {
+      "id": "study_1",
+      "type": "studyReminder",
+      "title": {
+        "pt": "Hora de estudar as escrituras 📖",
+        "en": "Time to study the scriptures 📖",
+        "es": "Hora de estudiar las Escrituras 📖"
+      },
+      "body": {
+        "pt": "Reserve alguns minutos para ler hoje.",
+        "en": "Take a few minutes to read today.",
+        "es": "Dedica unos minutos a leer hoy."
+      }
+    },
+    {
+      "id": "study_2",
+      "type": "studyReminder",
+      "title": {
+        "pt": "Alimente seu espírito 🌱",
+        "en": "Feed your spirit 🌱",
+        "es": "Alimenta tu espíritu 🌱"
+      },
+      "body": {
+        "pt": "Um pouco de leitura já faz diferença.",
+        "en": "A little reading goes a long way.",
+        "es": "Un poco de lectura hace la diferencia."
+      }
+    },
+    {
+      "id": "study_3",
+      "type": "studyReminder",
+      "title": {
+        "pt": "As escrituras te esperam ✨",
+        "en": "The scriptures await ✨",
+        "es": "Las Escrituras te esperan ✨"
+      },
+      "body": {
+        "pt": "Que tal um capítulo agora?",
+        "en": "How about a chapter now?",
+        "es": "¿Qué tal un capítulo ahora?"
+      }
+    },
+    {
+      "id": "review_1",
+      "type": "reviewReminder",
+      "title": {
+        "pt": "Revise o que pode melhorar 🎯",
+        "en": "Review what you can improve 🎯",
+        "es": "Repasa lo que puedes mejorar 🎯"
+      },
+      "body": {
+        "pt": "Você tem atividades para corrigir.",
+        "en": "You have activities to correct.",
+        "es": "Tienes actividades para corregir."
+      }
+    },
+    {
+      "id": "review_2",
+      "type": "reviewReminder",
+      "title": {
+        "pt": "Corrija seus erros 🔁",
+        "en": "Fix your mistakes 🔁",
+        "es": "Corrige tus errores 🔁"
+      },
+      "body": {
+        "pt": "Uma revisão rápida fixa o aprendizado.",
+        "en": "A quick review cements what you learned.",
+        "es": "Un repaso rápido afianza lo aprendido."
+      }
+    },
+    {
+      "id": "review_3",
+      "type": "reviewReminder",
+      "title": {
+        "pt": "Hora da revisão 📝",
+        "en": "Review time 📝",
+        "es": "Hora del repaso 📝"
+      },
+      "body": {
+        "pt": "Refaça as atividades que errou.",
+        "en": "Redo the activities you missed.",
+        "es": "Rehaz las actividades que fallaste."
+      }
+    }
+  ]
+}
