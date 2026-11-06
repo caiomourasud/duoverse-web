@@ -1,0 +1,895 @@
+{
+ "plan_id": "doctrine-and-covenants-sequential",
+ "schema_version": 1,
+ "type": "scripture-reading",
+ "scripture": "dc",
+ "total_nodes": 138,
+ "total_units": 14,
+ "total_sections": 1,
+ "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc",
+ "name_key": "plan.doctrine-and-covenants-sequential.name",
+ "subtitle_key": "plan.doctrine-and-covenants-sequential.subtitle",
+ "source_key": "plan.doctrine-and-covenants-sequential.source",
+ "sections": [
+  {
+   "id": 1,
+   "slug": "dc",
+   "primary_book": "dc",
+   "subtitle_key": "plan.doctrine-and-covenants-sequential.section.dc.subtitle",
+   "units": [
+    {
+     "id": 1,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.1.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 1,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 1,
+       "book": "dc",
+       "ch": 1
+      },
+      {
+       "id": 2,
+       "book": "dc",
+       "ch": 2
+      },
+      {
+       "id": 3,
+       "book": "dc",
+       "ch": 3
+      },
+      {
+       "id": 4,
+       "book": "dc",
+       "ch": 4
+      },
+      {
+       "id": 5,
+       "book": "dc",
+       "ch": 5
+      },
+      {
+       "id": 6,
+       "book": "dc",
+       "ch": 6
+      },
+      {
+       "id": 7,
+       "book": "dc",
+       "ch": 7
+      },
+      {
+       "id": 8,
+       "book": "dc",
+       "ch": 8
+      },
+      {
+       "id": 9,
+       "book": "dc",
+       "ch": 9
+      },
+      {
+       "id": 10,
+       "book": "dc",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 2,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.2.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 11,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 11,
+       "book": "dc",
+       "ch": 11
+      },
+      {
+       "id": 12,
+       "book": "dc",
+       "ch": 12
+      },
+      {
+       "id": 13,
+       "book": "dc",
+       "ch": 13
+      },
+      {
+       "id": 14,
+       "book": "dc",
+       "ch": 14
+      },
+      {
+       "id": 15,
+       "book": "dc",
+       "ch": 15
+      },
+      {
+       "id": 16,
+       "book": "dc",
+       "ch": 16
+      },
+      {
+       "id": 17,
+       "book": "dc",
+       "ch": 17
+      },
+      {
+       "id": 18,
+       "book": "dc",
+       "ch": 18
+      },
+      {
+       "id": 19,
+       "book": "dc",
+       "ch": 19
+      },
+      {
+       "id": 20,
+       "book": "dc",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.3.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 21,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 21,
+       "book": "dc",
+       "ch": 21
+      },
+      {
+       "id": 22,
+       "book": "dc",
+       "ch": 22
+      },
+      {
+       "id": 23,
+       "book": "dc",
+       "ch": 23
+      },
+      {
+       "id": 24,
+       "book": "dc",
+       "ch": 24
+      },
+      {
+       "id": 25,
+       "book": "dc",
+       "ch": 25
+      },
+      {
+       "id": 26,
+       "book": "dc",
+       "ch": 26
+      },
+      {
+       "id": 27,
+       "book": "dc",
+       "ch": 27
+      },
+      {
+       "id": 28,
+       "book": "dc",
+       "ch": 28
+      },
+      {
+       "id": 29,
+       "book": "dc",
+       "ch": 29
+      },
+      {
+       "id": 30,
+       "book": "dc",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.4.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 31,
+       "to_ch": 40
+      }
+     ],
+     "nodes": [
+      {
+       "id": 31,
+       "book": "dc",
+       "ch": 31
+      },
+      {
+       "id": 32,
+       "book": "dc",
+       "ch": 32
+      },
+      {
+       "id": 33,
+       "book": "dc",
+       "ch": 33
+      },
+      {
+       "id": 34,
+       "book": "dc",
+       "ch": 34
+      },
+      {
+       "id": 35,
+       "book": "dc",
+       "ch": 35
+      },
+      {
+       "id": 36,
+       "book": "dc",
+       "ch": 36
+      },
+      {
+       "id": 37,
+       "book": "dc",
+       "ch": 37
+      },
+      {
+       "id": 38,
+       "book": "dc",
+       "ch": 38
+      },
+      {
+       "id": 39,
+       "book": "dc",
+       "ch": 39
+      },
+      {
+       "id": 40,
+       "book": "dc",
+       "ch": 40
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.5.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 41,
+       "to_ch": 50
+      }
+     ],
+     "nodes": [
+      {
+       "id": 41,
+       "book": "dc",
+       "ch": 41
+      },
+      {
+       "id": 42,
+       "book": "dc",
+       "ch": 42
+      },
+      {
+       "id": 43,
+       "book": "dc",
+       "ch": 43
+      },
+      {
+       "id": 44,
+       "book": "dc",
+       "ch": 44
+      },
+      {
+       "id": 45,
+       "book": "dc",
+       "ch": 45
+      },
+      {
+       "id": 46,
+       "book": "dc",
+       "ch": 46
+      },
+      {
+       "id": 47,
+       "book": "dc",
+       "ch": 47
+      },
+      {
+       "id": 48,
+       "book": "dc",
+       "ch": 48
+      },
+      {
+       "id": 49,
+       "book": "dc",
+       "ch": 49
+      },
+      {
+       "id": 50,
+       "book": "dc",
+       "ch": 50
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.6.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 51,
+       "to_ch": 60
+      }
+     ],
+     "nodes": [
+      {
+       "id": 51,
+       "book": "dc",
+       "ch": 51
+      },
+      {
+       "id": 52,
+       "book": "dc",
+       "ch": 52
+      },
+      {
+       "id": 53,
+       "book": "dc",
+       "ch": 53
+      },
+      {
+       "id": 54,
+       "book": "dc",
+       "ch": 54
+      },
+      {
+       "id": 55,
+       "book": "dc",
+       "ch": 55
+      },
+      {
+       "id": 56,
+       "book": "dc",
+       "ch": 56
+      },
+      {
+       "id": 57,
+       "book": "dc",
+       "ch": 57
+      },
+      {
+       "id": 58,
+       "book": "dc",
+       "ch": 58
+      },
+      {
+       "id": 59,
+       "book": "dc",
+       "ch": 59
+      },
+      {
+       "id": 60,
+       "book": "dc",
+       "ch": 60
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.7.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 61,
+       "to_ch": 70
+      }
+     ],
+     "nodes": [
+      {
+       "id": 61,
+       "book": "dc",
+       "ch": 61
+      },
+      {
+       "id": 62,
+       "book": "dc",
+       "ch": 62
+      },
+      {
+       "id": 63,
+       "book": "dc",
+       "ch": 63
+      },
+      {
+       "id": 64,
+       "book": "dc",
+       "ch": 64
+      },
+      {
+       "id": 65,
+       "book": "dc",
+       "ch": 65
+      },
+      {
+       "id": 66,
+       "book": "dc",
+       "ch": 66
+      },
+      {
+       "id": 67,
+       "book": "dc",
+       "ch": 67
+      },
+      {
+       "id": 68,
+       "book": "dc",
+       "ch": 68
+      },
+      {
+       "id": 69,
+       "book": "dc",
+       "ch": 69
+      },
+      {
+       "id": 70,
+       "book": "dc",
+       "ch": 70
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.8.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 71,
+       "to_ch": 80
+      }
+     ],
+     "nodes": [
+      {
+       "id": 71,
+       "book": "dc",
+       "ch": 71
+      },
+      {
+       "id": 72,
+       "book": "dc",
+       "ch": 72
+      },
+      {
+       "id": 73,
+       "book": "dc",
+       "ch": 73
+      },
+      {
+       "id": 74,
+       "book": "dc",
+       "ch": 74
+      },
+      {
+       "id": 75,
+       "book": "dc",
+       "ch": 75
+      },
+      {
+       "id": 76,
+       "book": "dc",
+       "ch": 76
+      },
+      {
+       "id": 77,
+       "book": "dc",
+       "ch": 77
+      },
+      {
+       "id": 78,
+       "book": "dc",
+       "ch": 78
+      },
+      {
+       "id": 79,
+       "book": "dc",
+       "ch": 79
+      },
+      {
+       "id": 80,
+       "book": "dc",
+       "ch": 80
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.9.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 81,
+       "to_ch": 90
+      }
+     ],
+     "nodes": [
+      {
+       "id": 81,
+       "book": "dc",
+       "ch": 81
+      },
+      {
+       "id": 82,
+       "book": "dc",
+       "ch": 82
+      },
+      {
+       "id": 83,
+       "book": "dc",
+       "ch": 83
+      },
+      {
+       "id": 84,
+       "book": "dc",
+       "ch": 84
+      },
+      {
+       "id": 85,
+       "book": "dc",
+       "ch": 85
+      },
+      {
+       "id": 86,
+       "book": "dc",
+       "ch": 86
+      },
+      {
+       "id": 87,
+       "book": "dc",
+       "ch": 87
+      },
+      {
+       "id": 88,
+       "book": "dc",
+       "ch": 88
+      },
+      {
+       "id": 89,
+       "book": "dc",
+       "ch": 89
+      },
+      {
+       "id": 90,
+       "book": "dc",
+       "ch": 90
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.10.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 91,
+       "to_ch": 100
+      }
+     ],
+     "nodes": [
+      {
+       "id": 91,
+       "book": "dc",
+       "ch": 91
+      },
+      {
+       "id": 92,
+       "book": "dc",
+       "ch": 92
+      },
+      {
+       "id": 93,
+       "book": "dc",
+       "ch": 93
+      },
+      {
+       "id": 94,
+       "book": "dc",
+       "ch": 94
+      },
+      {
+       "id": 95,
+       "book": "dc",
+       "ch": 95
+      },
+      {
+       "id": 96,
+       "book": "dc",
+       "ch": 96
+      },
+      {
+       "id": 97,
+       "book": "dc",
+       "ch": 97
+      },
+      {
+       "id": 98,
+       "book": "dc",
+       "ch": 98
+      },
+      {
+       "id": 99,
+       "book": "dc",
+       "ch": 99
+      },
+      {
+       "id": 100,
+       "book": "dc",
+       "ch": 100
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.11.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 101,
+       "to_ch": 110
+      }
+     ],
+     "nodes": [
+      {
+       "id": 101,
+       "book": "dc",
+       "ch": 101
+      },
+      {
+       "id": 102,
+       "book": "dc",
+       "ch": 102
+      },
+      {
+       "id": 103,
+       "book": "dc",
+       "ch": 103
+      },
+      {
+       "id": 104,
+       "book": "dc",
+       "ch": 104
+      },
+      {
+       "id": 105,
+       "book": "dc",
+       "ch": 105
+      },
+      {
+       "id": 106,
+       "book": "dc",
+       "ch": 106
+      },
+      {
+       "id": 107,
+       "book": "dc",
+       "ch": 107
+      },
+      {
+       "id": 108,
+       "book": "dc",
+       "ch": 108
+      },
+      {
+       "id": 109,
+       "book": "dc",
+       "ch": 109
+      },
+      {
+       "id": 110,
+       "book": "dc",
+       "ch": 110
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.12.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 111,
+       "to_ch": 120
+      }
+     ],
+     "nodes": [
+      {
+       "id": 111,
+       "book": "dc",
+       "ch": 111
+      },
+      {
+       "id": 112,
+       "book": "dc",
+       "ch": 112
+      },
+      {
+       "id": 113,
+       "book": "dc",
+       "ch": 113
+      },
+      {
+       "id": 114,
+       "book": "dc",
+       "ch": 114
+      },
+      {
+       "id": 115,
+       "book": "dc",
+       "ch": 115
+      },
+      {
+       "id": 116,
+       "book": "dc",
+       "ch": 116
+      },
+      {
+       "id": 117,
+       "book": "dc",
+       "ch": 117
+      },
+      {
+       "id": 118,
+       "book": "dc",
+       "ch": 118
+      },
+      {
+       "id": 119,
+       "book": "dc",
+       "ch": 119
+      },
+      {
+       "id": 120,
+       "book": "dc",
+       "ch": 120
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.13.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 121,
+       "to_ch": 130
+      }
+     ],
+     "nodes": [
+      {
+       "id": 121,
+       "book": "dc",
+       "ch": 121
+      },
+      {
+       "id": 122,
+       "book": "dc",
+       "ch": 122
+      },
+      {
+       "id": 123,
+       "book": "dc",
+       "ch": 123
+      },
+      {
+       "id": 124,
+       "book": "dc",
+       "ch": 124
+      },
+      {
+       "id": 125,
+       "book": "dc",
+       "ch": 125
+      },
+      {
+       "id": 126,
+       "book": "dc",
+       "ch": 126
+      },
+      {
+       "id": 127,
+       "book": "dc",
+       "ch": 127
+      },
+      {
+       "id": 128,
+       "book": "dc",
+       "ch": 128
+      },
+      {
+       "id": 129,
+       "book": "dc",
+       "ch": 129
+      },
+      {
+       "id": 130,
+       "book": "dc",
+       "ch": 130
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "title_key": "plan.doctrine-and-covenants-sequential.unit.14.title",
+     "ref_range": [
+      {
+       "book": "dc",
+       "from_ch": 131,
+       "to_ch": 138
+      }
+     ],
+     "nodes": [
+      {
+       "id": 131,
+       "book": "dc",
+       "ch": 131
+      },
+      {
+       "id": 132,
+       "book": "dc",
+       "ch": 132
+      },
+      {
+       "id": 133,
+       "book": "dc",
+       "ch": 133
+      },
+      {
+       "id": 134,
+       "book": "dc",
+       "ch": 134
+      },
+      {
+       "id": 135,
+       "book": "dc",
+       "ch": 135
+      },
+      {
+       "id": 136,
+       "book": "dc",
+       "ch": 136
+      },
+      {
+       "id": 137,
+       "book": "dc",
+       "ch": 137
+      },
+      {
+       "id": 138,
+       "book": "dc",
+       "ch": 138
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

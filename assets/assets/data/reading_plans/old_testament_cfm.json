@@ -1,0 +1,3511 @@
+{
+ "plan_id": "old-testament-cfm",
+ "schema_version": 1,
+ "type": "scripture-reading",
+ "schedule_type": "dated",
+ "scripture": "ot",
+ "total_nodes": 447,
+ "total_units": 52,
+ "total_sections": 12,
+ "deep_link_base": "https://www.churchofjesuschrist.org/study/scriptures/ot",
+ "name_key": "plan.old-testament-cfm.name",
+ "subtitle_key": "plan.old-testament-cfm.subtitle",
+ "source_key": "plan.old-testament-cfm.source",
+ "sections": [
+  {
+   "id": 1,
+   "slug": "january",
+   "name_key": "plan.old-testament-cfm.section.january.name",
+   "subtitle_key": "plan.old-testament-cfm.section.january.subtitle",
+   "units": [
+    {
+     "id": 1,
+     "date_start": "2025-12-29",
+     "date_end": "2026-01-04",
+     "title_key": "plan.old-testament-cfm.unit.1.title",
+     "ref_range": [],
+     "nodes": []
+    },
+    {
+     "id": 2,
+     "date_start": "2026-01-05",
+     "date_end": "2026-01-11",
+     "title_key": "plan.old-testament-cfm.unit.2.title",
+     "ref_range": [
+      {
+       "book": "moses",
+       "from_ch": 1,
+       "to_ch": 1
+      },
+      {
+       "book": "abr",
+       "from_ch": 3,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 1,
+       "book": "moses",
+       "ch": 1
+      },
+      {
+       "id": 2,
+       "book": "abr",
+       "ch": 3
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "date_start": "2026-01-12",
+     "date_end": "2026-01-18",
+     "title_key": "plan.old-testament-cfm.unit.3.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 1,
+       "to_ch": 2
+      },
+      {
+       "book": "moses",
+       "from_ch": 2,
+       "to_ch": 3
+      },
+      {
+       "book": "abr",
+       "from_ch": 4,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 3,
+       "book": "gen",
+       "ch": 1
+      },
+      {
+       "id": 4,
+       "book": "gen",
+       "ch": 2
+      },
+      {
+       "id": 5,
+       "book": "moses",
+       "ch": 2
+      },
+      {
+       "id": 6,
+       "book": "moses",
+       "ch": 3
+      },
+      {
+       "id": 7,
+       "book": "abr",
+       "ch": 4
+      },
+      {
+       "id": 8,
+       "book": "abr",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "date_start": "2026-01-19",
+     "date_end": "2026-01-25",
+     "title_key": "plan.old-testament-cfm.unit.4.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 3,
+       "to_ch": 4
+      },
+      {
+       "book": "moses",
+       "from_ch": 4,
+       "to_ch": 5
+      }
+     ],
+     "nodes": [
+      {
+       "id": 9,
+       "book": "gen",
+       "ch": 3
+      },
+      {
+       "id": 10,
+       "book": "gen",
+       "ch": 4
+      },
+      {
+       "id": 11,
+       "book": "moses",
+       "ch": 4
+      },
+      {
+       "id": 12,
+       "book": "moses",
+       "ch": 5
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "date_start": "2026-01-26",
+     "date_end": "2026-02-01",
+     "title_key": "plan.old-testament-cfm.unit.5.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 5,
+       "to_ch": 5
+      },
+      {
+       "book": "moses",
+       "from_ch": 6,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 13,
+       "book": "gen",
+       "ch": 5
+      },
+      {
+       "id": 14,
+       "book": "moses",
+       "ch": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "february",
+   "name_key": "plan.old-testament-cfm.section.february.name",
+   "subtitle_key": "plan.old-testament-cfm.section.february.subtitle",
+   "units": [
+    {
+     "id": 6,
+     "date_start": "2026-02-02",
+     "date_end": "2026-02-08",
+     "title_key": "plan.old-testament-cfm.unit.6.title",
+     "ref_range": [
+      {
+       "book": "moses",
+       "from_ch": 7,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 15,
+       "book": "moses",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "date_start": "2026-02-09",
+     "date_end": "2026-02-15",
+     "title_key": "plan.old-testament-cfm.unit.7.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 6,
+       "to_ch": 11
+      },
+      {
+       "book": "moses",
+       "from_ch": 8,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 16,
+       "book": "gen",
+       "ch": 6
+      },
+      {
+       "id": 17,
+       "book": "gen",
+       "ch": 7
+      },
+      {
+       "id": 18,
+       "book": "gen",
+       "ch": 8
+      },
+      {
+       "id": 19,
+       "book": "gen",
+       "ch": 9
+      },
+      {
+       "id": 20,
+       "book": "gen",
+       "ch": 10
+      },
+      {
+       "id": 21,
+       "book": "gen",
+       "ch": 11
+      },
+      {
+       "id": 22,
+       "book": "moses",
+       "ch": 8
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "date_start": "2026-02-16",
+     "date_end": "2026-02-22",
+     "title_key": "plan.old-testament-cfm.unit.8.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 12,
+       "to_ch": 17
+      },
+      {
+       "book": "abr",
+       "from_ch": 1,
+       "to_ch": 2
+      }
+     ],
+     "nodes": [
+      {
+       "id": 23,
+       "book": "gen",
+       "ch": 12
+      },
+      {
+       "id": 24,
+       "book": "gen",
+       "ch": 13
+      },
+      {
+       "id": 25,
+       "book": "gen",
+       "ch": 14
+      },
+      {
+       "id": 26,
+       "book": "gen",
+       "ch": 15
+      },
+      {
+       "id": 27,
+       "book": "gen",
+       "ch": 16
+      },
+      {
+       "id": 28,
+       "book": "gen",
+       "ch": 17
+      },
+      {
+       "id": 29,
+       "book": "abr",
+       "ch": 1
+      },
+      {
+       "id": 30,
+       "book": "abr",
+       "ch": 2
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "date_start": "2026-02-23",
+     "date_end": "2026-03-01",
+     "title_key": "plan.old-testament-cfm.unit.9.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 18,
+       "to_ch": 23
+      }
+     ],
+     "nodes": [
+      {
+       "id": 31,
+       "book": "gen",
+       "ch": 18
+      },
+      {
+       "id": 32,
+       "book": "gen",
+       "ch": 19
+      },
+      {
+       "id": 33,
+       "book": "gen",
+       "ch": 20
+      },
+      {
+       "id": 34,
+       "book": "gen",
+       "ch": 21
+      },
+      {
+       "id": 35,
+       "book": "gen",
+       "ch": 22
+      },
+      {
+       "id": 36,
+       "book": "gen",
+       "ch": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "march",
+   "name_key": "plan.old-testament-cfm.section.march.name",
+   "subtitle_key": "plan.old-testament-cfm.section.march.subtitle",
+   "units": [
+    {
+     "id": 10,
+     "date_start": "2026-03-02",
+     "date_end": "2026-03-08",
+     "title_key": "plan.old-testament-cfm.unit.10.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 24,
+       "to_ch": 33
+      }
+     ],
+     "nodes": [
+      {
+       "id": 37,
+       "book": "gen",
+       "ch": 24
+      },
+      {
+       "id": 38,
+       "book": "gen",
+       "ch": 25
+      },
+      {
+       "id": 39,
+       "book": "gen",
+       "ch": 26
+      },
+      {
+       "id": 40,
+       "book": "gen",
+       "ch": 27
+      },
+      {
+       "id": 41,
+       "book": "gen",
+       "ch": 28
+      },
+      {
+       "id": 42,
+       "book": "gen",
+       "ch": 29
+      },
+      {
+       "id": 43,
+       "book": "gen",
+       "ch": 30
+      },
+      {
+       "id": 44,
+       "book": "gen",
+       "ch": 31
+      },
+      {
+       "id": 45,
+       "book": "gen",
+       "ch": 32
+      },
+      {
+       "id": 46,
+       "book": "gen",
+       "ch": 33
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "date_start": "2026-03-09",
+     "date_end": "2026-03-15",
+     "title_key": "plan.old-testament-cfm.unit.11.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 37,
+       "to_ch": 41
+      }
+     ],
+     "nodes": [
+      {
+       "id": 47,
+       "book": "gen",
+       "ch": 37
+      },
+      {
+       "id": 48,
+       "book": "gen",
+       "ch": 38
+      },
+      {
+       "id": 49,
+       "book": "gen",
+       "ch": 39
+      },
+      {
+       "id": 50,
+       "book": "gen",
+       "ch": 40
+      },
+      {
+       "id": 51,
+       "book": "gen",
+       "ch": 41
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "date_start": "2026-03-16",
+     "date_end": "2026-03-22",
+     "title_key": "plan.old-testament-cfm.unit.12.title",
+     "ref_range": [
+      {
+       "book": "gen",
+       "from_ch": 42,
+       "to_ch": 50
+      }
+     ],
+     "nodes": [
+      {
+       "id": 52,
+       "book": "gen",
+       "ch": 42
+      },
+      {
+       "id": 53,
+       "book": "gen",
+       "ch": 43
+      },
+      {
+       "id": 54,
+       "book": "gen",
+       "ch": 44
+      },
+      {
+       "id": 55,
+       "book": "gen",
+       "ch": 45
+      },
+      {
+       "id": 56,
+       "book": "gen",
+       "ch": 46
+      },
+      {
+       "id": 57,
+       "book": "gen",
+       "ch": 47
+      },
+      {
+       "id": 58,
+       "book": "gen",
+       "ch": 48
+      },
+      {
+       "id": 59,
+       "book": "gen",
+       "ch": 49
+      },
+      {
+       "id": 60,
+       "book": "gen",
+       "ch": 50
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "date_start": "2026-03-23",
+     "date_end": "2026-03-29",
+     "title_key": "plan.old-testament-cfm.unit.13.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 1,
+       "to_ch": 6
+      }
+     ],
+     "nodes": [
+      {
+       "id": 61,
+       "book": "ex",
+       "ch": 1
+      },
+      {
+       "id": 62,
+       "book": "ex",
+       "ch": 2
+      },
+      {
+       "id": 63,
+       "book": "ex",
+       "ch": 3
+      },
+      {
+       "id": 64,
+       "book": "ex",
+       "ch": 4
+      },
+      {
+       "id": 65,
+       "book": "ex",
+       "ch": 5
+      },
+      {
+       "id": 66,
+       "book": "ex",
+       "ch": 6
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "date_start": "2026-03-30",
+     "date_end": "2026-04-05",
+     "title_key": "plan.old-testament-cfm.unit.14.title",
+     "ref_range": [],
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "april",
+   "name_key": "plan.old-testament-cfm.section.april.name",
+   "subtitle_key": "plan.old-testament-cfm.section.april.subtitle",
+   "units": [
+    {
+     "id": 15,
+     "date_start": "2026-04-06",
+     "date_end": "2026-04-12",
+     "title_key": "plan.old-testament-cfm.unit.15.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 7,
+       "to_ch": 13
+      }
+     ],
+     "nodes": [
+      {
+       "id": 67,
+       "book": "ex",
+       "ch": 7
+      },
+      {
+       "id": 68,
+       "book": "ex",
+       "ch": 8
+      },
+      {
+       "id": 69,
+       "book": "ex",
+       "ch": 9
+      },
+      {
+       "id": 70,
+       "book": "ex",
+       "ch": 10
+      },
+      {
+       "id": 71,
+       "book": "ex",
+       "ch": 11
+      },
+      {
+       "id": 72,
+       "book": "ex",
+       "ch": 12
+      },
+      {
+       "id": 73,
+       "book": "ex",
+       "ch": 13
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "date_start": "2026-04-13",
+     "date_end": "2026-04-19",
+     "title_key": "plan.old-testament-cfm.unit.16.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 14,
+       "to_ch": 18
+      }
+     ],
+     "nodes": [
+      {
+       "id": 74,
+       "book": "ex",
+       "ch": 14
+      },
+      {
+       "id": 75,
+       "book": "ex",
+       "ch": 15
+      },
+      {
+       "id": 76,
+       "book": "ex",
+       "ch": 16
+      },
+      {
+       "id": 77,
+       "book": "ex",
+       "ch": 17
+      },
+      {
+       "id": 78,
+       "book": "ex",
+       "ch": 18
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "date_start": "2026-04-20",
+     "date_end": "2026-04-26",
+     "title_key": "plan.old-testament-cfm.unit.17.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 19,
+       "to_ch": 20
+      },
+      {
+       "book": "ex",
+       "from_ch": 24,
+       "to_ch": 24
+      },
+      {
+       "book": "ex",
+       "from_ch": 31,
+       "to_ch": 34
+      }
+     ],
+     "nodes": [
+      {
+       "id": 79,
+       "book": "ex",
+       "ch": 19
+      },
+      {
+       "id": 80,
+       "book": "ex",
+       "ch": 20
+      },
+      {
+       "id": 81,
+       "book": "ex",
+       "ch": 24
+      },
+      {
+       "id": 82,
+       "book": "ex",
+       "ch": 31
+      },
+      {
+       "id": 83,
+       "book": "ex",
+       "ch": 32
+      },
+      {
+       "id": 84,
+       "book": "ex",
+       "ch": 33
+      },
+      {
+       "id": 85,
+       "book": "ex",
+       "ch": 34
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "date_start": "2026-04-27",
+     "date_end": "2026-05-03",
+     "title_key": "plan.old-testament-cfm.unit.18.title",
+     "ref_range": [
+      {
+       "book": "ex",
+       "from_ch": 35,
+       "to_ch": 40
+      },
+      {
+       "book": "lev",
+       "from_ch": 1,
+       "to_ch": 1
+      },
+      {
+       "book": "lev",
+       "from_ch": 4,
+       "to_ch": 4
+      },
+      {
+       "book": "lev",
+       "from_ch": 16,
+       "to_ch": 16
+      },
+      {
+       "book": "lev",
+       "from_ch": 19,
+       "to_ch": 19
+      }
+     ],
+     "nodes": [
+      {
+       "id": 86,
+       "book": "ex",
+       "ch": 35
+      },
+      {
+       "id": 87,
+       "book": "ex",
+       "ch": 36
+      },
+      {
+       "id": 88,
+       "book": "ex",
+       "ch": 37
+      },
+      {
+       "id": 89,
+       "book": "ex",
+       "ch": 38
+      },
+      {
+       "id": 90,
+       "book": "ex",
+       "ch": 39
+      },
+      {
+       "id": 91,
+       "book": "ex",
+       "ch": 40
+      },
+      {
+       "id": 92,
+       "book": "lev",
+       "ch": 1
+      },
+      {
+       "id": 93,
+       "book": "lev",
+       "ch": 4
+      },
+      {
+       "id": 94,
+       "book": "lev",
+       "ch": 16
+      },
+      {
+       "id": 95,
+       "book": "lev",
+       "ch": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "may",
+   "name_key": "plan.old-testament-cfm.section.may.name",
+   "subtitle_key": "plan.old-testament-cfm.section.may.subtitle",
+   "units": [
+    {
+     "id": 19,
+     "date_start": "2026-05-04",
+     "date_end": "2026-05-10",
+     "title_key": "plan.old-testament-cfm.unit.19.title",
+     "ref_range": [
+      {
+       "book": "num",
+       "from_ch": 11,
+       "to_ch": 14
+      },
+      {
+       "book": "num",
+       "from_ch": 20,
+       "to_ch": 24
+      },
+      {
+       "book": "num",
+       "from_ch": 27,
+       "to_ch": 27
+      }
+     ],
+     "nodes": [
+      {
+       "id": 96,
+       "book": "num",
+       "ch": 11
+      },
+      {
+       "id": 97,
+       "book": "num",
+       "ch": 12
+      },
+      {
+       "id": 98,
+       "book": "num",
+       "ch": 13
+      },
+      {
+       "id": 99,
+       "book": "num",
+       "ch": 14
+      },
+      {
+       "id": 100,
+       "book": "num",
+       "ch": 20
+      },
+      {
+       "id": 101,
+       "book": "num",
+       "ch": 21
+      },
+      {
+       "id": 102,
+       "book": "num",
+       "ch": 22
+      },
+      {
+       "id": 103,
+       "book": "num",
+       "ch": 23
+      },
+      {
+       "id": 104,
+       "book": "num",
+       "ch": 24
+      },
+      {
+       "id": 105,
+       "book": "num",
+       "ch": 27
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "date_start": "2026-05-11",
+     "date_end": "2026-05-17",
+     "title_key": "plan.old-testament-cfm.unit.20.title",
+     "ref_range": [
+      {
+       "book": "deut",
+       "from_ch": 6,
+       "to_ch": 8
+      },
+      {
+       "book": "deut",
+       "from_ch": 15,
+       "to_ch": 15
+      },
+      {
+       "book": "deut",
+       "from_ch": 18,
+       "to_ch": 18
+      },
+      {
+       "book": "deut",
+       "from_ch": 29,
+       "to_ch": 30
+      },
+      {
+       "book": "deut",
+       "from_ch": 34,
+       "to_ch": 34
+      }
+     ],
+     "nodes": [
+      {
+       "id": 106,
+       "book": "deut",
+       "ch": 6
+      },
+      {
+       "id": 107,
+       "book": "deut",
+       "ch": 7
+      },
+      {
+       "id": 108,
+       "book": "deut",
+       "ch": 8
+      },
+      {
+       "id": 109,
+       "book": "deut",
+       "ch": 15
+      },
+      {
+       "id": 110,
+       "book": "deut",
+       "ch": 18
+      },
+      {
+       "id": 111,
+       "book": "deut",
+       "ch": 29
+      },
+      {
+       "id": 112,
+       "book": "deut",
+       "ch": 30
+      },
+      {
+       "id": 113,
+       "book": "deut",
+       "ch": 34
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "date_start": "2026-05-18",
+     "date_end": "2026-05-24",
+     "title_key": "plan.old-testament-cfm.unit.21.title",
+     "ref_range": [
+      {
+       "book": "josh",
+       "from_ch": 1,
+       "to_ch": 8
+      },
+      {
+       "book": "josh",
+       "from_ch": 23,
+       "to_ch": 24
+      }
+     ],
+     "nodes": [
+      {
+       "id": 114,
+       "book": "josh",
+       "ch": 1
+      },
+      {
+       "id": 115,
+       "book": "josh",
+       "ch": 2
+      },
+      {
+       "id": 116,
+       "book": "josh",
+       "ch": 3
+      },
+      {
+       "id": 117,
+       "book": "josh",
+       "ch": 4
+      },
+      {
+       "id": 118,
+       "book": "josh",
+       "ch": 5
+      },
+      {
+       "id": 119,
+       "book": "josh",
+       "ch": 6
+      },
+      {
+       "id": 120,
+       "book": "josh",
+       "ch": 7
+      },
+      {
+       "id": 121,
+       "book": "josh",
+       "ch": 8
+      },
+      {
+       "id": 122,
+       "book": "josh",
+       "ch": 23
+      },
+      {
+       "id": 123,
+       "book": "josh",
+       "ch": 24
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "date_start": "2026-05-25",
+     "date_end": "2026-05-31",
+     "title_key": "plan.old-testament-cfm.unit.22.title",
+     "ref_range": [
+      {
+       "book": "judg",
+       "from_ch": 2,
+       "to_ch": 4
+      },
+      {
+       "book": "judg",
+       "from_ch": 6,
+       "to_ch": 8
+      },
+      {
+       "book": "judg",
+       "from_ch": 13,
+       "to_ch": 16
+      }
+     ],
+     "nodes": [
+      {
+       "id": 124,
+       "book": "judg",
+       "ch": 2
+      },
+      {
+       "id": 125,
+       "book": "judg",
+       "ch": 3
+      },
+      {
+       "id": 126,
+       "book": "judg",
+       "ch": 4
+      },
+      {
+       "id": 127,
+       "book": "judg",
+       "ch": 6
+      },
+      {
+       "id": 128,
+       "book": "judg",
+       "ch": 7
+      },
+      {
+       "id": 129,
+       "book": "judg",
+       "ch": 8
+      },
+      {
+       "id": 130,
+       "book": "judg",
+       "ch": 13
+      },
+      {
+       "id": 131,
+       "book": "judg",
+       "ch": 14
+      },
+      {
+       "id": 132,
+       "book": "judg",
+       "ch": 15
+      },
+      {
+       "id": 133,
+       "book": "judg",
+       "ch": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "slug": "june",
+   "name_key": "plan.old-testament-cfm.section.june.name",
+   "subtitle_key": "plan.old-testament-cfm.section.june.subtitle",
+   "units": [
+    {
+     "id": 23,
+     "date_start": "2026-06-01",
+     "date_end": "2026-06-07",
+     "title_key": "plan.old-testament-cfm.unit.23.title",
+     "ref_range": [
+      {
+       "book": "ruth",
+       "from_ch": 1,
+       "to_ch": 4
+      },
+      {
+       "book": "1-sam",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 134,
+       "book": "ruth",
+       "ch": 1
+      },
+      {
+       "id": 135,
+       "book": "ruth",
+       "ch": 2
+      },
+      {
+       "id": 136,
+       "book": "ruth",
+       "ch": 3
+      },
+      {
+       "id": 137,
+       "book": "ruth",
+       "ch": 4
+      },
+      {
+       "id": 138,
+       "book": "1-sam",
+       "ch": 1
+      },
+      {
+       "id": 139,
+       "book": "1-sam",
+       "ch": 2
+      },
+      {
+       "id": 140,
+       "book": "1-sam",
+       "ch": 3
+      },
+      {
+       "id": 141,
+       "book": "1-sam",
+       "ch": 4
+      },
+      {
+       "id": 142,
+       "book": "1-sam",
+       "ch": 5
+      },
+      {
+       "id": 143,
+       "book": "1-sam",
+       "ch": 6
+      },
+      {
+       "id": 144,
+       "book": "1-sam",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "date_start": "2026-06-08",
+     "date_end": "2026-06-14",
+     "title_key": "plan.old-testament-cfm.unit.24.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 8,
+       "to_ch": 10
+      },
+      {
+       "book": "1-sam",
+       "from_ch": 13,
+       "to_ch": 13
+      },
+      {
+       "book": "1-sam",
+       "from_ch": 15,
+       "to_ch": 16
+      }
+     ],
+     "nodes": [
+      {
+       "id": 145,
+       "book": "1-sam",
+       "ch": 8
+      },
+      {
+       "id": 146,
+       "book": "1-sam",
+       "ch": 9
+      },
+      {
+       "id": 147,
+       "book": "1-sam",
+       "ch": 10
+      },
+      {
+       "id": 148,
+       "book": "1-sam",
+       "ch": 13
+      },
+      {
+       "id": 149,
+       "book": "1-sam",
+       "ch": 15
+      },
+      {
+       "id": 150,
+       "book": "1-sam",
+       "ch": 16
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "date_start": "2026-06-15",
+     "date_end": "2026-06-21",
+     "title_key": "plan.old-testament-cfm.unit.25.title",
+     "ref_range": [
+      {
+       "book": "1-sam",
+       "from_ch": 17,
+       "to_ch": 18
+      },
+      {
+       "book": "1-sam",
+       "from_ch": 24,
+       "to_ch": 26
+      },
+      {
+       "book": "2-sam",
+       "from_ch": 5,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 151,
+       "book": "1-sam",
+       "ch": 17
+      },
+      {
+       "id": 152,
+       "book": "1-sam",
+       "ch": 18
+      },
+      {
+       "id": 153,
+       "book": "1-sam",
+       "ch": 24
+      },
+      {
+       "id": 154,
+       "book": "1-sam",
+       "ch": 25
+      },
+      {
+       "id": 155,
+       "book": "1-sam",
+       "ch": 26
+      },
+      {
+       "id": 156,
+       "book": "2-sam",
+       "ch": 5
+      },
+      {
+       "id": 157,
+       "book": "2-sam",
+       "ch": 6
+      },
+      {
+       "id": 158,
+       "book": "2-sam",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "date_start": "2026-06-22",
+     "date_end": "2026-06-28",
+     "title_key": "plan.old-testament-cfm.unit.26.title",
+     "ref_range": [
+      {
+       "book": "2-sam",
+       "from_ch": 11,
+       "to_ch": 12
+      },
+      {
+       "book": "1-kgs",
+       "from_ch": 3,
+       "to_ch": 3
+      },
+      {
+       "book": "1-kgs",
+       "from_ch": 6,
+       "to_ch": 9
+      },
+      {
+       "book": "1-kgs",
+       "from_ch": 11,
+       "to_ch": 11
+      }
+     ],
+     "nodes": [
+      {
+       "id": 159,
+       "book": "2-sam",
+       "ch": 11
+      },
+      {
+       "id": 160,
+       "book": "2-sam",
+       "ch": 12
+      },
+      {
+       "id": 161,
+       "book": "1-kgs",
+       "ch": 3
+      },
+      {
+       "id": 162,
+       "book": "1-kgs",
+       "ch": 6
+      },
+      {
+       "id": 163,
+       "book": "1-kgs",
+       "ch": 7
+      },
+      {
+       "id": 164,
+       "book": "1-kgs",
+       "ch": 8
+      },
+      {
+       "id": 165,
+       "book": "1-kgs",
+       "ch": 9
+      },
+      {
+       "id": 166,
+       "book": "1-kgs",
+       "ch": 11
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "date_start": "2026-06-29",
+     "date_end": "2026-07-05",
+     "title_key": "plan.old-testament-cfm.unit.27.title",
+     "ref_range": [
+      {
+       "book": "1-kgs",
+       "from_ch": 12,
+       "to_ch": 13
+      },
+      {
+       "book": "1-kgs",
+       "from_ch": 17,
+       "to_ch": 22
+      }
+     ],
+     "nodes": [
+      {
+       "id": 167,
+       "book": "1-kgs",
+       "ch": 12
+      },
+      {
+       "id": 168,
+       "book": "1-kgs",
+       "ch": 13
+      },
+      {
+       "id": 169,
+       "book": "1-kgs",
+       "ch": 17
+      },
+      {
+       "id": 170,
+       "book": "1-kgs",
+       "ch": 18
+      },
+      {
+       "id": 171,
+       "book": "1-kgs",
+       "ch": 19
+      },
+      {
+       "id": 172,
+       "book": "1-kgs",
+       "ch": 20
+      },
+      {
+       "id": 173,
+       "book": "1-kgs",
+       "ch": 21
+      },
+      {
+       "id": 174,
+       "book": "1-kgs",
+       "ch": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "slug": "july",
+   "name_key": "plan.old-testament-cfm.section.july.name",
+   "subtitle_key": "plan.old-testament-cfm.section.july.subtitle",
+   "units": [
+    {
+     "id": 28,
+     "date_start": "2026-07-06",
+     "date_end": "2026-07-12",
+     "title_key": "plan.old-testament-cfm.unit.28.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 2,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 175,
+       "book": "2-kgs",
+       "ch": 2
+      },
+      {
+       "id": 176,
+       "book": "2-kgs",
+       "ch": 3
+      },
+      {
+       "id": 177,
+       "book": "2-kgs",
+       "ch": 4
+      },
+      {
+       "id": 178,
+       "book": "2-kgs",
+       "ch": 5
+      },
+      {
+       "id": 179,
+       "book": "2-kgs",
+       "ch": 6
+      },
+      {
+       "id": 180,
+       "book": "2-kgs",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "date_start": "2026-07-13",
+     "date_end": "2026-07-19",
+     "title_key": "plan.old-testament-cfm.unit.29.title",
+     "ref_range": [
+      {
+       "book": "2-kgs",
+       "from_ch": 16,
+       "to_ch": 25
+      }
+     ],
+     "nodes": [
+      {
+       "id": 181,
+       "book": "2-kgs",
+       "ch": 16
+      },
+      {
+       "id": 182,
+       "book": "2-kgs",
+       "ch": 17
+      },
+      {
+       "id": 183,
+       "book": "2-kgs",
+       "ch": 18
+      },
+      {
+       "id": 184,
+       "book": "2-kgs",
+       "ch": 19
+      },
+      {
+       "id": 185,
+       "book": "2-kgs",
+       "ch": 20
+      },
+      {
+       "id": 186,
+       "book": "2-kgs",
+       "ch": 21
+      },
+      {
+       "id": 187,
+       "book": "2-kgs",
+       "ch": 22
+      },
+      {
+       "id": 188,
+       "book": "2-kgs",
+       "ch": 23
+      },
+      {
+       "id": 189,
+       "book": "2-kgs",
+       "ch": 24
+      },
+      {
+       "id": 190,
+       "book": "2-kgs",
+       "ch": 25
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "date_start": "2026-07-20",
+     "date_end": "2026-07-26",
+     "title_key": "plan.old-testament-cfm.unit.30.title",
+     "ref_range": [
+      {
+       "book": "2-chr",
+       "from_ch": 14,
+       "to_ch": 20
+      },
+      {
+       "book": "2-chr",
+       "from_ch": 26,
+       "to_ch": 26
+      },
+      {
+       "book": "2-chr",
+       "from_ch": 30,
+       "to_ch": 30
+      }
+     ],
+     "nodes": [
+      {
+       "id": 191,
+       "book": "2-chr",
+       "ch": 14
+      },
+      {
+       "id": 192,
+       "book": "2-chr",
+       "ch": 15
+      },
+      {
+       "id": 193,
+       "book": "2-chr",
+       "ch": 16
+      },
+      {
+       "id": 194,
+       "book": "2-chr",
+       "ch": 17
+      },
+      {
+       "id": 195,
+       "book": "2-chr",
+       "ch": 18
+      },
+      {
+       "id": 196,
+       "book": "2-chr",
+       "ch": 19
+      },
+      {
+       "id": 197,
+       "book": "2-chr",
+       "ch": 20
+      },
+      {
+       "id": 198,
+       "book": "2-chr",
+       "ch": 26
+      },
+      {
+       "id": 199,
+       "book": "2-chr",
+       "ch": 30
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "date_start": "2026-07-27",
+     "date_end": "2026-08-02",
+     "title_key": "plan.old-testament-cfm.unit.31.title",
+     "ref_range": [
+      {
+       "book": "ezra",
+       "from_ch": 1,
+       "to_ch": 1
+      },
+      {
+       "book": "ezra",
+       "from_ch": 3,
+       "to_ch": 7
+      },
+      {
+       "book": "neh",
+       "from_ch": 2,
+       "to_ch": 2
+      },
+      {
+       "book": "neh",
+       "from_ch": 4,
+       "to_ch": 6
+      },
+      {
+       "book": "neh",
+       "from_ch": 8,
+       "to_ch": 8
+      }
+     ],
+     "nodes": [
+      {
+       "id": 200,
+       "book": "ezra",
+       "ch": 1
+      },
+      {
+       "id": 201,
+       "book": "ezra",
+       "ch": 3
+      },
+      {
+       "id": 202,
+       "book": "ezra",
+       "ch": 4
+      },
+      {
+       "id": 203,
+       "book": "ezra",
+       "ch": 5
+      },
+      {
+       "id": 204,
+       "book": "ezra",
+       "ch": 6
+      },
+      {
+       "id": 205,
+       "book": "ezra",
+       "ch": 7
+      },
+      {
+       "id": 206,
+       "book": "neh",
+       "ch": 2
+      },
+      {
+       "id": 207,
+       "book": "neh",
+       "ch": 4
+      },
+      {
+       "id": 208,
+       "book": "neh",
+       "ch": 5
+      },
+      {
+       "id": 209,
+       "book": "neh",
+       "ch": 6
+      },
+      {
+       "id": 210,
+       "book": "neh",
+       "ch": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "slug": "august",
+   "name_key": "plan.old-testament-cfm.section.august.name",
+   "subtitle_key": "plan.old-testament-cfm.section.august.subtitle",
+   "units": [
+    {
+     "id": 32,
+     "date_start": "2026-08-03",
+     "date_end": "2026-08-09",
+     "title_key": "plan.old-testament-cfm.unit.32.title",
+     "ref_range": [
+      {
+       "book": "esth",
+       "from_ch": 1,
+       "to_ch": 10
+      }
+     ],
+     "nodes": [
+      {
+       "id": 211,
+       "book": "esth",
+       "ch": 1
+      },
+      {
+       "id": 212,
+       "book": "esth",
+       "ch": 2
+      },
+      {
+       "id": 213,
+       "book": "esth",
+       "ch": 3
+      },
+      {
+       "id": 214,
+       "book": "esth",
+       "ch": 4
+      },
+      {
+       "id": 215,
+       "book": "esth",
+       "ch": 5
+      },
+      {
+       "id": 216,
+       "book": "esth",
+       "ch": 6
+      },
+      {
+       "id": 217,
+       "book": "esth",
+       "ch": 7
+      },
+      {
+       "id": 218,
+       "book": "esth",
+       "ch": 8
+      },
+      {
+       "id": 219,
+       "book": "esth",
+       "ch": 9
+      },
+      {
+       "id": 220,
+       "book": "esth",
+       "ch": 10
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "date_start": "2026-08-10",
+     "date_end": "2026-08-16",
+     "title_key": "plan.old-testament-cfm.unit.33.title",
+     "ref_range": [
+      {
+       "book": "job",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "job",
+       "from_ch": 12,
+       "to_ch": 14
+      },
+      {
+       "book": "job",
+       "from_ch": 19,
+       "to_ch": 19
+      },
+      {
+       "book": "job",
+       "from_ch": 21,
+       "to_ch": 24
+      },
+      {
+       "book": "job",
+       "from_ch": 38,
+       "to_ch": 40
+      },
+      {
+       "book": "job",
+       "from_ch": 42,
+       "to_ch": 42
+      }
+     ],
+     "nodes": [
+      {
+       "id": 221,
+       "book": "job",
+       "ch": 1
+      },
+      {
+       "id": 222,
+       "book": "job",
+       "ch": 2
+      },
+      {
+       "id": 223,
+       "book": "job",
+       "ch": 3
+      },
+      {
+       "id": 224,
+       "book": "job",
+       "ch": 12
+      },
+      {
+       "id": 225,
+       "book": "job",
+       "ch": 13
+      },
+      {
+       "id": 226,
+       "book": "job",
+       "ch": 14
+      },
+      {
+       "id": 227,
+       "book": "job",
+       "ch": 19
+      },
+      {
+       "id": 228,
+       "book": "job",
+       "ch": 21
+      },
+      {
+       "id": 229,
+       "book": "job",
+       "ch": 22
+      },
+      {
+       "id": 230,
+       "book": "job",
+       "ch": 23
+      },
+      {
+       "id": 231,
+       "book": "job",
+       "ch": 24
+      },
+      {
+       "id": 232,
+       "book": "job",
+       "ch": 38
+      },
+      {
+       "id": 233,
+       "book": "job",
+       "ch": 39
+      },
+      {
+       "id": 234,
+       "book": "job",
+       "ch": 40
+      },
+      {
+       "id": 235,
+       "book": "job",
+       "ch": 42
+      }
+     ]
+    },
+    {
+     "id": 34,
+     "date_start": "2026-08-17",
+     "date_end": "2026-08-23",
+     "title_key": "plan.old-testament-cfm.unit.34.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 1,
+       "to_ch": 2
+      },
+      {
+       "book": "ps",
+       "from_ch": 8,
+       "to_ch": 8
+      },
+      {
+       "book": "ps",
+       "from_ch": 19,
+       "to_ch": 33
+      },
+      {
+       "book": "ps",
+       "from_ch": 40,
+       "to_ch": 40
+      },
+      {
+       "book": "ps",
+       "from_ch": 46,
+       "to_ch": 46
+      }
+     ],
+     "nodes": [
+      {
+       "id": 236,
+       "book": "ps",
+       "ch": 1
+      },
+      {
+       "id": 237,
+       "book": "ps",
+       "ch": 2
+      },
+      {
+       "id": 238,
+       "book": "ps",
+       "ch": 8
+      },
+      {
+       "id": 239,
+       "book": "ps",
+       "ch": 19
+      },
+      {
+       "id": 240,
+       "book": "ps",
+       "ch": 20
+      },
+      {
+       "id": 241,
+       "book": "ps",
+       "ch": 21
+      },
+      {
+       "id": 242,
+       "book": "ps",
+       "ch": 22
+      },
+      {
+       "id": 243,
+       "book": "ps",
+       "ch": 23
+      },
+      {
+       "id": 244,
+       "book": "ps",
+       "ch": 24
+      },
+      {
+       "id": 245,
+       "book": "ps",
+       "ch": 25
+      },
+      {
+       "id": 246,
+       "book": "ps",
+       "ch": 26
+      },
+      {
+       "id": 247,
+       "book": "ps",
+       "ch": 27
+      },
+      {
+       "id": 248,
+       "book": "ps",
+       "ch": 28
+      },
+      {
+       "id": 249,
+       "book": "ps",
+       "ch": 29
+      },
+      {
+       "id": 250,
+       "book": "ps",
+       "ch": 30
+      },
+      {
+       "id": 251,
+       "book": "ps",
+       "ch": 31
+      },
+      {
+       "id": 252,
+       "book": "ps",
+       "ch": 32
+      },
+      {
+       "id": 253,
+       "book": "ps",
+       "ch": 33
+      },
+      {
+       "id": 254,
+       "book": "ps",
+       "ch": 40
+      },
+      {
+       "id": 255,
+       "book": "ps",
+       "ch": 46
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "date_start": "2026-08-24",
+     "date_end": "2026-08-30",
+     "title_key": "plan.old-testament-cfm.unit.35.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 49,
+       "to_ch": 51
+      },
+      {
+       "book": "ps",
+       "from_ch": 61,
+       "to_ch": 66
+      },
+      {
+       "book": "ps",
+       "from_ch": 69,
+       "to_ch": 72
+      },
+      {
+       "book": "ps",
+       "from_ch": 77,
+       "to_ch": 78
+      },
+      {
+       "book": "ps",
+       "from_ch": 85,
+       "to_ch": 86
+      }
+     ],
+     "nodes": [
+      {
+       "id": 256,
+       "book": "ps",
+       "ch": 49
+      },
+      {
+       "id": 257,
+       "book": "ps",
+       "ch": 50
+      },
+      {
+       "id": 258,
+       "book": "ps",
+       "ch": 51
+      },
+      {
+       "id": 259,
+       "book": "ps",
+       "ch": 61
+      },
+      {
+       "id": 260,
+       "book": "ps",
+       "ch": 62
+      },
+      {
+       "id": 261,
+       "book": "ps",
+       "ch": 63
+      },
+      {
+       "id": 262,
+       "book": "ps",
+       "ch": 64
+      },
+      {
+       "id": 263,
+       "book": "ps",
+       "ch": 65
+      },
+      {
+       "id": 264,
+       "book": "ps",
+       "ch": 66
+      },
+      {
+       "id": 265,
+       "book": "ps",
+       "ch": 69
+      },
+      {
+       "id": 266,
+       "book": "ps",
+       "ch": 70
+      },
+      {
+       "id": 267,
+       "book": "ps",
+       "ch": 71
+      },
+      {
+       "id": 268,
+       "book": "ps",
+       "ch": 72
+      },
+      {
+       "id": 269,
+       "book": "ps",
+       "ch": 77
+      },
+      {
+       "id": 270,
+       "book": "ps",
+       "ch": 78
+      },
+      {
+       "id": 271,
+       "book": "ps",
+       "ch": 85
+      },
+      {
+       "id": 272,
+       "book": "ps",
+       "ch": 86
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "date_start": "2026-08-31",
+     "date_end": "2026-09-06",
+     "title_key": "plan.old-testament-cfm.unit.36.title",
+     "ref_range": [
+      {
+       "book": "ps",
+       "from_ch": 102,
+       "to_ch": 103
+      },
+      {
+       "book": "ps",
+       "from_ch": 110,
+       "to_ch": 110
+      },
+      {
+       "book": "ps",
+       "from_ch": 116,
+       "to_ch": 119
+      },
+      {
+       "book": "ps",
+       "from_ch": 127,
+       "to_ch": 128
+      },
+      {
+       "book": "ps",
+       "from_ch": 135,
+       "to_ch": 139
+      },
+      {
+       "book": "ps",
+       "from_ch": 146,
+       "to_ch": 150
+      }
+     ],
+     "nodes": [
+      {
+       "id": 273,
+       "book": "ps",
+       "ch": 102
+      },
+      {
+       "id": 274,
+       "book": "ps",
+       "ch": 103
+      },
+      {
+       "id": 275,
+       "book": "ps",
+       "ch": 110
+      },
+      {
+       "id": 276,
+       "book": "ps",
+       "ch": 116
+      },
+      {
+       "id": 277,
+       "book": "ps",
+       "ch": 117
+      },
+      {
+       "id": 278,
+       "book": "ps",
+       "ch": 118
+      },
+      {
+       "id": 279,
+       "book": "ps",
+       "ch": 119
+      },
+      {
+       "id": 280,
+       "book": "ps",
+       "ch": 127
+      },
+      {
+       "id": 281,
+       "book": "ps",
+       "ch": 128
+      },
+      {
+       "id": 282,
+       "book": "ps",
+       "ch": 135
+      },
+      {
+       "id": 283,
+       "book": "ps",
+       "ch": 136
+      },
+      {
+       "id": 284,
+       "book": "ps",
+       "ch": 137
+      },
+      {
+       "id": 285,
+       "book": "ps",
+       "ch": 138
+      },
+      {
+       "id": 286,
+       "book": "ps",
+       "ch": 139
+      },
+      {
+       "id": 287,
+       "book": "ps",
+       "ch": 146
+      },
+      {
+       "id": 288,
+       "book": "ps",
+       "ch": 147
+      },
+      {
+       "id": 289,
+       "book": "ps",
+       "ch": 148
+      },
+      {
+       "id": 290,
+       "book": "ps",
+       "ch": 149
+      },
+      {
+       "id": 291,
+       "book": "ps",
+       "ch": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "slug": "september",
+   "name_key": "plan.old-testament-cfm.section.september.name",
+   "subtitle_key": "plan.old-testament-cfm.section.september.subtitle",
+   "units": [
+    {
+     "id": 37,
+     "date_start": "2026-09-07",
+     "date_end": "2026-09-13",
+     "title_key": "plan.old-testament-cfm.unit.37.title",
+     "ref_range": [
+      {
+       "book": "prov",
+       "from_ch": 1,
+       "to_ch": 4
+      },
+      {
+       "book": "prov",
+       "from_ch": 15,
+       "to_ch": 16
+      },
+      {
+       "book": "prov",
+       "from_ch": 22,
+       "to_ch": 22
+      },
+      {
+       "book": "prov",
+       "from_ch": 31,
+       "to_ch": 31
+      },
+      {
+       "book": "eccl",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "eccl",
+       "from_ch": 11,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 292,
+       "book": "prov",
+       "ch": 1
+      },
+      {
+       "id": 293,
+       "book": "prov",
+       "ch": 2
+      },
+      {
+       "id": 294,
+       "book": "prov",
+       "ch": 3
+      },
+      {
+       "id": 295,
+       "book": "prov",
+       "ch": 4
+      },
+      {
+       "id": 296,
+       "book": "prov",
+       "ch": 15
+      },
+      {
+       "id": 297,
+       "book": "prov",
+       "ch": 16
+      },
+      {
+       "id": 298,
+       "book": "prov",
+       "ch": 22
+      },
+      {
+       "id": 299,
+       "book": "prov",
+       "ch": 31
+      },
+      {
+       "id": 300,
+       "book": "eccl",
+       "ch": 1
+      },
+      {
+       "id": 301,
+       "book": "eccl",
+       "ch": 2
+      },
+      {
+       "id": 302,
+       "book": "eccl",
+       "ch": 3
+      },
+      {
+       "id": 303,
+       "book": "eccl",
+       "ch": 11
+      },
+      {
+       "id": 304,
+       "book": "eccl",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "date_start": "2026-09-14",
+     "date_end": "2026-09-20",
+     "title_key": "plan.old-testament-cfm.unit.38.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 1,
+       "to_ch": 12
+      }
+     ],
+     "nodes": [
+      {
+       "id": 305,
+       "book": "isa",
+       "ch": 1
+      },
+      {
+       "id": 306,
+       "book": "isa",
+       "ch": 2
+      },
+      {
+       "id": 307,
+       "book": "isa",
+       "ch": 3
+      },
+      {
+       "id": 308,
+       "book": "isa",
+       "ch": 4
+      },
+      {
+       "id": 309,
+       "book": "isa",
+       "ch": 5
+      },
+      {
+       "id": 310,
+       "book": "isa",
+       "ch": 6
+      },
+      {
+       "id": 311,
+       "book": "isa",
+       "ch": 7
+      },
+      {
+       "id": 312,
+       "book": "isa",
+       "ch": 8
+      },
+      {
+       "id": 313,
+       "book": "isa",
+       "ch": 9
+      },
+      {
+       "id": 314,
+       "book": "isa",
+       "ch": 10
+      },
+      {
+       "id": 315,
+       "book": "isa",
+       "ch": 11
+      },
+      {
+       "id": 316,
+       "book": "isa",
+       "ch": 12
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "date_start": "2026-09-21",
+     "date_end": "2026-09-27",
+     "title_key": "plan.old-testament-cfm.unit.39.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 13,
+       "to_ch": 14
+      },
+      {
+       "book": "isa",
+       "from_ch": 22,
+       "to_ch": 22
+      },
+      {
+       "book": "isa",
+       "from_ch": 24,
+       "to_ch": 30
+      },
+      {
+       "book": "isa",
+       "from_ch": 35,
+       "to_ch": 35
+      }
+     ],
+     "nodes": [
+      {
+       "id": 317,
+       "book": "isa",
+       "ch": 13
+      },
+      {
+       "id": 318,
+       "book": "isa",
+       "ch": 14
+      },
+      {
+       "id": 319,
+       "book": "isa",
+       "ch": 22
+      },
+      {
+       "id": 320,
+       "book": "isa",
+       "ch": 24
+      },
+      {
+       "id": 321,
+       "book": "isa",
+       "ch": 25
+      },
+      {
+       "id": 322,
+       "book": "isa",
+       "ch": 26
+      },
+      {
+       "id": 323,
+       "book": "isa",
+       "ch": 27
+      },
+      {
+       "id": 324,
+       "book": "isa",
+       "ch": 28
+      },
+      {
+       "id": 325,
+       "book": "isa",
+       "ch": 29
+      },
+      {
+       "id": 326,
+       "book": "isa",
+       "ch": 30
+      },
+      {
+       "id": 327,
+       "book": "isa",
+       "ch": 35
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "date_start": "2026-09-28",
+     "date_end": "2026-10-04",
+     "title_key": "plan.old-testament-cfm.unit.40.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 40,
+       "to_ch": 49
+      }
+     ],
+     "nodes": [
+      {
+       "id": 328,
+       "book": "isa",
+       "ch": 40
+      },
+      {
+       "id": 329,
+       "book": "isa",
+       "ch": 41
+      },
+      {
+       "id": 330,
+       "book": "isa",
+       "ch": 42
+      },
+      {
+       "id": 331,
+       "book": "isa",
+       "ch": 43
+      },
+      {
+       "id": 332,
+       "book": "isa",
+       "ch": 44
+      },
+      {
+       "id": 333,
+       "book": "isa",
+       "ch": 45
+      },
+      {
+       "id": 334,
+       "book": "isa",
+       "ch": 46
+      },
+      {
+       "id": 335,
+       "book": "isa",
+       "ch": 47
+      },
+      {
+       "id": 336,
+       "book": "isa",
+       "ch": 48
+      },
+      {
+       "id": 337,
+       "book": "isa",
+       "ch": 49
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "slug": "october",
+   "name_key": "plan.old-testament-cfm.section.october.name",
+   "subtitle_key": "plan.old-testament-cfm.section.october.subtitle",
+   "units": [
+    {
+     "id": 41,
+     "date_start": "2026-10-05",
+     "date_end": "2026-10-11",
+     "title_key": "plan.old-testament-cfm.unit.41.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 50,
+       "to_ch": 57
+      }
+     ],
+     "nodes": [
+      {
+       "id": 338,
+       "book": "isa",
+       "ch": 50
+      },
+      {
+       "id": 339,
+       "book": "isa",
+       "ch": 51
+      },
+      {
+       "id": 340,
+       "book": "isa",
+       "ch": 52
+      },
+      {
+       "id": 341,
+       "book": "isa",
+       "ch": 53
+      },
+      {
+       "id": 342,
+       "book": "isa",
+       "ch": 54
+      },
+      {
+       "id": 343,
+       "book": "isa",
+       "ch": 55
+      },
+      {
+       "id": 344,
+       "book": "isa",
+       "ch": 56
+      },
+      {
+       "id": 345,
+       "book": "isa",
+       "ch": 57
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "date_start": "2026-10-12",
+     "date_end": "2026-10-18",
+     "title_key": "plan.old-testament-cfm.unit.42.title",
+     "ref_range": [
+      {
+       "book": "isa",
+       "from_ch": 58,
+       "to_ch": 66
+      }
+     ],
+     "nodes": [
+      {
+       "id": 346,
+       "book": "isa",
+       "ch": 58
+      },
+      {
+       "id": 347,
+       "book": "isa",
+       "ch": 59
+      },
+      {
+       "id": 348,
+       "book": "isa",
+       "ch": 60
+      },
+      {
+       "id": 349,
+       "book": "isa",
+       "ch": 61
+      },
+      {
+       "id": 350,
+       "book": "isa",
+       "ch": 62
+      },
+      {
+       "id": 351,
+       "book": "isa",
+       "ch": 63
+      },
+      {
+       "id": 352,
+       "book": "isa",
+       "ch": 64
+      },
+      {
+       "id": 353,
+       "book": "isa",
+       "ch": 65
+      },
+      {
+       "id": 354,
+       "book": "isa",
+       "ch": 66
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "date_start": "2026-10-19",
+     "date_end": "2026-10-25",
+     "title_key": "plan.old-testament-cfm.unit.43.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "jer",
+       "from_ch": 7,
+       "to_ch": 7
+      },
+      {
+       "book": "jer",
+       "from_ch": 16,
+       "to_ch": 18
+      },
+      {
+       "book": "jer",
+       "from_ch": 20,
+       "to_ch": 20
+      }
+     ],
+     "nodes": [
+      {
+       "id": 355,
+       "book": "jer",
+       "ch": 1
+      },
+      {
+       "id": 356,
+       "book": "jer",
+       "ch": 2
+      },
+      {
+       "id": 357,
+       "book": "jer",
+       "ch": 3
+      },
+      {
+       "id": 358,
+       "book": "jer",
+       "ch": 7
+      },
+      {
+       "id": 359,
+       "book": "jer",
+       "ch": 16
+      },
+      {
+       "id": 360,
+       "book": "jer",
+       "ch": 17
+      },
+      {
+       "id": 361,
+       "book": "jer",
+       "ch": 18
+      },
+      {
+       "id": 362,
+       "book": "jer",
+       "ch": 20
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "date_start": "2026-10-26",
+     "date_end": "2026-11-01",
+     "title_key": "plan.old-testament-cfm.unit.44.title",
+     "ref_range": [
+      {
+       "book": "jer",
+       "from_ch": 31,
+       "to_ch": 33
+      },
+      {
+       "book": "jer",
+       "from_ch": 36,
+       "to_ch": 38
+      },
+      {
+       "book": "lam",
+       "from_ch": 1,
+       "to_ch": 1
+      },
+      {
+       "book": "lam",
+       "from_ch": 3,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 363,
+       "book": "jer",
+       "ch": 31
+      },
+      {
+       "id": 364,
+       "book": "jer",
+       "ch": 32
+      },
+      {
+       "id": 365,
+       "book": "jer",
+       "ch": 33
+      },
+      {
+       "id": 366,
+       "book": "jer",
+       "ch": 36
+      },
+      {
+       "id": 367,
+       "book": "jer",
+       "ch": 37
+      },
+      {
+       "id": 368,
+       "book": "jer",
+       "ch": 38
+      },
+      {
+       "id": 369,
+       "book": "lam",
+       "ch": 1
+      },
+      {
+       "id": 370,
+       "book": "lam",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "slug": "november",
+   "name_key": "plan.old-testament-cfm.section.november.name",
+   "subtitle_key": "plan.old-testament-cfm.section.november.subtitle",
+   "units": [
+    {
+     "id": 45,
+     "date_start": "2026-11-02",
+     "date_end": "2026-11-08",
+     "title_key": "plan.old-testament-cfm.unit.45.title",
+     "ref_range": [
+      {
+       "book": "ezek",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "ezek",
+       "from_ch": 33,
+       "to_ch": 34
+      },
+      {
+       "book": "ezek",
+       "from_ch": 36,
+       "to_ch": 37
+      },
+      {
+       "book": "ezek",
+       "from_ch": 47,
+       "to_ch": 47
+      }
+     ],
+     "nodes": [
+      {
+       "id": 371,
+       "book": "ezek",
+       "ch": 1
+      },
+      {
+       "id": 372,
+       "book": "ezek",
+       "ch": 2
+      },
+      {
+       "id": 373,
+       "book": "ezek",
+       "ch": 3
+      },
+      {
+       "id": 374,
+       "book": "ezek",
+       "ch": 33
+      },
+      {
+       "id": 375,
+       "book": "ezek",
+       "ch": 34
+      },
+      {
+       "id": 376,
+       "book": "ezek",
+       "ch": 36
+      },
+      {
+       "id": 377,
+       "book": "ezek",
+       "ch": 37
+      },
+      {
+       "id": 378,
+       "book": "ezek",
+       "ch": 47
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "date_start": "2026-11-09",
+     "date_end": "2026-11-15",
+     "title_key": "plan.old-testament-cfm.unit.46.title",
+     "ref_range": [
+      {
+       "book": "dan",
+       "from_ch": 1,
+       "to_ch": 7
+      }
+     ],
+     "nodes": [
+      {
+       "id": 379,
+       "book": "dan",
+       "ch": 1
+      },
+      {
+       "id": 380,
+       "book": "dan",
+       "ch": 2
+      },
+      {
+       "id": 381,
+       "book": "dan",
+       "ch": 3
+      },
+      {
+       "id": 382,
+       "book": "dan",
+       "ch": 4
+      },
+      {
+       "id": 383,
+       "book": "dan",
+       "ch": 5
+      },
+      {
+       "id": 384,
+       "book": "dan",
+       "ch": 6
+      },
+      {
+       "id": 385,
+       "book": "dan",
+       "ch": 7
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "date_start": "2026-11-16",
+     "date_end": "2026-11-22",
+     "title_key": "plan.old-testament-cfm.unit.47.title",
+     "ref_range": [
+      {
+       "book": "hosea",
+       "from_ch": 1,
+       "to_ch": 6
+      },
+      {
+       "book": "hosea",
+       "from_ch": 10,
+       "to_ch": 14
+      },
+      {
+       "book": "joel",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 386,
+       "book": "hosea",
+       "ch": 1
+      },
+      {
+       "id": 387,
+       "book": "hosea",
+       "ch": 2
+      },
+      {
+       "id": 388,
+       "book": "hosea",
+       "ch": 3
+      },
+      {
+       "id": 389,
+       "book": "hosea",
+       "ch": 4
+      },
+      {
+       "id": 390,
+       "book": "hosea",
+       "ch": 5
+      },
+      {
+       "id": 391,
+       "book": "hosea",
+       "ch": 6
+      },
+      {
+       "id": 392,
+       "book": "hosea",
+       "ch": 10
+      },
+      {
+       "id": 393,
+       "book": "hosea",
+       "ch": 11
+      },
+      {
+       "id": 394,
+       "book": "hosea",
+       "ch": 12
+      },
+      {
+       "id": 395,
+       "book": "hosea",
+       "ch": 13
+      },
+      {
+       "id": 396,
+       "book": "hosea",
+       "ch": 14
+      },
+      {
+       "id": 397,
+       "book": "joel",
+       "ch": 1
+      },
+      {
+       "id": 398,
+       "book": "joel",
+       "ch": 2
+      },
+      {
+       "id": 399,
+       "book": "joel",
+       "ch": 3
+      }
+     ]
+    },
+    {
+     "id": 48,
+     "date_start": "2026-11-23",
+     "date_end": "2026-11-29",
+     "title_key": "plan.old-testament-cfm.unit.48.title",
+     "ref_range": [
+      {
+       "book": "amos",
+       "from_ch": 1,
+       "to_ch": 9
+      },
+      {
+       "book": "obad",
+       "from_ch": 1,
+       "to_ch": 1
+      },
+      {
+       "book": "jonah",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 400,
+       "book": "amos",
+       "ch": 1
+      },
+      {
+       "id": 401,
+       "book": "amos",
+       "ch": 2
+      },
+      {
+       "id": 402,
+       "book": "amos",
+       "ch": 3
+      },
+      {
+       "id": 403,
+       "book": "amos",
+       "ch": 4
+      },
+      {
+       "id": 404,
+       "book": "amos",
+       "ch": 5
+      },
+      {
+       "id": 405,
+       "book": "amos",
+       "ch": 6
+      },
+      {
+       "id": 406,
+       "book": "amos",
+       "ch": 7
+      },
+      {
+       "id": 407,
+       "book": "amos",
+       "ch": 8
+      },
+      {
+       "id": 408,
+       "book": "amos",
+       "ch": 9
+      },
+      {
+       "id": 409,
+       "book": "obad",
+       "ch": 1
+      },
+      {
+       "id": 410,
+       "book": "jonah",
+       "ch": 1
+      },
+      {
+       "id": 411,
+       "book": "jonah",
+       "ch": 2
+      },
+      {
+       "id": 412,
+       "book": "jonah",
+       "ch": 3
+      },
+      {
+       "id": 413,
+       "book": "jonah",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 49,
+     "date_start": "2026-11-30",
+     "date_end": "2026-12-06",
+     "title_key": "plan.old-testament-cfm.unit.49.title",
+     "ref_range": [
+      {
+       "book": "micah",
+       "from_ch": 1,
+       "to_ch": 7
+      },
+      {
+       "book": "nahum",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "hab",
+       "from_ch": 1,
+       "to_ch": 3
+      },
+      {
+       "book": "zeph",
+       "from_ch": 1,
+       "to_ch": 3
+      }
+     ],
+     "nodes": [
+      {
+       "id": 414,
+       "book": "micah",
+       "ch": 1
+      },
+      {
+       "id": 415,
+       "book": "micah",
+       "ch": 2
+      },
+      {
+       "id": 416,
+       "book": "micah",
+       "ch": 3
+      },
+      {
+       "id": 417,
+       "book": "micah",
+       "ch": 4
+      },
+      {
+       "id": 418,
+       "book": "micah",
+       "ch": 5
+      },
+      {
+       "id": 419,
+       "book": "micah",
+       "ch": 6
+      },
+      {
+       "id": 420,
+       "book": "micah",
+       "ch": 7
+      },
+      {
+       "id": 421,
+       "book": "nahum",
+       "ch": 1
+      },
+      {
+       "id": 422,
+       "book": "nahum",
+       "ch": 2
+      },
+      {
+       "id": 423,
+       "book": "nahum",
+       "ch": 3
+      },
+      {
+       "id": 424,
+       "book": "hab",
+       "ch": 1
+      },
+      {
+       "id": 425,
+       "book": "hab",
+       "ch": 2
+      },
+      {
+       "id": 426,
+       "book": "hab",
+       "ch": 3
+      },
+      {
+       "id": 427,
+       "book": "zeph",
+       "ch": 1
+      },
+      {
+       "id": 428,
+       "book": "zeph",
+       "ch": 2
+      },
+      {
+       "id": 429,
+       "book": "zeph",
+       "ch": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "slug": "december",
+   "name_key": "plan.old-testament-cfm.section.december.name",
+   "subtitle_key": "plan.old-testament-cfm.section.december.subtitle",
+   "units": [
+    {
+     "id": 50,
+     "date_start": "2026-12-07",
+     "date_end": "2026-12-13",
+     "title_key": "plan.old-testament-cfm.unit.50.title",
+     "ref_range": [
+      {
+       "book": "hag",
+       "from_ch": 1,
+       "to_ch": 2
+      },
+      {
+       "book": "zech",
+       "from_ch": 1,
+       "to_ch": 4
+      },
+      {
+       "book": "zech",
+       "from_ch": 7,
+       "to_ch": 14
+      }
+     ],
+     "nodes": [
+      {
+       "id": 430,
+       "book": "hag",
+       "ch": 1
+      },
+      {
+       "id": 431,
+       "book": "hag",
+       "ch": 2
+      },
+      {
+       "id": 432,
+       "book": "zech",
+       "ch": 1
+      },
+      {
+       "id": 433,
+       "book": "zech",
+       "ch": 2
+      },
+      {
+       "id": 434,
+       "book": "zech",
+       "ch": 3
+      },
+      {
+       "id": 435,
+       "book": "zech",
+       "ch": 4
+      },
+      {
+       "id": 436,
+       "book": "zech",
+       "ch": 7
+      },
+      {
+       "id": 437,
+       "book": "zech",
+       "ch": 8
+      },
+      {
+       "id": 438,
+       "book": "zech",
+       "ch": 9
+      },
+      {
+       "id": 439,
+       "book": "zech",
+       "ch": 10
+      },
+      {
+       "id": 440,
+       "book": "zech",
+       "ch": 11
+      },
+      {
+       "id": 441,
+       "book": "zech",
+       "ch": 12
+      },
+      {
+       "id": 442,
+       "book": "zech",
+       "ch": 13
+      },
+      {
+       "id": 443,
+       "book": "zech",
+       "ch": 14
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "date_start": "2026-12-14",
+     "date_end": "2026-12-20",
+     "title_key": "plan.old-testament-cfm.unit.51.title",
+     "ref_range": [
+      {
+       "book": "mal",
+       "from_ch": 1,
+       "to_ch": 4
+      }
+     ],
+     "nodes": [
+      {
+       "id": 444,
+       "book": "mal",
+       "ch": 1
+      },
+      {
+       "id": 445,
+       "book": "mal",
+       "ch": 2
+      },
+      {
+       "id": 446,
+       "book": "mal",
+       "ch": 3
+      },
+      {
+       "id": 447,
+       "book": "mal",
+       "ch": 4
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "date_start": "2026-12-21",
+     "date_end": "2026-12-27",
+     "title_key": "plan.old-testament-cfm.unit.52.title",
+     "ref_range": [],
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

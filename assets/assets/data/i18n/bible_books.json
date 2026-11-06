@@ -1,0 +1,1050 @@
+{
+ "schema_version": 1,
+ "scripture": "nt",
+ "supported_locales": [
+  "pt",
+  "en",
+  "es"
+ ],
+ "default_locale": "pt",
+ "locales": {
+  "pt": {
+   "matt": {
+    "name": "Mateus",
+    "short": "Mat"
+   },
+   "mark": {
+    "name": "Marcos",
+    "short": "Mar"
+   },
+   "luke": {
+    "name": "Lucas",
+    "short": "Luc"
+   },
+   "john": {
+    "name": "João",
+    "short": "Jo"
+   },
+   "acts": {
+    "name": "Atos",
+    "short": "At"
+   },
+   "rom": {
+    "name": "Romanos",
+    "short": "Rm"
+   },
+   "1-cor": {
+    "name": "1 Coríntios",
+    "short": "1 Co"
+   },
+   "2-cor": {
+    "name": "2 Coríntios",
+    "short": "2 Co"
+   },
+   "gal": {
+    "name": "Gálatas",
+    "short": "Gl"
+   },
+   "eph": {
+    "name": "Efésios",
+    "short": "Ef"
+   },
+   "philip": {
+    "name": "Filipenses",
+    "short": "Fp"
+   },
+   "col": {
+    "name": "Colossenses",
+    "short": "Cl"
+   },
+   "1-thes": {
+    "name": "1 Tessalonicenses",
+    "short": "1 Ts"
+   },
+   "2-thes": {
+    "name": "2 Tessalonicenses",
+    "short": "2 Ts"
+   },
+   "1-tim": {
+    "name": "1 Timóteo",
+    "short": "1 Tm"
+   },
+   "2-tim": {
+    "name": "2 Timóteo",
+    "short": "2 Tm"
+   },
+   "titus": {
+    "name": "Tito",
+    "short": "Tt"
+   },
+   "philem": {
+    "name": "Filemom",
+    "short": "Fm"
+   },
+   "heb": {
+    "name": "Hebreus",
+    "short": "Hb"
+   },
+   "james": {
+    "name": "Tiago",
+    "short": "Tg"
+   },
+   "1-pet": {
+    "name": "1 Pedro",
+    "short": "1 Pe"
+   },
+   "2-pet": {
+    "name": "2 Pedro",
+    "short": "2 Pe"
+   },
+   "1-jn": {
+    "name": "1 João",
+    "short": "1 Jo"
+   },
+   "2-jn": {
+    "name": "2 João",
+    "short": "2 Jo"
+   },
+   "3-jn": {
+    "name": "3 João",
+    "short": "3 Jo"
+   },
+   "jude": {
+    "name": "Judas",
+    "short": "Jd"
+   },
+   "rev": {
+    "name": "Apocalipse",
+    "short": "Ap"
+   },
+   "1-ne": {
+    "name": "1 Néfi",
+    "short": "1 Né"
+   },
+   "2-ne": {
+    "name": "2 Néfi",
+    "short": "2 Né"
+   },
+   "jacob": {
+    "name": "Jacó",
+    "short": "Jac"
+   },
+   "enos": {
+    "name": "Enos",
+    "short": "Eno"
+   },
+   "jarom": {
+    "name": "Jarom",
+    "short": "Jar"
+   },
+   "omni": {
+    "name": "Ômni",
+    "short": "Ômn"
+   },
+   "w-of-m": {
+    "name": "Palavras de Mórmon",
+    "short": "Pam"
+   },
+   "mosiah": {
+    "name": "Mosias",
+    "short": "Mos"
+   },
+   "alma": {
+    "name": "Alma",
+    "short": "Alm"
+   },
+   "hel": {
+    "name": "Helamã",
+    "short": "Hel"
+   },
+   "3-ne": {
+    "name": "3 Néfi",
+    "short": "3 Né"
+   },
+   "4-ne": {
+    "name": "4 Néfi",
+    "short": "4 Né"
+   },
+   "morm": {
+    "name": "Mórmon",
+    "short": "Mórmon"
+   },
+   "ether": {
+    "name": "Éter",
+    "short": "Éte"
+   },
+   "moro": {
+    "name": "Morôni",
+    "short": "Mni"
+   },
+   "gen": {
+    "name": "Gênesis",
+    "short": "Gên"
+   },
+   "ex": {
+    "name": "Êxodo",
+    "short": "Êx"
+   },
+   "lev": {
+    "name": "Levítico",
+    "short": "Lev"
+   },
+   "num": {
+    "name": "Números",
+    "short": "Núm"
+   },
+   "deut": {
+    "name": "Deuteronômio",
+    "short": "Deut"
+   },
+   "josh": {
+    "name": "Josué",
+    "short": "Jos"
+   },
+   "judg": {
+    "name": "Juízes",
+    "short": "Juí"
+   },
+   "ruth": {
+    "name": "Rute",
+    "short": "Rute"
+   },
+   "1-sam": {
+    "name": "1 Samuel",
+    "short": "1 Sam"
+   },
+   "2-sam": {
+    "name": "2 Samuel",
+    "short": "2 Sam"
+   },
+   "1-kgs": {
+    "name": "1 Reis",
+    "short": "1 Rs"
+   },
+   "2-kgs": {
+    "name": "2 Reis",
+    "short": "2 Rs"
+   },
+   "1-chr": {
+    "name": "1 Crônicas",
+    "short": "1 Crô"
+   },
+   "2-chr": {
+    "name": "2 Crônicas",
+    "short": "2 Crô"
+   },
+   "ezra": {
+    "name": "Esdras",
+    "short": "Esd"
+   },
+   "neh": {
+    "name": "Neemias",
+    "short": "Ne"
+   },
+   "esth": {
+    "name": "Ester",
+    "short": "Et"
+   },
+   "job": {
+    "name": "Jó",
+    "short": "Jó"
+   },
+   "ps": {
+    "name": "Salmos",
+    "short": "Sl"
+   },
+   "prov": {
+    "name": "Provérbios",
+    "short": "Pv"
+   },
+   "eccl": {
+    "name": "Eclesiastes",
+    "short": "Ec"
+   },
+   "song": {
+    "name": "Cantares de Salomão",
+    "short": "Ct"
+   },
+   "isa": {
+    "name": "Isaías",
+    "short": "Is"
+   },
+   "jer": {
+    "name": "Jeremias",
+    "short": "Jr"
+   },
+   "lam": {
+    "name": "Lamentações",
+    "short": "Lm"
+   },
+   "ezek": {
+    "name": "Ezequiel",
+    "short": "Ez"
+   },
+   "dan": {
+    "name": "Daniel",
+    "short": "Dn"
+   },
+   "hosea": {
+    "name": "Oseias",
+    "short": "Os"
+   },
+   "joel": {
+    "name": "Joel",
+    "short": "Jl"
+   },
+   "amos": {
+    "name": "Amós",
+    "short": "Am"
+   },
+   "obad": {
+    "name": "Obadias",
+    "short": "Ob"
+   },
+   "jonah": {
+    "name": "Jonas",
+    "short": "Jn"
+   },
+   "micah": {
+    "name": "Miqueias",
+    "short": "Mq"
+   },
+   "nahum": {
+    "name": "Naum",
+    "short": "Na"
+   },
+   "hab": {
+    "name": "Habacuque",
+    "short": "Hc"
+   },
+   "zeph": {
+    "name": "Sofonias",
+    "short": "Sf"
+   },
+   "hag": {
+    "name": "Ageu",
+    "short": "Ag"
+   },
+   "zech": {
+    "name": "Zacarias",
+    "short": "Zc"
+   },
+   "mal": {
+    "name": "Malaquias",
+    "short": "Ml"
+   },
+   "moses": {
+    "name": "Moisés",
+    "short": "Moisés"
+   },
+   "abr": {
+    "name": "Abraão",
+    "short": "Abr"
+   },
+   "js-m": {
+    "name": "Joseph Smith—Mateus",
+    "short": "JS—Mt"
+   },
+   "js-h": {
+    "name": "Joseph Smith—História",
+    "short": "JS—Hist"
+   },
+   "a-of-f": {
+    "name": "Regras de Fé",
+    "short": "RdF"
+   }
+  },
+  "en": {
+   "matt": {
+    "name": "Matthew",
+    "short": "Matt"
+   },
+   "mark": {
+    "name": "Mark",
+    "short": "Mark"
+   },
+   "luke": {
+    "name": "Luke",
+    "short": "Luke"
+   },
+   "john": {
+    "name": "John",
+    "short": "John"
+   },
+   "acts": {
+    "name": "Acts",
+    "short": "Acts"
+   },
+   "rom": {
+    "name": "Romans",
+    "short": "Rom"
+   },
+   "1-cor": {
+    "name": "1 Corinthians",
+    "short": "1 Cor"
+   },
+   "2-cor": {
+    "name": "2 Corinthians",
+    "short": "2 Cor"
+   },
+   "gal": {
+    "name": "Galatians",
+    "short": "Gal"
+   },
+   "eph": {
+    "name": "Ephesians",
+    "short": "Eph"
+   },
+   "philip": {
+    "name": "Philippians",
+    "short": "Phil"
+   },
+   "col": {
+    "name": "Colossians",
+    "short": "Col"
+   },
+   "1-thes": {
+    "name": "1 Thessalonians",
+    "short": "1 Thes"
+   },
+   "2-thes": {
+    "name": "2 Thessalonians",
+    "short": "2 Thes"
+   },
+   "1-tim": {
+    "name": "1 Timothy",
+    "short": "1 Tim"
+   },
+   "2-tim": {
+    "name": "2 Timothy",
+    "short": "2 Tim"
+   },
+   "titus": {
+    "name": "Titus",
+    "short": "Titus"
+   },
+   "philem": {
+    "name": "Philemon",
+    "short": "Philem"
+   },
+   "heb": {
+    "name": "Hebrews",
+    "short": "Heb"
+   },
+   "james": {
+    "name": "James",
+    "short": "James"
+   },
+   "1-pet": {
+    "name": "1 Peter",
+    "short": "1 Pet"
+   },
+   "2-pet": {
+    "name": "2 Peter",
+    "short": "2 Pet"
+   },
+   "1-jn": {
+    "name": "1 John",
+    "short": "1 Jn"
+   },
+   "2-jn": {
+    "name": "2 John",
+    "short": "2 Jn"
+   },
+   "3-jn": {
+    "name": "3 John",
+    "short": "3 Jn"
+   },
+   "jude": {
+    "name": "Jude",
+    "short": "Jude"
+   },
+   "rev": {
+    "name": "Revelation",
+    "short": "Rev"
+   },
+   "1-ne": {
+    "name": "1 Nephi",
+    "short": "1 Ne"
+   },
+   "2-ne": {
+    "name": "2 Nephi",
+    "short": "2 Ne"
+   },
+   "jacob": {
+    "name": "Jacob",
+    "short": "Jacob"
+   },
+   "enos": {
+    "name": "Enos",
+    "short": "Enos"
+   },
+   "jarom": {
+    "name": "Jarom",
+    "short": "Jarom"
+   },
+   "omni": {
+    "name": "Omni",
+    "short": "Omni"
+   },
+   "w-of-m": {
+    "name": "Words of Mormon",
+    "short": "W of M"
+   },
+   "mosiah": {
+    "name": "Mosiah",
+    "short": "Mosiah"
+   },
+   "alma": {
+    "name": "Alma",
+    "short": "Alma"
+   },
+   "hel": {
+    "name": "Helaman",
+    "short": "Hel"
+   },
+   "3-ne": {
+    "name": "3 Nephi",
+    "short": "3 Ne"
+   },
+   "4-ne": {
+    "name": "4 Nephi",
+    "short": "4 Ne"
+   },
+   "morm": {
+    "name": "Mormon",
+    "short": "Morm"
+   },
+   "ether": {
+    "name": "Ether",
+    "short": "Ether"
+   },
+   "moro": {
+    "name": "Moroni",
+    "short": "Moro"
+   },
+   "gen": {
+    "name": "Genesis",
+    "short": "Gen"
+   },
+   "ex": {
+    "name": "Exodus",
+    "short": "Ex"
+   },
+   "lev": {
+    "name": "Leviticus",
+    "short": "Lev"
+   },
+   "num": {
+    "name": "Numbers",
+    "short": "Num"
+   },
+   "deut": {
+    "name": "Deuteronomy",
+    "short": "Deut"
+   },
+   "josh": {
+    "name": "Joshua",
+    "short": "Josh"
+   },
+   "judg": {
+    "name": "Judges",
+    "short": "Judg"
+   },
+   "ruth": {
+    "name": "Ruth",
+    "short": "Ruth"
+   },
+   "1-sam": {
+    "name": "1 Samuel",
+    "short": "1 Sam"
+   },
+   "2-sam": {
+    "name": "2 Samuel",
+    "short": "2 Sam"
+   },
+   "1-kgs": {
+    "name": "1 Kings",
+    "short": "1 Kgs"
+   },
+   "2-kgs": {
+    "name": "2 Kings",
+    "short": "2 Kgs"
+   },
+   "1-chr": {
+    "name": "1 Chronicles",
+    "short": "1 Chr"
+   },
+   "2-chr": {
+    "name": "2 Chronicles",
+    "short": "2 Chr"
+   },
+   "ezra": {
+    "name": "Ezra",
+    "short": "Ezra"
+   },
+   "neh": {
+    "name": "Nehemiah",
+    "short": "Neh"
+   },
+   "esth": {
+    "name": "Esther",
+    "short": "Esth"
+   },
+   "job": {
+    "name": "Job",
+    "short": "Job"
+   },
+   "ps": {
+    "name": "Psalms",
+    "short": "Ps"
+   },
+   "prov": {
+    "name": "Proverbs",
+    "short": "Prov"
+   },
+   "eccl": {
+    "name": "Ecclesiastes",
+    "short": "Eccl"
+   },
+   "song": {
+    "name": "Song of Solomon",
+    "short": "Song"
+   },
+   "isa": {
+    "name": "Isaiah",
+    "short": "Isa"
+   },
+   "jer": {
+    "name": "Jeremiah",
+    "short": "Jer"
+   },
+   "lam": {
+    "name": "Lamentations",
+    "short": "Lam"
+   },
+   "ezek": {
+    "name": "Ezekiel",
+    "short": "Ezek"
+   },
+   "dan": {
+    "name": "Daniel",
+    "short": "Dan"
+   },
+   "hosea": {
+    "name": "Hosea",
+    "short": "Hosea"
+   },
+   "joel": {
+    "name": "Joel",
+    "short": "Joel"
+   },
+   "amos": {
+    "name": "Amos",
+    "short": "Amos"
+   },
+   "obad": {
+    "name": "Obadiah",
+    "short": "Obad"
+   },
+   "jonah": {
+    "name": "Jonah",
+    "short": "Jonah"
+   },
+   "micah": {
+    "name": "Micah",
+    "short": "Micah"
+   },
+   "nahum": {
+    "name": "Nahum",
+    "short": "Nahum"
+   },
+   "hab": {
+    "name": "Habakkuk",
+    "short": "Hab"
+   },
+   "zeph": {
+    "name": "Zephaniah",
+    "short": "Zeph"
+   },
+   "hag": {
+    "name": "Haggai",
+    "short": "Hag"
+   },
+   "zech": {
+    "name": "Zechariah",
+    "short": "Zech"
+   },
+   "mal": {
+    "name": "Malachi",
+    "short": "Mal"
+   },
+   "moses": {
+    "name": "Moses",
+    "short": "Moses"
+   },
+   "abr": {
+    "name": "Abraham",
+    "short": "Abr"
+   },
+   "js-m": {
+    "name": "Joseph Smith—Matthew",
+    "short": "JS—M"
+   },
+   "js-h": {
+    "name": "Joseph Smith—History",
+    "short": "JS—H"
+   },
+   "a-of-f": {
+    "name": "Articles of Faith",
+    "short": "AoF"
+   }
+  },
+  "es": {
+   "matt": {
+    "name": "Mateo",
+    "short": "Mt"
+   },
+   "mark": {
+    "name": "Marcos",
+    "short": "Mc"
+   },
+   "luke": {
+    "name": "Lucas",
+    "short": "Lc"
+   },
+   "john": {
+    "name": "Juan",
+    "short": "Jn"
+   },
+   "acts": {
+    "name": "Hechos",
+    "short": "Hch"
+   },
+   "rom": {
+    "name": "Romanos",
+    "short": "Rom"
+   },
+   "1-cor": {
+    "name": "1 Corintios",
+    "short": "1 Co"
+   },
+   "2-cor": {
+    "name": "2 Corintios",
+    "short": "2 Co"
+   },
+   "gal": {
+    "name": "Gálatas",
+    "short": "Gál"
+   },
+   "eph": {
+    "name": "Efesios",
+    "short": "Ef"
+   },
+   "philip": {
+    "name": "Filipenses",
+    "short": "Fil"
+   },
+   "col": {
+    "name": "Colosenses",
+    "short": "Col"
+   },
+   "1-thes": {
+    "name": "1 Tesalonicenses",
+    "short": "1 Tes"
+   },
+   "2-thes": {
+    "name": "2 Tesalonicenses",
+    "short": "2 Tes"
+   },
+   "1-tim": {
+    "name": "1 Timoteo",
+    "short": "1 Tim"
+   },
+   "2-tim": {
+    "name": "2 Timoteo",
+    "short": "2 Tim"
+   },
+   "titus": {
+    "name": "Tito",
+    "short": "Tit"
+   },
+   "philem": {
+    "name": "Filemón",
+    "short": "Flm"
+   },
+   "heb": {
+    "name": "Hebreos",
+    "short": "Heb"
+   },
+   "james": {
+    "name": "Santiago",
+    "short": "Stgo"
+   },
+   "1-pet": {
+    "name": "1 Pedro",
+    "short": "1 Pe"
+   },
+   "2-pet": {
+    "name": "2 Pedro",
+    "short": "2 Pe"
+   },
+   "1-jn": {
+    "name": "1 Juan",
+    "short": "1 Jn"
+   },
+   "2-jn": {
+    "name": "2 Juan",
+    "short": "2 Jn"
+   },
+   "3-jn": {
+    "name": "3 Juan",
+    "short": "3 Jn"
+   },
+   "jude": {
+    "name": "Judas",
+    "short": "Jds"
+   },
+   "rev": {
+    "name": "Apocalipsis",
+    "short": "Ap"
+   },
+   "1-ne": {
+    "name": "1 Nefi",
+    "short": "1 Ne"
+   },
+   "2-ne": {
+    "name": "2 Nefi",
+    "short": "2 Ne"
+   },
+   "jacob": {
+    "name": "Jacob",
+    "short": "Jacob"
+   },
+   "enos": {
+    "name": "Enós",
+    "short": "Enós"
+   },
+   "jarom": {
+    "name": "Jarom",
+    "short": "Jarom"
+   },
+   "omni": {
+    "name": "Omni",
+    "short": "Omni"
+   },
+   "w-of-m": {
+    "name": "Palabras de Mormón",
+    "short": "PM"
+   },
+   "mosiah": {
+    "name": "Mosíah",
+    "short": "Mosíah"
+   },
+   "alma": {
+    "name": "Alma",
+    "short": "Alma"
+   },
+   "hel": {
+    "name": "Helamán",
+    "short": "Helamán"
+   },
+   "3-ne": {
+    "name": "3 Nefi",
+    "short": "3 Ne"
+   },
+   "4-ne": {
+    "name": "4 Nefi",
+    "short": "4 Ne"
+   },
+   "morm": {
+    "name": "Mormón",
+    "short": "Mormón"
+   },
+   "ether": {
+    "name": "Éter",
+    "short": "Éter"
+   },
+   "moro": {
+    "name": "Moroni",
+    "short": "Moroni"
+   },
+   "gen": {
+    "name": "Génesis",
+    "short": "Gén"
+   },
+   "ex": {
+    "name": "Éxodo",
+    "short": "Éx"
+   },
+   "lev": {
+    "name": "Levítico",
+    "short": "Lev"
+   },
+   "num": {
+    "name": "Números",
+    "short": "Núm"
+   },
+   "deut": {
+    "name": "Deuteronomio",
+    "short": "Deut"
+   },
+   "josh": {
+    "name": "Josué",
+    "short": "Jos"
+   },
+   "judg": {
+    "name": "Jueces",
+    "short": "Jue"
+   },
+   "ruth": {
+    "name": "Rut",
+    "short": "Rut"
+   },
+   "1-sam": {
+    "name": "1 Samuel",
+    "short": "1 Sam"
+   },
+   "2-sam": {
+    "name": "2 Samuel",
+    "short": "2 Sam"
+   },
+   "1-kgs": {
+    "name": "1 Reyes",
+    "short": "1 Re"
+   },
+   "2-kgs": {
+    "name": "2 Reyes",
+    "short": "2 Re"
+   },
+   "1-chr": {
+    "name": "1 Crónicas",
+    "short": "1 Cró"
+   },
+   "2-chr": {
+    "name": "2 Crónicas",
+    "short": "2 Cró"
+   },
+   "ezra": {
+    "name": "Esdras",
+    "short": "Esd"
+   },
+   "neh": {
+    "name": "Nehemías",
+    "short": "Neh"
+   },
+   "esth": {
+    "name": "Ester",
+    "short": "Est"
+   },
+   "job": {
+    "name": "Job",
+    "short": "Job"
+   },
+   "ps": {
+    "name": "Salmos",
+    "short": "Sal"
+   },
+   "prov": {
+    "name": "Proverbios",
+    "short": "Prov"
+   },
+   "eccl": {
+    "name": "Eclesiastés",
+    "short": "Ecl"
+   },
+   "song": {
+    "name": "Cantares",
+    "short": "Cnt"
+   },
+   "isa": {
+    "name": "Isaías",
+    "short": "Isa"
+   },
+   "jer": {
+    "name": "Jeremías",
+    "short": "Jer"
+   },
+   "lam": {
+    "name": "Lamentaciones",
+    "short": "Lam"
+   },
+   "ezek": {
+    "name": "Ezequiel",
+    "short": "Ezeq"
+   },
+   "dan": {
+    "name": "Daniel",
+    "short": "Dan"
+   },
+   "hosea": {
+    "name": "Oseas",
+    "short": "Os"
+   },
+   "joel": {
+    "name": "Joel",
+    "short": "Joel"
+   },
+   "amos": {
+    "name": "Amós",
+    "short": "Amós"
+   },
+   "obad": {
+    "name": "Abdías",
+    "short": "Abd"
+   },
+   "jonah": {
+    "name": "Jonás",
+    "short": "Jon"
+   },
+   "micah": {
+    "name": "Miqueas",
+    "short": "Miq"
+   },
+   "nahum": {
+    "name": "Nahúm",
+    "short": "Nah"
+   },
+   "hab": {
+    "name": "Habacuc",
+    "short": "Hab"
+   },
+   "zeph": {
+    "name": "Sofonías",
+    "short": "Sof"
+   },
+   "hag": {
+    "name": "Hageo",
+    "short": "Hageo"
+   },
+   "zech": {
+    "name": "Zacarías",
+    "short": "Zac"
+   },
+   "mal": {
+    "name": "Malaquías",
+    "short": "Mal"
+   },
+   "moses": {
+    "name": "Moisés",
+    "short": "Moisés"
+   },
+   "abr": {
+    "name": "Abraham",
+    "short": "Abr"
+   },
+   "js-m": {
+    "name": "José Smith—Mateo",
+    "short": "JS—Mt"
+   },
+   "js-h": {
+    "name": "José Smith—Historia",
+    "short": "JS—Hist"
+   },
+   "a-of-f": {
+    "name": "Artículos de Fe",
+    "short": "AF"
+   }
+  }
+ }
+}
